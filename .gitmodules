@@ -1,3 +1,6 @@
 [submodule "XTM.WBSps.ca"]
 	path = XTM.WBSps.ca
 	url = https://github.com/LikeDotAudio/XTM.WBSps.ca.git
+[submodule "2026/Premo/preMO remote-20261119T130500Z-1-001"]
+	path = 2026/Premo/preMO remote-20261119T130500Z-1-001
+	url = https://github.com/LikeDotAudio/Premote.WBSps.ca.git
