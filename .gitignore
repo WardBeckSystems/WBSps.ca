@@ -54,3 +54,8 @@ docker/ftp-passwd/
 *.[mM]4[aA]
 *.[aA][aA][cC]
 *.[wW][mM][aA]
+
+# Scans: any scans folder, at any depth, any letter case
+[sS][cC][aA][nN][sS]/
+[sS][cC][aA][nN]/
+_scans/
