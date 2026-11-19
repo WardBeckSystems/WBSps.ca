@@ -1,0 +1,26 @@
+{
+  "filename": "Wilma.png",
+  "relative_path": "WBSps.env/WBS Photos-1-001/Wilma.png",
+  "extension": ".png",
+  "size_bytes": 1567521,
+  "modified_time": "Sat Oct 17 23:34:21 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wilma"
+  ],
+  "width": 5017,
+  "height": 3189,
+  "format": "PNG",
+  "mode": "RGB",
+  "exif": {},
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/2012 - Wilma.png",
+  "note": "Wilma.png.md",
+  "title_block": {
+    "date": "2012-01-13",
+    "year": 2012
+  }
+}

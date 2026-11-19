@@ -1,0 +1,32 @@
+{
+  "filename": "B7800-04-001.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/B7800-04-001.jpg",
+  "width": 3500,
+  "height": 4952,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2705,
+    1528,
+    2899,
+    1999
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:57",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/COMMUNICATION/M7800/19xx - 7800-04-001 - M7800A COMMUNICATION TERMINAL FRONT & REAR LAYOUT - ISS 3.jpg",
+  "note": "B7800-04-001.jpg.md",
+  "title_block": {
+    "drawing_number": "B 7800-04-001",
+    "size": "B",
+    "title": "M7800/M7800A / COMMUNICATION TERMINAL / FRONT & REAR LAYOUT",
+    "issue": "3",
+    "models": [
+      "M7800",
+      "M7800A"
+    ]
+  }
+}

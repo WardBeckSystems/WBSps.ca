@@ -1,0 +1,37 @@
+{
+  "filename": "WBSps.ca 20210320 - Scans (77).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (77).jpg",
+  "width": 4757,
+  "height": 3363,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2795,
+    2400,
+    4666,
+    3206
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1985 - 86-03-005 - MF86 Mounting Frame Rear Panel Support Bar - DRN MRW - ENG MRW - ISS 1.jpg",
+  "note": "WBSps.ca 20210320 - Scans (77).jpg.md",
+  "title_block": {
+    "drawing_number": "B 86-03-005",
+    "size": "B",
+    "title": "MF86 Mounting Frame / Rear Panel Support Bar",
+    "date": "11/85",
+    "year": 1985,
+    "month": 11,
+    "drawn": "MRW 11/85",
+    "engineer": "MRW",
+    "signature": "DISC NO: M8000-2 CODE: MM86-005",
+    "issue": "1",
+    "models": [
+      "MF86"
+    ]
+  }
+}

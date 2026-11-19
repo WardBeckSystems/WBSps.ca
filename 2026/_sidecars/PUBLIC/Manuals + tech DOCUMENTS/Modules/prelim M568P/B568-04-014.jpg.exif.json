@@ -1,0 +1,27 @@
+{
+  "filename": "B568-04-014.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/Manuals + tech DOCUMENTS/Modules/prelim M568P/B568-04-014.jpg",
+  "extension": ".jpg",
+  "size_bytes": 6289763,
+  "modified_time": "Sun Sep  6 22:11:55 2026",
+  "word_tokens": [
+    "b568",
+    "04",
+    "014"
+  ],
+  "width": 4483,
+  "height": 2947,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "ResolutionUnit": "2",
+    "ExifOffset": "90",
+    "Orientation": "1",
+    "XResolution": "72.0",
+    "YResolution": "72.0",
+    "ExifImageWidth": "4483",
+    "ExifImageHeight": "2947"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

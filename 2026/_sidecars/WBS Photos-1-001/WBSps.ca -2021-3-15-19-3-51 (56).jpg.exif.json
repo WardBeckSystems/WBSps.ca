@@ -1,0 +1,52 @@
+{
+  "filename": "WBSps.ca -2021-3-15-19-3-51 (56).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca -2021-3-15-19-3-51 (56).jpg",
+  "extension": ".jpg",
+  "size_bytes": 1501724,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "2021",
+    "15",
+    "19",
+    "51",
+    "(56)"
+  ],
+  "width": 4963,
+  "height": 3223,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4963",
+    "ExifImageHeight": "3223",
+    "ImageUniqueID": "1be2295ba886b5490000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1988 - 8212-02-002 - WBS D8212VU S STEREO METERING AND TEST PANEL - DRN AMK - ISS 1.jpg",
+  "note": "WBSps.ca -2021-3-15-19-3-51 (56).jpg.md",
+  "title_block": {
+    "drawing_number": "D 8212-02-002",
+    "size": "D",
+    "title": "WBS D8212VU/S / STEREO METERING AND / TEST PANEL",
+    "date": "01/88",
+    "year": 1988,
+    "month": 1,
+    "drawn": "AMK 01/88",
+    "signature": "DISC NO: 193; CODE: D8212S02",
+    "issue": "1",
+    "models": [
+      "D8212VU/S"
+    ]
+  }
+}

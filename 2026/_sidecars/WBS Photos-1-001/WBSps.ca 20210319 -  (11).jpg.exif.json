@@ -1,0 +1,43 @@
+{
+  "filename": "WBSps.ca 20210319 -  (11).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca 20210319 -  (11).jpg",
+  "extension": ".jpg",
+  "size_bytes": 380432,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "20210319",
+    "(11)"
+  ],
+  "width": 5103,
+  "height": 3134,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "5103",
+    "ExifImageHeight": "3134",
+    "ImageUniqueID": "35cca53e41177c070000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M900/19xx - 900-03-211 - EQUALIZER MK SERIES CONSOLE SUPPORT TRIM - DRN DRG - ISS 1.jpg",
+  "note": "WBSps.ca 20210319 -  (11).jpg.md",
+  "title_block": {
+    "drawing_number": "D 900-03-211",
+    "size": "D",
+    "title": "EQUALIZER MK SERIES / CONSOLE SUPPORT/TRIM",
+    "drawn": "DRG",
+    "signature": "DISC NO: SYS01, CODE: 900211, SCALE NTS",
+    "issue": "1"
+  }
+}

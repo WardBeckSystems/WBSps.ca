@@ -1,0 +1,37 @@
+{
+  "filename": "2022-2-8-12-2-50.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2022-2-8-12-2-50.jpg",
+  "width": 3324,
+  "height": 10128,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    7207,
+    2545,
+    10128,
+    3296
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:55",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/ROUTING/M457/1975 - 457-02-003 - M457A SCHEMATIC MODIFIED FOR I C INPUT (FOR PROJ. No 74030 - STUDIO 4 - DRN DM.jpg",
+  "note": "2022-2-8-12-2-50.jpg.md",
+  "title_block": {
+    "drawing_number": "B 457-02-003",
+    "size": "B",
+    "title": "M457A SCHEMATIC / MODIFIED FOR I/C INPUT / (FOR PROJ. No 74030 - STUDIO 4...",
+    "date": "OCT 75",
+    "year": 1975,
+    "month": 10,
+    "drawn": "DM",
+    "signature": "right side cut off; issue not visible",
+    "job": "457",
+    "customer": "74030",
+    "models": [
+      "M457A"
+    ]
+  }
+}

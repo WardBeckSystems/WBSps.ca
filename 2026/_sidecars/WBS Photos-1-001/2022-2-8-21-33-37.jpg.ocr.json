@@ -1,0 +1,26 @@
+{
+  "filename": "2022-2-8-21-33-37.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2022-2-8-21-33-37.jpg",
+  "width": 3312,
+  "height": 6880,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": null,
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:55",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/19xx - 02-002 - OTE GAIN AMPLIFIER TYPE M600-R - ISS 4 (2).jpg",
+  "note": "2022-2-8-21-33-37.jpg.md",
+  "title_block": {
+    "drawing_number": "-02-002",
+    "title": "...OTE GAIN AMPLIFIER / TYPE M600-R",
+    "signature": "left part of title block cut off",
+    "issue": "4",
+    "models": [
+      "M600-R"
+    ]
+  }
+}

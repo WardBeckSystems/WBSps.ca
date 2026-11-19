@@ -1,0 +1,36 @@
+{
+  "filename": "124-09-001.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/124-09-001.jpg",
+  "width": 4844,
+  "height": 3198,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "JRN C. 5,0CONNELL FINISH WARD BECK SYSTES @Td | AtE Aug 68 CONNECTOR | MATERIAL Mi24 | HKD | CALE] WIRING | OLS FRACT 1/64 DEC To PLACES GIVEN ANGLES B 124 09 _0oi ISS | *LD MIN BEND RAD UNLESS SPECIFIED",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2151,
+    2588,
+    4844,
+    3197
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:53",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/AMPLIFIERS/M124/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL - ISS 1.jpg",
+  "note": "124-09-001.jpg.md",
+  "title_block": {
+    "drawing_number": "B 124-09-001",
+    "size": "B",
+    "title": "M124 CONNECTOR WIRING",
+    "date": "AUG-68",
+    "year": 1968,
+    "month": 8,
+    "drawn": "C.S. O'CONNELL",
+    "checked": "RBJ",
+    "issue": "1",
+    "models": [
+      "M124"
+    ]
+  }
+}

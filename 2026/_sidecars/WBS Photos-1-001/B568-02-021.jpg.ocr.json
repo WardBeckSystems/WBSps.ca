@@ -1,0 +1,31 @@
+{
+  "filename": "B568-02-021.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/B568-02-021.jpg",
+  "width": 3452,
+  "height": 4916,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1528,
+    2438,
+    3117,
+    3094
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:57",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/ROUTING/M568W/19xx - 568-02-021 - HEADPHONE AMPLIFIER MODULE SCHEMATIC.jpg",
+  "note": "B568-02-021.jpg.md",
+  "title_block": {
+    "drawing_number": "B 568-02-021",
+    "size": "B",
+    "title": "M568W / HEADPHONE AMPLIFIER MODULE / SCHEMATIC",
+    "signature": "issue number cut off at edge",
+    "models": [
+      "M568W"
+    ]
+  }
+}

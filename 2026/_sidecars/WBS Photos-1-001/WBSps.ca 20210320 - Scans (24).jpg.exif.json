@@ -1,0 +1,48 @@
+{
+  "filename": "WBSps.ca 20210320 - Scans (24).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (24).jpg",
+  "extension": ".jpg",
+  "size_bytes": 2010754,
+  "modified_time": "Sat Oct 17 23:34:21 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "20210320",
+    "scans",
+    "(24)"
+  ],
+  "width": 4757,
+  "height": 3363,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4757",
+    "ExifImageHeight": "3363",
+    "ImageUniqueID": "6990a2864957c6750000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/COMMUNICATION/M7000/1980 - 7000-03-008 - 7000 SERIES INTERCOM DESK PANELS MOUNTING DETAIL - DRN P. Mahoney - ENG MRW - ISS 1.jpg",
+  "note": "WBSps.ca 20210320 - Scans (24).jpg.md",
+  "title_block": {
+    "drawing_number": "B 7000-03-008",
+    "size": "B",
+    "title": "7000 SERIES INTERCOM / DESK PANELS / MOUNTING DETAIL",
+    "date": "4/80",
+    "year": 1980,
+    "month": 4,
+    "drawn": "P. Mahoney",
+    "checked": "(signed)",
+    "engineer": "MRW 4/80",
+    "issue": "1"
+  }
+}

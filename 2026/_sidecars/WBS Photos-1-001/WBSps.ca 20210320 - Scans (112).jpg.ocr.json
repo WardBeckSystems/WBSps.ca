@@ -1,0 +1,38 @@
+{
+  "filename": "WBSps.ca 20210320 - Scans (112).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (112).jpg",
+  "width": 4757,
+  "height": 3363,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2813,
+    2273,
+    4687,
+    3072
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/COMPUTERS/M526/1987 - 526-03-006 - Front Panel Display Screens - DRN BD - ENG MRW - ISS 1.jpg",
+  "note": "WBSps.ca 20210320 - Scans (112).jpg.md",
+  "title_block": {
+    "drawing_number": "B 526-03-006",
+    "size": "B",
+    "title": "M526 / Front Panel Display Screens",
+    "date": "2/87",
+    "year": 1987,
+    "month": 2,
+    "drawn": "BD 2/87",
+    "checked": "(initials, illegible)",
+    "engineer": "MRW 2/87",
+    "signature": "DISC NO: M500-1 CODE: MM526-6",
+    "issue": "1",
+    "models": [
+      "M526"
+    ]
+  }
+}

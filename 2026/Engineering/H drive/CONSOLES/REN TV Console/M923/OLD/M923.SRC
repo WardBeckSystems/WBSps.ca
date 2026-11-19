@@ -1,0 +1,809 @@
+{Library Archive file}
+
+PREFIX
+END
+
+'GND POWER'
+{X Size =} 2      {Y Size =} 1      {Parts per Package =} 0
+T1            PWR 'AUDIO_GND'
+
+VECTOR
+LINE    +0.0 +0.0 +2.0 +0.0
+LINE    +0.3 +0.3 +1.7 +0.3
+LINE    +1.4 +0.6 +0.6 +0.6
+LINE    +0.9 +0.9 +1.1 +0.9
+END
+
+
+'R'
+REFERENCE  'R'
+{X Size =} 2      {Y Size =} 3      {Parts per Package =} 0
+T1    SHORT   PAS '1'
+B1    SHORT   PAS '2'
+
+VECTOR
+LINE    +1.0 +0.0 +1.3 +0.3
+LINE    +1.3 +0.3 +0.7 +0.9
+LINE    +0.7 +0.9 +1.3 +1.5
+LINE    +1.3 +1.5 +0.7 +2.1
+LINE    +0.7 +2.1 +1.3 +2.7
+LINE    +1.3 +2.7 +1.0 +3.0
+END
+
+
+'POT'
+REFERENCE  'R'
+{X Size =} 5      {Y Size =} 2      {Parts per Package =} 0
+L1    SHORT   PAS '1'
+R1    SHORT   PAS '3'
+T2    SHORT   PAS '2'
+
+VECTOR
+LINE    +0.0 +1.0 +0.5 +1.0
+LINE    +0.5 +1.0 +0.8 +0.7
+LINE    +0.8 +0.7 +1.4 +1.3
+LINE    +1.4 +1.3 +2.0 +0.7
+LINE    +2.0 +0.7 +2.6 +1.3
+LINE    +2.6 +1.3 +3.2 +0.7
+LINE    +3.2 +0.7 +3.8 +1.3
+LINE    +3.8 +1.3 +4.1 +1.0
+LINE    +4.1 +1.0 +5.0 +1.0
+LINE    +2.0 +0.7 +2.5 +0.2
+LINE    +2.5 +0.2 +1.5 +0.2
+LINE    +1.5 +0.2 +2.0 +0.7
+LINE    +2.0 +0.2 +2.0 +0.0
+FILL    +2.0 +0.4
+END
+
+
+'HEADER 13X2'
+REFERENCE  'JP'
+{X Size =} 5      {Y Size =} 14      {Parts per Package =} 0
+L1    DOT     PAS '1'
+R1    DOT     PAS '2'
+L2    DOT     PAS '3'
+R2    DOT     PAS '4'
+L3    DOT     PAS '5'
+R3    DOT     PAS '6'
+L4    DOT     PAS '7'
+R4    DOT     PAS '8'
+L5    DOT     PAS '9'
+R5    DOT     PAS '10'
+L6    DOT     PAS '11'
+R6    DOT     PAS '12'
+L7    DOT     PAS '13'
+R7    DOT     PAS '14'
+L8    DOT     PAS '15'
+R8    DOT     PAS '16'
+L9    DOT     PAS '17'
+R9    DOT     PAS '18'
+L10   DOT     PAS '19'
+R10   DOT     PAS '20'
+L11   DOT     PAS '21'
+R11   DOT     PAS '22'
+L12   DOT     PAS '23'
+R12   DOT     PAS '24'
+L13   DOT     PAS '25'
+R13   DOT     PAS '26'
+
+'GND SIGNAL'
+{X Size =} 2      {Y Size =} 1      {Parts per Package =} 0
+T1            PWR 'CTL_GND'
+
+VECTOR
+LINE    +0.0 +0.0 +2.0 +0.0
+LINE    +2.0 +0.0 +1.0 +1.0
+LINE    +1.0 +1.0 +0.0 +0.0
+END
+
+
+'EDGE40'
+REFERENCE  'PX'
+{X Size =} 5      {Y Size =} 21      {Parts per Package =} 1
+L1      1         PAS '1'
+L2      2         PAS '2'
+L3      3         PAS '3'
+L4      4         PAS '4'
+L5      5         PAS '5'
+L6      6         PAS '6'
+L7      7         PAS '7'
+L8      8         PAS '8'
+L9      9         PAS '9'
+L10    10         PAS '10'
+L11    11         PAS '11'
+L12    12         PAS '12'
+L13    13         PAS '13'
+L14    14         PAS '14'
+L15    15         PAS '15'
+L16    16         PAS '16'
+L17    17         PAS '17'
+L18    18         PAS '18'
+L19    19         PAS '19'
+L20    20         PAS '20'
+R1     21         PAS '21'
+R2     22         PAS '22'
+R3     23         PAS '23'
+R4     24         PAS '24'
+R5     25         PAS '25'
+R6     26         PAS '26'
+R7     27         PAS '27'
+R8     28         PAS '28'
+R9     29         PAS '29'
+R10    30         PAS '30'
+R11    31         PAS '31'
+R12    32         PAS '32'
+R13    33         PAS '33'
+R14    34         PAS '34'
+R15    35         PAS '35'
+R16    36         PAS '36'
+R17    37         PAS '37'
+R18    38         PAS '38'
+R19    39         PAS '39'
+R20    40         PAS '40'
+
+'GND EARTH'
+{X Size =} 3      {Y Size =} 1      {Parts per Package =} 0
+T2            PWR 'GND'
+
+VECTOR
+LINE    +0.5 +1.0 +1.0 +0.0
+LINE    +1.0 +0.0 +3.0 +0.0
+LINE    +3.0 +0.0 +2.5 +1.0
+LINE    +1.5 +1.0 +2.0 +0.0
+END
+
+
+'NPN EBC'
+REFERENCE  'Q'
+{X Size =} 2      {Y Size =} 2      {Parts per Package =} 1
+B2      1 SHORT   PAS 'EMITTER'
+L1      2 SHORT   IN  'BASE'
+T2      3 SHORT   PAS 'COLLECTOR'
+
+VECTOR
+LINE    +2.0 +0.0 +1.0 +1.0
+LINE    +1.0 +1.0 +1.7 +1.7
+LINE    +1.7 +1.7 +2.0 +1.4
+LINE    +2.0 +1.4 +2.0 +2.0
+LINE    +2.0 +2.0 +1.4 +2.0
+LINE    +1.4 +2.0 +1.7 +1.7
+LINE    +1.0 +0.0 +1.0 +2.0
+LINE    +1.0 +1.0 +0.0 +1.0
+FILL    +1.8 +1.8
+END
+
+
+'EDGE30'
+REFERENCE  'PX'
+{X Size =} 5      {Y Size =} 16      {Part is a} GRIDARRAY
+L1   '1'             PAS '1'
+R1   'A'             PAS 'A'
+R2   'B'             PAS 'B'
+R3   'C'             PAS 'C'
+R4   'D'             PAS 'D'
+R5   'E'             PAS 'E'
+R6   'F'             PAS 'F'
+R7   'H'             PAS 'H'
+R8   'J'             PAS 'J'
+R9   'K'             PAS 'K'
+R10  'L'             PAS 'L'
+R11  'M'             PAS 'M'
+R12  'N'             PAS 'N'
+R13  'P'             PAS 'P'
+R14  'R'             PAS 'R'
+R15  'S'             PAS 'S'
+L2   '2'             PAS '2'
+L3   '3'             PAS '3'
+L4   '4'             PAS '4'
+L5   '5'             PAS '5'
+L6   '6'             PAS '6'
+L7   '7'             PAS '7'
+L8   '8'             PAS '8'
+L9   '9'             PAS '9'
+L10  '10'            PAS '10'
+L11  '11'            PAS '11'
+L12  '12'            PAS '12'
+L13  '13'            PAS '13'
+L14  '14'            PAS '14'
+L15  '15'            PAS '15'
+
+'DIN96'
+REFERENCE  'PX'
+{X Size =} 7      {Y Size =} 49      {Part is a} GRIDARRAY
+L1   '1A'    SHORT   PAS '1A'
+L2   '1B'    SHORT   PAS '1B'
+L3   '1C'    SHORT   PAS '1C'
+L4   '2A'    SHORT   PAS '2A'
+L5   '2B'    SHORT   PAS '2B'
+L6   '2C'    SHORT   PAS '2C'
+L7   '3A'    SHORT   PAS '3A'
+L8   '3B'    SHORT   PAS '3B'
+L9   '3C'    SHORT   PAS '3C'
+L10  '4A'    SHORT   PAS '4A'
+L11  '4B'    SHORT   PAS '4B'
+L12  '4C'    SHORT   PAS '4C'
+L13  '5A'    SHORT   PAS '5A'
+L14  '5B'    SHORT   PAS '5B'
+L15  '5C'    SHORT   PAS '5C'
+L16  '6A'    SHORT   PAS '6A'
+L17  '6B'    SHORT   PAS '6B'
+L18  '6C'    SHORT   PAS '6C'
+L19  '7A'    SHORT   PAS '7A'
+L20  '7B'    SHORT   PAS '7B'
+L21  '7C'    SHORT   PAS '7C'
+L22  '8A'    SHORT   PAS '8A'
+L23  '8B'    SHORT   PAS '8B'
+L24  '8C'    SHORT   PAS '8C'
+L25  '9A'    SHORT   PAS '9A'
+L26  '9B'    SHORT   PAS '9B'
+L27  '9C'    SHORT   PAS '9C'
+L28  '10A'   SHORT   PAS '10A'
+L29  '10B'   SHORT   PAS '10B'
+L30  '10C'   SHORT   PAS '10C'
+L31  '11A'   SHORT   PAS '11A'
+L32  '11B'   SHORT   PAS '11B'
+L33  '11C'   SHORT   PAS '11C'
+L34  '12A'   SHORT   PAS '12A'
+L35  '12B'   SHORT   PAS '12B'
+L36  '12C'   SHORT   PAS '12C'
+L37  '13A'   SHORT   PAS '13A'
+L38  '13B'   SHORT   PAS '13B'
+L39  '13C'   SHORT   PAS '13C'
+L40  '14A'   SHORT   PAS '14A'
+L41  '14B'   SHORT   PAS '14B'
+L42  '14C'   SHORT   PAS '14C'
+L43  '15A'   SHORT   PAS '15A'
+L44  '15B'   SHORT   PAS '15B'
+L45  '15C'   SHORT   PAS '15C'
+L46  '16A'   SHORT   PAS '16A'
+L47  '16B'   SHORT   PAS '16B'
+L48  '16C'   SHORT   PAS '16C'
+R1   '17A'   SHORT   PAS '17A'
+R2   '17B'   SHORT   PAS '17B'
+R3   '17C'   SHORT   PAS '17C'
+R4   '18A'   SHORT   PAS '18A'
+R5   '18B'   SHORT   PAS '18B'
+R6   '18C'   SHORT   PAS '18C'
+R7   '19A'   SHORT   PAS '19A'
+R8   '19B'   SHORT   PAS '19B'
+R9   '19C'   SHORT   PAS '19C'
+R10  '20A'   SHORT   PAS '20A'
+R11  '20B'   SHORT   PAS '20B'
+R12  '20C'   SHORT   PAS '20C'
+R13  '21A'   SHORT   PAS '21A'
+R14  '21B'   SHORT   PAS '21B'
+R15  '21C'   SHORT   PAS '21C'
+R16  '22A'   SHORT   PAS '22A'
+R17  '22B'   SHORT   PAS '22B'
+R18  '22C'   SHORT   PAS '22C'
+R19  '23A'   SHORT   PAS '23A'
+R20  '23B'   SHORT   PAS '23B'
+R21  '23C'   SHORT   PAS '23C'
+R22  '24A'   SHORT   PAS '24A'
+R23  '24B'   SHORT   PAS '24B'
+R24  '24C'   SHORT   PAS '24C'
+R25  '25A'   SHORT   PAS '25A'
+R26  '25B'   SHORT   PAS '25B'
+R27  '25C'   SHORT   PAS '25C'
+R28  '26A'   SHORT   PAS '26A'
+R29  '26B'   SHORT   PAS '26B'
+R30  '26C'   SHORT   PAS '26C'
+R31  '27A'   SHORT   PAS '27A'
+R32  '27B'   SHORT   PAS '27B'
+R33  '27C'   SHORT   PAS '27C'
+R34  '28A'   SHORT   PAS '28A'
+R35  '28B'   SHORT   PAS '28B'
+R36  '28C'   SHORT   PAS '28C'
+R37  '29A'   SHORT   PAS '29A'
+R38  '29B'   SHORT   PAS '29B'
+R39  '29C'   SHORT   PAS '29C'
+R40  '30A'   SHORT   PAS '30A'
+R41  '30B'   SHORT   PAS '30B'
+R42  '30C'   SHORT   PAS '30C'
+R43  '31A'   SHORT   PAS '31A'
+R44  '31B'   SHORT   PAS '31B'
+R45  '31C'   SHORT   PAS '31C'
+R46  '32A'   SHORT   PAS '32A'
+R47  '32B'   SHORT   PAS '32B'
+R48  '32C'   SHORT   PAS '32C'
+
+'DIODE'
+REFERENCE  'D'
+{X Size =} 3      {Y Size =} 2      {Parts per Package =} 0
+L1    SHORT   PAS '2'
+R1    SHORT   PAS '1'
+
+VECTOR
+LINE    +1.0 +0.0 +1.0 +2.0
+LINE    +1.0 +2.0 +2.0 +1.0
+LINE    +2.0 +1.0 +1.0 +0.0
+LINE    +2.0 +0.0 +2.0 +2.0
+LINE    +0.0 +1.0 +1.0 +1.0
+LINE    +2.0 +1.0 +3.0 +1.0
+FILL    +1.5 +1.0
+END
+
+
+'CAP'
+REFERENCE  'C'
+{X Size =} 2      {Y Size =} 1      {Parts per Package =} 0
+T1    SHORT   PAS '1'
+B1    SHORT   PAS '2'
+
+VECTOR
+LINE    +0.0 +0.0 +2.0 +0.0
+LINE    +1.0 +0.4 +1.0 +1.0
+ARC     +1.0 +2.0 +1.0 -1.3 +0.0 -1.6 +1.6
+ARC     +1.0 +2.0 +0.0 -1.6 -1.0 -1.3 +1.6
+END
+
+
+'PNP EBC'
+REFERENCE  'Q'
+{X Size =} 2      {Y Size =} 2      {Parts per Package =} 1
+T2      3 SHORT   PAS 'COLLECTOR'
+L1      2 SHORT   IN  'BASE'
+B2      1 SHORT   PAS 'EMITTER'
+
+VECTOR
+LINE    +1.0 +2.0 +1.0 +0.0
+LINE    +0.0 +1.0 +1.0 +1.0
+LINE    +1.2 +0.8 +1.0 +1.0
+LINE    +1.5 +0.5 +2.0 +0.0
+LINE    +1.2 +1.2 +1.2 +1.8
+LINE    +1.2 +1.8 +1.5 +1.5
+LINE    +1.2 +1.2 +1.8 +1.2
+LINE    +1.8 +1.2 +1.5 +1.5
+LINE    +1.0 +1.0 +1.2 +1.2
+LINE    +1.5 +1.5 +2.0 +2.0
+LINE    +1.2 +0.8 +1.5 +0.5
+FILL    +1.5 +1.4
+END
+
+
+'CAP NP'
+REFERENCE  'C'
+{X Size =} 2      {Y Size =} 1      {Parts per Package =} 0
+T1    SHORT   PAS '1'
+B1    SHORT   PAS '2'
+
+VECTOR
+LINE    +1.0 +0.0 +1.0 +0.2
+LINE    +0.1 +0.7 +1.9 +0.7
+LINE    +0.1 +0.2 +1.9 +0.2
+LINE    +1.0 +1.0 +1.0 +0.7
+END
+
+
+'DUAL POT'
+REFERENCE  'RX'
+{X Size =} 5      {Y Size =} 2      {Parts per Package =} 2
+L1      1   4 SHORT   PAS 'H'
+T2      2   5 SHORT   PAS 'A'
+R1      3   6 SHORT   PAS 'L'
+
+VECTOR
+LINE    +0.0 +1.0 +0.5 +1.0
+LINE    +0.5 +1.0 +0.8 +0.7
+LINE    +0.8 +0.7 +1.4 +1.3
+LINE    +1.4 +1.3 +2.0 +0.7
+LINE    +2.0 +0.7 +2.6 +1.3
+LINE    +2.6 +1.3 +3.2 +0.7
+LINE    +3.2 +0.7 +3.8 +1.3
+LINE    +3.8 +1.3 +4.1 +1.0
+LINE    +4.1 +1.0 +5.0 +1.0
+LINE    +2.0 +0.7 +1.5 +0.2
+LINE    +1.5 +0.2 +2.5 +0.2
+LINE    +2.5 +0.2 +2.0 +0.7
+LINE    +2.0 +0.2 +2.0 +0.0
+FILL    +2.0 +0.4
+END
+
+
+'LM833'
+{X Size =} 4      {Y Size =} 4      {Parts per Package =} 2
+L1      3   5         IN  '+IN'
+L3      2   6         IN  '-IN'
+R2      1   7         OUT 'OUT'
+T1      8   8         PAS 'V+'
+B1      4   4         PAS 'V-'
+
+VECTOR
+LINE    +0.0 +0.0 +4.0 +2.0
+LINE    +4.0 +2.0 +0.0 +4.0
+LINE    +0.0 +4.0 +0.0 +0.0
+LINE    +1.0 +0.0 +1.0 +0.5
+LINE    +1.0 +3.5 +1.0 +4.0
+TEXT    +0.3 +1.3  1   '+'
+TEXT    +0.3 +3.3  1   '-'
+END
+
+
+'4053'
+{X Size =} 6      {Y Size =} 14      {Parts per Package =} 1
+L1     12         I/O 'X0'
+L2     13         I/O 'X1'
+L4      2         I/O 'Y0'
+L5      1         I/O 'Y1'
+L7      5         I/O 'Z0'
+L8      3         I/O 'Z1'
+L10     6         IN  'INH'
+L11    11         IN  'A'
+L12    10         IN  'B'
+L13     9         IN  'C'
+R1     14         I/O 'X'
+R3     15         I/O 'Y'
+R5      4         I/O 'Z'
+T1     16         PWR '+5V'
+B1      8         PWR 'CLT_GND'
+B6      7         PWR 'CTL_GND'
+
+'LM837'
+{X Size =} 4      {Y Size =} 4      {Parts per Package =} 4
+L1      3   5  10  12         IN  'IN+'
+L3      2   6   9  13         IN  'IN-'
+R2      1   7   8  14         OUT 'OUT'
+T1      4   4   4   4         IN  'V+'
+B1     11  11  11  11         IN  'V-'
+
+VECTOR
+LINE    +0.0 +0.0 +4.0 +2.0
+LINE    +4.0 +2.0 +0.0 +4.0
+LINE    +0.0 +4.0 +0.0 +0.0
+LINE    +1.0 +0.0 +1.0 +0.5
+LINE    +1.0 +3.5 +1.0 +4.0
+TEXT    +0.3 +1.3  1   '+'
+TEXT    +0.3 +3.3  1   '-'
+END
+
+
+'LM393'
+{X Size =} 4      {Y Size =} 4      {Parts per Package =} 2
+L1      3   5         IN  '+IN'
+L3      2   6         IN  '-IN'
+R2      1   7         OUT 'OUT'
+T1      8   8         PAS 'V+'
+B1      4   4         PAS 'V-'
+
+VECTOR
+LINE    +0.0 +0.0 +4.0 +2.0
+LINE    +4.0 +2.0 +0.0 +4.0
+LINE    +0.0 +4.0 +0.0 +0.0
+LINE    +1.0 +0.0 +1.0 +0.5
+LINE    +1.0 +3.5 +1.0 +4.0
+TEXT    +0.3 +1.3  1   '+'
+TEXT    +0.3 +3.3  1   '-'
+END
+
+
+'68HC705X4'
+REFERENCE  'UX'
+{X Size =} 7      {Y Size =} 19      {Parts per Package =} 1
+R1      6         I/O 'A0'
+R2      7         I/O 'A1'
+R3      8         I/O 'A2'
+R4      9         I/O 'A3'
+R5     10         I/O 'A4'
+R6     11         I/O 'A5'
+R7     12         I/O 'A6'
+R8     13         I/O 'A7'
+R10    22         I/O 'B0'
+R11    23         I/O 'B1'
+R12    24         I/O 'B2'
+R13    25         I/O 'B3'
+R14    26         I/O 'B4'
+R15    27         I/O 'B5'
+R16    28         I/O 'B6'
+R17     1         I/O 'B7'
+L17     5         IN  'MDS'
+L15     4     CLK IN  'OSC2'
+L13     3     CLK IN  'OSC1'
+L11     2         IN  '/RESET'
+L9     21         OUT 'VDDH'
+L7     20         IN  'RX1'
+L6     19         IN  'RX0'
+L4     18         IN  'VSS1'
+L2     17         OUT 'TX1'
+L1     16         OUT 'TX0'
+T4     15         PWR 'VDD'
+B4     14         PWR 'VSS'
+
+'SIP10'
+REFERENCE  'RX'
+{X Size =} 2      {Y Size =} 3      {Parts per Package =} 9
+T1      1   1   1   1   1   1   1   1   1 SHORT   PAS 'COMMON'
+B1      2   3   4   5   6   7   8   9  10 SHORT   PAS 'ISO'
+
+VECTOR
+LINE    +1.0 +3.0 +1.3 +2.7
+LINE    +1.3 +2.7 +0.7 +2.1
+LINE    +0.7 +2.1 +1.3 +1.5
+LINE    +1.3 +1.5 +0.7 +0.9
+LINE    +0.7 +0.9 +1.4 +0.3
+LINE    +1.4 +0.3 +1.0 +0.0
+END
+
+
+'93LC66'
+REFERENCE  'UX'
+{X Size =} 5      {Y Size =} 5      {Parts per Package =} 1
+L1      1         IN  'CS'
+L2      2     CLK IN  'CLK'
+L3      3         IN  'DI'
+L4      4         OUT 'DO'
+R4      5         PWR 'VSS'
+R3      6         PAS 'NC'
+R1      7         PAS 'NU'
+T3      8         PWR 'VCC'
+
+'74HC244'
+{X Size =} 8      {Y Size =} 12      {Parts per Package =} 1
+L1      2         IN  '1A1'
+L2      4         IN  '1A2'
+L3      6         IN  '1A3'
+L4      8         IN  '1A4'
+L5     11         IN  '2A1'
+L6     13         IN  '2A2'
+L7     15         IN  '2A3'
+L8     17         IN  '2A4'
+L10     1 DOT     IN  '1G'
+L11    19 DOT     IN  '2G'
+R1     18         hiZ '1Y1'
+R2     16         hiZ '1Y2'
+R3     14         hiZ '1Y3'
+R4     12         hiZ '1Y4'
+R5      9         hiZ '2Y1'
+R6      7         hiZ '2Y2'
+R7      5         hiZ '2Y3'
+R8      3         hiZ '2Y4'
+T0     20         PWR 'VCC'
+B0     10         PWR 'GND'
+
+'74HC374'
+{X Size =} 6      {Y Size =} 12      {Parts per Package =} 1
+L1      3         IN  'D0'
+L2      4         IN  'D1'
+L3      7         IN  'D2'
+L4      8         IN  'D3'
+L5     13         IN  'D4'
+L6     14         IN  'D5'
+L7     17         IN  'D6'
+L8     18         IN  'D7'
+L10     1 DOT     IN  'OC'
+L11    11     CLK IN  'CLK'
+R1      2         hiZ 'Q0'
+R2      5         hiZ 'Q1'
+R3      6         hiZ 'Q2'
+R4      9         hiZ 'Q3'
+R5     12         hiZ 'Q4'
+R6     15         hiZ 'Q5'
+R7     16         hiZ 'Q6'
+R8     19         hiZ 'Q7'
+T0     20         PWR 'VCC'
+B0     10         PWR 'GND'
+
+'JUMPER'
+REFERENCE  'JP'
+{X Size =} 2      {Y Size =} 2      {Parts per Package =} 1
+L1      1 DOT     PAS '1'
+R1      2 DOT     PAS '2'
+
+VECTOR
+END
+
+
+'74HC132'
+{X Size =} 6      {Y Size =} 4      {Parts per Package =} 4
+L1      1   4   9  12         IN  'I0'
+L3      2   5  10  13         IN  'I1'
+R2      3   6   8  11 DOT     OUT 'O'
+T0     14  14  14  14         PWR 'VCC'
+B0      7   7   7   7         PWR 'GND'
+
+VECTOR
+LINE    +4.0 +0.0 +0.0 +0.0
+LINE    +0.0 +0.0 +0.0 +4.0
+LINE    +0.0 +4.0 +4.0 +4.0
+ARC     +4.0 +2.0 +0.0 -2.0 +2.0 +0.0 +2.0
+ARC     +4.0 +2.0 +2.0 +0.0 +0.0 +2.0 +2.0
+END
+
+CONVERT
+L1      1   4   9  12         IN  'I0'
+L3      2   5  10  13         IN  'I1'
+R2      3   6   8  11         OUT 'O'
+T0     14  14  14  14         PWR 'VCC'
+B0      7   7   7   7         PWR 'GND'
+
+VECTOR
+LINE    +2.5 +0.0 +0.0 +0.0
+LINE    +2.5 +4.0 +0.0 +4.0
+ARC     +2.5 +4.0 +3.5 -2.0 +0.0 -4.0 +4.0
+ARC     -2.0 +2.0 +2.0 -2.0 +2.8 +0.0 +2.8
+ARC     -2.0 +2.0 +2.8 +0.0 +2.0 +2.0 +2.8
+ARC     +2.5 +0.0 +3.5 +2.0 +0.0 +4.0 +4.0
+CIRCLE  +0.3 +3.0 +0.3
+CIRCLE  +0.3 +1.0 +0.3
+END
+
+
+'74HC595'
+{X Size =} 8      {Y Size =} 11      {Parts per Package =} 1
+L1     14         IN  'SER'
+L3     11     CLK IN  'SRCLK'
+L4     10 DOT     IN  'SRCLR'
+L6     12     CLK IN  'RCLK'
+L7     13 DOT     IN  'G'
+R1     15         hiZ 'QA'
+R2      1         hiZ 'QB'
+R3      2         hiZ 'QC'
+R4      3         hiZ 'QD'
+R5      4         hiZ 'QE'
+R6      5         hiZ 'QF'
+R7      6         hiZ 'QG'
+R8      7         hiZ 'QH'
+R10     9         OUT 'QH'''
+T0     16         PWR 'VCC'
+B0      8         PWR 'GND'
+
+'ULN2803N'
+REFERENCE  'UX'
+{X Size =} 6      {Y Size =} 12      {Parts per Package =} 1
+T3     10 SHORT   PAS 'COM'
+B3      9 SHORT   PAS 'E'
+L2      1 SHORT   PAS 'INA'
+L3      2 SHORT   PAS 'INB'
+L4      3 SHORT   PAS 'INC'
+L5      4 SHORT   PAS 'IND'
+L6      5 SHORT   PAS 'INE'
+L7      6 SHORT   PAS 'INF'
+L8      7 SHORT   PAS 'ING'
+L9      8 SHORT   PAS 'INH'
+R9     11 SHORT   PAS 'OH'
+R8     12 SHORT   PAS 'OG'
+R7     13 SHORT   PAS 'OF'
+R6     14 SHORT   PAS 'OE'
+R5     15 SHORT   PAS 'OD'
+R4     16 SHORT   PAS 'OC'
+R3     17 SHORT   PAS 'OB'
+R2     18 SHORT   PAS 'OA'
+
+'SSM2018TP'
+REFERENCE  'UX'
+{X Size =} 9      {Y Size =} 12      {Parts per Package =} 1
+L1      1         IN  '+I1G'
+L2      7         IN  '-IN'
+L4      6         IN  '+IN'
+L5      4         IN  '-I1G'
+L7     11         IN  'CTL'
+L8     13         IN  'GND'
+B2     10         PWR 'VEE'
+B3     16         IN  'V1G'
+R8      8         PAS 'COMP2'
+R5      5         PAS 'COMP1'
+R3     14         OUT 'VG'
+R1      3         IN  '+IO'
+T5     12         IN  'MODE'
+T2      2         PWR 'VCC'
+
+'NE5534'
+{X Size =} 4      {Y Size =} 4      {Parts per Package =} 1
+L1      3         IN  '+IN'
+L3      2         IN  '-IN'
+R2      6         OUT 'OUT'
+T1      7         PAS 'V+'
+T2      5         PAS 'COMP1'
+B1      4         PAS 'V-'
+B2      8         PAS 'COMP2'
+B3      1         PAS 'COMP3'
+
+VECTOR
+LINE    +0.0 +0.0 +0.0 +4.0
+LINE    +0.0 +4.0 +4.0 +2.0
+LINE    +4.0 +2.0 +0.0 +0.0
+LINE    +1.0 +4.0 +1.0 +3.5
+LINE    +2.0 +4.0 +2.0 +3.0
+LINE    +3.0 +4.0 +3.0 +2.5
+LINE    +2.0 +0.0 +2.0 +1.0
+LINE    +1.0 +0.0 +1.0 +0.5
+TEXT    +0.3 +1.3  1   '+'
+TEXT    +0.3 +3.3  1   '-'
+END
+
+
+'74HC00'
+{X Size =} 6      {Y Size =} 4      {Parts per Package =} 4
+L1      1   4   9  12         IN  'I0'
+L3      2   5  10  13         IN  'I1'
+R2      3   6   8  11 DOT     OUT 'O'
+T0     14  14  14  14         PWR 'VCC'
+B0      7   7   7   7         PWR 'GND'
+
+VECTOR
+LINE    +4.0 +0.0 +0.0 +0.0
+LINE    +0.0 +0.0 +0.0 +4.0
+LINE    +0.0 +4.0 +4.0 +4.0
+ARC     +4.0 +2.0 +0.0 -2.0 +2.0 +0.0 +2.0
+ARC     +4.0 +2.0 +2.0 +0.0 +0.0 +2.0 +2.0
+END
+
+CONVERT
+L1      1   4   9  12         IN  'I0'
+L3      2   5  10  13         IN  'I1'
+R2      3   6   8  11         OUT 'O'
+T0     14  14  14  14         PWR 'VCC'
+B0      7   7   7   7         PWR 'GND'
+
+VECTOR
+LINE    +2.5 +0.0 +0.0 +0.0
+LINE    +2.5 +4.0 +0.0 +4.0
+ARC     +2.5 +4.0 +3.5 -2.0 +0.0 -4.0 +4.0
+ARC     -2.0 +2.0 +2.0 -2.0 +2.8 +0.0 +2.8
+ARC     -2.0 +2.0 +2.8 +0.0 +2.0 +2.0 +2.8
+ARC     +2.5 +0.0 +3.5 +2.0 +0.0 +4.0 +4.0
+CIRCLE  +0.3 +3.0 +0.3
+CIRCLE  +0.3 +1.0 +0.3
+END
+
+
+'74HC14'
+{X Size =} 4      {Y Size =} 4      {Parts per Package =} 6
+L2      1   3   5   9  11  13         IN  'I'
+R2      2   4   6   8  10  12 DOT     OUT 'O'
+T0     14  14  14  14  14  14         PWR 'VCC'
+B0      7   7   7   7   7   7         PWR 'GND'
+
+VECTOR
+LINE    +0.0 +0.0 +4.0 +2.0
+LINE    +4.0 +2.0 +0.0 +4.0
+LINE    +0.0 +4.0 +0.0 +0.0
+END
+
+CONVERT
+L2      1   3   5   9  11  13 DOT     IN  'I'
+R2      2   4   6   8  10  12         OUT 'O'
+T0     14  14  14  14  14  14         PWR 'VCC'
+B0      7   7   7   7   7   7         PWR 'GND'
+
+VECTOR
+LINE    +0.0 +0.0 +4.0 +2.0
+LINE    +4.0 +2.0 +0.0 +4.0
+LINE    +0.0 +4.0 +0.0 +0.0
+END
+
+
+'74HC02'
+{X Size =} 6      {Y Size =} 4      {Parts per Package =} 4
+L1      2   5   8  11         IN  'I0'
+L3      3   6   9  12         IN  'I1'
+R2      1   4  10  13 DOT     OUT 'O'
+T0     14  14  14  14         PWR 'VCC'
+B0      7   7   7   7         PWR 'GND'
+
+VECTOR
+LINE    +2.5 +0.0 +0.0 +0.0
+LINE    +2.5 +4.0 +0.0 +4.0
+LINE    +0.0 +1.0 +0.6 +1.0
+LINE    +0.0 +3.0 +0.6 +3.0
+ARC     +2.5 +4.0 +3.5 -2.0 +0.0 -4.0 +4.0
+ARC     -2.0 +2.0 +2.0 -2.0 +2.8 +0.0 +2.8
+ARC     -2.0 +2.0 +2.8 +0.0 +2.0 +2.0 +2.8
+ARC     +2.5 +0.0 +3.5 +2.0 +0.0 +4.0 +4.0
+END
+
+CONVERT
+L1      2   5   8  11 DOT     IN  'I0'
+L3      3   6   9  12 DOT     IN  'I1'
+R2      1   4  10  13         OUT 'O'
+T0     14  14  14  14         PWR 'VCC'
+B0      7   7   7   7         PWR 'GND'
+
+VECTOR
+LINE    +4.0 +0.0 +0.0 +0.0
+LINE    +0.0 +0.0 +0.0 +4.0
+LINE    +0.0 +4.0 +4.0 +4.0
+ARC     +4.0 +2.0 +0.0 -2.0 +2.0 +0.0 +2.0
+ARC     +4.0 +2.0 +2.0 +0.0 +0.0 +2.0 +2.0
+END
+
+

@@ -1,0 +1,31 @@
+{
+  "filename": "WBS INTERCOM build 6.jpeg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/RAW Photos/WBS INTERCOM build 6.jpeg",
+  "extension": ".jpeg",
+  "size_bytes": 4204547,
+  "modified_time": "Sun Sep  6 22:05:43 2026",
+  "word_tokens": [
+    "wbs",
+    "intercom",
+    "build"
+  ],
+  "width": 4896,
+  "height": 6836,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "ResolutionUnit": "2",
+    "ExifOffset": "194",
+    "Make": "Brother",
+    "Model": "DCP-7065DN",
+    "Software": "Apple Image Capture",
+    "Orientation": "1",
+    "XResolution": "600.0",
+    "YResolution": "600.0",
+    "HostComputer": "Apple Mac OS X",
+    "ExifImageWidth": "4896",
+    "ExifImageHeight": "6836"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

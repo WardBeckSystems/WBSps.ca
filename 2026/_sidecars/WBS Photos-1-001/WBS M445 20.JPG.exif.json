@@ -1,0 +1,33 @@
+{
+  "filename": "WBS M445 20.JPG",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBS M445 20.JPG",
+  "extension": ".jpg",
+  "size_bytes": 403911,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbs",
+    "m445",
+    "20"
+  ],
+  "width": 1240,
+  "height": 1753,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {},
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:00",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/METER/M445/19xx - M445 - 20.jpg",
+  "note": "WBS M445 20.JPG.md",
+  "title_block": {
+    "drawing_number": "B 14-305-02-001/1",
+    "size": "B",
+    "title": "SA14-305 STEREO EXTENDED RANGE METER / SCHEMATIC",
+    "issue": "1",
+    "models": [
+      "SA14-305"
+    ]
+  }
+}

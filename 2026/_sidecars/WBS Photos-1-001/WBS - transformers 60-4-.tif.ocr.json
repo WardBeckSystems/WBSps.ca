@@ -1,0 +1,36 @@
+{
+  "filename": "WBS - transformers 60-4-.tif",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBS - transformers 60-4-.tif",
+  "width": 4972,
+  "height": 3217,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "MATLL | WBS WARD-BECK BYSTEMS LTD. | DRN_ DNFARLANE | DATE 2 DEC_ 75 70-7 OUTPUT TRANSFORMER | FINISH W | CKD_ | SCALE 1 :1 | TOLS_ Xxx B 9716 ISS_ | ANG.",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2564,
+    2493,
+    4972,
+    3171
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:00",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1975 - B 9316 - 70-3 OUTPUT TRANSFORMER - DRN D. M'FARLANE - ISS 1.tif",
+  "note": "WBS - transformers 60-4-.tif.md",
+  "title_block": {
+    "drawing_number": "B 9316",
+    "size": "B",
+    "title": "70-3 OUTPUT TRANSFORMER",
+    "date": "2 DEC 75",
+    "year": 1975,
+    "month": 12,
+    "drawn": "D. M'FARLANE",
+    "checked": "KWW",
+    "issue": "1",
+    "models": [
+      "70-3"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "M201 - P03(1).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M201 - P03(1).jpg",
+  "extension": ".jpg",
+  "size_bytes": 103258,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m201",
+    "p03(1)"
+  ],
+  "width": 773,
+  "height": 1099,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "773",
+    "ExifImageHeight": "1099",
+    "ImageUniqueID": "2e221be43884c43d0000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:58",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/LOGIC/M201/M201 - P03(1).jpg",
+  "note": "M201 - P03(1).jpg.md",
+  "title_block": {
+    "models": [
+      "M201"
+    ]
+  }
+}

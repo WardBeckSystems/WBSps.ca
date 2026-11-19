@@ -1,0 +1,39 @@
+{
+  "filename": "WBS - M611 - M611A Power Supply - 007 - Connector Layout.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBS - M611 - M611A Power Supply - 007 - Connector Layout.jpg",
+  "extension": ".jpg",
+  "size_bytes": 2206487,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbs",
+    "m611",
+    "m611a",
+    "power",
+    "supply",
+    "007",
+    "connector",
+    "layout"
+  ],
+  "width": 9482,
+  "height": 5965,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {},
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:00",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/POWER/M611/19xx - M611 - M611A Power Supply - 007 - Connector Layout.jpg",
+  "note": "WBS - M611 - M611A Power Supply - 007 - Connector Layout.jpg.md",
+  "title_block": {
+    "drawing_number": "B 611-04-001",
+    "size": "B",
+    "title": "M611/M611A POWER SUPPLY / CONNECTOR LAYOUT",
+    "issue": "2",
+    "models": [
+      "M611",
+      "M611A"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "filename": "M471C - 39 - St Pre-amp Schematic.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M471C - 39 - St Pre-amp Schematic.jpg",
+  "extension": ".jpg",
+  "size_bytes": 97237,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m471c",
+    "39",
+    "st",
+    "pre",
+    "amp",
+    "schematic"
+  ],
+  "width": 900,
+  "height": 645,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "900",
+    "ExifImageHeight": "645",
+    "ImageUniqueID": "23172fe52ec5743c0000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/INPUT-PRE-AMPS/M471C/M471C - 39 - St Pre-amp Schematic.jpg",
+  "note": "M471C - 39 - St Pre-amp Schematic.jpg.md",
+  "title_block": {
+    "models": [
+      "M471C"
+    ]
+  }
+}

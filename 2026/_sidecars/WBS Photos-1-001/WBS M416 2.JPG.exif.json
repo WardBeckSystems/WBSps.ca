@@ -1,0 +1,40 @@
+{
+  "filename": "WBS M416 2.JPG",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBS M416 2.JPG",
+  "extension": ".jpg",
+  "size_bytes": 248893,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbs",
+    "m416"
+  ],
+  "width": 1240,
+  "height": 1753,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "1240",
+    "ExifImageHeight": "1753",
+    "ImageUniqueID": "e999721b259991f80000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:00",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M416/19xx - M416 - M416 Cue Amplifier Instruction Manual Index.jpg",
+  "note": "WBS M416 2.JPG.md",
+  "title_block": {
+    "title": "M416 Cue Amplifier Instruction Manual Index",
+    "models": [
+      "M416"
+    ]
+  }
+}

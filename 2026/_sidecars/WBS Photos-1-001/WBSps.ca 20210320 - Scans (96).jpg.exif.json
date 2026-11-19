@@ -1,0 +1,48 @@
+{
+  "filename": "WBSps.ca 20210320 - Scans (96).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (96).jpg",
+  "extension": ".jpg",
+  "size_bytes": 1474887,
+  "modified_time": "Sat Oct 17 23:34:21 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "20210320",
+    "scans",
+    "(96)"
+  ],
+  "width": 4757,
+  "height": 3363,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4757",
+    "ExifImageHeight": "3363",
+    "ImageUniqueID": "458a24c2be52da660000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M485/1980 - 485-03-005 - CAPACITOR MTG. PLATE - DRN P. Mahoney - ISS 2.jpg",
+  "note": "WBSps.ca 20210320 - Scans (96).jpg.md",
+  "title_block": {
+    "drawing_number": "B 485-03-005",
+    "size": "B",
+    "title": "CAPACITOR / MTG. PLATE",
+    "date": "2/80",
+    "year": 1980,
+    "month": 2,
+    "drawn": "P. Mahoney",
+    "checked": "A/F 79/12/10",
+    "signature": "ISS 2 2/80 WIDTH SHORTENED BY .160 PM",
+    "issue": "2"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "filename": "M472 - P011 - B472-06-001.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M472 - P011 - B472-06-001.jpg",
+  "extension": ".jpg",
+  "size_bytes": 94297,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m472",
+    "p011",
+    "b472",
+    "06",
+    "001"
+  ],
+  "width": 900,
+  "height": 744,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "900",
+    "ExifImageHeight": "744",
+    "ImageUniqueID": "b5ce2f6dc1e6e03c0000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/FILTERS/M472/19xx - 472-06-001.jpg",
+  "note": "M472 - P011 - B472-06-001.jpg.md",
+  "title_block": {
+    "drawing_number": "B 472-06-001",
+    "size": "B",
+    "models": [
+      "M472"
+    ]
+  }
+}

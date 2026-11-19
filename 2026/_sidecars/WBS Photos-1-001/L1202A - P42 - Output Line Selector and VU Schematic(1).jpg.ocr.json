@@ -1,0 +1,36 @@
+{
+  "filename": "L1202A - P42 - Output Line Selector and VU Schematic(1).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/L1202A - P42 - Output Line Selector and VU Schematic(1).jpg",
+  "width": 3166,
+  "height": 2015,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2094,
+    1512,
+    3164,
+    2014
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:58",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/Models/L1202A/1982 - 1202-02-015 - OUTPUT LINE SELECTORS & VU SCHEMATIC - DRN JP - ENG MRW - ISS 1.jpg",
+  "note": "L1202A - P42 - Output Line Selector and VU Schematic(1).jpg.md",
+  "title_block": {
+    "drawing_number": "B 1202-02-015",
+    "size": "B",
+    "title": "OUTPUT LINE SELECTORS & VU / SCHEMATIC",
+    "date": "9/82",
+    "year": 1982,
+    "month": 9,
+    "drawn": "JP",
+    "engineer": "MRW",
+    "issue": "1",
+    "models": [
+      "L1202A"
+    ]
+  }
+}

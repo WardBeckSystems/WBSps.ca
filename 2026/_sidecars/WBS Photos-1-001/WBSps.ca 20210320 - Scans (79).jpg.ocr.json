@@ -1,0 +1,36 @@
+{
+  "filename": "WBSps.ca 20210320 - Scans (79).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (79).jpg",
+  "width": 4757,
+  "height": 3363,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1581,
+    2645,
+    2512,
+    3277
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1976 - B 9905 - MF-7A FRONT PANEL EXTRUSION - ISS 1.jpg",
+  "note": "WBSps.ca 20210320 - Scans (79).jpg.md",
+  "title_block": {
+    "drawing_number": "B 9905",
+    "size": "B",
+    "title": "MF-7A FRONT PANEL / EXTRUSION",
+    "date": "9 JULY '76",
+    "year": 1976,
+    "month": 7,
+    "drawn": "(initial, illegible)",
+    "signature": "MAT'L AL. EXTRUSION 6063 T5, REYNOLDS EXTRUSION CO. LTD; FINISH FLASH ANODISE 0.0002 CLEAR; SCALE FULL",
+    "issue": "1",
+    "models": [
+      "MF-7A"
+    ]
+  }
+}

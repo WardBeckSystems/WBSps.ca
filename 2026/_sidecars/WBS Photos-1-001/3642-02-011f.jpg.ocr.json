@@ -1,0 +1,39 @@
+{
+  "filename": "3642-02-011f.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/3642-02-011f.jpg",
+  "width": 3504,
+  "height": 4956,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    133,
+    98,
+    2086,
+    1345
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:55",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/POWER/M625B/1988 - 3642-02-011 - POWER SUPPLIES SCHEMATIC - DRN DS - ISS 6.jpg",
+  "note": "3642-02-011f.jpg.md",
+  "title_block": {
+    "drawing_number": "D 3642-02-011",
+    "size": "D",
+    "title": "M625B / POWER SUPPLIES / SCHEMATIC",
+    "date": "5/88",
+    "year": 1988,
+    "month": 5,
+    "drawn": "D.S. 5/88",
+    "checked": "signature",
+    "approved": "P.C.",
+    "signature": "revisions: 6 5/88 REDRAWN DS; 5 2/87 M207 CARDS REMOVED AMK; 4 5/86 M207 #3 ADDED AN; 3 2/86 M207 #2 ADDED AN; 2 2/86 CLARIFIED SEX OF CONNECTOR PINS SG; DISC NO 233 CODE 3642S11",
+    "issue": "6",
+    "job": "3642",
+    "models": [
+      "M625B"
+    ]
+  }
+}

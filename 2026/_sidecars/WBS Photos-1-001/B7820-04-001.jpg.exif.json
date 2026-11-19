@@ -1,0 +1,44 @@
+{
+  "filename": "B7820-04-001.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/B7820-04-001.jpg",
+  "extension": ".jpg",
+  "size_bytes": 4715810,
+  "modified_time": "Sat Oct 17 23:34:17 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "b7820",
+    "04",
+    "001"
+  ],
+  "width": 3500,
+  "height": 4952,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "3500",
+    "ExifImageHeight": "4952",
+    "ImageUniqueID": "af927faa177e6a8c0000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:57",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M7820/19xx - 7820-04-001 - SECONDARY TERMINAL FRONT & REAR LAYOUT - ISS 1.jpg",
+  "note": "B7820-04-001.jpg.md",
+  "title_block": {
+    "drawing_number": "B 7820-04-001",
+    "size": "B",
+    "title": "M7820 / SECONDARY TERMINAL / FRONT & REAR LAYOUT",
+    "issue": "1",
+    "models": [
+      "M7820"
+    ]
+  }
+}

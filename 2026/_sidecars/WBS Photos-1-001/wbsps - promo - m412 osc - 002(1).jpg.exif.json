@@ -1,0 +1,43 @@
+{
+  "filename": "wbsps - promo - m412 osc - 002(1).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/wbsps - promo - m412 osc - 002(1).jpg",
+  "extension": ".jpg",
+  "size_bytes": 824645,
+  "modified_time": "Sat Oct 17 23:34:21 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "promo",
+    "m412",
+    "osc",
+    "002(1)"
+  ],
+  "width": 2550,
+  "height": 3330,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "2550",
+    "ExifImageHeight": "3330",
+    "ImageUniqueID": "d04373c0af9f83ae0000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/MONITORING/M412/19xx - M412 - M412 (2).jpg",
+  "note": "wbsps - promo - m412 osc - 002(1).jpg.md",
+  "title_block": {
+    "title": "M412",
+    "models": [
+      "M412"
+    ]
+  }
+}

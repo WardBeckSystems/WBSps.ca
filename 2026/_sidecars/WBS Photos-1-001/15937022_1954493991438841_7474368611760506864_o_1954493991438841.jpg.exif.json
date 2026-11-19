@@ -1,0 +1,42 @@
+{
+  "filename": "15937022_1954493991438841_7474368611760506864_o_1954493991438841.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/15937022_1954493991438841_7474368611760506864_o_1954493991438841.jpg",
+  "extension": ".jpg",
+  "size_bytes": 162202,
+  "modified_time": "Sat Oct 17 23:34:14 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "15937022",
+    "1954493991438841",
+    "7474368611760506864",
+    "1954493991438841"
+  ],
+  "width": 2048,
+  "height": 1536,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ExifImageWidth": "2048",
+    "ExifImageHeight": "1536",
+    "ImageUniqueID": "21c22b5f6354f69f0000000000000000"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M501/19xx - 501-02-002 - 501A PREAMP SCHEMATIC - ISS 1.jpg",
+  "note": "15937022_1954493991438841_7474368611760506864_o_1954493991438841.jpg.md",
+  "title_block": {
+    "drawing_number": "B 501-02-002",
+    "size": "B",
+    "title": "501A PREAMP SCHEMATIC",
+    "issue": "1",
+    "models": [
+      "501A"
+    ]
+  }
+}

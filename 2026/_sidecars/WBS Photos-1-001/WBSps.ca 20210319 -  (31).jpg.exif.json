@@ -1,0 +1,43 @@
+{
+  "filename": "WBSps.ca 20210319 -  (31).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca 20210319 -  (31).jpg",
+  "extension": ".jpg",
+  "size_bytes": 991972,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "20210319",
+    "(31)"
+  ],
+  "width": 4967,
+  "height": 3220,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4967",
+    "ExifImageHeight": "3220",
+    "ImageUniqueID": "6cb7d333dc9565200000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M900/19xx - 900-03-017 - MK SERIES BOTTOM PAN (REMOVABLE) - DRN DRG - ISS 5.jpg",
+  "note": "WBSps.ca 20210319 -  (31).jpg.md",
+  "title_block": {
+    "drawing_number": "D 900-03-017",
+    "size": "D",
+    "title": "MK SERIES / BOTTOM PAN (REMOVABLE)",
+    "drawn": "DRG",
+    "signature": "DISC NO: MA93001, CODE: 900017",
+    "issue": "5"
+  }
+}

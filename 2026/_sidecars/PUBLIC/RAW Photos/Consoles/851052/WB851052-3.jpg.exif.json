@@ -1,0 +1,26 @@
+{
+  "filename": "WB851052-3.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/RAW Photos/Consoles/851052/WB851052-3.jpg",
+  "extension": ".jpg",
+  "size_bytes": 64070,
+  "modified_time": "Sun Sep  6 22:15:41 2026",
+  "word_tokens": [
+    "wb851052"
+  ],
+  "width": 640,
+  "height": 480,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Rating": "0",
+    "ExifOffset": "98",
+    "XPTitle": "",
+    "XPComment": "",
+    "XPAuthor": "",
+    "XPKeywords": "",
+    "XPSubject": "",
+    "DateTimeOriginal": ""
+  },
+  "is_manual": false,
+  "special_flag": null
+}

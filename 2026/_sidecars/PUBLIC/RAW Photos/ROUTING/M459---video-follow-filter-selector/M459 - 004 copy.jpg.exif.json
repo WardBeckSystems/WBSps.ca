@@ -1,0 +1,36 @@
+{
+  "filename": "M459 - 004 copy.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/RAW Photos/ROUTING/M459---video-follow-filter-selector/M459 - 004 copy.jpg",
+  "extension": ".jpg",
+  "size_bytes": 1462583,
+  "modified_time": "Sun Sep  6 22:11:18 2026",
+  "word_tokens": [
+    "m459",
+    "004",
+    "copy"
+  ],
+  "width": 2500,
+  "height": 2172,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "ImageWidth": "6284",
+    "ImageLength": "4851",
+    "BitsPerSample": "['8', '8', '8', '8']",
+    "PhotometricInterpretation": "1",
+    "ResolutionUnit": "2",
+    "ExifOffset": "232",
+    "Software": "Adobe Photoshop CS3 Macintosh",
+    "Orientation": "1",
+    "DateTime": "2013:03:15 23:09:00",
+    "SamplesPerPixel": "4",
+    "XResolution": "72.0",
+    "YResolution": "72.0",
+    "ExifVersion": "0221",
+    "ColorSpace": "65535",
+    "ExifImageWidth": "2500",
+    "ExifImageHeight": "2172"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

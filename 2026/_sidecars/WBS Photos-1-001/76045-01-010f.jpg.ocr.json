@@ -1,0 +1,30 @@
+{
+  "filename": "76045-01-010f.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/76045-01-010f.jpg",
+  "width": 3504,
+  "height": 4956,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1747,
+    32,
+    3366,
+    701
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:56",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1970-1979/76045 - CFTO/1977 - 76045-02-010 - POWER DISTRIBUTION SCHEMATIC - ISS 1.jpg",
+  "note": "76045-01-010f.jpg.md",
+  "title_block": {
+    "drawing_number": "D 76045-02-010",
+    "size": "D",
+    "title": "POWER DISTRIBUTION / SCHEMATIC",
+    "date": "..77",
+    "year": 1977,
+    "issue": "1"
+  }
+}

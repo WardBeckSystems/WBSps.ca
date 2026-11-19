@@ -1,0 +1,52 @@
+{
+  "filename": "3642-02-009.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/3642-02-009.jpg",
+  "extension": ".jpg",
+  "size_bytes": 10688620,
+  "modified_time": "Sat Oct 17 23:34:16 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "3642",
+    "02",
+    "009"
+  ],
+  "width": 10200,
+  "height": 6600,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "ResolutionUnit": "2",
+    "ExifOffset": "176",
+    "Software": "Adobe Photoshop CS3 Macintosh",
+    "Orientation": "1",
+    "DateTime": "2014:02:13 14:19:37",
+    "YCbCrSubSampling": "['1', '1']",
+    "XResolution": "300.0",
+    "YResolution": "300.0",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "10200",
+    "ExifImageHeight": "6600",
+    "ImageUniqueID": "5ee29406e1cc0dd40000000000000000",
+    "ExifInteroperabilityOffset": "288"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:55",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1988 - 3642-02-009 - PROCESSING MODULES SCHEMATIC - DRN DS - ISS 4.jpg",
+  "note": "3642-02-009.jpg.md",
+  "title_block": {
+    "drawing_number": "D 3642-02-009",
+    "size": "D",
+    "title": "PROCESSING MODULES / SCHEMATIC",
+    "date": "4/88",
+    "year": 1988,
+    "month": 4,
+    "drawn": "D.S. 4/88",
+    "approved": "P.C. (signature)",
+    "signature": "revisions: 4 4/88 REDRAWN DS; 3 7/86 REDRAWN & STEREO TIE JUMPER PINS CORRECTED HM; 2 3/86 SLOT 11 & 12 PINS CORRECTED AN; DISC NO 233 CODE 3642S09; small block in corner",
+    "issue": "4",
+    "job": "3642"
+  }
+}

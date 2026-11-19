@@ -1,0 +1,37 @@
+{
+  "filename": "L1202A - P31 - Console Outline.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/L1202A - P31 - Console Outline.jpg",
+  "width": 1881,
+  "height": 1968,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1355,
+    1743,
+    1880,
+    1968
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:58",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/Models/T1202A/1982 - 1202-04-005 - WBS T1202A CONSOLE OUTLINE - DRN DN - ENG Schubert - ISS 1.jpg",
+  "note": "L1202A - P31 - Console Outline.jpg.md",
+  "title_block": {
+    "drawing_number": "B 1202-04-005",
+    "size": "B",
+    "title": "WBS T1202A CONSOLE / OUTLINE",
+    "date": "MAR/82",
+    "year": 1982,
+    "month": 3,
+    "drawn": "DN",
+    "engineer": "Schubert",
+    "signature": "scale 1:4",
+    "issue": "1",
+    "models": [
+      "T1202A"
+    ]
+  }
+}

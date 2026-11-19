@@ -1,0 +1,44 @@
+{
+  "filename": "2021-3-16-21-56-34.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/2021-3-16-21-56-34.jpg",
+  "extension": ".jpg",
+  "size_bytes": 297604,
+  "modified_time": "Sat Oct 17 23:34:15 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "2021",
+    "16",
+    "21",
+    "56",
+    "34"
+  ],
+  "width": 4968,
+  "height": 3220,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4968",
+    "ExifImageHeight": "3220",
+    "ImageUniqueID": "358de4b411f429f80000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/940238/1994 - 940238-03-012 - POWER INTERFACE PANEL - DRN DRG - ISS 2.jpg",
+  "note": "2021-3-16-21-56-34.jpg.md",
+  "title_block": {
+    "drawing_number": "D 940238-03-012",
+    "size": "D",
+    "title": "POWER INTERFACE / PANEL",
+    "drawn": "DRG",
+    "signature": "DISC NO: 469; CODE: 94238M12; SCALE 1:1",
+    "issue": "2"
+  }
+}

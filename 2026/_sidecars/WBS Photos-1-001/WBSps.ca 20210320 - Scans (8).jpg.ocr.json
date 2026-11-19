@@ -1,0 +1,35 @@
+{
+  "filename": "WBSps.ca 20210320 - Scans (8).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (8).jpg",
+  "width": 4757,
+  "height": 3363,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2884,
+    2728,
+    3085,
+    3212
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/INPUT-PRE-AMPS/M441/1971 - 441-03-006 - ESCUTCHEON DRILLING DETAIL - DRN WWH - ISS 3.jpg",
+  "note": "WBSps.ca 20210320 - Scans (8).jpg.md",
+  "title_block": {
+    "drawing_number": "B 441-03-006",
+    "size": "B",
+    "title": "ESCUTCHEON / DRILLING DETAIL",
+    "date": "5 OCT 71",
+    "year": 1971,
+    "month": 10,
+    "drawn": "W.W.H.",
+    "issue": "3",
+    "models": [
+      "M441"
+    ]
+  }
+}

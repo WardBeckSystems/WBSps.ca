@@ -1,0 +1,31 @@
+{
+  "filename": "413-02-001.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/Manuals + tech DOCUMENTS/Modules/M413/413-02-001.jpg",
+  "extension": ".jpg",
+  "size_bytes": 24049068,
+  "modified_time": "Sun Sep  6 22:10:06 2026",
+  "word_tokens": [
+    "413",
+    "02",
+    "001"
+  ],
+  "width": 10200,
+  "height": 3300,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "ResolutionUnit": "2",
+    "ExifOffset": "164",
+    "Software": "Adobe Photoshop CS3 Macintosh",
+    "Orientation": "1",
+    "DateTime": "2014:02:26 14:43:28",
+    "XResolution": "300.0",
+    "YResolution": "300.0",
+    "ColorSpace": "65535",
+    "ExifImageWidth": "10200",
+    "ExifImageHeight": "3300",
+    "DateTimeDigitized": "2014:02:26 14:43:28"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

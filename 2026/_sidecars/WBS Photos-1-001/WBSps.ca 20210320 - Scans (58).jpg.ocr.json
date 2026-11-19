@@ -1,0 +1,35 @@
+{
+  "filename": "WBSps.ca 20210320 - Scans (58).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (58).jpg",
+  "width": 4757,
+  "height": 3363,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1617,
+    2609,
+    2541,
+    3241
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/ROUTING/M468/1978 - 468-02-033 - M468V REVERB ASSIGN MODULE SCHEMATIC - DRN MRW - ISS 1.jpg",
+  "note": "WBSps.ca 20210320 - Scans (58).jpg.md",
+  "title_block": {
+    "drawing_number": "B 468-02-033",
+    "size": "B",
+    "title": "M468V / REVERB ASSIGN MODULE / SCHEMATIC",
+    "date": "OCT 78",
+    "year": 1978,
+    "month": 10,
+    "drawn": "MRW",
+    "issue": "1",
+    "models": [
+      "M468V"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "filename": "2021-3-21-17-26-2.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2021-3-21-17-26-2.jpg",
+  "width": 7004,
+  "height": 2284,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    4962,
+    1757,
+    7004,
+    2243
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M181/1973 - 181-02-001 - M441 SERIES PRE AMPLIFIER SCHEMATIC - DRN GP - ISS 1.jpg",
+  "note": "2021-3-21-17-26-2.jpg.md",
+  "title_block": {
+    "drawing_number": "B 181-02-001",
+    "size": "B",
+    "title": "M441 SERIES / PRE AMPLIFIER / SCHEMATIC",
+    "date": "APR 73",
+    "year": 1973,
+    "month": 4,
+    "drawn": "GP",
+    "checked": "signature (Rnl)",
+    "signature": "ISS. 1",
+    "issue": "1",
+    "models": [
+      "M441"
+    ]
+  }
+}

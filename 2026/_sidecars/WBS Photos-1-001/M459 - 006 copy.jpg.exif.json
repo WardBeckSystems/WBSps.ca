@@ -1,0 +1,49 @@
+{
+  "filename": "M459 - 006 copy.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M459 - 006 copy.jpg",
+  "extension": ".jpg",
+  "size_bytes": 102898,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m459",
+    "006",
+    "copy"
+  ],
+  "width": 900,
+  "height": 679,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "ImageWidth": "6293",
+    "ImageLength": "4764",
+    "BitsPerSample": "['8', '8', '8', '8']",
+    "PhotometricInterpretation": "1",
+    "ResolutionUnit": "2",
+    "ExifOffset": "242",
+    "Software": "Adobe Photoshop CS5 Windows",
+    "Orientation": "1",
+    "DateTime": "2011:11:10 15:56:58",
+    "YCbCrSubSampling": "['1', '1']",
+    "SamplesPerPixel": "4",
+    "XResolution": "72.0",
+    "YResolution": "72.0",
+    "ExifVersion": "0221",
+    "ColorSpace": "1",
+    "ExifImageWidth": "900",
+    "ExifImageHeight": "679",
+    "ImageUniqueID": "f375d10fad8ce42b0000000000000000",
+    "ExifInteroperabilityOffset": "354"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:58",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/ROUTING/M459/M459 - 006 copy.jpg",
+  "note": "M459 - 006 copy.jpg.md",
+  "title_block": {
+    "models": [
+      "M459"
+    ]
+  }
+}

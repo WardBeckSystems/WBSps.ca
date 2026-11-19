@@ -1,0 +1,15 @@
+{
+
+  for( i=17; --i >=1; i ) {
+     x=(i*1000)/256 ;
+     printf "        RETLW   %3d     ; %d\n", 256*(x-int(x))+1, i;
+  }
+
+  print " ";
+
+  for( i=17; --i >=1; i ) {
+     x=(i*1000)/256 ;
+     printf "        RETLW   %3d     ; %d\n", int(x), i;
+  }
+
+}

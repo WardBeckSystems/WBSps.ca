@@ -1,0 +1,24 @@
+{
+  "filename": "M467-567 - P025 - B467-01-001.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/M467-567 - P025 - B467-01-001.jpg",
+  "width": 900,
+  "height": 579,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": null,
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/DYNAMICS/M467/19xx - 467-01-001.jpg",
+  "note": "M467-567 - P025 - B467-01-001.jpg.md",
+  "title_block": {
+    "drawing_number": "B 467-01-001",
+    "size": "B",
+    "models": [
+      "M467"
+    ]
+  }
+}

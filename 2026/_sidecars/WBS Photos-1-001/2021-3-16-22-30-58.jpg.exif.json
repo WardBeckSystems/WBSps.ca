@@ -1,0 +1,50 @@
+{
+  "filename": "2021-3-16-22-30-58.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/2021-3-16-22-30-58.jpg",
+  "extension": ".jpg",
+  "size_bytes": 493186,
+  "modified_time": "Sat Oct 17 23:34:15 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "2021",
+    "16",
+    "22",
+    "30",
+    "58"
+  ],
+  "width": 4974,
+  "height": 3216,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4974",
+    "ExifImageHeight": "3216",
+    "ImageUniqueID": "9b82258500aabb290000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/920477 - Telemedia/1992 - 920477-01-002 - TELEMEDIA R1400 RADIO CONSOLE DC FUNCTIONAL - DRN PA - ENG PA - ISS 1.jpg",
+  "note": "2021-3-16-22-30-58.jpg.md",
+  "title_block": {
+    "drawing_number": "D 920477-01-002",
+    "size": "D",
+    "title": "TELEMEDIA / R1400 RADIO CONSOLE / DC FUNCTIONAL",
+    "drawn": "PA",
+    "checked": "GB (signature)",
+    "engineer": "PA",
+    "signature": "DISC NO: 433; CODE: 92477F01",
+    "issue": "1",
+    "customer": "Telemedia",
+    "models": [
+      "R1400"
+    ]
+  }
+}

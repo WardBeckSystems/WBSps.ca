@@ -1,0 +1,49 @@
+{
+  "filename": "K2942S - P11 - Input and EQ Schematic.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/K2942S - P11 - Input and EQ Schematic.jpg",
+  "extension": ".jpg",
+  "size_bytes": 440766,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "k2942s",
+    "p11",
+    "input",
+    "and",
+    "eq",
+    "schematic"
+  ],
+  "width": 2720,
+  "height": 2071,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "2720",
+    "ExifImageHeight": "2071",
+    "ImageUniqueID": "94437b74854fc6d40000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:58",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/INPUT-PRE-AMPS/M471C/19xx - 2042-02-001 - K2042S 1 AND K2042S 2 INPUT AND EQUALIZER SCHEMATIC - ISS 1.jpg",
+  "note": "K2942S - P11 - Input and EQ Schematic.jpg.md",
+  "title_block": {
+    "drawing_number": "B 2042-02-001",
+    "size": "B",
+    "title": "K2042S/1 AND K2042S/2 INPUT AND EQUALIZER / SCHEMATIC",
+    "issue": "1",
+    "models": [
+      "K2042S/1",
+      "K2042S/2",
+      "M471C"
+    ]
+  }
+}

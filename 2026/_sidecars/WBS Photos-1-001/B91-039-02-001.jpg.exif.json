@@ -1,0 +1,45 @@
+{
+  "filename": "B91-039-02-001.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/B91-039-02-001.jpg",
+  "extension": ".jpg",
+  "size_bytes": 4579536,
+  "modified_time": "Sat Oct 17 23:34:17 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "b91",
+    "039",
+    "02",
+    "001"
+  ],
+  "width": 3500,
+  "height": 4952,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "3500",
+    "ExifImageHeight": "4952",
+    "ImageUniqueID": "0dd2492f6a4bd4d50000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:58",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/19xx - 91-039-02-001 - SA91-039 DISPLAY ASSEMBLY SCHEMATIC - ISS 1.jpg",
+  "note": "B91-039-02-001.jpg.md",
+  "title_block": {
+    "drawing_number": "B 91-039-02-001",
+    "size": "B",
+    "title": "SA91-039 / DISPLAY ASSEMBLY / SCHEMATIC",
+    "issue": "1",
+    "models": [
+      "SA91-039"
+    ]
+  }
+}

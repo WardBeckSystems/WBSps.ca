@@ -1,0 +1,37 @@
+{
+  "filename": "IMG_1435 copy.JPG",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/Members/APK/wbs 001/IMG_1435 copy.JPG",
+  "extension": ".jpg",
+  "size_bytes": 848996,
+  "modified_time": "Sun Sep  6 22:09:21 2026",
+  "word_tokens": [
+    "img",
+    "1435",
+    "copy"
+  ],
+  "width": 1200,
+  "height": 1600,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "GPSInfo": "{1: 'N', 2: (52.0, 7.88, 0.0), 3: 'W', 4: (106.0, 35.34, 0.0)}",
+    "ResolutionUnit": "2",
+    "ExifOffset": "252",
+    "Make": "Apple",
+    "Model": "iPhone",
+    "Software": "QuickTime 7.6.2",
+    "Orientation": "1",
+    "DateTime": "2009:06:30 14:49:39",
+    "YCbCrPositioning": "1",
+    "XResolution": "72.0",
+    "YResolution": "72.0",
+    "HostComputer": "Mac OS X 10.5.7",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "DateTimeOriginal": "2009:06:30 14:48:06",
+    "DateTimeDigitized": "2009:06:30 14:48:06",
+    "FNumber": "2.8"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

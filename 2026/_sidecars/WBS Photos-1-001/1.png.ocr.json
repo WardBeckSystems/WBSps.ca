@@ -1,0 +1,31 @@
+{
+  "filename": "1.png",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/1.png",
+  "width": 4810,
+  "height": 3228,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "WBS WARD-BECK SYSTEMS | TITLE: Encoder PCB REU 13 | Document Number: REU: | MEGA interface WBS1 | Saved: 2016-03-18 2.47 PM Sheet: 1/7 | Printed: 2016-03-18 2.47 PM Draun: APK",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3372,
+    2538,
+    4738,
+    3128
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:53",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/2016 - MEGA interface - Encoder PCB - REV 13 - DRN APK.png",
+  "note": "1.png.md",
+  "title_block": {
+    "drawing_number": "MEGA interface",
+    "title": "Encoder PCB - REV 13",
+    "date": "2016-03-18",
+    "year": 2016,
+    "month": 3,
+    "drawn": "APK",
+    "signature": "REV: WBS1; Sheet 1/7"
+  }
+}

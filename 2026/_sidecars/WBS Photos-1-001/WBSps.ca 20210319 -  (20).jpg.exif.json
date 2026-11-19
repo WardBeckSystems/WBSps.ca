@@ -1,0 +1,46 @@
+{
+  "filename": "WBSps.ca 20210319 -  (20).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca 20210319 -  (20).jpg",
+  "extension": ".jpg",
+  "size_bytes": 550480,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "20210319",
+    "(20)"
+  ],
+  "width": 4969,
+  "height": 3220,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4969",
+    "ExifImageHeight": "3220",
+    "ImageUniqueID": "a7bc5167e8dfc1f60000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M905A/19xx - 905-03-001 - CONTROLLER MONITOR MODULE - DRN DRG - ISS 6.jpg",
+  "note": "WBSps.ca 20210319 -  (20).jpg.md",
+  "title_block": {
+    "drawing_number": "D 905-03-001",
+    "size": "D",
+    "title": "M905A CONTROLLER MONITOR MODULE",
+    "drawn": "DRG",
+    "signature": "REPLOT; DISC NO: M905001, CODE: 905001",
+    "issue": "6",
+    "models": [
+      "M905A"
+    ]
+  }
+}

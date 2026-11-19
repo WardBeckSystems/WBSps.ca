@@ -1,0 +1,187 @@
+`F  1.00 SA14331E
+`B "5" "5" "B" "    April 25, 1996" "C XXXX" "0" 
+"M920 INPUT MODULE PREAMPLIFIER" "WARD-BECK SYSTEMS LTD."
+"841 PROGRESS AVENUE"
+"SCARBOROUGH, ONTARIO, CANADA"
+"M1H 2X4"
+""
+`P S "+22V"
+`P S "+18V"
+`P S "A_COMMON"
+`P S "-18V"
+`P S "-22V"
+`P S "+12V"
+`P S "+5V"
+`P O "PHANTOM"
+`P S "CTL_COM"
+`P O "MIC CTL"
+`E .\SA14331A.LIB
+`I R "22" .\SA14331A.LIB "R" 390B6CE0  RX82  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "5K8" .\SA14331A.LIB "R" 390B6D3F  RX83  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "2N6731" .\SA14331A.LIB "NPN EBC" 390B88B7  QX3  [1]
+"" "" "" "" "" "" "" "TO-237" 
+"TO-237"
+( "EMITTER" "1" P ) ( "BASE" "2" I ) ( "COLLECTOR" "3" P ) 
+`I R "2N3904" .\SA14331A.LIB "NPN EBC" 390B88E9  QX4  [1]
+"" "" "" "" "" "" "" "TO-92" 
+"TO-92"
+( "EMITTER" "1" P ) ( "BASE" "2" I ) ( "COLLECTOR" "3" P ) 
+`I R "0.1/50" .\SA14331A.LIB "CAP NP" 390B7C91  CX59  []
+"" "" "" "" "" "" "" "CAP.1" 
+"CAP.1"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "100K" .\SA14331A.LIB "R" 390B7990  RX84  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "22/25" .\SA14331A.LIB "CAP" 390B7BD7  CX60  []
+"" "" "" "" "" "" "" "RAD.1" 
+"RAD.1"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "22" .\SA14331A.LIB "R" 390B9B4A  RX85  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "5K8" .\SA14331A.LIB "R" 390B9A66  RX86  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "0.1/50" .\SA14331A.LIB "CAP NP" 390C1A72  CX61  []
+"" "" "" "" "" "" "" "CAP.1" 
+"CAP.1"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "100K" .\SA14331A.LIB "R" 390BA2A7  RX87  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "2N3906" .\SA14331A.LIB "PNP EBC" 390B9E42  QX5  [1]
+"" "" "" "" "" "" "" "TO-92" 
+"TO-92"
+( "COLLECTOR" "3" P ) ( "BASE" "2" I ) ( "EMITTER" "1" P ) 
+`I R "2N6730" .\SA14331A.LIB "PNP EBC" 390B9DBC  QX6  [1]
+"" "" "" "" "" "" "" "TO-237" 
+"TO-237"
+( "COLLECTOR" "3" P ) ( "BASE" "2" I ) ( "EMITTER" "1" P ) 
+`I R "9K1" .\SA14331A.LIB "R" 390C2DBE  RX88  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "100K" .\SA14331A.LIB "R" 390C2D6D  RX89  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "9K1" .\SA14331A.LIB "R" 390C2D91  RX90  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "2N3906" .\SA14331A.LIB "PNP EBC" 390C3350  QX7  [1]
+"" "" "" "" "" "" "" "TO-92" 
+"TO-92"
+( "COLLECTOR" "3" P ) ( "BASE" "2" I ) ( "EMITTER" "1" P ) 
+`I R "2N3904" .\SA14331A.LIB "NPN EBC" 390C3246  QX8  [1]
+"" "" "" "" "" "" "" "TO-92" 
+"TO-92"
+( "EMITTER" "1" P ) ( "BASE" "2" I ) ( "COLLECTOR" "3" P ) 
+`I R "22/25" .\SA14331A.LIB "CAP" 390C3A24  CX62  []
+"" "" "" "" "" "" "" "RAD.1" 
+"RAD.1"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "22/25" .\SA14331A.LIB "CAP" 390C3D23  CX63  []
+"" "" "" "" "" "" "" "RAD.1" 
+"RAD.1"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "47/50" .\SA14331A.LIB "CAP" 390C4F3C  CX64  []
+"" "" "" "" "" "" "" "RAD.15" 
+"RAD.15"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "390" .\SA14331A.LIB "R" 390C4FD8  RX91  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "3K9" .\SA14331A.LIB "R" 390C5047  RX92  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "3K3" .\SA14331A.LIB "R" 390C5C78  RX93  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "0.1/50" .\SA14331A.LIB "CAP NP" 390C5AA6  CX65  []
+"" "" "" "" "" "" "" "CAP.1" 
+"CAP.1"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "22/25" .\SA14331A.LIB "CAP" 390C5A1E  CX66  []
+"" "" "" "" "" "" "" "RAD.1" 
+"RAD.1"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "0.1/50" .\SA14331A.LIB "CAP NP" 390C66FA  CX67  []
+"" "" "" "" "" "" "" "CAP.1" 
+"CAP.1"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "22/25" .\SA14331A.LIB "CAP" 390C66FC  CX68  []
+"" "" "" "" "" "" "" "RAD.1" 
+"RAD.1"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "100K" .\SA14331A.LIB "R" 390C66F9  RX94  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "2N3904" .\SA14331A.LIB "NPN EBC" 390C58DA  QX9  [1]
+"" "" "" "" "" "" "" "TO-92" 
+"TO-92"
+( "EMITTER" "1" P ) ( "BASE" "2" I ) ( "COLLECTOR" "3" P ) 
+`I R "47/50" .\SA14331A.LIB "CAP" 390B6820  CX69  []
+"" "" "" "" "" "" "" "RAD.125" 
+"RAD.125"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "22/25" .\SA14331A.LIB "CAP" 390C1AFA  CX70  []
+"" "" "" "" "" "" "" "RAD.1" 
+"RAD.1"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "47/50" .\SA14331A.LIB "CAP" 390B98BE  CX71  []
+"" "" "" "" "" "" "" "RAD.125" 
+"RAD.125"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "65646-112" .\SA14331A.LIB "HEADER 12" 39261BFE  P1  []
+"" "" "" "" "" "" "" "SIP12" 
+"SIP12"
+( "1" "1" P ) ( "2" "2" P ) ( "3" "3" P ) ( "4" "4" P ) 
+( "5" "5" P ) ( "6" "6" P ) ( "7" "7" P ) ( "8" "8" P ) ( "9" "9" P ) 
+( "10" "10" P ) ( "11" "11" P ) ( "12" "12" P ) 
+`J ( R P1 "12" P ) ( R RX83 "1" P ) ( R RX82 "1" P ) ( R P1 "11" P ) 
+`J ( R RX82 "2" P ) ( R QX3 3 P ) 
+`J ( R QX3 1 P ) ( P S "+22V" ) 
+`J ( R QX3 2 I ) ( R QX4 1 P ) 
+`J ( R QX4 2 I ) ( R RX83 "2" P ) ( R RX84 "1" P ) ( R CX59 "1" P ) 
+( R CX60 "1" P ) 
+`J ( R QX8 3 P ) ( R RX90 "1" P ) 
+`J ( R QX8 1 P ) ( P S "+18V" ) 
+`J ( R CX63 "1" P ) ( R CX62 "2" P ) ( R P1 "10" P ) ( R CX71 "1" P ) 
+( R CX69 "2" P ) ( R CX61 "1" P ) ( R CX59 "2" P ) ( R RX87 "1" P ) ( R RX84 "2" P ) 
+( R CX70 "1" P ) ( P S "A_COMMON" ) ( R P1 "9" P ) ( R P1 "8" P ) ( R P1 "2" P ) 
+`J ( R QX8 2 I ) ( R RX90 "2" P ) ( R RX89 "1" P ) ( R CX62 "1" P ) 
+`J ( R RX89 "2" P ) ( R QX7 2 I ) ( R RX88 "1" P ) ( R CX63 "2" P ) 
+`J ( R CX61 "2" P ) ( R RX87 "2" P ) ( R QX5 2 I ) ( R RX86 "2" P ) 
+( R CX70 "2" P ) 
+`J ( R P1 "7" P ) ( R P1 "6" P ) ( R RX86 "1" P ) ( R RX85 "1" P ) 
+`J ( R QX5 1 P ) ( R QX6 2 I ) 
+`J ( R RX88 "2" P ) ( R QX7 3 P ) 
+`J ( R QX7 1 P ) ( P S "-18V" ) 
+`J ( R RX85 "2" P ) ( R QX6 3 P ) 
+`J ( R QX6 1 P ) ( P S "-22V" ) 
+`J ( R CX64 "2" P ) ( R P1 "5" P ) ( R CX66 "2" P ) ( R CX65 "2" P ) 
+( R RX93 "2" P ) ( R CX68 "2" P ) ( R CX67 "2" P ) ( R RX94 "2" P ) ( P S "CTL_COM" ) 
+`J ( P S "+12V" ) ( R P1 "4" P ) ( R RX92 "1" P ) ( R CX64 "1" P ) 
+( R RX91 "1" P ) 
+`J ( R P1 "3" P ) ( P O "PHANTOM" ) 
+`J ( R P1 "1" P ) ( P O "MIC CTL" ) 
+`J ( R RX91 "2" P ) ( R QX9 3 P ) 
+`J ( R QX9 1 P ) ( R CX68 "1" P ) ( R CX67 "1" P ) ( R RX94 "1" P ) 
+( P S "+5V" ) 
+`J ( R QX9 2 I ) ( R RX92 "2" P ) ( R CX66 "1" P ) ( R RX93 "1" P ) 

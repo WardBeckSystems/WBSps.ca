@@ -1,0 +1,32 @@
+{
+  "filename": "wbsps - module - m648 power supply - back.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/wbsps - module - m648 power supply - back.jpg",
+  "extension": ".jpg",
+  "size_bytes": 100110,
+  "modified_time": "Sat Oct 17 23:34:21 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "module",
+    "m648",
+    "power",
+    "supply",
+    "back"
+  ],
+  "width": 748,
+  "height": 1000,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {},
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/POWER/M648/1983 - M648 - wbsps - module - m648 power supply - back.jpg",
+  "note": "wbsps - module - m648 power supply - back.jpg.md",
+  "title_block": {
+    "models": [
+      "M648"
+    ]
+  }
+}

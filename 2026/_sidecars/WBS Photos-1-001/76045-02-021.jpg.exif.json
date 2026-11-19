@@ -1,0 +1,49 @@
+{
+  "filename": "76045-02-021.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/76045-02-021.jpg",
+  "extension": ".jpg",
+  "size_bytes": 5529698,
+  "modified_time": "Sat Oct 17 23:34:16 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "76045",
+    "02",
+    "021"
+  ],
+  "width": 3504,
+  "height": 4956,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "3504",
+    "ExifImageHeight": "4956",
+    "ImageUniqueID": "a50a91d0c87526010000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:56",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1970-1979/76036/1976 - 76036-02-021 - M4-131X RELAY MODULE SCHEMATIC - DRN PA - ISS 1.jpg",
+  "note": "76045-02-021.jpg.md",
+  "title_block": {
+    "drawing_number": "B 76036-02-021",
+    "size": "B",
+    "title": "M4-131X / RELAY MODULE SCHEMATIC",
+    "date": "OCT 76",
+    "year": 1976,
+    "month": 10,
+    "drawn": "PA",
+    "checked": "PC",
+    "issue": "1",
+    "models": [
+      "M4-131X"
+    ]
+  }
+}

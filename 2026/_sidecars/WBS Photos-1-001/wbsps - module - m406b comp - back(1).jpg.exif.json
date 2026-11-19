@@ -1,0 +1,42 @@
+{
+  "filename": "wbsps - module - m406b comp - back(1).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/wbsps - module - m406b comp - back(1).jpg",
+  "extension": ".jpg",
+  "size_bytes": 133398,
+  "modified_time": "Sat Oct 17 23:34:21 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "module",
+    "m406b",
+    "comp",
+    "back(1)"
+  ],
+  "width": 788,
+  "height": 1000,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "788",
+    "ExifImageHeight": "1000",
+    "ImageUniqueID": "289ba68919db72a80000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/DYNAMICS/M406B/wbsps - module - m406b comp - back(1).jpg",
+  "note": "wbsps - module - m406b comp - back(1).jpg.md",
+  "title_block": {
+    "models": [
+      "M406B"
+    ]
+  }
+}

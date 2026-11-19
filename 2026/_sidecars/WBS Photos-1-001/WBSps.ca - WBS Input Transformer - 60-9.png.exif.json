@@ -1,0 +1,43 @@
+{
+  "filename": "WBSps.ca - WBS Input Transformer - 60-9.png",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca - WBS Input Transformer - 60-9.png",
+  "extension": ".png",
+  "size_bytes": 333620,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "wbs",
+    "input",
+    "transformer",
+    "60"
+  ],
+  "width": 4129,
+  "height": 2480,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "ExifOffset": "46",
+    "ExifVersion": "0220",
+    "ExifImageWidth": "4129",
+    "ExifImageHeight": "2480",
+    "ImageUniqueID": "31b7f990d5e64e350000000000000000"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1968 - 60-9 - 60-9 INPUT TRANSFORMER - ISS 2.png",
+  "note": "WBSps.ca - WBS Input Transformer - 60-9.png.md",
+  "title_block": {
+    "drawing_number": "60-9",
+    "title": "60-9 / INPUT TRANSFORMER",
+    "date": "DEC 5/68",
+    "year": 1968,
+    "month": 12,
+    "signature": "ISS 2 IMPEDANCE & SPEC ALTERED SEPT 70",
+    "issue": "2"
+  }
+}

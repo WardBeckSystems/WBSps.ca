@@ -1,0 +1,47 @@
+{
+  "filename": "2021-3-16-22-11-43.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/2021-3-16-22-11-43.jpg",
+  "extension": ".jpg",
+  "size_bytes": 418839,
+  "modified_time": "Sat Oct 17 23:34:15 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "2021",
+    "16",
+    "22",
+    "11",
+    "43"
+  ],
+  "width": 4970,
+  "height": 3218,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4970",
+    "ExifImageHeight": "3218",
+    "ImageUniqueID": "f233d668f7f95bce0000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/940335/1994 - 940335-03-002 - SAS APC-88 BRACE - DRN DRG - ISS 3.jpg",
+  "note": "2021-3-16-22-11-43.jpg.md",
+  "title_block": {
+    "drawing_number": "D 940335-03-002",
+    "size": "D",
+    "title": "SAS / APC-88 / BRACE",
+    "drawn": "DRG",
+    "signature": "DISC NO: 470; CODE: 94335M02; SCALE 1:1",
+    "issue": "3",
+    "models": [
+      "APC-88"
+    ]
+  }
+}

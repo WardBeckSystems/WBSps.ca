@@ -1,0 +1,28 @@
+{
+  "filename": "20170522_122029_013.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/wbsPS-NOT UPLOADED/20170522_122029_013.jpg",
+  "extension": ".jpg",
+  "size_bytes": 3166716,
+  "modified_time": "Sun Sep  6 22:05:43 2026",
+  "word_tokens": [
+    "20170522",
+    "122029",
+    "013"
+  ],
+  "width": 6600,
+  "height": 5100,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "ResolutionUnit": "2",
+    "ExifOffset": "90",
+    "Orientation": "1",
+    "XResolution": "600.0",
+    "YResolution": "600.0",
+    "ColorSpace": "1",
+    "ExifImageWidth": "6600",
+    "ExifImageHeight": "5100"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

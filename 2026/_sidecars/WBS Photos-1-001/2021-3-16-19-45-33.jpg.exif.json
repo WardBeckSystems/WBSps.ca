@@ -1,0 +1,50 @@
+{
+  "filename": "2021-3-16-19-45-33.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/2021-3-16-19-45-33.jpg",
+  "extension": ".jpg",
+  "size_bytes": 1361506,
+  "modified_time": "Sat Oct 17 23:34:15 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "2021",
+    "16",
+    "19",
+    "45",
+    "33"
+  ],
+  "width": 4969,
+  "height": 3220,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4969",
+    "ExifImageHeight": "3220",
+    "ImageUniqueID": "67012eb549d6b8dd0000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/COMMUNICATION/M712/1979 - 712-02-102 - M712B INTERCOM MATRIX AMPLIFIER CONNECTION OF MULTIPLE MODULES - DRN MRW - ENG MRW - ISS 1.jpg",
+  "note": "2021-3-16-19-45-33.jpg.md",
+  "title_block": {
+    "drawing_number": "D 712-02-102",
+    "size": "D",
+    "title": "M712B / INTERCOM MATRIX AMPLIFIER / CONNECTION OF MULTIPLE MODULES",
+    "date": "1/79",
+    "year": 1979,
+    "month": 1,
+    "drawn": "MRW 1/79",
+    "engineer": "MRW",
+    "issue": "1",
+    "models": [
+      "M712B"
+    ]
+  }
+}

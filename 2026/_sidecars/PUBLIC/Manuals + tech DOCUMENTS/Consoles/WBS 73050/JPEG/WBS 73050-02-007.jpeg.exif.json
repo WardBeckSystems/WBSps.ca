@@ -1,0 +1,32 @@
+{
+  "filename": "WBS 73050-02-007.jpeg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/Manuals + tech DOCUMENTS/Consoles/WBS 73050/JPEG/WBS 73050-02-007.jpeg",
+  "extension": ".jpeg",
+  "size_bytes": 2679091,
+  "modified_time": "Sun Sep  6 22:18:25 2026",
+  "word_tokens": [
+    "wbs",
+    "73050",
+    "02",
+    "007"
+  ],
+  "width": 4608,
+  "height": 1500,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "PhotometricInterpretation": "1",
+    "ResolutionUnit": "2",
+    "ExifOffset": "176",
+    "Software": "Adobe Photoshop CS3 Macintosh",
+    "Orientation": "1",
+    "DateTime": "2009:12:29 01:24:49",
+    "XResolution": "300.0",
+    "YResolution": "300.0",
+    "ColorSpace": "65535",
+    "ExifImageWidth": "4608",
+    "ExifImageHeight": "1500"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

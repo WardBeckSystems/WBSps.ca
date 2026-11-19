@@ -1,0 +1,37 @@
+{
+  "filename": "M490L - P034 - B7-112-02-002 R.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/M490L - P034 - B7-112-02-002 R.jpg",
+  "width": 1700,
+  "height": 2168,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1162,
+    1940,
+    1699,
+    2168
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/INPUT-PRE-AMPS/M490L/1983 - 7-112-02-002 - 7-112A CHANNEL AMPLIFIER SCHEMATIC - DRN TR - ENG TR - ISS 1.jpg",
+  "note": "M490L - P034 - B7-112-02-002 R.jpg.md",
+  "title_block": {
+    "drawing_number": "B 7-112-02-002",
+    "size": "B",
+    "title": "7-112A CHANNEL AMPLIFIER / SCHEMATIC",
+    "date": "9/83",
+    "year": 1983,
+    "month": 9,
+    "drawn": "T.R. 9/83",
+    "checked": "Relle",
+    "engineer": "T.R.",
+    "issue": "1",
+    "models": [
+      "M490L"
+    ]
+  }
+}

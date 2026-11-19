@@ -1,0 +1,30 @@
+{
+  "filename": "402-02-013.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/Manuals + tech DOCUMENTS/Modules/M402B/402-02-013.jpg",
+  "extension": ".jpg",
+  "size_bytes": 16777259,
+  "modified_time": "Sun Sep  6 22:12:22 2026",
+  "word_tokens": [
+    "402",
+    "02",
+    "013"
+  ],
+  "width": 3300,
+  "height": 10800,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "ResolutionUnit": "2",
+    "ExifOffset": "164",
+    "Software": "Adobe Photoshop CS3 Macintosh",
+    "Orientation": "1",
+    "DateTime": "2013:12:28 21:02:31",
+    "XResolution": "300.0",
+    "YResolution": "300.0",
+    "ColorSpace": "65535",
+    "ExifImageWidth": "3300",
+    "ExifImageHeight": "10800"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

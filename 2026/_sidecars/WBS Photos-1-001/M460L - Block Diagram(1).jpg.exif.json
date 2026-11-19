@@ -1,0 +1,44 @@
+{
+  "filename": "M460L - Block Diagram(1).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M460L - Block Diagram(1).jpg",
+  "extension": ".jpg",
+  "size_bytes": 124396,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m460l",
+    "block",
+    "diagram(1)"
+  ],
+  "width": 900,
+  "height": 583,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "ResolutionUnit": "2",
+    "ExifOffset": "176",
+    "Software": "Adobe Photoshop CS3 Macintosh",
+    "Orientation": "1",
+    "DateTime": "2008:06:18 00:00:02",
+    "YCbCrSubSampling": "['1', '1']",
+    "XResolution": "300.0",
+    "YResolution": "300.0",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "900",
+    "ExifImageHeight": "583",
+    "ImageUniqueID": "fb1e5d9e9e45cc510000000000000000",
+    "ExifInteroperabilityOffset": "288"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/INPUT-PRE-AMPS/M460L/M460L - Block Diagram(1).jpg",
+  "note": "M460L - Block Diagram(1).jpg.md",
+  "title_block": {
+    "models": [
+      "M460L"
+    ]
+  }
+}

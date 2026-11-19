@@ -1,0 +1,36 @@
+{
+  "filename": "2022-2-11-22-53-57.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2022-2-11-22-53-57.jpg",
+  "width": 3252,
+  "height": 10896,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2573,
+    0,
+    3248,
+    2920
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M756/1971 - 756-02-001 - ENCODER AND STROBE DRIVER SCHEMATIC - DRN PHIL - ISS 1.jpg",
+  "note": "2022-2-11-22-53-57.jpg.md",
+  "title_block": {
+    "drawing_number": "B 756-02-001",
+    "size": "B",
+    "title": "M756 / ENCODER AND STROBE DRIVER / SCHEMATIC",
+    "date": "Oct 71",
+    "year": 1971,
+    "month": 10,
+    "drawn": "PHIL",
+    "signature": "ISS. 1",
+    "issue": "1",
+    "models": [
+      "M756"
+    ]
+  }
+}

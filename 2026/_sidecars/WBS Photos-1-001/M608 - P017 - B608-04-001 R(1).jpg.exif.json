@@ -1,0 +1,55 @@
+{
+  "filename": "M608 - P017 - B608-04-001 R(1).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M608 - P017 - B608-04-001 R(1).jpg",
+  "extension": ".jpg",
+  "size_bytes": 300304,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m608",
+    "p017",
+    "b608",
+    "04",
+    "001",
+    "r(1)"
+  ],
+  "width": 1700,
+  "height": 2183,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "1700",
+    "ExifImageHeight": "2183",
+    "ImageUniqueID": "25fa9cff925fee540000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/AMPLIFIERS/M608/1980 - 608-04-001 - AUDIO DISTRIBUTION AMPLIFIER REAR CONNECTOR LAYOUT - DRN P. Mahoney - ENG MRW - ISS 2.jpg",
+  "note": "M608 - P017 - B608-04-001 R(1).jpg.md",
+  "title_block": {
+    "drawing_number": "B 608-04-001",
+    "size": "B",
+    "title": "AUDIO DISTRIBUTION AMPLIFIER / REAR CONNECTOR LAYOUT",
+    "date": "10/80",
+    "year": 1980,
+    "month": 10,
+    "drawn": "P. Mahoney",
+    "checked": "signed",
+    "engineer": "MRW 7/80",
+    "signature": "ISS 2 10/80 3723 P.M.",
+    "issue": "2",
+    "models": [
+      "M608",
+      "M608A"
+    ]
+  }
+}

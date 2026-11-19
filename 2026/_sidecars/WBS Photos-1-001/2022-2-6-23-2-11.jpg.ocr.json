@@ -1,0 +1,37 @@
+{
+  "filename": "2022-2-6-23-2-11.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2022-2-6-23-2-11.jpg",
+  "width": 3312,
+  "height": 10752,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    7677,
+    2516,
+    10752,
+    3255
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:55",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M704/1970 - 704-02-001 - M 704 INTERCOM PRE-AMPLIFIER SCHEMATIC - DRN DPS - ISS 1.jpg",
+  "note": "2022-2-6-23-2-11.jpg.md",
+  "title_block": {
+    "drawing_number": "B 704-02-001",
+    "size": "B",
+    "title": "M 704 / INTERCOM PRE-AMPLIFIER / SCHEMATIC",
+    "date": "20 MAY 1970",
+    "year": 1970,
+    "month": 5,
+    "drawn": "D.P.S",
+    "checked": "AL/RB",
+    "signature": "ISS. 1",
+    "issue": "1",
+    "models": [
+      "M704"
+    ]
+  }
+}

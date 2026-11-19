@@ -1,0 +1,50 @@
+{
+  "filename": "M481 - P006 - B-481-02-001 R.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M481 - P006 - B-481-02-001 R.jpg",
+  "extension": ".jpg",
+  "size_bytes": 683364,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m481",
+    "p006",
+    "481",
+    "02",
+    "001"
+  ],
+  "width": 5300,
+  "height": 2141,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "5300",
+    "ExifImageHeight": "2141",
+    "ImageUniqueID": "1a4704c8dd42a21a0000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/AMPLIFIERS/M481/1975 - 481-02-001 - OSCILLATOR CUE AMPLIFIER SCHEMATIC - DRN DM - ISS 2.jpg",
+  "note": "M481 - P006 - B-481-02-001 R.jpg.md",
+  "title_block": {
+    "drawing_number": "B 481-02-001",
+    "size": "B",
+    "title": "M481 / OSCILLATOR/CUE AMPLIFIER / SCHEMATIC",
+    "date": "MAY 75",
+    "year": 1975,
+    "month": 5,
+    "drawn": "DM",
+    "issue": "2?",
+    "models": [
+      "M481"
+    ]
+  }
+}

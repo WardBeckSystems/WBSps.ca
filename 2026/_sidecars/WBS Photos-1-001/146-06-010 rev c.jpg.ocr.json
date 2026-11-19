@@ -1,0 +1,36 @@
+{
+  "filename": "146-06-010 rev c.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/146-06-010 rev c.jpg",
+  "width": 3500,
+  "height": 4952,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "RN DJG FINISH WARD BECK SYSTES LTd: | ATE DEC 69 COMPRESSOR | MATERIAL M4O B | HKD | M146 LAYOUT | CALE | OLS FRACT z 1/64 DEC TO PLACES GIVEN ANGLES B 146 06 '0io ISS: | #IRe MN BEND RAD UNESS SPECIFIED",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2621,
+    0,
+    3246,
+    2698
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M146/1969 - 146-06-010 - M406 B COMPRESSOR M146 LAYOUT - DRN DJG - ISS 3.jpg",
+  "note": "146-06-010 rev c.jpg.md",
+  "title_block": {
+    "drawing_number": "B 146-06-010",
+    "size": "B",
+    "title": "M406 B COMPRESSOR / M146 LAYOUT",
+    "date": "DEC 69",
+    "year": 1969,
+    "month": 12,
+    "drawn": "DJG",
+    "issue": "3",
+    "models": [
+      "M406B",
+      "M146"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "filename": "M538 - 012.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/M538 - 012.jpg",
+  "width": 4277,
+  "height": 2881,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1623,
+    463,
+    1856,
+    1426
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/ROUTING/M538/19xx - 538-01-004 - 8x1 STEREO SWITCHER MODULE FUNCTIONAL.jpg",
+  "note": "M538 - 012.jpg.md",
+  "title_block": {
+    "drawing_number": "B 538-01-004",
+    "size": "B",
+    "title": "8x1 STEREO SWITCHER MODULE / FUNCTIONAL",
+    "models": [
+      "M538C"
+    ]
+  }
+}

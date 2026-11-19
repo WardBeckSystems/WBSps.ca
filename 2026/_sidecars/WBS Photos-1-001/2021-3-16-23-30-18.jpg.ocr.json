@@ -1,0 +1,31 @@
+{
+  "filename": "2021-3-16-23-30-18.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2021-3-16-23-30-18.jpg",
+  "width": 4955,
+  "height": 3229,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3943,
+    2653,
+    4953,
+    3147
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/940305 - Telemedia Sudbury/1994 - 940305-04-001 - TELEMEDIA SUDBURY CUSTOM TURRET LAYOUTS - DRN DRG - ISS 2.jpg",
+  "note": "2021-3-16-23-30-18.jpg.md",
+  "title_block": {
+    "drawing_number": "D 940305-04-001",
+    "size": "D",
+    "title": "TELEMEDIA SUDBURY / CUSTOM TURRET / LAYOUTS",
+    "drawn": "DRG",
+    "signature": "DISC NO: 467; CODE: 94305L01; SCALE NTS",
+    "issue": "2",
+    "customer": "Telemedia Sudbury"
+  }
+}

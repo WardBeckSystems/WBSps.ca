@@ -1,0 +1,37 @@
+{
+  "filename": "53761967_2438917769463537_1375602171491385344_o_2438917766130204.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/53761967_2438917769463537_1375602171491385344_o_2438917766130204.jpg",
+  "extension": ".jpg",
+  "size_bytes": 123986,
+  "modified_time": "Sat Oct 17 23:34:16 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "53761967",
+    "2438917769463537",
+    "1375602171491385344",
+    "2438917766130204"
+  ],
+  "width": 2016,
+  "height": 1008,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ExifImageWidth": "2016",
+    "ExifImageHeight": "1008",
+    "ImageUniqueID": "54e035d73bcf50430000000000000000"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:56",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/2010 - The Pin 2,5,8,11,16,19,22,25 Problem (2).jpg",
+  "note": "53761967_2438917769463537_1375602171491385344_o_2438917766130204.jpg.md",
+  "title_block": {
+    "title": "The Pin 2,5,8,11,16,19,22,25 Problem",
+    "year": 2010
+  }
+}

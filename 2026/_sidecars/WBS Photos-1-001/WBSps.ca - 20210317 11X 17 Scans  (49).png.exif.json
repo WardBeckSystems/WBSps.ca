@@ -1,0 +1,52 @@
+{
+  "filename": "WBSps.ca - 20210317 11X 17 Scans  (49).png",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca - 20210317 11X 17 Scans  (49).png",
+  "extension": ".png",
+  "size_bytes": 1583296,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "20210317",
+    "11x",
+    "17",
+    "scans",
+    "(49)"
+  ],
+  "width": 4757,
+  "height": 3363,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "ExifOffset": "46",
+    "ExifVersion": "0220",
+    "ExifImageWidth": "4757",
+    "ExifImageHeight": "3363",
+    "ImageUniqueID": "f2813d071eccdbbe0000000000000000"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/AMPLIFIERS/M608/1980 - 608-02-003 - M608A AUDIO DISTRIBUTION AMPLIFIER SYSTEM WIRING SCHEMATIC - DRN P. MAHONEY - ENG MRW - ISS 1.png",
+  "note": "WBSps.ca - 20210317 11X 17 Scans  (49).png.md",
+  "title_block": {
+    "drawing_number": "B 608-02-003",
+    "size": "B",
+    "title": "M608/M608A / AUDIO DISTRIBUTION AMPLIFIER / SYSTEM WIRING SCHEMATIC",
+    "date": "7/80",
+    "year": 1980,
+    "month": 7,
+    "drawn": "P. MAHONEY",
+    "checked": "(initials)",
+    "engineer": "MRW 7/80",
+    "signature": "date 7/80 from ENG line",
+    "issue": "1",
+    "models": [
+      "M608",
+      "M608A"
+    ]
+  }
+}

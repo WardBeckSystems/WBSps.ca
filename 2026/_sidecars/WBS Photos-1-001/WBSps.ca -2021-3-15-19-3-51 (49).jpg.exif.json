@@ -1,0 +1,53 @@
+{
+  "filename": "WBSps.ca -2021-3-15-19-3-51 (49).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca -2021-3-15-19-3-51 (49).jpg",
+  "extension": ".jpg",
+  "size_bytes": 522408,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "2021",
+    "15",
+    "19",
+    "51",
+    "(49)"
+  ],
+  "width": 4968,
+  "height": 3220,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4968",
+    "ExifImageHeight": "3220",
+    "ImageUniqueID": "baf278b14e2fb37f0000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/AMPLIFIERS/M450/1974 - 450-02-001 - PROGRAM SUMMING AMPLIFIER SCHEMATIC - DRN DM - ISS 7.jpg",
+  "note": "WBSps.ca -2021-3-15-19-3-51 (49).jpg.md",
+  "title_block": {
+    "drawing_number": "D 450-02-001",
+    "size": "D",
+    "title": "M450 / PROGRAM / SUMMING AMPLIFIER / SCHEMATIC",
+    "date": "24 MAY 74",
+    "year": 1974,
+    "month": 5,
+    "drawn": "DM",
+    "checked": "R. Bell (signature)",
+    "signature": "USED ON M450; revision checker initials",
+    "issue": "7",
+    "models": [
+      "M450"
+    ]
+  }
+}

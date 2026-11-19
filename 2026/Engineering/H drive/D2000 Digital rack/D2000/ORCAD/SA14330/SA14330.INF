@@ -1,0 +1,192 @@
+`F  1.00 SA14330
+`B "1" "2" "B" "    March  6, 1996" "B 14-330-02-001" "0" 
+"AMPLIFIER BACKPLANE ASSEMBLY" "WARD-BECK SYSTEMS LTD."
+"841 PROGRESS AVENUE"
+"SCARBOROUGH, ONTARIO, CANADA"
+"M1H 2X4"
+""
+`L SA14330A
+`P B "BUS0"
+`P B "BUS1"
+`P B "BUS2"
+`P B "BUS3"
+`P B "BUS4"
+`P B "BUS5"
+`P B "BUS6"
+`P B "BUS7"
+`P B "BUS8"
+`P B "CLK0"
+`P B "CLK1"
+`S "-22V" 1 
+`S "EARTH" 1 
+`S "+22V" 1 
+`S "A_COM" 1 
+`S "-8V" 1 
+`S "+8V" 1 
+`S "C_COM" 1 
+`E .\SA14330.LIB
+`I R "DIN48" .\SA14330.LIB "DIN48" 3BBA8446  P1  []
+"" "" "" "" "" "" "" "DIN48RM" 
+"DIN48RM"
+( "A1" "A1" P ) ( "C16" "C16" P ) ( "B1" "B1" P ) ( "B16" "B16" P ) 
+( "C1" "C1" P ) ( "A16" "A16" P ) ( "A2" "A2" P ) ( "C15" "C15" P ) ( "B2" "B2" P ) 
+( "B15" "B15" P ) ( "C2" "C2" P ) ( "A15" "A15" P ) ( "A3" "A3" P ) ( "C14" "C14" P ) 
+( "B3" "B3" P ) ( "B14" "B14" P ) ( "C3" "C3" P ) ( "A14" "A14" P ) ( "A4" "A4" P ) 
+( "C13" "C13" P ) ( "B4" "B4" P ) ( "B13" "B13" P ) ( "C4" "C4" P ) ( "A13" "A13" P ) 
+( "A5" "A5" P ) ( "C12" "C12" P ) ( "B5" "B5" P ) ( "B12" "B12" P ) ( "C5" "C5" P ) 
+( "A12" "A12" P ) ( "A6" "A6" P ) ( "C11" "C11" P ) ( "B6" "B6" P ) ( "B11" "B11" P ) 
+( "C6" "C6" P ) ( "A11" "A11" P ) ( "A7" "A7" P ) ( "C10" "C10" P ) ( "B7" "B7" P ) 
+( "B10" "B10" P ) ( "C7" "C7" P ) ( "A10" "A10" P ) ( "A8" "A8" P ) ( "C9" "C9" P ) 
+( "B8" "B8" P ) ( "B9" "B9" P ) ( "C8" "C8" P ) ( "A9" "A9" P ) 
+`I R "DIN48" .\SA14330.LIB "DIN48" 3CC8434A  P2  []
+"" "" "" "" "" "" "" "DIN48RM" 
+"DIN48RM"
+( "A1" "A1" P ) ( "C16" "C16" P ) ( "B1" "B1" P ) ( "B16" "B16" P ) 
+( "C1" "C1" P ) ( "A16" "A16" P ) ( "A2" "A2" P ) ( "C15" "C15" P ) ( "B2" "B2" P ) 
+( "B15" "B15" P ) ( "C2" "C2" P ) ( "A15" "A15" P ) ( "A3" "A3" P ) ( "C14" "C14" P ) 
+( "B3" "B3" P ) ( "B14" "B14" P ) ( "C3" "C3" P ) ( "A14" "A14" P ) ( "A4" "A4" P ) 
+( "C13" "C13" P ) ( "B4" "B4" P ) ( "B13" "B13" P ) ( "C4" "C4" P ) ( "A13" "A13" P ) 
+( "A5" "A5" P ) ( "C12" "C12" P ) ( "B5" "B5" P ) ( "B12" "B12" P ) ( "C5" "C5" P ) 
+( "A12" "A12" P ) ( "A6" "A6" P ) ( "C11" "C11" P ) ( "B6" "B6" P ) ( "B11" "B11" P ) 
+( "C6" "C6" P ) ( "A11" "A11" P ) ( "A7" "A7" P ) ( "C10" "C10" P ) ( "B7" "B7" P ) 
+( "B10" "B10" P ) ( "C7" "C7" P ) ( "A10" "A10" P ) ( "A8" "A8" P ) ( "C9" "C9" P ) 
+( "B8" "B8" P ) ( "B9" "B9" P ) ( "C8" "C8" P ) ( "A9" "A9" P ) 
+`I R "DIN48" .\SA14330.LIB "DIN48" 3CC84393  P3  []
+"" "" "" "" "" "" "" "DIN48RM" 
+"DIN48RM"
+( "A1" "A1" P ) ( "C16" "C16" P ) ( "B1" "B1" P ) ( "B16" "B16" P ) 
+( "C1" "C1" P ) ( "A16" "A16" P ) ( "A2" "A2" P ) ( "C15" "C15" P ) ( "B2" "B2" P ) 
+( "B15" "B15" P ) ( "C2" "C2" P ) ( "A15" "A15" P ) ( "A3" "A3" P ) ( "C14" "C14" P ) 
+( "B3" "B3" P ) ( "B14" "B14" P ) ( "C3" "C3" P ) ( "A14" "A14" P ) ( "A4" "A4" P ) 
+( "C13" "C13" P ) ( "B4" "B4" P ) ( "B13" "B13" P ) ( "C4" "C4" P ) ( "A13" "A13" P ) 
+( "A5" "A5" P ) ( "C12" "C12" P ) ( "B5" "B5" P ) ( "B12" "B12" P ) ( "C5" "C5" P ) 
+( "A12" "A12" P ) ( "A6" "A6" P ) ( "C11" "C11" P ) ( "B6" "B6" P ) ( "B11" "B11" P ) 
+( "C6" "C6" P ) ( "A11" "A11" P ) ( "A7" "A7" P ) ( "C10" "C10" P ) ( "B7" "B7" P ) 
+( "B10" "B10" P ) ( "C7" "C7" P ) ( "A10" "A10" P ) ( "A8" "A8" P ) ( "C9" "C9" P ) 
+( "B8" "B8" P ) ( "B9" "B9" P ) ( "C8" "C8" P ) ( "A9" "A9" P ) 
+`I R "DIN48" .\SA14330.LIB "DIN48" 3CC843F1  P4  []
+"" "" "" "" "" "" "" "DIN48RM" 
+"DIN48RM"
+( "A1" "A1" P ) ( "C16" "C16" P ) ( "B1" "B1" P ) ( "B16" "B16" P ) 
+( "C1" "C1" P ) ( "A16" "A16" P ) ( "A2" "A2" P ) ( "C15" "C15" P ) ( "B2" "B2" P ) 
+( "B15" "B15" P ) ( "C2" "C2" P ) ( "A15" "A15" P ) ( "A3" "A3" P ) ( "C14" "C14" P ) 
+( "B3" "B3" P ) ( "B14" "B14" P ) ( "C3" "C3" P ) ( "A14" "A14" P ) ( "A4" "A4" P ) 
+( "C13" "C13" P ) ( "B4" "B4" P ) ( "B13" "B13" P ) ( "C4" "C4" P ) ( "A13" "A13" P ) 
+( "A5" "A5" P ) ( "C12" "C12" P ) ( "B5" "B5" P ) ( "B12" "B12" P ) ( "C5" "C5" P ) 
+( "A12" "A12" P ) ( "A6" "A6" P ) ( "C11" "C11" P ) ( "B6" "B6" P ) ( "B11" "B11" P ) 
+( "C6" "C6" P ) ( "A11" "A11" P ) ( "A7" "A7" P ) ( "C10" "C10" P ) ( "B7" "B7" P ) 
+( "B10" "B10" P ) ( "C7" "C7" P ) ( "A10" "A10" P ) ( "A8" "A8" P ) ( "C9" "C9" P ) 
+( "B8" "B8" P ) ( "B9" "B9" P ) ( "C8" "C8" P ) ( "A9" "A9" P ) 
+`I R "DIN48" .\SA14330.LIB "DIN48" 3CC866C9  P5  []
+"" "" "" "" "" "" "" "DIN48RM" 
+"DIN48RM"
+( "A1" "A1" P ) ( "C16" "C16" P ) ( "B1" "B1" P ) ( "B16" "B16" P ) 
+( "C1" "C1" P ) ( "A16" "A16" P ) ( "A2" "A2" P ) ( "C15" "C15" P ) ( "B2" "B2" P ) 
+( "B15" "B15" P ) ( "C2" "C2" P ) ( "A15" "A15" P ) ( "A3" "A3" P ) ( "C14" "C14" P ) 
+( "B3" "B3" P ) ( "B14" "B14" P ) ( "C3" "C3" P ) ( "A14" "A14" P ) ( "A4" "A4" P ) 
+( "C13" "C13" P ) ( "B4" "B4" P ) ( "B13" "B13" P ) ( "C4" "C4" P ) ( "A13" "A13" P ) 
+( "A5" "A5" P ) ( "C12" "C12" P ) ( "B5" "B5" P ) ( "B12" "B12" P ) ( "C5" "C5" P ) 
+( "A12" "A12" P ) ( "A6" "A6" P ) ( "C11" "C11" P ) ( "B6" "B6" P ) ( "B11" "B11" P ) 
+( "C6" "C6" P ) ( "A11" "A11" P ) ( "A7" "A7" P ) ( "C10" "C10" P ) ( "B7" "B7" P ) 
+( "B10" "B10" P ) ( "C7" "C7" P ) ( "A10" "A10" P ) ( "A8" "A8" P ) ( "C9" "C9" P ) 
+( "B8" "B8" P ) ( "B9" "B9" P ) ( "C8" "C8" P ) ( "A9" "A9" P ) 
+`I R "DIN48" .\SA14330.LIB "DIN48" 3CC866CA  P6  []
+"" "" "" "" "" "" "" "DIN48RM" 
+"DIN48RM"
+( "A1" "A1" P ) ( "C16" "C16" P ) ( "B1" "B1" P ) ( "B16" "B16" P ) 
+( "C1" "C1" P ) ( "A16" "A16" P ) ( "A2" "A2" P ) ( "C15" "C15" P ) ( "B2" "B2" P ) 
+( "B15" "B15" P ) ( "C2" "C2" P ) ( "A15" "A15" P ) ( "A3" "A3" P ) ( "C14" "C14" P ) 
+( "B3" "B3" P ) ( "B14" "B14" P ) ( "C3" "C3" P ) ( "A14" "A14" P ) ( "A4" "A4" P ) 
+( "C13" "C13" P ) ( "B4" "B4" P ) ( "B13" "B13" P ) ( "C4" "C4" P ) ( "A13" "A13" P ) 
+( "A5" "A5" P ) ( "C12" "C12" P ) ( "B5" "B5" P ) ( "B12" "B12" P ) ( "C5" "C5" P ) 
+( "A12" "A12" P ) ( "A6" "A6" P ) ( "C11" "C11" P ) ( "B6" "B6" P ) ( "B11" "B11" P ) 
+( "C6" "C6" P ) ( "A11" "A11" P ) ( "A7" "A7" P ) ( "C10" "C10" P ) ( "B7" "B7" P ) 
+( "B10" "B10" P ) ( "C7" "C7" P ) ( "A10" "A10" P ) ( "A8" "A8" P ) ( "C9" "C9" P ) 
+( "B8" "B8" P ) ( "B9" "B9" P ) ( "C8" "C8" P ) ( "A9" "A9" P ) 
+`I R "DIN48" .\SA14330.LIB "DIN48" 3CC866CC  P7  []
+"" "" "" "" "" "" "" "DIN48RM" 
+"DIN48RM"
+( "A1" "A1" P ) ( "C16" "C16" P ) ( "B1" "B1" P ) ( "B16" "B16" P ) 
+( "C1" "C1" P ) ( "A16" "A16" P ) ( "A2" "A2" P ) ( "C15" "C15" P ) ( "B2" "B2" P ) 
+( "B15" "B15" P ) ( "C2" "C2" P ) ( "A15" "A15" P ) ( "A3" "A3" P ) ( "C14" "C14" P ) 
+( "B3" "B3" P ) ( "B14" "B14" P ) ( "C3" "C3" P ) ( "A14" "A14" P ) ( "A4" "A4" P ) 
+( "C13" "C13" P ) ( "B4" "B4" P ) ( "B13" "B13" P ) ( "C4" "C4" P ) ( "A13" "A13" P ) 
+( "A5" "A5" P ) ( "C12" "C12" P ) ( "B5" "B5" P ) ( "B12" "B12" P ) ( "C5" "C5" P ) 
+( "A12" "A12" P ) ( "A6" "A6" P ) ( "C11" "C11" P ) ( "B6" "B6" P ) ( "B11" "B11" P ) 
+( "C6" "C6" P ) ( "A11" "A11" P ) ( "A7" "A7" P ) ( "C10" "C10" P ) ( "B7" "B7" P ) 
+( "B10" "B10" P ) ( "C7" "C7" P ) ( "A10" "A10" P ) ( "A8" "A8" P ) ( "C9" "C9" P ) 
+( "B8" "B8" P ) ( "B9" "B9" P ) ( "C8" "C8" P ) ( "A9" "A9" P ) 
+`I R "DIN48" .\SA14330.LIB "DIN48" 3CC866CD  P8  []
+"" "" "" "" "" "" "" "DIN48RM" 
+"DIN48RM"
+( "A1" "A1" P ) ( "C16" "C16" P ) ( "B1" "B1" P ) ( "B16" "B16" P ) 
+( "C1" "C1" P ) ( "A16" "A16" P ) ( "A2" "A2" P ) ( "C15" "C15" P ) ( "B2" "B2" P ) 
+( "B15" "B15" P ) ( "C2" "C2" P ) ( "A15" "A15" P ) ( "A3" "A3" P ) ( "C14" "C14" P ) 
+( "B3" "B3" P ) ( "B14" "B14" P ) ( "C3" "C3" P ) ( "A14" "A14" P ) ( "A4" "A4" P ) 
+( "C13" "C13" P ) ( "B4" "B4" P ) ( "B13" "B13" P ) ( "C4" "C4" P ) ( "A13" "A13" P ) 
+( "A5" "A5" P ) ( "C12" "C12" P ) ( "B5" "B5" P ) ( "B12" "B12" P ) ( "C5" "C5" P ) 
+( "A12" "A12" P ) ( "A6" "A6" P ) ( "C11" "C11" P ) ( "B6" "B6" P ) ( "B11" "B11" P ) 
+( "C6" "C6" P ) ( "A11" "A11" P ) ( "A7" "A7" P ) ( "C10" "C10" P ) ( "B7" "B7" P ) 
+( "B10" "B10" P ) ( "C7" "C7" P ) ( "A10" "A10" P ) ( "A8" "A8" P ) ( "C9" "C9" P ) 
+( "B8" "B8" P ) ( "B9" "B9" P ) ( "C8" "C8" P ) ( "A9" "A9" P ) 
+`J ( R P5 "C16" P ) ( R P5 "B16" P ) ( R P6 "C16" P ) ( R P6 "B16" P ) 
+( R P7 "C16" P ) ( R P7 "B16" P ) ( R P8 "C16" P ) ( R P8 "B16" P ) ( R P1 "C16" P ) 
+( R P1 "B16" P ) ( R P2 "C16" P ) ( R P2 "B16" P ) ( R P3 "C16" P ) ( R P3 "B16" P ) 
+( R P4 "C16" P ) ( R P4 "B16" P ) ( S "-22V" 1  ) 
+`J ( R P5 "A16" P ) ( R P5 "C15" P ) ( R P6 "A16" P ) ( R P6 "C15" P ) 
+( R P7 "A16" P ) ( R P7 "C15" P ) ( R P8 "A16" P ) ( R P8 "C15" P ) ( R P1 "A16" P ) 
+( R P1 "C15" P ) ( R P2 "A16" P ) ( R P2 "C15" P ) ( R P3 "A16" P ) ( R P3 "C15" P ) 
+( R P4 "A16" P ) ( R P4 "C15" P ) ( S "EARTH" 1  ) 
+`J ( R P5 "B15" P ) ( R P5 "A15" P ) ( R P6 "B15" P ) ( R P6 "A15" P ) 
+( R P7 "B15" P ) ( R P7 "A15" P ) ( R P8 "B15" P ) ( R P8 "A15" P ) ( R P1 "B15" P ) 
+( R P1 "A15" P ) ( R P2 "B15" P ) ( R P2 "A15" P ) ( R P3 "B15" P ) ( R P3 "A15" P ) 
+( R P4 "B15" P ) ( R P4 "A15" P ) ( S "+22V" 1  ) 
+`J ( R P5 "C14" P ) ( R P5 "B14" P ) ( R P5 "A14" P ) ( R P6 "C14" P ) 
+( R P6 "B14" P ) ( R P6 "A14" P ) ( R P7 "C14" P ) ( R P7 "B14" P ) ( R P7 "A14" P ) 
+( R P8 "C14" P ) ( R P8 "B14" P ) ( R P8 "A14" P ) ( R P1 "C14" P ) ( R P1 "B14" P ) 
+( R P1 "A14" P ) ( R P2 "C14" P ) ( R P2 "B14" P ) ( R P2 "A14" P ) ( R P3 "C14" P ) 
+( R P3 "B14" P ) ( R P3 "A14" P ) ( R P4 "C14" P ) ( R P4 "B14" P ) ( R P4 "A14" P ) 
+( S "A_COM" 1  ) 
+`J ( R P5 "C13" P ) ( R P5 "B13" P ) ( R P5 "A13" P ) ( R P6 "C13" P ) 
+( R P6 "B13" P ) ( R P6 "A13" P ) ( R P7 "C13" P ) ( R P7 "B13" P ) ( R P7 "A13" P ) 
+( R P8 "C13" P ) ( R P8 "B13" P ) ( R P8 "A13" P ) ( R P1 "C13" P ) ( R P1 "B13" P ) 
+( R P1 "A13" P ) ( R P2 "C13" P ) ( R P2 "B13" P ) ( R P2 "A13" P ) ( R P3 "C13" P ) 
+( R P3 "B13" P ) ( R P3 "A13" P ) ( R P4 "C13" P ) ( R P4 "B13" P ) ( R P4 "A13" P ) 
+( S "-8V" 1  ) 
+`J ( R P5 "C12" P ) ( R P5 "B12" P ) ( R P5 "A12" P ) ( R P6 "C12" P ) 
+( R P6 "B12" P ) ( R P6 "A12" P ) ( R P7 "C12" P ) ( R P7 "B12" P ) ( R P7 "A12" P ) 
+( R P8 "C12" P ) ( R P8 "B12" P ) ( R P8 "A12" P ) ( R P1 "C12" P ) ( R P1 "B12" P ) 
+( R P1 "A12" P ) ( R P2 "C12" P ) ( R P2 "B12" P ) ( R P2 "A12" P ) ( R P3 "C12" P ) 
+( R P3 "B12" P ) ( R P3 "A12" P ) ( R P4 "C12" P ) ( R P4 "B12" P ) ( R P4 "A12" P ) 
+( S "+8V" 1  ) 
+`J ( P B "BUS8" ) ( R P8 "C11" P ) ( R P7 "C11" P ) ( R P6 "C11" P ) 
+( R P5 "C11" P ) ( R P4 "C11" P ) ( R P3 "C11" P ) ( R P2 "C11" P ) ( R P1 "C11" P ) 
+`J ( P B "BUS7" ) ( R P8 "B11" P ) ( R P7 "B11" P ) ( R P6 "B11" P ) 
+( R P5 "B11" P ) ( R P4 "B11" P ) ( R P3 "B11" P ) ( R P2 "B11" P ) ( R P1 "B11" P ) 
+`J ( P B "BUS6" ) ( R P8 "A11" P ) ( R P7 "A11" P ) ( R P6 "A11" P ) 
+( R P5 "A11" P ) ( R P4 "A11" P ) ( R P3 "A11" P ) ( R P2 "A11" P ) ( R P1 "A11" P ) 
+`J ( P B "BUS5" ) ( R P8 "C10" P ) ( R P7 "C10" P ) ( R P6 "C10" P ) 
+( R P5 "C10" P ) ( R P4 "C10" P ) ( R P3 "C10" P ) ( R P2 "C10" P ) ( R P1 "C10" P ) 
+`J ( P B "BUS4" ) ( R P8 "B10" P ) ( R P7 "B10" P ) ( R P6 "B10" P ) 
+( R P5 "B10" P ) ( R P4 "B10" P ) ( R P3 "B10" P ) ( R P2 "B10" P ) ( R P1 "B10" P ) 
+`J ( P B "BUS3" ) ( R P8 "A10" P ) ( R P7 "A10" P ) ( R P6 "A10" P ) 
+( R P5 "A10" P ) ( R P4 "A10" P ) ( R P3 "A10" P ) ( R P2 "A10" P ) ( R P1 "A10" P ) 
+`J ( P B "BUS2" ) ( R P8 "C9" P ) ( R P7 "C9" P ) ( R P6 "C9" P ) 
+( R P5 "C9" P ) ( R P4 "C9" P ) ( R P3 "C9" P ) ( R P2 "C9" P ) ( R P1 "C9" P ) 
+`J ( P B "BUS1" ) ( R P8 "B9" P ) ( R P7 "B9" P ) ( R P6 "B9" P ) 
+( R P5 "B9" P ) ( R P4 "B9" P ) ( R P3 "B9" P ) ( R P2 "B9" P ) ( R P1 "B9" P ) 
+`J ( P B "BUS0" ) ( R P8 "A9" P ) ( R P7 "A9" P ) ( R P6 "A9" P ) 
+( R P5 "A9" P ) ( R P4 "A9" P ) ( R P3 "A9" P ) ( R P2 "A9" P ) ( R P1 "A9" P ) 
+`J ( R P5 "B2" P ) ( R P5 "A2" P ) ( R P5 "C2" P ) ( R P6 "A2" P ) 
+( R P6 "B2" P ) ( R P6 "C2" P ) ( R P7 "A2" P ) ( R P7 "B2" P ) ( R P7 "C2" P ) 
+( R P8 "A2" P ) ( R P8 "B2" P ) ( R P8 "C2" P ) ( R P1 "B2" P ) ( R P1 "A2" P ) 
+( R P1 "C2" P ) ( R P2 "A2" P ) ( R P2 "B2" P ) ( R P2 "C2" P ) ( R P3 "A2" P ) 
+( R P3 "B2" P ) ( R P3 "C2" P ) ( R P4 "A2" P ) ( R P4 "B2" P ) ( R P4 "C2" P ) 
+( S "C_COM" 1  ) 
+`J ( P B "CLK0" ) ( R P8 "B8" P ) ( R P7 "B8" P ) ( R P6 "B8" P ) 
+( R P5 "B8" P ) ( R P4 "B8" P ) ( R P3 "B8" P ) ( R P2 "B8" P ) ( R P1 "B8" P ) 
+`J ( P B "CLK1" ) ( R P8 "C8" P ) ( R P7 "C8" P ) ( R P6 "C8" P ) 
+( R P5 "C8" P ) ( R P4 "C8" P ) ( R P3 "C8" P ) ( R P2 "C8" P ) ( R P1 "C8" P ) 
+`|
+"|LINK"
+"|SA14330A.SCH"

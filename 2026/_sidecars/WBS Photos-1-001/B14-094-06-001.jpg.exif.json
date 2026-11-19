@@ -1,0 +1,45 @@
+{
+  "filename": "B14-094-06-001.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/B14-094-06-001.jpg",
+  "extension": ".jpg",
+  "size_bytes": 3714274,
+  "modified_time": "Sat Oct 17 23:34:17 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "b14",
+    "094",
+    "06",
+    "001"
+  ],
+  "width": 3452,
+  "height": 4916,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "3452",
+    "ExifImageHeight": "4916",
+    "ImageUniqueID": "c7efdce7f9557a250000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:57",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/19xx - 14-094-06-001 - SA14-094 CONTROLLER ASSEMBLY COMPONENT LAYOUT - ISS 1.jpg",
+  "note": "B14-094-06-001.jpg.md",
+  "title_block": {
+    "drawing_number": "B 14-094-06-001",
+    "size": "B",
+    "title": "SA14-094 / CONTROLLER ASSEMBLY / COMPONENT LAYOUT",
+    "issue": "1",
+    "models": [
+      "SA14-094"
+    ]
+  }
+}

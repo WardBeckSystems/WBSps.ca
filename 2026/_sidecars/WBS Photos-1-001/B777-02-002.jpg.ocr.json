@@ -1,0 +1,31 @@
+{
+  "filename": "B777-02-002.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/B777-02-002.jpg",
+  "width": 3500,
+  "height": 4952,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1097,
+    2783,
+    1263,
+    3137
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:57",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M777/19xx - 777-02-002 - M777A STATUS MONITOR MODULE SCHEMATIC - ISS 1.jpg",
+  "note": "B777-02-002.jpg.md",
+  "title_block": {
+    "drawing_number": "B 777-02-002",
+    "size": "B",
+    "title": "M777A / STATUS MONITOR MODULE / SCHEMATIC",
+    "issue": "1",
+    "models": [
+      "M777A"
+    ]
+  }
+}

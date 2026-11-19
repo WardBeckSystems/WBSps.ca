@@ -1,0 +1,190 @@
+;*************************************************************
+;
+;	Test Program for PIC PROCESSOR
+;		by Tim Clarke
+;		July 18, 2000
+;
+;	This Program is to be used to check if there are fault
+;	Data I/O pins.  Ports A,B and C are toggled from a highs
+;	to lows, thereby, a test procedure would be placing a 
+;	the scope probe on the desired pins and checking if a
+;	periodic square results on the oscilloscope.  If result
+;	is not a square wave, then the pin is faulty.
+;*************************************************************
+
+	ERRORLEVEL -302
+;      R203 CONTROL ROOM MODULE
+
+	LIST	P=16C73
+	#INCLUDE "P16C73.INC"
+
+
+;************ CPU CONTROL MACROS **********
+
+BANK0	MACRO
+	BCF STATUS,5
+	ENDM
+
+BANK1	MACRO
+	BSF STATUS,5
+	ENDM
+
+BINIT	EQU 0X4F
+;************ PROGRAM CONSTANTS*************
+
+
+Z	EQU 2		;ZER0 FLAG IN STATUS REG                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+
+SEL0	EQU 0		;PORTD
+SEL1	EQU 0		;PORTC
+SEL2	EQU 7		;PORTB
+SEL3	EQU 1		;PORTA
+AB	EQU 1		;PORTC
+M1	EQU 1		;PORTB
+M2	EQU 0		;PORTB
+P1	EQU 3		;PORTB
+P2	EQU 3		;PORTA
+P3	EQU 2		;PORTA
+P4	EQU 2		;PORTB
+CUE	EQU 2		;PORTC
+CHLED	EQU 0		;PORTA
+CHON	EQU 6		;PORTB
+MONO	EQU 3		;PORTC
+
+
+
+;*************  BANK0  RAM *****************
+	ORG 20H 	;BANK0 MEMORY 
+
+scan0	res 1	;x,x,p1,p2,p3,p4,m1,m2
+scan1	res 1	;x,x,x,a,b,mono,cue,chon
+scan2	res 1	;x-ctl
+pscan0	res 1	;previous scan
+pscan1	res 1	;previous scan
+pscan2	res 1	;previous scan
+status0	res 1	;x,x,p1,p2,p3,p4,m1,m2
+status1	res 1	;x,x,x,x,ab,mono,cue,chon
+status2	res 1	;x,x,dim2,dim1,l2,r2,l1,r2
+bounce	res 1	;debounce counter
+flag0	res 1	;x,x,x,x,x,x,wait for pb rel,pb take
+address	res 1	;rs485 address read from mother board
+mode	res 1	;control modes 0-7
+tmrpls	res 1	;count down for timer pulse
+
+;********************  BANK 1 FILE REISTERS*****************
+
+
+;    160 THROUGH 256 ARE GENERAL PURPOSE REGISTERS
+
+
+
+
+;***************  RESET  ****************************
+	ORG 0
+RESET   GOTO INIT
+
+
+;*************	INTERRUPTS  *************************
+
+	ORG 4H
+	RETFIE
+;******  TABLE LOOKUP ****************************
+
+;************** INIT  ******************************
+
+INIT
+	
+	MOVLW B'000000'
+	MOVWF PORTA
+
+	MOVLW B'00000000'
+	MOVWF PORTB
+
+	MOVLW B'00000000'
+	MOVWF PORTC
+
+
+
+	BANK1
+	MOVLW B'000000'		;PORT A NOT USED
+	MOVWF TRISA
+	MOVLW B'00000000'
+	MOVWF TRISB
+		
+ 	BCF OPTION_REG,7	;ENABLE PORTB WEAK PULL-UPS
+	MOVLW B'00000000'
+	MOVWF TRISC
+
+
+
+
+	BSF ADCON1,PCFG2	;porta is digital i/o
+	BSF ADCON1,PCFG1
+
+	BANK0
+
+	clrf scan0	;
+
+	clrf pscan0	;
+
+	clrf flag0
+	clrf bounce
+
+	CLRF status0		;
+	BSF status0,2	
+
+
+
+	GOTO MAIN
+	
+	
+
+
+	
+
+;**************  MAIN  ******************************
+
+MAIN		GOTO TEST_LOW
+RTEST_LOW	GOTO TEST_HIGH
+RTEST_HIGH	GOTO MAIN
+
+
+;**************************************************
+
+TEST_LOW
+	
+	MOVLW B'000000'
+	MOVWF PORTA
+
+	MOVLW B'00000000'
+	MOVWF PORTB
+
+	MOVLW B'00000000'
+	MOVWF PORTC
+	
+	NOP
+	NOP		;THE TWO NOP'S ARE FOR A SLIGHT DELAY
+	GOTO RTEST_LOW
+
+;**************************************************************
+
+TEST_HIGH
+	
+	MOVLW B'111111'
+	MOVWF PORTA
+
+	MOVLW B'11111111'
+	MOVWF PORTB
+
+	MOVLW B'11111111'
+	MOVWF PORTC
+
+	NOP
+	NOP		;THE TWO NOP'S ARE FOR A SLIGHT DELAY
+	GOTO RTEST_HIGH
+	
+	END
+
+
+
+

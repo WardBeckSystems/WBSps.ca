@@ -1,0 +1,37 @@
+{
+  "filename": "129-06-002.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/129-06-002.jpg",
+  "width": 3500,
+  "height": 4920,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "RN C $ OCONNELL FINISH WARD BECK SYSTEMS LTd; | ATE SEP 68 COMPONENT LAYOUT | MATERIAL | HKD Mi29 BOARD | CALE 2 (EQUALIZER SECTION) | OLS FRACT: t MN BEND RAD UMESS' SPECIFIED 1/64 DEC TO PLACES GIVEN ANGLES B 129 -06_002 ISS | Ino",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2554,
+    0,
+    3195,
+    2675
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:53",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M129/1968 - 129-06-002 - COMPONENT LAYOUT M129 BOARD (EQUALIZER SECTION) - DRN C.S. O'CONNELL - ISS 1.jpg",
+  "note": "129-06-002.jpg.md",
+  "title_block": {
+    "drawing_number": "B 129-06-002",
+    "size": "B",
+    "title": "COMPONENT LAYOUT / M129 BOARD / (EQUALIZER SECTION)",
+    "date": "SEP-68",
+    "year": 1968,
+    "month": 9,
+    "drawn": "C.S. O'CONNELL",
+    "checked": "RBJ",
+    "signature": "SCALE 2:1",
+    "issue": "1",
+    "models": [
+      "M129"
+    ]
+  }
+}

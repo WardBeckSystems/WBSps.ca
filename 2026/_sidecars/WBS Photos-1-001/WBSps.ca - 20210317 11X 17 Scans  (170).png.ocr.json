@@ -1,0 +1,30 @@
+{
+  "filename": "WBSps.ca - 20210317 11X 17 Scans  (170).png",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca - 20210317 11X 17 Scans  (170).png",
+  "width": 4757,
+  "height": 3363,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2771,
+    2312,
+    4643,
+    3188
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/19xx - 8224-03-027 - FRONT PANEL (IPH-1C) - DRN DRG - ISS 2.png",
+  "note": "WBSps.ca - 20210317 11X 17 Scans  (170).png.md",
+  "title_block": {
+    "drawing_number": "B 8224-03-027",
+    "size": "B",
+    "title": "FRONT PANEL (IPH-1C)",
+    "drawn": "DRG",
+    "signature": "ISS 2 JACK HOLES ADDED (3) DRG; DISC NO: 443; CODE: 8224M27",
+    "issue": "2"
+  }
+}

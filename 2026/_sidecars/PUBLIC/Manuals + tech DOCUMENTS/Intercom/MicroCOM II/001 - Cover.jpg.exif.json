@@ -1,0 +1,22 @@
+{
+  "filename": "001 - Cover.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/Manuals + tech DOCUMENTS/Intercom/MicroCOM II/001 - Cover.jpg",
+  "extension": ".jpg",
+  "size_bytes": 732948,
+  "modified_time": "Sun Sep  6 22:10:35 2026",
+  "word_tokens": [
+    "001",
+    "cover"
+  ],
+  "width": 1739,
+  "height": 1304,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "ExifOffset": "26",
+    "ExifImageWidth": "1739",
+    "ExifImageHeight": "1304"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

@@ -1,0 +1,44 @@
+{
+  "filename": "2021-3-16-21-53-53.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/2021-3-16-21-53-53.jpg",
+  "extension": ".jpg",
+  "size_bytes": 438253,
+  "modified_time": "Sat Oct 17 23:34:15 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "2021",
+    "16",
+    "21",
+    "53",
+    "53"
+  ],
+  "width": 4969,
+  "height": 3219,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4969",
+    "ExifImageHeight": "3219",
+    "ImageUniqueID": "66f959d0b27dc3270000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/940117/1994 - 940117-03-002 - MK SERIES CONNECTOR PANEL - DRN DRG - ISS 2.jpg",
+  "note": "2021-3-16-21-53-53.jpg.md",
+  "title_block": {
+    "drawing_number": "D 940117-03-002",
+    "size": "D",
+    "title": "MK SERIES / CONNECTOR PANEL",
+    "drawn": "DRG",
+    "signature": "DISC NO: 456; CODE: 94117M02; SCALE 1:1",
+    "issue": "2"
+  }
+}

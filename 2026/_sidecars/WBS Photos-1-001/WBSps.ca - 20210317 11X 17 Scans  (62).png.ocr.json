@@ -1,0 +1,37 @@
+{
+  "filename": "WBSps.ca - 20210317 11X 17 Scans  (62).png",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca - 20210317 11X 17 Scans  (62).png",
+  "width": 4757,
+  "height": 3363,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3076,
+    2451,
+    4757,
+    3259
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M458/1983 - 458-02-002 - WIRING SCHEMATIC - DRN JP - ISS 1.png",
+  "note": "WBSps.ca - 20210317 11X 17 Scans  (62).png.md",
+  "title_block": {
+    "drawing_number": "B 458-02-002",
+    "size": "B",
+    "title": "M458 / WIRING SCHEMATIC",
+    "date": "06/83",
+    "year": 1983,
+    "month": 6,
+    "drawn": "JP/06/83",
+    "checked": "ELJ",
+    "engineer": "(signature)",
+    "issue": "1",
+    "models": [
+      "M458"
+    ]
+  }
+}

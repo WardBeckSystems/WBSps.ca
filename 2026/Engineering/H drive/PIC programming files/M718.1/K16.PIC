@@ -1,0 +1,409 @@
+; ----------   PIC16C5X HEADER   ----------
+
+W       EQU     0
+
+; RESET ADDRESSES
+
+PIC54   EQU     $1FF
+PIC55   EQU     $1FF
+PIC56   EQU     $3FF
+PIC57   EQU     $7FF
+
+; STATUS WORD REGISTER f3
+
+C       EQU     0
+DC      EQU     1
+Z       EQU     2
+PD      EQU     3
+TO      EQU     4
+PA0     EQU     5
+PA1     EQU     6
+PA2     EQU     7
+
+; OPERATIONAL REGISTER FILES
+
+IND     EQU     00
+RTCC    EQU     01
+PC      EQU     02
+STATUS  EQU     03
+FSR     EQU     04
+PORTA   EQU     05
+PORTB   EQU     06
+PORTC   EQU     07
+
+; ----------   END HEADER   ----------
+
+RIP     EQU     7               ; NONPORTABLE USE OF PORTC
+I       EQU     8
+ROW     EQU     9
+KEY     EQU     10
+DISPLAY EQU     11
+
+        ORG     12              ; DEBOUNCE STATES
+
+TBS     DW      1               ; TALKBACK INPUT STATE
+RA1S    DW      1               ; REMOTE ADDRESS 1 STATE
+RA2S    DW      1               ; REMOTE ADDRESS 2 STATE
+RA3S    DW      1               ; REMOTE ADDRESS 3 STATE
+
+KEYS    DW      16              ; KEYSWITCH STATES
+
+; ----------   PORTB BITS   ----------
+
+KCOL1   EQU     5               ; KEYBOARD COLUMN 1
+KCOL2   EQU     4               ; KEYBOARD COLUMN 2
+
+TB      EQU     4               ; TALKBACK INPUTS
+RA1     EQU     5               ; REMOTE ADDRESS 1 INPUT
+RA2     EQU     6               ; REMOTE ADDRESS 2 INPUT
+RA3     EQU     7               ; REMOTE ADDRESS 3 INPUT
+
+; ----------   EQUATES   ----------
+
+NROWS   EQU     8               ; NUMBER OF ROWS IN KEYBOARD
+NKEYS   EQU     16              ; NUMBER OF KEYS IN KEYBOARD
+NIP     EQU     4               ; NUMBER OF INPUTS
+
+                                ; USE 4K7 AND 330pF FOR RC OSC
+                                ; OS2 = 125kHz
+DELAY1  EQU     12              ; 250 msec with OPTION $06
+DELAY2  EQU     69              ;   6 msec with OPTION $01
+
+                                ; PORTB DATA DIRECTION
+PBSKD   EQU     $30             ; PORTB SCAN KEYBOARD/DISPLAY
+PBRIS   EQU     $F0             ; PORTB READ INPUTS/SWITCHES
+
+                                ; PORTB OUTPUTS FOR VARIOUS FUNCTIONS
+DCOL1   EQU     64              ; TURN ON DISPLAY COLUMN 1
+DCOL2   EQU     128             ; TURN ON DISPLAY COLUMN 2
+DOFF    EQU     128+64          ; TURN OFF DISPLAY
+
+                                ; DECODER ADDRESSES
+TBIP    EQU     128+64+8        ; TALKBACK AND REMOTE INPUTS
+SW1     EQU     TBIP+1          ; SWITCH 1
+SW2     EQU     TBIP+2          ; SWITCH 2
+SW3     EQU     TBIP+3          ; SWITCH 3
+TRISBUS EQU     $0F             ; DISABLE ALL BUFFERS
+
+; ----------   NEXT STATE TABLE1   ----------
+
+        ORG     $000
+                        ; SET BIT 0 OF THE STATE TO INPUT
+                        ; BEFORE CALLING NEXT1
+KEYBIT  EQU     3       ; BIT TEST KEYBIT AFTER CALLING NEXT1
+
+NEXT1   ANDLW   $0F     ; DEBOUNCE INPUT STATE MACHINE
+        ADDWF   PC
+
+        RETLW   0       ; KEYBIT CLEAR WHILE INPUT=0
+        RETLW   2
+        RETLW   0
+        RETLW   4
+        RETLW   0
+        RETLW   6
+        RETLW   0
+        RETLW   8       ; 4TH INPUT=1 SO SET KEYBIT
+
+        RETLW   10
+        RETLW   8       ; KEYBIT SET WHILE INPUT=1
+        RETLW   12
+        RETLW   8
+        RETLW   14
+        RETLW   8
+        RETLW   0       ; 4TH INPUT=0 SO CLEAR KEYBIT
+        RETLW   8
+
+; ----------   KEY STATE LOCATION TABLE2   ----------
+
+TRANS2  ANDLW   $0F
+        ADDWF   PC
+
+        RETLW   KEYS+01
+        RETLW   KEYS+03
+        RETLW   KEYS+05
+        RETLW   KEYS+07
+        RETLW   KEYS+09
+        RETLW   KEYS+11
+
+        RETLW   KEYS+00
+        RETLW   KEYS+02
+        RETLW   KEYS+04
+        RETLW   KEYS+06
+        RETLW   KEYS+08
+        RETLW   KEYS+10
+
+        RETLW   KEYS+12
+        RETLW   KEYS+13
+        RETLW   KEYS+14
+        RETLW   KEYS+15
+
+; ----------   DISPLAY TRASLATION TABLE3   ----------
+
+TRANS3  ANDLW   $0F
+        ADDWF   PC
+
+        RETLW   DCOL2+0
+        RETLW   DCOL2+1
+        RETLW   DCOL2+2
+        RETLW   DCOL2+3
+        RETLW   DCOL2+4
+        RETLW   DCOL2+5
+
+        RETLW   DCOL1+0
+        RETLW   DCOL1+1
+        RETLW   DCOL1+2
+        RETLW   DCOL1+3
+        RETLW   DCOL1+4
+        RETLW   DCOL1+5
+
+        RETLW   DCOL1+6
+        RETLW   DCOL2+6
+        RETLW   DCOL1+7
+        RETLW   DCOL2+7
+
+; ----------   SCAN INPUTS SUBROUTINE   ----------
+
+SCANIP  BTFSC   RIP,TB
+        INCF    TBS
+        MOVF    TBS,W
+        CALL    NEXT1
+        MOVWF   TBS
+
+        BTFSC   RIP,RA1
+        INCF    RA1S
+        MOVF    RA1S,W
+        CALL    NEXT1
+        MOVWF   RA1S
+
+        BTFSC   RIP,RA2
+        INCF    RA2S
+        MOVF    RA2S,W
+        CALL    NEXT1
+        MOVWF   RA2S
+
+        BTFSC   RIP,RA3
+        INCF    RA3S
+        MOVF    RA3S,W
+        CALL    NEXT1
+        MOVWF   RA3S
+
+        RETLW   0
+
+; ----------   UPDATE KEYSTATE SUBROUTINE   ----------
+
+UPDATE  MOVF    IND,W
+        CALL    NEXT1
+        MOVWF   IND
+        RETLW   0
+
+; ----------   SCAN KEYBOARD SUBROUTINE   ----------
+
+SCANKB  MOVLW   TRISBUS
+        IORWF   PORTB
+
+        MOVLW   PBSKD
+        TRIS    PORTB
+
+        MOVLW   DOFF            ; TURN OFF LEDs
+        MOVWF   PORTB
+        MOVWF   ROW
+
+        MOVLW   KEYS
+        MOVWF   FSR
+        MOVLW   NROWS-1
+        MOVWF   I
+
+SCAN    INCF    ROW
+
+        BTFSC   PORTB,KCOL1
+        INCF    IND
+        INCF    FSR
+        BTFSC   PORTB,KCOL2
+        INCF    IND
+
+        MOVF    ROW,W
+        MOVWF   PORTB
+
+        DECF    FSR
+        CALL    UPDATE
+        INCF    FSR
+        CALL    UPDATE
+        INCF    FSR
+
+        DECFSZ  I
+        GOTO    SCAN
+
+        NOP
+        NOP
+        BTFSC   PORTB,KCOL1
+        INCF    IND
+        INCF    FSR
+        BTFSC   PORTB,KCOL2
+        INCF    IND
+
+        MOVF    DISPLAY,W       ; RESTORE DISPLAY
+        MOVWF   PORTB           ; AFTER SCANNING KEYBOARD
+
+        DECF    FSR
+        CALL    UPDATE
+        INCF    FSR
+        CALL    UPDATE
+
+        RETLW   0
+
+; ----------   CODE   ----------
+
+        ORG     $100
+        XORLW   $FF             ; UNPROGRAMED NOP
+
+INIT    MOVLW   $0F
+        MOVWF   PORTA           ; INITIALIZE PORTA
+        CLRW
+        TRIS    PORTA
+
+        MOVLW   DCOL2+7         ; INITIALIZE PORTB
+        MOVWF   PORTB
+        MOVLW   PBSKD
+        TRIS    PORTB
+
+        MOVLW   KEYS             ; BLANK KEYSWITCH TABLE
+        MOVWF   FSR
+        MOVLW   NKEYS
+        MOVWF   I
+
+BLANKK  CLRF    IND
+        INCF    FSR
+        DECFSZ  I
+        GOTO    BLANKK
+
+        MOVLW   TBS             ; BLANK INPUT TABLE
+        MOVWF   FSR
+        MOVLW   NIP
+        MOVWF   I
+
+BLANKI  CLRF    IND
+        INCF    FSR
+        DECFSZ  I
+        GOTO    BLANKI
+
+        CLRF    KEY             ; INITIALIZE DISPLAY
+        MOVF    KEY,W
+        CALL    TRANS3
+        MOVWF   DISPLAY
+
+        MOVLW   NKEYS           ; SEQUENCE THROUGH LEDs
+        MOVWF   I
+
+        MOVLW   $06             ; RTCC = OSC2 / 128
+        OPTION
+SEQ1    MOVLW   DELAY1          ; RESET COUNTER
+        MOVWF   RTCC
+
+        DECF    I,W
+        CALL    TRANS3
+        MOVWF   PORTB
+
+SEQ2    MOVF    RTCC,W
+        BTFSS   STATUS,Z
+        GOTO    SEQ2            ; WAIT FOR TIME OUT
+
+        DECFSZ  I
+        GOTO    SEQ1
+
+        MOVLW   $01             ; RTCC = OSC2 / 4
+        OPTION
+        MOVLW   DELAY2          ; RESET COUNTER
+        MOVWF   RTCC
+WAIT
+NONE
+MAIN    MOVF    RTCC,W
+        BTFSS   STATUS,Z
+        GOTO    MAIN            ; WAIT FOR TIME OUT
+
+        MOVLW   DELAY2
+        MOVWF   RTCC            ; RESET COUNTER
+
+        MOVLW   TRISBUS
+        IORWF   PORTB
+
+        MOVLW   PBRIS            ; READ CLOSURES
+        TRIS    PORTB
+
+        MOVLW   TBIP
+        MOVWF   PORTB
+        NOP
+        NOP
+        MOVF    PORTB,W
+        MOVWF   RIP
+
+TCL0    BTFSC   TBS,KEYBIT
+        GOTO    OUTPUT2
+
+        MOVLW   SW1
+TCL1    BTFSC   RA1S,KEYBIT
+        GOTO    READCA
+
+        MOVLW   SW2
+TCL2    BTFSC   RA2S,KEYBIT
+        GOTO    READCA
+
+        MOVLW   SW3
+TCL3    BTFSC   RA3S,KEYBIT
+        GOTO    READCA
+
+        MOVLW   $0F
+        XORLW   $FF
+        XORLW   $FF
+        MOVWF   PORTA
+        CALL    SCANKB
+        CALL    SCANIP
+        GOTO    DOSEL
+
+READCA  MOVWF   PORTB
+        NOP
+        NOP
+        SWAPF   PORTB,W
+        MOVWF   KEY
+        COMF    KEY
+        DECF    KEY
+        MOVF    KEY,W
+        CALL    TRANS3
+        MOVWF   DISPLAY
+
+OUTPUT2 INCF    KEY,W
+        XORLW   $FF             ; NOP
+        XORLW   $FF             ; MOVF  KEY,W
+        XORLW   $FF
+        MOVWF   PORTA
+        CALL    SCANKB
+        CALL    SCANIP
+        GOTO    MAIN
+
+DOSEL   MOVF    KEY,W
+        CALL    TRANS2
+        MOVWF   FSR
+        BTFSC   IND,KEYBIT
+        GOTO    WAIT            ; WAIT FOR RELEASE
+
+        CLRF    KEY
+        MOVLW   NKEYS           ; GET HIGHEST PRIORITY KEY
+        MOVWF   I
+
+PRIO    MOVF    KEY,W
+        CALL    TRANS2
+        MOVWF   FSR
+        BTFSC   IND,KEYBIT
+        GOTO    DONE
+
+        INCF    KEY
+        DECFSZ  I
+        GOTO    PRIO
+        GOTO    NONE
+
+DONE    MOVF    KEY,W
+        CALL    TRANS3          ; GET NEW DISPLAY VALUE
+        MOVWF   DISPLAY
+        GOTO    MAIN
+
+        ORG     PIC54
+RESET   GOTO    $100

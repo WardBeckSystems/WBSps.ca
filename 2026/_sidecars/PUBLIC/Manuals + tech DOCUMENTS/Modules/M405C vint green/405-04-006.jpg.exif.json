@@ -1,0 +1,30 @@
+{
+  "filename": "405-04-006.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/Manuals + tech DOCUMENTS/Modules/M405C vint green/405-04-006.jpg",
+  "extension": ".jpg",
+  "size_bytes": 17426095,
+  "modified_time": "Sun Sep  6 22:11:31 2026",
+  "word_tokens": [
+    "405",
+    "04",
+    "006"
+  ],
+  "width": 3300,
+  "height": 10200,
+  "format": "JPEG",
+  "mode": "CMYK",
+  "exif": {
+    "ResolutionUnit": "2",
+    "ExifOffset": "164",
+    "Software": "Adobe Photoshop CS3 Macintosh",
+    "Orientation": "1",
+    "DateTime": "2014:11:17 17:32:03",
+    "XResolution": "300.0",
+    "YResolution": "300.0",
+    "ColorSpace": "65535",
+    "ExifImageWidth": "3300",
+    "ExifImageHeight": "10200"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

@@ -1,0 +1,43 @@
+{
+  "filename": "73050-02-001e.JPG",
+  "relative_path": "WBSps.env/WBS Photos-1-001/73050-02-001e.JPG",
+  "extension": ".jpg",
+  "size_bytes": 3718018,
+  "modified_time": "Sat Oct 17 23:34:16 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "73050",
+    "02",
+    "001e"
+  ],
+  "width": 5102,
+  "height": 6599,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "5102",
+    "ExifImageHeight": "6599",
+    "ImageUniqueID": "6e366763ebc046f90000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:56",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1970-1979/73050 - T1202/1973 - 73050-02-001 - AUDIO CONSOLE INPUT & OUTPUT SCHEMATIC - ISS 1.jpg",
+  "note": "73050-02-001e.JPG.md",
+  "title_block": {
+    "drawing_number": "73050-02-001",
+    "title": "AUDIO CONSOLE / INPUT & OUTPUT / SCHEMATIC",
+    "date": "SEPT 73",
+    "year": 1973,
+    "signature": "left edge cut off",
+    "issue": "1"
+  }
+}

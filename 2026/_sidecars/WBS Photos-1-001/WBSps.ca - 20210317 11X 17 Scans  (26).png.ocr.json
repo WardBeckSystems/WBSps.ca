@@ -1,0 +1,36 @@
+{
+  "filename": "WBSps.ca - 20210317 11X 17 Scans  (26).png",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca - 20210317 11X 17 Scans  (26).png",
+  "width": 4757,
+  "height": 3363,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1620,
+    2547,
+    2547,
+    3179
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/COMMUNICATION/M712/1973 - 712-02-004 - CASCADE CONFIGURATION - DRN GEB - ISS 2.png",
+  "note": "WBSps.ca - 20210317 11X 17 Scans  (26).png.md",
+  "title_block": {
+    "drawing_number": "B 712-02-004",
+    "size": "B",
+    "title": "M712 / CASCADE CONFIGURATION",
+    "date": "JAN 73",
+    "year": 1973,
+    "month": 1,
+    "drawn": "GEB",
+    "checked": "R.B.",
+    "issue": "2",
+    "models": [
+      "M712"
+    ]
+  }
+}

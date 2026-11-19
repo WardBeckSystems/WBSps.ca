@@ -1,0 +1,37 @@
+{
+  "filename": "2022-2-8-10-59-13.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2022-2-8-10-59-13.jpg",
+  "width": 3440,
+  "height": 10864,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    7883,
+    2661,
+    10864,
+    3313
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:55",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M704/1970 - 704-02-002 - INTERCOM POWER AMPLIFIER SCHEMATIC - DRN DPS - ISS 1.jpg",
+  "note": "2022-2-8-10-59-13.jpg.md",
+  "title_block": {
+    "drawing_number": "B 704-02-002",
+    "size": "B",
+    "title": "M704 / INTERCOM POWER AMPLIFIER / SCHEMATIC",
+    "date": "21 MAY 1970",
+    "year": 1970,
+    "month": 5,
+    "drawn": "D.P.S.",
+    "checked": "AL/RB",
+    "issue": "1",
+    "job": "704",
+    "models": [
+      "M704"
+    ]
+  }
+}

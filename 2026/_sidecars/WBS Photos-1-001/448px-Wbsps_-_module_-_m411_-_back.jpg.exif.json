@@ -1,0 +1,40 @@
+{
+  "filename": "448px-Wbsps_-_module_-_m411_-_back.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/448px-Wbsps_-_module_-_m411_-_back.jpg",
+  "extension": ".jpg",
+  "size_bytes": 51139,
+  "modified_time": "Sat Oct 17 23:34:16 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "448px",
+    "wbsps",
+    "module",
+    "m411",
+    "back"
+  ],
+  "width": 448,
+  "height": 599,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "ExifOffset": "46",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "448",
+    "ExifImageHeight": "599",
+    "ImageUniqueID": "3c8562af5be4be000000000000000000",
+    "ExifInteroperabilityOffset": "158"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:55",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/AMPLIFIERS/M411/448px-Wbsps_-_module_-_m411_-_back.jpg",
+  "note": "448px-Wbsps_-_module_-_m411_-_back.jpg.md",
+  "title_block": {
+    "models": [
+      "M411"
+    ]
+  }
+}

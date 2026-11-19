@@ -1,0 +1,34 @@
+{
+  "filename": "M497D - P011 - B497-02-004 R.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/M497D - P011 - B497-02-004 R.jpg",
+  "width": 1700,
+  "height": 2168,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1147,
+    1873,
+    1670,
+    2168
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/SUMMING/M497/19xx - 497-02-004 - DUAL MASTER MODULE SCHEMATIC - DRN MRW - ENG MRW - ISS 1.jpg",
+  "note": "M497D - P011 - B497-02-004 R.jpg.md",
+  "title_block": {
+    "drawing_number": "B 497-02-004",
+    "size": "B",
+    "title": "DUAL MASTER MODULE / SCHEMATIC",
+    "drawn": "MRW",
+    "checked": "Rnl",
+    "engineer": "MRW",
+    "issue": "1",
+    "models": [
+      "M497D"
+    ]
+  }
+}

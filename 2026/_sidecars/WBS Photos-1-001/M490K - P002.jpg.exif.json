@@ -1,0 +1,39 @@
+{
+  "filename": "M490K - P002.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M490K - P002.jpg",
+  "extension": ".jpg",
+  "size_bytes": 65080,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m490k",
+    "p002"
+  ],
+  "width": 850,
+  "height": 1095,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "850",
+    "ExifImageHeight": "1095",
+    "ImageUniqueID": "4877f7f6b5aaeab70000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/INPUT-PRE-AMPS/M490K/M490K - P002.jpg",
+  "note": "M490K - P002.jpg.md",
+  "title_block": {
+    "models": [
+      "M490K"
+    ]
+  }
+}

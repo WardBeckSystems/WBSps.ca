@@ -1,0 +1,259 @@
+
+--------------------------------------------------
+Checking Schematic: 14-323
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING:  [DRC0004]  Possible pin type conflict U11A,OUT Output Connected to Bidirectional
+WARNING:  [DRC0004]  Possible pin type conflict U13,VOUT Output Connected to Power
+WARNING:  [DRC0004]  Possible pin type conflict R63-5,COMMON Power Connected to Output
+
+Checking for Unconnected Wires
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+
+Reporting Off-Page Connections
+    /MSTR
+    SCLK
+    A0
+    /CHON
+    RIPPLE
+    A1
+    BASE
+    /FADER
+    /CHIP1
+    /G1
+    /CHIP2
+    /G2
+    /G3
+    SDATA
+    /AUTO
+    /G4
+    /PFAIL
+    /OKAY
+
+Reporting Globals
+    VDD
+    VCC
+    VEE
+    VSS
+    AUDIO COMMON
+    -24V
+    +24V
+    +12V
+    +5V
+    GND
+    CTL COMMON
+    CHASSIS
+
+Reporting Net Names
+    N37739
+    N37729
+    N37705
+    N36766
+    N32761
+    N32570
+    N32557
+    N23877
+    N21031
+    N20977
+    N06346
+    N38143
+    N38142
+    N38140
+    N38135
+    N38134
+    N38119
+    N38118
+    N38113
+    N38112
+    N38098
+    N38095
+    N38092
+    N38089
+    N38087
+    N38081
+    N37747
+    N38668
+    N38667
+    N38666
+    N38663
+    N38660
+    N38389
+    N38383
+    N38376
+    N38334
+    EECS
+    /RST
+    N38149
+    N38148
+    N38147
+    N38145
+    N38144
+    N38922
+    N38911
+    N38908
+    N38836
+    N38819
+    N38818
+    N38803
+    N38790
+    N38774
+    N06884
+    N06864
+    N06862
+    N39207
+    N39205
+    N39107
+    N39105
+    N39101
+    N39096
+    N39088
+    N39085
+    N39060
+    N39058
+    /CHIP3
+    N35998
+    N35994
+    /PFAIL
+    N06955
+    N06951
+    N06914
+    N06899
+    N06894
+    N36159
+    N36158
+    N36146
+    N36144
+    N36129
+    N36127
+    N36111
+    N36057
+    N36051
+    N36040
+    N36036
+    N36026
+    N36024
+    N36010
+    N36007
+    N39290
+    N39231
+    N39227
+    N36964
+    N36963
+    N36893
+    N36890
+    N36875
+    N36874
+    N36869
+    N36866
+    N36852
+    N36850
+    N36829
+    N36828
+    N36161
+    N06674
+    N06672
+    N06654
+    N06647
+    N06641
+    N06615
+    N06609
+    N06588
+    N39311
+    N39307
+    BASE
+    N32820
+    N32819
+    N27482
+    N27473
+    RIPPLE
+    /CHIP2
+    /OKAY
+    N35906
+    N35905
+    N35895
+    N35891
+    N35881
+    N35876
+    N35864
+    N35773
+    N35770
+    N35759
+    N35754
+    N35743
+    N35741
+    N35728
+    N35727
+    N32045
+    SCLK
+    /CHON
+    N32033
+    N32024
+    N32012
+    /MSTR
+    N31987
+    N31985
+    N31954
+    N31951
+    N31936
+    N39393
+    N39383
+    N35907
+    A1
+    N34507
+    A0
+    N34497
+    N34496
+    N32932
+    N32920
+    N32895
+    /G4
+    /G1
+    N32380
+    /G3
+    N32369
+    /G2
+    /CHIP1
+    SDATA
+    CHASSIS
+    /AUTO
+    /FADER
+    N40361
+    N40248
+    -24V
+    N40241
+    +24V
+    N40234
+    N40214
+    AUDIO COMMON
+    +12V
+    N36175
+    N36174
+    N36173
+    N34510
+    CTL COMMON
+    Alternate Name:  VSS
+    Alternate Name:  VEE
+    Alternate Name:  GND
+    N41294
+    N40795
+    +5V
+    Alternate Name:  VDD
+    Alternate Name:  VCC
+    N40525
+    N40523
+    N40518
+    N40517
+    N40500
+    N40497
+    N40410

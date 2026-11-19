@@ -1,0 +1,21 @@
+{
+  "filename": "006.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/Manuals + tech DOCUMENTS/Intercom/MicroCOM II/006.jpg",
+  "extension": ".jpg",
+  "size_bytes": 1073361,
+  "modified_time": "Sun Sep  6 22:06:32 2026",
+  "word_tokens": [
+    "006"
+  ],
+  "width": 1738,
+  "height": 1304,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "ExifOffset": "26",
+    "ExifImageWidth": "1738",
+    "ExifImageHeight": "1304"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

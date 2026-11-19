@@ -1,0 +1,34 @@
+{
+  "filename": "WBS - ART - M625B power supply - Inside.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBS - ART - M625B power supply - Inside.jpg",
+  "width": 5080,
+  "height": 3314,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    4216,
+    2880,
+    5080,
+    3311
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:00",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/POWER/M625/19xx - 625-06-002 - M625B POWER SUPPLY COMPONENT LAYOUT - DRN P. Mahoney - ISS 1.jpg",
+  "note": "WBS - ART - M625B power supply - Inside.jpg.md",
+  "title_block": {
+    "drawing_number": "B 625-06-002",
+    "size": "B",
+    "title": "M625B / POWER SUPPLY / COMPONENT LAYOUT",
+    "drawn": "P. Mahoney",
+    "checked": "L.R.",
+    "signature": "SCALE 1:2",
+    "issue": "1",
+    "models": [
+      "M625B"
+    ]
+  }
+}

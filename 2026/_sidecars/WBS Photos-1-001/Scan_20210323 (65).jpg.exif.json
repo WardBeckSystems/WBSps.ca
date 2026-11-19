@@ -1,0 +1,43 @@
+{
+  "filename": "Scan_20210323 (65).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/Scan_20210323 (65).jpg",
+  "extension": ".jpg",
+  "size_bytes": 1139644,
+  "modified_time": "Sat Oct 17 23:34:19 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "scan",
+    "20210323",
+    "(65)"
+  ],
+  "width": 4757,
+  "height": 3363,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4757",
+    "ExifImageHeight": "3363",
+    "ImageUniqueID": "133c4ab2ec089f9f0000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:00",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/940145/1994 - 940145-04-003 - INPUT BUFFER & CONTROL SYSTEM REAR LAYOUT - DRN WS - ENG WS - ISS 1.jpg",
+  "note": "Scan_20210323 (65).jpg.md",
+  "title_block": {
+    "drawing_number": "B 940145-04-003",
+    "size": "B",
+    "title": "INPUT BUFFER & CONTROL SYSTEM REAR LAYOUT",
+    "drawn": "W.S",
+    "engineer": "W.S",
+    "signature": "DISC NO: 459; CODE: 94145L03",
+    "issue": "1"
+  }
+}

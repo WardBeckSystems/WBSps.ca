@@ -1,0 +1,46 @@
+{
+  "filename": "2021-3-16-22-57-28.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/2021-3-16-22-57-28.jpg",
+  "extension": ".jpg",
+  "size_bytes": 982178,
+  "modified_time": "Sat Oct 17 23:34:15 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "2021",
+    "16",
+    "22",
+    "57",
+    "28"
+  ],
+  "width": 4963,
+  "height": 3223,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4963",
+    "ExifImageHeight": "3223",
+    "ImageUniqueID": "8237da572ff73e300000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/940444 - WBZ/1994 - 940444-01-001 - WBZ NEWS AIR STUDIO RENAISSANCE MK I FUNCTIONAL - DRN PAS - ENG SM - ISS 1.jpg",
+  "note": "2021-3-16-22-57-28.jpg.md",
+  "title_block": {
+    "drawing_number": "D 940444-01-001",
+    "size": "D",
+    "title": "WBZ NEWS AIR STUDIO / RENAISSANCE MK I / FUNCTIONAL",
+    "drawn": "PAS",
+    "engineer": "SM",
+    "signature": "DISC NO: 487; CODE: 94444F01",
+    "issue": "1",
+    "customer": "WBZ"
+  }
+}

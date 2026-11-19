@@ -1,0 +1,32 @@
+{
+  "filename": "2021-3-16-22-34-19.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2021-3-16-22-34-19.jpg",
+  "width": 4970,
+  "height": 3218,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3918,
+    2676,
+    4924,
+    3175
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/920306 - CJMJ-FM/1992 - 920306-01-001 - CJMJ-FM RADIO CONSOLE AUDIO FUNCTIONAL - DRN PA - ENG PA - ISS 1.jpg",
+  "note": "2021-3-16-22-34-19.jpg.md",
+  "title_block": {
+    "drawing_number": "D 920306-01-001",
+    "size": "D",
+    "title": "CJMJ-FM / RADIO CONSOLE / AUDIO FUNCTIONAL",
+    "drawn": "PA",
+    "engineer": "PA",
+    "signature": "DISC NO: 419; CODE: 92306F01",
+    "issue": "1",
+    "customer": "CJMJ-FM"
+  }
+}

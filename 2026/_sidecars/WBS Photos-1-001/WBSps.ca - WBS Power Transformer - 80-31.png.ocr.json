@@ -1,0 +1,36 @@
+{
+  "filename": "WBSps.ca - WBS Power Transformer - 80-31.png",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca - WBS Power Transformer - 80-31.png",
+  "width": 4400,
+  "height": 2673,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2069,
+    1793,
+    4288,
+    2559
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1983 - B 80-31 - 80-31 POWER TRANSFORMER - DRN GEB - ENG RKB - ISS 3.png",
+  "note": "WBSps.ca - WBS Power Transformer - 80-31.png.md",
+  "title_block": {
+    "drawing_number": "B 80-31",
+    "size": "B",
+    "title": "80-31 / POWER TRANSFORMER",
+    "date": "11/83",
+    "year": 1983,
+    "month": 11,
+    "drawn": "GEB",
+    "checked": "R. Bell (signature)",
+    "approved": "R. Bell (signature)",
+    "engineer": "RKB 3/82",
+    "signature": "ISS 2 5/82 REG WAS 5% LEAD DIM. SHOWN; ISS 3 11/83 LEAD POS.; SCALE 3:5",
+    "issue": "3"
+  }
+}

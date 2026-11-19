@@ -1,0 +1,39 @@
+{
+  "filename": "790236-04-001f.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/790236-04-001f.jpg",
+  "width": 3504,
+  "height": 4956,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    0,
+    4,
+    1748,
+    850
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:56",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1970-1979/790236 - Maryland L3242A/1979 - 790236-04-001 - MARYLAND PUBLIC BROADCASTING L3242A CONSOLE OUTLINE - DRN gene 4'79 - ENG WMcF - ISS 1.jpg",
+  "note": "790236-04-001f.jpg.md",
+  "title_block": {
+    "drawing_number": "D 790236-04-001",
+    "size": "D",
+    "title": "MARYLAND PUBLIC BROADCASTING / L3242A CONSOLE OUTLINE",
+    "date": "4'79",
+    "year": 1979,
+    "month": 4,
+    "drawn": "gene 4'79",
+    "checked": "P.C. (signed, dated 7-11-79 approx)",
+    "approved": "signed 6-25-79",
+    "engineer": "W. McF.",
+    "issue": "1",
+    "customer": "MARYLAND PUBLIC BROADCASTING",
+    "models": [
+      "L3242A"
+    ]
+  }
+}

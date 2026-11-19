@@ -1,0 +1,33 @@
+{
+  "filename": "M5200A - 008.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M5200A - 008.jpg",
+  "extension": ".jpg",
+  "size_bytes": 1424512,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m5200a",
+    "008"
+  ],
+  "width": 1752,
+  "height": 2478,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "ExifOffset": "26",
+    "ExifImageWidth": "1752",
+    "ExifImageHeight": "2478"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/INPUT-PRE-AMPS/M5200A/1985 - M5200A - 008.jpg",
+  "note": "M5200A - 008.jpg.md",
+  "title_block": {
+    "title": "M5200A SYSTEM INTERCONNECT FOR ST2442 AND ST3642 CONSOLES",
+    "models": [
+      "M5200A"
+    ]
+  }
+}

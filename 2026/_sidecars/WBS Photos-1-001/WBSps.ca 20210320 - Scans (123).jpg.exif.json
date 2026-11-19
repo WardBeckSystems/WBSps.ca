@@ -1,0 +1,50 @@
+{
+  "filename": "WBSps.ca 20210320 - Scans (123).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (123).jpg",
+  "extension": ".jpg",
+  "size_bytes": 1441883,
+  "modified_time": "Sat Oct 17 23:34:21 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "20210320",
+    "scans",
+    "(123)"
+  ],
+  "width": 4757,
+  "height": 3363,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4757",
+    "ExifImageHeight": "3363",
+    "ImageUniqueID": "e2330b90588bd3df0000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/ROUTING/M468/1976 - 468-02-027 - M468P ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1.jpg",
+  "note": "WBSps.ca 20210320 - Scans (123).jpg.md",
+  "title_block": {
+    "drawing_number": "B 468-02-027",
+    "size": "B",
+    "title": "M468P / ASSIGN MODULE SCHEMATIC",
+    "date": "NOV 76",
+    "year": 1976,
+    "month": 11,
+    "drawn": "PA",
+    "checked": "P.C.",
+    "issue": "1",
+    "models": [
+      "M468P"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "filename": "Scan_20210323 (77).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/Scan_20210323 (77).jpg",
+  "extension": ".jpg",
+  "size_bytes": 1340624,
+  "modified_time": "Sat Oct 17 23:34:19 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "scan",
+    "20210323",
+    "(77)"
+  ],
+  "width": 4757,
+  "height": 3363,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4757",
+    "ExifImageHeight": "3363",
+    "ImageUniqueID": "9890cc32104cc27a0000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:00",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/METER/M405/1984 - 405-03-049 - MOUNTING PLATE FOR ATTENUATOR USED ON M405D - DRN J - ENG MRW - ISS 2.jpg",
+  "note": "Scan_20210323 (77).jpg.md",
+  "title_block": {
+    "drawing_number": "B 405-03-049",
+    "size": "B",
+    "title": "MOUNTING PLATE FOR ATTENUATOR USED ON M405D",
+    "date": "4/84",
+    "year": 1984,
+    "month": 4,
+    "drawn": "2/83 J.",
+    "checked": "initials",
+    "approved": "initials",
+    "engineer": "MRW",
+    "signature": "ISS 2 4/84 1.312 WAS 1.350",
+    "issue": "2",
+    "models": [
+      "M405D"
+    ]
+  }
+}

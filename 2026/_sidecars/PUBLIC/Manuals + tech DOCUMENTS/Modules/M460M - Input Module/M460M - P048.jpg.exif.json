@@ -1,0 +1,35 @@
+{
+  "filename": "M460M - P048.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/Manuals + tech DOCUMENTS/Modules/M460M - Input Module/M460M - P048.jpg",
+  "extension": ".jpg",
+  "size_bytes": 162863,
+  "modified_time": "Sun Sep  6 22:10:38 2026",
+  "word_tokens": [
+    "m460m",
+    "p048"
+  ],
+  "width": 766,
+  "height": 1091,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "ImageWidth": "850",
+    "ImageLength": "1091",
+    "BitsPerSample": "['8', '8', '8', '8']",
+    "PhotometricInterpretation": "1",
+    "ResolutionUnit": "2",
+    "ExifOffset": "232",
+    "Software": "Adobe Photoshop CS5 Windows",
+    "Orientation": "1",
+    "DateTime": "2011:11:23 15:10:24",
+    "SamplesPerPixel": "4",
+    "XResolution": "300.0",
+    "YResolution": "300.0",
+    "ExifVersion": "0221",
+    "ColorSpace": "65535",
+    "ExifImageWidth": "766",
+    "ExifImageHeight": "1091"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

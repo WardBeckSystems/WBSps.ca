@@ -1,0 +1,243 @@
+; ----------   PIC16C5X HEADER   ----------
+
+W       EQU     0
+
+; RESET ADDRESSES
+
+PIC54   EQU     $1FF
+PIC55   EQU     $1FF
+PIC56   EQU     $3FF
+PIC57   EQU     $7FF
+
+; STATUS WORD REGISTER f3
+
+C       EQU     0
+DC      EQU     1
+Z       EQU     2
+PD      EQU     3
+TO      EQU     4
+PA0     EQU     5
+PA1     EQU     6
+PA2     EQU     7
+
+; OPERATIONAL REGISTER FILES
+
+IND     EQU     00
+RTCC    EQU     01
+PC      EQU     02
+STATUS  EQU     03
+FSR     EQU     04
+PORTA   EQU     05
+PORTB   EQU     06
+PORTC   EQU     07
+
+; ----------   END HEADER   ----------
+
+LCOL1   EQU     08
+CNT1    EQU     09
+SCOL1   EQU     10
+
+LCOL2   EQU     11
+CNT2    EQU     12
+SCOL2   EQU     13
+
+LCOL3   EQU     14
+CNT3    EQU     15
+SCOL3   EQU     16
+
+LCOL4   EQU     17
+CNT4    EQU     18
+SCOL4   EQU     19
+
+ROW     EQU     20
+I       EQU     21
+TEMP    EQU     22
+STATE2  EQU     23
+
+DISPLAY EQU     24
+
+; ----------   SUB1   ----------
+
+        ORG     $000
+
+SUB1    CALL    TRANS1
+        IORWF   STATE2,W
+        CALL    NEXT2
+        IORWF   TEMP
+        ANDLW   $07
+        MOVWF   STATE2
+        RETLW   0
+
+; ----------   INPUT TRASLATION TABLE1   ----------
+
+TRANS1  ANDLW   $07
+        ADDWF   PC
+
+        GOTO    MANY
+        GOTO    MANY
+        GOTO    MANY
+        RETLW   0               ; SCOL == 3
+
+        GOTO    MANY
+        RETLW   8               ; SCOL == 5
+        RETLW   16              ; SCOL == 6
+        RETLW   24              ; SCOL == 7
+
+; ----------   NEXT STATE TABLE2   ----------
+
+NEXT2   ANDLW   $1F
+        ADDWF   PC
+
+        RETLW   $04
+        RETLW   $15
+        RETLW   $26
+        RETLW   $37
+        GOTO    MANY
+        GOTO    MANY
+        GOTO    MANY
+        GOTO    RESET
+
+        RETLW   $44
+        RETLW   $55
+        RETLW   $66
+        RETLW   $77
+        GOTO    MANY
+        GOTO    MANY
+        GOTO    MANY
+        GOTO    RESET
+
+        RETLW   $84
+        RETLW   $95
+        RETLW   $A6
+        RETLW   $B7
+        GOTO    MANY
+        GOTO    MANY
+        GOTO    MANY
+        GOTO    RESET
+
+        RETLW   $01
+        RETLW   $02
+        RETLW   $03
+        GOTO    NONE
+        RETLW   $05
+        RETLW   $06
+        RETLW   $07
+        GOTO    RESET
+
+; ----------   DISPLAY TRASLATION TABLE3   ----------
+
+TRANS3  ANDLW   $0F
+        ADDWF   PC
+
+        RETLW   64+0
+        RETLW   64+8
+        RETLW   64+16
+        RETLW   64+24
+        RETLW   64+32
+        RETLW   64+40
+
+        RETLW   128+0
+        RETLW   128+8
+        RETLW   128+16
+        RETLW   128+24
+        RETLW   128+32
+        RETLW   128+40
+
+; ----------   CODE   ----------
+
+COUNT   EQU     4
+
+        ORG     $100
+
+INIT    CLRF    PORTA
+        CLRW
+        TRIS    PORTA
+
+        MOVLW   64+0
+        MOVWF   DISPLAY
+        MOVWF   PORTB
+        MOVLW   $07
+        TRIS    PORTB
+
+        MOVLW   LCOL1
+        MOVWF   FSR
+        MOVLW   12
+        MOVWF   I               ; INIT KEYSCAN
+        MOVLW   $0F             ; LCOL = $0F
+BLANK   MOVWF   IND             ; CNT  = $0F
+        INCF    FSR             ; SCOL = $0F
+        DECFSZ  I
+        GOTO    BLANK
+
+        GOTO    MAIN
+
+NONE                            ; NO KEY PRESSED
+MANY                            ; ONE OR MORE KEYS PRESSED
+MAIN    MOVLW   $F7
+        MOVWF   ROW
+        MOVLW   LCOL1
+        MOVWF   FSR
+        MOVLW   4
+        MOVWF   I
+
+SETROW  MOVF    ROW,W
+        MOVWF   PORTB
+        RLF     ROW
+
+        MOVF    PORTB,W
+        ANDLW   $07
+        MOVWF   TEMP
+        XORWF   IND,W           ; CMP WITH LAST COLUMN I/P
+        BTFSS   STATUS,Z
+        GOTO    KS1             ; LCOL != PORTB
+
+        INCF    FSR             ; LCOL == PORTB
+        DECFSZ  IND             ; DEC CNT
+        GOTO    KS2             ; CNT != 0
+
+        MOVLW   COUNT           ; CNT == 0
+        MOVWF   IND             ; SET CNT
+        INCF    FSR
+        MOVF    TEMP,W
+        MOVWF   IND             ; SET SCOL
+        GOTO    KS3
+
+KS1     MOVF    TEMP,W
+        MOVWF   IND             ; SET LCOL = TEMP
+        INCF    FSR
+        MOVLW   COUNT
+        MOVWF   IND             ; SET CNT
+
+KS2     INCF    FSR
+KS3     INCF    FSR
+        DECFSZ  I
+        GOTO    SETROW
+
+        MOVF    DISPLAY,W       ; RESTORE DISPLAY
+        MOVWF   PORTB           ; AFTER KEYBOARD SCAN
+
+        CLRF    TEMP            ; DECODE KEY FROM SCAN
+        CLRF    STATE2
+
+        MOVF    SCOL1,W
+        CALL    SUB1
+        MOVF    SCOL2,W
+        CALL    SUB1
+        MOVF    SCOL3,W
+        CALL    SUB1
+        MOVF    SCOL4,W
+        CALL    SUB1
+
+        SWAPF   TEMP,W
+        MOVWF   PORTA           ; OUTPUT NEW ADDRESS
+        CALL    TRANS3          ; GET NEW DISPLAY VALUE
+        MOVWF   DISPLAY
+        GOTO    MAIN
+
+END     NOP
+
+        ORG     $1FE
+        GOTO    INIT
+
+        ORG     PIC54
+RESET   GOTO    END

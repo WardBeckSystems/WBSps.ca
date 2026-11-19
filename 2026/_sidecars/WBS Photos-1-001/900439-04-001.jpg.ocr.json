@@ -1,0 +1,39 @@
+{
+  "filename": "900439-04-001.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/900439-04-001.jpg",
+  "width": 10200,
+  "height": 6600,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    454,
+    913,
+    3944,
+    2178
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:57",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/900438 - CHIN Radio/1990 - 900438-04-001 - CHIN RADIO R1400 RADIO CONSOLE OUTLINE & LAYOUT - DRN GEB - ENG GEB - ISS 2.jpg",
+  "note": "900439-04-001.jpg.md",
+  "title_block": {
+    "drawing_number": "D 900438-04-001",
+    "size": "D",
+    "title": "CHIN RADIO R1400 / RADIO CONSOLE / OUTLINE & LAYOUT",
+    "date": "8/90",
+    "year": 1990,
+    "month": 8,
+    "drawn": "GEB",
+    "engineer": "GEB 8/90",
+    "signature": "ISS 2 REVISED AS PER CUSTOMER APPROVAL GEB; scale 1:4",
+    "issue": "2",
+    "job": "DISC NO: 371 CODE: 00438L01",
+    "customer": "CHIN RADIO",
+    "models": [
+      "R1400"
+    ]
+  }
+}

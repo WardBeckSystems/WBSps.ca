@@ -1,0 +1,47 @@
+{
+  "filename": "2021-3-16-23-51-50.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/2021-3-16-23-51-50.jpg",
+  "extension": ".jpg",
+  "size_bytes": 524358,
+  "modified_time": "Sat Oct 17 23:34:15 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "2021",
+    "16",
+    "23",
+    "51",
+    "50"
+  ],
+  "width": 4929,
+  "height": 3246,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4929",
+    "ExifImageHeight": "3246",
+    "ImageUniqueID": "b3af712f53df83040000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/950069/1995 - 950069-03-005 - MACHINE CONTROL PANEL - DRN DRG - ISS 1.jpg",
+  "note": "2021-3-16-23-51-50.jpg.md",
+  "title_block": {
+    "drawing_number": "D 950069-03-005",
+    "size": "D",
+    "title": "MACHINE CONTROL PANEL",
+    "date": "2/95",
+    "year": 1995,
+    "month": 2,
+    "drawn": "DRG(2/95)",
+    "signature": "SCALE 1:1; DISC NO: SYS01, CODE: 95069M05",
+    "issue": "1"
+  }
+}

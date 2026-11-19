@@ -1,0 +1,23 @@
+{
+  "filename": "M459 -04-001.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/Manuals + tech DOCUMENTS/Modules/M459/M459 -04-001.jpg",
+  "extension": ".jpg",
+  "size_bytes": 5630861,
+  "modified_time": "Sun Sep  6 22:11:54 2026",
+  "word_tokens": [
+    "m459",
+    "04",
+    "001"
+  ],
+  "width": 3452,
+  "height": 4916,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "ExifOffset": "26",
+    "ExifImageWidth": "3452",
+    "ExifImageHeight": "4916"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

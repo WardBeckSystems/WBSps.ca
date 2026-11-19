@@ -1,0 +1,45 @@
+{
+  "filename": "M467-567 - P025 - B467-01-001.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M467-567 - P025 - B467-01-001.jpg",
+  "extension": ".jpg",
+  "size_bytes": 62657,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m467",
+    "567",
+    "p025",
+    "b467",
+    "01",
+    "001"
+  ],
+  "width": 900,
+  "height": 579,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "900",
+    "ExifImageHeight": "579",
+    "ImageUniqueID": "b3b84c43a6f697090000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/DYNAMICS/M467/19xx - 467-01-001.jpg",
+  "note": "M467-567 - P025 - B467-01-001.jpg.md",
+  "title_block": {
+    "drawing_number": "B 467-01-001",
+    "size": "B",
+    "models": [
+      "M467"
+    ]
+  }
+}

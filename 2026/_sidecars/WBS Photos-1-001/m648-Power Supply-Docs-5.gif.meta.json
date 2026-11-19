@@ -1,0 +1,33 @@
+{
+  "filename": "m648-Power Supply-Docs-5.gif",
+  "relative_path": "WBSps.env/WBS Photos-1-001/m648-Power Supply-Docs-5.gif",
+  "extension": ".gif",
+  "size_bytes": 212013,
+  "modified_time": "Sat Oct 17 23:34:21 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m648",
+    "power",
+    "supply",
+    "docs"
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/POWER/M648/1983 - M648 - Power Supply-Docs-5.gif",
+  "note": "m648-Power Supply-Docs-5.gif.md",
+  "title_block": {
+    "drawing_number": "B 136-06-001",
+    "size": "B",
+    "title": "T.C. REGULATOR CARD / COMPONENT LAYOUT",
+    "date": "1971 (month obscured)",
+    "year": 1971,
+    "drawn": "GP",
+    "signature": "SCALE 2:1",
+    "issue": "5",
+    "models": [
+      "M648"
+    ]
+  }
+}

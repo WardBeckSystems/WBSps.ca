@@ -1,0 +1,47 @@
+{
+  "filename": "B166-06-001.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/B166-06-001.jpg",
+  "extension": ".jpg",
+  "size_bytes": 4069713,
+  "modified_time": "Sat Oct 17 23:34:17 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "b166",
+    "06",
+    "001"
+  ],
+  "width": 3452,
+  "height": 4916,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "3452",
+    "ExifImageHeight": "4916",
+    "ImageUniqueID": "49f04b8557cd61ab0000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:57",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/SUMMING/M166/1970 - 166-06-001 - ACTIVE SUMMING AMPLIFIER LAYOUT - DRN DPS.jpg",
+  "note": "B166-06-001.jpg.md",
+  "title_block": {
+    "drawing_number": "B 166-06-001",
+    "size": "B",
+    "title": "M166 / ACTIVE SUMMING AMPLIFIER / LAYOUT",
+    "date": "9 FEB 1970",
+    "year": 1970,
+    "month": 2,
+    "drawn": "D.P.S.",
+    "models": [
+      "M166"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "filename": "WBSps.ca -2021-3-15-19-3-51 (64).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca -2021-3-15-19-3-51 (64).jpg",
+  "width": 4964,
+  "height": 3223,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3939,
+    2682,
+    4937,
+    3177
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1994 - 82-03-032 - MF82-4 DA REAR CONNECTOR PANEL - DRN DRG - ISS 1.jpg",
+  "note": "WBSps.ca -2021-3-15-19-3-51 (64).jpg.md",
+  "title_block": {
+    "drawing_number": "D 82-03-032",
+    "size": "D",
+    "title": "MF82-4 DA / REAR CONNECTOR PANEL",
+    "date": "DEC94",
+    "year": 1994,
+    "month": 12,
+    "drawn": "DRG (DEC94)",
+    "signature": "DISC NO: 461; CODE: MM82-032; SCALE 1:1",
+    "issue": "1",
+    "models": [
+      "MF82-4 DA"
+    ]
+  }
+}

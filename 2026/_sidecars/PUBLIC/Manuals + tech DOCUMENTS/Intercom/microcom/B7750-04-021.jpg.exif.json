@@ -1,0 +1,23 @@
+{
+  "filename": "B7750-04-021.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/Manuals + tech DOCUMENTS/Intercom/microcom/B7750-04-021.jpg",
+  "extension": ".jpg",
+  "size_bytes": 7439797,
+  "modified_time": "Sun Sep  6 22:10:05 2026",
+  "word_tokens": [
+    "b7750",
+    "04",
+    "021"
+  ],
+  "width": 3500,
+  "height": 4952,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "ExifOffset": "26",
+    "ExifImageWidth": "3500",
+    "ExifImageHeight": "4952"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

@@ -1,0 +1,35 @@
+{
+  "filename": "WBSps.ca 20210319 -  (47).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca 20210319 -  (47).jpg",
+  "width": 4970,
+  "height": 3218,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3921,
+    2673,
+    4927,
+    3172
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M924/19xx - 924-03-001 - M924A M924D POWER SUPPLY FRONT PANEL - DRN DRG - ISS 1.jpg",
+  "note": "WBSps.ca 20210319 -  (47).jpg.md",
+  "title_block": {
+    "drawing_number": "D 924-03-001",
+    "size": "D",
+    "title": "M924/M924A/M924D / POWER SUPPLY / FRONT PANEL",
+    "drawn": "DRG",
+    "signature": "DISC NO: SYS01; CODE: 924001; SCALE 1:1",
+    "issue": "1",
+    "models": [
+      "M924",
+      "M924A",
+      "M924D"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "filename": "2021-3-16-23-27-27.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/2021-3-16-23-27-27.jpg",
+  "extension": ".jpg",
+  "size_bytes": 344983,
+  "modified_time": "Sat Oct 17 23:34:15 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "2021",
+    "16",
+    "23",
+    "27",
+    "27"
+  ],
+  "width": 4966,
+  "height": 3221,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4966",
+    "ExifImageHeight": "3221",
+    "ImageUniqueID": "68abd2df085a31af0000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/940444 - WBZ Boston/1994 - 940444-04-031 - WBZ BOSTON CUSTOM RENAISSANCE MKI PROFILE - DRN PAS - ENG PAS - ISS 1.jpg",
+  "note": "2021-3-16-23-27-27.jpg.md",
+  "title_block": {
+    "drawing_number": "D 940444-04-031",
+    "size": "D",
+    "title": "WBZ BOSTON / CUSTOM / RENAISSANCE MKI / PROFILE",
+    "drawn": "PAS",
+    "engineer": "PAS",
+    "signature": "DISC NO: 485; CODE: 94444L31",
+    "issue": "1",
+    "customer": "WBZ Boston"
+  }
+}

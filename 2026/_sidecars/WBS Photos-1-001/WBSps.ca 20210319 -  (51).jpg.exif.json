@@ -1,0 +1,46 @@
+{
+  "filename": "WBSps.ca 20210319 -  (51).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca 20210319 -  (51).jpg",
+  "extension": ".jpg",
+  "size_bytes": 725880,
+  "modified_time": "Sat Oct 17 23:34:21 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "20210319",
+    "(51)"
+  ],
+  "width": 4914,
+  "height": 3255,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4914",
+    "ExifImageHeight": "3255",
+    "ImageUniqueID": "de3930e729228df40000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M901B/19xx - 901-03-005 - M901E MIC INPUT MODULE - ISS 4 or 5 (handwritten, unclear).jpg",
+  "note": "WBSps.ca 20210319 -  (51).jpg.md",
+  "title_block": {
+    "drawing_number": "D 901-03-005",
+    "size": "D",
+    "title": "M901B/M901E / MIC INPUT / MODULE",
+    "signature": "DISC NO: (handwritten over) CODE: 901005; handwritten REPLOT; issue handwritten",
+    "issue": "4 or 5 (handwritten, unclear)",
+    "models": [
+      "M901B",
+      "M901E"
+    ]
+  }
+}

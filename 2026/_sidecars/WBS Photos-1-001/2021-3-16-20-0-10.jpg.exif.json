@@ -1,0 +1,43 @@
+{
+  "filename": "2021-3-16-20-0-10.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/2021-3-16-20-0-10.jpg",
+  "extension": ".jpg",
+  "size_bytes": 307415,
+  "modified_time": "Sat Oct 17 23:34:15 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "2021",
+    "16",
+    "20",
+    "10"
+  ],
+  "width": 4968,
+  "height": 3220,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4968",
+    "ExifImageHeight": "3220",
+    "ImageUniqueID": "717f76a551ac08000000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/19xx - D 9807 - DOUBLE JACKSTRIP BLANK (COMPRESSED) - DRN DRG - ISS 1.jpg",
+  "note": "2021-3-16-20-0-10.jpg.md",
+  "title_block": {
+    "drawing_number": "D 9807",
+    "size": "D",
+    "title": "DOUBLE JACKSTRIP BLANK / (COMPRESSED)",
+    "drawn": "DRG",
+    "signature": "DISC NO: 402; CODE: 9807; SCALE 1:1",
+    "issue": "1"
+  }
+}

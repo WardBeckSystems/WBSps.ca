@@ -1,0 +1,30 @@
+{
+  "filename": "WBSps.ca 20210319 -  (12).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca 20210319 -  (12).jpg",
+  "width": 4976,
+  "height": 3214,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    399,
+    2414,
+    2178,
+    2863
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M900/19xx - 900-03-212 - EQUALIZER MK SERIES BOTTOM PAN (REMOVABLE) - DRN DRG - ISS 1.jpg",
+  "note": "WBSps.ca 20210319 -  (12).jpg.md",
+  "title_block": {
+    "drawing_number": "D 900-03-212",
+    "size": "D",
+    "title": "EQUALIZER MK SERIES / BOTTOM PAN (REMOVABLE)",
+    "drawn": "DRG",
+    "signature": "DISC NO: SYS01, CODE: 900212, SCALE 1:1",
+    "issue": "1"
+  }
+}

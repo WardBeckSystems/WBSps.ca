@@ -1,0 +1,22 @@
+{
+  "filename": "M485B - P10 - Functional Diagram.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/M485B - P10 - Functional Diagram.jpg",
+  "width": 900,
+  "height": 592,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": null,
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/POWER/M485B/M485B - P10 - Functional Diagram.jpg",
+  "note": "M485B - P10 - Functional Diagram.jpg.md",
+  "title_block": {
+    "models": [
+      "M485B"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "filename": "173-06-001.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/173-06-001.jpg",
+  "extension": ".jpg",
+  "size_bytes": 7644524,
+  "modified_time": "Sat Oct 17 23:34:14 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "173",
+    "06",
+    "001"
+  ],
+  "width": 4952,
+  "height": 3500,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "ResolutionUnit": "2",
+    "ExifOffset": "90",
+    "Orientation": "1",
+    "XResolution": "72.0",
+    "YResolution": "72.0",
+    "ExifImageWidth": "4952",
+    "ExifImageHeight": "3500"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/AMPLIFIERS/M621/1973 - M621 - 173-06-001 (2).jpg",
+  "note": "173-06-001.jpg.md",
+  "title_block": {
+    "drawing_number": "B 173-06-001",
+    "size": "B",
+    "title": "M621 / 20W MONITOR AMPLIFIER / P.C.B. LAYOUT",
+    "date": "27 JULY 70",
+    "year": 1970,
+    "month": 7,
+    "drawn": "D.P.S",
+    "checked": "(handwritten initials)",
+    "signature": "SCALE 2:1",
+    "issue": "4",
+    "models": [
+      "M621"
+    ]
+  }
+}

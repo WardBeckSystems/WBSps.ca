@@ -1,0 +1,38 @@
+{
+  "filename": "2022-2-8-21-17-6.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/2022-2-8-21-17-6.jpg",
+  "extension": ".jpg",
+  "size_bytes": 4535058,
+  "modified_time": "Sat Oct 17 23:34:15 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "2022",
+    "21",
+    "17"
+  ],
+  "width": 3300,
+  "height": 10208,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "Orientation": "6"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:55",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M121/19xx - 121-02-003 - REMOTE GAIN AMPLIFIER SCHEMATIC - DRN DJG - ISS 1.jpg",
+  "note": "2022-2-8-21-17-6.jpg.md",
+  "title_block": {
+    "drawing_number": "LB 121-02-003",
+    "title": "M121 / REMOTE GAIN AMPLIFIER / SCHEMATIC",
+    "drawn": "DJG",
+    "checked": "R.B.",
+    "signature": "SCALE NONE",
+    "issue": "1",
+    "job": "121",
+    "models": [
+      "M121"
+    ]
+  }
+}

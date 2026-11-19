@@ -1,0 +1,46 @@
+{
+  "filename": "M490M - P026 - B490-02-013 R.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M490M - P026 - B490-02-013 R.jpg",
+  "extension": ".jpg",
+  "size_bytes": 448852,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m490m",
+    "p026",
+    "b490",
+    "02",
+    "013"
+  ],
+  "width": 1700,
+  "height": 2168,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "1700",
+    "ExifImageHeight": "2168",
+    "ImageUniqueID": "ee684e667c3363200000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/INPUT-PRE-AMPS/M490/19xx - 490-02-013 - STEREO INPUT MODULE SCHEMATIC - ISS 3.jpg",
+  "note": "M490M - P026 - B490-02-013 R.jpg.md",
+  "title_block": {
+    "drawing_number": "B 490-02-013",
+    "size": "B",
+    "title": "STEREO INPUT MODULE / SCHEMATIC",
+    "issue": "3",
+    "models": [
+      "M490M"
+    ]
+  }
+}

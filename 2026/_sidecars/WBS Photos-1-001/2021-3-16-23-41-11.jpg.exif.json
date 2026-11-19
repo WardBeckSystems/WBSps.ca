@@ -1,0 +1,46 @@
+{
+  "filename": "2021-3-16-23-41-11.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/2021-3-16-23-41-11.jpg",
+  "extension": ".jpg",
+  "size_bytes": 491999,
+  "modified_time": "Sat Oct 17 23:34:15 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "2021",
+    "16",
+    "23",
+    "41",
+    "11"
+  ],
+  "width": 4990,
+  "height": 3205,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4990",
+    "ExifImageHeight": "3205",
+    "ImageUniqueID": "ca060b3609a9f11e0000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/930420 - CBC FREDERICTON/1993 - 930420-01-002 - CBC FREDERICTON INTERCOM INTERFACE FACILITY FUNCTIONAL - DRN MGB - ENG GEB - ISS 5.jpg",
+  "note": "2021-3-16-23-41-11.jpg.md",
+  "title_block": {
+    "drawing_number": "D 930420-01-002",
+    "size": "D",
+    "title": "CBC FREDERICTON / INTERCOM INTERFACE FACILITY / FUNCTIONAL",
+    "drawn": "MGB",
+    "engineer": "GEB",
+    "signature": "ISS 4 UPDATED AS PER CUSTOMER REQUEST; DISC NO: 452, CODE: 93420F02",
+    "issue": "5",
+    "customer": "CBC FREDERICTON"
+  }
+}

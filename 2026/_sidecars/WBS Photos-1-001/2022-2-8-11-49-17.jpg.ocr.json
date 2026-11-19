@@ -1,0 +1,36 @@
+{
+  "filename": "2022-2-8-11-49-17.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2022-2-8-11-49-17.jpg",
+  "width": 3300,
+  "height": 10208,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    8415,
+    2454,
+    10208,
+    3298
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:55",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/AMPLIFIERS/M808/1978 - 808-02-002 - M808A 8x1 RELAY SWITCHER CARD SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (8).jpg",
+  "note": "2022-2-8-11-49-17.jpg.md",
+  "title_block": {
+    "drawing_number": "LB 808-02-002",
+    "title": "M808A / 8x1 RELAY SWITCHER CARD / SCHEMATIC",
+    "date": "7/78",
+    "year": 1978,
+    "month": 7,
+    "drawn": "MRW",
+    "engineer": "MRW 7/78",
+    "issue": "2",
+    "job": "808",
+    "models": [
+      "M808A"
+    ]
+  }
+}

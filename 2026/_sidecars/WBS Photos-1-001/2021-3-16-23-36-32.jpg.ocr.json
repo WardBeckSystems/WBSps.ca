@@ -1,0 +1,32 @@
+{
+  "filename": "2021-3-16-23-36-32.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2021-3-16-23-36-32.jpg",
+  "width": 5029,
+  "height": 3181,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3315,
+    2335,
+    4897,
+    3180
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/94064 - WBZ/1994 - 94064-01-006 - WBZ TAPE OPS RENAISSANCE MK II FUNCTIONAL - DRN SM - ENG SM - ISS 1.jpg",
+  "note": "2021-3-16-23-36-32.jpg.md",
+  "title_block": {
+    "drawing_number": "D 94064-01-006",
+    "size": "D",
+    "title": "WBZ TAPE OPS / RENAISSANCE MK II / FUNCTIONAL",
+    "drawn": "SM",
+    "engineer": "SM",
+    "signature": "DISC NO: 479; CODE: 94064F06; handwritten note below illegible",
+    "issue": "1",
+    "customer": "WBZ"
+  }
+}

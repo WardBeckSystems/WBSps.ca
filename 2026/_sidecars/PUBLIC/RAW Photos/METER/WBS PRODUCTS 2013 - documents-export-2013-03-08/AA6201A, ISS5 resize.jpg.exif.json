@@ -1,0 +1,27 @@
+{
+  "filename": "AA6201A, ISS5 resize.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/RAW Photos/METER/WBS PRODUCTS 2013 - documents-export-2013-03-08/AA6201A, ISS5 resize.jpg",
+  "extension": ".jpg",
+  "size_bytes": 465083,
+  "modified_time": "Sun Sep  6 22:15:35 2026",
+  "word_tokens": [
+    "aa6201a,",
+    "iss5",
+    "resize"
+  ],
+  "width": 1242,
+  "height": 294,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "ResolutionUnit": "2",
+    "ExifOffset": "90",
+    "Orientation": "1",
+    "XResolution": "72.0",
+    "YResolution": "72.0",
+    "ExifImageWidth": "1242",
+    "ExifImageHeight": "294"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

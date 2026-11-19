@@ -1,0 +1,33 @@
+{
+  "filename": "WBSps.ca - WBS Input Transformer - 60-15.png",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca - WBS Input Transformer - 60-15.png",
+  "width": 4400,
+  "height": 2673,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2533,
+    1771,
+    4275,
+    2608
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/19xx - B 60-15 - 60-15 INPUT TRANSFORMER - DRN MRW - ENG RKB - ISS 1.png",
+  "note": "WBSps.ca - WBS Input Transformer - 60-15.png.md",
+  "title_block": {
+    "drawing_number": "B 60-15",
+    "size": "B",
+    "title": "60-15 / INPUT TRANSFORMER",
+    "date": "14/79",
+    "drawn": "MRW 14/79",
+    "checked": "R. Bell (signature)",
+    "engineer": "RKB",
+    "signature": "SCALE 1/1",
+    "issue": "1"
+  }
+}

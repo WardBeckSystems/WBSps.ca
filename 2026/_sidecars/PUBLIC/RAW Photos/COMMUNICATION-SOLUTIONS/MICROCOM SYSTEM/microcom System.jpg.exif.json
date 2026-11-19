@@ -1,0 +1,35 @@
+{
+  "filename": "microcom System.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/RAW Photos/COMMUNICATION-SOLUTIONS/MICROCOM SYSTEM/microcom System.jpg",
+  "extension": ".jpg",
+  "size_bytes": 552822,
+  "modified_time": "Sun Sep  6 22:06:32 2026",
+  "word_tokens": [
+    "microcom",
+    "system"
+  ],
+  "width": 2899,
+  "height": 2295,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "ImageWidth": "3258",
+    "ImageLength": "2526",
+    "BitsPerSample": "['8', '8', '8']",
+    "PhotometricInterpretation": "2",
+    "ResolutionUnit": "2",
+    "ExifOffset": "228",
+    "Software": "Adobe Photoshop CS5 Windows",
+    "Orientation": "1",
+    "DateTime": "2011:11:10 13:55:40",
+    "SamplesPerPixel": "3",
+    "XResolution": "300.0",
+    "YResolution": "300.0",
+    "ExifVersion": "0221",
+    "ColorSpace": "65535",
+    "ExifImageWidth": "2899",
+    "ExifImageHeight": "2295"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

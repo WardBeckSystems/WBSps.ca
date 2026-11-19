@@ -1,0 +1,44 @@
+{
+  "filename": "M455 - P016 - B455-01-001.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M455 - P016 - B455-01-001.jpg",
+  "extension": ".jpg",
+  "size_bytes": 72400,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m455",
+    "p016",
+    "b455",
+    "01",
+    "001"
+  ],
+  "width": 900,
+  "height": 575,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "900",
+    "ExifImageHeight": "575",
+    "ImageUniqueID": "d37ed192c46770770000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:58",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/ROUTING/M455/19xx - 455-01-001.jpg",
+  "note": "M455 - P016 - B455-01-001.jpg.md",
+  "title_block": {
+    "drawing_number": "B 455-01-001",
+    "size": "B",
+    "models": [
+      "M455"
+    ]
+  }
+}

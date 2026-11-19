@@ -1,0 +1,55 @@
+{
+  "filename": "R1400-R2400 - 025 - R1200 R1400 desk cutout.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/R1400-R2400 - 025 - R1200 R1400 desk cutout.jpg",
+  "extension": ".jpg",
+  "size_bytes": 2839242,
+  "modified_time": "Sat Oct 17 23:34:19 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "r1400",
+    "r2400",
+    "025",
+    "r1200",
+    "r1400",
+    "desk",
+    "cutout"
+  ],
+  "width": 3504,
+  "height": 4956,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "3504",
+    "ExifImageHeight": "4956",
+    "ImageUniqueID": "a44f53417cbc26f10000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:00",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1970-1979/77024/1978 - 77024-04-003 - RADIO CONSOLE DESK CUTOUT DETAIL - DRN GEB - ISS 1.jpg",
+  "note": "R1400-R2400 - 025 - R1200 R1400 desk cutout.jpg.md",
+  "title_block": {
+    "drawing_number": "B 77024-04-003",
+    "size": "B",
+    "title": "RADIO CONSOLE / DESK CUTOUT DETAIL",
+    "date": "1/78",
+    "year": 1978,
+    "month": 1,
+    "drawn": "GEB 1/78",
+    "checked": "Rnl",
+    "signature": "SCALE 1:8",
+    "issue": "1",
+    "models": [
+      "R1200",
+      "R1400"
+    ]
+  }
+}

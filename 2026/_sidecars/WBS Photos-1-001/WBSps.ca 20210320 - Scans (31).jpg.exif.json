@@ -1,0 +1,48 @@
+{
+  "filename": "WBSps.ca 20210320 - Scans (31).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (31).jpg",
+  "extension": ".jpg",
+  "size_bytes": 1794326,
+  "modified_time": "Sat Oct 17 23:34:21 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "20210320",
+    "scans",
+    "(31)"
+  ],
+  "width": 4757,
+  "height": 3363,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4757",
+    "ExifImageHeight": "3363",
+    "ImageUniqueID": "cffe4da5beba18860000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1975 - B 9315 - 60-4 INPUT TRANSFORMER - DRN D. McFarlane - ISS 1.jpg",
+  "note": "WBSps.ca 20210320 - Scans (31).jpg.md",
+  "title_block": {
+    "drawing_number": "B 9315",
+    "size": "B",
+    "title": "60-4 INPUT TRANSFORMER",
+    "date": "1 DEC. 75",
+    "year": 1975,
+    "month": 12,
+    "drawn": "D. McFarlane",
+    "checked": "RWW",
+    "signature": "SCALE 1:1",
+    "issue": "1"
+  }
+}

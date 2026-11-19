@@ -1,0 +1,31 @@
+{
+  "filename": "WBSps.ca - WBS output Transformer - 70-7.png",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca - WBS output Transformer - 70-7.png",
+  "width": 4127,
+  "height": 2480,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2295,
+    2004,
+    4127,
+    2478
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1974 - 70-7 - OUTPUT TRANSFORMER TYPE 70-7 - ISS 2.png",
+  "note": "WBSps.ca - WBS output Transformer - 70-7.png.md",
+  "title_block": {
+    "drawing_number": "70-7",
+    "title": "OUTPUT TRANSFORMER / TYPE 70-7",
+    "date": "DEC 74",
+    "year": 1974,
+    "month": 12,
+    "signature": "ISS 2 PACKAGING & CONNECTIONS DEFINED FEB/75; DWG. 70-7",
+    "issue": "2"
+  }
+}

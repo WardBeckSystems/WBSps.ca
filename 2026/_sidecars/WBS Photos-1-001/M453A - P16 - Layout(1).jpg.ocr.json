@@ -1,0 +1,37 @@
+{
+  "filename": "M453A - P16 - Layout(1).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/M453A - P16 - Layout(1).jpg",
+  "width": 2028,
+  "height": 1554,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1509,
+    1246,
+    2028,
+    1553
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:58",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/AMPLIFIERS/M453/1978 - 453-06-002 - M453A CUE AMPLIFIER COMPONENT LAYOUT - DRN MRW - ENG MRW - ISS 5.jpg",
+  "note": "M453A - P16 - Layout(1).jpg.md",
+  "title_block": {
+    "drawing_number": "B 453-06-002",
+    "size": "B",
+    "title": "M453A / CUE AMPLIFIER / COMPONENT LAYOUT",
+    "date": "01/78",
+    "year": 1978,
+    "month": 1,
+    "drawn": "MRW 01/78",
+    "engineer": "MRW",
+    "signature": "revisions: ISS 2 79/5/7 3633 VINCE; ISS 3 80/4/1 3660; ISS 4 80/3/29(?) 3700",
+    "issue": "5",
+    "models": [
+      "M453A"
+    ]
+  }
+}

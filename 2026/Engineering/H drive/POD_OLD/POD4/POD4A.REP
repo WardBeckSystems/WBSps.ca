@@ -1,0 +1,125 @@
+
+
+    Design Rule Check Report                                       POD4A.PCB
+
+                            SA14-331 BILL OF MATERIAL
+
+    ========================================================================
+
+    DRC Clearances (in mils)
+    ------------------------
+
+                   Top   Bot  Mid1  Mid2  Mid3  Mid4  Mid5  Mid6  Mid7  Mid8
+
+      Pad-to-Pad    11    11    11    11    11    11    11    11    11    11
+     Pad-to-Line    11    11    11    11    11    11    11    11    11    11
+    Line-to-Line    11    11    11    11    11    11    11    11    11    11
+    
+    Hole-to-Hole    13
+    
+
+    DRC Report Options
+    ------------------
+
+    Clearance Violations:             enabled
+    Text Violations:                  disabled
+    Net List Violations:              disabled
+    Single Node Routes:               disabled
+    Unconnected Pins:                 disabled
+    Unplaced Nodes:                   disabled
+    
+
+    DRC Errors
+    ----------
+
+    CLEARANCE VIOLATION
+       Polygon segment from (11725,5900) to (11625,5800) [Top layer]
+       Line at (11725,5875) to (12300,5875) [Top layer]
+       Calculated clearance:  10
+    CLEARANCE VIOLATION
+       Polygon segment from (11725,5900) to (11625,5800) [Top layer]
+       Line at (11650,5800) to (11725,5875) [Top layer]
+       Calculated clearance:  10
+    CLEARANCE VIOLATION
+       Polygon segment from (11725,5900) to (11625,5800) [Top layer]
+       Line at (11650,5500) to (11650,5800) [Top layer]
+       Calculated clearance:  10
+    CLEARANCE VIOLATION
+       Line at (13250,6225) to (13600,5875) [Bottom layer]
+       Polygon segment from (13300,6100) to (13325,6125) [Bottom layer]
+       Calculated clearance:  10
+    CLEARANCE VIOLATION
+       Line at (13250,6225) to (13250,6375) [Bottom layer]
+       Polygon segment from (13325,6125) to (13225,6225) [Bottom layer]
+       Calculated clearance:  10
+    CLEARANCE VIOLATION
+       Line at (13250,6225) to (13600,5875) [Bottom layer]
+       Polygon segment from (13325,6125) to (13225,6225) [Bottom layer]
+       Calculated clearance:  10
+    CLEARANCE VIOLATION
+
+                            SA14-331 BILL OF MATERIAL
+
+    05-Nov-96  09:19                                                 Page  1
+
+    Design Rule Check Report                                       POD4A.PCB
+
+                            SA14-331 BILL OF MATERIAL
+
+    ========================================================================
+
+       Line at (13250,6225) to (13600,5875) [Bottom layer]
+       Polygon segment from (13325,6075) to (13350,6100) [Bottom layer]
+       Calculated clearance:  10
+    CLEARANCE VIOLATION
+       Line at (13250,6225) to (13600,5875) [Bottom layer]
+       Polygon segment from (13350,6100) to (13300,6150) [Bottom layer]
+       Calculated clearance:  10
+    CLEARANCE VIOLATION
+       Line at (13250,6225) to (13600,5875) [Bottom layer]
+       Polygon segment from (13300,6150) to (12975,6150) [Bottom layer]
+       Calculated clearance:  10
+    CLEARANCE VIOLATION
+       Line at (13250,6225) to (13600,5875) [Bottom layer]
+       Polygon segment from (13425,6125) to (13400,6100) [Bottom layer]
+       Calculated clearance:  10
+    CLEARANCE VIOLATION
+       Line at (13250,6225) to (13600,5875) [Bottom layer]
+       Polygon segment from (13400,6100) to (13275,6225) [Bottom layer]
+       Calculated clearance:  10
+    CLEARANCE VIOLATION
+       Line at (13250,6225) to (13600,5875) [Bottom layer]
+       Polygon segment from (13275,6225) to (13275,6325) [Bottom layer]
+       Calculated clearance:  10
+    
+    DRC Summary
+    -----------
+
+           12 errors detected
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            SA14-331 BILL OF MATERIAL
+
+    05-Nov-96  09:19                                                 Page  2

@@ -1,0 +1,39 @@
+{
+  "filename": "2022-2-8-11-51-52.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/2022-2-8-11-51-52.jpg",
+  "extension": ".jpg",
+  "size_bytes": 4750200,
+  "modified_time": "Sat Oct 17 23:34:15 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "2022",
+    "11",
+    "51",
+    "52"
+  ],
+  "width": 3892,
+  "height": 10880,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "Orientation": "6"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:55",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1970 - 1021-02-001 - POWER SUPPLY DISTRIBUTION SCHEMATIC - DRN GP - ISS 2.jpg",
+  "note": "2022-2-8-11-51-52.jpg.md",
+  "title_block": {
+    "drawing_number": "B 1021-02-001",
+    "size": "B",
+    "title": "POWER SUPPLY DISTRIBUTION / SCHEMATIC",
+    "date": "15 AUG 1970",
+    "year": 1970,
+    "month": 8,
+    "drawn": "GP",
+    "checked": "AL",
+    "issue": "2",
+    "job": "1021"
+  }
+}

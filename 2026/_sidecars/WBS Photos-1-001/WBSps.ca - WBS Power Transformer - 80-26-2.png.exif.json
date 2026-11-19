@@ -1,0 +1,47 @@
+{
+  "filename": "WBSps.ca - WBS Power Transformer - 80-26-2.png",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca - WBS Power Transformer - 80-26-2.png",
+  "extension": ".png",
+  "size_bytes": 333224,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "wbs",
+    "power",
+    "transformer",
+    "80",
+    "26"
+  ],
+  "width": 4129,
+  "height": 2480,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "ExifOffset": "46",
+    "ExifVersion": "0220",
+    "ExifImageWidth": "4129",
+    "ExifImageHeight": "2480",
+    "ImageUniqueID": "ddbf164f9e9a3a210000000000000000"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1983 - B 80-26-2 - 80-26-2 POWER TRANSFORMER - DRN GEB - ENG GEB - ISS 3.png",
+  "note": "WBSps.ca - WBS Power Transformer - 80-26-2.png.md",
+  "title_block": {
+    "drawing_number": "B 80-26-2",
+    "size": "B",
+    "title": "80-26-2 / POWER TRANSFORMER",
+    "date": "2/83",
+    "year": 1983,
+    "month": 2,
+    "drawn": "GEB",
+    "engineer": "GEB 2/83",
+    "signature": "ISS 2 AUG 83 MFG No CHANGED; ISS 3 JUN 11/85 NOTE RE LID ADDED; SCALE FULL",
+    "issue": "3"
+  }
+}

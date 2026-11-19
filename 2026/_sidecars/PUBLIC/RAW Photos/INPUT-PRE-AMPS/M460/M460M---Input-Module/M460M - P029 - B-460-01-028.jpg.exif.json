@@ -1,0 +1,38 @@
+{
+  "filename": "M460M - P029 - B-460-01-028.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/RAW Photos/INPUT-PRE-AMPS/M460/M460M---Input-Module/M460M - P029 - B-460-01-028.jpg",
+  "extension": ".jpg",
+  "size_bytes": 1178410,
+  "modified_time": "Sun Sep  6 22:16:59 2026",
+  "word_tokens": [
+    "m460m",
+    "p029",
+    "460",
+    "01",
+    "028"
+  ],
+  "width": 3222,
+  "height": 2148,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "ImageWidth": "1700",
+    "ImageLength": "2148",
+    "BitsPerSample": "['8', '8', '8', '8']",
+    "PhotometricInterpretation": "1",
+    "ResolutionUnit": "2",
+    "ExifOffset": "232",
+    "Software": "Adobe Photoshop CS5 Windows",
+    "Orientation": "1",
+    "DateTime": "2011:11:23 15:31:44",
+    "SamplesPerPixel": "4",
+    "XResolution": "300.0",
+    "YResolution": "300.0",
+    "ExifVersion": "0221",
+    "ColorSpace": "65535",
+    "ExifImageWidth": "3222",
+    "ExifImageHeight": "2148"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

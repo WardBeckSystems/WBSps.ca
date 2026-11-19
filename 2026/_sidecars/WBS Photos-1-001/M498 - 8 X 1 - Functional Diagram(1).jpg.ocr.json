@@ -1,0 +1,37 @@
+{
+  "filename": "M498 - 8 X 1 - Functional Diagram(1).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/M498 - 8 X 1 - Functional Diagram(1).jpg",
+  "width": 2968,
+  "height": 2014,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1892,
+    1502,
+    2966,
+    2012
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/ROUTING/M498/1978 - 498-01-001 - 8X1 STEREO SWITCHER MODULE FUNCTIONAL DIAGRAM - DRN P. Mahoney - ISS 1.jpg",
+  "note": "M498 - 8 X 1 - Functional Diagram(1).jpg.md",
+  "title_block": {
+    "drawing_number": "B 498-01-001",
+    "size": "B",
+    "title": "8X1 STEREO SWITCHER MODULE / FUNCTIONAL DIAGRAM",
+    "date": "1-24-78",
+    "year": 1978,
+    "month": 1,
+    "drawn": "P. Mahoney",
+    "checked": "Relle",
+    "approved": "signed 1-24-78",
+    "issue": "1",
+    "models": [
+      "M498"
+    ]
+  }
+}

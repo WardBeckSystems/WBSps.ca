@@ -1,0 +1,39 @@
+{
+  "filename": "M460B - P010 - 3-2.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M460B - P010 - 3-2.jpg",
+  "extension": ".jpg",
+  "size_bytes": 132276,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m460b",
+    "p010"
+  ],
+  "width": 699,
+  "height": 900,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "699",
+    "ExifImageHeight": "900",
+    "ImageUniqueID": "e45890fb70de3e660000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/INPUT-PRE-AMPS/M460B/M460B - P010 - 3-2.jpg",
+  "note": "M460B - P010 - 3-2.jpg.md",
+  "title_block": {
+    "models": [
+      "M460B"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "filename": "M462C562C - P026 - B462-01-004 R.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M462C562C - P026 - B462-01-004 R.jpg",
+  "extension": ".jpg",
+  "size_bytes": 121843,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m462c562c",
+    "p026",
+    "b462",
+    "01",
+    "004"
+  ],
+  "width": 702,
+  "height": 900,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "702",
+    "ExifImageHeight": "900",
+    "ImageUniqueID": "ba5399f9468c9ce00000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/FILTERS/M462/19xx - 462-01-004.jpg",
+  "note": "M462C562C - P026 - B462-01-004 R.jpg.md",
+  "title_block": {
+    "drawing_number": "B 462-01-004",
+    "size": "B"
+  }
+}

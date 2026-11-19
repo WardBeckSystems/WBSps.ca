@@ -1,0 +1,33 @@
+{
+  "filename": "WBSps.ca 20210320 - Scans (102).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (102).jpg",
+  "width": 4757,
+  "height": 3363,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1632,
+    2717,
+    2315,
+    3333
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M107/1972 - 107-03-004 - MODULE BASE - DRN MRW.jpg",
+  "note": "WBSps.ca 20210320 - Scans (102).jpg.md",
+  "title_block": {
+    "drawing_number": "B 107-03-004",
+    "size": "B",
+    "title": "MODULE BASE",
+    "date": "JAN. 72",
+    "year": 1972,
+    "month": 1,
+    "drawn": "MRW",
+    "checked": "(signature, illegible)",
+    "signature": "FINISH CLEAR ANODIZE; MATERIAL WBS EXTRUSION SEE DWG. No C102-03-006/3; SCALE FULL"
+  }
+}

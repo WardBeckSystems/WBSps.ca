@@ -1,0 +1,108 @@
+---
+type: "product"
+code: "POD10"
+title: "Digital Audio Switcher"
+category: "PODS"
+year: 2013
+confidence: "low (named by)"
+tags: ["product", "pods", "2010s"]
+---
+
+# POD10 — Digital Audio Switcher
+
+**▶ [Open the POD10 simulation](../siumulation.html?plugin=pod10)** — front panel, operator tutorial, one second in slow motion, block diagram, schematics and how each control drives the firmware
+
+|  |  |
+|---|---|
+| Type | product |
+| Series | [PODS](Series-PODS.md) |
+| Try it | [full simulation: POD10](../siumulation.html?plugin=pod10) · [KiCad symbol generator](../kicad.html?m=POD10) · [download package (zip)](../_packages/POD10.zip) |
+| Earliest dated evidence | [2013\|46](Year-2013.md) — dated folder |
+| Evidence | in "WBS PRODUCTS 2013 - documents-export-2013-03-08" |
+| Confidence | low (named by) |
+| All years found | [2013\|46](Year-2013.md), [2014\|47](Year-2014.md) |
+| Variants | [POD10A](POD10A.md) |
+| Folder | [Products/PODS/POD10](../Products/PODS/POD10/) |
+
+## Front panel
+
+<svg class="wbs-panel solo" data-m="POD10" data-n="Digital Audio Switcher" data-cat="PODS" role="img" aria-label="POD10 front panel"></svg>
+
+## Pinout & connections
+
+_No page of its own numbers POD10's contacts: these are its variant [POD10A](POD10A.md)'s, drawn faded — not confirmed for POD10._
+
+<div class="wbs-pinout" style="display:flex;flex-direction:column;gap:14px;margin:8px 0 14px"><div style="display:flex;flex-wrap:wrap;gap:10px 16px;align-items:flex-start"><svg class="wp" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 292 243" width="292" height="243" role="img" aria-label="POD10 edge connector, numbered contacts" style="width:100%;max-width:292px;height:auto;background:#fbfaf4"><style>.wp text{font-family:"Courier Prime","Courier New",Courier,monospace;fill:#1f1e1c;font-size:12px} .wp .f{fill:#6d6a63;font-size:10.5px} .wp .h{font-size:12.5px;font-weight:700;letter-spacing:.04em} .wp .b{font-size:17px;font-weight:700} .wp a text{fill:#1f3f6b;text-decoration:underline} .wp a:hover rect{fill:#efe9d2}</style><text x="4" y="16" class="h" text-anchor="start">EDGE CONNECTOR · 1–9</text><text x="4" y="32" class="f" text-anchor="start">NUMBERED SIDE · AS ON POD10A</text><rect x="4" y="40" width="49" height="195" fill="#efe9d2" stroke="#cfcabc"/><g opacity=".62"><title>1: ST BYTE
+named, kind not clear · confidence variant (from a variant)
+table · 2014 - POD10A - MANUAL (2).docx, p. 1</title><rect x="14" y="46" width="30" height="15" rx="1.5" fill="#efece3" stroke="#1f1e1c" stroke-width="1.5" stroke-dasharray="3 2"/><text x="29" y="58" text-anchor="middle" style="font-weight:700;fill:#1f1e1c">1</text><text x="54" y="58" text-anchor="start">ST BYTE</text><circle cx="284" cy="54" r="3.6" fill="none" stroke="#1f1e1c" stroke-width="1" stroke-dasharray="1.6 1.4"/></g><g opacity=".62"><title>2: ND BYTE
+named, kind not clear · confidence variant (from a variant)
+table · 2014 - POD10A - MANUAL (2).docx, p. 1</title><rect x="14" y="67" width="30" height="15" rx="1.5" fill="#efece3" stroke="#1f1e1c" stroke-width="1.5" stroke-dasharray="3 2"/><text x="29" y="79" text-anchor="middle" style="font-weight:700;fill:#1f1e1c">2</text><text x="54" y="79" text-anchor="start">ND BYTE</text><circle cx="284" cy="75" r="3.6" fill="none" stroke="#1f1e1c" stroke-width="1" stroke-dasharray="1.6 1.4"/></g><g opacity=".62"><title>3: V P-P
+named, kind not clear · confidence variant (from a variant)
+table · 2014 - POD10A - MANUAL (2).docx, p. 1</title><rect x="14" y="88" width="30" height="15" rx="1.5" fill="#efece3" stroke="#1f1e1c" stroke-width="1.5" stroke-dasharray="3 2"/><text x="29" y="100" text-anchor="middle" style="font-weight:700;fill:#1f1e1c">3</text><text x="54" y="100" text-anchor="start">V P-P</text><circle cx="284" cy="96" r="3.6" fill="none" stroke="#1f1e1c" stroke-width="1" stroke-dasharray="1.6 1.4"/></g><g opacity=".62"><title>4: INPUT 4
+audio in · confidence variant (from a variant)
+table · 2014 - POD10A - MANUAL (2).docx, p. 1</title><rect x="14" y="109" width="30" height="15" rx="1.5" fill="#dcecef" stroke="#2b7a8c" stroke-width="1.5" stroke-dasharray="3 2"/><text x="29" y="121" text-anchor="middle" style="font-weight:700;fill:#2b7a8c">4</text><text x="54" y="121" text-anchor="start">INPUT 4</text><text x="272" y="121" class="f" text-anchor="end" style="fill:#2b7a8c">IN</text><circle cx="284" cy="117" r="3.6" fill="none" stroke="#1f1e1c" stroke-width="1" stroke-dasharray="1.6 1.4"/></g><g opacity=".62"><title>5: INPUT 5
+audio in · confidence variant (from a variant)
+table · 2014 - POD10A - MANUAL (2).docx, p. 1</title><rect x="14" y="130" width="30" height="15" rx="1.5" fill="#dcecef" stroke="#2b7a8c" stroke-width="1.5" stroke-dasharray="3 2"/><text x="29" y="142" text-anchor="middle" style="font-weight:700;fill:#2b7a8c">5</text><text x="54" y="142" text-anchor="start">INPUT 5</text><text x="272" y="142" class="f" text-anchor="end" style="fill:#2b7a8c">IN</text><circle cx="284" cy="138" r="3.6" fill="none" stroke="#1f1e1c" stroke-width="1" stroke-dasharray="1.6 1.4"/></g><g opacity=".62"><title>6: INPUT 6
+audio in · confidence variant (from a variant)
+table · 2014 - POD10A - MANUAL (2).docx, p. 1</title><rect x="14" y="151" width="30" height="15" rx="1.5" fill="#dcecef" stroke="#2b7a8c" stroke-width="1.5" stroke-dasharray="3 2"/><text x="29" y="163" text-anchor="middle" style="font-weight:700;fill:#2b7a8c">6</text><text x="54" y="163" text-anchor="start">INPUT 6</text><text x="272" y="163" class="f" text-anchor="end" style="fill:#2b7a8c">IN</text><circle cx="284" cy="159" r="3.6" fill="none" stroke="#1f1e1c" stroke-width="1" stroke-dasharray="1.6 1.4"/></g><g opacity=".62"><title>7: INPUT 7
+audio in · confidence variant (from a variant)
+table · 2014 - POD10A - MANUAL (2).docx, p. 1</title><rect x="14" y="172" width="30" height="15" rx="1.5" fill="#dcecef" stroke="#2b7a8c" stroke-width="1.5" stroke-dasharray="3 2"/><text x="29" y="184" text-anchor="middle" style="font-weight:700;fill:#2b7a8c">7</text><text x="54" y="184" text-anchor="start">INPUT 7</text><text x="272" y="184" class="f" text-anchor="end" style="fill:#2b7a8c">IN</text><circle cx="284" cy="180" r="3.6" fill="none" stroke="#1f1e1c" stroke-width="1" stroke-dasharray="1.6 1.4"/></g><g opacity=".62"><title>8: INPUT 8
+audio in · confidence variant (from a variant)
+table · 2014 - POD10A - MANUAL (2).docx, p. 1</title><rect x="14" y="193" width="30" height="15" rx="1.5" fill="#dcecef" stroke="#2b7a8c" stroke-width="1.5" stroke-dasharray="3 2"/><text x="29" y="205" text-anchor="middle" style="font-weight:700;fill:#2b7a8c">8</text><text x="54" y="205" text-anchor="start">INPUT 8</text><text x="272" y="205" class="f" text-anchor="end" style="fill:#2b7a8c">IN</text><circle cx="284" cy="201" r="3.6" fill="none" stroke="#1f1e1c" stroke-width="1" stroke-dasharray="1.6 1.4"/></g><g opacity=".62"><title>9: GND
+ground / common · confidence variant (from a variant)
+table · 2014 - POD10A - MANUAL (2).docx, p. 1</title><rect x="14" y="214" width="30" height="15" rx="1.5" fill="#e6e3da" stroke="#6d6a63" stroke-width="1.5" stroke-dasharray="3 2"/><text x="29" y="226" text-anchor="middle" style="font-weight:700;fill:#6d6a63">9</text><text x="54" y="226" text-anchor="start">GND</text><text x="272" y="226" class="f" text-anchor="end" style="fill:#6d6a63">GND</text><circle cx="284" cy="222" r="3.6" fill="none" stroke="#1f1e1c" stroke-width="1" stroke-dasharray="1.6 1.4"/></g></svg></div><div style="display:flex;flex-wrap:wrap;gap:10px 16px;align-items:flex-start"><svg class="wp" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 292 82" width="292" height="82" role="img" aria-label="legend" style="width:100%;max-width:292px;height:auto;background:#fbfaf4"><style>.wp text{font-family:"Courier Prime","Courier New",Courier,monospace;fill:#1f1e1c;font-size:12px} .wp .f{fill:#6d6a63;font-size:10.5px} .wp .h{font-size:12.5px;font-weight:700;letter-spacing:.04em} .wp .b{font-size:17px;font-weight:700} .wp a text{fill:#1f3f6b;text-decoration:underline} .wp a:hover rect{fill:#efe9d2}</style><text x="4" y="14" class="h">KEY</text><rect x="4" y="24" width="22" height="12" fill="#dcecef" stroke="#2b7a8c" stroke-width="1.5"/><text x="32" y="34" class="f" style="fill:#2b7a8c">IN audio in</text><rect x="4" y="42" width="22" height="12" fill="#e6e3da" stroke="#6d6a63" stroke-width="1.5"/><text x="32" y="52" class="f" style="fill:#6d6a63">GND ground / common</text><rect x="4" y="60" width="22" height="12" fill="#efece3" stroke="#1f1e1c" stroke-width="1.5"/><text x="32" y="70" class="f" style="fill:#1f1e1c">· named, kind not clear</text><circle cx="176" cy="30" r="3.6" fill="none" stroke="#1f1e1c" stroke-width="1" stroke-dasharray="1.6 1.4"/><text x="186" y="34" class="f">variant</text></svg></div></div>
+
+<div class="wbs-pinconn" style="margin:6px 0 10px"><svg class="wp" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 286" width="400" height="286" role="img" aria-label="POD10 connections" style="width:100%;max-width:500px;height:auto;background:#fbfaf4"><style>.wp text{font-family:"Courier Prime","Courier New",Courier,monospace;fill:#1f1e1c;font-size:12px} .wp .f{fill:#6d6a63;font-size:10.5px} .wp .h{font-size:12.5px;font-weight:700;letter-spacing:.04em} .wp .b{font-size:17px;font-weight:700} .wp a text{fill:#1f3f6b;text-decoration:underline} .wp a:hover rect{fill:#efe9d2}</style><text x="4" y="18" class="h">POD10 — Digital Audio Switcher</text><text x="4" y="34" class="f">pins as on its variant POD10A (not confirmed for POD10)</text><rect x="136" y="44" width="128" height="190" fill="#f4ecd2" stroke="#1f1e1c" stroke-width="1.6"/><text x="200.0" y="70" class="b" text-anchor="middle">POD10</text><text x="200.0" y="88" class="f" text-anchor="middle">DIGITAL AUDIO</text><text x="200.0" y="102" class="f" text-anchor="middle">SWITCHER</text><line x1="6" y1="76" x2="136" y2="76" stroke="#2b7a8c" stroke-width="1.8" stroke-dasharray="4 3"/><path d="M129,72 L136,76 L129,80" fill="none" stroke="#2b7a8c" stroke-width="1.6"/><text x="130" y="71" text-anchor="end" style="font-size:11.5px;fill:#2b7a8c">INPUT 4</text><text x="130" y="89" text-anchor="end" class="f">4</text><line x1="6" y1="106" x2="136" y2="106" stroke="#2b7a8c" stroke-width="1.8" stroke-dasharray="4 3"/><path d="M129,102 L136,106 L129,110" fill="none" stroke="#2b7a8c" stroke-width="1.6"/><text x="130" y="101" text-anchor="end" style="font-size:11.5px;fill:#2b7a8c">INPUT 5</text><text x="130" y="119" text-anchor="end" class="f">5</text><line x1="6" y1="136" x2="136" y2="136" stroke="#2b7a8c" stroke-width="1.8" stroke-dasharray="4 3"/><path d="M129,132 L136,136 L129,140" fill="none" stroke="#2b7a8c" stroke-width="1.6"/><text x="130" y="131" text-anchor="end" style="font-size:11.5px;fill:#2b7a8c">INPUT 6</text><text x="130" y="149" text-anchor="end" class="f">6</text><line x1="6" y1="166" x2="136" y2="166" stroke="#2b7a8c" stroke-width="1.8" stroke-dasharray="4 3"/><path d="M129,162 L136,166 L129,170" fill="none" stroke="#2b7a8c" stroke-width="1.6"/><text x="130" y="161" text-anchor="end" style="font-size:11.5px;fill:#2b7a8c">INPUT 7</text><text x="130" y="179" text-anchor="end" class="f">7</text><line x1="6" y1="196" x2="136" y2="196" stroke="#2b7a8c" stroke-width="1.8" stroke-dasharray="4 3"/><path d="M129,192 L136,196 L129,200" fill="none" stroke="#2b7a8c" stroke-width="1.6"/><text x="130" y="191" text-anchor="end" style="font-size:11.5px;fill:#2b7a8c">INPUT 8</text><text x="130" y="209" text-anchor="end" class="f">8</text><line x1="200.0" y1="234" x2="200.0" y2="248" stroke="#6d6a63" stroke-width="1.6"/><rect x="6" y="248" width="45" height="18" rx="2" fill="#e6e3da" stroke="#6d6a63" stroke-dasharray="3 2"/><text x="12" y="261" style="font-size:11px;fill:#6d6a63">GND 9</text></svg></div>
+
+<p><a href="../Engineering/IO/POD10.pinout.svg">pinout (SVG)</a> · <a href="../Engineering/IO/POD10.connections.svg">connections (SVG)</a> · <a href="../Engineering/IO/POD10.pins.json">pins (JSON)</a></p>
+
+<details><summary>Pin evidence — 9 contacts</summary><table><tr><th>Pin</th><th>Signal</th><th>Kind</th><th>Confidence</th><th>Read from</th><th>Source</th></tr><tr><td>1</td><td>ST BYTE</td><td>named, kind not clear</td><td>variant</td><td>table</td><td><a href="../Products/PODS/POD10A/2014%20-%20POD10A%20-%20MANUAL%20%282%29.docx">2014 - POD10A - MANUAL (2).docx</a>, p. 1</td></tr><tr><td>2</td><td>ND BYTE</td><td>named, kind not clear</td><td>variant</td><td>table</td><td><a href="../Products/PODS/POD10A/2014%20-%20POD10A%20-%20MANUAL%20%282%29.docx">2014 - POD10A - MANUAL (2).docx</a>, p. 1</td></tr><tr><td>3</td><td>V P-P</td><td>named, kind not clear</td><td>variant</td><td>table</td><td><a href="../Products/PODS/POD10A/2014%20-%20POD10A%20-%20MANUAL%20%282%29.docx">2014 - POD10A - MANUAL (2).docx</a>, p. 1</td></tr><tr><td>4</td><td>INPUT 4</td><td>audio in</td><td>variant</td><td>table</td><td><a href="../Products/PODS/POD10A/2014%20-%20POD10A%20-%20MANUAL%20%282%29.docx">2014 - POD10A - MANUAL (2).docx</a>, p. 1</td></tr><tr><td>5</td><td>INPUT 5</td><td>audio in</td><td>variant</td><td>table</td><td><a href="../Products/PODS/POD10A/2014%20-%20POD10A%20-%20MANUAL%20%282%29.docx">2014 - POD10A - MANUAL (2).docx</a>, p. 1</td></tr><tr><td>6</td><td>INPUT 6</td><td>audio in</td><td>variant</td><td>table</td><td><a href="../Products/PODS/POD10A/2014%20-%20POD10A%20-%20MANUAL%20%282%29.docx">2014 - POD10A - MANUAL (2).docx</a>, p. 1</td></tr><tr><td>7</td><td>INPUT 7</td><td>audio in</td><td>variant</td><td>table</td><td><a href="../Products/PODS/POD10A/2014%20-%20POD10A%20-%20MANUAL%20%282%29.docx">2014 - POD10A - MANUAL (2).docx</a>, p. 1</td></tr><tr><td>8</td><td>INPUT 8</td><td>audio in</td><td>variant</td><td>table</td><td><a href="../Products/PODS/POD10A/2014%20-%20POD10A%20-%20MANUAL%20%282%29.docx">2014 - POD10A - MANUAL (2).docx</a>, p. 1</td></tr><tr><td>9</td><td>GND</td><td>ground / common</td><td>variant</td><td>table</td><td><a href="../Products/PODS/POD10A/2014%20-%20POD10A%20-%20MANUAL%20%282%29.docx">2014 - POD10A - MANUAL (2).docx</a>, p. 1</td></tr></table></details>
+
+<a id="software"></a>
+
+## Software
+
+_What runs on the POD10: every programmable part and the version Ward-Beck released for it, from the [engineering software listings](Software.md) (the FULL HISTORY workbook, kept to 2018|51)._
+
+| Part / board | What | Chip | Clock | Current version | Date | Sheet |
+|---|---|---|---|---|---|---|
+| POD10 | Microcontroller | PIC16F887 (USE ICD3 and MPLAB X) | HS | **V030000** | 2013-10-15 | Standard Products |
+| POD10(obsolete) | Microcontroller | PIC16F73 | HS | **POD10V103** | 2002-05-02 | Standard Products |
+| POD10R | Microcontroller | PIC16F887 (USE ICD3 and MPLAB X) | HS | **V030200** | 2014-11-17 | Standard Products |
+
+**Production files:** `H:\Production\PFiles\POD\POD10\V030200\POD10R.hex`
+
+## Versions
+
+### Listed versions
+
+| Year | Date | Listed as | Chip | Released | Not released / work copy | Tested |
+|---|---|---|---|---|---|---|
+| 2002\|35 | 2002-05-02 | POD10(obsolete) | PIC16F73 | POD10V103 |  |  |
+| 2013\|46 | 2013-10-15 | POD10 | PIC16F887 (USE ICD3 and MPLAB X) | V030000 |  | WKW 2013-10-15 |
+| 2014\|47 | 2014-11-17 | POD10R | PIC16F887 (USE ICD3 and MPLAB X) | V030200 |  | Bob 2014-11-03 |
+
+## Changes in each version
+
+_What changed, in the words of the listing, oldest first._
+
+- **V030000** — 2013|46 · 2013-10-15 — _POD10 · PIC16F887 (USE ICD3 and MPLAB X)_: This version created to use ISS3 boards but with only 6 inputs like the old POD10
+- **V030200** — 2014|47 · 2014-11-17 — _POD10R · PIC16F887 (USE ICD3 and MPLAB X)_: This version is for POD10R.
+
+_No change note in the listing for: POD10V103._
+
+## Photos & scans (2)
+
+| Year | File |  |
+|---|---|---|
+| 2014 | [2014 - POD10 - Front.jpg](../Products/PODS/POD10/2014%20-%20POD10%20-%20Front.jpg) | [note](../Products/PODS/POD10/2014%20-%20POD10%20-%20Front.jpg.md) |
+| 2014 | [2014 - POD10 - Rear.jpg](../Products/PODS/POD10/2014%20-%20POD10%20-%20Rear.jpg) | [note](../Products/PODS/POD10/2014%20-%20POD10%20-%20Rear.jpg.md) |
+
+## Footnotes
+
+1. The 6-input POD10 front silk (AUG.13/10) is filed in the POD10A artwork folder, not with the POD10. — `#POD #SERIES/POD10A - #Master/POD10A - #ARTWORK #DA #2016 /POD10-FRONT-SILK(CURVE).CDR`
+2. Its “PODS” is a substituted sans converted to curves, 303 px wide at 200 dpi: as drawn it runs over the green bar and “by Ward-Beck Systems”, unlike the rounded logotype on the built panels. — `#POD #SERIES/POD10A - #Master/POD10A - #ARTWORK #DA #2016 /POD10-FRONT-SILK(CURVE).CDR`
+3. The sheet's title block reads “PO10-FRONT-SILK” (the D is missing). — `#POD #SERIES/POD10A - #Master/POD10A - #ARTWORK #DA #2016 /POD10-FRONT-SILK(CURVE).CDR`
+4. Every file named POD10-REAR in POD10 - #SILK and #Master/ARTWORK is the 8-input POD10A rear; the only 6-input rear silk is OLD ISSUSES/POD10SLK.CDR (live text, saved Oct 1 2015). — `#POD #SERIES/XXX - POD10 - #Master #OBSOLETE/POD10 - #Engineering/POD10 - #SILK/OLD ISSUSES/POD10SLK.CDR`
+5. POD10SLK.CDR draws no outline or connector holes on the rear: only labels and two mounting crosshairs, so the terminal strips, DE9, fuse and cord are placed from the POD10.pdf illustration. — `#POD #SERIES/XXX - POD10 - #Master #OBSOLETE/POD10 - #Engineering/POD10 - #SILK/OLD ISSUSES/POD10.pdf`
+6. The folder name “OLD ISSUSES” is misspelled. — `#POD #SERIES/XXX - POD10 - #Master #OBSOLETE/POD10 - #Engineering/POD10 - #SILK/OLD ISSUSES/POD10SLK.CDR`

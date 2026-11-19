@@ -1,0 +1,47 @@
+{
+  "filename": "M462C562C - P026 - B462-01-004 R(1).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M462C562C - P026 - B462-01-004 R(1).jpg",
+  "extension": ".jpg",
+  "size_bytes": 837607,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m462c562c",
+    "p026",
+    "b462",
+    "01",
+    "004",
+    "r(1)"
+  ],
+  "width": 1700,
+  "height": 2179,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "1700",
+    "ExifImageHeight": "2179",
+    "ImageUniqueID": "24eb3f2f603233bc0000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/FILTERS/M462/19xx - 462-01-004 - STEREO EQUALIZER MODULE FUNCTIONAL - ISS 1.jpg",
+  "note": "M462C562C - P026 - B462-01-004 R(1).jpg.md",
+  "title_block": {
+    "drawing_number": "B 462-01-004",
+    "size": "B",
+    "title": "STEREO EQUALIZER MODULE / FUNCTIONAL",
+    "issue": "1",
+    "models": [
+      "M462C"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "filename": "2021-3-16-19-28-27.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/2021-3-16-19-28-27.jpg",
+  "extension": ".jpg",
+  "size_bytes": 451626,
+  "modified_time": "Sat Oct 17 23:34:15 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "2021",
+    "16",
+    "19",
+    "28",
+    "27"
+  ],
+  "width": 4965,
+  "height": 3222,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4965",
+    "ExifImageHeight": "3222",
+    "ImageUniqueID": "84b96309ca42d4e20000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/COMMUNICATION/M7000/1995 - 7000-03-037 - IKR-10B (1 RACK UNIT) PANEL - DRN DRG - ISS 1.jpg",
+  "note": "2021-3-16-19-28-27.jpg.md",
+  "title_block": {
+    "drawing_number": "D 7000-03-037",
+    "size": "D",
+    "title": "IKR-10B (1 RACK UNIT) / PANEL",
+    "date": "5/95",
+    "year": 1995,
+    "month": 5,
+    "drawn": "DRG (5/95)",
+    "signature": "DISC NO: SYS01; CODE: 7000-037; SCALE 1:1",
+    "issue": "1",
+    "models": [
+      "IKR-10B"
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+`F  1.00 POD5B
+`B "3" "3" "B" "September  6, 1995" "B 14-314-02-001/3" "0" 
+"POD 5 - DUAL HEADSET AMPLIFIER" "WARD-BECK SYSTEMS LTD."
+"841 PROGRESS AVENUE"
+"SCARBOROUGH, ONTARIO, CANADA"
+"M1H 2X4"
+""
+`P U "TKBKC"
+`P S "GND"
+`P U "B-"
+`P U "B+"
+`P U "VDD"
+`P U "VL"
+`P U "VCC"
+`P U "VSS"
+`P U "VEE"
+`E .\POD5.LIB
+`E DEVICE.LIB
+`I R "1N4003" .\POD5.LIB "DIODE" 2980B9AB  D10  []
+"" "" "" "" "" "" "" "DO-41" 
+"DO-41"
+( "ANODE" "ANODE" P ) ( "CATHODE" "CATHODE" P ) 
+`I R "1N4003" .\POD5.LIB "DIODE" 2980BA1A  D11  []
+"" "" "" "" "" "" "" "DO-41" 
+"DO-41"
+( "ANODE" "ANODE" P ) ( "CATHODE" "CATHODE" P ) 
+`I R "229C56" .\POD5.LIB "TRANSFORMER FLAT COMPACT" 2980AAF6  T1  [1]
+"" "" "" "" "" "" "" "229C56" 
+"229C56"
+( "AA1" "1" P ) ( "BB2" "3" P ) ( "AA2" "4" P ) ( "BB1" "2" P ) 
+( "AA3" "5" P ) ( "AA3" "6" P ) ( "BB3" "8" P ) ( "BB4" "7" P ) 
+`I R "270 3W" .\POD5.LIB "R" 29826D61  R93  []
+"" "" "" "" "" "" "" "R03WE" 
+"R03WE"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "270 3W" .\POD5.LIB "R" 298271E0  R94  []
+"" "" "" "" "" "" "" "R03WE" 
+"R03WE"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "1N4748" .\POD5.LIB "DIODE ZENER" 29827D0D  D12  []
+"" "" "" "" "" "" "" "DO-41" 
+"DO-41"
+( "ANODE" "ANODE" P ) ( "CATHODE" "CATHODE" P ) 
+`I R "15K" .\POD5.LIB "R" 298283E4  R95  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "15K" .\POD5.LIB "R" 29828428  R96  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "2N6730" .\POD5.LIB "PNP EBC" 29829C8B  Q9  [1]
+"" "" "" "" "" "" "" "TO-237" 
+"TO-237"
+( "COLLECTOR" "3" P ) ( "BASE" "2" I ) ( "EMITTER" "1" P ) 
+`I R "2N6731" .\POD5.LIB "NPN EBC" 298293E7  Q10  [1]
+"" "" "" "" "" "" "" "TO-237" 
+"TO-237"
+( "EMITTER" "1" P ) ( "BASE" "2" I ) ( "COLLECTOR" "3" P ) 
+`I R "1N4748" .\POD5.LIB "DIODE ZENER" 29827D83  D13  []
+"" "" "" "" "" "" "" "DO-41" 
+"DO-41"
+( "ANODE" "ANODE" P ) ( "CATHODE" "CATHODE" P ) 
+`I R "10/25" .\POD5.LIB "CAP" 2982B4B9  C50  []
+"" "" "" "" "" "" "" "TANTB.2" 
+"TANTB.2"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "10/25" .\POD5.LIB "CAP" 2982B45D  C51  []
+"" "" "" "" "" "" "" "TANTB.2" 
+"TANTB.2"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "10/25" .\POD5.LIB "CAP" 2982C76F  C52  []
+"" "" "" "" "" "" "" "TANTB.2" 
+"TANTB.2"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "10/25" .\POD5.LIB "CAP" 2982C72D  C53  []
+"" "" "" "" "" "" "" "TANTB.2" 
+"TANTB.2"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "7K5" .\POD5.LIB "R" 2982CFA6  R97  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "15K" .\POD5.LIB "R" 2982DE70  R98  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "6K8" .\POD5.LIB "R" 2982DF88  R99  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "0.1/50" .\POD5.LIB "CAP NP" 2982F183  C54  []
+"" "" "" "" "" "" "" "CAP.1" 
+"CAP.1"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "0.1/50" .\POD5.LIB "CAP NP" 2982F867  C55  []
+"" "" "" "" "" "" "" "CAP.1" 
+"CAP.1"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "1502-2" .\POD5.LIB "CON1" 298235D5  P2  []
+"" "" "" "" "" "" "" "LUG" 
+"LUG"
+( "1" "1" P ) 
+`I R "1502-2" .\POD5.LIB "CON1" 298235F5  P3  []
+"" "" "" "" "" "" "" "LUG" 
+"LUG"
+( "1" "1" P ) 
+`I R "1502-2" .\POD5.LIB "CON1" 2982364B  P4  []
+"" "" "" "" "" "" "" "LUG" 
+"LUG"
+( "1" "1" P ) 
+`I R "1502-2" .\POD5.LIB "CON1" 2982366A  P5  []
+"" "" "" "" "" "" "" "LUG" 
+"LUG"
+( "1" "1" P ) 
+`I R "1000/63" .\POD5.LIB "CAP" 2980CC33  C56  []
+"" "" "" "" "" "" "" "EC165" 
+"EC165"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "1000/63" .\POD5.LIB "CAP" 2980D356  C57  []
+"" "" "" "" "" "" "" "EC165" 
+"EC165"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "2N3904" .\POD5.LIB "NPN EBC" 2982F5EE  Q11  [1]
+"" "" "" "" "" "" "" "TO-92" 
+"TO-92"
+( "EMITTER" "1" P ) ( "BASE" "2" I ) ( "COLLECTOR" "3" P ) 
+`I R "2N3904" .\POD5.LIB "NPN EBC" 2982C045  Q12  [1]
+"" "" "" "" "" "" "" "TO-92" 
+"TO-92"
+( "EMITTER" "1" P ) ( "BASE" "2" I ) ( "COLLECTOR" "3" P ) 
+`I R "2N3906" .\POD5.LIB "PNP EBC" 2982C044  Q13  [1]
+"" "" "" "" "" "" "" "TO-92" 
+"TO-92"
+( "COLLECTOR" "3" P ) ( "BASE" "2" I ) ( "EMITTER" "1" P ) 
+`I R "CON3" .\POD5.LIB "CON3" 29824990  P6  []
+"" "" "" "" "" "" "" "PAN3/156" 
+"PAN3/156"
+( "1" "1" P ) ( "2" "2" P ) ( "3" "3" P ) 
+`I R "CON6" .\POD5.LIB "CON6" 2998A994  J12  []
+"" "" "" "" "" "" "" "PHNX6/150" 
+"PHNX6/150"
+( "1" "1" P ) ( "2" "2" P ) ( "3" "3" P ) ( "4" "4" P ) 
+( "5" "5" P ) ( "6" "6" P ) 
+`I R "91K" .\POD5.LIB "R" 2982D10D  R100  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "7K5" .\POD5.LIB "R" 2982CE98  R101  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "1N4003" .\POD5.LIB "DIODE" 2980B9C8  D14  []
+"" "" "" "" "" "" "" "DO-41" 
+"DO-41"
+( "ANODE" "ANODE" P ) ( "CATHODE" "CATHODE" P ) 
+`I R "1N4003" .\POD5.LIB "DIODE" 2980BA2D  D15  []
+"" "" "" "" "" "" "" "DO-41" 
+"DO-41"
+( "ANODE" "ANODE" P ) ( "CATHODE" "CATHODE" P ) 
+`I R "MDL 1/2" .\POD5.LIB "FUSE" 2980C5DF  F1  []
+"" "" "" "" "" "" "" "AGC" 
+"AGC"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "MDL 1/2" .\POD5.LIB "FUSE" 2980C5FB  F2  []
+"" "" "" "" "" "" "" "AGC" 
+"AGC"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "10K 3W" .\POD5.LIB "R" 299E3519  R102  []
+"" "" "" "" "" "" "" "R03WE" 
+"R03WE"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "RED" .\POD5.LIB "LED" 299E35B4  DS1  []
+"" "" "" "" "" "" "" "551LED" 
+"551LED"
+( "ANODE" "ANODE" P ) ( "CATHODE" "CATHODE" P ) 
+`J ( R J12 "1" P ) ( P U "TKBKC" ) 
+`J ( R C54 "2" P ) ( R C53 "1" P ) ( R C50 "1" P ) ( R D13 "CATHODE" P ) 
+( R C57 "2" P ) ( R C56 "1" P ) ( R R99 "2" P ) ( R C55 "2" P ) ( R T1 5 P ) 
+( R T1 8 P ) ( R C52 "2" P ) ( R D12 "ANODE" P ) ( R C51 "2" P ) ( R J12 "2" P ) 
+( P S "GND" ) 
+`J ( P U "B-" ) ( R R102 "1" P ) ( R D10 "ANODE" P ) ( R D11 "ANODE" P ) 
+( R R95 "1" P ) ( R C56 "2" P ) ( R R94 "1" P ) 
+`J ( P U "B+" ) ( R DS1 "CATHODE" P ) ( R R93 "1" P ) ( R D14 "CATHODE" P ) 
+( R R96 "1" P ) ( R D15 "CATHODE" P ) ( R C57 "1" P ) 
+`J ( R R102 "2" P ) ( R DS1 "ANODE" P ) 
+`J ( P U "VDD" ) ( R Q10 1 P ) ( R Q12 3 P ) ( R R101 "1" P ) 
+`J ( R P2 "1" P ) ( R P6 "1" P ) ( R T1 1 P ) 
+`J ( R R93 "2" P ) ( R Q10 3 P ) 
+`J ( R F1 "1" P ) ( R T1 6 P ) 
+`J ( R F1 "2" P ) ( R D14 "ANODE" P ) ( R D10 "CATHODE" P ) 
+`J ( R Q11 3 P ) ( R Q12 1 P ) ( R R98 "1" P ) ( P U "VCC" ) 
+`J ( R Q11 1 P ) ( R C55 "1" P ) ( P U "VL" ) 
+`J ( R R96 "2" P ) ( R D12 "CATHODE" P ) ( R Q10 2 I ) ( R C51 "1" P ) 
+`J ( R P3 "1" P ) ( R T1 3 P ) 
+`J ( R Q11 2 I ) ( R R98 "2" P ) ( R R99 "1" P ) ( R C54 "1" P ) 
+`J ( R T1 2 P ) ( R P4 "1" P ) 
+`J ( R T1 4 P ) ( R P6 "3" P ) ( R P5 "1" P ) 
+`J ( R R101 "2" P ) ( R R100 "1" P ) ( R Q12 2 I ) ( R C52 "1" P ) 
+`J ( R D11 "CATHODE" P ) ( R D15 "ANODE" P ) ( R F2 "2" P ) 
+`J ( R T1 7 P ) ( R F2 "1" P ) 
+`J ( P U "VSS" ) ( R Q9 1 P ) ( R Q13 3 P ) ( R R97 "1" P ) 
+`J ( R R94 "2" P ) ( R Q9 3 P ) 
+`J ( R R100 "2" P ) ( R R97 "2" P ) ( R Q13 2 I ) ( R C53 "2" P ) 
+`J ( R R95 "2" P ) ( R D13 "ANODE" P ) ( R Q9 2 I ) ( R C50 "2" P ) 
+`J ( R Q13 1 P ) ( P U "VEE" ) 

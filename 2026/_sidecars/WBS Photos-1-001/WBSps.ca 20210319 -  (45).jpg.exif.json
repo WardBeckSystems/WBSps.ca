@@ -1,0 +1,45 @@
+{
+  "filename": "WBSps.ca 20210319 -  (45).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca 20210319 -  (45).jpg",
+  "extension": ".jpg",
+  "size_bytes": 629304,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "20210319",
+    "(45)"
+  ],
+  "width": 4900,
+  "height": 3264,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4900",
+    "ExifImageHeight": "3264",
+    "ImageUniqueID": "b4c5773c7bca8b590000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M900/1994 - 900-03-009 - MK SERIES TUB RIB, DIVIDER & FISH PAPER - DRN DRG.jpg",
+  "note": "WBSps.ca 20210319 -  (45).jpg.md",
+  "title_block": {
+    "drawing_number": "D 900-03-009",
+    "size": "D",
+    "title": "MK SERIES / TUB RIB, DIVIDER & FISH PAPER",
+    "date": "7/94",
+    "year": 1994,
+    "month": 7,
+    "drawn": "DRG",
+    "signature": "ISS 3 7/94 ADDED -3; DISC NO: MA93001, CODE: 900009"
+  }
+}

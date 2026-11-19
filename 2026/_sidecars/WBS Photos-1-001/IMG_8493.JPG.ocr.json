@@ -1,0 +1,36 @@
+{
+  "filename": "IMG_8493.JPG",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/IMG_8493.JPG",
+  "width": 3264,
+  "height": 2448,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1382,
+    1795,
+    1530,
+    2253
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:58",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M501/1958 - 501-02-002 - 501A PREAMP SCHEMATIC - DRN O'CONNELL handwritten, uncertain - ISS 1.jpg",
+  "note": "IMG_8493.JPG.md",
+  "title_block": {
+    "drawing_number": "B 501-02-002",
+    "size": "B",
+    "title": "501A PREAMP SCHEMATIC",
+    "date": "24 MAR 58",
+    "year": 1958,
+    "month": 3,
+    "drawn": "O'CONNELL (handwritten, uncertain)",
+    "signature": "PC BOARD NO M128",
+    "issue": "1",
+    "models": [
+      "501A"
+    ]
+  }
+}

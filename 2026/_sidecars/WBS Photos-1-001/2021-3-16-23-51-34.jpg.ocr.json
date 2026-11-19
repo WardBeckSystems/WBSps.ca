@@ -1,0 +1,33 @@
+{
+  "filename": "2021-3-16-23-51-34.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2021-3-16-23-51-34.jpg",
+  "width": 5061,
+  "height": 3161,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    9,
+    15,
+    1002,
+    509
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/950125/1995 - 950125-03-001 - REAR PLATE - DRN DRG - ISS 1.jpg",
+  "note": "2021-3-16-23-51-34.jpg.md",
+  "title_block": {
+    "drawing_number": "D 950125-03-001",
+    "size": "D",
+    "title": "REAR PLATE",
+    "date": "APR95",
+    "year": 1995,
+    "month": 4,
+    "drawn": "DRG(APR95)",
+    "signature": "SCALE 1:1; DISC NO: SYS01, CODE: 95125M01",
+    "issue": "1"
+  }
+}

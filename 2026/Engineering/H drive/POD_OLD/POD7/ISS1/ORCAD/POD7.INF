@@ -1,0 +1,199 @@
+`F  1.00 POD7
+`B "1" "3" "B" "  October 20, 1995" "B 14-316-02-001" "1" 
+"POD 7 - CONTROL ROOM INTERFACE" "WARD-BECK SYSTEMS LTD."
+"841 PROGRESS AVENUE"
+"SCARBOROUGH, ONTARIO, CANADA"
+"M1H 2X4"
+""
+`L POD7A
+`L POD7B
+`P S "VCC"
+`P S "ISOA1+"
+`P S "ISOA1-"
+`P S "ISOA2+"
+`P S "GND"
+`P S "ISOA2-"
+`P S "ISOB1+"
+`P S "ISOB1-"
+`P S "ISOB2+"
+`P S "ISOB2-"
+`E .\POD7.LIB
+`I R "2N6731" .\POD7.LIB "NPN EBC" 2A24ADEC  Q1  [1]
+"" "" "" "" "" "" "" "TO-237" 
+"TO-237"
+( "1" "1" P ) ( "2" "2" I ) ( "3" "3" P ) 
+`I R "2N6731" .\POD7.LIB "NPN EBC" 2A24BF3F  Q2  [1]
+"" "" "" "" "" "" "" "TO-237" 
+"TO-237"
+( "1" "1" P ) ( "2" "2" I ) ( "3" "3" P ) 
+`I R "RZ-24" .\POD7.LIB "RZ RELAY" 2A36CE23  K3  [1]
+"" "" "" "" "" "" "" "DIP16" 
+"DIP16"
+( "A2" "13" P ) ( "A1" "4" P ) ( "COILHI" "1" P ) ( "COILLO" "16" P ) 
+( "NO1" "8" P ) ( "NC1" "6" P ) ( "NO2" "9" P ) ( "NC2" "11" P ) 
+`I R "RZ-24" .\POD7.LIB "RZ RELAY" 2A36CE25  K4  [1]
+"" "" "" "" "" "" "" "DIP16" 
+"DIP16"
+( "A2" "13" P ) ( "A1" "4" P ) ( "COILHI" "1" P ) ( "COILLO" "16" P ) 
+( "NO1" "8" P ) ( "NC1" "6" P ) ( "NO2" "9" P ) ( "NC2" "11" P ) 
+`I R "2K2" .\POD7.LIB "R" 2A36EEF1  R5  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "ILD1" .\POD7.LIB "ILD1" 2A36EB0D  ISO1  [11]
+"" "" "" "" "" "" "" "DIP8" 
+"DIP8"
+( "DSA_A" "1" P ) ( "DSA_B" "4" P ) ( "E_A" "8" P ) ( "E_B" "5" P ) 
+( "C_A" "7" P ) ( "C_B" "6" P ) ( "DSC_A" "2" P ) ( "DSC_B" "3" P ) 
+`I R "2K2" .\POD7.LIB "R" 2A372814  R6  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "ILD1" .\POD7.LIB "ILD1" 2A372815  ISO3  [11]
+"" "" "" "" "" "" "" "DIP8" 
+"DIP8"
+( "DSA_A" "1" P ) ( "DSA_B" "4" P ) ( "E_A" "8" P ) ( "E_B" "5" P ) 
+( "C_A" "7" P ) ( "C_B" "6" P ) ( "DSC_A" "2" P ) ( "DSC_B" "3" P ) 
+`I R "1N4003" .\POD7.LIB "DIODE" 2A24BF3B  D2  []
+"" "" "" "" "" "" "" "DO-41" 
+"DO-41"
+( "2" "2" P ) ( "1" "1" P ) 
+`I R "1N4003" .\POD7.LIB "DIODE" 2A24A458  D1  []
+"" "" "" "" "" "" "" "DO-41" 
+"DO-41"
+( "2" "2" P ) ( "1" "1" P ) 
+`I R "RZ-24" .\POD7.LIB "RZ RELAY" 2A3683FE  K1  [1]
+"" "" "" "" "" "" "" "DIP16" 
+"DIP16"
+( "A2" "13" P ) ( "A1" "4" P ) ( "COILHI" "1" P ) ( "COILLO" "16" P ) 
+( "NO1" "8" P ) ( "NC1" "6" P ) ( "NO2" "9" P ) ( "NC2" "11" P ) 
+`I R "RZ-24" .\POD7.LIB "RZ RELAY" 2A36C85E  K2  [1]
+"" "" "" "" "" "" "" "DIP16" 
+"DIP16"
+( "A2" "13" P ) ( "A1" "4" P ) ( "COILHI" "1" P ) ( "COILLO" "16" P ) 
+( "NO1" "8" P ) ( "NC1" "6" P ) ( "NO2" "9" P ) ( "NC2" "11" P ) 
+`I R "1N4003" .\POD7.LIB "DIODE" 2A3685A5  D3  []
+"" "" "" "" "" "" "" "DO-41" 
+"DO-41"
+( "2" "2" P ) ( "1" "1" P ) 
+`I R "1N4003" .\POD7.LIB "DIODE" 2A36CAAD  D4  []
+"" "" "" "" "" "" "" "DO-41" 
+"DO-41"
+( "2" "2" P ) ( "1" "1" P ) 
+`I R "CON12" .\POD7.LIB "CON12" 2BF60AB9  P6  []
+"" "" "" "" "" "" "" "PHNX12/150" 
+"PHNX12/150"
+( "1" "1" P ) ( "2" "2" P ) ( "3" "3" P ) ( "4" "4" P ) 
+( "5" "5" P ) ( "6" "6" P ) ( "7" "7" P ) ( "8" "8" P ) ( "9" "9" P ) 
+( "10" "10" P ) ( "11" "11" P ) ( "12" "12" P ) 
+`I R "CON3" .\POD7.LIB "CON3" 2A24A772  P7  []
+"" "" "" "" "" "" "" "SIP3" 
+"SIP3"
+( "1" "1" P ) ( "2" "2" P ) ( "3" "3" P ) 
+`I R "CON3" .\POD7.LIB "CON3" 2A24BF3E  P8  []
+"" "" "" "" "" "" "" "SIP3" 
+"SIP3"
+( "1" "1" P ) ( "2" "2" P ) ( "3" "3" P ) 
+`I R "CON12" .\POD7.LIB "CON12" 2BF62AB5  P10  []
+"" "" "" "" "" "" "" "PHNX12/150" 
+"PHNX12/150"
+( "1" "1" P ) ( "2" "2" P ) ( "3" "3" P ) ( "4" "4" P ) 
+( "5" "5" P ) ( "6" "6" P ) ( "7" "7" P ) ( "8" "8" P ) ( "9" "9" P ) 
+( "10" "10" P ) ( "11" "11" P ) ( "12" "12" P ) 
+`I R "10K" .\POD7.LIB "R" 2A24A560  R1  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "1K5" .\POD7.LIB "R" 2A24A3A4  R2  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "10K" .\POD7.LIB "R" 2A24BF3A  R3  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "1K5" .\POD7.LIB "R" 2A24BF3C  R4  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "CON12" .\POD7.LIB "CON12" 2BF66E8E  P9  []
+"" "" "" "" "" "" "" "PHNX12/150" 
+"PHNX12/150"
+( "1" "1" P ) ( "2" "2" P ) ( "3" "3" P ) ( "4" "4" P ) 
+( "5" "5" P ) ( "6" "6" P ) ( "7" "7" P ) ( "8" "8" P ) ( "9" "9" P ) 
+( "10" "10" P ) ( "11" "11" P ) ( "12" "12" P ) 
+`I R "ILD1" .\POD7.LIB "ILD1" 2E248B1D  ISO2  [11]
+"" "" "" "" "" "" "" ""  ""
+( "DSA_A" "1" P ) ( "DSA_B" "4" P ) ( "E_A" "8" P ) ( "E_B" "5" P ) 
+( "C_A" "7" P ) ( "C_B" "6" P ) ( "DSC_A" "2" P ) ( "DSC_B" "3" P ) 
+`I R "YELLOW" .\POD7.LIB "LED" 2BE28686  DS2  []
+"" "" "" "" "" "" "" "551LED" 
+"551LED"
+( "2" "2" P ) ( "1" "1" P ) 
+`I R "YELLOW" .\POD7.LIB "LED" 2BE286CA  DS3  []
+"" "" "" "" "" "" "" "551LED" 
+"551LED"
+( "2" "2" P ) ( "1" "1" P ) 
+`J ( R ISO2 3 P ) ( R P6 "2" P ) 
+`J ( R K3 16 P ) ( R ISO2 6 P ) ( R D3 "2" P ) ( R K1 16 P ) 
+( R Q1 3 P ) ( R DS2 "1" P ) 
+`J ( R R6 "1" P ) ( R R5 "1" P ) ( R K4 1 P ) ( R D4 "1" P ) 
+( R K2 1 P ) ( R K3 1 P ) ( R D3 "1" P ) ( R K1 1 P ) ( P S "VCC" ) 
+`J ( R P9 "1" P ) ( R K1 11 P ) 
+`J ( R K1 13 P ) ( R P9 "2" P ) 
+`J ( R P9 "3" P ) ( R K1 9 P ) 
+`J ( R P10 "1" P ) ( R K3 11 P ) 
+`J ( R P9 "4" P ) ( R K1 6 P ) 
+`J ( R K3 13 P ) ( R P10 "2" P ) 
+`J ( R K1 4 P ) ( R P9 "5" P ) 
+`J ( R P10 "3" P ) ( R K3 9 P ) 
+`J ( R P9 "6" P ) ( R K1 8 P ) 
+`J ( R P10 "4" P ) ( R K3 6 P ) 
+`J ( R P7 "3" P ) ( R R1 "1" P ) 
+`J ( R P7 "2" P ) ( R P6 "1" P ) 
+`J ( R P7 "1" P ) ( R D1 "2" P ) ( R R1 "2" P ) 
+`J ( R Q1 2 I ) ( R ISO2 5 P ) 
+`J ( R P9 "7" P ) ( R K2 11 P ) 
+`J ( R K3 4 P ) ( R P10 "5" P ) 
+`J ( R P9 "8" P ) ( R K2 13 P ) 
+`J ( R P10 "6" P ) ( R K3 8 P ) 
+`J ( R Q2 1 P ) ( R Q1 1 P ) ( P S "GND" ) 
+`J ( R P9 "9" P ) ( R K2 9 P ) 
+`J ( R P10 "7" P ) ( R K4 11 P ) 
+`J ( R ISO1 6 P ) ( R P6 "3" P ) ( P S "ISOA1+" ) 
+`J ( R P9 "10" P ) ( R K2 6 P ) 
+`J ( R P10 "8" P ) ( R K4 13 P ) 
+`J ( R ISO1 5 P ) ( R P6 "4" P ) ( P S "ISOA1-" ) 
+`J ( R D1 "1" P ) ( R R2 "1" P ) 
+`J ( R R2 "2" P ) ( R ISO2 4 P ) 
+`J ( R P9 "11" P ) ( R K2 4 P ) 
+`J ( R P10 "9" P ) ( R K4 9 P ) 
+`J ( R ISO1 7 P ) ( P S "ISOA2+" ) ( R P6 "5" P ) 
+`J ( R P9 "12" P ) ( R K2 8 P ) 
+`J ( R P10 "10" P ) ( R K4 6 P ) 
+`J ( R ISO1 8 P ) ( P S "ISOA2-" ) ( R P6 "6" P ) 
+`J ( R P10 "11" P ) ( R K4 4 P ) 
+`J ( R P8 "2" P ) ( R P6 "7" P ) 
+`J ( R P10 "12" P ) ( R K4 8 P ) 
+`J ( R P6 "8" P ) ( R ISO2 2 P ) 
+`J ( R K4 16 P ) ( R ISO2 7 P ) ( R D4 "2" P ) ( R K2 16 P ) 
+( R Q2 3 P ) ( R DS3 "1" P ) 
+`J ( R ISO3 6 P ) ( R P6 "9" P ) ( P S "ISOB1+" ) 
+`J ( R ISO3 5 P ) ( R P6 "10" P ) ( P S "ISOB1-" ) 
+`J ( R ISO3 7 P ) ( P S "ISOB2+" ) ( R P6 "11" P ) 
+`J ( R ISO3 8 P ) ( P S "ISOB2-" ) ( R P6 "12" P ) 
+`J ( R P8 "3" P ) ( R R3 "1" P ) 
+`J ( R P8 "1" P ) ( R R3 "2" P ) ( R D2 "2" P ) 
+`J ( R Q2 2 I ) ( R ISO2 8 P ) 
+`J ( R D2 "1" P ) ( R R4 "1" P ) 
+`J ( R R4 "2" P ) ( R ISO2 1 P ) 
+`J ( R DS2 "2" P ) ( R ISO1 3 P ) 
+`J ( R ISO3 3 P ) ( R DS3 "2" P ) 
+`J ( R ISO1 4 P ) ( R ISO1 2 P ) 
+`J ( R ISO3 4 P ) ( R ISO3 2 P ) 
+`J ( R ISO1 1 P ) ( R R5 "2" P ) 
+`J ( R ISO3 1 P ) ( R R6 "2" P ) 
+`|
+"|LINK"
+"|POD7A.SCH"
+"|POD7B.SCH"

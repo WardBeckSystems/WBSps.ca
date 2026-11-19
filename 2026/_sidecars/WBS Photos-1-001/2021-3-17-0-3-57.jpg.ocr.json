@@ -1,0 +1,31 @@
+{
+  "filename": "2021-3-17-0-3-57.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2021-3-17-0-3-57.jpg",
+  "width": 4882,
+  "height": 3276,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2431,
+    2027,
+    4823,
+    3220
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/960134/1996 - 960134-04-005 - 96x96 MicroCOM II MATRIX AND CONTROL FRAME REAR WIRING LAYOUTS - DRN GEB - ENG SM - ISS 1.jpg",
+  "note": "2021-3-17-0-3-57.jpg.md",
+  "title_block": {
+    "drawing_number": "D 960134-04-005",
+    "size": "D",
+    "title": "96x96 MicroCOM II / MATRIX AND CONTROL FRAME / REAR WIRING LAYOUTS",
+    "drawn": "GEB",
+    "engineer": "SM",
+    "signature": "small title block beside drawing of SA14-200 connector assemblies; DISC NO: SYS01, CODE: 96134L05",
+    "issue": "1"
+  }
+}

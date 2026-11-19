@@ -1,0 +1,36 @@
+{
+  "filename": "Scan_20210323 (31).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/Scan_20210323 (31).jpg",
+  "width": 4757,
+  "height": 3363,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3075,
+    2588,
+    4757,
+    3362
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:00",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/INPUT-PRE-AMPS/M520/1983 - 520-03-006 - SERIES SWITCH MOUNTING BRACKET - DRN BD - ENG MRW - ISS 1.jpg",
+  "note": "Scan_20210323 (31).jpg.md",
+  "title_block": {
+    "drawing_number": "B 520-03-006",
+    "size": "B",
+    "title": "M520 SERIES / SWITCH MOUNTING BRACKET",
+    "date": "SEPT 83",
+    "year": 1983,
+    "month": 9,
+    "drawn": "B.D SEPT 83",
+    "engineer": "MRW",
+    "issue": "1",
+    "models": [
+      "M520"
+    ]
+  }
+}

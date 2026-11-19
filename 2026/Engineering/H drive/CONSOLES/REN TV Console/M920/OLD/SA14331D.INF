@@ -1,0 +1,255 @@
+`F  1.00 SA14331D
+`B "4" "5" "B" "    April 26, 1996" "14-331-02-001/4" "0" 
+"M920 INPUT MODULE PREAMPLIFIER" "WARD-BECK SYSTEMS LTD."
+"841 PROGRESS AVENUE"
+"SCARBOROUGH, ONTARIO, CANADA"
+"M1H 2X4"
+""
+`P S "+5V"
+`P S "A_COMMON"
+`P I "SEL OUT"
+`P I "LO_SENS"
+`P O "A CTL"
+`P I "HP OUT"
+`P S "+22V"
+`P S "CTL_COM"
+`P S "-22V"
+`P S "VCC"
+`P S "GND"
+`S "PHASE" 4 
+`S "FILT" 4 
+`S "VCC" 4 
+`S "FB" 4 
+`S "FC" 4 
+`S "FD" 4 
+`S "FE" 4 
+`S "FF" 4 
+`E .\SA14331A.LIB
+`I R "16K2 1%" .\SA14331A.LIB "R" 38DD9C3D  RX62  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "16K2 1%" .\SA14331A.LIB "R" 38DD9C8D  RX63  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "10/50" .\SA14331A.LIB "CAP NP" 38DDAB0B  CX47  []
+"" "" "" "" "" "" "" "RAD.15" 
+"RAD.15"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "10/50" .\SA14331A.LIB "CAP NP" 38DDABD7  CX48  []
+"" "" "" "" "" "" "" "RAD.15" 
+"RAD.15"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "10/50" .\SA14331A.LIB "CAP NP" 38DDAC39  CX49  []
+"" "" "" "" "" "" "" "RAD.15" 
+"RAD.15"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "100K" .\SA14331A.LIB "R" 38DDC209  RX64  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "100K" .\SA14331A.LIB "R" 38DDC23F  RX65  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "100K" .\SA14331A.LIB "R" 38DDC864  RX66  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "MC14053" .\SA14331A.LIB "4053" 38DDCFC0  UX11  [1]
+"" "" "" "" "" "" "" "DIP16" 
+"DIP16"
+( "X0" "12" B ) ( "X1" "13" B ) ( "Y0" "2" B ) ( "Y1" "1" B ) 
+( "Z0" "5" B ) ( "Z1" "3" B ) ( "INH" "6" I ) ( "A" "11" I ) ( "B" "10" I ) 
+( "C" "9" I ) ( "X" "14" B ) ( "Y" "15" B ) ( "Z" "4" B ) ( "VDD" "16" P ) 
+( "VSS" "8" P ) ( "VEE" "7" P ) 
+`I R "16K2 1%" .\SA14331A.LIB "R" 38DDCFC1  RX67  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "16K2 1%" .\SA14331A.LIB "R" 38DDCFC3  RX68  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "10/50" .\SA14331A.LIB "CAP NP" 38DDCFC5  CX50  []
+"" "" "" "" "" "" "" "RAD.15" 
+"RAD.15"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "10/50" .\SA14331A.LIB "CAP NP" 38DDCFC7  CX51  []
+"" "" "" "" "" "" "" "RAD.15" 
+"RAD.15"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "10/50" .\SA14331A.LIB "CAP NP" 38DDCFC8  CX52  []
+"" "" "" "" "" "" "" "RAD.15" 
+"RAD.15"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "100K" .\SA14331A.LIB "R" 38DDCFCA  RX69  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "100K" .\SA14331A.LIB "R" 38DDCFCB  RX70  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "100K" .\SA14331A.LIB "R" 38DDCFCE  RX71  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "22P" .\SA14331A.LIB "CAP NP" 38DDDA0D  CX53  []
+"" "" "" "" "" "" "" "CAP.2" 
+"CAP.2"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "16K2 1%" .\SA14331A.LIB "R" 38DDD981  RX72  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "0.1/50" .\SA14331A.LIB "CAP NP" 38DDE363  CX54  []
+"" "" "" "" "" "" "" "CAP.1" 
+"CAP.1"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "OPA2604" .\SA14331A.LIB "LM833" 38DDD796  UX12  [11]
+"" "" "" "" "" "" "" "DIP8" 
+"DIP8"
+( "+IN_A" "3" I ) ( "+IN_B" "5" I ) ( "-IN_A" "2" I ) ( "-IN_B" "6" I ) 
+( "OUT_A" "1" O ) ( "OUT_B" "7" O ) ( "V+_A" "8" P ) ( "V-_A" "4" P ) 
+`I R "22P" .\SA14331A.LIB "CAP NP" 38DDEEF4  CX55  []
+"" "" "" "" "" "" "" "CAP.2" 
+"CAP.2"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "16K2 1%" .\SA14331A.LIB "R" 38DDEEF6  RX73  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "16K2 1%" .\SA14331A.LIB "R" 38DDF438  RX74  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "16K2 1%" .\SA14331A.LIB "R" 38DDF4B9  RX75  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "0.1/50" .\SA14331A.LIB "CAP NP" 38DDFE61  CX56  []
+"" "" "" "" "" "" "" "CAP.1" 
+"CAP.1"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "100K" .\SA14331A.LIB "R" 38DE94EB  RX76  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "30 1W" .\SA14331A.LIB "R" 38DE9616  RX77  []
+"" "" "" "" "" "" "" "R01MF" 
+"R01MF"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "100K" .\SA14331A.LIB "R" 390B01DA  RX78  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "30 1W" .\SA14331A.LIB "R" 390B01DB  RX79  []
+"" "" "" "" "" "" "" "R01MF" 
+"R01MF"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "47/50" .\SA14331A.LIB "CAP" 390B01D8  CX57  []
+"" "" "" "" "" "" "" "RAD.125" 
+"RAD.125"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "47/50" .\SA14331A.LIB "CAP" 38DE9480  CX58  []
+"" "" "" "" "" "" "" "RAD.125" 
+"RAD.125"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "30 1W" .\SA14331A.LIB "R" 419D3509  RX80  []
+"" "" "" "" "" "" "" "R01MF" 
+"R01MF"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "30 1W" .\SA14331A.LIB "R" 419D3423  RX81  []
+"" "" "" "" "" "" "" "R01MF" 
+"R01MF"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "MC14053" .\SA14331A.LIB "4053" 38DD9AEB  UX14  [1]
+"" "" "" "" "" "" "" "DIP16" 
+"DIP16"
+( "X0" "12" B ) ( "X1" "13" B ) ( "Y0" "2" B ) ( "Y1" "1" B ) 
+( "Z0" "5" B ) ( "Z1" "3" B ) ( "INH" "6" I ) ( "A" "11" I ) ( "B" "10" I ) 
+( "C" "9" I ) ( "X" "14" B ) ( "Y" "15" B ) ( "Z" "4" B ) ( "VDD" "16" P ) 
+( "VSS" "8" P ) ( "VEE" "7" P ) 
+`I R "65646-112" .\SA14331A.LIB "HEADER 12" 3925E9A5  P3  []
+"" "" "" "" "" "" "" "SIP12" 
+"SIP12"
+( "1" "1" P ) ( "2" "2" P ) ( "3" "3" P ) ( "4" "4" P ) 
+( "5" "5" P ) ( "6" "6" P ) ( "7" "7" P ) ( "8" "8" P ) ( "9" "9" P ) 
+( "10" "10" P ) ( "11" "11" P ) ( "12" "12" P ) 
+`I R "SOT" .\SA14331A.LIB "R" 4201955B  RX97  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "SOT" .\SA14331A.LIB "R" 42019590  RX98  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "74HC14N" .\SA14331A.LIB "74HC14" 419D3C8B  UX8  [001111]
+"" "" "" "" "" "" "" "DIP14" 
+"DIP14"
+( "I_A" "1" I ) ( "I_B" "3" I ) ( "I_C" "5" I ) ( "I_D" "9" I ) 
+( "I_E" "11" I ) ( "I_F" "13" I ) ( "O_A" "2" O ) ( "O_B" "4" O ) ( "O_C" "6" O ) 
+( "O_D" "8" O ) ( "O_E" "10" O ) ( "O_F" "12" O ) ( "VCC" "14" S ) ( "GND" "7" S ) 
+`I R "74HC00N" .\SA14331A.LIB "74HC00" 419D491A  UX13  [1111]
+"" "" "" "" "" "" "" "DIP14" 
+"DIP14"
+( "I0_A" "1" I ) ( "I0_B" "4" I ) ( "I0_C" "9" I ) ( "I0_D" "12" I ) 
+( "I1_A" "2" I ) ( "I1_B" "5" I ) ( "I1_C" "10" I ) ( "I1_D" "13" I ) ( "O_A" "3" O ) 
+( "O_B" "6" O ) ( "O_C" "8" O ) ( "O_D" "11" O ) ( "VCC" "14" S ) ( "GND" "7" S ) 
+`J ( R UX11 13 B ) ( R UX11 1 B ) ( R UX11 3 B ) ( R UX12 5 I ) 
+( R CX56 "2" P ) ( R RX70 "2" P ) ( R RX69 "2" P ) ( R P3 "7" P ) ( R RX76 "2" P ) 
+( R P3 "10" P ) ( R RX71 "1" P ) ( R UX14 13 B ) ( R UX14 1 B ) ( R UX14 3 B ) 
+( R RX65 "2" P ) ( R RX64 "2" P ) ( R RX78 "2" P ) ( R UX12 3 I ) ( R RX66 "1" P ) 
+( P S "A_COMMON" ) 
+`J ( R RX66 "2" P ) ( R UX14 12 B ) ( R CX47 "1" P ) 
+`J ( R UX11 16 P ) ( S "VCC" 4  ) ( R UX14 16 P ) ( P S "+5V" ) 
+`J ( R UX13 13 I ) ( R UX8 9 I ) ( R UX13 5 I ) ( S "PHASE" 4  ) 
+( R P3 "1" P ) ( R UX14 9 I ) 
+`J ( P I "SEL OUT" ) ( R RX67 "1" P ) ( R RX62 "1" P ) 
+`J ( R RX62 "2" P ) ( R UX14 14 B ) 
+`J ( R CX47 "2" P ) ( R CX53 "1" P ) ( R RX72 "1" P ) ( R CX48 "2" P ) 
+( R CX49 "2" P ) ( R UX12 2 I ) 
+`J ( R RX72 "2" P ) ( R UX12 1 O ) ( R RX75 "2" P ) ( R CX57 "1" P ) 
+`J ( R UX13 2 I ) ( R UX8 5 I ) ( R UX13 4 I ) ( S "FILT" 4  ) 
+( R P3 "2" P ) 
+`J ( P I "LO_SENS" ) ( R P3 "3" P ) 
+`J ( R UX14 15 B ) ( R RX63 "2" P ) 
+`J ( R UX14 2 B ) ( R CX48 "1" P ) ( R RX65 "1" P ) 
+`J ( P O "A CTL" ) ( R P3 "5" P ) 
+`J ( P I "HP OUT" ) ( R RX68 "1" P ) ( R RX63 "1" P ) 
+`J ( R UX14 4 B ) ( R RX74 "1" P ) 
+`J ( R RX80 "1" P ) ( R CX57 "2" P ) ( R RX79 "1" P ) ( R RX78 "1" P ) 
+`J ( R RX80 "2" P ) ( R P3 "8" P ) 
+`J ( R RX97 "1" P ) ( R RX98 "1" P ) ( R UX11 7 P ) ( R UX11 8 P ) 
+( R UX11 6 I ) ( R UX14 7 P ) ( R UX14 8 P ) ( R UX14 6 I ) ( R P3 "6" P ) 
+( P S "CTL_COM" ) 
+`J ( R UX14 5 B ) ( R RX64 "1" P ) 
+`J ( R P3 "9" P ) ( R RX81 "2" P ) 
+`J ( R RX79 "2" P ) ( R P3 "11" P ) 
+`J ( R UX13 6 O ) ( R UX14 11 I ) ( S "FC" 4  ) 
+`J ( R P3 "12" P ) ( R RX77 "2" P ) 
+`J ( R UX13 11 O ) ( R UX14 10 I ) ( S "FB" 4  ) 
+`J ( R CX54 "2" P ) ( P S "+22V" ) 
+`J ( R RX81 "1" P ) ( R CX58 "2" P ) ( R RX77 "1" P ) ( R RX76 "1" P ) 
+`J ( R RX75 "1" P ) ( R UX11 4 B ) 
+`J ( R RX74 "2" P ) ( R CX58 "1" P ) 
+`J ( R RX71 "2" P ) ( R UX11 12 B ) ( R CX50 "1" P ) 
+`J ( R RX67 "2" P ) ( R UX11 14 B ) 
+`J ( R CX50 "2" P ) ( R CX55 "1" P ) ( R RX73 "1" P ) ( R CX51 "2" P ) 
+( R CX52 "2" P ) ( R UX12 6 I ) 
+`J ( R RX73 "2" P ) ( R CX55 "2" P ) ( R UX12 7 O ) 
+`J ( R UX11 15 B ) ( R RX68 "2" P ) 
+`J ( R UX11 2 B ) ( R CX51 "1" P ) ( R RX70 "1" P ) 
+`J ( R UX12 4 P ) ( P S "-22V" ) ( R CX56 "1" P ) 
+`J ( R UX11 5 B ) ( R CX52 "1" P ) ( R RX69 "1" P ) 
+`J ( R UX13 3 O ) ( R UX11 11 I ) ( S "FF" 4  ) 
+`J ( R UX13 8 O ) ( R UX11 10 I ) ( S "FE" 4  ) 
+`J ( R UX8 8 O ) ( R UX13 10 I ) ( R UX13 1 I ) ( R UX11 9 I ) 
+( S "FD" 4  ) 
+`J ( R UX13 14 S ) ( R UX8 14 S ) ( P S "VCC" ) 
+`J ( R UX8 6 O ) ( R UX13 9 I ) ( R UX13 12 I ) 
+`J ( R RX97 "2" P ) ( R UX8 11 I ) 
+`J ( R UX13 7 S ) ( R UX8 7 S ) ( P S "GND" ) 
+`J ( R RX98 "2" P ) ( R UX8 13 I ) 

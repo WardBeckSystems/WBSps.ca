@@ -1,0 +1,46 @@
+{
+  "filename": "2021-3-16-23-36-32.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/2021-3-16-23-36-32.jpg",
+  "extension": ".jpg",
+  "size_bytes": 1179016,
+  "modified_time": "Sat Oct 17 23:34:15 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "2021",
+    "16",
+    "23",
+    "36",
+    "32"
+  ],
+  "width": 5029,
+  "height": 3181,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "5029",
+    "ExifImageHeight": "3181",
+    "ImageUniqueID": "8d35af899ace3d7d0000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/94064 - WBZ/1994 - 94064-01-006 - WBZ TAPE OPS RENAISSANCE MK II FUNCTIONAL - DRN SM - ENG SM - ISS 1.jpg",
+  "note": "2021-3-16-23-36-32.jpg.md",
+  "title_block": {
+    "drawing_number": "D 94064-01-006",
+    "size": "D",
+    "title": "WBZ TAPE OPS / RENAISSANCE MK II / FUNCTIONAL",
+    "drawn": "SM",
+    "engineer": "SM",
+    "signature": "DISC NO: 479; CODE: 94064F06; handwritten note below illegible",
+    "issue": "1",
+    "customer": "WBZ"
+  }
+}

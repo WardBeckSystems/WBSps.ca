@@ -1,0 +1,37 @@
+{
+  "filename": "WBSps.ca 20210319 -  (65).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca 20210319 -  (65).jpg",
+  "width": 4972,
+  "height": 3218,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2641,
+    1981,
+    4763,
+    3097
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1999 - D ABB-M1 - ABB-1 WARD-BECK AND LINDOS ENCLOSURE - ISS 2.jpg",
+  "note": "WBSps.ca 20210319 -  (65).jpg.md",
+  "title_block": {
+    "drawing_number": "D ABB-M1",
+    "size": "D",
+    "title": "ABB-1 / WARD-BECK AND LINDOS / ENCLOSURE",
+    "date": "JAN 99",
+    "year": 1999,
+    "month": 1,
+    "approved": "GEB",
+    "signature": "ISS 2 JAN 99 ADDED LINDOS PAINT FINISH NOTE GEB; DISC NO: SYS01 CODE: ABB-M1",
+    "issue": "2",
+    "customer": "LINDOS",
+    "models": [
+      "ABB-1"
+    ]
+  }
+}

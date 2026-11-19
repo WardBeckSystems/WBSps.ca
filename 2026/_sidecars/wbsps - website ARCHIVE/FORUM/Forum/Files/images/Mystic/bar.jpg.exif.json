@@ -1,0 +1,28 @@
+{
+  "filename": "bar.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/wbsps - website ARCHIVE/FORUM/Forum/Files/images/Mystic/bar.jpg",
+  "extension": ".jpg",
+  "size_bytes": 9931,
+  "modified_time": "Sun Sep  6 22:17:19 2026",
+  "word_tokens": [
+    "bar"
+  ],
+  "width": 167,
+  "height": 24,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "ResolutionUnit": "2",
+    "ExifOffset": "156",
+    "Software": "Adobe Photoshop 7.0",
+    "Orientation": "1",
+    "DateTime": "2004:05:13 00:08:40",
+    "XResolution": "72.0",
+    "YResolution": "72.0",
+    "ColorSpace": "65535",
+    "ExifImageWidth": "167",
+    "ExifImageHeight": "24"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

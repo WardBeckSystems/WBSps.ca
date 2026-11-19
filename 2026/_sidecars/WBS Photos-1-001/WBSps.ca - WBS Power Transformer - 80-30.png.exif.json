@@ -1,0 +1,49 @@
+{
+  "filename": "WBSps.ca - WBS Power Transformer - 80-30.png",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca - WBS Power Transformer - 80-30.png",
+  "extension": ".png",
+  "size_bytes": 440539,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "wbs",
+    "power",
+    "transformer",
+    "80",
+    "30"
+  ],
+  "width": 4400,
+  "height": 2673,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "ExifOffset": "46",
+    "ExifVersion": "0220",
+    "ExifImageWidth": "4400",
+    "ExifImageHeight": "2673",
+    "ImageUniqueID": "c40159be1287a0d40000000000000000"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1983 - B 80-30 - 80-30 POWER TRANSFORMER - DRN GEB - ENG RKB - ISS 3.png",
+  "note": "WBSps.ca - WBS Power Transformer - 80-30.png.md",
+  "title_block": {
+    "drawing_number": "B 80-30",
+    "size": "B",
+    "title": "80-30 / POWER TRANSFORMER",
+    "date": "11/83",
+    "year": 1983,
+    "month": 11,
+    "drawn": "GEB",
+    "checked": "R. Bell (signature)",
+    "approved": "(signature)",
+    "engineer": "RKB 3/82",
+    "signature": "ISS 2 5/82 GN-O WAS GN/WH BL-O WAS BL/WH; ISS 3 11/83 DIM 3.12 WAS 3.06; SCALE 1/2",
+    "issue": "3"
+  }
+}

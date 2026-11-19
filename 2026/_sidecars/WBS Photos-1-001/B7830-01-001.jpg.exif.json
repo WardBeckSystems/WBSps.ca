@@ -1,0 +1,45 @@
+{
+  "filename": "B7830-01-001.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/B7830-01-001.jpg",
+  "extension": ".jpg",
+  "size_bytes": 4756613,
+  "modified_time": "Sat Oct 17 23:34:17 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "b7830",
+    "01",
+    "001"
+  ],
+  "width": 3500,
+  "height": 4952,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "3500",
+    "ExifImageHeight": "4952",
+    "ImageUniqueID": "60fca8e56a5c01a70000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:57",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M7830/19xx - 7830-01-001 - M7830A SECONDARY TERMINAL FUNCTIONAL - ISS 1.jpg",
+  "note": "B7830-01-001.jpg.md",
+  "title_block": {
+    "drawing_number": "B 7830-01-001",
+    "size": "B",
+    "title": "M7830/M7830A / SECONDARY TERMINAL / FUNCTIONAL",
+    "issue": "1",
+    "models": [
+      "M7830",
+      "M7830A"
+    ]
+  }
+}

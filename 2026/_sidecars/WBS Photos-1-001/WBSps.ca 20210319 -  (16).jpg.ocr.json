@@ -1,0 +1,30 @@
+{
+  "filename": "WBSps.ca 20210319 -  (16).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca 20210319 -  (16).jpg",
+  "width": 4968,
+  "height": 3220,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2457,
+    2413,
+    4922,
+    3177
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M900/19xx - 900-03-032 - FOOT KICK MEMBER - DRN DRG - ISS 1.jpg",
+  "note": "WBSps.ca 20210319 -  (16).jpg.md",
+  "title_block": {
+    "drawing_number": "D 900-03-032",
+    "size": "D",
+    "title": "FOOT KICK MEMBER",
+    "drawn": "DRG",
+    "signature": "DISC NO: 470; CODE: 900032; SCALE 1:1",
+    "issue": "1"
+  }
+}

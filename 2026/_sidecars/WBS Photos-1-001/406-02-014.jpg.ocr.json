@@ -1,0 +1,35 @@
+{
+  "filename": "406-02-014.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/406-02-014.jpg",
+  "width": 9545,
+  "height": 2500,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    7381,
+    2029,
+    9545,
+    2499
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:55",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/DYNAMICS/M406/19xx - M406 - 406-02-014.jpg",
+  "note": "406-02-014.jpg.md",
+  "title_block": {
+    "drawing_number": "B 406-02-014",
+    "size": "B",
+    "title": "M406C COMPRESSOR / SCHEMATIC",
+    "date": "DEC 69",
+    "year": 1969,
+    "month": 12,
+    "drawn": "DJG",
+    "issue": "1",
+    "models": [
+      "M406C"
+    ]
+  }
+}

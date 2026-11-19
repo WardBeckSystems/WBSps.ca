@@ -1,0 +1,43 @@
+{
+  "filename": "2021-3-17-0-3-42.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/2021-3-17-0-3-42.jpg",
+  "extension": ".jpg",
+  "size_bytes": 1530454,
+  "modified_time": "Sat Oct 17 23:34:15 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "2021",
+    "17",
+    "42"
+  ],
+  "width": 4882,
+  "height": 3276,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4882",
+    "ExifImageHeight": "3276",
+    "ImageUniqueID": "933d6bcaab96c6d30000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/960163 - CBC OTTAWA/1996 - 960163-04-001 - CBC OTTAWA PARLIMENTARY BUREAU 48x96 MicroCOM RACK LAYOUT - DRN DRG - ISS 2.jpg",
+  "note": "2021-3-17-0-3-42.jpg.md",
+  "title_block": {
+    "drawing_number": "D 960163-04-001",
+    "size": "D",
+    "title": "CBC OTTAWA / PARLIMENTARY BUREAU / 48x96 MicroCOM RACK LAYOUT",
+    "drawn": "DRG",
+    "signature": "small title block at bottom right of drawing; SCALE NTS; DISC NO: SYS01, CODE: 96163L01",
+    "issue": "2",
+    "customer": "CBC OTTAWA"
+  }
+}

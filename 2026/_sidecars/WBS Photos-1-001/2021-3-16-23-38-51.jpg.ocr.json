@@ -1,0 +1,32 @@
+{
+  "filename": "2021-3-16-23-38-51.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2021-3-16-23-38-51.jpg",
+  "width": 4983,
+  "height": 3211,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3166,
+    2043,
+    4896,
+    3208
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/94033 - CENTENNIAL COLLEGE/1994 - 94033-01-001 - CENTENTIAL COLLEGE RADIO INTERCOM - DRN DRG - ISS 1.jpg",
+  "note": "2021-3-16-23-38-51.jpg.md",
+  "title_block": {
+    "drawing_number": "D 94033-01-001",
+    "size": "D",
+    "title": "CENTENTIAL COLLEGE / RADIO INTERCOM",
+    "drawn": "DRG",
+    "approved": "signature",
+    "signature": "DISC NO: 456, CODE: 94033F01",
+    "issue": "1",
+    "customer": "CENTENNIAL COLLEGE"
+  }
+}

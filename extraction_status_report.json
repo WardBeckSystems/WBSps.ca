@@ -1,0 +1,693 @@
+{
+  "image_analysis": {
+    "aspect_ratio": 2.0,
+    "contrast": 37.321189880371094,
+    "dhash_hex": "60606061e1a1a161",
+    "height": 200,
+    "histogram_summary": {
+      "blue_bins": [
+        939,
+        109,
+        123,
+        4576,
+        144,
+        54,
+        157,
+        83,
+        155,
+        81,
+        70,
+        89,
+        83,
+        117,
+        223,
+        72997
+      ],
+      "green_bins": [
+        3,
+        146,
+        248,
+        76,
+        225,
+        105,
+        4588,
+        30,
+        981,
+        54,
+        80,
+        70,
+        77,
+        98,
+        151,
+        73068
+      ],
+      "red_bins": [
+        939,
+        111,
+        142,
+        52,
+        152,
+        69,
+        49,
+        15,
+        26,
+        161,
+        164,
+        120,
+        4603,
+        120,
+        182,
+        73095
+      ]
+    },
+    "luminance": 233.38790893554688,
+    "mean_blue": 224.3978729248047,
+    "mean_green": 232.9799041748047,
+    "mean_red": 237.61654663085938,
+    "total_pixels": 80000,
+    "width": 400
+  },
+  "ocr_result": {
+    "detected_characters": [
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 8,
+        "width": 5,
+        "x": 21,
+        "y": 22
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 6,
+        "width": 5,
+        "x": 34,
+        "y": 23
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 8,
+        "width": 7,
+        "x": 39,
+        "y": 22
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 6,
+        "width": 7,
+        "x": 53,
+        "y": 24
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 8,
+        "width": 5,
+        "x": 62,
+        "y": 22
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 8,
+        "width": 12,
+        "x": 69,
+        "y": 22
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 6,
+        "width": 5,
+        "x": 82,
+        "y": 23
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 8,
+        "width": 7,
+        "x": 87,
+        "y": 22
+      },
+      {
+        "character": "A",
+        "confidence": 0.8799999952316284,
+        "height": 4,
+        "width": 2,
+        "x": 98,
+        "y": 23
+      },
+      {
+        "character": "A",
+        "confidence": 0.8799999952316284,
+        "height": 8,
+        "width": 5,
+        "x": 101,
+        "y": 22
+      },
+      {
+        "character": "A",
+        "confidence": 0.8799999952316284,
+        "height": 4,
+        "width": 2,
+        "x": 110,
+        "y": 23
+      },
+      {
+        "character": "A",
+        "confidence": 0.8799999952316284,
+        "height": 7,
+        "width": 5,
+        "x": 113,
+        "y": 22
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 81,
+        "width": 81,
+        "x": 300,
+        "y": 20
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 6,
+        "width": 4,
+        "x": 29,
+        "y": 64
+      },
+      {
+        "character": "A",
+        "confidence": 0.8799999952316284,
+        "height": 6,
+        "width": 5,
+        "x": 37,
+        "y": 64
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 8,
+        "width": 4,
+        "x": 43,
+        "y": 62
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 7,
+        "width": 10,
+        "x": 49,
+        "y": 63
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 8,
+        "width": 6,
+        "x": 60,
+        "y": 62
+      },
+      {
+        "character": "A",
+        "confidence": 0.8799999952316284,
+        "height": 8,
+        "width": 7,
+        "x": 69,
+        "y": 62
+      },
+      {
+        "character": "A",
+        "confidence": 0.8799999952316284,
+        "height": 5,
+        "width": 5,
+        "x": 77,
+        "y": 65
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 6,
+        "width": 3,
+        "x": 84,
+        "y": 64
+      },
+      {
+        "character": "A",
+        "confidence": 0.8799999952316284,
+        "height": 7,
+        "width": 5,
+        "x": 87,
+        "y": 64
+      },
+      {
+        "character": "A",
+        "confidence": 0.8799999952316284,
+        "height": 5,
+        "width": 5,
+        "x": 93,
+        "y": 65
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 7,
+        "width": 10,
+        "x": 100,
+        "y": 63
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 8,
+        "width": 6,
+        "x": 111,
+        "y": 62
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 8,
+        "width": 6,
+        "x": 120,
+        "y": 62
+      },
+      {
+        "character": "A",
+        "confidence": 0.8799999952316284,
+        "height": 5,
+        "width": 5,
+        "x": 127,
+        "y": 65
+      },
+      {
+        "character": "A",
+        "confidence": 0.8799999952316284,
+        "height": 6,
+        "width": 4,
+        "x": 133,
+        "y": 64
+      },
+      {
+        "character": "A",
+        "confidence": 0.8799999952316284,
+        "height": 8,
+        "width": 5,
+        "x": 139,
+        "y": 64
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 7,
+        "width": 10,
+        "x": 145,
+        "y": 63
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 8,
+        "width": 6,
+        "x": 156,
+        "y": 62
+      },
+      {
+        "character": "A",
+        "confidence": 0.8799999952316284,
+        "height": 6,
+        "width": 7,
+        "x": 24,
+        "y": 104
+      },
+      {
+        "character": "A",
+        "confidence": 0.8799999952316284,
+        "height": 6,
+        "width": 4,
+        "x": 32,
+        "y": 104
+      },
+      {
+        "character": "A",
+        "confidence": 0.8799999952316284,
+        "height": 7,
+        "width": 5,
+        "x": 37,
+        "y": 104
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 4,
+        "width": 5,
+        "x": 43,
+        "y": 105
+      },
+      {
+        "character": "A",
+        "confidence": 0.8799999952316284,
+        "height": 7,
+        "width": 4,
+        "x": 52,
+        "y": 102
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 6,
+        "width": 4,
+        "x": 58,
+        "y": 104
+      },
+      {
+        "character": "A",
+        "confidence": 0.8799999952316284,
+        "height": 6,
+        "width": 4,
+        "x": 64,
+        "y": 104
+      },
+      {
+        "character": "I",
+        "confidence": 0.8799999952316284,
+        "height": 8,
+        "width": 2,
+        "x": 70,
+        "y": 102
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 7,
+        "width": 4,
+        "x": 72,
+        "y": 104
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 4,
+        "width": 5,
+        "x": 83,
+        "y": 105
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 6,
+        "width": 3,
+        "x": 90,
+        "y": 104
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 8,
+        "width": 4,
+        "x": 96,
+        "y": 102
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 8,
+        "width": 4,
+        "x": 102,
+        "y": 102
+      },
+      {
+        "character": "A",
+        "confidence": 0.8799999952316284,
+        "height": 6,
+        "width": 5,
+        "x": 108,
+        "y": 104
+      },
+      {
+        "character": "I",
+        "confidence": 0.8799999952316284,
+        "height": 8,
+        "width": 3,
+        "x": 113,
+        "y": 102
+      },
+      {
+        "character": "A",
+        "confidence": 0.8799999952316284,
+        "height": 6,
+        "width": 5,
+        "x": 116,
+        "y": 104
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 8,
+        "width": 5,
+        "x": 127,
+        "y": 102
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 6,
+        "width": 5,
+        "x": 136,
+        "y": 103
+      },
+      {
+        "character": "A",
+        "confidence": 0.8799999952316284,
+        "height": 4,
+        "width": 2,
+        "x": 141,
+        "y": 102
+      },
+      {
+        "character": "A",
+        "confidence": 0.8799999952316284,
+        "height": 4,
+        "width": 2,
+        "x": 143,
+        "y": 106
+      },
+      {
+        "character": "E",
+        "confidence": 0.8799999952316284,
+        "height": 8,
+        "width": 7,
+        "x": 146,
+        "y": 102
+      },
+      {
+        "character": "O",
+        "confidence": 0.8799999952316284,
+        "height": 71,
+        "width": 81,
+        "x": 300,
+        "y": 110
+      }
+    ],
+    "extracted_text": "EEEEEEEEAAAA E\nEAEEEAAEAAEEEAAAEE\nAAAEAEAIEEEEEAIAEEAAE O",
+    "line_count": 3,
+    "word_count": 5
+  },
+  "photo_identification": {
+    "color_palette_type": "Monochrome / Grayscale",
+    "confidence": 0.8500000238418579,
+    "detected_traits": [
+      "Low/Medium Contrast",
+      "Light Theme / High Brightness",
+      "Landscape Aspect Ratio"
+    ],
+    "fingerprint_hash": "60606061e1a1a161",
+    "primary_category": "Photographic Scene / Real World Photo"
+  },
+  "sorting_benchmarks": [
+    {
+      "algorithm": "QuickSort (Lomuto)",
+      "comparisons": 81,
+      "dataset_name": "OCR_Word_Dataset",
+      "dataset_size": 20,
+      "elapsed_nanos": 1603,
+      "sorted_correctly": true,
+      "swaps": 33
+    },
+    {
+      "algorithm": "QuickSort (Hoare)",
+      "comparisons": 142,
+      "dataset_name": "OCR_Word_Dataset",
+      "dataset_size": 20,
+      "elapsed_nanos": 2675,
+      "sorted_correctly": true,
+      "swaps": 19
+    },
+    {
+      "algorithm": "MergeSort",
+      "comparisons": 66,
+      "dataset_name": "OCR_Word_Dataset",
+      "dataset_size": 20,
+      "elapsed_nanos": 8766,
+      "sorted_correctly": true,
+      "swaps": 88
+    },
+    {
+      "algorithm": "HeapSort",
+      "comparisons": 114,
+      "dataset_name": "OCR_Word_Dataset",
+      "dataset_size": 20,
+      "elapsed_nanos": 1813,
+      "sorted_correctly": true,
+      "swaps": 71
+    },
+    {
+      "algorithm": "RadixSort (LSD String)",
+      "comparisons": 0,
+      "dataset_name": "OCR_Word_Dataset",
+      "dataset_size": 20,
+      "elapsed_nanos": 65303,
+      "sorted_correctly": true,
+      "swaps": 420
+    },
+    {
+      "algorithm": "InsertionSort",
+      "comparisons": 115,
+      "dataset_name": "OCR_Word_Dataset",
+      "dataset_size": 20,
+      "elapsed_nanos": 812,
+      "sorted_correctly": true,
+      "swaps": 99
+    }
+  ],
+  "svg_vectorization": {
+    "height": 200,
+    "path_count": 61,
+    "preview": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 200\" width=\"400\" height=\"200\">\n  <style>path { stroke-linecap: round; stroke-linejoin: round; }</style>\n  <path d=\"M 300 20 L 381 20 L 381 101 L 300 101 Z\" fill=\"#5b5b5b\" stroke=\"#5b5b5b\" stroke-width=\"0.5\" />\n  <path d=\"M 21 22 L 25 22 L 25 3",
+    "width": 400
+  },
+  "word_analysis": {
+    "average_word_length": 8.199999809265137,
+    "generated_word_names": [
+      "Aerotech",
+      "Cybermind",
+      "Omniflow",
+      "Vericraft",
+      "Synpulse",
+      "Novagrid",
+      "Fluxwave",
+      "Zentlogic",
+      "AntigravityCore",
+      "AntigravitySphere"
+    ],
+    "top_frequencies": [
+      {
+        "count": 2,
+        "length": 7,
+        "word": "sorting"
+      },
+      {
+        "count": 2,
+        "length": 4,
+        "word": "data"
+      },
+      {
+        "count": 1,
+        "length": 9,
+        "word": "mergesort"
+      },
+      {
+        "count": 1,
+        "length": 9,
+        "word": "algorithm"
+      },
+      {
+        "count": 1,
+        "length": 7,
+        "word": "dataset"
+      },
+      {
+        "count": 1,
+        "length": 8,
+        "word": "analyzer"
+      },
+      {
+        "count": 1,
+        "length": 10,
+        "word": "processing"
+      },
+      {
+        "count": 1,
+        "length": 6,
+        "word": "sample"
+      },
+      {
+        "count": 1,
+        "length": 10,
+        "word": "cyberpulse"
+      },
+      {
+        "count": 1,
+        "length": 9,
+        "word": "zentcraft"
+      },
+      {
+        "count": 1,
+        "length": 21,
+        "word": "aaaeaeaieeeeeaiaeeaae"
+      },
+      {
+        "count": 1,
+        "length": 5,
+        "word": "suite"
+      },
+      {
+        "count": 1,
+        "length": 8,
+        "word": "heapsort"
+      },
+      {
+        "count": 1,
+        "length": 8,
+        "word": "omnigrid"
+      },
+      {
+        "count": 1,
+        "length": 9,
+        "word": "novalogic"
+      },
+      {
+        "count": 1,
+        "length": 4,
+        "word": "time"
+      },
+      {
+        "count": 1,
+        "length": 1,
+        "word": "e"
+      },
+      {
+        "count": 1,
+        "length": 8,
+        "word": "aeromind"
+      },
+      {
+        "count": 1,
+        "length": 12,
+        "word": "eeeeeeeeaaaa"
+      },
+      {
+        "count": 1,
+        "length": 3,
+        "word": "and"
+      }
+    ],
+    "total_words": 50,
+    "unique_words": 48
+  }
+}

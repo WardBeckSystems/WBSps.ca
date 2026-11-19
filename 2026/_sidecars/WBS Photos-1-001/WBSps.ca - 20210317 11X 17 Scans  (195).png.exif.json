@@ -1,0 +1,52 @@
+{
+  "filename": "WBSps.ca - 20210317 11X 17 Scans  (195).png",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca - 20210317 11X 17 Scans  (195).png",
+  "extension": ".png",
+  "size_bytes": 723844,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "20210317",
+    "11x",
+    "17",
+    "scans",
+    "(195)"
+  ],
+  "width": 4757,
+  "height": 3363,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "ExifOffset": "46",
+    "ExifVersion": "0220",
+    "ExifImageWidth": "4757",
+    "ExifImageHeight": "3363",
+    "ImageUniqueID": "d293d17b4e8d30060000000000000000"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M469/1978 - 469-02-002 - M469B ASSIGNMENT MODULE SCHEMATIC - DRN P. MAHONEY - ENG PC - ISS 2.png",
+  "note": "WBSps.ca - 20210317 11X 17 Scans  (195).png.md",
+  "title_block": {
+    "drawing_number": "B 469-02-002",
+    "size": "B",
+    "title": "M469B / ASSIGNMENT MODULE / SCHEMATIC",
+    "date": "11/78",
+    "year": 1978,
+    "month": 11,
+    "drawn": "P. MAHONEY",
+    "checked": "P.C.",
+    "approved": "(signature)",
+    "engineer": "P.C.",
+    "signature": "ISS 2 11/78 PINS WERE REVERSED P.C.",
+    "issue": "2",
+    "models": [
+      "M469B"
+    ]
+  }
+}

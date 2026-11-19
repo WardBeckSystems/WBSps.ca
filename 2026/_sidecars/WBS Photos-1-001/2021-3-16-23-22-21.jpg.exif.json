@@ -1,0 +1,44 @@
+{
+  "filename": "2021-3-16-23-22-21.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/2021-3-16-23-22-21.jpg",
+  "extension": ".jpg",
+  "size_bytes": 826452,
+  "modified_time": "Sat Oct 17 23:34:15 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "2021",
+    "16",
+    "23",
+    "22",
+    "21"
+  ],
+  "width": 5011,
+  "height": 3192,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "5011",
+    "ExifImageHeight": "3192",
+    "ImageUniqueID": "237c00cdff5d2b780000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/960296 - CBC REGINA/1996 - 960296-01-001 - CBC REGINA CENTRAL ELECTRONICS FUNCTIONAL - DRN DRG - ISS 1.jpg",
+  "note": "2021-3-16-23-22-21.jpg.md",
+  "title_block": {
+    "drawing_number": "D 960296-01-001",
+    "size": "D",
+    "title": "CBC REGINA / CENTRAL ELECTRONICS / FUNCTIONAL",
+    "drawn": "DRG",
+    "issue": "1",
+    "customer": "CBC REGINA"
+  }
+}

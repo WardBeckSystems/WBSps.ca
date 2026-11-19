@@ -1,0 +1,36 @@
+{
+  "filename": "Image1.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/Image1.jpg",
+  "width": 6800,
+  "height": 2183,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    5141,
+    1697,
+    6800,
+    2165
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:58",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/AMPLIFIERS/M621/1973 - 621-02-003 - 20 WATT MONITOR AMPLIFIER - DRN DPS - ISS 3.jpg",
+  "note": "Image1.jpg.md",
+  "title_block": {
+    "drawing_number": "B 621-02-003",
+    "size": "B",
+    "title": "M621 / 20 WATT MONITOR AMPLIFIER",
+    "date": "SEPT 73",
+    "year": 1973,
+    "month": 9,
+    "drawn": "DPS",
+    "checked": "R.H.",
+    "issue": "3",
+    "models": [
+      "M621"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "filename": "Scan_20210321 (2).png",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/Scan_20210321 (2).png",
+  "width": 4757,
+  "height": 3363,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1596,
+    2722,
+    2524,
+    3351
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:00",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/AMPLIFIERS/M450/1975 - 450-03-006 - COVER PLATE - DRN DM - ISS 6.png",
+  "note": "Scan_20210321 (2).png.md",
+  "title_block": {
+    "drawing_number": "B 450-03-006",
+    "size": "B",
+    "title": "COVER PLATE",
+    "date": "APR 75",
+    "year": 1975,
+    "month": 4,
+    "drawn": "DM",
+    "checked": "DM",
+    "signature": "AT ISSUE 6; MAT'L 16 GA. ALUM.; FINISH ANODIZE BLACK",
+    "issue": "6",
+    "models": [
+      "M450"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "filename": "147-06-010.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/147-06-010.jpg",
+  "width": 4952,
+  "height": 3272,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "BRN DJG FINISH WARD BECK SYSTEMIS LTd. | ATE DEC 69 M4O6B COMRESSOR | HKD MATERIAL | M147 COMPONENT LAYOUI | CALE ax1 | OLS FRACI > 1/64 DEC TO PLACES GIVEN ANGLES B 147 06 oto ISS | De Min BFND RAD' UNESS  SpeciFIEO",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2198,
+    2709,
+    4952,
+    3271
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/DYNAMICS/M406/19xx - M406 - 147-06-010.jpg",
+  "note": "147-06-010.jpg.md",
+  "title_block": {
+    "drawing_number": "B 147-06-010",
+    "size": "B",
+    "title": "M406B COMRESSOR / M147 COMPONENT LAYOUT",
+    "date": "DEC 69",
+    "year": 1969,
+    "month": 12,
+    "drawn": "DJG",
+    "signature": "SCALE 2x1",
+    "issue": "6",
+    "models": [
+      "M406B",
+      "M147"
+    ]
+  }
+}

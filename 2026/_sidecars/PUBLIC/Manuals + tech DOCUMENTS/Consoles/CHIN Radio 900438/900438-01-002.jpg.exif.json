@@ -1,0 +1,30 @@
+{
+  "filename": "900438-01-002.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/Manuals + tech DOCUMENTS/Consoles/CHIN Radio 900438/900438-01-002.jpg",
+  "extension": ".jpg",
+  "size_bytes": 38935225,
+  "modified_time": "Sun Sep  6 22:14:17 2026",
+  "word_tokens": [
+    "900438",
+    "01",
+    "002"
+  ],
+  "width": 10200,
+  "height": 6600,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "ResolutionUnit": "2",
+    "ExifOffset": "164",
+    "Software": "Adobe Photoshop CS3 Macintosh",
+    "Orientation": "1",
+    "DateTime": "2014:01:12 11:43:17",
+    "XResolution": "300.0",
+    "YResolution": "300.0",
+    "ColorSpace": "65535",
+    "ExifImageWidth": "10200",
+    "ExifImageHeight": "6600"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

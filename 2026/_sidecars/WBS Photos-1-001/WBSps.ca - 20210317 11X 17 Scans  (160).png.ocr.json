@@ -1,0 +1,36 @@
+{
+  "filename": "WBSps.ca - 20210317 11X 17 Scans  (160).png",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca - 20210317 11X 17 Scans  (160).png",
+  "width": 4757,
+  "height": 3363,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3316,
+    2333,
+    4757,
+    3032
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Products/8200 SERIES/D8212E/1995 - 8212-03-015 - IDENT EXTRUSION COVER - DRN DRG - ISS 3.png",
+  "note": "WBSps.ca - 20210317 11X 17 Scans  (160).png.md",
+  "title_block": {
+    "drawing_number": "D 8212-03-015",
+    "size": "D",
+    "title": "D8212E / IDENT EXTRUSION/COVER",
+    "date": "8/95",
+    "year": 1995,
+    "month": 8,
+    "drawn": "DRG(8/95)",
+    "signature": "DISC NO: SYS01; CODE: 8212M15; issue 2 crossed out and 3 handwritten",
+    "issue": "3",
+    "models": [
+      "D8212E"
+    ]
+  }
+}

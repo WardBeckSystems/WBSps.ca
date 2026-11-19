@@ -1,0 +1,42 @@
+{
+  "filename": "NS-10 024.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/Manuals + tech DOCUMENTS/Consoles/Red Deer WBS/NS-10 024.jpg",
+  "extension": ".jpg",
+  "size_bytes": 6150235,
+  "modified_time": "Sun Sep  6 22:14:51 2026",
+  "word_tokens": [
+    "ns",
+    "10",
+    "024"
+  ],
+  "width": 4272,
+  "height": 2840,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "ResolutionUnit": "2",
+    "ExifOffset": "260",
+    "Make": "Canon",
+    "Model": "Canon EOS DIGITAL REBEL XSi",
+    "Software": "QuickTime 7.6.4",
+    "Orientation": "1",
+    "DateTime": "2009:10:19 18:59:22",
+    "YCbCrPositioning": "1",
+    "XResolution": "72.0",
+    "YResolution": "72.0",
+    "HostComputer": "Mac OS X 10.5.8",
+    "ExifVersion": "0220",
+    "ExposureProgram": "1",
+    "DateTimeOriginal": "2009:10:13 11:52:33",
+    "DateTimeDigitized": "2009:10:13 11:52:33",
+    "ApertureValue": "5.0",
+    "ExposureBiasValue": "0.0",
+    "ISOSpeedRatings": "1600",
+    "MeteringMode": "5",
+    "Flash": "16",
+    "FocalLength": "18.0",
+    "ExposureTime": "0.016666666666666666"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

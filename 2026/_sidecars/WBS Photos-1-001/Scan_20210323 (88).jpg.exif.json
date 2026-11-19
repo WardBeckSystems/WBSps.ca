@@ -1,0 +1,46 @@
+{
+  "filename": "Scan_20210323 (88).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/Scan_20210323 (88).jpg",
+  "extension": ".jpg",
+  "size_bytes": 1465490,
+  "modified_time": "Sat Oct 17 23:34:19 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "scan",
+    "20210323",
+    "(88)"
+  ],
+  "width": 4757,
+  "height": 3363,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4757",
+    "ExifImageHeight": "3363",
+    "ImageUniqueID": "2cd9e138c922003e0000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:00",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/FILTERS/M402/1969 - 402-03-004 - SWITCH MTG BRKT M402A - ISS 4.jpg",
+  "note": "Scan_20210323 (88).jpg.md",
+  "title_block": {
+    "drawing_number": "B 402-03-004",
+    "size": "B",
+    "title": "SWITCH MTG BRKT / M402A",
+    "date": "OCT 69",
+    "year": 1969,
+    "month": 10,
+    "issue": "4",
+    "models": [
+      "M402A"
+    ]
+  }
+}

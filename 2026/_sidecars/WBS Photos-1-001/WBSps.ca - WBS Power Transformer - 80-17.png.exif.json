@@ -1,0 +1,44 @@
+{
+  "filename": "WBSps.ca - WBS Power Transformer - 80-17.png",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca - WBS Power Transformer - 80-17.png",
+  "extension": ".png",
+  "size_bytes": 2210050,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "wbs",
+    "power",
+    "transformer",
+    "80",
+    "17"
+  ],
+  "width": 4257,
+  "height": 2617,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "ExifOffset": "46",
+    "ExifVersion": "0220",
+    "ExifImageWidth": "4257",
+    "ExifImageHeight": "2617",
+    "ImageUniqueID": "f2b603e6ca8eeca40000000000000000"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1971 - 80-17 - POWER TRANSFORMER TYPE 80-17 - ISS 6.png",
+  "note": "WBSps.ca - WBS Power Transformer - 80-17.png.md",
+  "title_block": {
+    "drawing_number": "80-17",
+    "title": "POWER TRANSFORMER / TYPE 80-17",
+    "date": "2/71",
+    "year": 1971,
+    "month": 2,
+    "signature": "ISS 2 8-0-8 SEC. WAS 1A DC (APR.71); 3 LAYOUT CHANGED MAR. 1971 P.C.; 4 ELECTROSTATIC SHIELD EXTENDED DEC 73; 5 XFMR MOUNTING BRACKETS ADDED DEC 76 GEB",
+    "issue": "6"
+  }
+}

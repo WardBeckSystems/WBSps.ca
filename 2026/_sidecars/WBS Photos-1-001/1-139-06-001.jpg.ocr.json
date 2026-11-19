@@ -1,0 +1,35 @@
+{
+  "filename": "1-139-06-001.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/1-139-06-001.jpg",
+  "width": 3500,
+  "height": 4920,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "TOLS FRACI = 464 DEC 10 FE sched ANGLES WARD BECK SYSTENS LID | 1 Mim]BEND RAD UNLESS | Finish Dr PHHL M402B | DATE Oat 71 EQUAL IZER MODULE PCB | MATERIAL COMPONENT LAvOUT | CHKD | SCALE 2 / 1 B 139-06-001 ISS: 2",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2625,
+    0,
+    3269,
+    2916
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:53",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/FILTERS/M402B/1971 - 1-139-06-001 - EQUALIZER MODULE PCB COMPONENT LAYOUT - DRN PHL - ISS 2.jpg",
+  "note": "1-139-06-001.jpg.md",
+  "title_block": {
+    "drawing_number": "B 1-139-06-001",
+    "size": "B",
+    "title": "M402B / EQUALIZER MODULE PCB / COMPONENT LAYOUT",
+    "date": "Oct 71",
+    "year": 1971,
+    "month": 10,
+    "drawn": "PHL",
+    "issue": "2",
+    "models": [
+      "M402B"
+    ]
+  }
+}

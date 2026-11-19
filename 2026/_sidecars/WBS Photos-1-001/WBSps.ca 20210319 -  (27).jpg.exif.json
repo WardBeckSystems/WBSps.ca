@@ -1,0 +1,46 @@
+{
+  "filename": "WBSps.ca 20210319 -  (27).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca 20210319 -  (27).jpg",
+  "extension": ".jpg",
+  "size_bytes": 1301930,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "20210319",
+    "(27)"
+  ],
+  "width": 5053,
+  "height": 3166,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "5053",
+    "ExifImageHeight": "3166",
+    "ImageUniqueID": "48b71f8aba6184060000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M901C/19xx - 901-03-006 - LINE INPUT MODULE - DRN DRG - ISS 3.jpg",
+  "note": "WBSps.ca 20210319 -  (27).jpg.md",
+  "title_block": {
+    "drawing_number": "D 901-03-006",
+    "size": "D",
+    "title": "M901C / LINE INPUT MODULE",
+    "drawn": "DRG",
+    "signature": "handwritten REPLOT; DISC NO: MA93001 overwritten SYS01; CODE: 901006; SCALE 1:1",
+    "issue": "3",
+    "models": [
+      "M901C"
+    ]
+  }
+}

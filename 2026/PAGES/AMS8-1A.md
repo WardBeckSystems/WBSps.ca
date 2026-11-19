@@ -1,0 +1,50 @@
+---
+type: "product"
+code: "AMS8-1A"
+title: "Mkiii 8 Channel Audio Monitoring System"
+category: "METERING"
+year: 2013
+confidence: "low (named by)"
+tags: ["product", "metering", "2010s"]
+---
+
+# AMS8-1A — Mkiii 8 Channel Audio Monitoring System
+
+**▶ [Open the RD60-AMS81AUsingAMS81-iss5PCB simulation](../siumulation.html?plugin=rd60-ams81a-iss5)** — front panel, operator tutorial, one second in slow motion, block diagram, schematics and how each control drives the firmware
+
+|  |  |
+|---|---|
+| Type | product |
+| Series | [METERING](Series-METERING.md) |
+| Try it | [full simulation: RD60-AMS81AUsingAMS81-iss5PCB](../siumulation.html?plugin=rd60-ams81a-iss5) · [KiCad symbol generator](../kicad.html?m=AMS8-1A) · [download package (zip)](../_packages/AMS8-1A.zip) |
+| Earliest dated evidence | [2013\|46](Year-2013.md) — dated folder |
+| Evidence | in "WBS PRODUCTS 2013 - documents-export-2013-03-08" |
+| Confidence | low (named by) |
+| All years found | [2013\|46](Year-2013.md), [2015\|48](Year-2015.md) |
+| Variants | [AMS8-1](AMS8-1.md), [AMS8-1AA](AMS8-1AA.md), [AMS8-1AAE](AMS8-1AAE.md), [AMS8-1AAEM](AMS8-1AAEM.md), [AMS8-1AAM](AMS8-1AAM.md), [AMS8-1AE](AMS8-1AE.md), [AMS8-1AEM](AMS8-1AEM.md), [AMS8-1AM](AMS8-1AM.md), [AMS8-1AN](AMS8-1AN.md), [AMS8-1BA](AMS8-1BA.md), [AMS8-1CA](AMS8-1CA.md), [AMS8-1CAEM](AMS8-1CAEM.md), [AMS8-1CAM](AMS8-1CAM.md), [AMS8-2](AMS8-2.md), [AMS8-2A](AMS8-2A.md), [AMS8-2AA](AMS8-2AA.md), [AMS8-2AAE](AMS8-2AAE.md), [AMS8-2AAEM](AMS8-2AAEM.md), [AMS8-2AAM](AMS8-2AAM.md), [AMS8-2AE](AMS8-2AE.md), [AMS8-2AEM](AMS8-2AEM.md), [AMS8-2AM](AMS8-2AM.md) |
+| Folder | [Products/METERING/AMS8-1A](../Products/METERING/AMS8-1A/) |
+
+## Front panel
+
+<svg class="wbs-panel solo" data-m="AMS8-1A" data-n="Mkiii 8 Channel Audio Monitoring System" data-cat="METERING" role="img" aria-label="AMS8-1A front panel"></svg>
+
+<a id="software"></a>
+
+## Software
+
+The software listings name the AMS8-1A only as part of the [AMS8-1](AMS8-1.md#software) family: its firmware, versions and change notes are on that page (latest: AMS81 PRODUCT REVISIONS 06VA0002; AMS81 PRODUCT REVISIONS — custom projects 06VC0000).
+
+## Photos & scans (2)
+
+| Year | File |  |
+|---|---|---|
+| 2014 | [2014 - AMS8-1A - Rear(OBSOLETE).jpg](../Products/METERING/AMS8-1A/2014%20-%20AMS8-1A%20-%20Rear%28OBSOLETE%29.jpg) | [note](../Products/METERING/AMS8-1A/2014%20-%20AMS8-1A%20-%20Rear%28OBSOLETE%29.jpg.md) |
+| 2014 | [2014 - AMS8-1A - Series Front.jpg](../Products/METERING/AMS8-1A/2014%20-%20AMS8-1A%20-%20Series%20Front.jpg) | [note](../Products/METERING/AMS8-1A/2014%20-%20AMS8-1A%20-%20Series%20Front.jpg.md) |
+
+## Footnotes
+
+1. No AMS8-1A panel sheet from the RD60 period (2012–13) is in the archive; the panels shown are the OCT.19/15 front and MAY 07/15 rear. — `AMS81 - #Master/AMS81 - #ARTWORK #DA #2016/AMS8-1A-FRONT-SILK (CURVES).cdr`
+2. The “CURVES” front file still holds live Arial text, so the labels were re-anchored on the button and knob centres. — `AMS81 - #Master/AMS81 - #ARTWORK #DA #2016/AMS8-1A-FRONT-SILK (CURVES).cdr`
+3. The source text object reads “AMS -8 SERIES” (a space before the dash); it may be a spacing artefact of the conversion rather than the printed legend. — `AMS81 - #Master/AMS81 - #ARTWORK #DA #2016/AMS8-1A-FRONT-SILK (CURVES).cdr`
+4. The rear has a second ⚠ “PLEASE REFER TO MANUAL” by the long option-card slot, as well as DOLBY E METADATA and SERIAL COMM DE9s and an AUX DB25 that RD60 does not use. — `AMS81 - #Master/AMS81 - #ARTWORK #DA #2016/AMS8-M2-Rear-SILK(Curve).cdr`
+5. A sister front sheet, AMS8-1A-FRONT-SILK (AMS8-M24).cdr, sits beside the CURVES file. — `AMS81 - #Master/AMS81 - #ARTWORK #DA #2016/AMS8-1A-FRONT-SILK (AMS8-M24).cdr`

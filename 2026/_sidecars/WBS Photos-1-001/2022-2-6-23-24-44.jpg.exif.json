@@ -1,0 +1,39 @@
+{
+  "filename": "2022-2-6-23-24-44.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/2022-2-6-23-24-44.jpg",
+  "extension": ".jpg",
+  "size_bytes": 3938049,
+  "modified_time": "Sat Oct 17 23:34:15 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "2022",
+    "23",
+    "24",
+    "44"
+  ],
+  "width": 4032,
+  "height": 10128,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "Orientation": "6"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:55",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1988 - B RP2200-02-120 - MACHINE CONTROLS SCHEMATIC - DRN JRG - ENG JRG - ISS 1.jpg",
+  "note": "2022-2-6-23-24-44.jpg.md",
+  "title_block": {
+    "drawing_number": "B RP2200-02-120",
+    "size": "B",
+    "title": "MACHINE CONTROLS / SCHEMATIC",
+    "date": "1/88",
+    "year": 1988,
+    "month": 1,
+    "drawn": "JRG 1/88",
+    "engineer": "JRG (signature)",
+    "signature": "DISC NO: 208, CODE: RP22S120",
+    "issue": "1"
+  }
+}

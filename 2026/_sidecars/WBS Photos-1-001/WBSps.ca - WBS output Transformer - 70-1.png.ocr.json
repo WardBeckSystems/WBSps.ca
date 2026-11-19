@@ -1,0 +1,32 @@
+{
+  "filename": "WBSps.ca - WBS output Transformer - 70-1.png",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca - WBS output Transformer - 70-1.png",
+  "width": 4500,
+  "height": 2702,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    457,
+    164,
+    1356,
+    710
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1966 - 70-1 - OUTPUT TRANSFORMER TYPE 70-1 - CKD R. Beck - ISS 2.png",
+  "note": "WBSps.ca - WBS output Transformer - 70-1.png.md",
+  "title_block": {
+    "drawing_number": "70-1",
+    "title": "OUTPUT TRANSFORMER / TYPE 70-1",
+    "date": "DEC 6/66",
+    "year": 1966,
+    "month": 12,
+    "checked": "R. Beck",
+    "signature": "DWG 70-1; ISSUE 2 DIMENSION SHOWN",
+    "issue": "2"
+  }
+}

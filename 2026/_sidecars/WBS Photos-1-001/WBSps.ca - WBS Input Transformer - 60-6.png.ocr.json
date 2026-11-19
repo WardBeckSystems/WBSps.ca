@@ -1,0 +1,32 @@
+{
+  "filename": "WBSps.ca - WBS Input Transformer - 60-6.png",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca - WBS Input Transformer - 60-6.png",
+  "width": 4117,
+  "height": 2480,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2477,
+    2077,
+    4117,
+    2477
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1968 - 60-6 - 60-6 SYSTEM BRIDGE TRANS - CKD R. Bell - ISS 2.png",
+  "note": "WBSps.ca - WBS Input Transformer - 60-6.png.md",
+  "title_block": {
+    "drawing_number": "60-6",
+    "title": "60-6 / SYSTEM BRIDGE TRANS.",
+    "date": "FEB 1/68",
+    "year": 1968,
+    "month": 2,
+    "checked": "R. Bell (signature)",
+    "signature": "ISS 2 CT ADDED TO SEC, FEB 21/68 RBL; DWG: 60-6",
+    "issue": "2"
+  }
+}

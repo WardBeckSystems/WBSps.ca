@@ -1,0 +1,47 @@
+{
+  "filename": "WBSps.ca - WBS Input Transformer - 60-12.png",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca - WBS Input Transformer - 60-12.png",
+  "extension": ".png",
+  "size_bytes": 313079,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "wbs",
+    "input",
+    "transformer",
+    "60",
+    "12"
+  ],
+  "width": 4113,
+  "height": 2480,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "ExifOffset": "46",
+    "ExifVersion": "0220",
+    "ExifImageWidth": "4113",
+    "ExifImageHeight": "2480",
+    "ImageUniqueID": "9b14d5614369b3ed0000000000000000"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1990 - B 60-12 - 60-12 INPUT TRANSFORMER - DRN GEB - ENG GEB - ISS 2.png",
+  "note": "WBSps.ca - WBS Input Transformer - 60-12.png.md",
+  "title_block": {
+    "drawing_number": "B 60-12",
+    "size": "B",
+    "title": "60-12 / INPUT TRANSFORMER",
+    "date": "4/90",
+    "year": 1990,
+    "month": 4,
+    "drawn": "GEB",
+    "engineer": "GEB 2/83",
+    "signature": "ISS 2 4/90 FIG 2 SHOWED SEC O/P AS 50K OHM GEB",
+    "issue": "2"
+  }
+}

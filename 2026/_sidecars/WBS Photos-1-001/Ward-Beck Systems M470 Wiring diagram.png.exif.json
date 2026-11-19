@@ -1,0 +1,33 @@
+{
+  "filename": "Ward-Beck Systems M470 Wiring diagram.png",
+  "relative_path": "WBSps.env/WBS Photos-1-001/Ward-Beck Systems M470 Wiring diagram.png",
+  "extension": ".png",
+  "size_bytes": 1665423,
+  "modified_time": "Sat Oct 17 23:34:21 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "ward",
+    "beck",
+    "systems",
+    "m470",
+    "wiring",
+    "diagram"
+  ],
+  "width": 1500,
+  "height": 1754,
+  "format": "PNG",
+  "mode": "L",
+  "exif": {},
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/INPUT-PRE-AMPS/M470/19xx - M470 - Input Channel 1.png",
+  "note": "Ward-Beck Systems M470 Wiring diagram.png.md",
+  "title_block": {
+    "title": "Input Channel 1",
+    "models": [
+      "M470"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "M462-562 - P031 - A462-04-004.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/Manuals + tech DOCUMENTS/Modules/M462-562 - P031 - A462-04-004.jpg",
+  "extension": ".jpg",
+  "size_bytes": 628864,
+  "modified_time": "Sun Sep  6 22:13:24 2026",
+  "word_tokens": [
+    "m462",
+    "562",
+    "p031",
+    "a462",
+    "04",
+    "004"
+  ],
+  "width": 1580,
+  "height": 2077,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "ImageWidth": "1664",
+    "ImageLength": "2171",
+    "BitsPerSample": "['8', '8', '8', '8']",
+    "PhotometricInterpretation": "1",
+    "ResolutionUnit": "2",
+    "ExifOffset": "232",
+    "Software": "Adobe Photoshop CS5 Windows",
+    "Orientation": "1",
+    "DateTime": "2011:11:23 18:21:39",
+    "SamplesPerPixel": "4",
+    "XResolution": "300.0",
+    "YResolution": "300.0",
+    "ExifVersion": "0221",
+    "ColorSpace": "65535",
+    "ExifImageWidth": "1580",
+    "ExifImageHeight": "2077"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

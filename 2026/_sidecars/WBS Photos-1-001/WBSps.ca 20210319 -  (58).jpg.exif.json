@@ -1,0 +1,49 @@
+{
+  "filename": "WBSps.ca 20210319 -  (58).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca 20210319 -  (58).jpg",
+  "extension": ".jpg",
+  "size_bytes": 443559,
+  "modified_time": "Sat Oct 17 23:34:21 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "20210319",
+    "(58)"
+  ],
+  "width": 4995,
+  "height": 3202,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4995",
+    "ExifImageHeight": "3202",
+    "ImageUniqueID": "d076ab8715ba3d3b0000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M900/1996 - 900-03-048 - SAS APC-88 BRACE - DRN DRG - ISS 1.jpg",
+  "note": "WBSps.ca 20210319 -  (58).jpg.md",
+  "title_block": {
+    "drawing_number": "D 900-03-048",
+    "size": "D",
+    "title": "SAS / APC-88 / BRACE",
+    "date": "10/96",
+    "year": 1996,
+    "month": 10,
+    "drawn": "DRG (10/96)",
+    "signature": "DISC NO: SYS01 CODE: 900048",
+    "issue": "1",
+    "models": [
+      "APC-88"
+    ]
+  }
+}

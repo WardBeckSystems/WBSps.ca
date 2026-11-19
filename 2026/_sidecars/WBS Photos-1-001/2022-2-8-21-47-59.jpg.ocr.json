@@ -1,0 +1,37 @@
+{
+  "filename": "2022-2-8-21-47-59.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2022-2-8-21-47-59.jpg",
+  "width": 3292,
+  "height": 10160,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    6008,
+    1516,
+    10160,
+    3286
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:55",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M483/1978 - 483-02-002 - M483A MONITOR MODULE - DRN DM-ELJ - ISS 1.jpg",
+  "note": "2022-2-8-21-47-59.jpg.md",
+  "title_block": {
+    "drawing_number": "B 483-02-002",
+    "size": "B",
+    "title": "M483A / MONITOR MODULE",
+    "date": "MARCH 78",
+    "year": 1978,
+    "month": 3,
+    "drawn": "DM/ELJ",
+    "checked": "signature 2-28-78",
+    "issue": "1",
+    "job": "483",
+    "models": [
+      "M483A"
+    ]
+  }
+}

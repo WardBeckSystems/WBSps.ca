@@ -1,0 +1,62 @@
+;Fader program for the M926
+
+	list	p=16C73A
+	#include "P16C63A.INC"
+
+		org	0
+		call	init
+		goto	main
+
+		org	20h
+fader_reg	res	1
+
+		org	4h
+main		call	AtoD
+		call	fader_output
+		goto	main
+
+init		bsf	STATUS,5
+		clrf	TRISA
+		bcf	STATUS,5
+		movlw	0xA1
+		movwf	ADCON0
+		return
+
+AtoD		movlw	0xA5
+		movwf	ADCON0
+ad_loop		btfsc	ADCON0,2
+		goto	ad_loop
+		movf	ADRES,w
+		movwf	fader_reg
+		subwf	pre_fader,w
+		btfsc	STATUS,Z
+		return
+		movf	fader_reg,w
+		movwf	pre_fader		
+		bsf	fader_flag,0
+		return
+
+fader_output	btfss	fader_flag,0
+		return
+		bcf	PORTA,2
+		bcf	PORTA,0
+		movlw	0x04
+		movwf	fader_count
+fader_shift1	bcf	PORTA,1
+		bsf	PORTA,2
+		bcf	PORTA,2
+		decfsz	fader_count
+		goto	fader_shift1
+		movlw	0x0C
+		movwf	fader_count
+fader_shift2	bcf	PORTA,1
+		btfsc	fader_reg,0
+		bsf	PORTA,1
+		bsf	PORTA,2
+		bcf	PORTA,2
+		rrf	fader_reg,1
+		decfsz	fader_count
+		goto	fader_shift2
+		bsf	PORTA,0
+		bcf	PORTA,0
+		return	

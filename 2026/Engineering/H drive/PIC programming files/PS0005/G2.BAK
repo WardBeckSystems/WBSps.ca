@@ -1,0 +1,200 @@
+        LIST    F=INHX8M,R=DEC,P=16C54
+; ----------   PIC16C5X HEADER   ----------
+
+W       EQU     0
+
+; RESET ADDRESSES
+
+PIC54   EQU     $1FF
+PIC55   EQU     $1FF
+PIC56   EQU     $3FF
+PIC57   EQU     $7FF
+
+; STATUS WORD REGISTER f3
+
+C       EQU     0
+DC      EQU     1
+Z       EQU     2
+PD      EQU     3
+TO      EQU     4
+PA0     EQU     5
+PA1     EQU     6
+PA2     EQU     7
+
+; OPERATIONAL REGISTER FILES
+
+IND     EQU     00
+RTCC    EQU     01
+PC      EQU     02
+STATUS  EQU     03
+FSR     EQU     04
+PORTA   EQU     05
+PORTB   EQU     06
+PORTC   EQU     07
+
+; ----------   END HEADER   ----------
+
+IPS1    EQU     08
+IPS2    EQU     09
+IPS3    EQU     10
+IPS4    EQU     11
+
+TEMP    EQU     12
+
+; ----------   PORTB BITS   ----------
+
+CH1P1   EQU     4               ; P1 INPUT CHANNEL 1
+CH1P2   EQU     5               ; P2 INPUT
+CH2P1   EQU     6               ; P1 INPUT CHANNEL 2
+CH2P2   EQU     7               ; P2 INPUT
+
+; ----------   EQUATES   ----------
+
+                                ; USE 4K7 AND 330pF FOR RC OSC
+                                ; OS2 = 125kHz
+DELAY   EQU     101             ; 5 msec with OPTION $01
+
+                                ; PORTB DATA DIRECTION
+PBDSKD  EQU     $30             ; PORTB SCAN KEYBOARD/DISPLAY
+PBDIPSW EQU     $F0             ; PORTB READ INPUTS/SWITCHES
+
+                                ; PORTB OUTPUTS FOR VARIOUS FUNCTIONS
+DCOL1   EQU     64              ; TURN ON DISPLAY COLUMN 1
+DCOL2   EQU     128             ; TURN ON DISPLAY COLUMN 2
+KEYR1   EQU     128+64+2        ; FIRST KEYBOARD ROW
+
+                                ; DECODER ADDRESSES
+PBIP    EQU     128+64+8        ; TALKBACK AND REMOTE INPUTS
+PBSW1   EQU     PBIP+1          ; SWITCH 1
+PBSW2   EQU     PBIP+2          ; SWITCH 2
+PBSW3   EQU     PBIP+3          ; SWITCH 3
+PBNONE  EQU     $0F             ; DISABLE ALL BUFFERS BY SELECTING NONE
+
+        ORG     $000
+
+; ----------   NEXT STATE TABLE1   ----------
+                        ; SET BIT 0 OF THE STATE TO INPUT
+                        ; BEFORE CALLING NEXT1
+KEYBIT  EQU     3       ; BIT TEST KEYBIT AFTER CALLING NEXT1
+KCH     EQU     4
+
+NEXT1   ANDLW   $0F     ; DEBOUNCE INPUT STATE MACHINE
+        ADDWF   PC
+
+        RETLW   0       ; KEYBIT CLEAR WHILE INPUT=0
+        RETLW   2
+        RETLW   0
+        RETLW   4
+        RETLW   0
+        RETLW   6
+        RETLW   0
+        RETLW   8+16    ; 4TH INPUT=1 SO SET KEYBIT
+
+        RETLW   10
+        RETLW   8       ; KEYBIT SET WHILE INPUT=1
+        RETLW   12
+        RETLW   8
+        RETLW   14
+        RETLW   8
+        RETLW   0+16    ; 4TH INPUT=0 SO CLEAR KEYBIT
+        RETLW   8
+
+; ----------   OUTPUT TABLE2   ----------
+
+OUT2    ANDLW   $0F
+        ADDWF   PC
+
+        RETLW   0000B
+        RETLW   0000B
+        RETLW   0000B
+        RETLW   0000B
+
+        RETLW   0001B
+        RETLW   0101B
+        RETLW   0001B
+        RETLW   0001B
+
+        RETLW   0010B
+        RETLW   0010B
+        RETLW   0110B
+        RETLW   0110B
+
+        RETLW   0010B
+        RETLW   0010B
+        RETLW   0110B
+        RETLW   0110B
+
+; ----------   MAIN CODE   ----------
+
+        ORG     $1C8
+INIT    XORLW   $FF             ; UNPROGRAMED NOP
+
+        CLRF    IPS1
+        CLRF    IPS2
+        CLRF    IPS3
+        CLRF    IPS4
+
+        MOVLW   $0F             ; INITIALIZE PORTA
+        MOVWF   PORTA
+TOP     CLRW
+        TRIS    PORTA
+
+        MOVLW   PBIP            ; INITIALIZE PORTB
+        MOVWF   PORTB
+        MOVLW   PBDIPSW
+        TRIS    PORTB
+
+        MOVLW   $01             ; RTCC = OSC2 / 4
+        OPTION
+
+WAIT    MOVF    RTCC,W
+        BTFSS   STATUS,Z
+        GOTO    WAIT            ; WAIT FOR TIME OUT
+
+        MOVLW   DELAY
+        MOVWF   RTCC            ; RESET COUNTER
+
+        BCF     PORTA,3
+
+        BTFSC   PORTB,CH1P1
+        INCF    IPS1
+        MOVF    IPS1,W
+        CALL    NEXT1
+        MOVWF   IPS1
+
+        BTFSC   PORTB,CH1P2
+        INCF    IPS2
+        MOVF    IPS2,W
+        CALL    NEXT1
+        MOVWF   IPS2
+
+        BTFSC   PORTB,CH2P1
+        INCF    IPS3
+        MOVF    IPS3,W
+        CALL    NEXT1
+        MOVWF   IPS3
+
+        BTFSC   PORTB,CH2P2
+        INCF    IPS4
+        MOVF    IPS4,W
+        CALL    NEXT1
+        MOVWF   IPS4
+
+        CLRF    TEMP
+        BTFSC   IPS1,KEYBIT
+        BSF     TEMP,3
+        BTFSC   IPS2,KEYBIT
+        BSF     TEMP,2
+        BTFSC   IPS3,KEYBIT
+        BSF     TEMP,1
+        BTFSC   IPS4,KEYBIT
+        BSF     TEMP,0
+        MOVF    TEMP,W
+        CALL    OUT2
+        XORLW   $FF
+        MOVWF   PORTA
+        GOTO    TOP
+
+        ORG     PIC54
+RESET   GOTO    INIT
+        END

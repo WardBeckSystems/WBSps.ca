@@ -1,0 +1,37 @@
+{
+  "filename": "406-04-010.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/406-04-010.jpg",
+  "width": 4952,
+  "height": 3500,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1980,
+    2634,
+    4952,
+    3261
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:55",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/DYNAMICS/M406/19xx - M406 - 406-04-010.jpg",
+  "note": "406-04-010.jpg.md",
+  "title_block": {
+    "drawing_number": "B 406-04-010",
+    "size": "B",
+    "title": "M406B(C) COMPRESSOR / MODULE LAYOUT",
+    "date": "MARCH 72",
+    "year": 1972,
+    "month": 3,
+    "drawn": "MRW",
+    "checked": "RAX",
+    "issue": "2",
+    "models": [
+      "M406B",
+      "M406C"
+    ]
+  }
+}

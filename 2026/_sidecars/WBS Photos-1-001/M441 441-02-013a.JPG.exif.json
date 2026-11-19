@@ -1,0 +1,44 @@
+{
+  "filename": "M441 441-02-013a.JPG",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M441 441-02-013a.JPG",
+  "extension": ".jpg",
+  "size_bytes": 4713939,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m441",
+    "441",
+    "02",
+    "013a"
+  ],
+  "width": 5102,
+  "height": 6599,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "5102",
+    "ExifImageHeight": "6599",
+    "ImageUniqueID": "27998002bafe07480000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:58",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/INPUT-PRE-AMPS/M441/19xx - 441-02-013 - EL AMPLIFIER ...EMATIC (partial; model text ...411M) - ISS 3.jpg",
+  "note": "M441 441-02-013a.JPG.md",
+  "title_block": {
+    "drawing_number": "441-02-013",
+    "title": "...EL AMPLIFIER / ...EMATIC (partial; model text ...411M)",
+    "issue": "3",
+    "models": [
+      "M441"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "filename": "M612 - P018 - LB612-02-001 05(1).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M612 - P018 - LB612-02-001 05(1).jpg",
+  "extension": ".jpg",
+  "size_bytes": 512928,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m612",
+    "p018",
+    "lb612",
+    "02",
+    "001",
+    "05(1)"
+  ],
+  "width": 1700,
+  "height": 2183,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "1700",
+    "ExifImageHeight": "2183",
+    "ImageUniqueID": "b9a008fe5df36b250000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/AMPLIFIERS/M612/1981 - 612-02-001 - DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. Mahoney - ISS 18 (2).jpg",
+  "note": "M612 - P018 - LB612-02-001 05(1).jpg.md",
+  "title_block": {
+    "drawing_number": "LB 612-02-001",
+    "size": "LB",
+    "title": "DISTRIBUTION AMPLIFIER / SCHEMATIC",
+    "date": "11/81",
+    "year": 1981,
+    "month": 11,
+    "drawn": "P. Mahoney",
+    "signature": "ISS 17 1/78 REDRAWN; ISS 18 11/81 R85-150K M.L",
+    "issue": "18",
+    "models": [
+      "M612"
+    ]
+  }
+}

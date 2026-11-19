@@ -1,0 +1,30 @@
+{
+  "filename": "M441 441-02-013a.JPG",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/M441 441-02-013a.JPG",
+  "width": 5102,
+  "height": 6599,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    4276,
+    3249,
+    5032,
+    5234
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:58",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/INPUT-PRE-AMPS/M441/19xx - 441-02-013 - EL AMPLIFIER ...EMATIC (partial; model text ...411M) - ISS 3.jpg",
+  "note": "M441 441-02-013a.JPG.md",
+  "title_block": {
+    "drawing_number": "441-02-013",
+    "title": "...EL AMPLIFIER / ...EMATIC (partial; model text ...411M)",
+    "issue": "3",
+    "models": [
+      "M441"
+    ]
+  }
+}

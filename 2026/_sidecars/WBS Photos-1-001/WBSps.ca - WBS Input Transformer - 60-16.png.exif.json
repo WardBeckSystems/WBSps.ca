@@ -1,0 +1,48 @@
+{
+  "filename": "WBSps.ca - WBS Input Transformer - 60-16.png",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca - WBS Input Transformer - 60-16.png",
+  "extension": ".png",
+  "size_bytes": 558281,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "wbs",
+    "input",
+    "transformer",
+    "60",
+    "16"
+  ],
+  "width": 4400,
+  "height": 2673,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "ExifOffset": "46",
+    "ExifVersion": "0220",
+    "ExifImageWidth": "4400",
+    "ExifImageHeight": "2673",
+    "ImageUniqueID": "e462e0aa31a588c60000000000000000"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1987 - B 60-16 - 60-16 INPUT TRANSFORMER (BEYER TR BV-351-005-003) - DRN GEB - ISS 2.png",
+  "note": "WBSps.ca - WBS Input Transformer - 60-16.png.md",
+  "title_block": {
+    "drawing_number": "B 60-16",
+    "size": "B",
+    "title": "60-16 / INPUT TRANSFORMER / (BEYER TR/BV-351-005-003)",
+    "date": "7/87",
+    "year": 1987,
+    "month": 7,
+    "drawn": "GEB 7/87",
+    "checked": "R. Bell (signature)",
+    "approved": "R. Bell (signature)",
+    "signature": "ISS 2 SEPT 18/87 WIRE COLOURS CHANGED TO MATCH STANDARD BEYER XFMR GEB; SCALE 2:1",
+    "issue": "2"
+  }
+}

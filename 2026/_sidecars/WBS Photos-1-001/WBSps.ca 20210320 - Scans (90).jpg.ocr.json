@@ -1,0 +1,36 @@
+{
+  "filename": "WBSps.ca 20210320 - Scans (90).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (90).jpg",
+  "width": 4757,
+  "height": 3363,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2768,
+    2386,
+    4652,
+    3188
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/METER/M405/1995 - 405-03-082 - M405M PCB CONNECTOR BRACKET - DRN DRG - ISS 1.jpg",
+  "note": "WBSps.ca 20210320 - Scans (90).jpg.md",
+  "title_block": {
+    "drawing_number": "D 405-03-082",
+    "size": "D",
+    "title": "M405M / PCB CONNECTOR BRACKET",
+    "date": "1/95",
+    "year": 1995,
+    "month": 1,
+    "drawn": "DRG (1/95)",
+    "signature": "DISC NO: 486 CODE: 405082",
+    "issue": "1",
+    "models": [
+      "M405M"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "filename": "2022-2-8-11-48-35.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2022-2-8-11-48-35.jpg",
+  "width": 3300,
+  "height": 10192,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": null,
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:55",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/AMPLIFIERS/M808/19xx - 808-02-003 - M808B 8x1 STEREO SWITCHER MODULE SCHEMATIC - ISS 1.jpg",
+  "note": "2022-2-8-11-48-35.jpg.md",
+  "title_block": {
+    "drawing_number": "LB 808-02-003",
+    "size": "LB",
+    "title": "M808B / 8x1 STEREO SWITCHER / MODULE SCHEMATIC",
+    "issue": "1",
+    "models": [
+      "M808B"
+    ]
+  }
+}

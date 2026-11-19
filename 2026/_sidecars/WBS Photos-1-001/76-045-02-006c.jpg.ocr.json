@@ -1,0 +1,33 @@
+{
+  "filename": "76-045-02-006c.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/76-045-02-006c.jpg",
+  "width": 4956,
+  "height": 3504,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1666,
+    2597,
+    2635,
+    3259
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:56",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1970-1979/76045 - CFTO/1977 - 76045-02-006 - CR MONITOR #1 SCHEMATIC - DRN ELJ - ISS 1 (2).jpg",
+  "note": "76-045-02-006c.jpg.md",
+  "title_block": {
+    "drawing_number": "B 76045-02-006",
+    "size": "B",
+    "title": "CR MONITOR #1 / SCHEMATIC",
+    "date": "JAN 77",
+    "year": 1977,
+    "month": 1,
+    "drawn": "ELJ",
+    "checked": "P.C.",
+    "issue": "1"
+  }
+}

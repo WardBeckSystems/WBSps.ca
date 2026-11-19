@@ -1,0 +1,44 @@
+{
+  "filename": "M490F - 014.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M490F - 014.jpg",
+  "extension": ".jpg",
+  "size_bytes": 403458,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m490f",
+    "014"
+  ],
+  "width": 1145,
+  "height": 1544,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "ResolutionUnit": "2",
+    "ExifOffset": "176",
+    "Software": "Adobe Photoshop CS3 Macintosh",
+    "Orientation": "1",
+    "DateTime": "2011:09:02 21:30:58",
+    "YCbCrSubSampling": "['1', '1']",
+    "XResolution": "72.0",
+    "YResolution": "72.0",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "1145",
+    "ExifImageHeight": "1544",
+    "ImageUniqueID": "8ede5b5025df1eeb0000000000000000",
+    "ExifInteroperabilityOffset": "288"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/INPUT-PRE-AMPS/M490F/19xx - M490F - INTEGRATED CIRCUIT DATA 74C76 DUAL J-K FLIP-FLOP WITH CLEAR AND PRESET.jpg",
+  "note": "M490F - 014.jpg.md",
+  "title_block": {
+    "title": "INTEGRATED CIRCUIT DATA 74C76 DUAL J-K FLIP-FLOP WITH CLEAR AND PRESET",
+    "models": [
+      "M490F"
+    ]
+  }
+}

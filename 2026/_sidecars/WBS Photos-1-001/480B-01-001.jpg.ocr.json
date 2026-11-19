@@ -1,0 +1,37 @@
+{
+  "filename": "480B-01-001.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/480B-01-001.jpg",
+  "width": 3500,
+  "height": 4952,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2387,
+    0,
+    3229,
+    1746
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:56",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/INPUT-PRE-AMPS/M480/1979 - 480-01-001 - M480B INPUT MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ENG MRW - ISS 1.jpg",
+  "note": "480B-01-001.jpg.md",
+  "title_block": {
+    "drawing_number": "B 480-01-001",
+    "size": "B",
+    "title": "M480B / INPUT MODULE / FUNCTIONAL DIAGRAM",
+    "date": "11/79",
+    "year": 1979,
+    "month": 11,
+    "drawn": "P. MAHONEY",
+    "checked": "initials (illegible)",
+    "engineer": "MRW 11/79",
+    "issue": "1",
+    "models": [
+      "M480B"
+    ]
+  }
+}

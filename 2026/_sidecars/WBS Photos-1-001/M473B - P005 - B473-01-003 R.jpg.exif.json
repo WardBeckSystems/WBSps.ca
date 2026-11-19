@@ -1,0 +1,50 @@
+{
+  "filename": "M473B - P005 - B473-01-003 R.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M473B - P005 - B473-01-003 R.jpg",
+  "extension": ".jpg",
+  "size_bytes": 1103535,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m473b",
+    "p005",
+    "b473",
+    "01",
+    "003"
+  ],
+  "width": 1693,
+  "height": 2179,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "1693",
+    "ExifImageHeight": "2179",
+    "ImageUniqueID": "a262ff179da271920000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/SUMMING/M473/1984 - 473-01-003 - M473B STEREO SUBMASTER MODULE FUNCTIONAL - DRN JP - ISS 1.jpg",
+  "note": "M473B - P005 - B473-01-003 R.jpg.md",
+  "title_block": {
+    "drawing_number": "B 473-01-003",
+    "size": "B",
+    "title": "M473B / STEREO SUBMASTER MODULE / FUNCTIONAL",
+    "date": "07/84",
+    "year": 1984,
+    "month": 7,
+    "drawn": "JP/07/84",
+    "issue": "1",
+    "models": [
+      "M473B"
+    ]
+  }
+}

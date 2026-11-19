@@ -1,0 +1,10 @@
+{
+  "filename": "WBS ENG Memo 15.JPG",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/wbsPS-NOT UPLOADED/WBS ENG Memo 15.JPG",
+  "width": 1240,
+  "height": 1753,
+  "format": "JPEG",
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "WARD-BECK\nBYSTEmS\nLTD_\nLat\nENG INEERING\nINFORMATION\nMEMORANDUM\nNo _\n15\nBY :\nR.K\nBECK\nDATE:\nAugust\n26 ,\n1980\nDISTRIBUTION:\nSales\nTest Department\nApplicable\nCustomers\nSUBJECT:\n4-109\nSeries\nAmplifiers\nPURPOSE :\nTo\nimprove\namplifier\nstability\nas\nresult\nof\nvariations\nin\nload\ncharacteristics\nand\nparameter\nchanges\nof\nintegrated\ncircuit\n21\nas\nresult\nof\naging.\nAPPL ICABILITY:\nAMI\n4-109\namplifiers\nas\nrequired.\nPROCEDURE:\n1 )\nUse\nhigh\nfrequency\noscilloscope\nsuch\nas\nTextronix\n465\ntype\nwith\ndivide\nby\n10\nhigh\nimpedance\nprobe.\n2 )\nWith\nthe\nmodule\nin\nquestion\noperating\nin\nthe\nconsole\nsystem\nmounted\non\nan\nextender,\nexamine\npins\nand\n13\nof\n21\nfor\nthe\npresence\nof\nhigh\nfrequency\noscillations_\n(Be\naware\nof\nthe\npossibility\nof\npicking\nup\nextraneous\nrf\nsignals_\nespecially\nin\nTV\ninstallations\nor\nnear\ntransmitters.\n3 )\nIf\nhigh\nfrequency\noscillation\nis\npresent,\nchange\nC5\nand\nC12\nl0\n0.022\nmfd.\nCheck\nagain\nfor\nthe\npresence\nof\nany\nosciflation.\n4)\nIf\nthe\noscillation\npersists,\nreplace\nZ1 ,\nusing\nFairchild\nuA739DC\nin\nthe\nceramic package.\nREFERENCES:\nSchematic\nfor\n4-109\namplifiers\nComponent\nLayout\nfor\n4-019\namplifiers.\nIssue."
+}

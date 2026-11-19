@@ -1,0 +1,56 @@
+{
+  "filename": "900439-04-001.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/900439-04-001.jpg",
+  "extension": ".jpg",
+  "size_bytes": 20822380,
+  "modified_time": "Sat Oct 17 23:34:17 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "900439",
+    "04",
+    "001"
+  ],
+  "width": 10200,
+  "height": 6600,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "ResolutionUnit": "2",
+    "ExifOffset": "176",
+    "Software": "Adobe Photoshop CS3 Macintosh",
+    "Orientation": "1",
+    "DateTime": "2014:01:12 11:37:56",
+    "YCbCrSubSampling": "['1', '1']",
+    "XResolution": "300.0",
+    "YResolution": "300.0",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "10200",
+    "ExifImageHeight": "6600",
+    "ImageUniqueID": "2ac3194124bdb0220000000000000000",
+    "ExifInteroperabilityOffset": "288"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:57",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/900438 - CHIN Radio/1990 - 900438-04-001 - CHIN RADIO R1400 RADIO CONSOLE OUTLINE & LAYOUT - DRN GEB - ENG GEB - ISS 2.jpg",
+  "note": "900439-04-001.jpg.md",
+  "title_block": {
+    "drawing_number": "D 900438-04-001",
+    "size": "D",
+    "title": "CHIN RADIO R1400 / RADIO CONSOLE / OUTLINE & LAYOUT",
+    "date": "8/90",
+    "year": 1990,
+    "month": 8,
+    "drawn": "GEB",
+    "engineer": "GEB 8/90",
+    "signature": "ISS 2 REVISED AS PER CUSTOMER APPROVAL GEB; scale 1:4",
+    "issue": "2",
+    "job": "DISC NO: 371 CODE: 00438L01",
+    "customer": "CHIN RADIO",
+    "models": [
+      "R1400"
+    ]
+  }
+}

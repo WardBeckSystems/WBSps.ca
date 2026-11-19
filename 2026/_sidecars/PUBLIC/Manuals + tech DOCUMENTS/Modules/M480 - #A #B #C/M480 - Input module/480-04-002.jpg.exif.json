@@ -1,0 +1,23 @@
+{
+  "filename": "480-04-002.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/Manuals + tech DOCUMENTS/Modules/M480 - #A #B #C/M480 - Input module/480-04-002.jpg",
+  "extension": ".jpg",
+  "size_bytes": 5889929,
+  "modified_time": "Sun Sep  6 22:16:46 2026",
+  "word_tokens": [
+    "480",
+    "04",
+    "002"
+  ],
+  "width": 3500,
+  "height": 4952,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "ExifOffset": "26",
+    "ExifImageWidth": "3500",
+    "ExifImageHeight": "4952"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

@@ -1,0 +1,48 @@
+{
+  "filename": "M490C - 018.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M490C - 018.jpg",
+  "extension": ".jpg",
+  "size_bytes": 4045274,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m490c",
+    "018"
+  ],
+  "width": 3504,
+  "height": 4956,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "3504",
+    "ExifImageHeight": "4956",
+    "ImageUniqueID": "088e1393699981c40000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/INPUT-PRE-AMPS/M490/1978 - 490-06-004 - M490C LINE INPUT MODULE COMPONENT LAYOUT - DRN GEB - ENG GEB.jpg",
+  "note": "M490C - 018.jpg.md",
+  "title_block": {
+    "drawing_number": "B 490-06-004",
+    "size": "B",
+    "title": "M490C / LINE INPUT MODULE / COMPONENT LAYOUT",
+    "date": "1/78",
+    "year": 1978,
+    "month": 1,
+    "drawn": "GEB",
+    "checked": "(signature)",
+    "engineer": "GEB 1/78",
+    "models": [
+      "M490C"
+    ]
+  }
+}

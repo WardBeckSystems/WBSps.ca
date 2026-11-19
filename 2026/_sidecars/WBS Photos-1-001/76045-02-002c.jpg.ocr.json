@@ -1,0 +1,31 @@
+{
+  "filename": "76045-02-002c.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/76045-02-002c.jpg",
+  "width": 3504,
+  "height": 4956,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    29,
+    417,
+    694,
+    2571
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:56",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1970-1979/76045 - CFTO/1977 - 76045-02-002 - DRN ELJ.jpg",
+  "note": "76045-02-002c.jpg.md",
+  "title_block": {
+    "drawing_number": "76045-02-002",
+    "size": "B",
+    "date": "JAN 77",
+    "year": 1977,
+    "month": 1,
+    "drawn": "ELJ",
+    "checked": "P.C."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "filename": "WBSps.ca 20210320 - Scans (126).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (126).jpg",
+  "width": 4757,
+  "height": 3363,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2759,
+    2365,
+    4631,
+    3247
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M568/1987 - 568-03-031 - EXTRUSION - DRN DS - ISS 2.jpg",
+  "note": "WBSps.ca 20210320 - Scans (126).jpg.md",
+  "title_block": {
+    "drawing_number": "B 568-03-031",
+    "size": "B",
+    "title": "EXTRUSION",
+    "date": "11/87",
+    "year": 1987,
+    "month": 11,
+    "drawn": "D.S. 11/87",
+    "signature": "ISS 2 11/87 #2 CSK HOLES ADDED, 0.691 W 0.570; DISC NO: 195 CODE: M568M31",
+    "issue": "2"
+  }
+}

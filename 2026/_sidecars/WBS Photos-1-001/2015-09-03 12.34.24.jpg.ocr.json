@@ -1,0 +1,30 @@
+{
+  "filename": "2015-09-03 12.34.24.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2015-09-03 12.34.24.jpg",
+  "width": 2592,
+  "height": 1936,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    271,
+    1020,
+    442,
+    1393
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M400/19xx - 400-02-101 - M460 SERIES TEST JIG SCHEMATIC (T460).jpg",
+  "note": "2015-09-03 12.34.24.jpg.md",
+  "title_block": {
+    "drawing_number": "C 400-02-101",
+    "size": "C",
+    "title": "M460 SERIES TEST JIG / SCHEMATIC (T460)",
+    "models": [
+      "M460"
+    ]
+  }
+}

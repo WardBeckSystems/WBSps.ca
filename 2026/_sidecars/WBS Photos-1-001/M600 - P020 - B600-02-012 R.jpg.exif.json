@@ -1,0 +1,46 @@
+{
+  "filename": "M600 - P020 - B600-02-012 R.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M600 - P020 - B600-02-012 R.jpg",
+  "extension": ".jpg",
+  "size_bytes": 276702,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m600",
+    "p020",
+    "b600",
+    "02",
+    "012"
+  ],
+  "width": 1700,
+  "height": 2168,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "1700",
+    "ExifImageHeight": "2168",
+    "ImageUniqueID": "0a7be9b424616aaa0000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/AMPLIFIERS/M600/19xx - 600-02-012 - AUDIO AMPLIFIER TYPICAL SYSTEM WIRING SCHEMATIC - ISS 1.jpg",
+  "note": "M600 - P020 - B600-02-012 R.jpg.md",
+  "title_block": {
+    "drawing_number": "B 600-02-012",
+    "size": "B",
+    "title": "AUDIO AMPLIFIER / TYPICAL SYSTEM WIRING SCHEMATIC",
+    "issue": "1",
+    "models": [
+      "M600"
+    ]
+  }
+}

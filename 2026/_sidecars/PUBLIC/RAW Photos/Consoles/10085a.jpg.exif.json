@@ -1,0 +1,24 @@
+{
+  "filename": "10085a.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/RAW Photos/Consoles/10085a.jpg",
+  "extension": ".jpg",
+  "size_bytes": 110537,
+  "modified_time": "Sun Sep  6 22:06:29 2026",
+  "word_tokens": [
+    "10085a"
+  ],
+  "width": 640,
+  "height": 438,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "ResolutionUnit": "2",
+    "ExifOffset": "78",
+    "XResolution": "180.0",
+    "YResolution": "180.0",
+    "ExifImageWidth": "640",
+    "ExifImageHeight": "438"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

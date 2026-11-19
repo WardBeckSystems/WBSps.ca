@@ -1,0 +1,50 @@
+{
+  "filename": "042B.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/042B.jpg",
+  "extension": ".jpg",
+  "size_bytes": 1821991,
+  "modified_time": "Sat Oct 17 23:34:14 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "042b"
+  ],
+  "width": 4385,
+  "height": 2309,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "ResolutionUnit": "2",
+    "ExifOffset": "122",
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "XResolution": "72.0",
+    "YResolution": "72.0",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4385",
+    "ExifImageHeight": "2309",
+    "ImageUniqueID": "097748b8cfb033c80000000000000000",
+    "ExifInteroperabilityOffset": "234"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:53",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/Models/ST3642/1988 - 3642-04-002 - STEREO TELEVISION CONSOLE FRONT VIEW LAYOUT - DRN JRG - ISS 2.jpg",
+  "note": "042B.jpg.md",
+  "title_block": {
+    "drawing_number": "D 3642-04-002",
+    "size": "D",
+    "title": "ST3642 / STEREO TELEVISION CONSOLE / FRONT VIEW LAYOUT",
+    "date": "4/88",
+    "year": 1988,
+    "month": 4,
+    "drawn": "JRG",
+    "signature": "ISS 2 4/88 REDRAWN; CODE 3642L02; DISC NO 4",
+    "issue": "2",
+    "models": [
+      "ST3642"
+    ]
+  }
+}

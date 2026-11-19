@@ -1,0 +1,151 @@
+
+
+    Design Rule Check Report                                      M926-1.PCB
+
+                                      s102a
+
+    ========================================================================
+
+    DRC Clearances (in mils)
+    ------------------------
+
+                   Top   Bot  Mid1  Mid2  Mid3  Mid4  Mid5  Mid6  Mid7  Mid8
+
+      Pad-to-Pad     8     8     8     8     8     8     8     8     8     8
+     Pad-to-Line     8     8     8     8     8     8     8     8     8     8
+    Line-to-Line     8     8     8     8     8     8     8     8     8     8
+    
+    Hole-to-Hole    13
+    
+
+    DRC Report Options
+    ------------------
+
+    Clearance Violations:             enabled
+    Text Violations:                  enabled
+    Net List Violations:              disabled
+    Single Node Routes:               enabled
+    Unconnected Pins:                 disabled
+    Unplaced Nodes:                   disabled
+    
+
+    DRC Errors
+    ----------
+
+    CLEARANCE VIOLATION
+       Text at (14221,4721) to (14229,4729) [Mid layer #1]
+       Pad C10-1 at (14225,4750) 
+       Calculated clearance:  0
+    CLEARANCE VIOLATION
+       Pad P1- at (15575,5510) 
+       Line at (15650,3600) to (15650,7300) [Bottom layer]
+       Calculated clearance:  6
+    
+    DRC Summary
+    -----------
+
+            2 errors detected
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           VIDEOQUIP RESEARCH LIMITED
+
+    26-Feb-97  12:15                                                 Page  1

@@ -1,0 +1,35 @@
+{
+  "filename": "M538 - 011.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M538 - 011.jpg",
+  "extension": ".jpg",
+  "size_bytes": 5888526,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m538",
+    "011"
+  ],
+  "width": 3504,
+  "height": 4956,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "ExifOffset": "26",
+    "ExifImageWidth": "3504",
+    "ExifImageHeight": "4956"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/ROUTING/M538/19xx - M538 - 011.jpg",
+  "note": "M538 - 011.jpg.md",
+  "title_block": {
+    "drawing_number": "B 538-01-003",
+    "size": "B",
+    "title": "4x1 SWITCHER MODULE / FUNCTIONAL",
+    "models": [
+      "M538B"
+    ]
+  }
+}

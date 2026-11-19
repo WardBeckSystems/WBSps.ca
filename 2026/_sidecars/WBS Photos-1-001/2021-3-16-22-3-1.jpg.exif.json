@@ -1,0 +1,45 @@
+{
+  "filename": "2021-3-16-22-3-1.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/2021-3-16-22-3-1.jpg",
+  "extension": ".jpg",
+  "size_bytes": 493823,
+  "modified_time": "Sat Oct 17 23:34:15 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "2021",
+    "16",
+    "22"
+  ],
+  "width": 4962,
+  "height": 3224,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4962",
+    "ExifImageHeight": "3224",
+    "ImageUniqueID": "60a0287ec7a3f7dd0000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/940443/1994 - 940443-03-010 - IKR-4A PANEL - DRN DRG - ISS 1.jpg",
+  "note": "2021-3-16-22-3-1.jpg.md",
+  "title_block": {
+    "drawing_number": "D 940443-03-010",
+    "size": "D",
+    "title": "IKR-4A / PANEL",
+    "drawn": "DRG",
+    "signature": "DISC NO: SYS01; CODE: 94443M10; SCALE 1:1; handwritten 'SEE ...' above",
+    "issue": "1",
+    "models": [
+      "IKR-4A"
+    ]
+  }
+}

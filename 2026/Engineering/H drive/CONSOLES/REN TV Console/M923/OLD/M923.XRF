@@ -1,0 +1,276 @@
+M921 INPUT MODULE PREAMPLIFIER                Revised:  February  2, 1996
+C 921-02-002                                  Revision: 0
+Cross Reference               February    2, 1996     8:14:16     Page    1
+
+ Item   Part       Reference  SheetName   Sheet  Filename    
+____________________________________________________________________________
+
+    1   0.1/50     CX24                       2  M921IP2.SCH 
+    2   0.1/50     CX29                       2  M921IP2.SCH 
+    3   0.1/50     CX30                       2  M921IP2.SCH 
+    4   0.1/50     CX31                       2  M921IP2.SCH 
+    5   0.1/50     CX37                       3  M921IP3.SCH 
+    6   0.1/50     CX38                       3  M921IP3.SCH 
+    7   0.1/50     CX48                       3  M921IP3.SCH 
+    8   0.1/50     CX50                       3  M921IP3.SCH 
+    9   0.1/50     CX53                       3  M921IP3.SCH 
+   10   0.1/50     CX57                       3  M921IP3.SCH 
+   11   0.1/50     CX62                       3  M921IP3.SCH 
+   12   0.1/50     CX64                       3  M921IP3.SCH 
+   13   0.068      CX18                       2  M921IP2.SCH 
+   14   0.068      CX19                       2  M921IP2.SCH 
+   15   0.068      CX26                       2  M921IP2.SCH 
+   16   0.068      CX27                       2  M921IP2.SCH 
+   17   1K         RX30       <<<root>>>      1  M921IP.SCH  
+   18   1K         RX31       <<<root>>>      1  M921IP.SCH  
+   19   1K         RX48                       2  M921IP2.SCH 
+   20   1K         RX61                       2  M921IP2.SCH 
+   21   1K2        RX34       <<<root>>>      1  M921IP.SCH  
+   22   1K2        RX33       <<<root>>>      1  M921IP.SCH  
+   23   1K8        RX36       <<<root>>>      1  M921IP.SCH  
+   24   1M         RX56                       2  M921IP2.SCH 
+   25   1M         RX50                       2  M921IP2.SCH 
+   26   1N4148     DX1        <<<root>>>      1  M921IP.SCH  
+   27   1N4148     DX2        <<<root>>>      1  M921IP.SCH  
+   28   1N4148     DX3        <<<root>>>      1  M921IP.SCH  
+   29   1N4148     DX4        <<<root>>>      1  M921IP.SCH  
+   30   1N4148     DX5        <<<root>>>      1  M921IP.SCH  
+   31   1N4148     DX6        <<<root>>>      1  M921IP.SCH  
+   32   1N4148     DX7        <<<root>>>      1  M921IP.SCH  
+   33   1N4148     DX8        <<<root>>>      1  M921IP.SCH  
+   34   1N4148     DX9        <<<root>>>      1  M921IP.SCH  
+   35   1N4148     DX10       <<<root>>>      1  M921IP.SCH  
+   36   1N4148     DX11       <<<root>>>      1  M921IP.SCH  
+   37   1N4148     DX12       <<<root>>>      1  M921IP.SCH  
+   38   1N4148     DX13       <<<root>>>      1  M921IP.SCH  
+   39   1N4148     DX14       <<<root>>>      1  M921IP.SCH  
+   40   1N4148     DX15       <<<root>>>      1  M921IP.SCH  
+   41   1N4148     DX16       <<<root>>>      1  M921IP.SCH  
+   42   2K         RX35       <<<root>>>      1  M921IP.SCH  
+   43   2N3904     QX2                        3  M921IP3.SCH 
+   44   2N3904     QX6                        3  M921IP3.SCH 
+   45   2N3904     QX7                        3  M921IP3.SCH 
+   46   2N3906     QX3                        3  M921IP3.SCH 
+   47   2N3906     QX5                        3  M921IP3.SCH 
+   48   2N6730     QX4                        3  M921IP3.SCH 
+   49   2N6731     QX1                        3  M921IP3.SCH 
+   50   3K3        RX112                      3  M921IP3.SCH 
+   51   3K9        RX111                      3  M921IP3.SCH 
+   52   4K75 1%    RX79                       3  M921IP3.SCH 
+   53   4K75 1%    RX80                       3  M921IP3.SCH 
+M921 INPUT MODULE PREAMPLIFIER                Revised:  February  2, 1996
+C 921-02-002                                  Revision: 0
+Cross Reference               February    2, 1996     8:14:16     Page    2
+
+ Item   Part       Reference  SheetName   Sheet  Filename    
+____________________________________________________________________________
+
+   54   5K         RX38       <<<root>>>      1  M921IP.SCH  
+   55   5K         RX39       <<<root>>>      1  M921IP.SCH  
+   56   5K8        RX102                      3  M921IP3.SCH 
+   57   5K8        RX105                      3  M921IP3.SCH 
+   58   5K 'V'     RX71B      <<<root>>>      1  M921IP.SCH  
+   59   5K 'V'     RX71A      <<<root>>>      1  M921IP.SCH  
+   60   6K81 1%    RX26       <<<root>>>      1  M921IP.SCH  
+   61   6K81 1%    RX8        <<<root>>>      1  M921IP.SCH  
+   62   8K25 1%    RX7        <<<root>>>      1  M921IP.SCH  
+   63   8K25 1%    RX10       <<<root>>>      1  M921IP.SCH  
+   64   8K25 1%    RX24       <<<root>>>      1  M921IP.SCH  
+   65   8K25 1%    RX27       <<<root>>>      1  M921IP.SCH  
+   66   9K1        RX107                      3  M921IP3.SCH 
+   67   9K1        RX109                      3  M921IP3.SCH 
+   68   10/50      CX33                       3  M921IP3.SCH 
+   69   10/50      CX34                       3  M921IP3.SCH 
+   70   10/50      CX41                       3  M921IP3.SCH 
+   71   10/50      CX42                       3  M921IP3.SCH 
+   72   10/50      CX43                       3  M921IP3.SCH 
+   73   10/50      CX44                       3  M921IP3.SCH 
+   74   10/50      CX45                       3  M921IP3.SCH 
+   75   10/50      CX46                       3  M921IP3.SCH 
+   76   10K        RX29       <<<root>>>      1  M921IP.SCH  
+   77   10K        RX32       <<<root>>>      1  M921IP.SCH  
+   78   16K2 1%    RX1        <<<root>>>      1  M921IP.SCH  
+   79   16K2 1%    RX2        <<<root>>>      1  M921IP.SCH  
+   80   16K2 1%    RX11       <<<root>>>      1  M921IP.SCH  
+   81   16K2 1%    RX12       <<<root>>>      1  M921IP.SCH  
+   82   16K2 1%    RX15       <<<root>>>      1  M921IP.SCH  
+   83   16K2 1%    RX16       <<<root>>>      1  M921IP.SCH  
+   84   16K2 1%    RX19       <<<root>>>      1  M921IP.SCH  
+   85   16K2 1%    RX22       <<<root>>>      1  M921IP.SCH  
+   86   16K2 1%    RX42                       2  M921IP2.SCH 
+   87   16K2 1%    RX43                       2  M921IP2.SCH 
+   88   16K2 1%    RX44                       2  M921IP2.SCH 
+   89   16K2 1%    RX45                       2  M921IP2.SCH 
+   90   16K2 1%    RX46                       2  M921IP2.SCH 
+   91   16K2 1%    RX68                       2  M921IP2.SCH 
+   92   16K2 1%    RX69                       2  M921IP2.SCH 
+   93   16K2 1%    RX70                       2  M921IP2.SCH 
+   94   16K2 1%    RX72                       3  M921IP3.SCH 
+   95   16K2 1%    RX73                       3  M921IP3.SCH 
+   96   16K2 1%    RX76                       3  M921IP3.SCH 
+   97   16K2 1%    RX83                       3  M921IP3.SCH 
+   98   16K2 1%    RX84                       3  M921IP3.SCH 
+   99   16K2 1%    RX88                       3  M921IP3.SCH 
+  100   16K2 1%    RX89                       3  M921IP3.SCH 
+  101   16K2 1%    RX93                       3  M921IP3.SCH 
+  102   16K2 1%    RX94                       3  M921IP3.SCH 
+  103   16K2 1%    RX95                       3  M921IP3.SCH 
+  104   16K2 1%    RX96                       3  M921IP3.SCH 
+  105   22         RX101                      3  M921IP3.SCH 
+  106   22         RX104                      3  M921IP3.SCH 
+M921 INPUT MODULE PREAMPLIFIER                Revised:  February  2, 1996
+C 921-02-002                                  Revision: 0
+Cross Reference               February    2, 1996     8:14:16     Page    3
+
+ Item   Part       Reference  SheetName   Sheet  Filename    
+____________________________________________________________________________
+
+  107   22/25      CX54                       3  M921IP3.SCH 
+  108   22/25      CX58                       3  M921IP3.SCH 
+  109   22/25      CX59                       3  M921IP3.SCH 
+  110   22/25      CX60                       3  M921IP3.SCH 
+  111   22/25      CX63                       3  M921IP3.SCH 
+  112   22/25      CX65                       3  M921IP3.SCH 
+  113   22P        CX1        <<<root>>>      1  M921IP.SCH  
+  114   22P        CX2        <<<root>>>      1  M921IP.SCH  
+  115   22P        CX11       <<<root>>>      1  M921IP.SCH  
+  116   22P        CX16       <<<root>>>      1  M921IP.SCH  
+  117   22P        CX35                       3  M921IP3.SCH 
+  118   22P        CX39                       3  M921IP3.SCH 
+  119   22P        CX47                       3  M921IP3.SCH 
+  120   22P        CX49                       3  M921IP3.SCH 
+  121   27K        RX51                       2  M921IP2.SCH 
+  122   27K        RX55                       2  M921IP2.SCH 
+  123   27K        RX58                       2  M921IP2.SCH 
+  124   27K        RX67                       2  M921IP2.SCH 
+  125   30 1W      RX77                       3  M921IP3.SCH 
+  126   30 1W      RX81                       3  M921IP3.SCH 
+  127   30 1W      RX98                       3  M921IP3.SCH 
+  128   30 1W      RX100                      3  M921IP3.SCH 
+  129   47/50      CX36                       3  M921IP3.SCH 
+  130   47/50      CX40                       3  M921IP3.SCH 
+  131   47/50      CX51                       3  M921IP3.SCH 
+  132   47/50      CX52                       3  M921IP3.SCH 
+  133   47/50      CX55                       3  M921IP3.SCH 
+  134   47/50      CX56                       3  M921IP3.SCH 
+  135   47/50      CX61                       3  M921IP3.SCH 
+  136   47P        CX17                       2  M921IP2.SCH 
+  137   47P        CX25                       2  M921IP2.SCH 
+  138   47P        CX28                       2  M921IP2.SCH 
+  139   47P        CX32                       2  M921IP2.SCH 
+  140   56K        RX52                       2  M921IP2.SCH 
+  141   56K        RX53                       2  M921IP2.SCH 
+  142   56K        RX57                       2  M921IP2.SCH 
+  143   56K        RX59                       2  M921IP2.SCH 
+  144   68         CX20                       2  M921IP2.SCH 
+  145   68         CX21                       2  M921IP2.SCH 
+  146   68/10      CX23                       2  M921IP2.SCH 
+  147   68/10      CX22                       2  M921IP2.SCH 
+  148   74HC00     UX19A                      3  M921IP3.SCH 
+  149   74HC00     UX19B                      3  M921IP3.SCH 
+  150   74HC00     UX19C                      3  M921IP3.SCH 
+  151   74HC00     UX19D                      3  M921IP3.SCH 
+  152   74HC00N    UX9A                       2  M921IP2.SCH 
+  153   74HC00N    UX9B                       2  M921IP2.SCH 
+  154   74HC00N    UX9C                       2  M921IP2.SCH 
+  155   74HC00N    UX9D                       2  M921IP2.SCH 
+  156   74HC14     U13C                       2  M921IP2.SCH 
+  157   74HC14     U13D                       2  M921IP2.SCH 
+  158   74HC14     UX13A                      2  M921IP2.SCH 
+  159   74HC14     UX13B                      2  M921IP2.SCH 
+M921 INPUT MODULE PREAMPLIFIER                Revised:  February  2, 1996
+C 921-02-002                                  Revision: 0
+Cross Reference               February    2, 1996     8:14:16     Page    4
+
+ Item   Part       Reference  SheetName   Sheet  Filename    
+____________________________________________________________________________
+
+  160   74HC14     UX13E                      3  M921IP3.SCH 
+  161   74HC14     UX13F                      3  M921IP3.SCH 
+  162   82K5 1%    RX25       <<<root>>>      1  M921IP.SCH  
+  163   82K5 1%    RX9        <<<root>>>      1  M921IP.SCH  
+  164   100K       RX74                       3  M921IP3.SCH 
+  165   100K       RX75                       3  M921IP3.SCH 
+  166   100K       RX78                       3  M921IP3.SCH 
+  167   100K       RX82                       3  M921IP3.SCH 
+  168   100K       RX85                       3  M921IP3.SCH 
+  169   100K       RX86                       3  M921IP3.SCH 
+  170   100K       RX87                       3  M921IP3.SCH 
+  171   100K       RX90                       3  M921IP3.SCH 
+  172   100K       RX91                       3  M921IP3.SCH 
+  173   100K       RX92                       3  M921IP3.SCH 
+  174   100K       RX97                       3  M921IP3.SCH 
+  175   100K       RX99                       3  M921IP3.SCH 
+  176   100K       RX103                      3  M921IP3.SCH 
+  177   100K       RX106                      3  M921IP3.SCH 
+  178   100K       RX108                      3  M921IP3.SCH 
+  179   100K       RX113                      3  M921IP3.SCH 
+  180   100K 1%    RX3        <<<root>>>      1  M921IP.SCH  
+  181   100K 1%    RX4        <<<root>>>      1  M921IP.SCH  
+  182   100K 1%    RX5        <<<root>>>      1  M921IP.SCH  
+  183   100K 1%    RX6        <<<root>>>      1  M921IP.SCH  
+  184   100K 1%    RX13       <<<root>>>      1  M921IP.SCH  
+  185   100K 1%    RX14       <<<root>>>      1  M921IP.SCH  
+  186   100K 1%    RX17       <<<root>>>      1  M921IP.SCH  
+  187   100K 1%    RX18       <<<root>>>      1  M921IP.SCH  
+  188   100K 1%    RX20       <<<root>>>      1  M921IP.SCH  
+  189   100K 1%    RX21       <<<root>>>      1  M921IP.SCH  
+  190   100K 1%    RX23       <<<root>>>      1  M921IP.SCH  
+  191   100K 1%    RX28       <<<root>>>      1  M921IP.SCH  
+  192   150K       RX40                       2  M921IP2.SCH 
+  193   150K       RX49                       2  M921IP2.SCH 
+  194   220/10     CX3        <<<root>>>      1  M921IP.SCH  
+  195   220/10     CX4        <<<root>>>      1  M921IP.SCH  
+  196   220/10     CX5        <<<root>>>      1  M921IP.SCH  
+  197   220/10     CX6        <<<root>>>      1  M921IP.SCH  
+  198   220/10     CX7        <<<root>>>      1  M921IP.SCH  
+  199   220/10     CX8        <<<root>>>      1  M921IP.SCH  
+  200   220/10     CX9        <<<root>>>      1  M921IP.SCH  
+  201   220/10     CX10       <<<root>>>      1  M921IP.SCH  
+  202   220/10     CX12       <<<root>>>      1  M921IP.SCH  
+  203   220/10     CX13       <<<root>>>      1  M921IP.SCH  
+  204   220/10     CX14       <<<root>>>      1  M921IP.SCH  
+  205   220/10     CX15       <<<root>>>      1  M921IP.SCH  
+  206   390        RX110                      3  M921IP3.SCH 
+  207   470K       RX62                       2  M921IP2.SCH 
+  208   470K       RX54                       2  M921IP2.SCH 
+  209   500        RX37       <<<root>>>      1  M921IP.SCH  
+  210   620K       RX60                       2  M921IP2.SCH 
+  211   620K       RX47                       2  M921IP2.SCH 
+  212   CON2       JX3                        2  M921IP2.SCH 
+M921 INPUT MODULE PREAMPLIFIER                Revised:  February  2, 1996
+C 921-02-002                                  Revision: 0
+Cross Reference               February    2, 1996     8:14:16     Page    5
+
+ Item   Part       Reference  SheetName   Sheet  Filename    
+____________________________________________________________________________
+
+  213   CON2       JX4                        2  M921IP2.SCH 
+  214   CON2       JX5                        2  M921IP2.SCH 
+  215   CON2       JX6                        2  M921IP2.SCH 
+  216   CON2       JX7                        2  M921IP2.SCH 
+  217   CON2       JX8                        2  M921IP2.SCH 
+  218   CON2       JX9                        2  M921IP2.SCH 
+  219   CON2       JX10                       2  M921IP2.SCH 
+  220   HEADER 12  JP1                        3  M921IP3.SCH 
+  221   LM833N     UX2A       <<<root>>>      1  M921IP.SCH  
+  222   LM833N     UX2B       <<<root>>>      1  M921IP.SCH  
+  223   LM833N     UX6A       <<<root>>>      1  M921IP.SCH  
+  224   LM833N     UX6B       <<<root>>>      1  M921IP.SCH  
+  225   LM833N     UX7A                       2  M921IP2.SCH 
+  226   LM833N     UX7B                       2  M921IP2.SCH 
+  227   LM833N     UX11A                      2  M921IP2.SCH 
+  228   LM833N     UX11B                      2  M921IP2.SCH 
+  229   MC14053    UX1        <<<root>>>      1  M921IP.SCH  
+  230   MC14053    UX3        <<<root>>>      1  M921IP.SCH  
+  231   MC14053    UX4        <<<root>>>      1  M921IP.SCH  
+  232   MC14053    UX5        <<<root>>>      1  M921IP.SCH  
+  233   MC14053    UX8                        2  M921IP2.SCH 
+  234   MC14053    UX12                       2  M921IP2.SCH 
+  235   MC14053    UX14                       3  M921IP3.SCH 
+  236   MC14053    UX16                       3  M921IP3.SCH 
+  237   MC14053    UX17                       3  M921IP3.SCH 
+  238   OPA2604    UX15A                      3  M921IP3.SCH 
+  239   OPA2604    UX15B                      3  M921IP3.SCH 
+  240   OPA2604    UX18A                      3  M921IP3.SCH 
+  241   OPA2604    UX18B                      3  M921IP3.SCH 

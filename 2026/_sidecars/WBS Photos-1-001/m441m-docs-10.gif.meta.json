@@ -1,0 +1,24 @@
+{
+  "filename": "m441m-docs-10.gif",
+  "relative_path": "WBSps.env/WBS Photos-1-001/m441m-docs-10.gif",
+  "extension": ".gif",
+  "size_bytes": 69539,
+  "modified_time": "Sat Oct 17 23:34:21 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m441m",
+    "docs",
+    "10"
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/INPUT-PRE-AMPS/M441M/m441m-docs-10.gif",
+  "note": "m441m-docs-10.gif.md",
+  "title_block": {
+    "models": [
+      "M441M"
+    ]
+  }
+}

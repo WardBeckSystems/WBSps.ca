@@ -1,0 +1,23 @@
+{
+  "filename": "M201 - WBS test procedures 2.jpeg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/M201 - WBS test procedures 2.jpeg",
+  "width": 1240,
+  "height": 1626,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": null,
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:58",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/LOGIC/M201/19xx - M201 - TEST PROCEDURE M201 RELAY MODULE.jpg",
+  "note": "M201 - WBS test procedures 2.jpeg.md",
+  "title_block": {
+    "title": "TEST PROCEDURE M201 RELAY MODULE",
+    "models": [
+      "M201"
+    ]
+  }
+}

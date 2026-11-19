@@ -1,0 +1,38 @@
+{
+  "filename": "2022-2-8-21-14-29.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2022-2-8-21-14-29.jpg",
+  "width": 3964,
+  "height": 10176,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    7246,
+    3258,
+    10176,
+    3938
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:55",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/AMPLIFIERS/M600/1975 - 600-02-001 - AUDIO AMPLIFIER SCHEMATIC - DRN DM - ISS 14.jpg",
+  "note": "2022-2-8-21-14-29.jpg.md",
+  "title_block": {
+    "drawing_number": "B 600-02-001",
+    "size": "B",
+    "title": "M600 / AUDIO AMPLIFIER SCHEMATIC",
+    "date": "SEPT 75",
+    "year": 1975,
+    "month": 9,
+    "drawn": "DM",
+    "checked": "RM",
+    "signature": "revision column ECO#197",
+    "issue": "14",
+    "job": "600",
+    "models": [
+      "M600"
+    ]
+  }
+}

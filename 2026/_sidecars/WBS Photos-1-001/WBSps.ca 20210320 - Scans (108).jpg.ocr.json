@@ -1,0 +1,37 @@
+{
+  "filename": "WBSps.ca 20210320 - Scans (108).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (108).jpg",
+  "width": 4757,
+  "height": 3363,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1587,
+    2636,
+    2518,
+    3271
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/ROUTING/M468/1976 - 468-03-036 - M468N ESCUTCHEON - DRN A-F - ISS 2.jpg",
+  "note": "WBSps.ca 20210320 - Scans (108).jpg.md",
+  "title_block": {
+    "drawing_number": "B 468-03-036",
+    "size": "B",
+    "title": "M468N / ESCUTCHEON",
+    "date": "30 OCT 76",
+    "year": 1976,
+    "month": 10,
+    "drawn": "A/F",
+    "checked": "MING (signature)",
+    "signature": "MAT'L .100 ALUM ALLOY; FINISH SEE NOTES",
+    "issue": "2",
+    "models": [
+      "M468N"
+    ]
+  }
+}

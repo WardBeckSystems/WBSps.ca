@@ -1,0 +1,48 @@
+{
+  "filename": "WBSps.ca 20210320 - Scans (71).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (71).jpg",
+  "extension": ".jpg",
+  "size_bytes": 1490482,
+  "modified_time": "Sat Oct 17 23:34:21 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "20210320",
+    "scans",
+    "(71)"
+  ],
+  "width": 4757,
+  "height": 3363,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4757",
+    "ExifImageHeight": "3363",
+    "ImageUniqueID": "cb77a454e514e4200000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M101/19xx - 101-03-018 - DRESS STRIP (MFB6-5A) - DRN MGB - ISS 1.jpg",
+  "note": "WBSps.ca 20210320 - Scans (71).jpg.md",
+  "title_block": {
+    "drawing_number": "B 101-03-018",
+    "size": "B",
+    "title": "DRESS STRIP / (MFB6-5A)",
+    "drawn": "MGB.",
+    "checked": "A/F",
+    "signature": "SCALE 1:1",
+    "issue": "1",
+    "models": [
+      "MFB6-5A"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "filename": "M467-567 - P028 - B467-04-001(1).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M467-567 - P028 - B467-04-001(1).jpg",
+  "extension": ".jpg",
+  "size_bytes": 524777,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m467",
+    "567",
+    "p028",
+    "b467",
+    "04",
+    "001(1)"
+  ],
+  "width": 1676,
+  "height": 2160,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "1676",
+    "ExifImageHeight": "2160",
+    "ImageUniqueID": "8909089d4443c9540000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/DYNAMICS/M467/19xx - 467-04-001 - NOISE GATE & COMPRESSOR METER MODULE CONNECTOR REAR VIEW - ISS 1.jpg",
+  "note": "M467-567 - P028 - B467-04-001(1).jpg.md",
+  "title_block": {
+    "drawing_number": "A 467-04-001",
+    "size": "A",
+    "title": "NOISE GATE & COMPRESSOR METER MODULE / CONNECTOR REAR VIEW",
+    "issue": "1",
+    "models": [
+      "M467"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "filename": "WBSps.ca 20210320 - Scans (16).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (16).jpg",
+  "extension": ".jpg",
+  "size_bytes": 951300,
+  "modified_time": "Sat Oct 17 23:34:21 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "20210320",
+    "scans",
+    "(16)"
+  ],
+  "width": 4757,
+  "height": 3363,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4757",
+    "ExifImageHeight": "3363",
+    "ImageUniqueID": "f0f4bbef842f9f0e0000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/COMMUNICATION/M702/1988 - 702-03-002 - M702C HEATSINK - DRN BD -88 - ENG WS - ISS 1.jpg",
+  "note": "WBSps.ca 20210320 - Scans (16).jpg.md",
+  "title_block": {
+    "drawing_number": "B 702-03-002",
+    "size": "B",
+    "title": "M702C / HEATSINK",
+    "date": "/88",
+    "year": 1988,
+    "drawn": "BD /88",
+    "engineer": "WS",
+    "signature": "DISC NO: MA89001 CODE: MM702C1",
+    "issue": "1",
+    "models": [
+      "M702C"
+    ]
+  }
+}

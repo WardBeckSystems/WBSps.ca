@@ -1,0 +1,5 @@
+@IF "%1" == "" GOTO LAST
+@SET PICFILE=%1
+:LAST
+COPY %PICFILE%.ASM  DO.ASM /V
+mpasm DO.ASM

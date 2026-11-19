@@ -1,0 +1,41 @@
+{
+  "filename": "459px-Wbsps_-_module_-_m402a_eq_-_002.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/459px-Wbsps_-_module_-_m402a_eq_-_002.jpg",
+  "extension": ".jpg",
+  "size_bytes": 44793,
+  "modified_time": "Sat Oct 17 23:34:16 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "459px",
+    "wbsps",
+    "module",
+    "m402a",
+    "eq",
+    "002"
+  ],
+  "width": 459,
+  "height": 600,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "ExifOffset": "46",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "459",
+    "ExifImageHeight": "600",
+    "ImageUniqueID": "6b25c76d5f6805740000000000000000",
+    "ExifInteroperabilityOffset": "158"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:56",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/FILTERS/M402A/459px-Wbsps_-_module_-_m402a_eq_-_002.jpg",
+  "note": "459px-Wbsps_-_module_-_m402a_eq_-_002.jpg.md",
+  "title_block": {
+    "models": [
+      "M402A"
+    ]
+  }
+}

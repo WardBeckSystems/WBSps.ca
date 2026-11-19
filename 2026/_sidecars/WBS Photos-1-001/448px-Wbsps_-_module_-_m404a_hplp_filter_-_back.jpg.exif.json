@@ -1,0 +1,42 @@
+{
+  "filename": "448px-Wbsps_-_module_-_m404a_hplp_filter_-_back.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/448px-Wbsps_-_module_-_m404a_hplp_filter_-_back.jpg",
+  "extension": ".jpg",
+  "size_bytes": 52713,
+  "modified_time": "Sat Oct 17 23:34:16 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "448px",
+    "wbsps",
+    "module",
+    "m404a",
+    "hplp",
+    "filter",
+    "back"
+  ],
+  "width": 448,
+  "height": 599,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "ExifOffset": "46",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "448",
+    "ExifImageHeight": "599",
+    "ImageUniqueID": "fac9f5afff48b65a0000000000000000",
+    "ExifInteroperabilityOffset": "158"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:55",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/FILTERS/M404A/448px-Wbsps_-_module_-_m404a_hplp_filter_-_back.jpg",
+  "note": "448px-Wbsps_-_module_-_m404a_hplp_filter_-_back.jpg.md",
+  "title_block": {
+    "models": [
+      "M404A"
+    ]
+  }
+}

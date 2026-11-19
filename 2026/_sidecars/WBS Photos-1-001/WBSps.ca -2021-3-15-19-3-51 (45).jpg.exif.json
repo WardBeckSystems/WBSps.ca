@@ -1,0 +1,50 @@
+{
+  "filename": "WBSps.ca -2021-3-15-19-3-51 (45).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca -2021-3-15-19-3-51 (45).jpg",
+  "extension": ".jpg",
+  "size_bytes": 1036026,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "2021",
+    "15",
+    "19",
+    "51",
+    "(45)"
+  ],
+  "width": 5028,
+  "height": 3182,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "5028",
+    "ExifImageHeight": "3182",
+    "ImageUniqueID": "4a4a290efa011c700000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M568/19xx - 568-02-018 - M568T LINE SEL MASTER ASSIGN MODULE SCHEMATIC - DRN DBS - ENG DBS - ISS 1.jpg",
+  "note": "WBSps.ca -2021-3-15-19-3-51 (45).jpg.md",
+  "title_block": {
+    "drawing_number": "D 568-02-018",
+    "size": "D",
+    "title": "M568T / LINE SEL / MASTER ASSIGN / MODULE SCHEMATIC",
+    "drawn": "DBS",
+    "engineer": "DBS",
+    "signature": "DISC NO: 355; CODE: 568S18",
+    "issue": "1",
+    "models": [
+      "M568T"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "filename": "M7800 - Intercom.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/RAW Photos/COMMUNICATION-SOLUTIONS/M7800 INTERCOM PANEL/M7800 - Intercom.jpg",
+  "extension": ".jpg",
+  "size_bytes": 581798,
+  "modified_time": "Sun Sep  6 22:11:19 2026",
+  "word_tokens": [
+    "m7800",
+    "intercom"
+  ],
+  "width": 2828,
+  "height": 2248,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "ImageWidth": "3258",
+    "ImageLength": "2526",
+    "BitsPerSample": "['8', '8', '8']",
+    "PhotometricInterpretation": "2",
+    "ResolutionUnit": "2",
+    "ExifOffset": "228",
+    "Software": "Adobe Photoshop CS5 Windows",
+    "Orientation": "1",
+    "DateTime": "2011:11:10 13:55:29",
+    "SamplesPerPixel": "3",
+    "XResolution": "300.0",
+    "YResolution": "300.0",
+    "ExifVersion": "0221",
+    "ColorSpace": "65535",
+    "ExifImageWidth": "2828",
+    "ExifImageHeight": "2248"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

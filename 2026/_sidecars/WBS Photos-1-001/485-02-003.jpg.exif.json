@@ -1,0 +1,43 @@
+{
+  "filename": "485-02-003.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/485-02-003.jpg",
+  "extension": ".jpg",
+  "size_bytes": 6301646,
+  "modified_time": "Sat Oct 17 23:34:16 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "485",
+    "02",
+    "003"
+  ],
+  "width": 3500,
+  "height": 4952,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "ExifOffset": "26",
+    "ExifImageWidth": "3500",
+    "ExifImageHeight": "4952"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:56",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/POWER/M485B/1982 - M485B - 485-02-003.jpg",
+  "note": "485-02-003.jpg.md",
+  "title_block": {
+    "drawing_number": "B 485-02-003",
+    "size": "B",
+    "title": "M485B / +-25V POWER SUPPLY / SCHEMATIC",
+    "date": "1/80",
+    "year": 1980,
+    "month": 1,
+    "drawn": "P. MAHONEY",
+    "checked": "R. Kelle",
+    "engineer": "MRW 1/80",
+    "issue": "1",
+    "models": [
+      "M485B"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "filename": "2021-3-16-23-48-42.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2021-3-16-23-48-42.jpg",
+  "width": 4995,
+  "height": 3202,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3945,
+    2708,
+    4945,
+    3199
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/950362/1995 - 950362-03-002 - METER PANEL REAR HOUSING - DRN DRG - ISS 1.jpg",
+  "note": "2021-3-16-23-48-42.jpg.md",
+  "title_block": {
+    "drawing_number": "D 950362-03-002",
+    "size": "D",
+    "title": "METER PANEL / REAR HOUSING",
+    "date": "NOV95",
+    "year": 1995,
+    "month": 11,
+    "drawn": "DRG(NOV95)",
+    "signature": "SCALE 1:1; DISC NO: SYS01, CODE: 95362M02",
+    "issue": "1"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "filename": "WBS M201 p4.JPG",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBS M201 p4.JPG",
+  "width": 1240,
+  "height": 1753,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    131,
+    1239,
+    567,
+    1543
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:00",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/LOGIC/M201/19xx - M201 - Integrated Circuit Data 74C221 Dual Monostable Multivibrator.jpg",
+  "note": "WBS M201 p4.JPG.md",
+  "title_block": {
+    "title": "Integrated Circuit Data 74C221 Dual Monostable Multivibrator",
+    "models": [
+      "M201"
+    ]
+  }
+}

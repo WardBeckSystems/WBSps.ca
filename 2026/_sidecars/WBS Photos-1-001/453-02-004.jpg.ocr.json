@@ -1,0 +1,33 @@
+{
+  "filename": "453-02-004.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/453-02-004.jpg",
+  "width": 3300,
+  "height": 10200,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    0,
+    6283,
+    714,
+    10200
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:55",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1970-1979/76045 - CFTO/1977 - 76045-02-004 - MASTER CHANNEL SCHEMATIC - DRN ELJ - ISS 1.jpg",
+  "note": "453-02-004.jpg.md",
+  "title_block": {
+    "drawing_number": "B 76045-02-004",
+    "size": "B",
+    "title": "MASTER CHANNEL / SCHEMATIC",
+    "date": "JAN 77",
+    "year": 1977,
+    "month": 1,
+    "drawn": "ELJ",
+    "checked": "P.C.",
+    "issue": "1"
+  }
+}

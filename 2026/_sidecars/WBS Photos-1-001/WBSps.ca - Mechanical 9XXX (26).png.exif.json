@@ -1,0 +1,44 @@
+{
+  "filename": "WBSps.ca - Mechanical 9XXX (26).png",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca - Mechanical 9XXX (26).png",
+  "extension": ".png",
+  "size_bytes": 219930,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "mechanical",
+    "9xxx",
+    "(26)"
+  ],
+  "width": 3221,
+  "height": 2480,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "ExifOffset": "46",
+    "ExifVersion": "0220",
+    "ExifImageWidth": "3221",
+    "ExifImageHeight": "2480",
+    "ImageUniqueID": "769a19145285b8960000000000000000"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1977 - A 9404 - PC MOUNTING BRKT. PPM-(2-107) - ISS 1.png",
+  "note": "WBSps.ca - Mechanical 9XXX (26).png.md",
+  "title_block": {
+    "drawing_number": "A 9404",
+    "size": "A",
+    "title": "PC MOUNTING BRKT. PPM-(2-107)",
+    "date": "77 (partial)",
+    "year": 1977,
+    "issue": "1",
+    "models": [
+      "PPM"
+    ]
+  }
+}

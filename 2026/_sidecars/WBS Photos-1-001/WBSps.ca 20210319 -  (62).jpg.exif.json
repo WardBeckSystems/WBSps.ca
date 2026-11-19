@@ -1,0 +1,42 @@
+{
+  "filename": "WBSps.ca 20210319 -  (62).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca 20210319 -  (62).jpg",
+  "extension": ".jpg",
+  "size_bytes": 594779,
+  "modified_time": "Sat Oct 17 23:34:21 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "20210319",
+    "(62)"
+  ],
+  "width": 4970,
+  "height": 3218,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4970",
+    "ExifImageHeight": "3218",
+    "ImageUniqueID": "3852d831799b59110000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/940238/1994 - 940238-04-003 - CONNECTOR PANEL (REAR L.H.S.) - ISS 1.jpg",
+  "note": "WBSps.ca 20210319 -  (62).jpg.md",
+  "title_block": {
+    "drawing_number": "D 940238-04-003",
+    "size": "D",
+    "title": "CONNECTOR PANEL / (REAR L.H.S.)",
+    "signature": "DISC NO: 466 CODE: 94238M03; handwritten REPLOT",
+    "issue": "1"
+  }
+}

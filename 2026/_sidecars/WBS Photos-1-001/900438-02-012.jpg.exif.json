@@ -1,0 +1,47 @@
+{
+  "filename": "900438-02-012.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/900438-02-012.jpg",
+  "extension": ".jpg",
+  "size_bytes": 5365301,
+  "modified_time": "Sat Oct 17 23:34:17 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "900438",
+    "02",
+    "012"
+  ],
+  "width": 3504,
+  "height": 4956,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "3504",
+    "ExifImageHeight": "4956",
+    "ImageUniqueID": "6f836d41cad75b940000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:57",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/900438 - CHIN Radio/1990 - 900438-02-012 - METER PANEL SCHEMATIC - DRN GEB - ENG GEB - ISS 1.jpg",
+  "note": "900438-02-012.jpg.md",
+  "title_block": {
+    "drawing_number": "B 900438-02-012",
+    "size": "B",
+    "title": "METER PANEL SCHEMATIC",
+    "date": "9/90",
+    "year": 1990,
+    "month": 9,
+    "drawn": "GEB",
+    "engineer": "GEB 9/90",
+    "issue": "1",
+    "job": "DISC NO: 371 CODE: 00438S12"
+  }
+}

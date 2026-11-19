@@ -1,0 +1,48 @@
+{
+  "filename": "WBSps.ca - WBS Input Transformer - 60-14.png",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca - WBS Input Transformer - 60-14.png",
+  "extension": ".png",
+  "size_bytes": 587080,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "wbs",
+    "input",
+    "transformer",
+    "60",
+    "14"
+  ],
+  "width": 4400,
+  "height": 2673,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "ExifOffset": "46",
+    "ExifVersion": "0220",
+    "ExifImageWidth": "4400",
+    "ExifImageHeight": "2673",
+    "ImageUniqueID": "e6e31930433ca8910000000000000000"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1978 - B 60-14 - 60-14 INPUT TRANSFORMER - DRN MRW - ENG MRW - ISS 3 (2).png",
+  "note": "WBSps.ca - WBS Input Transformer - 60-14.png.md",
+  "title_block": {
+    "drawing_number": "B 60-14",
+    "size": "B",
+    "title": "60-14 / INPUT TRANSFORMER",
+    "date": "10/78",
+    "year": 1978,
+    "month": 10,
+    "drawn": "MRW 10/78",
+    "checked": "R. Bell (signature)",
+    "engineer": "MRW",
+    "signature": "ISS 2 10/78 2nd NUT ADDED; ISS 3 11/78 SPEC REVISED",
+    "issue": "3"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "filename": "WBSps.ca - 20210317 11X 17 Scans  (39).png",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca - 20210317 11X 17 Scans  (39).png",
+  "extension": ".png",
+  "size_bytes": 694561,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "20210317",
+    "11x",
+    "17",
+    "scans",
+    "(39)"
+  ],
+  "width": 4757,
+  "height": 3363,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "ExifOffset": "46",
+    "ExifVersion": "0220",
+    "ExifImageWidth": "4757",
+    "ExifImageHeight": "3363",
+    "ImageUniqueID": "0fc83c6048c572c40000000000000000"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M813/1978 - 813-02-002 - RELAY SWITCHER LOGIC CARD TYPICAL SYSTEM WIRING - DRN MRW - ENG MRW - ISS 1.png",
+  "note": "WBSps.ca - 20210317 11X 17 Scans  (39).png.md",
+  "title_block": {
+    "drawing_number": "B 813-02-002",
+    "size": "B",
+    "title": "M813 / RELAY SWITCHER LOGIC CARD / TYPICAL SYSTEM WIRING",
+    "date": "6/78",
+    "year": 1978,
+    "month": 6,
+    "drawn": "MRW",
+    "checked": "(signature)",
+    "engineer": "MRW 6/78",
+    "issue": "1",
+    "models": [
+      "M813"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "filename": "WBSps.ca - WBS Power Transformer - 80-21.png",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca - WBS Power Transformer - 80-21.png",
+  "extension": ".png",
+  "size_bytes": 502276,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "wbs",
+    "power",
+    "transformer",
+    "80",
+    "21"
+  ],
+  "width": 4105,
+  "height": 2480,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "ExifOffset": "46",
+    "ExifVersion": "0220",
+    "ExifImageWidth": "4105",
+    "ExifImageHeight": "2480",
+    "ImageUniqueID": "8a731b544be2632c0000000000000000"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1978 - B 80-21 - POWER TRANSFORMER TYPE 80-21 - DRN GEB - ENG RKB - ISS 4.png",
+  "note": "WBSps.ca - WBS Power Transformer - 80-21.png.md",
+  "title_block": {
+    "drawing_number": "B 80-21",
+    "size": "B",
+    "title": "POWER TRANSFORMER / TYPE 80-21",
+    "date": "8/78",
+    "year": 1978,
+    "month": 8,
+    "drawn": "GEB 8/78",
+    "checked": "R. Bell (signature)",
+    "engineer": "RKB",
+    "signature": "ISS 2 6/82 COIL & CORE NOTE ADDED GEB; ISS 3 6/83 CORE DIM. CHANGED M.L; ISS 4 12/84 NOTE 14 EXPANDED RE BKTS GEB",
+    "issue": "4"
+  }
+}

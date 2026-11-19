@@ -1,0 +1,41 @@
+{
+  "filename": "459px-Wbsps_-_module_-_m412_osc_-_back.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/459px-Wbsps_-_module_-_m412_osc_-_back.jpg",
+  "extension": ".jpg",
+  "size_bytes": 44027,
+  "modified_time": "Sat Oct 17 23:34:16 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "459px",
+    "wbsps",
+    "module",
+    "m412",
+    "osc",
+    "back"
+  ],
+  "width": 459,
+  "height": 600,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "ExifOffset": "46",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "459",
+    "ExifImageHeight": "600",
+    "ImageUniqueID": "105bff39b6715f930000000000000000",
+    "ExifInteroperabilityOffset": "158"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:56",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/MONITORING/M412/459px-Wbsps_-_module_-_m412_osc_-_back.jpg",
+  "note": "459px-Wbsps_-_module_-_m412_osc_-_back.jpg.md",
+  "title_block": {
+    "models": [
+      "M412"
+    ]
+  }
+}

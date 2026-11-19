@@ -1,0 +1,35 @@
+{
+  "filename": "441-04-007.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/441-04-007.jpg",
+  "width": 3500,
+  "height": 4952,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    0,
+    1928,
+    571,
+    4896
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:55",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/INPUT-PRE-AMPS/M441/1971 - 441-04-007 - M441F INPUT MODULE LAYOUT - DRN GP - ISS 1.jpg",
+  "note": "441-04-007.jpg.md",
+  "title_block": {
+    "drawing_number": "B 441-04-007",
+    "size": "B",
+    "title": "M441F / INPUT MODULE / LAYOUT",
+    "date": "NOV 71",
+    "year": 1971,
+    "month": 11,
+    "drawn": "GP",
+    "issue": "1",
+    "models": [
+      "M441F"
+    ]
+  }
+}

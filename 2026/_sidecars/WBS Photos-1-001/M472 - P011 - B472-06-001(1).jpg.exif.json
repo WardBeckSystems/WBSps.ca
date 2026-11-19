@@ -1,0 +1,52 @@
+{
+  "filename": "M472 - P011 - B472-06-001(1).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M472 - P011 - B472-06-001(1).jpg",
+  "extension": ".jpg",
+  "size_bytes": 362710,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m472",
+    "p011",
+    "b472",
+    "06",
+    "001(1)"
+  ],
+  "width": 2473,
+  "height": 2045,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "2473",
+    "ExifImageHeight": "2045",
+    "ImageUniqueID": "e0ecae4127809efc0000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/FILTERS/M472/1977 - 472-06-001 - EQUALIZER MODULE COMPONENT LAYOUT - DRN MRW - ISS 6.jpg",
+  "note": "M472 - P011 - B472-06-001(1).jpg.md",
+  "title_block": {
+    "drawing_number": "B 472-06-001",
+    "size": "B",
+    "title": "M472 / EQUALIZER MODULE / COMPONENT LAYOUT",
+    "date": "JULY 77",
+    "year": 1977,
+    "month": 7,
+    "drawn": "MRW",
+    "checked": "(signature)",
+    "signature": "CKD column: PM, VDL, ML and others",
+    "issue": "6",
+    "models": [
+      "M472"
+    ]
+  }
+}

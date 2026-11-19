@@ -1,0 +1,34 @@
+{
+  "filename": "463-02-007c.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/463-02-007c.jpg",
+  "width": 3504,
+  "height": 4956,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1691,
+    26,
+    3310,
+    695
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:56",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/SUMMING/M463/1976 - 463-02-007 - M463M SUBMASTER (SUMMING struck) MODULE SCHEMATIC - ISS 1.jpg",
+  "note": "463-02-007c.jpg.md",
+  "title_block": {
+    "drawing_number": "D 463-02-007",
+    "size": "D",
+    "title": "M463M / SUBMASTER (SUMMING struck) MODULE / SCHEMATIC",
+    "date": "SEPT 76",
+    "year": 1976,
+    "month": 9,
+    "issue": "1",
+    "models": [
+      "M463M"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "filename": "WBS 73050-04-001(1).jpeg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBS 73050-04-001(1).jpeg",
+  "extension": ".jpeg",
+  "size_bytes": 152891,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbs",
+    "73050",
+    "04",
+    "001(1)"
+  ],
+  "width": 900,
+  "height": 689,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "PhotometricInterpretation": "1",
+    "ResolutionUnit": "2",
+    "ExifOffset": "188",
+    "Software": "Adobe Photoshop CS3 Macintosh",
+    "Orientation": "1",
+    "DateTime": "2009:12:29 00:21:41",
+    "YCbCrSubSampling": "['1', '1']",
+    "XResolution": "300.0",
+    "YResolution": "300.0",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "900",
+    "ExifImageHeight": "689",
+    "ImageUniqueID": "331cbabb339f2d730000000000000000",
+    "ExifInteroperabilityOffset": "300"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:00",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1970-1979/73050 - T1202/1973 - 73050-04-001.jpg",
+  "note": "WBS 73050-04-001(1).jpeg.md",
+  "title_block": {
+    "drawing_number": "73050-04-001"
+  }
+}

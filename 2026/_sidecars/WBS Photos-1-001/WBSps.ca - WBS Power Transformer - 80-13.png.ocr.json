@@ -1,0 +1,30 @@
+{
+  "filename": "WBSps.ca - WBS Power Transformer - 80-13.png",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca - WBS Power Transformer - 80-13.png",
+  "width": 4129,
+  "height": 2480,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2956,
+    2035,
+    4129,
+    2479
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1969 - 80-13 - POWER TRANSFORMER TYPE 80-13 (2).png",
+  "note": "WBSps.ca - WBS Power Transformer - 80-13.png.md",
+  "title_block": {
+    "drawing_number": "80-13",
+    "title": "POWER TRANSFORMER / TYPE 80-13",
+    "date": "NOV 4/69",
+    "year": 1969,
+    "month": 11,
+    "signature": "DWG 80-13; ISS value cut off"
+  }
+}

@@ -1,0 +1,17 @@
+[Project]
+Path=c:\CONSOLES\TV\M926\
+Target=m926
+
+[compiler]
+hex_file=1
+error_file=1
+list_file=1
+xref_file=0
+open_error_file=3
+default_dir=1
+asm_options=/C-
+c_options=
+working_dir=
+
+[Source]
+0=m926.asm

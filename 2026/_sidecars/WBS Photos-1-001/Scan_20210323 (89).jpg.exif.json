@@ -1,0 +1,48 @@
+{
+  "filename": "Scan_20210323 (89).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/Scan_20210323 (89).jpg",
+  "extension": ".jpg",
+  "size_bytes": 1451882,
+  "modified_time": "Sat Oct 17 23:34:19 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "scan",
+    "20210323",
+    "(89)"
+  ],
+  "width": 4757,
+  "height": 3363,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4757",
+    "ExifImageHeight": "3363",
+    "ImageUniqueID": "405e76313cf58ddf0000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:00",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/FILTERS/M402/1971 - 402-03-003 - ESCUTCHEON DRILLING DETAIL - DRN WWH - ISS 7.jpg",
+  "note": "Scan_20210323 (89).jpg.md",
+  "title_block": {
+    "drawing_number": "B 402-03-003",
+    "size": "B",
+    "title": "ESCUTCHEON / DRILLING DETAIL",
+    "date": "15 OCT 71",
+    "year": 1971,
+    "month": 10,
+    "drawn": "W.W.H.",
+    "checked": "D.P.S.",
+    "issue": "7",
+    "models": [
+      "M402"
+    ]
+  }
+}

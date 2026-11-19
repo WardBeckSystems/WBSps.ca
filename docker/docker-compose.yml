@@ -1,0 +1,47 @@
+# WBSps.ca: local deployment of the whole archive site, every image, scan and PDF included.
+#   docker compose up -d        then open http://localhost:8067
+# The site (2026/) and the original archive (WBSps.env/) are mounted read-only: nothing in the container can change them.
+name: wbsps_ca
+services:
+  wbsps:
+    image: nginx:1.27-alpine
+    container_name: WBSps.ca
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:8067:80"          # this machine only; change to "8067:80" to share it on the local network
+    volumes:
+      - ../2026:/srv/WBSps.ca/2026:ro
+      - ../WBSps.env:/srv/WBSps.ca/WBSps.env:ro
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://127.0.0.1/index.html"]
+      interval: 60s
+      timeout: 5s
+
+  ftp:
+    image: stilliard/pure-ftpd:latest
+    container_name: WBSps.ca-ftp
+    restart: unless-stopped
+    ports:
+      - "${FTP_BIND_HOST:-127.0.0.1}:${FTP_PORT:-21}:21"
+      - "${FTP_BIND_HOST:-127.0.0.1}:30000-30009:30000-30009"
+    environment:
+      FTP_USER_NAME: ${FTP_USER_NAME:-wbsps@wbsps.ca}
+      FTP_USER_PASS: ${FTP_USER_PASS}
+      FTP_USER_HOME: /home/wbsps
+      FTP_PUBLIC_HOST: ${FTP_PUBLIC_HOST:-127.0.0.1}
+    volumes:
+      - ../:/home/wbsps:rw
+      - ./ftp-passwd:/etc/pure-ftpd/passwd
+    command: >
+      bash -c '
+        mkdir -p /etc/pure-ftpd/passwd &&
+        touch /etc/pure-ftpd/passwd/pureftpd.passwd &&
+        mkdir -p "$$FTP_USER_HOME" &&
+        if ! pure-pw show "$$FTP_USER_NAME" -f /etc/pure-ftpd/passwd/pureftpd.passwd >/dev/null 2>&1; then
+          printf "%s\n%s\n" "$$FTP_USER_PASS" "$$FTP_USER_PASS" | pure-pw useradd "$$FTP_USER_NAME" -f /etc/pure-ftpd/passwd/pureftpd.passwd -m -d "$$FTP_USER_HOME" -u ftpuser -g ftpgroup;
+        else
+          printf "%s\n%s\n" "$$FTP_USER_PASS" "$$FTP_USER_PASS" | pure-pw passwd "$$FTP_USER_NAME" -f /etc/pure-ftpd/passwd/pureftpd.passwd -m;
+        fi &&
+        exec /usr/sbin/pure-ftpd -c 10 -C 5 -l puredb:/etc/pure-ftpd/pureftpd.pdb -E -j -R -P "$$FTP_PUBLIC_HOST" -p 30000:30009
+      '

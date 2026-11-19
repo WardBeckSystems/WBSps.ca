@@ -1,0 +1,35 @@
+{
+  "filename": "IMG_20210307_135739-2048x1536.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/IMG_20210307_135739-2048x1536.jpg",
+  "width": 2048,
+  "height": 1536,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    947,
+    1074,
+    1938,
+    1316
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:58",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M501/1968 - 501-02-002 - 501A PREAMP SCHEMATIC - DRN C.S.O'CONNELL - ISS 1 (2).jpg",
+  "note": "IMG_20210307_135739-2048x1536.jpg.md",
+  "title_block": {
+    "drawing_number": "B 501-02-002",
+    "size": "B",
+    "title": "501A PREAMP SCHEMATIC",
+    "date": "24 MAY-68",
+    "year": 1968,
+    "month": 5,
+    "drawn": "C.S.O'CONNELL",
+    "issue": "1",
+    "models": [
+      "501A"
+    ]
+  }
+}

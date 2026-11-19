@@ -1,0 +1,28 @@
+{
+  "filename": "WBSps.ca 20210319 -  (20).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca 20210319 -  (20).jpg",
+  "width": 4969,
+  "height": 3220,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": null,
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M905A/19xx - 905-03-001 - CONTROLLER MONITOR MODULE - DRN DRG - ISS 6.jpg",
+  "note": "WBSps.ca 20210319 -  (20).jpg.md",
+  "title_block": {
+    "drawing_number": "D 905-03-001",
+    "size": "D",
+    "title": "M905A CONTROLLER MONITOR MODULE",
+    "drawn": "DRG",
+    "signature": "REPLOT; DISC NO: M905001, CODE: 905001",
+    "issue": "6",
+    "models": [
+      "M905A"
+    ]
+  }
+}

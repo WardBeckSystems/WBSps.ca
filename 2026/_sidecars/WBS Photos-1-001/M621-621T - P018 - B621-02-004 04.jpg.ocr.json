@@ -1,0 +1,36 @@
+{
+  "filename": "M621-621T - P018 - B621-02-004 04.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/M621-621T - P018 - B621-02-004 04.jpg",
+  "width": 1700,
+  "height": 2183,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    0,
+    1733,
+    902,
+    2165
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/AMPLIFIERS/M621/1973 - 621-02-004 - M621T OUTPUT TRANSFORMER CONNECTIONS - DRN BJ - ISS 1.jpg",
+  "note": "M621-621T - P018 - B621-02-004 04.jpg.md",
+  "title_block": {
+    "drawing_number": "B 621-02-004",
+    "size": "B",
+    "title": "M621T OUTPUT TRANSFORMER CONNECTIONS",
+    "date": "SEPT 73",
+    "year": 1973,
+    "month": 9,
+    "drawn": "BJ",
+    "checked": "PC",
+    "issue": "1",
+    "models": [
+      "M621T"
+    ]
+  }
+}

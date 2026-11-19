@@ -1,0 +1,22 @@
+{
+  "filename": "MP1-MP2-MP3-MP4 - P030 - M435-436 - 3-1.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/MP1-MP2-MP3-MP4 - P030 - M435-436 - 3-1.jpg",
+  "width": 850,
+  "height": 1084,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": null,
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/METER/M435/MP1-MP2-MP3-MP4 - P030 - M435-436 - 3-1.jpg",
+  "note": "MP1-MP2-MP3-MP4 - P030 - M435-436 - 3-1.jpg.md",
+  "title_block": {
+    "models": [
+      "M435"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "filename": "B520-01-001.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/Manuals + tech DOCUMENTS/Modules/M520/M520/B520-01-001.jpg",
+  "extension": ".jpg",
+  "size_bytes": 6659024,
+  "modified_time": "Sun Sep  6 22:16:47 2026",
+  "word_tokens": [
+    "b520",
+    "01",
+    "001"
+  ],
+  "width": 4952,
+  "height": 3500,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "ExifOffset": "38",
+    "Orientation": "1",
+    "ExifImageWidth": "4952",
+    "ExifImageHeight": "3500"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

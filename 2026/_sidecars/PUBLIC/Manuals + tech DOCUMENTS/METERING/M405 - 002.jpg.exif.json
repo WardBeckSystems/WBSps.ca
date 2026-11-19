@@ -1,0 +1,35 @@
+{
+  "filename": "M405 - 002.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/Manuals + tech DOCUMENTS/METERING/M405 - 002.jpg",
+  "extension": ".jpg",
+  "size_bytes": 3523680,
+  "modified_time": "Sun Sep  6 22:05:45 2026",
+  "word_tokens": [
+    "m405",
+    "002"
+  ],
+  "width": 2448,
+  "height": 3282,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "ImageWidth": "2550",
+    "ImageLength": "3300",
+    "BitsPerSample": "['8', '8', '8']",
+    "PhotometricInterpretation": "2",
+    "ResolutionUnit": "2",
+    "ExifOffset": "228",
+    "Software": "Adobe Photoshop CS5 Windows",
+    "Orientation": "1",
+    "DateTime": "2011:11:10 15:12:27",
+    "SamplesPerPixel": "3",
+    "XResolution": "72.0",
+    "YResolution": "72.0",
+    "ExifVersion": "0221",
+    "ColorSpace": "65535",
+    "ExifImageWidth": "2448",
+    "ExifImageHeight": "3282"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

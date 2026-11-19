@@ -1,0 +1,32 @@
+{
+  "filename": "2021-3-16-22-58-30.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2021-3-16-22-58-30.jpg",
+  "width": 4873,
+  "height": 3283,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3805,
+    1622,
+    4843,
+    3131
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/940376 - CKWX Radio/1994 - 940376-01-001 - CKWX RADIO RENAISSANCE MK II FUNCTIONAL - DRN SM - ENG SM - ISS 2.jpg",
+  "note": "2021-3-16-22-58-30.jpg.md",
+  "title_block": {
+    "drawing_number": "D 940376-01-001",
+    "size": "D",
+    "title": "CKWX RADIO / RENAISSANCE MK II / FUNCTIONAL",
+    "drawn": "SM",
+    "engineer": "SM",
+    "signature": "DISC NO: 476; CODE: 94376F01",
+    "issue": "2",
+    "customer": "CKWX Radio"
+  }
+}

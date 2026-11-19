@@ -1,0 +1,32 @@
+{
+  "filename": "WBSps.ca - WBS Power Transformer - 80-2.png",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca - WBS Power Transformer - 80-2.png",
+  "width": 4125,
+  "height": 2480,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2307,
+    2094,
+    4125,
+    2477
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1967 - 80-2 - POWER TRANSFORMER TYPE 80-2 - DRN R BECK - ISS 1.png",
+  "note": "WBSps.ca - WBS Power Transformer - 80-2.png.md",
+  "title_block": {
+    "drawing_number": "80-2",
+    "title": "POWER TRANSFORMER / TYPE 80-2",
+    "date": "FEB 24/67",
+    "year": 1967,
+    "month": 2,
+    "drawn": "R BECK",
+    "signature": "ISSUE 1; DWG 8? (cut off)",
+    "issue": "1"
+  }
+}

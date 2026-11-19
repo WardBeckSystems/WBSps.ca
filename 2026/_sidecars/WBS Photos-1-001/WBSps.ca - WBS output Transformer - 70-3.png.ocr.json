@@ -1,0 +1,32 @@
+{
+  "filename": "WBSps.ca - WBS output Transformer - 70-3.png",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca - WBS output Transformer - 70-3.png",
+  "width": 4115,
+  "height": 2480,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1692,
+    1993,
+    4115,
+    2479
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1967 - 70-3 - OUTPUT TRANSFORMER TYPE 70-3 - DRN R BECK - ISS 5.png",
+  "note": "WBSps.ca - WBS output Transformer - 70-3.png.md",
+  "title_block": {
+    "drawing_number": "70-3",
+    "title": "OUTPUT TRANSFORMER / TYPE 70-3",
+    "date": "FEB 25/67",
+    "year": 1967,
+    "month": 2,
+    "drawn": "R BECK",
+    "signature": "ISS 2 WIDTH WAS 1.6 FINISH TO BLACK AUG 29/67; ISS 3 CASE ADDED, PRI WAS 60 RESPONSE & DISTORTION REV. NOV 30/67; ISS 4 MTG DIM. EST. FEB 19/68; ISS 5 MTG. REVISED C.O 28 MAR-68; DWG 70-3",
+    "issue": "5"
+  }
+}

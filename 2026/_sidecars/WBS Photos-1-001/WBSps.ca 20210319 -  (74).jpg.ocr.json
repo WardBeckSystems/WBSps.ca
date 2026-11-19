@@ -1,0 +1,27 @@
+{
+  "filename": "WBSps.ca 20210319 -  (74).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca 20210319 -  (74).jpg",
+  "width": 4540,
+  "height": 3524,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2736,
+    733,
+    3428,
+    968
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/19xx - ENERGY 108 CING TURRET LAYOUT - ISS 2 C.jpg",
+  "note": "WBSps.ca 20210319 -  (74).jpg.md",
+  "title_block": {
+    "title": "ENERGY 108/CING / TURRET / LAYOUT",
+    "signature": "97082L02, SCALE 1:1, ISS. 2 C",
+    "issue": "2 C"
+  }
+}

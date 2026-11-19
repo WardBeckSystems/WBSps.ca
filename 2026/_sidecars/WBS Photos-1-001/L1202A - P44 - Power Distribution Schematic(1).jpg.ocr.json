@@ -1,0 +1,36 @@
+{
+  "filename": "L1202A - P44 - Power Distribution Schematic(1).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/L1202A - P44 - Power Distribution Schematic(1).jpg",
+  "width": 3202,
+  "height": 2036,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2134,
+    1530,
+    3202,
+    2035
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:58",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/Models/T1202A/1982 - 1202-02-017 - POWER DISTRIBUTION SCHEMATIC - DRN JP - ENG MRW - ISS 1.jpg",
+  "note": "L1202A - P44 - Power Distribution Schematic(1).jpg.md",
+  "title_block": {
+    "drawing_number": "B 1202-02-017",
+    "size": "B",
+    "title": "POWER DISTRIBUTION / SCHEMATIC",
+    "date": "SEP'82",
+    "year": 1982,
+    "month": 9,
+    "drawn": "JP",
+    "engineer": "MRW",
+    "issue": "1",
+    "models": [
+      "T1202A"
+    ]
+  }
+}

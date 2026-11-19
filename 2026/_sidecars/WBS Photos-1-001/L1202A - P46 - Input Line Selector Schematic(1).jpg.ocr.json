@@ -1,0 +1,36 @@
+{
+  "filename": "L1202A - P46 - Input Line Selector Schematic(1).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/L1202A - P46 - Input Line Selector Schematic(1).jpg",
+  "width": 3154,
+  "height": 2027,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2082,
+    1520,
+    3152,
+    2026
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:58",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/Models/L1202A/1980 - 14-001-02-002 - 14-001A INPUT LINE SELECTOR SCHEMATIC - DRN P. MAHONEY - ENG MRW - ISS 1.jpg",
+  "note": "L1202A - P46 - Input Line Selector Schematic(1).jpg.md",
+  "title_block": {
+    "drawing_number": "B 14-001-02-002",
+    "size": "B",
+    "title": "14-001A / INPUT LINE SELECTOR / SCHEMATIC",
+    "date": "1/80",
+    "year": 1980,
+    "month": 1,
+    "drawn": "P. MAHONEY",
+    "engineer": "MRW 1/80",
+    "issue": "1",
+    "models": [
+      "L1202A"
+    ]
+  }
+}

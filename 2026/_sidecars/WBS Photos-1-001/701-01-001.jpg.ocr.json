@@ -1,0 +1,38 @@
+{
+  "filename": "701-01-001.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/701-01-001.jpg",
+  "width": 3452,
+  "height": 4916,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2312,
+    0,
+    3224,
+    1722
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:56",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/COMMUNICATION/M703B/19xx - M703B - 701-01-001.jpg",
+  "note": "701-01-001.jpg.md",
+  "title_block": {
+    "drawing_number": "B 701-01-011",
+    "size": "B",
+    "title": "M701B / INTERCOM PREAMPLIFIER / FUNCTIONAL DIAGRAM",
+    "date": "11-14-78",
+    "year": 1978,
+    "month": 11,
+    "drawn": "P. MAHONEY",
+    "checked": "R. Kelle",
+    "approved": "signed 11-14-78",
+    "signature": "ISS 2 9/79 3648",
+    "issue": "2",
+    "models": [
+      "M701B"
+    ]
+  }
+}

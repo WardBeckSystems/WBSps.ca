@@ -1,0 +1,36 @@
+{
+  "filename": "2021-3-16-19-43-15.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2021-3-16-19-43-15.jpg",
+  "width": 4536,
+  "height": 3526,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2890,
+    2519,
+    4279,
+    3189
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Products/8200 SERIES/D8212/1992 - 82-03-002 - P.C. GUIDE SUPPORT BAR UPPER LOWER FRONT - DRN DRG - ISS 3.jpg",
+  "note": "2021-3-16-19-43-15.jpg.md",
+  "title_block": {
+    "drawing_number": "C 82-03-002",
+    "size": "C",
+    "title": "D8212 / P.C. GUIDE SUPPORT BAR / UPPER/LOWER FRONT",
+    "date": "DEC92",
+    "year": 1992,
+    "month": 12,
+    "drawn": "DRG",
+    "signature": "ISS 2 DEC92 ENLARGED INFO DRG; DISC NO: SYS01; CODE: MM82-002",
+    "issue": "3",
+    "models": [
+      "D8212"
+    ]
+  }
+}

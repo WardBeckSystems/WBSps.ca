@@ -1,0 +1,46 @@
+{
+  "filename": "M460M - P032 - B-460-06-028 R.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M460M - P032 - B-460-06-028 R.jpg",
+  "extension": ".jpg",
+  "size_bytes": 541993,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m460m",
+    "p032",
+    "460",
+    "06",
+    "028"
+  ],
+  "width": 1700,
+  "height": 2148,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "1700",
+    "ExifImageHeight": "2148",
+    "ImageUniqueID": "64120238620e94540000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/INPUT-PRE-AMPS/M460/19xx - 460-06-028 - INPUT MODULE COMPONENT LAYOUT - ISS 1.jpg",
+  "note": "M460M - P032 - B-460-06-028 R.jpg.md",
+  "title_block": {
+    "drawing_number": "B 460-06-028",
+    "size": "B",
+    "title": "INPUT MODULE / COMPONENT LAYOUT",
+    "issue": "1",
+    "models": [
+      "M460M"
+    ]
+  }
+}

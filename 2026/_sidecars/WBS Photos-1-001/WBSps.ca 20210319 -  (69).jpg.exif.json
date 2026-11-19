@@ -1,0 +1,51 @@
+{
+  "filename": "WBSps.ca 20210319 -  (69).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca 20210319 -  (69).jpg",
+  "extension": ".jpg",
+  "size_bytes": 1496185,
+  "modified_time": "Sat Oct 17 23:34:21 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "20210319",
+    "(69)"
+  ],
+  "width": 4541,
+  "height": 3522,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4541",
+    "ExifImageHeight": "3522",
+    "ImageUniqueID": "5bce4b46cedd84850000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/900573/1990 - 900573-04-001 - MASTER CLOCK SYSTEM - DRN GEB - ENG GEB - ISS 1.jpg",
+  "note": "WBSps.ca 20210319 -  (69).jpg.md",
+  "title_block": {
+    "drawing_number": "C 900573-04-001",
+    "size": "C",
+    "title": "MASTER CLOCK / SYSTEM",
+    "date": "10/90",
+    "year": 1990,
+    "month": 10,
+    "drawn": "GEB",
+    "engineer": "GEB 10/90",
+    "signature": "DISC NO: 374 CODE: 00573L01",
+    "issue": "1",
+    "models": [
+      "CLK1S",
+      "TMR1-3"
+    ]
+  }
+}

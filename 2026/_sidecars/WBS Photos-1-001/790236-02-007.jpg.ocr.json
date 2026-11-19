@@ -1,0 +1,31 @@
+{
+  "filename": "790236-02-007.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/790236-02-007.jpg",
+  "width": 4956,
+  "height": 3504,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2444,
+    2640,
+    4956,
+    3503
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:56",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1970-1979/790236 - Maryland L3242A/1979 - 790236-02-007 - TIMER CONTROL SCHEMATIC - DRN SRH - ENG SRH - ISS 1 (2).jpg",
+  "note": "790236-02-007.jpg.md",
+  "title_block": {
+    "drawing_number": "B 790236-02-007",
+    "size": "B",
+    "title": "TIMER CONTROL SCHEMATIC",
+    "drawn": "SRH",
+    "checked": "PC",
+    "engineer": "SRH",
+    "issue": "1"
+  }
+}

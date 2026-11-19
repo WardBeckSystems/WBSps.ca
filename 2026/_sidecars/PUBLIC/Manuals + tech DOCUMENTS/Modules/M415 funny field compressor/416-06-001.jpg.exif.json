@@ -1,0 +1,30 @@
+{
+  "filename": "416-06-001.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/Manuals + tech DOCUMENTS/Modules/M415 funny field compressor/416-06-001.jpg",
+  "extension": ".jpg",
+  "size_bytes": 30328114,
+  "modified_time": "Sun Sep  6 22:12:16 2026",
+  "word_tokens": [
+    "416",
+    "06",
+    "001"
+  ],
+  "width": 9000,
+  "height": 3300,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "ResolutionUnit": "2",
+    "ExifOffset": "164",
+    "Software": "Adobe Photoshop CS3 Macintosh",
+    "Orientation": "1",
+    "DateTime": "2014:02:22 09:49:57",
+    "XResolution": "300.0",
+    "YResolution": "300.0",
+    "ColorSpace": "1",
+    "ExifImageWidth": "9000",
+    "ExifImageHeight": "3300"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

@@ -1,0 +1,47 @@
+{
+  "filename": "STEREO L SERIES - P018 - B475-01-002 R.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/STEREO L SERIES - P018 - B475-01-002 R.jpg",
+  "extension": ".jpg",
+  "size_bytes": 199004,
+  "modified_time": "Sat Oct 17 23:34:19 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "stereo",
+    "series",
+    "p018",
+    "b475",
+    "01",
+    "002"
+  ],
+  "width": 1700,
+  "height": 2190,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "1700",
+    "ExifImageHeight": "2190",
+    "ImageUniqueID": "d22e696cd872b2f00000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:00",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/MONITORING/M475/19xx - 475-01-002 - M475A STEREO MONITOR MODULE FUNCTIONAL - ISS 1.jpg",
+  "note": "STEREO L SERIES - P018 - B475-01-002 R.jpg.md",
+  "title_block": {
+    "drawing_number": "B 475-01-002",
+    "size": "B",
+    "title": "M475A STEREO MONITOR MODULE / FUNCTIONAL",
+    "issue": "1",
+    "models": [
+      "M475A"
+    ]
+  }
+}

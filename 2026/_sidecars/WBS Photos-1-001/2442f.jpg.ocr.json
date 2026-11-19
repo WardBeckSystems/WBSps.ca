@@ -1,0 +1,32 @@
+{
+  "filename": "2442f.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2442f.jpg",
+  "width": 3504,
+  "height": 4956,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    0,
+    0,
+    1732,
+    847
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:55",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/Models/ST2442/19xx - 2442-04-002 - STEREO TELEVISION CONSOLE FRONT VIEW LAYOUT - ISS 1.jpg",
+  "note": "2442f.jpg.md",
+  "title_block": {
+    "drawing_number": "D 2442-04-002",
+    "size": "D",
+    "title": "ST2442 / STEREO TELEVISION CONSOLE / FRONT VIEW LAYOUT",
+    "issue": "1",
+    "job": "2442",
+    "models": [
+      "ST2442"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+M920 UTILITY POWER REGULATOR                  Revised:  November 15, 1995
+B 920-02-001                                  Revision: 0
+Cross Reference               November   15, 1995     14:57:44     Page    1
+
+ Item   Reference  Part     SheetName   Sheet  Filename    
+____________________________________________________________________________
+
+    1   C1         47/50    <<<root>>>      1  M926Z.SCH   
+    2   C2         0.1/50   <<<root>>>      1  M926Z.SCH   
+    3   C3         47/50    <<<root>>>      1  M926Z.SCH   
+    4   C4         47/50    <<<root>>>      1  M926Z.SCH   
+    5   C5         47/50    <<<root>>>      1  M926Z.SCH   
+    6   C6         47/50    <<<root>>>      1  M926Z.SCH   
+    7   C7         47/50    <<<root>>>      1  M926Z.SCH   
+    8   C8         47/50    <<<root>>>      1  M926Z.SCH   
+    9   C9         47/50    <<<root>>>      1  M926Z.SCH   
+   10   C10        47/50    <<<root>>>      1  M926Z.SCH   
+   11   D5         1N4003   <<<root>>>      1  M926Z.SCH   
+   12   D6         1N4003   <<<root>>>      1  M926Z.SCH   
+   13   D7         1N4003   <<<root>>>      1  M926Z.SCH   
+   14   D8         1N4003   <<<root>>>      1  M926Z.SCH   
+   15   D9         1N4003   <<<root>>>      1  M926Z.SCH   
+   16   D10        1N5366B  <<<root>>>      1  M926Z.SCH   
+   17   Q1         2N3904   <<<root>>>      1  M926Z.SCH   
+   18   Q2         TIP29B   <<<root>>>      1  M926Z.SCH   
+   19   Q3         2N3906   <<<root>>>      1  M926Z.SCH   
+   20   Q4         TIP30B   <<<root>>>      1  M926Z.SCH   
+   21   R1         30 1W    <<<root>>>      1  M926Z.SCH   
+   22   R2         1K43     <<<root>>>      1  M926Z.SCH   
+   23   R3         1K43     <<<root>>>      1  M926Z.SCH   
+   24   R4         243 1%   <<<root>>>      1  M926Z.SCH   
+   25   R5         27 1/2W  <<<root>>>      1  M926Z.SCH   
+   26   R6         SOT      <<<root>>>      1  M926Z.SCH   
+   27   R7         3K9      <<<root>>>      1  M926Z.SCH   
+   28   R8         100K     <<<root>>>      1  M926Z.SCH   
+   29   R9         100K     <<<root>>>      1  M926Z.SCH   
+   30   R10        3K9      <<<root>>>      1  M926Z.SCH   
+   31   R11        27 1/2W  <<<root>>>      1  M926Z.SCH   
+   32   R12        SOT      <<<root>>>      1  M926Z.SCH   
+   33   R13        100K     <<<root>>>      1  M926Z.SCH   
+   34   R14        100K     <<<root>>>      1  M926Z.SCH   
+   35   R15        27 1/2   <<<root>>>      1  M926Z.SCH   
+   36   U1         LM317    <<<root>>>      1  M926Z.SCH   

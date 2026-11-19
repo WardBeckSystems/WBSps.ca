@@ -1,0 +1,31 @@
+{
+  "filename": "WBS 73050-Pender.jpeg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/Manuals + tech DOCUMENTS/Consoles/WBS 73050/JPEG/WBS 73050-Pender.jpeg",
+  "extension": ".jpeg",
+  "size_bytes": 1631103,
+  "modified_time": "Sun Sep  6 22:18:06 2026",
+  "word_tokens": [
+    "wbs",
+    "73050",
+    "pender"
+  ],
+  "width": 2267,
+  "height": 1500,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "PhotometricInterpretation": "1",
+    "ResolutionUnit": "2",
+    "ExifOffset": "176",
+    "Software": "Adobe Photoshop CS3 Macintosh",
+    "Orientation": "1",
+    "DateTime": "2009:12:29 01:29:03",
+    "XResolution": "300.0",
+    "YResolution": "300.0",
+    "ColorSpace": "65535",
+    "ExifImageWidth": "2267",
+    "ExifImageHeight": "1500"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

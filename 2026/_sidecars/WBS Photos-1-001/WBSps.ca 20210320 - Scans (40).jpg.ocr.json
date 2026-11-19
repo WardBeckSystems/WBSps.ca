@@ -1,0 +1,38 @@
+{
+  "filename": "WBSps.ca 20210320 - Scans (40).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (40).jpg",
+  "width": 4757,
+  "height": 3363,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3687,
+    2671,
+    4757,
+    3248
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/COMMUNICATION/M494/1978 - 494-02-001 - REMOTE LINE TB CUE MODULE SCHEMATIC - DRN MRW - ENG MRW - ISS 2 (2).jpg",
+  "note": "WBSps.ca 20210320 - Scans (40).jpg.md",
+  "title_block": {
+    "drawing_number": "B 494-02-001",
+    "size": "B",
+    "title": "M494 / REMOTE LINE TB/CUE MODULE / SCHEMATIC",
+    "date": "2/78",
+    "year": 1978,
+    "month": 2,
+    "drawn": "MRW",
+    "checked": "RBul",
+    "engineer": "MRW 10/77",
+    "signature": "ISS 2 2/78 C1 WAS 100/25, R23 + R31 WAS 22K",
+    "issue": "2",
+    "models": [
+      "M494"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "filename": "M5200A - 041.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/M5200A - 041.jpg",
+  "width": 3504,
+  "height": 4956,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1291,
+    1180,
+    2528,
+    2464
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/INPUT-PRE-AMPS/M5200A/1985 - M5200A - 041.jpg",
+  "note": "M5200A - 041.jpg.md",
+  "title_block": {
+    "drawing_number": "B 14-123-02-002",
+    "size": "B",
+    "title": "SA14-123 INTERFACE ASSEMBLY / SCHEMATIC",
+    "issue": "1",
+    "models": [
+      "SA14-123"
+    ]
+  }
+}

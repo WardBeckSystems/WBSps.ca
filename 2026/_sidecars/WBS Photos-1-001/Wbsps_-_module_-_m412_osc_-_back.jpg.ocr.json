@@ -1,0 +1,22 @@
+{
+  "filename": "Wbsps_-_module_-_m412_osc_-_back.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/Wbsps_-_module_-_m412_osc_-_back.jpg",
+  "width": 765,
+  "height": 1000,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": null,
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/MONITORING/M412/Wbsps_-_module_-_m412_osc_-_back.jpg",
+  "note": "Wbsps_-_module_-_m412_osc_-_back.jpg.md",
+  "title_block": {
+    "models": [
+      "M412"
+    ]
+  }
+}

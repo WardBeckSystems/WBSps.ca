@@ -1,0 +1,33 @@
+{
+  "filename": "WBS 73050-02-006.jpeg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBS 73050-02-006.jpeg",
+  "width": 4724,
+  "height": 2875,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    372,
+    547,
+    1526,
+    1513
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:00",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1970-1979/73050 - T1202/1973 - 73050-02-006 - AUDIO CONSOLE VU2 SEL SCHEMATIC - DRN PC - ISS 1.jpg",
+  "note": "WBS 73050-02-006.jpeg.md",
+  "title_block": {
+    "drawing_number": "B 73050-02-006",
+    "size": "B",
+    "title": "AUDIO CONSOLE / VU2 SEL SCHEMATIC",
+    "date": "SEPT 73",
+    "year": 1973,
+    "month": 9,
+    "drawn": "P.C.",
+    "checked": "P.C.",
+    "issue": "1"
+  }
+}

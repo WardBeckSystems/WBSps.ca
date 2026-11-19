@@ -1,0 +1,33 @@
+{
+  "filename": "2021-3-16-19-33-22.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2021-3-16-19-33-22.jpg",
+  "width": 4965,
+  "height": 3222,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3706,
+    2562,
+    4711,
+    3060
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Products/8200 SERIES/MF8212/19xx - 82-03-070 - REAR HOUSING - DRN DRG - ISS 1.jpg",
+  "note": "2021-3-16-19-33-22.jpg.md",
+  "title_block": {
+    "drawing_number": "D 82-03-070",
+    "size": "D",
+    "title": "MF8212 / REAR HOUSING",
+    "drawn": "DRG",
+    "signature": "DISC NO: SYS01; CODE: 82M70; SCALE 1:1",
+    "issue": "1",
+    "models": [
+      "MF8212"
+    ]
+  }
+}

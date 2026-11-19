@@ -1,0 +1,35 @@
+{
+  "filename": "M621-621T - P018 - B621-02-004 03.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/M621-621T - P018 - B621-02-004 03.jpg",
+  "width": 1700,
+  "height": 2183,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    0,
+    1727,
+    1698,
+    2183
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/AMPLIFIERS/M621/1973 - 621-02-004 - OUTPUT TRANSFORMER CONNECTIONS (4 OHM 16 OHM 150 OHM; title block cut - DRN BJ.jpg",
+  "note": "M621-621T - P018 - B621-02-004 03.jpg.md",
+  "title_block": {
+    "drawing_number": "B 621-02-004",
+    "size": "B",
+    "title": "OUTPUT TRANSFORMER CONNECTIONS (4 OHM / 16 OHM / 150 OHM; title block cut off at right)",
+    "date": "SEPT 73",
+    "year": 1973,
+    "month": 9,
+    "drawn": "BJ",
+    "checked": "PC",
+    "models": [
+      "M621"
+    ]
+  }
+}

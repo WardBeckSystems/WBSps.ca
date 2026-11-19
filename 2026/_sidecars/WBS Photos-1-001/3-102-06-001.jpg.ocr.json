@@ -1,0 +1,38 @@
+{
+  "filename": "3-102-06-001.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/3-102-06-001.jpg",
+  "width": 3300,
+  "height": 7800,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    31,
+    4651,
+    719,
+    7800
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:55",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M416/1973 - 3-102-06-001 - CUE AMPLIFIER PCB LAYOUT - DRN DGS - ISS 2.jpg",
+  "note": "3-102-06-001.jpg.md",
+  "title_block": {
+    "drawing_number": "B 3-102-06-001",
+    "size": "B",
+    "title": "M416 / CUE AMPLIFIER PCB / LAYOUT",
+    "date": "20 MAR 73",
+    "year": 1973,
+    "month": 3,
+    "drawn": "D.G.S",
+    "checked": "D.P.S",
+    "signature": "SCALE 2:1; USED ON M416; revision MOD 320; FINISH CLEAN",
+    "issue": "2",
+    "job": "3-102",
+    "models": [
+      "M416"
+    ]
+  }
+}

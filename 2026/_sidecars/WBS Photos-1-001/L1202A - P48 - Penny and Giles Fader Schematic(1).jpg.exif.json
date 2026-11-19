@@ -1,0 +1,55 @@
+{
+  "filename": "L1202A - P48 - Penny and Giles Fader Schematic(1).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/L1202A - P48 - Penny and Giles Fader Schematic(1).jpg",
+  "extension": ".jpg",
+  "size_bytes": 338904,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "l1202a",
+    "p48",
+    "penny",
+    "and",
+    "giles",
+    "fader",
+    "schematic(1)"
+  ],
+  "width": 3160,
+  "height": 2096,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "3160",
+    "ExifImageHeight": "2096",
+    "ImageUniqueID": "7129367aaaa031430000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:58",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/Models/L1202A/1979 - B 12001 - PENNY & GILES FADER SCHEMATIC AND LAYOUT - DRN EH - ISS 5.jpg",
+  "note": "L1202A - P48 - Penny and Giles Fader Schematic(1).jpg.md",
+  "title_block": {
+    "drawing_number": "B 12001",
+    "size": "B",
+    "title": "PENNY & GILES FADER / SCHEMATIC AND LAYOUT",
+    "date": "JAN 79",
+    "year": 1979,
+    "month": 1,
+    "drawn": "EH",
+    "checked": "P.C.",
+    "engineer": "JAN 79",
+    "signature": "revision row: ISS 5 9 JAN 79 REDRAWN FROM ISSUE 4 EH",
+    "issue": "5",
+    "models": [
+      "L1202A"
+    ]
+  }
+}

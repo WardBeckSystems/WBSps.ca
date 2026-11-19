@@ -1,0 +1,31 @@
+{
+  "filename": "2021-3-17-0-8-4.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2021-3-17-0-8-4.jpg",
+  "width": 4927,
+  "height": 3247,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3990,
+    2897,
+    4927,
+    3245
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/93032 - CTS/1993 - 93032-01-006 - CTS DRAMA STUDIO 24x36 MiniCOM SYSTEM FUNCTIONAL - DRN DRG - ISS 2.jpg",
+  "note": "2021-3-17-0-8-4.jpg.md",
+  "title_block": {
+    "drawing_number": "D 93032-01-006",
+    "size": "D",
+    "title": "CTS DRAMA STUDIO / 24x36 MiniCOM / SYSTEM FUNCTIONAL",
+    "drawn": "DRG",
+    "signature": "DISC NO: 444, CODE: 93032F06 (partly cut off)",
+    "issue": "2",
+    "customer": "CTS"
+  }
+}

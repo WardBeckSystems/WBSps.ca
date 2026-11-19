@@ -1,0 +1,119 @@
+;Pod 2 Audio Switcher
+
+	list	p=16C73A
+	#include "P16C73A.INC"
+
+		org	0
+		call 	init
+		goto	main
+	
+		org	20h
+main		call	input
+		movfw	output_reg	;check to see if the input has 
+		sub	pre_output	;changed
+		btfsc	status,2
+		goto	main
+		call	debounce
+		call	last_change
+		call	output
+		goto	main
+
+init		movlw	0xFE
+		movwf 	portb		;only input1 led is on.
+		clrf 	porta
+		clrf	portc
+		bsf	status,5
+		movelw	0xFF
+		movewf	trisa		; porta is an input.
+		movewf	trisc		; portc is an input. *Must change
+		movelw	0x0
+		movewf	trisb		; portb is an output.
+		return
+
+;This sub routine will check the inputs and return the corresponding
+;inputs in a output_reg ready to be loaded into portb.
+
+input		clrf	output_reg	;clear the memory location of the output.
+		movfw	porta		;load input from porta 
+		btfsc	porta,3		;check input1
+		bsf	output_reg,0	;
+		btfsc	porta,2		;check input2
+		bsf 	output_reg,1	
+		btfsc	porta,5		;check input3
+		bsf	output_reg,2
+		btfsc	porta,4		;check input4
+		bsf	output_reg,3
+		btfsc	portc,2		;check input5
+		bsf	output_reg,4
+		btfsc	portc,1		;check input6
+		bsf	output_reg,5	
+		btfsc	porta,0		;check spare
+		bsf	output_reg,6
+		btfsc	porta,1		;check mix
+		bsf	output_reg,7
+		return
+
+debounce	movfw	bcount
+		sublw	0xFF	
+		btfss	status,2
+		call	bounceset
+		movfw	output_reg
+		subfw	bounce,0
+		btfss	status,2
+		call 	no_good
+		dec	bcount
+		return
+				
+	
+
+changecheck	movfw	output_reg
+		xorwf	pre_output
+		movwf	which_change
+		btfss	which_change,0		;check if input1 changed
+		goto	change_2
+		movlw	0x01
+		movwf	last_change
+		goto	no_input_change
+change2		movfw	output_reg
+		xorwf	pre_output
+		movwf	which_change
+		btfss	which_change,1		;check if input2 changed
+		goto	change_3
+		movlw	0x02
+		movwf	last_change
+change3		movfw	output_reg
+		xorwf	pre_output
+		movwf	which_change
+		btfss	which_change,2		;check if input3 changed
+		goto	change_4
+		movlw	0x03
+		movwf	last_change
+change4		movfw	output_reg
+		xorwf	pre_output
+		movwf	which_change
+		btfss	which_change,3		;check if input4 changed
+		goto	change_5
+		movlw	0x04
+		movwf	last_change
+change5		movfw	output_reg		
+		xorwf	pre_output
+		movwf	which_change
+		btfss	which_change,4		;check if input5 changed
+		goto	change_6
+		movlw	0x05
+		movwf	last_change
+change6		movfw	output_reg
+		xorwf	pre_output
+		movwf	which_change
+		btfss	which_change,5		;check if input6 changed
+		goto	no_input_change
+		movlw	0x06
+		movwf	last_change
+no_input_change	return
+
+output		movfw	bcount
+		xorlw	0x0
+		bsfsc	status,2
+		goto	no_output
+		movfw	output_reg
+		xor

@@ -1,0 +1,51 @@
+{
+  "filename": "WBSps.ca 20210320 - Scans (5).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (5).jpg",
+  "extension": ".jpg",
+  "size_bytes": 1336124,
+  "modified_time": "Sat Oct 17 23:34:21 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "20210320",
+    "scans",
+    "(5)"
+  ],
+  "width": 4757,
+  "height": 3363,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4757",
+    "ExifImageHeight": "3363",
+    "ImageUniqueID": "c37515c28c718a340000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/ROUTING/M538/1985 - 538-03-007 - IDENT COVER - DRN BD - ENG MRW - ISS 2.jpg",
+  "note": "WBSps.ca 20210320 - Scans (5).jpg.md",
+  "title_block": {
+    "drawing_number": "B 538-03-007",
+    "size": "B",
+    "title": "M538 / IDENT COVER",
+    "date": "JUNE 24/85",
+    "year": 1985,
+    "month": 6,
+    "drawn": "BD JAN 85",
+    "engineer": "MRW",
+    "signature": "ISS 2 JUNE 24/85 IDENT SIZE INCREASED GEB",
+    "issue": "2",
+    "models": [
+      "M538"
+    ]
+  }
+}

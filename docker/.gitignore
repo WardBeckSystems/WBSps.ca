@@ -1,0 +1,4 @@
+# Local stack environment & secrets - keep off git
+.env
+*.env
+ftp-passwd/

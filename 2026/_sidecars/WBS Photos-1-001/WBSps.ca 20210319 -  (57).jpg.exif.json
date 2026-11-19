@@ -1,0 +1,42 @@
+{
+  "filename": "WBSps.ca 20210319 -  (57).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca 20210319 -  (57).jpg",
+  "extension": ".jpg",
+  "size_bytes": 361077,
+  "modified_time": "Sat Oct 17 23:34:21 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "20210319",
+    "(57)"
+  ],
+  "width": 4983,
+  "height": 3210,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4983",
+    "ExifImageHeight": "3210",
+    "ImageUniqueID": "e441c61d6da4b30f0000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M900/19xx - 900-03-046 - TRANSFORMERS 10X(60-3) BRACKET - ISS 1.jpg",
+  "note": "WBSps.ca 20210319 -  (57).jpg.md",
+  "title_block": {
+    "drawing_number": "D 900-03-046",
+    "size": "D",
+    "title": "TRANSFORMERS 10X(60-3) / BRACKET",
+    "signature": "DISC NO: SYS01 CODE: 900046",
+    "issue": "1"
+  }
+}

@@ -1,0 +1,1007 @@
+16c5x/xx Cross-Assembler V4.14 Released  Tue May 30 07:23:49 1995  Page 1
+
+Line   PC    Opcode
+
+0001                       LIST    F=INHX8M,R=DEC,P=16C54
+0002                       INCLUDE "HEADER.ASM"
+0003               ; ----------   PIC16C5X HEADER   ----------
+0004               
+0005         0000  W       EQU     0
+0006               
+0007               ; RESET ADDRESSES
+0008               
+0009         01FF  PIC54   EQU     0x1FF
+0010         01FF  PIC55   EQU     0x1FF
+0011         03FF  PIC56   EQU     0x3FF
+0012         07FF  PIC57   EQU     0x7FF
+0013               
+0014               ; STATUS WORD REGISTER f3
+0015               
+0016         0000  C       EQU     0
+0017         0001  DC      EQU     1
+0018         0002  Z       EQU     2
+0019         0003  PD      EQU     3
+0020         0004  TO      EQU     4
+0021         0005  PA0     EQU     5
+0022         0006  PA1     EQU     6
+0023         0007  PA2     EQU     7
+0024               
+0025               ; OPERATIONAL REGISTER FILES
+0026               
+0027         0000  IND     EQU     00
+0028         0001  RTCC    EQU     01
+0029         0002  PC      EQU     02
+0030         0003  STATUS  EQU     03
+0031         0004  FSR     EQU     04
+0032         0005  PORTA   EQU     05
+0033         0006  PORTB   EQU     06
+0034         0007  PORTC   EQU     07
+0035               
+0036               IFZ     MACRO
+0037                       BTFSC   STATUS,Z
+0038                       ENDM
+0039               
+0040               IFNZ    MACRO
+0041                       BTFSS   STATUS,Z
+0042                       ENDM
+0043               
+0044               IFCS    MACRO
+0045                       BTFSC   STATUS,C
+0046                       ENDM
+0047               
+0048               IFCC    MACRO
+0049                       BTFSS   STATUS,C
+0050                       ENDM
+0051               
+16c5x/xx Cross-Assembler V4.14 Released  Tue May 30 07:23:49 1995  Page 2
+
+Line   PC    Opcode
+
+0052               IFSET   MACRO   F,BIT
+0053                       BTFSC   F,BIT
+0054                       ENDM
+0055               
+0056               IFCLR   MACRO   F,BIT
+0057                       BTFSS   F,BIT
+0058                       ENDM
+0059               
+0060               ; ----------   END HEADER   ----------
+0061               
+0062               IF_RUN  MACRO   TMR     ; IF TIMER RUNNING
+0063                       IFCLR   TMR,7
+0064                       ENDM
+0065               
+0066               IF_STP  MACRO   TMR     ; IF TIMER STOPPED
+0067                       IFSET   TMR,7
+0068                       ENDM
+0069               
+0070               IF_NEG  MACRO   TMR     ; IF TIMER NEGATIVE
+0071                       IFSET   TMR,7
+0072                       ENDM
+0073               
+0074         0000          ORG     08
+0075               
+0076   0008        DBSSW   RES     1
+0077   0009        ONSW    RES     1
+0078   000A        OFFSW   RES     1
+0079   000B        AUTOSW  RES     1
+0080               
+0081   000C        GPI1    RES     1
+0082   000D        GPI2    RES     1
+0083   000E        MODE    RES     1
+0084   000F        ONOFF   RES     1
+0085               
+0086   0010        OLD     RES     1
+0087   0011        TMRON0  RES     1
+0088   0012        TMRON1  RES     1
+0089   0013        TMROFF0 RES     1
+0090   0014        TMROFF1 RES     1
+0091   0015        TMRDBS0 RES     1
+0092   0016        TMRDBS1 RES     1
+0093   0017        TMRDBS2 RES     1
+0094   0018        TMRHLF0 RES     1
+0095   0019        TMRHLF1 RES     1
+0096   001A        TMRHLF2 RES     1
+0097               
+0098               ; ----------   PORTB BITS FROM U4A   ----------
+0099               
+0100         0004  DBS_I   EQU     4               ; ACTIVE HIGH INPUT
+0101         0005  ON_I    EQU     5               ; ACTIVE HIGH INPUT
+0102         0006  OFF_I   EQU     6               ; ACTIVE HIGH INPUT
+16c5x/xx Cross-Assembler V4.14 Released  Tue May 30 07:23:49 1995  Page 3
+
+Line   PC    Opcode
+
+0103         0007  AUTO_I  EQU     7               ; ACTIVE HIGH INPUT
+0104               
+0105               ; ----------   PORTB BITS TO/FROM U6A   ----------
+0106               
+0107         0004  GPI1_I  EQU     4               ; ACTIVE HIGH INPUT
+0108         0005  GPI2_I  EQU     5               ; ACTIVE HIGH INPUT
+0109         0006  ON_O    EQU     6               ; ACTIVE LOW OUTPUT
+0110         0007  OFF_O   EQU     7               ; ACTIVE LOW OUTPUT
+0111               
+0112         00C0  XONOFF  EQU     ((1<<ON_O)+(1<<OFF_O))
+0113               
+0114               ; ----------   PORTA BITS   ----------
+0115               
+0116         0000  LOGO_O  EQU     0               ; ACTIVE LOW OUTPUT
+0117         0001  A1      EQU     1               ; UNUSED OUTPUT
+0118         0002  AUTO_O  EQU     2               ; ACTIVE LOW OUTPUT
+0119         0003  DBS_O   EQU     3               ; ACTIVE LOW OUTPUT
+0120               
+0121               ; ----------   EQUATES   ----------
+0122                                               ; PORTB DATA DIRECTION
+0123         0030  PBDD_1  EQU     0x30             ; PORTB READ GPI / OUTPU
+                       T ON,OFF
+0124         00F0  PBDD_2  EQU     0xF0             ; PORTB READ INPUTS/SWIT
+                       CHES
+0125               
+0126                                               ; DECODER ADDRESSES
+0127         00C8  PBIP    EQU     (XONOFF+8)      ; INPUTS
+0128         00C9  PBSW1   EQU     PBIP+1          ; SWITCH 1
+0129         00CA  PBSW2   EQU     PBIP+2          ; SWITCH 2
+0130         00CB  PBSW3   EQU     PBIP+3          ; SWITCH 3
+0131         000F  PBNONE  EQU     0x0F             ; DISABLE ALL BUFFERS BY
+                        SELECTING NONE
+0132               
+0133                                               ; USE 4K64 AND 330pF FOR 
+                       RC OSC
+0134         005C  DBS0    EQU     92              ; OS2 = 128kHz
+0135         000B  DBS1    EQU     11              ; 11*128+92=1500 msec
+0136         0074  HALF0   EQU     116
+0137         0003  HALF1   EQU     3               ; 3*128+116=500 msec
+0138               
+0139                                               ; MODE BITS
+0140         0003  AUTOBIT EQU     3               ; UNIT IN AUTO MODE.
+0141         0004  F1BIT   EQU     4               ; GPI1 STARTED ON TIMER.
+0142         0005  F2BIT   EQU     5               ; GPI2 STARTED OFF TIMER.
+                       
+0143               
+0144         0000          ORG     0x000
+0145               
+0146               ; ----------   NEXT STATE TABLE1   ----------
+0147                                       ; SET BIT 0 OF THE STATE TO INPUT
+                       
+0148                                       ; BEFORE CALLING NEXT1
+0149         0003  KEYBIT  EQU     3       ; BIT TEST KEYBIT AFTER CALLING N
+                       EXT1
+0150         0004  KPRESS  EQU     4       ; BIT TEST FOR HIGH PULSE
+0151         0005  KREL    EQU     5       ; BIT TEST FOR LOW PULSE
+0152               
+0153   0000  0E0F  NEXT1   ANDLW   0x0F     ; DEBOUNCE INPUT STATE MACHINE
+16c5x/xx Cross-Assembler V4.14 Released  Tue May 30 07:23:49 1995  Page 4
+
+Line   PC    Opcode
+
+0154   0001  01E2          ADDWF   PC
+0155               
+0156   0002  0800          RETLW   0       ; KEYBIT CLEAR WHILE INPUT=0
+0157   0003  0802          RETLW   2
+0158   0004  0800          RETLW   0
+0159   0005  0804          RETLW   4
+0160   0006  0800          RETLW   0
+0161   0007  0806          RETLW   6
+0162   0008  0800          RETLW   0
+0163   0009  0818          RETLW   8+16    ; 4TH INPUT=1 SO SET KEYBIT
+0164               
+0165   000A  080A          RETLW   10
+0166   000B  0808          RETLW   8       ; KEYBIT SET WHILE INPUT=1
+0167   000C  080C          RETLW   12
+0168   000D  0808          RETLW   8
+0169   000E  080E          RETLW   14
+0170   000F  0808          RETLW   8
+0171   0010  0820          RETLW   0+32    ; 4TH INPUT=0 SO CLEAR KEYBIT
+0172   0011  0808          RETLW   8
+0173               
+0174               ; ----------   DBS DELAY TABLES 3 & 4   ----------
+0175               
+0176   0012  0E0F  DBSDLY0 ANDLW   0x0F
+0177   0013  01E2          ADDWF   PC
+0178   0014  0830          RETLW    48     ; 1.2 seconds
+0179   0015  084C          RETLW    76     ; 1.1
+0180   0016  0868          RETLW   104     ; 1.0
+0181   0017  0804          RETLW     4     ; 0.9
+0182   0018  0820          RETLW    32     ; 0.8
+0183   0019  083C          RETLW    60     ; 0.7
+0184   001A  0858          RETLW    88     ; 0.6
+0185   001B  0874          RETLW   116     ; 0.5
+0186   001C  0810          RETLW    16     ; 0.4
+0187   001D  082C          RETLW    44     ; 0.3
+0188   001E  0848          RETLW    72     ; 0.2
+0189   001F  0864          RETLW   100     ; 0.1
+0190   0020  0800          RETLW     0     ; 0.0
+0191   0021  0800          RETLW   0
+0192   0022  0800          RETLW   0
+0193   0023  0800          RETLW   0
+0194               
+0195   0024  0E0F  DBSDLY1 ANDLW   0x0F
+0196   0025  01E2          ADDWF   PC
+0197   0026  0809          RETLW     9     ; 1.2 seconds
+0198   0027  0808          RETLW     8     ; 1.1
+0199   0028  0807          RETLW     7     ; 1.0
+0200   0029  0807          RETLW     7     ; 0.9
+0201   002A  0806          RETLW     6     ; 0.8
+0202   002B  0805          RETLW     5     ; 0.7
+0203   002C  0804          RETLW     4     ; 0.6
+0204   002D  0803          RETLW     3     ; 0.5
+16c5x/xx Cross-Assembler V4.14 Released  Tue May 30 07:23:49 1995  Page 5
+
+Line   PC    Opcode
+
+0205   002E  0803          RETLW     3     ; 0.4
+0206   002F  0802          RETLW     2     ; 0.3
+0207   0030  0801          RETLW     1     ; 0.2
+0208   0031  0800          RETLW     0     ; 0.1
+0209   0032  0800          RETLW     0     ; 0.0
+0210   0033  0800          RETLW   0
+0211   0034  0800          RETLW   0
+0212   0035  0800          RETLW   0
+0213               
+0214               ; ----------   LOGO ON AND OFF DELAY TABLES 5 & 6   -----
+                       -----
+0215               
+0216   0036  0E0F  LOGDLY0 ANDLW   0x0F
+0217   0037  01E2          ADDWF   PC
+0218   0038  0881          RETLW   129     ; 16 SECONDS
+0219   0039  0899          RETLW   153     ; 15
+0220   003A  08B1          RETLW   177     ; 14
+0221   003B  08C9          RETLW   201     ; 13
+0222   003C  08E1          RETLW   225     ; 12
+0223   003D  08F9          RETLW   249     ; 11
+0224   003E  0811          RETLW    17     ; 10
+0225   003F  0829          RETLW    41     ; 9
+0226   0040  0841          RETLW    65     ; 8
+0227   0041  0859          RETLW    89     ; 7
+0228   0042  0871          RETLW   113     ; 6
+0229   0043  0889          RETLW   137     ; 5
+0230   0044  08A1          RETLW   161     ; 4
+0231   0045  08B9          RETLW   185     ; 3
+0232   0046  08D1          RETLW   209     ; 2
+0233   0047  08E9          RETLW   233     ; 1
+0234                 
+0235   0048  0E0F  LOGDLY1 ANDLW   0x0F
+0236   0049  01E2          ADDWF   PC
+0237   004A  083E          RETLW    62     ; 16 SECONDS
+0238   004B  083A          RETLW    58     ; 15
+0239   004C  0836          RETLW    54     ; 14
+0240   004D  0832          RETLW    50     ; 13
+0241   004E  082E          RETLW    46     ; 12
+0242   004F  082A          RETLW    42     ; 11
+0243   0050  0827          RETLW    39     ; 10
+0244   0051  0823          RETLW    35     ; 9
+0245   0052  081F          RETLW    31     ; 8
+0246   0053  081B          RETLW    27     ; 7
+0247   0054  0817          RETLW    23     ; 6
+0248   0055  0813          RETLW    19     ; 5
+0249   0056  080F          RETLW    15     ; 4
+0250   0057  080B          RETLW    11     ; 3
+0251   0058  0807          RETLW     7     ; 2
+0252   0059  0803          RETLW     3     ; 1
+0253               
+0254               ; ----------   TEST GPI   ----------
+0255               
+16c5x/xx Cross-Assembler V4.14 Released  Tue May 30 07:23:49 1995  Page 6
+
+Line   PC    Opcode
+
+0256               TESTGPI
+0257               
+0258   005A  0210  WAIT    MOVF    OLD,W
+0259   005B  0081          SUBWF   RTCC,W
+0260                       IFZ
+0261   005C  0643 m        BTFSC   STATUS,Z
+0262   005D  0A5A          GOTO    WAIT            ; WAIT FOR 1 msec TIMEOUT
+                       
+0263               
+0264   005E  0201          MOVF    RTCC,W          ; UPDATE OLD
+0265   005F  0030          MOVWF   OLD
+0266               
+0267                       IF_STP  TMRON1          ; CHECK IF ON TIMER IS AC
+                       TIVE.
+0268              m        IFSET   TMRON1,7
+0269   0060  06F2 m        BTFSC   TMRON1,7
+0270   0061  0A67          GOTO    SK1
+0271   0062  00F1          DECF    TMRON0          ; DEC LOW BYTE OF ON TIME
+                       R.
+0272                       IFZ
+0273   0063  0643 m        BTFSC   STATUS,Z
+0274   0064  00F2          DECF    TMRON1          ; DEC HIGH BYTE OF ON TIM
+                       ER.
+0275                       IF_STP  TMRON1
+0276              m        IFSET   TMRON1,7
+0277   0065  06F2 m        BTFSC   TMRON1,7
+0278   0066  0405          BCF     PORTA,LOGO_O    ; TURN LOGO ON
+0279               SK1
+0280                       IF_STP  TMROFF1         ; CHECK IF OFF TIMER IS A
+                       CTIVE.
+0281              m        IFSET   TMROFF1,7
+0282   0067  06F4 m        BTFSC   TMROFF1,7
+0283   0068  0A6E          GOTO    SK2
+0284   0069  00F3          DECF    TMROFF0         ; DEC LOW BYTE OF OFF TIM
+                       ER.
+0285                       IFZ
+0286   006A  0643 m        BTFSC   STATUS,Z
+0287   006B  00F4          DECF    TMROFF1         ; DEC HIGH BYTE OF OFF TI
+                       MER.
+0288                       IF_STP  TMROFF1
+0289              m        IFSET   TMROFF1,7
+0290   006C  06F4 m        BTFSC   TMROFF1,7
+0291   006D  0505          BSF     PORTA,LOGO_O    ; TURN LOGO OFF
+0292               SK2
+0293                                               ; DEC LOW BYTE OF DBS & 1
+                       /2 sec TIMERS.
+0294                                               ; LOW BYTE IS USUALLY BET
+                       WEEN 0 AND 127.
+0295   006E  00F5          DECF    TMRDBS0         ; IF BIT 7 OF LOW BYTE IS
+                        SET THEN
+0296   006F  00F8          DECF    TMRHLF0         ; MUST DEC HIGH BYTE OF T
+                       IMER AND
+0297                                               ; CLEAR BIT 7 OF LOW BYTE
+                       .
+0298                       IFSET   PORTB,GPI1_I
+0299   0070  0686 m        BTFSC   PORTB,GPI1_I
+0300   0071  02AC          INCF    GPI1
+0301                       IFSET   PORTB,GPI2_I
+0302   0072  06A6 m        BTFSC   PORTB,GPI2_I
+0303   0073  02AD          INCF    GPI2
+0304   0074  020C          MOVF    GPI1,W          ; UPDATE DEBOUNCE STATE F
+                       OR GPI 1
+0305   0075  0900          CALL    NEXT1
+0306   0076  002C          MOVWF   GPI1
+16c5x/xx Cross-Assembler V4.14 Released  Tue May 30 07:23:49 1995  Page 7
+
+Line   PC    Opcode
+
+0307   0077  020D          MOVF    GPI2,W          ; UPDATE DEBOUNCE STATE F
+                       OR GPI 2
+0308   0078  0900          CALL    NEXT1
+0309   0079  002D          MOVWF   GPI2
+0310               
+0311                       IF_RUN  TMRHLF2         ; IGNOR GPI INPUTS IF HAL
+                       F
+0312              m        IFCLR   TMRHLF2,7
+0313   007A  07FA m        BTFSS   TMRHLF2,7
+0314   007B  0800          RETLW   0               ; SECOND TIMER 2 IS ACTIV
+                       E.
+0315               
+0316                       IFSET   GPI1,KEYBIT
+0317   007C  066C m        BTFSC   GPI1,KEYBIT
+0318   007D  050E          BSF     MODE,0
+0319                       IFSET   GPI2,KEYBIT
+0320   007E  066D m        BTFSC   GPI2,KEYBIT
+0321   007F  052E          BSF     MODE,1
+0322   0080  020E          MOVF    MODE,W
+0323   0081  0E0F          ANDLW   0x0F
+0324   0082  01E2          ADDWF   PC
+0325               
+0326   0083  0800          RETLW   0
+0327   0084  0A94          GOTO    DO_H
+0328   0085  0A94          GOTO    DO_H
+0329   0086  0BE0          GOTO    DO_HDBS
+0330   0087  0800          RETLW   0
+0331   0088  0800          RETLW   0
+0332   0089  0800          RETLW   0
+0333   008A  0BE1          GOTO    DO_DBS
+0334               
+0335   008B  0800          RETLW   0
+0336   008C  0BB4          GOTO    DO_HON
+0337   008D  0BC7          GOTO    DO_HOFF
+0338   008E  0BE0          GOTO    DO_HDBS
+0339   008F  0800          RETLW   0
+0340   0090  0800          RETLW   0
+0341   0091  0800          RETLW   0
+0342   0092  0BE1          GOTO    DO_DBS
+0343               
+0344   0093  0BE1  DO_VDBS GOTO    DO_DBS
+0345               
+0346   0094  0425  DO_H    BCF     PORTA,A1
+0347   0095  0C74          MOVLW   HALF0           ; START HALF SECOND TIMER
+                        1.
+0348   0096  0038          MOVWF   TMRHLF0
+0349   0097  0C03          MOVLW   HALF1
+0350   0098  0039          MOVWF   TMRHLF1
+0351   0099  054E          BSF     MODE,2
+0352   009A  0800          RETLW   0
+0353               
+0354               ; ----------   -   ----------
+0355               
+0356   009B  04F5  CHK_DBS BCF     TMRDBS0,7
+0357                       IF_RUN  TMRDBS2
+16c5x/xx Cross-Assembler V4.14 Released  Tue May 30 07:23:49 1995  Page 8
+
+Line   PC    Opcode
+
+0358              m        IFCLR   TMRDBS2,7
+0359   009C  07F7 m        BTFSS   TMRDBS2,7
+0360   009D  0AA9          GOTO    CHKD2
+0361                       IF_STP  TMRDBS1
+0362              m        IFSET   TMRDBS1,7
+0363   009E  06F6 m        BTFSC   TMRDBS1,7
+0364   009F  0800          RETLW   0
+0365   00A0  00F6          DECF    TMRDBS1
+0366                       IF_RUN  TMRDBS1
+0367              m        IFCLR   TMRDBS1,7
+0368   00A1  07F6 m        BTFSS   TMRDBS1,7
+0369   00A2  0800          RETLW   0
+0370   00A3  0465          BCF     PORTA,DBS_O    ; TURN DBS ON
+0371   00A4  0C5C          MOVLW   DBS0           ; START DBS OFF COUNTER
+0372   00A5  0035          MOVWF   TMRDBS0
+0373   00A6  0C0B          MOVLW   DBS1
+0374   00A7  0037          MOVWF   TMRDBS2
+0375   00A8  0800          RETLW   0
+0376               CHKD2
+0377   00A9  00F7          DECF    TMRDBS2
+0378                       IF_RUN  TMRDBS2
+0379              m        IFCLR   TMRDBS2,7
+0380   00AA  07F7 m        BTFSS   TMRDBS2,7
+0381   00AB  0800          RETLW   0
+0382   00AC  0565          BSF     PORTA,DBS_O    ; TURN DBS OFF
+0383   00AD  0800          RETLW   0
+0384               
+0385   00AE  04F8  CHK_HLF BCF     TMRHLF0,7
+0386                       IF_RUN  TMRHLF2
+0387              m        IFCLR   TMRHLF2,7
+0388   00AF  07FA m        BTFSS   TMRHLF2,7
+0389   00B0  0ABB          GOTO    CHKH2
+0390                       IF_STP  TMRHLF1
+0391              m        IFSET   TMRHLF1,7
+0392   00B1  06F9 m        BTFSC   TMRHLF1,7
+0393   00B2  0800          RETLW   0
+0394   00B3  00F9          DECF    TMRHLF1
+0395                       IF_RUN  TMRHLF1
+0396              m        IFCLR   TMRHLF1,7
+0397   00B4  07F9 m        BTFSS   TMRHLF1,7
+0398   00B5  0800          RETLW   0
+0399   00B6  0C74          MOVLW   HALF0           ; START HALF SECOND TIMER
+                        2.
+0400   00B7  0038          MOVWF   TMRHLF0
+0401   00B8  0C03          MOVLW   HALF1
+0402   00B9  003A          MOVWF   TMRHLF2
+0403   00BA  0800          RETLW   0
+0404               CHKH2
+0405   00BB  00FA          DECF    TMRHLF2
+0406                       IF_RUN  TMRHLF2
+0407              m        IFCLR   TMRHLF2,7
+0408   00BC  07FA m        BTFSS   TMRHLF2,7
+16c5x/xx Cross-Assembler V4.14 Released  Tue May 30 07:23:49 1995  Page 9
+
+Line   PC    Opcode
+
+0409   00BD  0800          RETLW   0
+0410   00BE  0525          BSF     PORTA,A1
+0411   00BF  0C08          MOVLW   (1<<AUTOBIT)    ; SET MODE TO 0 BUT DO NO
+                       T
+0412   00C0  016E          ANDWF   MODE            ; CHANGE AUTOBIT.
+0413   00C1  0800          RETLW   0
+0414               
+0415               ; ----------   MAIN CODE   ----------
+0416               
+0417         0000          ORG     0x13B
+0418   013B  0FFF  INIT    XORLW   0xFF             ; UNPROGRAMED NOP
+0419               
+0420   013C  0C0B          MOVLW   0x0B             ; INITIALIZE PORTA
+0421   013D  0025          MOVWF   PORTA
+0422   013E  0040          CLRW
+0423   013F  0005          TRIS    PORTA           ; PORTA OUTPUT
+0424               
+0425   0140  0C0F          MOVLW   PBNONE          ; INITIALIZE PORTB
+0426   0141  0026          MOVWF   PORTB
+0427   0142  0C30          MOVLW   PBDD_1
+0428   0143  0006          TRIS    PORTB
+0429   0144  0CC0          MOVLW   XONOFF
+0430   0145  0026          MOVWF   PORTB
+0431   0146  002F          MOVWF   ONOFF
+0432               
+0433   0147  0C06          MOVLW   0x06             ; RTCC = OSC2 / 128
+0434   0148  0002          OPTION
+0435   0149  0061          CLRF    RTCC
+0436   014A  0070          CLRF    OLD
+0437               
+0438   014B  0068          CLRF    DBSSW           ; CLEAR DEBOUNCE STATES.
+0439   014C  0069          CLRF    ONSW
+0440   014D  006A          CLRF    OFFSW
+0441   014E  006B          CLRF    AUTOSW
+0442   014F  006C          CLRF    GPI1
+0443   0150  006D          CLRF    GPI2
+0444               
+0445   0151  0C08          MOVLW   (1<<AUTOBIT)    ; POWER UP IN AUTO MODE.
+0446   0152  002E          MOVWF   MODE
+0447               
+0448   0153  0CFF          MOVLW   0xFF             ; DISABLE ALL TIMERS.
+0449   0154  0032          MOVWF   TMRON1
+0450   0155  0034          MOVWF   TMROFF1
+0451   0156  0036          MOVWF   TMRDBS1
+0452   0157  0037          MOVWF   TMRDBS2
+0453   0158  0039          MOVWF   TMRHLF1
+0454   0159  003A          MOVWF   TMRHLF2
+0455               MAIN
+0456   015A  095A          CALL    TESTGPI        ; ----------   1 msec   --
+                       --------
+0457               
+0458   015B  0004          CLRWDT
+0459   015C  0545          BSF     PORTA,AUTO_O    ; TURN OFF AUTO TALLY.
+16c5x/xx Cross-Assembler V4.14 Released  Tue May 30 07:23:49 1995  Page 10
+
+Line   PC    Opcode
+
+0460   015D  0CC0          MOVLW   XONOFF
+0461   015E  002F          MOVWF   ONOFF
+0462   015F  0026          MOVWF   PORTB           ; TURN OFF ON & OFF TALLY
+                       S.
+0463               
+0464                       IF_NEG  TMRHLF0         ; CHK 1/2 sec TIMER.
+0465              m        IFSET   TMRHLF0,7
+0466   0160  06F8 m        BTFSC   TMRHLF0,7
+0467   0161  09AE          CALL    CHK_HLF
+0468               
+0469   0162  095A          CALL    TESTGPI        ; ----------   1 msec   --
+                       --------
+0470               
+0471   0163  0C0F          MOVLW   PBNONE          ; MAKE DECODER SELECT NON
+                       E
+0472   0164  0126          IORWF   PORTB
+0473   0165  0CF0          MOVLW   PBDD_2          ; CHANGE DATA DIRECTION O
+                       F PORTB
+0474   0166  0006          TRIS    PORTB           ; TO READ INPUTS/SWITCHES
+                       
+0475   0167  0CC8          MOVLW   PBIP            ; MAKE DECODER SELECT INP
+                       UTS
+0476   0168  0026          MOVWF   PORTB           ; ( DBS, ON, OFF, AUTO )
+0477               
+0478                       IFSET   PORTB,DBS_I
+0479   0169  0686 m        BTFSC   PORTB,DBS_I
+0480   016A  02A8          INCF    DBSSW
+0481                       IFSET   PORTB,ON_I
+0482   016B  06A6 m        BTFSC   PORTB,ON_I
+0483   016C  02A9          INCF    ONSW
+0484                       IFSET   PORTB,OFF_I
+0485   016D  06C6 m        BTFSC   PORTB,OFF_I
+0486   016E  02AA          INCF    OFFSW
+0487                       IFSET   PORTB,AUTO_I
+0488   016F  06E6 m        BTFSC   PORTB,AUTO_I
+0489   0170  02AB          INCF    AUTOSW
+0490               
+0491   0171  0C0F          MOVLW   PBNONE          ; MAKE DECODER SELECT NON
+                       E
+0492   0172  0126          IORWF   PORTB
+0493   0173  0C30          MOVLW   PBDD_1          ; CHANGE DATA DIRECTION O
+                       F PORTB
+0494   0174  0006          TRIS    PORTB           ; TO READ GPI / OUTPUT ON
+                       ,OFF
+0495   0175  020F          MOVF    ONOFF,W         ; RESTORE ON,OFF OUTPUTS
+0496   0176  0026          MOVWF   PORTB
+0497               
+0498   0177  095A          CALL    TESTGPI        ; ----------   1 msec   --
+                       --------
+0499               
+0500   0178  0208          MOVF    DBSSW,W         ; UPDATE DEBOUNCE STATE F
+                       OR DBS
+0501   0179  0900          CALL    NEXT1
+0502   017A  0028          MOVWF   DBSSW
+0503                       IFSET   DBSSW,KEYBIT
+0504   017B  0668 m        BTFSC   DBSSW,KEYBIT
+0505   017C  0993          CALL    DO_VDBS
+0506               
+0507                       IF_NEG  TMRDBS0         ; CHK DBS TIMER.
+0508              m        IFSET   TMRDBS0,7
+0509   017D  06F5 m        BTFSC   TMRDBS0,7
+0510   017E  099B          CALL    CHK_DBS
+16c5x/xx Cross-Assembler V4.14 Released  Tue May 30 07:23:49 1995  Page 11
+
+Line   PC    Opcode
+
+0511               
+0512   017F  095A          CALL    TESTGPI        ; ----------   1 msec   --
+                       --------
+0513               
+0514   0180  0C40          MOVLW   (XONOFF-(1<<OFF_O))     ; VALUE TO TALLY 
+                       OFF
+0515                       IFCLR   PORTA,LOGO_O
+0516   0181  0705 m        BTFSS   PORTA,LOGO_O
+0517   0182  0C80          MOVLW   (XONOFF-(1<<ON_O))      ; VALUE TO TALLY 
+                       ON
+0518   0183  002F          MOVWF   ONOFF
+0519   0184  0026          MOVWF   PORTB
+0520               
+0521                       IF_NEG  TMRHLF0         ; CHK 1/2 sec TIMER.
+0522              m        IFSET   TMRHLF0,7
+0523   0185  06F8 m        BTFSC   TMRHLF0,7
+0524   0186  09AE          CALL    CHK_HLF
+0525               
+0526   0187  095A          CALL    TESTGPI        ; ----------   1 msec   --
+                       --------
+0527               
+0528   0188  0004          CLRWDT
+0529   0189  0209          MOVF    ONSW,W          ; UPDATE DEBOUNCE STATE F
+                       OR ON
+0530   018A  0900          CALL    NEXT1
+0531   018B  0029          MOVWF   ONSW
+0532                       IFSET   MODE,AUTOBIT
+0533   018C  066E m        BTFSC   MODE,AUTOBIT
+0534   018D  0B90          GOTO    MSK1            ; ON KEY DISABLED IN AUTO
+                        MODE
+0535                       IFSET   ONSW,KEYBIT
+0536   018E  0669 m        BTFSC   ONSW,KEYBIT
+0537   018F  0405          BCF     PORTA,LOGO_O    ; TURN LOGO ON
+0538               MSK1
+0539   0190  095A          CALL    TESTGPI        ; ----------   1 msec   --
+                       --------
+0540               
+0541   0191  020A          MOVF    OFFSW,W         ; UPDATE DEBOUNCE STATE F
+                       OR OFF
+0542   0192  0900          CALL    NEXT1
+0543   0193  002A          MOVWF   OFFSW
+0544                       IFSET   MODE,AUTOBIT
+0545   0194  066E m        BTFSC   MODE,AUTOBIT
+0546   0195  0B98          GOTO    MSK2            ; OFF KEY DISABLED IN AUT
+                       O MODE
+0547                       IFSET   OFFSW,KEYBIT
+0548   0196  066A m        BTFSC   OFFSW,KEYBIT
+0549   0197  0505          BSF     PORTA,LOGO_O    ; TURN LOGO OFF
+0550               MSK2
+0551                       IF_NEG  TMRDBS0         ; CHK DBS TIMER.
+0552              m        IFSET   TMRDBS0,7
+0553   0198  06F5 m        BTFSC   TMRDBS0,7
+0554   0199  099B          CALL    CHK_DBS
+0555               
+0556   019A  095A          CALL    TESTGPI        ; ----------   1 msec   --
+                       --------
+0557               
+0558   019B  0CC0          MOVLW   XONOFF
+0559   019C  002F          MOVWF   ONOFF           ; TURN OFF ON & OFF TALLY
+                       S.
+0560   019D  0026          MOVWF   PORTB
+0561                       IFSET   MODE,AUTOBIT    ; TALLY AUTO MODE.
+16c5x/xx Cross-Assembler V4.14 Released  Tue May 30 07:23:49 1995  Page 12
+
+Line   PC    Opcode
+
+0562   019E  066E m        BTFSC   MODE,AUTOBIT
+0563   019F  0445          BCF     PORTA,AUTO_O    ; TURN ON AUTO TALLY.
+0564                       IFCLR   MODE,AUTOBIT
+0565   01A0  076E m        BTFSS   MODE,AUTOBIT
+0566   01A1  0545          BSF     PORTA,AUTO_O    ; TURN OFF AUTO TALLY.
+0567               
+0568                       IF_NEG  TMRHLF0         ; CHK 1/2 sec TIMER.
+0569              m        IFSET   TMRHLF0,7
+0570   01A2  06F8 m        BTFSC   TMRHLF0,7
+0571   01A3  09AE          CALL    CHK_HLF
+0572               
+0573   01A4  095A          CALL    TESTGPI        ; ----------   1 msec   --
+                       --------
+0574               
+0575   01A5  020B          MOVF    AUTOSW,W        ; UPDATE DEBOUNCE STATE F
+                       OR AUTO
+0576   01A6  0900          CALL    NEXT1
+0577   01A7  002B          MOVWF   AUTOSW
+0578   01A8  0C08          MOVLW   (1<<AUTOBIT)
+0579                       IFSET   AUTOSW,KPRESS
+0580   01A9  068B m        BTFSC   AUTOSW,KPRESS
+0581   01AA  01AE          XORWF   MODE            ; TOGGLE AUTO MODE
+0582                       IFSET   MODE,AUTOBIT
+0583   01AB  066E m        BTFSC   MODE,AUTOBIT
+0584   01AC  0BB0          GOTO    ML1
+0585   01AD  0CFF          MOVLW   0xFF             ; IF MANUAL MODE
+0586   01AE  0032          MOVWF   TMRON1          ; DISABLE ON & OFF TIMERS
+                       .
+0587   01AF  0034          MOVWF   TMROFF1
+0588               ML1
+0589   01B0  095A          CALL    TESTGPI        ; ----------   1 msec   --
+                       --------
+0590               
+0591                       IF_NEG  TMRDBS0         ; CHK DBS TIMER.
+0592              m        IFSET   TMRDBS0,7
+0593   01B1  06F5 m        BTFSC   TMRDBS0,7
+0594   01B2  099B          CALL    CHK_DBS
+0595               
+0596   01B3  0B5A          GOTO    MAIN
+0597               
+0598               ; ----------   -   ----------
+0599               
+0600               DO_HON
+0601   01B4  0994          CALL    DO_H
+0602                       IF_RUN  TMRON1          ; CHECK IF ON TIMER IS AC
+                       TIVE.
+0603              m        IFCLR   TMRON1,7
+0604   01B5  07F2 m        BTFSS   TMRON1,7
+0605   01B6  0800          RETLW   0
+0606   01B7  058E          BSF     MODE,F1BIT
+0607   01B8  0C0F          MOVLW   PBNONE          ; MAKE DECODER SELECT NON
+                       E
+0608   01B9  0126          IORWF   PORTB
+0609   01BA  0CF0          MOVLW   PBDD_2          ; CHANGE DATA DIRECTION O
+                       F PORTB
+0610   01BB  0006          TRIS    PORTB           ; TO READ INPUTS/SWITCHES
+                       
+0611   01BC  0CC9          MOVLW   PBSW1           ; MAKE DECODER SELECT SW1
+                       
+0612   01BD  0026          MOVWF   PORTB
+16c5x/xx Cross-Assembler V4.14 Released  Tue May 30 07:23:49 1995  Page 13
+
+Line   PC    Opcode
+
+0613   01BE  0386          SWAPF   PORTB,W         ; READ SW1
+0614   01BF  0031          MOVWF   TMRON0
+0615               
+0616   01C0  0211          MOVF    TMRON0,W        ; LOOK UP THE LOW AND HIG
+                       H PARTS
+0617   01C1  0948          CALL    LOGDLY1         ; FOR THE LOGO OFF DELAY 
+                       COUNTER.
+0618   01C2  0032          MOVWF   TMRON1
+0619   01C3  0211          MOVF    TMRON0,W
+0620   01C4  0936          CALL    LOGDLY0
+0621   01C5  0031          MOVWF   TMRON0
+0622   01C6  0BD9          GOTO    DO_W
+0623               DO_HOFF
+0624   01C7  0994          CALL    DO_H
+0625                       IF_RUN  TMROFF1         ; CHECK IF OFF TIMER IS A
+                       CTIVE.
+0626              m        IFCLR   TMROFF1,7
+0627   01C8  07F4 m        BTFSS   TMROFF1,7
+0628   01C9  0800          RETLW   0
+0629   01CA  05AE          BSF     MODE,F2BIT
+0630   01CB  0C0F          MOVLW   PBNONE          ; MAKE DECODER SELECT NON
+                       E
+0631   01CC  0126          IORWF   PORTB
+0632   01CD  0CF0          MOVLW   PBDD_2          ; CHANGE DATA DIRECTION O
+                       F PORTB
+0633   01CE  0006          TRIS    PORTB           ; TO READ INPUTS/SWITCHES
+                       
+0634   01CF  0CCA          MOVLW   PBSW2           ; MAKE DECODER SELECT SW2
+                       
+0635   01D0  0026          MOVWF   PORTB
+0636   01D1  0386          SWAPF   PORTB,W         ; READ SW2
+0637   01D2  0033          MOVWF   TMROFF0
+0638               
+0639   01D3  0213          MOVF    TMROFF0,W       ; LOOK UP THE LOW AND HIG
+                       H PARTS
+0640   01D4  0948          CALL    LOGDLY1         ; FOR THE LOGO OFF DELAY 
+                       COUNTER.
+0641   01D5  0034          MOVWF   TMROFF1
+0642   01D6  0213          MOVF    TMROFF0,W
+0643   01D7  0936          CALL    LOGDLY0
+0644   01D8  0033          MOVWF   TMROFF0
+0645               DO_W
+0646   01D9  0C0F          MOVLW   PBNONE          ; MAKE DECODER SELECT NON
+                       E
+0647   01DA  0126          IORWF   PORTB
+0648   01DB  0C30          MOVLW   PBDD_1          ; CHANGE DATA DIRECTION O
+                       F PORTB
+0649   01DC  0006          TRIS    PORTB           ; TO READ GPI / OUTPUT ON
+                       ,OFF
+0650   01DD  020F          MOVF    ONOFF,W         ; RESTORE ON,OFF OUTPUTS
+0651   01DE  0026          MOVWF   PORTB
+0652   01DF  0A5A          GOTO    WAIT
+0653               
+0654               DO_HDBS
+0655   01E0  0994          CALL    DO_H
+0656               DO_DBS                          ; READ DBS DELAY.
+0657                       IF_RUN  TMRDBS2         ; FIRST CHECK IF DBS PUSL
+                       E
+0658              m        IFCLR   TMRDBS2,7
+0659   01E1  07F7 m        BTFSS   TMRDBS2,7
+0660   01E2  0800          RETLW   0               ; IS ALREADY ACTIVE.
+0661                       IF_RUN  TMRDBS1
+0662              m        IFCLR   TMRDBS1,7
+0663   01E3  07F6 m        BTFSS   TMRDBS1,7
+16c5x/xx Cross-Assembler V4.14 Released  Tue May 30 07:23:49 1995  Page 14
+
+Line   PC    Opcode
+
+0664   01E4  0800          RETLW   0
+0665   01E5  0C0F          MOVLW   PBNONE          ; MAKE DECODER SELECT NON
+                       E.
+0666   01E6  0126          IORWF   PORTB
+0667   01E7  0CF0          MOVLW   PBDD_2          ; CHANGE DATA DIRECTION O
+                       F PORTB
+0668   01E8  0006          TRIS    PORTB           ; TO READ INPUTS/SWITCHES
+                       .
+0669   01E9  0CCB          MOVLW   PBSW3           ; MAKE DECODER SELECT SW3
+                       .
+0670   01EA  0026          MOVWF   PORTB
+0671   01EB  0386          SWAPF   PORTB,W         ; READ SW3
+0672   01EC  0035          MOVWF   TMRDBS0
+0673   01ED  0C0F          MOVLW   PBNONE          ; MAKE DECODER SELECT NON
+                       E
+0674   01EE  0126          IORWF   PORTB
+0675   01EF  0C30          MOVLW   PBDD_1          ; CHANGE DATA DIRECTION O
+                       F PORTB
+0676   01F0  0006          TRIS    PORTB           ; TO READ GPI / OUTPUT ON
+                       ,OFF.
+0677   01F1  020F          MOVF    ONOFF,W         ; RESTORE ON,OFF OUTPUTS.
+                       
+0678   01F2  0026          MOVWF   PORTB
+0679               
+0680   01F3  0215          MOVF    TMRDBS0,W       ; LOOK UP THE LOW AND HIG
+                       H PARTS
+0681   01F4  0924          CALL    DBSDLY1         ; FOR THE DBS ON DELAY CO
+                       UNTER.
+0682   01F5  0036          MOVWF   TMRDBS1
+0683   01F6  0215          MOVF    TMRDBS0,W
+0684   01F7  0912          CALL    DBSDLY0
+0685   01F8  0035          MOVWF   TMRDBS0
+0686               
+0687   01F9  0CFF          MOVLW   0xFF             ; DISABLE ON OR OFF TIME
+                       R
+0688                       IFSET   MODE,F1BIT      ; IF ONE OR THE OTHER WAS
+                       
+0689   01FA  068E m        BTFSC   MODE,F1BIT
+0690   01FB  0032          MOVWF   TMRON1          ; STARTED.
+0691                       IFSET   MODE,F2BIT
+0692   01FC  06AE m        BTFSC   MODE,F2BIT
+0693   01FD  0034          MOVWF   TMROFF1
+0694   01FE  0A5A          GOTO    WAIT
+0695               
+0696         0000          ORG     PIC54
+0697   01FF  0B3B  RESET   GOTO    INIT
+0698         0000          END
+16c5x/xx Cross-Assembler V4.14 Released  Tue May 30 07:23:49 1995  Page 15
+
+
+
+Cross-Reference Listing
+LABEL        VALUE        DEFN        REFERENCES
+A1           1            117         117    346    410    
+AUTOBIT      3            140         140    411    445    532    533    544    
+                                      545    561    562    564    565    578    
+                                      582    583    
+AUTOSW       11           79          79     441    489    575    577    579    
+                                      580    
+AUTO_I       7            103         103    487    488    
+AUTO_O       2            118         118    459    563    566    
+C            0            16          16     45     49     
+CHKD2        169          376         360    376    
+CHKH2        187          404         389    404    
+CHK_DBS      155          356         356    510    554    594    
+CHK_HLF      174          385         385    467    524    571    
+DBS0         92           134         134    371    
+DBS1         11           135         135    373    
+DBSDLY0      18           176         176    684    
+DBSDLY1      36           195         195    681    
+DBSSW        8            76          76     438    480    500    502    503    
+                                      504    
+DBS_I        4            100         100    478    479    
+DBS_O        3            119         119    370    382    
+DC           1            17          17     
+DO_DBS       481          656         333    342    344    656    
+DO_H         148          346         327    328    346    601    624    655    
+DO_HDBS      480          654         329    338    654    
+DO_HOFF      455          623         337    623    
+DO_HON       436          600         336    600    
+DO_VDBS      147          344         344    505    
+DO_W         473          645         622    645    
+F1BIT        4            141         141    606    688    689    
+F2BIT        5            142         142    629    691    692    
+FSR          4            31          31     
+GPI1         12           81          81     300    304    306    316    317    
+                                      442    
+GPI1_I       4            107         107    298    299    
+GPI2         13           82          82     303    307    309    319    320    
+                                      443    
+GPI2_I       5            108         108    301    302    
+HALF0        116          136         136    347    399    
+HALF1        3            137         137    349    401    
+IFCC         47           48          48     
+IFCLR        55           56          56     63     312    358    367    379    
+                                      387    396    407    515    564    603    
+                                      626    658    662    
+IFCS         43           44          44     
+IFNZ         39           40          40     
+IFSET        51           52          52     67     71     268    276    281    
+                                      289    298    301    316    319    362    
+                                      391    465    478    481    484    487    
+                                      503    508    522    532    535    544    
+                                      547    552    561    569    579    582    
+                                      592    688    691    
+IFZ          35           36          36     260    272    285    
+IF_NEG       69           70          70     464    507    521    551    568    
+                                      591    
+IF_RUN       61           62          62     311    357    366    378    386    
+                                      395    406    602    625    657    661    
+IF_STP       65           66          66     267    275    280    288    361    
+                                      390    
+IND          0            27          27     
+INIT         315          418         418    697    
+KEYBIT       3            149         149    316    317    319    320    503    
+                                      504    535    536    547    548    
+KPRESS       4            150         150    579    580    
+KREL         5            151         151    
+LOGDLY0      54           216         216    620    643    
+LOGDLY1      72           235         235    617    640    
+LOGO_O       0            116         116    278    291    515    516    537    
+                                      549    
+MAIN         346          455         455    596    
+ML1          432          588         584    588    
+MODE         14           83          83     318    321    322    351    412    
+                                      446    532    533    544    545    561    
+                                      562    564    565    581    582    583    
+                                      606    629    688    689    691    692    
+MSK1         400          538         534    538    
+MSK2         408          550         546    550    
+NEXT1        0            153         153    305    308    501    530    542    
+                                      576    
+OFFSW        10           78          78     440    486    541    543    547    
+                                      548    
+OFF_I        6            102         102    484    485    
+OFF_O        7            110         110    112    514    
+OLD          16           86          86     258    265    436    
+ONOFF        15           84          84     431    461    495    518    559    
+                                      650    677    
+ONSW         9            77          77     439    483    529    531    535    
+                                      536    
+ON_I         5            101         101    481    482    
+ON_O         6            109         109    112    517    
+PA0          5            21          21     
+PA1          6            22          22     
+PA2          7            23          23     
+PBDD_1       48           123         123    427    493    648    675    
+PBDD_2       240          124         124    473    609    632    667    
+PBIP         200          127         127    128    129    130    475    
+PBNONE       15           131         131    425    471    491    607    630    
+                                      646    665    673    
+PBSW1        201          128         128    611    
+PBSW2        202          129         129    634    
+PBSW3        203          130         130    669    
+PC           2            29          29     154    177    196    217    236    
+                                      324    
+PD           3            19          19     
+PIC54        511          9           9      696    
+PIC55        511          10          10     
+PIC56        1023         11          11     
+PIC57        2047         12          12     
+PORTA        5            32          32     278    291    346    370    382    
+                                      410    421    423    459    515    516    
+                                      537    549    563    566    
+PORTB        6            33          33     298    299    301    302    426    
+                                      428    430    462    472    474    476    
+                                      478    479    481    482    484    485    
+                                      487    488    492    494    496    519    
+                                      560    608    610    612    613    631    
+                                      633    635    636    647    649    651    
+                                      666    668    670    671    674    676    
+                                      678    
+PORTC        7            34          34     
+RESET        511          697         697    
+RTCC         1            28          28     259    264    435    
+SK1          103          279         270    279    
+SK2          110          292         283    292    
+STATUS       3            30          30     37     41     45     49     261    
+                                      273    286    
+TESTGPI      90           256         256    456    469    498    512    526    
+                                      539    556    573    589    
+TMRDBS0      21           91          91     295    356    372    507    508    
+                                      509    551    552    553    591    592    
+                                      593    672    680    683    685    
+TMRDBS1      22           92          92     361    362    363    365    366    
+                                      367    368    451    661    662    663    
+                                      682    
+TMRDBS2      23           93          93     357    358    359    374    377    
+                                      378    379    380    452    657    658    
+                                      659    
+TMRHLF0      24           94          94     296    348    385    400    464    
+                                      465    466    521    522    523    568    
+                                      569    570    
+TMRHLF1      25           95          95     350    390    391    392    394    
+                                      395    396    397    453    
+TMRHLF2      26           96          96     311    312    313    386    387    
+                                      388    402    405    406    407    408    
+                                      454    
+TMROFF0      19           89          89     284    637    639    642    644    
+TMROFF1      20           90          90     280    281    282    287    288    
+                                      289    290    450    587    625    626    
+                                      627    641    693    
+TMRON0       17           87          87     271    614    616    619    621    
+TMRON1       18           88          88     267    268    269    274    275    
+                                      276    277    449    586    602    603    
+                                      604    618    690    
+TO           4            20          20     
+W            0            5           5      258    259    264    304    307    
+                                      322    495    500    529    541    575    
+                                      613    616    619    636    639    642    
+                                      650    671    677    680    683    
+WAIT         90           258         258    262    652    694    
+XONOFF       192          112         112    127    429    460    514    517    
+                                      558    
+Z            2            18          18     37     41     261    273    286    
+

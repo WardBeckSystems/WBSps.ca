@@ -1,0 +1,24 @@
+
+---------------------------------------
+Loading: C:\ORCADEXE\PLOTALL.EXE
+With Parameters:  .\M926ZA.SCH .PLT     /G /N /O /S.950 /X-9.750 /Y-7.000 
+---------------------------------------
+PlotAll - OrCAD/SDT 386+ v1.21 N    01-APR-95
+(C)Copyright 1991-1995 OrCAD, Inc. ALL RIGHTS RESERVED.
+Reading Configuration Data File: sdt.bcf
+Initial memory allocation: 2000K.
+OrCAD RealMode Interface Handler - Version    1.20x  02-Sep-94
+(C) Copyright 1992,1993,1994  OrCAD, Inc.  ALL RIGHTS RESERVED.
+
+
+Loading Plotter Driver: "C:\ORCADESP\DRV\HP.DRV"
+HP Plotter Driver (.00098 inch/unit) V4.21
+(C) Copyright 1987 OrCAD, Inc.  ALL RIGHTS RESERVED.
+Reading Library: .\M926Z.LIB
+Opening ".\M926ZA.SCH"
+Opening ".\M926ZA.SCH"
+Worksheet size is "C"
+Creating the DESTINATION file - "M926ZA.PLT"
+fssb01ssb01ssb01s#s#s#s#s#b01JJJJJnssb01ssb0ssb01ssb01sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#b01ssb01ssb01ssb01ssb01ssb010ssb01ssb01LJJJJJJJJJJJssb01sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#b01ssb01ssb01ssb01LLJJJJJJJJJJCssb01ssb01ssb01ssb010ssb01ssb01ssb01ssb01ssb010s#s#s#b01s#s#s#s#s#b01LLJJJJJJJJJJnssb01ssb01ssb01ssb01ssb01ssb01ssb01s#s#s#s#s#b01ssb01ssb01ssb010JJJJJJJJJnssb01ssb01ssb01ssb01LLLLJJJJJJssb01ssb01ssb01ssb01ssb01LLLLJJJJJJJJJJJJssb01ssb01ssb01ssb01ssb01ssb01s#s#s#s#s#b01ssb01ssb01LLJJJJJJJJJJJnssb01ssb01ssb01ssb01ssb01ssb01s#s#s#s#s#b01ssb01ssb01LJJJJJJJJJJJnnssb01ssb0ssb01ssb01sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#b01ssb01ssb01ssb01ssb01ssb010ssb01ssb01ssb01ssb01ssb01ssb01LLLJJJJJJJJJJJJJJJJJJJJJJJssb01ssb01sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#b01ssb01ssb01ssb01ssb01ssb01LLLJJJJJJJJJJJJJJJCssb01ssb01ssb01ssb010ssb01ssb01ssb01ssb01ssb01ssb01ssb01ssb01s#s#s#b01s#s#s#s#s#b01s#s#s#s#s#b01LLJJJJJJJJJJJnssb01JJJJnssb01LJssb01LLssb01ssb01s#s#s#s#s#b01ssb01LJJJJJWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWF
+
+Closing the DESTINATION file - "M926ZA.PLT"

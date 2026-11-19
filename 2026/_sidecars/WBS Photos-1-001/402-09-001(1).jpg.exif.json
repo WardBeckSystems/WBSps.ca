@@ -1,0 +1,50 @@
+{
+  "filename": "402-09-001(1).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/402-09-001(1).jpg",
+  "extension": ".jpg",
+  "size_bytes": 4496645,
+  "modified_time": "Sat Oct 17 23:34:16 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "402",
+    "09",
+    "001(1)"
+  ],
+  "width": 3500,
+  "height": 4920,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "3500",
+    "ExifImageHeight": "4920",
+    "ImageUniqueID": "559cf0f1506dd15a0000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:55",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/FILTERS/M402/1968 - 402-09-001 - & 404 EQUALIZER PLUG CONNECTIONS - DRN C.S. O'CONNELL - ISS 2.jpg",
+  "note": "402-09-001(1).jpg.md",
+  "title_block": {
+    "drawing_number": "B 402-09-001",
+    "size": "B",
+    "title": "M402 & 404 EQUALIZER / PLUG CONNECTIONS",
+    "date": "AUG-68",
+    "year": 1968,
+    "month": 8,
+    "drawn": "C.S. O'CONNELL",
+    "checked": "RB",
+    "issue": "2",
+    "models": [
+      "M402",
+      "M404"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "filename": "M465 - P021 - B4132-06-001 R.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/M465 - P021 - B4132-06-001 R.jpg",
+  "width": 1700,
+  "height": 2190,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    280,
+    1883,
+    971,
+    2169
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/DYNAMICS/M465/1977 - 4-132-06-001 - REVERB MODULE PCB LAYOUT - DRN DM - ISS 4.jpg",
+  "note": "M465 - P021 - B4132-06-001 R.jpg.md",
+  "title_block": {
+    "drawing_number": "B 4-132-06-001",
+    "size": "B",
+    "title": "M465 / REVERB MODULE / PCB LAYOUT",
+    "date": "21 OCT./77",
+    "year": 1977,
+    "month": 10,
+    "drawn": "DM",
+    "checked": "RM",
+    "issue": "4",
+    "models": [
+      "M465"
+    ]
+  }
+}

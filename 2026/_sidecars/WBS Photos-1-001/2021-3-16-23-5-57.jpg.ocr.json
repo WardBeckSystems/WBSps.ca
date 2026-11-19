@@ -1,0 +1,31 @@
+{
+  "filename": "2021-3-16-23-5-57.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2021-3-16-23-5-57.jpg",
+  "width": 4972,
+  "height": 3217,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3939,
+    2690,
+    4945,
+    3182
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/940184 - GLENN GOULD STUDIO/1994 - 940184-04-003 - GLENN GOULD STUDIO TURRET LAYOUT - DRN DRG - ISS 2.jpg",
+  "note": "2021-3-16-23-5-57.jpg.md",
+  "title_block": {
+    "drawing_number": "D 940184-04-003",
+    "size": "D",
+    "title": "GLENN GOULD STUDIO / TURRET / LAYOUT",
+    "drawn": "DRG",
+    "signature": "SCALE NTS; DISC NO: 459, CODE: 94184L03",
+    "issue": "2",
+    "customer": "GLENN GOULD STUDIO"
+  }
+}

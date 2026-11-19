@@ -1,0 +1,35 @@
+{
+  "filename": "M405F - 019.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/Manuals + tech DOCUMENTS/Modules/M405 - D-F - Extended range meters/M405 - D-F - Extended range meters/M405F - Extended Range VU meter /M405F - 019.jpg",
+  "extension": ".jpg",
+  "size_bytes": 649661,
+  "modified_time": "Sun Sep  6 22:19:20 2026",
+  "word_tokens": [
+    "m405f",
+    "019"
+  ],
+  "width": 3248,
+  "height": 2216,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "ImageWidth": "3500",
+    "ImageLength": "2640",
+    "BitsPerSample": "['8', '8', '8']",
+    "PhotometricInterpretation": "2",
+    "ResolutionUnit": "2",
+    "ExifOffset": "228",
+    "Software": "Adobe Photoshop CS5 Windows",
+    "Orientation": "1",
+    "DateTime": "2011:11:10 15:26:48",
+    "SamplesPerPixel": "3",
+    "XResolution": "72.0",
+    "YResolution": "72.0",
+    "ExifVersion": "0221",
+    "ColorSpace": "65535",
+    "ExifImageWidth": "3248",
+    "ExifImageHeight": "2216"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

@@ -1,0 +1,37 @@
+{
+  "filename": "M463L - P047 - B8-109-02-007 R.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/M463L - P047 - B8-109-02-007 R.jpg",
+  "width": 1693,
+  "height": 2179,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1145,
+    1900,
+    1692,
+    2179
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/SUMMING/M463L/1978 - 8-109-02-007 - 8-109F BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1.jpg",
+  "note": "M463L - P047 - B8-109-02-007 R.jpg.md",
+  "title_block": {
+    "drawing_number": "B 8-109-02-007",
+    "size": "B",
+    "title": "8-109F / BOOSTER AMPLIFIER / SCHEMATIC",
+    "date": "4/78",
+    "year": 1978,
+    "month": 4,
+    "drawn": "GEB",
+    "checked": "(signature)",
+    "engineer": "MRW 4/78",
+    "issue": "1",
+    "models": [
+      "M463L"
+    ]
+  }
+}

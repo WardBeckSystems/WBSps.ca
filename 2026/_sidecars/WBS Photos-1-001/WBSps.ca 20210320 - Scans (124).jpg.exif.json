@@ -1,0 +1,50 @@
+{
+  "filename": "WBSps.ca 20210320 - Scans (124).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (124).jpg",
+  "extension": ".jpg",
+  "size_bytes": 1777754,
+  "modified_time": "Sat Oct 17 23:34:21 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "20210320",
+    "scans",
+    "(124)"
+  ],
+  "width": 4757,
+  "height": 3363,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4757",
+    "ExifImageHeight": "3363",
+    "ImageUniqueID": "db5753618391a5910000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/INPUT-PRE-AMPS/M460/1985 - 460-03-032 - SWITCH MTG. SPLINT BRKT - DRN DRG - ENG PA - ISS 2.jpg",
+  "note": "WBSps.ca 20210320 - Scans (124).jpg.md",
+  "title_block": {
+    "drawing_number": "B 460-03-032",
+    "size": "B",
+    "title": "SWITCH MTG. SPLINT BRKT",
+    "date": "JUNE 85",
+    "year": 1985,
+    "month": 6,
+    "drawn": "DRG JUNE 85",
+    "checked": "S JUN 85",
+    "approved": "P.C.",
+    "engineer": "PA",
+    "signature": "ISS 2 JUNE 85 MODIFIED NOTCHING DRG",
+    "issue": "2"
+  }
+}

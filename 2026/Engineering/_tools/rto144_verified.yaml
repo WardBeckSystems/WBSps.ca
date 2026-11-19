@@ -1,0 +1,77 @@
+# Pinouts read from the original Ward-Beck connector drawings. make_rto144.py uses these in place of the
+# jumper calculator's Database row for the same module (the calculator rows for these modules were wrong:
+# the M450 family carried a 44-contact P2 template, and M124 / M166 were missing pins).
+# Pins are contact numbers on the module's own connector. Polarity is given only where the drawing marks it.
+
+M450: &m450
+  type: M450 - Program Summing Amp
+  connector: ELCO 00-6007-015-940-002 · 15 contacts, single row
+  row_count: 15
+  source: 450-04-001 iss. 2 (June 1976), M450 and M450A program/summing amplifier connector layout; manual p. 15 pin out
+  audio:
+    - {port: A1, signal: SUMMING INPUT, dir: in, pos: '3', neg: '5', note: input when used as summing amp}
+    - {port: A2, signal: PROGRAM INPUT, dir: in, pos: '4', neg: '6', note: input when used as program amp}
+    - {port: B1, signal: OUTPUT, dir: out, pos: '12', neg: '13'}
+  power:
+    - {rail: VCC-AUDIO, volts: 25, supply: '1', ground: '8'}
+    - {rail: VEE-AUDIO, volts: -25, supply: '15', ground: '8'}
+  other:
+    - {signal: INPUT SHIELD, role: ground, pins: ['7']}
+    - {signal: COMMON, role: ground, pins: ['8']}
+    - {signal: GAIN SET, role: jumper, pins: ['9', '10', '11']}
+    - {signal: N/C, role: nc, pins: ['2', '14']}
+
+M450A:
+  <<: *m450
+  type: M450A - Program Amplifier
+  source: 450-04-001 iss. 2 (June 1976), M450 and M450A connector layout ("summing amp input N/A for M450A")
+  audio:
+    - {port: A2, signal: PROGRAM INPUT, dir: in, pos: '4', neg: '6'}
+    - {port: B1, signal: OUTPUT, dir: out, pos: '12', neg: '13'}
+  other:
+    - {signal: INPUT SHIELD, role: ground, pins: ['7']}
+    - {signal: COMMON, role: ground, pins: ['8']}
+    - {signal: GAIN SET, role: jumper, pins: ['9', '10', '11']}
+    - {signal: N/C, role: nc, pins: ['2', '14']}
+    - {signal: N/A ON M450A, role: nc, pins: ['3', '5']}
+
+M450B:
+  <<: *m450
+  type: M450B - Program / Summing Amplifier
+  source: 450-04-001 iss. 2, M450, M450A, M450B connector rear view (M450B manual p. 15)
+
+M166:
+  type: M166 - Active Summing Amplifier
+  connector: 15 contacts, single row
+  row_count: 15
+  source: 166-02-002 iss. 2 (Feb 1970), M166 active summing amplifier plug connections
+  audio:
+    - {port: A1, signal: INPUT, dir: in, pos: '1', neg: '2'}
+    - {port: B1, signal: 'OUTPUT #1', dir: out, pos: '10', neg: '11'}
+    - {port: B2, signal: 'OUTPUT #2', dir: out, pos: '13', neg: '14'}
+  power:
+    - {rail: VCC-AUDIO, volts: 48, supply: '15', ground: '12'}
+  other:
+    - {signal: SHIELD GND, role: ground, pins: ['7']}
+
+M124:
+  type: M124 - Preamplifier
+  connector: 15 contacts, single row
+  row_count: 15
+  source: 124-09-001 iss. 1 (Aug 1968), M124 connector wiring
+  audio:
+    - {port: A1, signal: INPUT 600 Ω, dir: in, pos: '4', neg: '5', note: 'strap 3-6; transformer phase reversal: pin 4 is high, pin 5 low'}
+    - {port: A2, signal: INPUT 150 Ω, dir: in, pos: '1', neg: '4', note: strap 2-3}
+    - {port: A3, signal: INPUT 37.5 Ω, dir: in, pos: '1', neg: '4', note: straps 1-2 and 3-4}
+    - {port: B1, signal: OUTPUT, dir: out, pos: '13', neg: '14'}
+  power:
+    - {rail: VCC-AUDIO, volts: 48, supply: '15', ground: '12', note: sleeve the +48 V run to pin 15}
+  jumpers:
+    - {function: 600 Ω input, designation: STRAP 3-6, from: '3', to: '6'}
+    - {function: 150 Ω input, designation: STRAP 2-3, from: '2', to: '3'}
+    - {function: 37.5 Ω input, designation: STRAP 1-2, from: '1', to: '2'}
+    - {function: 37.5 Ω input, designation: STRAP 3-4, from: '3', to: '4'}
+  other:
+    - {signal: INPUT SHIELD, role: ground, pins: ['7']}
+    - {signal: GAIN SET RESISTOR, role: jumper, pins: ['10', '11']}
+    - {signal: COM, role: ground, pins: ['12']}

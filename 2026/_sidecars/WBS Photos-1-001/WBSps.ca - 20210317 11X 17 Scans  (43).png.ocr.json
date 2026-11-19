@@ -1,0 +1,34 @@
+{
+  "filename": "WBSps.ca - 20210317 11X 17 Scans  (43).png",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca - 20210317 11X 17 Scans  (43).png",
+  "width": 4757,
+  "height": 3363,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3957,
+    2907,
+    4757,
+    3294
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M815/19xx - 815-02-001 - DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. MAHONEY - ENG RKB - ISS 5.png",
+  "note": "WBSps.ca - 20210317 11X 17 Scans  (43).png.md",
+  "title_block": {
+    "drawing_number": "B 815-02-001",
+    "size": "B",
+    "title": "M815 / DISTRIBUTION AMPLIFIER / SCHEMATIC",
+    "drawn": "P. MAHONEY",
+    "checked": "R. Bell (signature)",
+    "engineer": "RKB",
+    "issue": "5",
+    "models": [
+      "M815"
+    ]
+  }
+}

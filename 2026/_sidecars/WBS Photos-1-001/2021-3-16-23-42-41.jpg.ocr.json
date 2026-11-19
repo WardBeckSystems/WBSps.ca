@@ -1,0 +1,32 @@
+{
+  "filename": "2021-3-16-23-42-41.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2021-3-16-23-42-41.jpg",
+  "width": 4951,
+  "height": 3231,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3971,
+    2737,
+    4951,
+    3230
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/930177 - TORONTO BROADCAST CENTRE/1993 - 930177-01-002 - TORONTO BROADCAST CENTRE ANNOUNCE BOOTH DISTRIBUTION FUNCTIONAL - DRN GEB - ENG GEB - ISS 2.jpg",
+  "note": "2021-3-16-23-42-41.jpg.md",
+  "title_block": {
+    "drawing_number": "D 930177-01-002",
+    "size": "D",
+    "title": "TORONTO BROADCAST CENTRE / ANNOUNCE BOOTH / DISTRIBUTION FUNCTIONAL",
+    "drawn": "GEB",
+    "engineer": "GEB",
+    "signature": "ISS 2 JACKS E23,F23,... K23 ADDED AS PER CBC (APP GEB); DISC NO: 442, CODE: 93177F02",
+    "issue": "2",
+    "customer": "TORONTO BROADCAST CENTRE"
+  }
+}

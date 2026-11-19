@@ -1,0 +1,47 @@
+{
+  "filename": "WBSps.ca 20210320 - Scans (126).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (126).jpg",
+  "extension": ".jpg",
+  "size_bytes": 1536003,
+  "modified_time": "Sat Oct 17 23:34:21 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "20210320",
+    "scans",
+    "(126)"
+  ],
+  "width": 4757,
+  "height": 3363,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4757",
+    "ExifImageHeight": "3363",
+    "ImageUniqueID": "7efdeb8869f17ea60000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M568/1987 - 568-03-031 - EXTRUSION - DRN DS - ISS 2.jpg",
+  "note": "WBSps.ca 20210320 - Scans (126).jpg.md",
+  "title_block": {
+    "drawing_number": "B 568-03-031",
+    "size": "B",
+    "title": "EXTRUSION",
+    "date": "11/87",
+    "year": 1987,
+    "month": 11,
+    "drawn": "D.S. 11/87",
+    "signature": "ISS 2 11/87 #2 CSK HOLES ADDED, 0.691 W 0.570; DISC NO: 195 CODE: M568M31",
+    "issue": "2"
+  }
+}

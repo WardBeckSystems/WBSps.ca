@@ -1,0 +1,40 @@
+{
+  "filename": "IM002079.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/Members/APK/wbs 001/fghjfghj/IM002079.jpg",
+  "extension": ".jpg",
+  "size_bytes": 76003,
+  "modified_time": "Sun Sep  6 22:15:54 2026",
+  "word_tokens": [
+    "im002079"
+  ],
+  "width": 640,
+  "height": 480,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "01",
+    "Make": "hp photosmart 120",
+    "ImageDescription": "Hewlett-Packard",
+    "ExifOffset": "96",
+    "ExifVersion": "0210",
+    "ShutterSpeedValue": "3.5",
+    "CompressedBitsPerPixel": "3.2",
+    "DateTimeOriginal": "2003:12:24 12:18:28",
+    "DateTimeDigitized": "2003:12:24 12:18:28",
+    "ApertureValue": "3.0",
+    "ExposureBiasValue": "0.0",
+    "MaxApertureValue": "3.0",
+    "MeteringMode": "4",
+    "LightSource": "0",
+    "Flash": "1",
+    "FocalLength": "9.91",
+    "ColorSpace": "1",
+    "ExifImageWidth": "640",
+    "ExifImageHeight": "480",
+    "ExposureTime": "0.08333333333333333",
+    "FNumber": "2.8",
+    "ISOSpeedRatings": "100"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

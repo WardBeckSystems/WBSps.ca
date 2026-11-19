@@ -1,0 +1,31 @@
+{
+  "filename": "M522B - P20 - EQ Schematic(1).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/M522B - P20 - EQ Schematic(1).jpg",
+  "width": 3087,
+  "height": 1946,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    484,
+    272,
+    2342,
+    861
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/FILTERS/M522/19xx - 522-02-003 - MONO EQUALIZER MODULE SCHEMATIC - ISS 1.jpg",
+  "note": "M522B - P20 - EQ Schematic(1).jpg.md",
+  "title_block": {
+    "drawing_number": "B 522-02-003",
+    "size": "B",
+    "title": "MONO EQUALIZER MODULE / SCHEMATIC",
+    "issue": "1",
+    "models": [
+      "M522B"
+    ]
+  }
+}

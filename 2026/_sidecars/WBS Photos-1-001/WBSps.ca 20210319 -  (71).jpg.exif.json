@@ -1,0 +1,51 @@
+{
+  "filename": "WBSps.ca 20210319 -  (71).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca 20210319 -  (71).jpg",
+  "extension": ".jpg",
+  "size_bytes": 1889402,
+  "modified_time": "Sat Oct 17 23:34:21 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "20210319",
+    "(71)"
+  ],
+  "width": 4552,
+  "height": 3513,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4552",
+    "ExifImageHeight": "3513",
+    "ImageUniqueID": "af8b69f81f5af2a10000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/900416 - KFBK-KAER/1990 - 900416-04-001 - KFBK KAER RADIO DISTRIBUTION SYSTEM RACK LAYOUT - DRN WS - ISS 1.jpg",
+  "note": "WBSps.ca 20210319 -  (71).jpg.md",
+  "title_block": {
+    "drawing_number": "C 900416-04-001",
+    "size": "C",
+    "title": "KFBK/KAER RADIO / DISTRIBUTION SYSTEM / RACK LAYOUT",
+    "date": "08/90",
+    "year": 1990,
+    "month": 8,
+    "drawn": "WS 08/90",
+    "approved": "(signature, illegible)",
+    "signature": "DISC NO: 370 CODE: 00416L01",
+    "issue": "1",
+    "customer": "KFBK/KAER",
+    "models": [
+      "M8205"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "filename": "Scan_20210323 (88).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/Scan_20210323 (88).jpg",
+  "width": 4757,
+  "height": 3363,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    4141,
+    459,
+    4747,
+    786
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:00",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/FILTERS/M402/1969 - 402-03-004 - SWITCH MTG BRKT M402A - ISS 4.jpg",
+  "note": "Scan_20210323 (88).jpg.md",
+  "title_block": {
+    "drawing_number": "B 402-03-004",
+    "size": "B",
+    "title": "SWITCH MTG BRKT / M402A",
+    "date": "OCT 69",
+    "year": 1969,
+    "month": 10,
+    "issue": "4",
+    "models": [
+      "M402A"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "filename": "WBSps.ca -2021-3-15-19-3-51 (50).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca -2021-3-15-19-3-51 (50).jpg",
+  "width": 4980,
+  "height": 3213,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    4115,
+    2690,
+    4980,
+    3201
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/AMPLIFIERS/M450/1978 - 450-02-003 - M450B PROGRAM SUMMING AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 3.jpg",
+  "note": "WBSps.ca -2021-3-15-19-3-51 (50).jpg.md",
+  "title_block": {
+    "drawing_number": "B 450-02-003",
+    "size": "B",
+    "title": "M450B / PROGRAM/SUMMING AMPLIFIER / SCHEMATIC",
+    "date": "4/78",
+    "year": 1978,
+    "month": 4,
+    "drawn": "GEB",
+    "checked": "R. Bell (signature)",
+    "engineer": "MRW 4/78",
+    "signature": "ISS 2 6/79 3640 PM; ISS 3 3/83 4038 T.R.",
+    "issue": "3",
+    "models": [
+      "M450B"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "filename": "144-06-001.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/Manuals + tech DOCUMENTS/Modules/M402/144-06-001.jpg",
+  "extension": ".jpg",
+  "size_bytes": 7181481,
+  "modified_time": "Sun Sep  6 22:12:23 2026",
+  "word_tokens": [
+    "144",
+    "06",
+    "001"
+  ],
+  "width": 3492,
+  "height": 4904,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "ExifOffset": "26",
+    "ExifImageWidth": "3492",
+    "ExifImageHeight": "4904"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

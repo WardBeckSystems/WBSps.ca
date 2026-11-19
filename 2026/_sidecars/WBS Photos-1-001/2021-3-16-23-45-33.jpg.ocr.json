@@ -1,0 +1,30 @@
+{
+  "filename": "2021-3-16-23-45-33.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2021-3-16-23-45-33.jpg",
+  "width": 4994,
+  "height": 3203,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2901,
+    1592,
+    4923,
+    3202
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/960243/1996 - 960243-03-003 - VOICER TURRET FRONT PANEL - DRN DRG - ISS 1.jpg",
+  "note": "2021-3-16-23-45-33.jpg.md",
+  "title_block": {
+    "drawing_number": "D 960243-03-003",
+    "size": "D",
+    "title": "VOICER TURRET / FRONT PANEL",
+    "drawn": "DRG",
+    "signature": "small title block at bottom right of drawing with dimension detail; SCALE 1:1; DISC NO: SYS01, CODE: 96243M03",
+    "issue": "1"
+  }
+}

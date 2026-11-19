@@ -1,0 +1,45 @@
+{
+  "filename": "2021-3-16-22-28-44.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/2021-3-16-22-28-44.jpg",
+  "extension": ".jpg",
+  "size_bytes": 544510,
+  "modified_time": "Sat Oct 17 23:34:15 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "2021",
+    "16",
+    "22",
+    "28",
+    "44"
+  ],
+  "width": 4976,
+  "height": 3214,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4976",
+    "ExifImageHeight": "3214",
+    "ImageUniqueID": "2b92ec78017abc660000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/940184 - Glenn Gould Studio/1994 - 940184-04-001 - GLENN GOULD STUDIO TURRET LAYOUTS - DRN DRG - ISS 2.jpg",
+  "note": "2021-3-16-22-28-44.jpg.md",
+  "title_block": {
+    "drawing_number": "D 940184-04-001",
+    "size": "D",
+    "title": "GLENN GOULD STUDIO / TURRET / LAYOUTS",
+    "drawn": "DRG",
+    "signature": "DISC NO: 459; CODE: 94184L01; SCALE NTS",
+    "issue": "2",
+    "customer": "Glenn Gould Studio"
+  }
+}

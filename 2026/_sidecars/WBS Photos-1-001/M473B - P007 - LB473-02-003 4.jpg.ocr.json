@@ -1,0 +1,37 @@
+{
+  "filename": "M473B - P007 - LB473-02-003 4.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/M473B - P007 - LB473-02-003 4.jpg",
+  "width": 1693,
+  "height": 2179,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    594,
+    1565,
+    1692,
+    2179
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/SUMMING/M473/1984 - 473-02-003 - M473B STEREO SUBMASTER MODULE SCHEMATIC - DRN JP - ISS 2.jpg",
+  "note": "M473B - P007 - LB473-02-003 4.jpg.md",
+  "title_block": {
+    "drawing_number": "B 473-02-003",
+    "size": "B",
+    "title": "M473B / STEREO SUBMASTER MODULE / SCHEMATIC",
+    "date": "07/84",
+    "year": 1984,
+    "month": 7,
+    "drawn": "JP/07/84",
+    "checked": "P.C.",
+    "signature": "ISS 2 10/84 PINS 18 AND Z CHANGED",
+    "issue": "2",
+    "models": [
+      "M473B"
+    ]
+  }
+}

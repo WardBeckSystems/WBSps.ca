@@ -1,0 +1,37 @@
+{
+  "filename": "IMG_5542.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/IMG_5542.jpg",
+  "extension": ".jpg",
+  "size_bytes": 1313810,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "img",
+    "5542"
+  ],
+  "width": 2592,
+  "height": 1936,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {},
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:58",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1974 - 4-110-02-001 - 4-110 PRE-AMP HP FILTER SCHEMATIC - DRN DM.jpg",
+  "note": "IMG_5542.jpg.md",
+  "title_block": {
+    "drawing_number": "B 4-110-02-001",
+    "size": "B",
+    "title": "4-110 PRE-AMP/HP FILTER / SCHEMATIC",
+    "date": "8 MAR 74",
+    "year": 1974,
+    "month": 3,
+    "drawn": "DM",
+    "checked": "R.H.",
+    "signature": "USED ON 4-110; revision table initials Rm, Rnl, S.C., PKM, ML",
+    "models": [
+      "4-110"
+    ]
+  }
+}

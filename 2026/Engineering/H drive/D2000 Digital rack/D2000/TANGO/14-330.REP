@@ -1,0 +1,63 @@
+
+
+    Design Rule Check Report                                      14-330.PCB
+
+                            SA14-331 BILL OF MATERIAL
+
+    ========================================================================
+
+    DRC Clearances (in mils)
+    ------------------------
+
+                   Top   Bot  Mid1  Mid2  Mid3  Mid4  Mid5  Mid6  Mid7  Mid8
+
+      Pad-to-Pad    11    11    11    11    11    11    11    11    11    11
+     Pad-to-Line    11    11    11    11    11    11    11    11    11    11
+    Line-to-Line    11    11    11    11    11    11    11    11    11    11
+    
+    Hole-to-Hole    13
+    
+
+    DRC Report Options
+    ------------------
+
+    Clearance Violations:             enabled
+    Text Violations:                  disabled
+    Net List Violations:              disabled
+    Single Node Routes:               disabled
+    Unconnected Pins:                 disabled
+    Unplaced Nodes:                   disabled
+    
+
+    DRC Errors
+    ----------
+
+    
+    DRC Summary
+    -----------
+
+            0 errors detected
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            SA14-331 BILL OF MATERIAL
+
+    23-Oct-96  16:24                                                 Page  1

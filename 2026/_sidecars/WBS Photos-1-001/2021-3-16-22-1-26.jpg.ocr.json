@@ -1,0 +1,30 @@
+{
+  "filename": "2021-3-16-22-1-26.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2021-3-16-22-1-26.jpg",
+  "width": 4970,
+  "height": 3218,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3948,
+    2892,
+    4920,
+    3089
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1995 - SMART MIX MINUS CTL UNIT FRONT PANEL & COVER - DRN DRG.jpg",
+  "note": "2021-3-16-22-1-26.jpg.md",
+  "title_block": {
+    "title": "SMART MIX MINUS CTL UNIT / FRONT PANEL & COVER",
+    "date": "JAN95",
+    "year": 1995,
+    "month": 1,
+    "drawn": "DRG (JAN95)",
+    "signature": "DISC NO: 486; number row cut off"
+  }
+}

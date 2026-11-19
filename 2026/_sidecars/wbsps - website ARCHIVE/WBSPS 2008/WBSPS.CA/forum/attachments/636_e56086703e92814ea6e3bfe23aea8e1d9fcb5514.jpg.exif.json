@@ -1,0 +1,42 @@
+{
+  "filename": "636_e56086703e92814ea6e3bfe23aea8e1d9fcb5514.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/wbsps - website ARCHIVE/WBSPS 2008/WBSPS.CA/forum/attachments/636_e56086703e92814ea6e3bfe23aea8e1d9fcb5514.jpg",
+  "extension": ".jpg",
+  "size_bytes": 44729,
+  "modified_time": "Sun Sep  6 22:19:52 2026",
+  "word_tokens": [
+    "636",
+    "e56086703e92814ea6e3bfe23aea8e1d9fcb5514"
+  ],
+  "width": 480,
+  "height": 640,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "GPSInfo": "{1: 'N', 2: (52.0, 10.34, 0.0), 3: 'W', 4: (106.0, 38.78, 0.0)}",
+    "ResolutionUnit": "2",
+    "ExifOffset": "230",
+    "Make": "Apple",
+    "Model": "iPhone 3G",
+    "Software": "QuickTime 7.6.6",
+    "Orientation": "1",
+    "DateTime": "2010:09:29 12:51:36",
+    "XResolution": "72.0",
+    "YResolution": "72.0",
+    "HostComputer": "Mac OS X 10.6.4",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExposureProgram": "2",
+    "DateTimeOriginal": "2010:09:28 23:29:44",
+    "DateTimeDigitized": "2010:09:28 23:29:44",
+    "ApertureValue": "2.970853573907009",
+    "ExifImageWidth": "480",
+    "MeteringMode": "1",
+    "ExifImageHeight": "640",
+    "Flash": "32",
+    "SensingMethod": "2",
+    "FNumber": "2.8"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

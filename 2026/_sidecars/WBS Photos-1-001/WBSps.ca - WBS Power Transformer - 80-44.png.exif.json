@@ -1,0 +1,47 @@
+{
+  "filename": "WBSps.ca - WBS Power Transformer - 80-44.png",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca - WBS Power Transformer - 80-44.png",
+  "extension": ".png",
+  "size_bytes": 297948,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "wbs",
+    "power",
+    "transformer",
+    "80",
+    "44"
+  ],
+  "width": 4121,
+  "height": 2480,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "ExifOffset": "46",
+    "ExifVersion": "0220",
+    "ExifImageWidth": "4121",
+    "ExifImageHeight": "2480",
+    "ImageUniqueID": "1cf17dd54df8e5610000000000000000"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1988 - B 80-44 - 80-44 SWITCHMODE POWER TRANSFORMER - DRN GEB - ISS 2 (2).png",
+  "note": "WBSps.ca - WBS Power Transformer - 80-44.png.md",
+  "title_block": {
+    "drawing_number": "B 80-44",
+    "size": "B",
+    "title": "80-44 / SWITCHMODE POWER TRANSFORMER",
+    "date": "OCT 10/88",
+    "year": 1988,
+    "month": 10,
+    "drawn": "GEB",
+    "approved": "R. Bell (signature)",
+    "signature": "ISS 2 OCT 10/88 SEC#1 VOLTAGE",
+    "issue": "2"
+  }
+}

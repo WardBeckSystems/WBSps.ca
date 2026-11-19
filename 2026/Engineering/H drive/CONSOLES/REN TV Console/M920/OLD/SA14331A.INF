@@ -1,0 +1,443 @@
+`F  1.00 SA14331A
+`B "1" "5" "B" "      May  1, 1996" "14-331-02-001/1" "0" 
+"M920 INPUT MODULE PREAMPLIFIER" "WARD-BECK SYSTEMS LTD."
+"841 PROGRESS AVENUE"
+"SCARBOROUGH, ONTARIO, CANADA"
+"M1H 2X4"
+""
+`L SA14331B
+`L SA14331C
+`L SA14331D
+`L SA14331E
+`P U "M_SENSHI"
+`P S "+5V"
+`P U "M_SENSLO"
+`P U "M_SENSA"
+`P S "A_COMMON"
+`P O "MIC AUDIO"
+`P S "+12V"
+`P S "CTL_COM"
+`P S "-22V"
+`P S "+22V"
+`P I "PHANTOM"
+`P O "LO_SENS"
+`P I "MIC A"
+`P I "MIC0"
+`P I "MIC1"
+`P I "MIC2"
+`P I "MIC3"
+`P I "MIC4"
+`P I "MIC5"
+`S "VSS" 1 
+`E .\SA14331A.LIB
+`I R "6K81 1%" .\SA14331A.LIB "R" 40FEE0B5  RX1  []
+"" "" "" "" "" "" "" "r1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "6K81 1%" .\SA14331A.LIB "R" 40FEE0F4  RX2  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "47/50" .\SA14331A.LIB "CAP" 40FEE4DD  CX1  []
+"" "" "" "" "" "" "" "RAD.15" 
+"RAD.15"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "47/50" .\SA14331A.LIB "CAP" 40FEF42C  CX2  []
+"" "" "" "" "" "" "" "RAD.15" 
+"RAD.15"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "47/50" .\SA14331A.LIB "CAP" 40FEF493  CX3  []
+"" "" "" "" "" "" "" "RAD.15" 
+"RAD.15"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "47/50" .\SA14331A.LIB "CAP" 40FEF4FB  CX4  []
+"" "" "" "" "" "" "" "RAD.15" 
+"RAD.15"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "0.1" .\SA14331A.LIB "CAP NP" 40FEF5CC  CX5  []
+"" "" "" "" "" "" "" "CAP.1" 
+"CAP.1"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "0.1" .\SA14331A.LIB "CAP NP" 40FEF7EB  CX6  []
+"" "" "" "" "" "" "" "CAP.1" 
+"CAP.1"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "49R9 1%" .\SA14331A.LIB "R" 40FEFA2F  RX3  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "49R9 1%" .\SA14331A.LIB "R" 40FEFC95  RX4  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "10K 1%" .\SA14331A.LIB "R" 40FEFFEB  RX5  []
+"" "" "" "" "" "" "" "r1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "1K58 1%" .\SA14331A.LIB "R" 40FF0AD0  RX6  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "1K58 1%" .\SA14331A.LIB "R" 40FF0A87  RX7  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "150 1%" .\SA14331A.LIB "R" 40FF0E52  RX8  []
+"" "" "" "" "" "" "" "r1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "150 1%" .\SA14331A.LIB "R" 40FF0E54  RX9  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "1N752A" .\SA14331A.LIB "DIODE ZENER" 40FF3F24  DX1  [1]
+"" "" "" "" "" "" "" "DO-35" 
+"DO-35"
+( "CATHODE" "1" P ) ( "ANODE" "2" P ) 
+`I R "1N752A" .\SA14331A.LIB "DIODE ZENER" 40FF3F72  DX2  [1]
+"" "" "" "" "" "" "" "DO-35" 
+"DO-35"
+( "CATHODE" "1" P ) ( "ANODE" "2" P ) 
+`I R "1N752A" .\SA14331A.LIB "DIODE ZENER" 40FF5AFD  DX3  [1]
+"" "" "" "" "" "" "" "DO-35" 
+"DO-35"
+( "CATHODE" "1" P ) ( "ANODE" "2" P ) 
+`I R "1N752A" .\SA14331A.LIB "DIODE ZENER" 40FF5AFF  DX4  [1]
+"" "" "" "" "" "" "" "DO-35" 
+"DO-35"
+( "CATHODE" "1" P ) ( "ANODE" "2" P ) 
+`I R "BERG3" .\SA14331A.LIB "HEADER 3" 414962FC  JP1  []
+"" "" "" "" "" "" "" "SIP3" 
+"SIP3"
+( "1" "1" P ) ( "2" "2" P ) ( "3" "3" P ) 
+`I R "6K81 1%" .\SA14331A.LIB "R" 41496BCA  RX10  []
+"" "" "" "" "" "" "" "r1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "6K81 1%" .\SA14331A.LIB "R" 41496BCB  RX11  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "47/50" .\SA14331A.LIB "CAP" 41496BCD  CX7  []
+"" "" "" "" "" "" "" "RAD.15" 
+"RAD.15"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "47/50" .\SA14331A.LIB "CAP" 41496BCE  CX8  []
+"" "" "" "" "" "" "" "RAD.15" 
+"RAD.15"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "47/50" .\SA14331A.LIB "CAP" 41496BD0  CX9  []
+"" "" "" "" "" "" "" "RAD.15" 
+"RAD.15"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "47/50" .\SA14331A.LIB "CAP" 41496BD1  CX10  []
+"" "" "" "" "" "" "" "RAD.15" 
+"RAD.15"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "0.1" .\SA14331A.LIB "CAP NP" 41496BD2  CX11  []
+"" "" "" "" "" "" "" "CAP.1" 
+"CAP.1"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "0.1" .\SA14331A.LIB "CAP NP" 41496BD4  CX12  []
+"" "" "" "" "" "" "" "CAP.1" 
+"CAP.1"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "49R9 1%" .\SA14331A.LIB "R" 41496BD5  RX12  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "49R9 1%" .\SA14331A.LIB "R" 41496BD7  RX13  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "10K 1%" .\SA14331A.LIB "R" 41496BD8  RX14  []
+"" "" "" "" "" "" "" "r1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "10K 1%" .\SA14331A.LIB "R" 41496BD9  RX15  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "1K58 1%" .\SA14331A.LIB "R" 41496BDC  RX16  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "1K58 1%" .\SA14331A.LIB "R" 41496BDE  RX17  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "150 1%" .\SA14331A.LIB "R" 41496BDF  RX18  []
+"" "" "" "" "" "" "" "r1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "150 1%" .\SA14331A.LIB "R" 41496BE0  RX19  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "1N752A" .\SA14331A.LIB "DIODE ZENER" 41496BE3  DX5  [1]
+"" "" "" "" "" "" "" "DO-35" 
+"DO-35"
+( "CATHODE" "1" P ) ( "ANODE" "2" P ) 
+`I R "1N752A" .\SA14331A.LIB "DIODE ZENER" 41496BE5  DX6  [1]
+"" "" "" "" "" "" "" "DO-35" 
+"DO-35"
+( "CATHODE" "1" P ) ( "ANODE" "2" P ) 
+`I R "1N752A" .\SA14331A.LIB "DIODE ZENER" 41496BE6  DX7  [1]
+"" "" "" "" "" "" "" "DO-35" 
+"DO-35"
+( "CATHODE" "1" P ) ( "ANODE" "2" P ) 
+`I R "1N752A" .\SA14331A.LIB "DIODE ZENER" 41496BE7  DX8  [1]
+"" "" "" "" "" "" "" "DO-35" 
+"DO-35"
+( "CATHODE" "1" P ) ( "ANODE" "2" P ) 
+`I R "BERG3" .\SA14331A.LIB "HEADER 3" 4149729B  JP2  []
+"" "" "" "" "" "" "" "SIP3" 
+"SIP3"
+( "1" "1" P ) ( "2" "2" P ) ( "3" "3" P ) 
+`I R "10K 1%" .\SA14331A.LIB "R" 40FEFFEC  RX20  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "SOT" .\SA14331A.LIB "R" 414A912A  RX21  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "47/50" .\SA14331A.LIB "CAP" 414A9EFC  CX13  []
+"" "" "" "" "" "" "" "RAD.15" 
+"RAD.15"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "100 1/2W" .\SA14331A.LIB "R" 414AA0E0  RX22  []
+"" "" "" "" "" "" "" "R1/2" 
+"R1/2"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "2N3904" .\SA14331A.LIB "NPN EBC" 414AAC0B  QX1  [1]
+"" "" "" "" "" "" "" "TO-92" 
+"TO-92"
+( "EMITTER" "1" P ) ( "BASE" "2" I ) ( "COLLECTOR" "3" P ) 
+`I R "2N3904" .\SA14331A.LIB "NPN EBC" 414AAF34  QX2  [1]
+"" "" "" "" "" "" "" "TO-92" 
+"TO-92"
+( "EMITTER" "1" P ) ( "BASE" "2" I ) ( "COLLECTOR" "3" P ) 
+`I R "470P" .\SA14331A.LIB "CAP NP" 414AC29D  CX14  []
+"" "" "" "" "" "" "" "CAP.2" 
+"CAP.2"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "470P" .\SA14331A.LIB "CAP NP" 414AC75F  CX15  []
+"" "" "" "" "" "" "" "CAP.2" 
+"CAP.2"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "G6AK-234P-ST-US-5VDC" .\SA14331A.LIB "RELAY LATCH DPD" 41492B4B  K1  [1]
+"" "" "" "" "" "" "" "dip16" 
+"DIP16"
+( "COMMON1" "4" P ) ( "NC1" "6" P ) ( "NO1" "8" P ) ( "COMMON2" "13" P ) 
+( "NC2" "11" P ) ( "NO2" "9" P ) ( "COIL3" "2" P ) ( "COIL4" "15" P ) ( "COIL1" "1" P ) 
+( "COIL2" "16" P ) 
+`I R "470P" .\SA14331A.LIB "CAP NP" 414AE1EA  CX16  []
+"" "" "" "" "" "" "" "CAP.2" 
+"CAP.2"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "SOT" .\SA14331A.LIB "R" 414AF3F6  RX23  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "1000P" .\SA14331A.LIB "CAP NP" 414AF6F0  CX17  []
+"" "" "" "" "" "" "" "CAP.2" 
+"CAP.2"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "47/50" .\SA14331A.LIB "CAP" 4196EB73  CX18  []
+"" "" "" "" "" "" "" "RAD.15" 
+"RAD.15"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "0.1" .\SA14331A.LIB "CAP NP" 4196EB75  CX19  []
+"" "" "" "" "" "" "" "CAP.1" 
+"CAP.1"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "0.1" .\SA14331A.LIB "CAP NP" 4196EC1E  CX20  []
+"" "" "" "" "" "" "" "CAP.1" 
+"CAP.1"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "47/50" .\SA14331A.LIB "CAP" 4196ECA2  CX21  []
+"" "" "" "" "" "" "" "RAD.15" 
+"RAD.15"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "100K" .\SA14331A.LIB "R" 4196F77C  RX24  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "SOT" .\SA14331A.LIB "R" 4196F7C1  RX25  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "47/50" .\SA14331A.LIB "CAP" 419704D5  CX22  []
+"" "" "" "" "" "" "" "RAD.15" 
+"RAD.15"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "100K" .\SA14331A.LIB "R" 419707C4  RX26  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "SOT" .\SA14331A.LIB "CAP NP" 4196FA9F  CX23  []
+"" "" "" "" "" "" "" "POLY.1" 
+"POLY.1"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "10K" .\SA14331A.LIB "R" 4197DF3D  RX27  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "4U7/10" .\SA14331A.LIB "CAP" 4197E658  CX24  []
+"" "" "" "" "" "" "" "TANTA.1" 
+"TANTA.1"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "10K" .\SA14331A.LIB "R" 4197EF2F  RX28  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "10K" .\SA14331A.LIB "R" 4197F305  RX29  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "4U7/10" .\SA14331A.LIB "CAP" 4197F883  CX25  []
+"" "" "" "" "" "" "" "TANTA.1" 
+"TANTA.1"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "10K" .\SA14331A.LIB "R" 4197F886  RX30  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "10K" .\SA14331A.LIB "R" 4197F887  RX31  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "10K" .\SA14331A.LIB "R" 4197FA32  RX32  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "0.1" .\SA14331A.LIB "CAP NP" 41983AB7  CX26  []
+"" "" "" "" "" "" "" "CAP.1" 
+"CAP.1"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "7K5" .\SA14331A.LIB "R" 41983661  RX33  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "2K7" .\SA14331A.LIB "R" 4198362D  RX34  []
+"" "" "" "" "" "" "" "R1/4" 
+"R1/4"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "74HC123" .\SA14331A.LIB "74HC123" 4197C029  UX1  [11]
+"" "" "" "" "" "" "" "DIP14" 
+"DIP14"
+( "CEXT_A" "14" I ) ( "CEXT_B" "6" I ) ( "REXT/CEXT_A" "15" I ) ( "REXT/CEXT_B" "7" I ) 
+( "A_A" "1" I ) ( "A_B" "9" I ) ( "B_A" "2" I ) ( "B_B" "10" I ) ( "CLR_A" "3" I ) 
+( "CLR_B" "11" I ) ( "Q_A" "13" O ) ( "Q_B" "5" O ) ( "Q\_A" "4" O ) ( "Q\_B" "12" O ) 
+( "GND_A" "8" P ) ( "VCC_A" "16" P ) 
+`I R "SSM2017P" .\SA14331A.LIB "SSM2017" 414AB6B1  UX2  [1]
+"" "" "" "" "" "" "" "DIP8" 
+"DIP8"
+( "+IN" "3" I ) ( "-IN" "2" I ) ( "OUT" "6" O ) ( "V+" "7" P ) 
+( "RG1" "1" P ) ( "A_COMMON" "5" S ) ( "V-" "4" P ) ( "RG2" "8" P ) 
+`I R "MC14053" .\SA14331A.LIB "4053" 40FF333F  UX3  [1]
+"" "" "" "" "" "" "" "DIP16" 
+"DIP16"
+( "X0" "12" B ) ( "X1" "13" B ) ( "Y0" "2" B ) ( "Y1" "1" B ) 
+( "Z0" "5" B ) ( "Z1" "3" B ) ( "INH" "6" I ) ( "A" "11" I ) ( "B" "10" I ) 
+( "C" "9" I ) ( "X" "14" B ) ( "Y" "15" B ) ( "Z" "4" B ) ( "VDD" "16" P ) 
+( "VSS" "8" P ) ( "VEE" "7" P ) 
+`I R "MC14053" .\SA14331A.LIB "4053" 41496BE2  UX4  [1]
+"" "" "" "" "" "" "" "DIP16" 
+"DIP16"
+( "X0" "12" B ) ( "X1" "13" B ) ( "Y0" "2" B ) ( "Y1" "1" B ) 
+( "Z0" "5" B ) ( "Z1" "3" B ) ( "INH" "6" I ) ( "A" "11" I ) ( "B" "10" I ) 
+( "C" "9" I ) ( "X" "14" B ) ( "Y" "15" B ) ( "Z" "4" B ) ( "VDD" "16" P ) 
+( "VSS" "8" P ) ( "VEE" "7" P ) 
+`I R "0.1" .\SA14331A.LIB "CAP NP" 41EF2BE3  CX27  []
+"" "" "" "" "" "" "" "CAP.1" 
+"CAP.1"
+( "1" "1" P ) ( "2" "2" P ) 
+`I R "1N4148" .\SA14331A.LIB "DIODE" 41EF3456  DX17  []
+"" "" "" "" "" "" "" "DO-35" 
+"DO-35"
+( "2" "2" P ) ( "1" "1" P ) 
+`J ( R CX5 "1" P ) ( R CX2 "1" P ) ( R CX1 "1" P ) ( R RX1 "2" P ) 
+( P I "MIC0" ) 
+`J ( R CX5 "2" P ) ( R RX7 "1" P ) ( R CX2 "2" P ) ( R RX3 "1" P ) 
+( R CX1 "2" P ) 
+`J ( R RX7 "2" P ) ( R UX3 12 B ) ( R RX8 "2" P ) 
+`J ( R RX3 "2" P ) ( R DX1 1 P ) ( R RX5 "2" P ) ( R UX3 13 B ) 
+`J ( R RX23 "2" P ) ( R UX2 8 P ) ( P U "M_SENSHI" ) ( R CX17 "1" P ) 
+`J ( R DX1 2 P ) ( R DX2 1 P ) 
+`J ( R UX1 16 P ) ( R RX30 "2" P ) ( R UX4 16 P ) ( R RX31 "2" P ) 
+( R RX28 "2" P ) ( R RX29 "2" P ) ( R DX17 "1" P ) ( P S "+5V" ) ( R UX3 16 P ) 
+`J ( R RX23 "1" P ) ( R UX2 1 P ) ( R CX17 "2" P ) ( P U "M_SENSA" ) 
+( P U "M_SENSLO" ) 
+`J ( R JP2 "3" P ) ( R DX6 2 P ) ( R DX7 1 P ) ( R RX14 "1" P ) 
+( R RX15 "2" P ) ( R RX18 "1" P ) ( R RX19 "2" P ) ( R CX13 "2" P ) ( R QX2 1 P ) 
+( R QX1 1 P ) ( R RX24 "1" P ) ( R CX21 "2" P ) ( R CX20 "2" P ) ( R CX23 "2" P ) 
+( R RX26 "1" P ) ( R CX18 "1" P ) ( R CX19 "1" P ) ( R CX14 "2" P ) ( R CX16 "1" P ) 
+( R UX2 5 S ) ( R DX2 2 P ) ( P S "A_COMMON" ) ( R JP1 "3" P ) ( R DX3 1 P ) 
+( R RX5 "1" P ) ( R RX20 "2" P ) ( R RX8 "1" P ) ( R RX9 "2" P ) 
+`J ( R CX14 "1" P ) ( R K1 4 P ) ( R CX15 "1" P ) ( R UX2 3 I ) 
+`J ( R UX3 14 B ) ( R K1 6 P ) 
+`J ( R JP1 "2" P ) ( R RX1 "1" P ) ( R RX2 "2" P ) ( P I "MIC2" ) 
+`J ( R UX3 15 B ) ( R K1 11 P ) 
+`J ( R K1 8 P ) ( R UX4 14 B ) 
+`J ( R UX3 2 B ) ( R RX9 "1" P ) ( R RX6 "2" P ) 
+`J ( R DX4 2 P ) ( R RX4 "2" P ) ( R RX20 "1" P ) ( R UX3 1 B ) 
+`J ( R UX4 6 I ) ( R UX4 9 I ) ( R UX4 5 B ) ( R UX4 3 B ) 
+( R UX4 8 P ) ( R UX4 4 B ) ( R RX34 "1" P ) ( R CX26 "1" P ) ( S "VSS" 1  ) 
+( R UX1 14 I ) ( R CX25 "2" P ) ( R UX1 9 I ) ( R UX1 6 I ) ( R CX27 "1" P ) 
+( R CX24 "2" P ) ( R UX1 8 P ) ( R UX3 5 B ) ( R UX3 3 B ) ( R UX3 8 P ) 
+( R UX3 4 B ) ( R UX3 6 I ) ( R UX3 9 I ) ( P S "CTL_COM" ) 
+`J ( R K1 13 P ) ( R CX16 "2" P ) ( R CX15 "2" P ) ( R UX2 2 I ) 
+`J ( R UX2 6 O ) ( R RX24 "2" P ) ( R RX25 "2" P ) ( R CX22 "2" P ) 
+`J ( R CX22 "1" P ) ( R RX26 "2" P ) ( P O "MIC AUDIO" ) 
+`J ( R DX3 2 P ) ( R DX4 1 P ) 
+`J ( R K1 9 P ) ( R UX4 15 B ) 
+`J ( R K1 2 P ) ( R K1 1 P ) ( R RX21 "1" P ) 
+`J ( R RX2 "1" P ) ( R CX3 "1" P ) ( R CX4 "1" P ) ( R CX6 "1" P ) 
+( P I "MIC1" ) 
+`J ( R K1 15 P ) ( R QX1 3 P ) 
+`J ( R CX3 "2" P ) ( R CX4 "2" P ) ( R RX4 "1" P ) ( R CX6 "2" P ) 
+( R RX6 "1" P ) 
+`J ( R UX3 11 I ) ( R UX3 10 I ) ( P O "LO_SENS" ) ( R UX4 11 I ) 
+( R UX4 10 I ) 
+`J ( R RX21 "2" P ) ( P S "+12V" ) 
+`J ( R RX33 "2" P ) ( R UX2 4 P ) ( R CX18 "2" P ) ( R CX19 "2" P ) 
+( P S "-22V" ) 
+`J ( R UX2 7 P ) ( R CX21 "1" P ) ( R CX20 "1" P ) ( P S "+22V" ) 
+`J ( R K1 16 P ) ( R QX2 3 P ) 
+`J ( R RX25 "1" P ) ( R CX23 "1" P ) 
+`J ( R UX3 7 P ) ( R UX4 7 P ) ( R RX34 "2" P ) ( R RX33 "1" P ) 
+( R CX26 "2" P ) 
+`J ( R QX1 2 I ) ( R RX27 "1" P ) 
+`J ( R RX27 "2" P ) ( R UX1 5 O ) 
+`J ( R UX1 11 I ) ( R CX27 "2" P ) ( R RX29 "1" P ) ( R DX17 "2" P ) 
+`J ( R JP1 "1" P ) ( R JP2 "1" P ) ( R RX22 "1" P ) ( R CX13 "1" P ) 
+`J ( R RX22 "2" P ) ( P I "PHANTOM" ) 
+`J ( R QX2 2 I ) ( R RX32 "1" P ) 
+`J ( R RX32 "2" P ) ( R UX1 13 O ) 
+`J ( R UX1 10 I ) ( R UX1 1 I ) ( P I "MIC A" ) 
+`J ( R JP2 "2" P ) ( R RX10 "1" P ) ( R RX11 "2" P ) ( P I "MIC5" ) 
+`J ( R UX1 7 I ) ( R CX24 "1" P ) ( R RX28 "1" P ) 
+`J ( R CX11 "1" P ) ( R CX8 "1" P ) ( R CX7 "1" P ) ( R RX10 "2" P ) 
+( P I "MIC3" ) 
+`J ( R CX11 "2" P ) ( R RX17 "1" P ) ( R CX8 "2" P ) ( R RX12 "1" P ) 
+( R CX7 "2" P ) 
+`J ( R RX17 "2" P ) ( R UX4 12 B ) ( R RX18 "2" P ) 
+`J ( R RX12 "2" P ) ( R DX5 1 P ) ( R RX14 "2" P ) ( R UX4 13 B ) 
+`J ( R RX31 "1" P ) ( R UX1 3 I ) ( R UX1 2 I ) 
+`J ( R DX5 2 P ) ( R DX6 1 P ) 
+`J ( R UX1 15 I ) ( R CX25 "1" P ) ( R RX30 "1" P ) 
+`J ( R UX4 2 B ) ( R RX19 "1" P ) ( R RX16 "2" P ) 
+`J ( R DX8 2 P ) ( R RX13 "2" P ) ( R RX15 "1" P ) ( R UX4 1 B ) 
+`J ( R DX7 2 P ) ( R DX8 1 P ) 
+`J ( R RX11 "1" P ) ( R CX9 "1" P ) ( R CX10 "1" P ) ( R CX12 "1" P ) 
+( P I "MIC4" ) 
+`J ( R CX9 "2" P ) ( R CX10 "2" P ) ( R RX13 "1" P ) ( R CX12 "2" P ) 
+( R RX16 "1" P ) 
+`|
+"|LINK"
+"|SA14331B.SCH"
+"|SA14331C.SCH"
+"|SA14331D.SCH"
+"|SA14331E.SCH"

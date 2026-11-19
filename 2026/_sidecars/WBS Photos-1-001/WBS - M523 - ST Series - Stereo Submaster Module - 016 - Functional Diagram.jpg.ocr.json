@@ -1,0 +1,31 @@
+{
+  "filename": "WBS - M523 - ST Series - Stereo Submaster Module - 016 - Functional Diagram.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBS - M523 - ST Series - Stereo Submaster Module - 016 - Functional Diagram.jpg",
+  "width": 8706,
+  "height": 6072,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2757,
+    3023,
+    4354,
+    3892
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:00",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/SUMMING/M523/19xx - M523 - ST Series - Stereo Submaster Module - 016 - Functional Diagram.jpg",
+  "note": "WBS - M523 - ST Series - Stereo Submaster Module - 016 - Functional Diagram.jpg.md",
+  "title_block": {
+    "drawing_number": "B 523-01-001",
+    "size": "B",
+    "title": "M523 STEREO SUBMASTER MODULE / FUNCTIONAL",
+    "issue": "1",
+    "models": [
+      "M523"
+    ]
+  }
+}

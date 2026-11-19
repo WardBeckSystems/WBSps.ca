@@ -1,0 +1,30 @@
+{
+  "filename": "WBSps.ca - WBS Power Transformer - 80-18.png",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca - WBS Power Transformer - 80-18.png",
+  "width": 4129,
+  "height": 2480,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1945,
+    1901,
+    4129,
+    2479
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1972 - 80-18 - POWER TRANSFORMER TYPE 80-18 - ISS 4.png",
+  "note": "WBSps.ca - WBS Power Transformer - 80-18.png.md",
+  "title_block": {
+    "drawing_number": "80-18",
+    "title": "POWER TRANSFORMER / TYPE 80-18",
+    "date": "?3/72",
+    "year": 1972,
+    "signature": "ISS 2 ELECTROSTATIC SHIELD EXTENDED Dec 73; ISS 3 MOUNTING BRACKETS ADDED GEB DEC 76; ISS 4 SLOT DIMENSION CHANGE AS PER MAN. REQUEST GEB MAR 77",
+    "issue": "4"
+  }
+}

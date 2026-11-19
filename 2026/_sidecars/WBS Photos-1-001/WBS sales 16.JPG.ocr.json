@@ -1,0 +1,28 @@
+{
+  "filename": "WBS sales 16.JPG",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBS sales 16.JPG",
+  "width": 1240,
+  "height": 1753,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    852,
+    967,
+    1151,
+    1488
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:00",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/FILTERS/M462B/19xx - M462B - Frequency Response Characteristics M462B Equalizer Module.jpg",
+  "note": "WBS sales 16.JPG.md",
+  "title_block": {
+    "title": "Frequency Response Characteristics M462B Equalizer Module",
+    "models": [
+      "M462B"
+    ]
+  }
+}

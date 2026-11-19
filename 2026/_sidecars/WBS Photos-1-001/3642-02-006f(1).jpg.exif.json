@@ -1,0 +1,51 @@
+{
+  "filename": "3642-02-006f(1).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/3642-02-006f(1).jpg",
+  "extension": ".jpg",
+  "size_bytes": 3191304,
+  "modified_time": "Sat Oct 17 23:34:16 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "3642",
+    "02",
+    "006f(1)"
+  ],
+  "width": 4956,
+  "height": 3504,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "ResolutionUnit": "2",
+    "ExifOffset": "122",
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "XResolution": "72.0",
+    "YResolution": "72.0",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4956",
+    "ExifImageHeight": "3504",
+    "ImageUniqueID": "063dd636a93aeeb50000000000000000",
+    "ExifInteroperabilityOffset": "234"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:55",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1988 - 3642-02-006 - METER SCHEMATIC - DRN DS - ISS 3 (2).jpg",
+  "note": "3642-02-006f(1).jpg.md",
+  "title_block": {
+    "drawing_number": "D 3642-02-006",
+    "size": "D",
+    "title": "METER / SCHEMATIC",
+    "date": "5/88",
+    "year": 1988,
+    "month": 5,
+    "drawn": "D.S. 5/88",
+    "approved": "P.C. (signature)",
+    "signature": "revisions: 3 04/88 REDRAWN; 2 07/85 AMPLIFIER WIRING CHANGED; DISC NO 227 CODE 3642S06",
+    "issue": "3",
+    "job": "3642"
+  }
+}

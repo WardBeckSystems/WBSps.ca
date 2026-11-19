@@ -1,0 +1,47 @@
+{
+  "filename": "WBSps.ca - 20210317 11X 17 Scans  (116).png",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca - 20210317 11X 17 Scans  (116).png",
+  "extension": ".png",
+  "size_bytes": 527271,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "20210317",
+    "11x",
+    "17",
+    "scans",
+    "(116)"
+  ],
+  "width": 4757,
+  "height": 3363,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "ExifOffset": "46",
+    "ExifVersion": "0220",
+    "ExifImageWidth": "4757",
+    "ExifImageHeight": "3363",
+    "ImageUniqueID": "c07ae6ebc751576e0000000000000000"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/920477/1992 - 920477-04-012 - EQUIPMENT LAYOUT - DRN PA - ENG PA - ISS 1.png",
+  "note": "WBSps.ca - 20210317 11X 17 Scans  (116).png.md",
+  "title_block": {
+    "drawing_number": "B 920477-04-012",
+    "size": "B",
+    "title": "EQUIPMENT LAYOUT",
+    "drawn": "PA",
+    "checked": "initials",
+    "engineer": "PA",
+    "issue": "1",
+    "models": [
+      "M207"
+    ]
+  }
+}

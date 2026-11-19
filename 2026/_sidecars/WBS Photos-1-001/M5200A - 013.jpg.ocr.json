@@ -1,0 +1,25 @@
+{
+  "filename": "M5200A - 013.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/M5200A - 013.jpg",
+  "width": 4784,
+  "height": 3310,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": null,
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/COMPUTERS/M5200/19xx - 5200-02-002 - CONTROLLER MODULE SCHEMATIC.jpg",
+  "note": "M5200A - 013.jpg.md",
+  "title_block": {
+    "drawing_number": "B 5200-02-002",
+    "size": "B",
+    "title": "CONTROLLER MODULE / SCHEMATIC",
+    "models": [
+      "M5200A"
+    ]
+  }
+}

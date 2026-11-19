@@ -1,0 +1,49 @@
+{
+  "filename": "WBSps.ca - WBS Power Transformer - 80-28 Notes.png",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca - WBS Power Transformer - 80-28 Notes.png",
+  "extension": ".png",
+  "size_bytes": 2047084,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "wbs",
+    "power",
+    "transformer",
+    "80",
+    "28",
+    "notes"
+  ],
+  "width": 4235,
+  "height": 2692,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "ExifOffset": "46",
+    "ExifVersion": "0220",
+    "ExifImageWidth": "4235",
+    "ExifImageHeight": "2692",
+    "ImageUniqueID": "f361eb4da468376b0000000000000000"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1982 - B 80-28 - 80-28 POWER TRANSFORMER - DRN P. Mahoney - ISS 3.png",
+  "note": "WBSps.ca - WBS Power Transformer - 80-28 Notes.png.md",
+  "title_block": {
+    "drawing_number": "B 80-28",
+    "size": "B",
+    "title": "80-28 / POWER TRANSFORMER",
+    "date": "5/82",
+    "year": 1982,
+    "month": 5,
+    "drawn": "P. Mahoney",
+    "checked": "R. Bell (signature)",
+    "approved": "R. Bell (signature)",
+    "signature": "ISS 2 5/82 LEAD DIM. SHOWN; SCALE 3:5; number and issue retouched",
+    "issue": "3"
+  }
+}

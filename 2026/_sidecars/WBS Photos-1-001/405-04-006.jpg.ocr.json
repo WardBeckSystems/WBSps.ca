@@ -1,0 +1,37 @@
+{
+  "filename": "405-04-006.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/405-04-006.jpg",
+  "width": 3300,
+  "height": 10200,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3,
+    7188,
+    710,
+    10200
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:55",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/METER/M405/1975 - 405-04-006 - M405C EXT. RANGE VU COMPONENT LAYOUT - DRN REB - ISS 2.jpg",
+  "note": "405-04-006.jpg.md",
+  "title_block": {
+    "drawing_number": "B 405-04-006",
+    "size": "B",
+    "title": "M405C EXT. RANGE VU / COMPONENT LAYOUT",
+    "date": "5 SEPT. 75",
+    "year": 1975,
+    "month": 9,
+    "drawn": "REB",
+    "checked": "RB DM",
+    "signature": "revision table entry dated 9/30/75",
+    "issue": "2",
+    "models": [
+      "M405C"
+    ]
+  }
+}

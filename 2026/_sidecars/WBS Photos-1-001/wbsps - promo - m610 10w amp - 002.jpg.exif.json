@@ -1,0 +1,43 @@
+{
+  "filename": "wbsps - promo - m610 10w amp - 002.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/wbsps - promo - m610 10w amp - 002.jpg",
+  "extension": ".jpg",
+  "size_bytes": 107609,
+  "modified_time": "Sat Oct 17 23:34:21 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "promo",
+    "m610",
+    "10w",
+    "amp",
+    "002"
+  ],
+  "width": 673,
+  "height": 900,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "673",
+    "ExifImageHeight": "900",
+    "ImageUniqueID": "5502d78c6139679a0000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/AMPLIFIERS/M610/wbsps - promo - m610 10w amp - 002.jpg",
+  "note": "wbsps - promo - m610 10w amp - 002.jpg.md",
+  "title_block": {
+    "models": [
+      "M610"
+    ]
+  }
+}

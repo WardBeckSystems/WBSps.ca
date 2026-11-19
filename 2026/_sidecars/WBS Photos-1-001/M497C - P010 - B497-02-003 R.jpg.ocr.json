@@ -1,0 +1,33 @@
+{
+  "filename": "M497C - P010 - B497-02-003 R.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/M497C - P010 - B497-02-003 R.jpg",
+  "width": 1700,
+  "height": 2168,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1100,
+    1817,
+    1629,
+    2165
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/SUMMING/M497/19xx - 497-02-003 - DUAL MASTER MODULE SCHEMATIC - DRN DS - ENG PA - ISS 2.jpg",
+  "note": "M497C - P010 - B497-02-003 R.jpg.md",
+  "title_block": {
+    "drawing_number": "B 497-02-003",
+    "size": "B",
+    "title": "DUAL MASTER MODULE / SCHEMATIC",
+    "drawn": "DS",
+    "engineer": "PA",
+    "issue": "2",
+    "models": [
+      "M497C"
+    ]
+  }
+}

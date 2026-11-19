@@ -1,0 +1,43 @@
+{
+  "filename": "Scan_20210314 (4).png",
+  "relative_path": "WBSps.env/WBS Photos-1-001/Scan_20210314 (4).png",
+  "extension": ".png",
+  "size_bytes": 335761,
+  "modified_time": "Sat Oct 17 23:34:19 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "scan",
+    "20210314",
+    "(4)"
+  ],
+  "width": 2480,
+  "height": 4129,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "ExifOffset": "46",
+    "ExifVersion": "0220",
+    "ExifImageWidth": "2480",
+    "ExifImageHeight": "4129",
+    "ImageUniqueID": "6d6a0b0ae0ae027a0000000000000000"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:00",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1985 - B 80-26-2 - 80-26-2 POWER TRANSFORMER - DRN GEB - ENG GEB - ISS 3.png",
+  "note": "Scan_20210314 (4).png.md",
+  "title_block": {
+    "drawing_number": "B 80-26-2",
+    "size": "B",
+    "title": "80-26-2 POWER TRANSFORMER",
+    "date": "JUN 11/85",
+    "year": 1985,
+    "month": 6,
+    "drawn": "GEB",
+    "engineer": "GEB 2/83",
+    "signature": "ISS 2 AUG 83 MFG No CHANGED; ISS 3 JUN 11/85 NOTE RE LID ADDED; SCALE FULL",
+    "issue": "3"
+  }
+}

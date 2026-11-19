@@ -1,0 +1,37 @@
+{
+  "filename": "WBSps.ca - 20210317 11X 17 Scans  (68).png",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca - 20210317 11X 17 Scans  (68).png",
+  "width": 4757,
+  "height": 3363,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3076,
+    2466,
+    4754,
+    3271
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/ROUTING/M468/1977 - 468-02-024 - M468L ASSIGNMENT MODULE SCHEMATIC - DRN DB - ENG PA - ISS 1.png",
+  "note": "WBSps.ca - 20210317 11X 17 Scans  (68).png.md",
+  "title_block": {
+    "drawing_number": "B 468-02-024",
+    "size": "B",
+    "title": "M468L / ASSIGNMENT MODULE / SCHEMATIC",
+    "date": "5/10/77",
+    "year": 1977,
+    "month": 10,
+    "drawn": "D.B. 5/10/77",
+    "checked": "P.C.",
+    "engineer": "P.A.",
+    "issue": "1",
+    "models": [
+      "M468L"
+    ]
+  }
+}

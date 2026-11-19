@@ -1,0 +1,35 @@
+{
+  "filename": "L2042 - P18 - Console Layout.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/L2042 - P18 - Console Layout.jpg",
+  "width": 1866,
+  "height": 1304,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    22,
+    100,
+    1020,
+    705
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:58",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1970-1979/77012 - 04-002 L2042 layout iss 5/1977 - 77012-04-002 - WBS L2042 CONSOLE AUDIO CONSOLE LAYOUT - DRN DNW - ISS 3.jpg",
+  "note": "L2042 - P18 - Console Layout.jpg.md",
+  "title_block": {
+    "drawing_number": "B 77012-04-002",
+    "size": "B",
+    "title": "WBS L2042 CONSOLE / AUDIO CONSOLE LAYOUT",
+    "date": "MAR 77",
+    "year": 1977,
+    "month": 3,
+    "drawn": "DNW",
+    "issue": "3",
+    "models": [
+      "L2042"
+    ]
+  }
+}

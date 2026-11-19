@@ -1,0 +1,35 @@
+{
+  "filename": "51_Image010_jpg823845a95500e8647dbf4f1aa1dfc312.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/wbsps - website ARCHIVE/WBSPS 2008/WBSPS.CA/forum/attachments/51_Image010_jpg823845a95500e8647dbf4f1aa1dfc312.jpg",
+  "extension": ".jpg",
+  "size_bytes": 413527,
+  "modified_time": "Sun Sep  6 22:19:55 2026",
+  "word_tokens": [
+    "51",
+    "image010",
+    "jpg823845a95500e8647dbf4f1aa1dfc312"
+  ],
+  "width": 1600,
+  "height": 1200,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "ResolutionUnit": "2",
+    "ExifOffset": "167",
+    "Make": "Nokia",
+    "Model": "6275i",
+    "Software": "V BL107V0900.nep",
+    "Orientation": "1",
+    "YCbCrPositioning": "1",
+    "XResolution": "72.0",
+    "YResolution": "72.0",
+    "ExifVersion": "0220",
+    "ComponentsConfiguration": "\u0001\u0002\u0003",
+    "FlashPixVersion": "0100",
+    "ColorSpace": "1",
+    "ExifImageWidth": "1600",
+    "ExifImageHeight": "1200"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

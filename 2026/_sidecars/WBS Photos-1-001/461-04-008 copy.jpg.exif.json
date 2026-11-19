@@ -1,0 +1,56 @@
+{
+  "filename": "461-04-008 copy.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/461-04-008 copy.jpg",
+  "extension": ".jpg",
+  "size_bytes": 1005337,
+  "modified_time": "Sat Oct 17 23:34:16 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "461",
+    "04",
+    "008",
+    "copy"
+  ],
+  "width": 3000,
+  "height": 2022,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "ResolutionUnit": "2",
+    "ExifOffset": "176",
+    "Software": "Adobe Photoshop CS3 Macintosh",
+    "Orientation": "1",
+    "DateTime": "2014:03:31 11:06:39",
+    "YCbCrSubSampling": "['1', '1']",
+    "XResolution": "300.0",
+    "YResolution": "300.0",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "3000",
+    "ExifImageHeight": "2022",
+    "DateTimeDigitized": "2014:03:31 11:06:39",
+    "ExifInteroperabilityOffset": "320",
+    "ImageUniqueID": "cc979102495e7e070000000000000000"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:56",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/INPUT-PRE-AMPS/M461/1976 - 461-04-008 - M461M INPUT MODULE ASSEMBLY - DRN MING - ISS 2.jpg",
+  "note": "461-04-008 copy.jpg.md",
+  "title_block": {
+    "drawing_number": "C 461-04-008",
+    "size": "C",
+    "title": "M461M / INPUT MODULE ASSEMBLY",
+    "date": "22 SEPT 76",
+    "year": 1976,
+    "month": 9,
+    "drawn": "MING",
+    "checked": "signed 9-23-76",
+    "signature": "ISS 2 revision entry CHANGE 4-109 & 4-109A TO 8-109 & 8-109A, PC",
+    "issue": "2",
+    "models": [
+      "M461M"
+    ]
+  }
+}

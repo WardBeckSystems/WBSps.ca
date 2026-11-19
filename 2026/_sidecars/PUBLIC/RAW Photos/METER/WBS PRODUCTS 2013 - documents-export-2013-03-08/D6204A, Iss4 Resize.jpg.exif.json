@@ -1,0 +1,27 @@
+{
+  "filename": "D6204A, Iss4 Resize.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/RAW Photos/METER/WBS PRODUCTS 2013 - documents-export-2013-03-08/D6204A, Iss4 Resize.jpg",
+  "extension": ".jpg",
+  "size_bytes": 487050,
+  "modified_time": "Sun Sep  6 22:15:34 2026",
+  "word_tokens": [
+    "d6204a,",
+    "iss4",
+    "resize"
+  ],
+  "width": 1242,
+  "height": 299,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "ResolutionUnit": "2",
+    "ExifOffset": "90",
+    "Orientation": "1",
+    "XResolution": "72.0",
+    "YResolution": "72.0",
+    "ExifImageWidth": "1242",
+    "ExifImageHeight": "299"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

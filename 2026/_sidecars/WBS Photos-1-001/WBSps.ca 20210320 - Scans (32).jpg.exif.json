@@ -1,0 +1,51 @@
+{
+  "filename": "WBSps.ca 20210320 - Scans (32).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (32).jpg",
+  "extension": ".jpg",
+  "size_bytes": 1881192,
+  "modified_time": "Sat Oct 17 23:34:21 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "20210320",
+    "scans",
+    "(32)"
+  ],
+  "width": 4757,
+  "height": 3363,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4757",
+    "ExifImageHeight": "3363",
+    "ImageUniqueID": "340a5519f79b544b0000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M568/1985 - 568-01-004 - M568C M568D TRACK MASTER FUNCTIONAL - ENG ECJ - ISS 2.jpg",
+  "note": "WBSps.ca 20210320 - Scans (32).jpg.md",
+  "title_block": {
+    "drawing_number": "B 568-01-004",
+    "size": "B",
+    "title": "M568C/M568D TRACK MASTER / FUNCTIONAL",
+    "date": "'85",
+    "year": 1985,
+    "drawn": "(signature, illegible)",
+    "engineer": "ECJ",
+    "signature": "ISS 2 '85 BACKLOAD ADDED (revision row partly cut off)",
+    "issue": "2",
+    "models": [
+      "M568C",
+      "M568D"
+    ]
+  }
+}

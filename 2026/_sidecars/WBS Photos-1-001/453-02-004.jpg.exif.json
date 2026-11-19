@@ -1,0 +1,50 @@
+{
+  "filename": "453-02-004.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/453-02-004.jpg",
+  "extension": ".jpg",
+  "size_bytes": 5591019,
+  "modified_time": "Sat Oct 17 23:34:16 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "453",
+    "02",
+    "004"
+  ],
+  "width": 3300,
+  "height": 10200,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "ResolutionUnit": "2",
+    "ExifOffset": "176",
+    "Software": "Adobe Photoshop CS3 Macintosh",
+    "Orientation": "1",
+    "DateTime": "2014:01:12 12:32:34",
+    "YCbCrSubSampling": "['1', '1']",
+    "XResolution": "300.0",
+    "YResolution": "300.0",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "3300",
+    "ExifImageHeight": "10200",
+    "ImageUniqueID": "d16f114fb893b1ef0000000000000000",
+    "ExifInteroperabilityOffset": "288"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:55",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1970-1979/76045 - CFTO/1977 - 76045-02-004 - MASTER CHANNEL SCHEMATIC - DRN ELJ - ISS 1.jpg",
+  "note": "453-02-004.jpg.md",
+  "title_block": {
+    "drawing_number": "B 76045-02-004",
+    "size": "B",
+    "title": "MASTER CHANNEL / SCHEMATIC",
+    "date": "JAN 77",
+    "year": 1977,
+    "month": 1,
+    "drawn": "ELJ",
+    "checked": "P.C.",
+    "issue": "1"
+  }
+}

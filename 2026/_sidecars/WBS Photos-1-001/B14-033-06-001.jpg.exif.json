@@ -1,0 +1,45 @@
+{
+  "filename": "B14-033-06-001.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/B14-033-06-001.jpg",
+  "extension": ".jpg",
+  "size_bytes": 4850116,
+  "modified_time": "Sat Oct 17 23:34:17 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "b14",
+    "033",
+    "06",
+    "001"
+  ],
+  "width": 3500,
+  "height": 4952,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "3500",
+    "ExifImageHeight": "4952",
+    "ImageUniqueID": "fcb4220edc9cf6820000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:57",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/19xx - 14-033-06-001 - SA14-033 CONTROLLER DAUGHTER BOARD ASSY. COMPONENT LAYOUT - ISS 2.jpg",
+  "note": "B14-033-06-001.jpg.md",
+  "title_block": {
+    "drawing_number": "B 14-033-06-001",
+    "size": "B",
+    "title": "SA14-033 / CONTROLLER DAUGHTER BOARD ASSY. / COMPONENT LAYOUT",
+    "issue": "2",
+    "models": [
+      "SA14-033"
+    ]
+  }
+}

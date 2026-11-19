@@ -1,0 +1,37 @@
+{
+  "filename": "M465 - P025 - B8-109-02-004 R.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/M465 - P025 - B8-109-02-004 R.jpg",
+  "width": 1700,
+  "height": 2190,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1148,
+    1911,
+    1699,
+    2190
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/DYNAMICS/M465/1978 - 8-109-02-004 - 8-109C BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1.jpg",
+  "note": "M465 - P025 - B8-109-02-004 R.jpg.md",
+  "title_block": {
+    "drawing_number": "B 8-109-02-004",
+    "size": "B",
+    "title": "8-109C / BOOSTER AMPLIFIER / SCHEMATIC",
+    "date": "4/78",
+    "year": 1978,
+    "month": 4,
+    "drawn": "GEB",
+    "checked": "(signature)",
+    "engineer": "MRW 4/78",
+    "issue": "1",
+    "models": [
+      "M465"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "filename": "US Sales Brochure M605 component layout copy.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/US Sales Brochure M605 component layout copy.jpg",
+  "width": 5100,
+  "height": 3300,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3060,
+    2504,
+    4895,
+    3299
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:00",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/AMPLIFIERS/M605/19xx - 605-06-006 - M605A AUDIO DISTRIBUTION AMPLIFIER COMPONENT LAYOUT - DRN P. Mahoney - ISS 1.jpg",
+  "note": "US Sales Brochure M605 component layout copy.jpg.md",
+  "title_block": {
+    "drawing_number": "B 605-06-006",
+    "size": "B",
+    "title": "M605A / AUDIO DISTRIBUTION AMPLIFIER / COMPONENT LAYOUT",
+    "drawn": "P. Mahoney",
+    "checked": "Relle",
+    "issue": "1",
+    "models": [
+      "M605A"
+    ]
+  }
+}

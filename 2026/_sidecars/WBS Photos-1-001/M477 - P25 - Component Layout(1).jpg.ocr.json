@@ -1,0 +1,37 @@
+{
+  "filename": "M477 - P25 - Component Layout(1).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/M477 - P25 - Component Layout(1).jpg",
+  "width": 2629,
+  "height": 2023,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1922,
+    1462,
+    2627,
+    2022
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/SUMMING/M477/1979 - 477-06-001 - MASTER MODULE COMPONENT LAYOUT - DRN MRW - ISS 6.jpg",
+  "note": "M477 - P25 - Component Layout(1).jpg.md",
+  "title_block": {
+    "drawing_number": "B 477-06-001",
+    "size": "B",
+    "title": "M477 / MASTER MODULE / COMPONENT LAYOUT",
+    "date": "3/79",
+    "year": 1979,
+    "month": 3,
+    "drawn": "MRW",
+    "checked": "(initials)",
+    "signature": "ISS 1 7/77; 2 3/78 C21 MOVED R65 DELETED; 3 4/78 R71 ADDED; 4 7/78 8-109A(E) WAS 4-109A(E); 5 3/79 3608; 6 3/79 3611",
+    "issue": "6",
+    "models": [
+      "M477"
+    ]
+  }
+}

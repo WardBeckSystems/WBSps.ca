@@ -1,0 +1,6 @@
+BEGIN {
+  a=16*11
+  b=255
+  while( a <= b) printf "s%02X 00\n", a++
+  }
+

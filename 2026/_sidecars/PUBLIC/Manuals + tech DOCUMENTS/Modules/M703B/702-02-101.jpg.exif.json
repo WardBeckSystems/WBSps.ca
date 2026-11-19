@@ -1,0 +1,23 @@
+{
+  "filename": "702-02-101.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/Manuals + tech DOCUMENTS/Modules/M703B/702-02-101.jpg",
+  "extension": ".jpg",
+  "size_bytes": 5893665,
+  "modified_time": "Sun Sep  6 22:11:48 2026",
+  "word_tokens": [
+    "702",
+    "02",
+    "101"
+  ],
+  "width": 3452,
+  "height": 4916,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "ExifOffset": "26",
+    "ExifImageWidth": "3452",
+    "ExifImageHeight": "4916"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

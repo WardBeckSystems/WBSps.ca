@@ -1,0 +1,32 @@
+{
+  "filename": "2021-3-16-22-38-16.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2021-3-16-22-38-16.jpg",
+  "width": 4967,
+  "height": 3220,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3925,
+    2671,
+    4934,
+    3177
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/920063 - KRSR Radio/1992 - 920063-01-002 - KRSR RADIO RADIO CONSOLE DC FUNCTIONAL - DRN PA - ENG PA - ISS 1.jpg",
+  "note": "2021-3-16-22-38-16.jpg.md",
+  "title_block": {
+    "drawing_number": "D 920063-01-002",
+    "size": "D",
+    "title": "KRSR RADIO / RADIO CONSOLE / DC FUNCTIONAL",
+    "drawn": "PA",
+    "engineer": "PA",
+    "signature": "DISC NO: 410; CODE: 20063F02",
+    "issue": "1",
+    "customer": "KRSR Radio"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "filename": "WBSps.ca - 20210317 11X 17 Scans  (50).png",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca - 20210317 11X 17 Scans  (50).png",
+  "width": 4757,
+  "height": 3363,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2893,
+    2766,
+    3567,
+    3254
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/POWER/M648/1970 - 648-02-002 - M648A POWER SUPPLY SCHMATIC - DRN DJG - ISS 4.png",
+  "note": "WBSps.ca - 20210317 11X 17 Scans  (50).png.md",
+  "title_block": {
+    "drawing_number": "B 648-02-002",
+    "size": "B",
+    "title": "M648A / POWER SUPPLY SCHMATIC",
+    "date": "JUNE 70",
+    "year": 1970,
+    "month": 6,
+    "drawn": "DJG",
+    "checked": "R.B.",
+    "issue": "4",
+    "models": [
+      "M648A"
+    ]
+  }
+}

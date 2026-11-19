@@ -1,0 +1,31 @@
+
+---------------------------------------
+Loading: C:\ORCADEXE\PLOTALL.EXE
+With Parameters:  M719.SCH       /S.900 /X-7.000 /Y-4.500 
+---------------------------------------
+PlotAll - OrCAD/SDT 386+ v1.21 N    01-APR-95
+(C)Copyright 1991-1995 OrCAD, Inc. ALL RIGHTS RESERVED.
+Reading Configuration Data File: sdt.bcf
+Initial memory allocation: 2000K.
+OrCAD RealMode Interface Handler - Version    1.20x  02-Sep-94
+(C) Copyright 1992,1993,1994  OrCAD, Inc.  ALL RIGHTS RESERVED.
+
+
+Loading Plotter Driver: "C:\ORCADESP\DRV\HP.DRV"
+HP Plotter Driver (.00098 inch/unit) V4.21
+(C) Copyright 1987 OrCAD, Inc.  ALL RIGHTS RESERVED.
+Reading Library: .\M719.LIB
+Reading Library: C:\ORCADESP\SDT\LIBRARY\TTL.LIB
+Reading Library: C:\ORCADESP\SDT\LIBRARY\DEVICE.LIB
+Reading Library: C:\ORCADESP\SDT\LIBRARY\ANALOG.LIB
+Opening "M719.SCH"
+Opening "M719.SCH"
+Opening "M719.SCH"
+Worksheet size is "B"
+
+If needed, load Plotter Paper.
+Press any key when ready...
+Beginning Plot
+Fb01sssb01ssb01ssb01ssb01ssb01ssb01s#s#s#s#s#b01MJJJJJnnb01b01ssb01ssb01ssb01ssb01snsnsnsnsnsnsnsnsnsnsnsnsnsnsnb01ssb01MJJJJJJJJnnnnnb01ssb01ssb01b01ssb01ssb01ssb01ssb01ssb01ssb01s#s#s#s#s#b01JJJJnnssb01ssb01s#s#s#b01b01b01ssb01sssb01ssb01ssb01s#s#s#s#s#b01PJJJJJJJJJssb01ssb01ssb01b01b01ssb01ssb01ssb01ssb01ssb01s#s#s#s#s#s#s#b01ssb01ssb01PJJJJJJJJJJJJssb01ssb01b01b01ssb01ssb01b01ssb01ssb01ssb01ssb01ssb01JJJJJssb01ssb01b01b01b01ssb01b01ssb01ssb01ssb01ssb01ssb01ssb01JJJJssb01b01s#s#s#b01Jb01ssb01Pb01ssb01ssb01ssb01ssb01ssb01ssb01JJJJJssb01ssb01b01sssb01b01b01ssb01ssb01ssb01ssb01ssb01s#s#s#s#s#b01MPJJJJnnWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+
+Ending Plot

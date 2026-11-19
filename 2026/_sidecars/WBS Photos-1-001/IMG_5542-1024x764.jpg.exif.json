@@ -1,0 +1,25 @@
+{
+  "filename": "IMG_5542-1024x764.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/IMG_5542-1024x764.jpg",
+  "extension": ".jpg",
+  "size_bytes": 211495,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "img",
+    "5542",
+    "1024x764"
+  ],
+  "width": 1024,
+  "height": 764,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {},
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:58",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Photos/IMG_5542-1024x764.jpg",
+  "note": "IMG_5542-1024x764.jpg.md",
+  "title_block": null
+}

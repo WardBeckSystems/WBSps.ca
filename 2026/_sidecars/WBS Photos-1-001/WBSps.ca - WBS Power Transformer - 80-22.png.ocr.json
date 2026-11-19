@@ -1,0 +1,35 @@
+{
+  "filename": "WBSps.ca - WBS Power Transformer - 80-22.png",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca - WBS Power Transformer - 80-22.png",
+  "width": 4400,
+  "height": 2673,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2078,
+    1821,
+    4293,
+    2575
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1979 - B 80-22 - 80-22 POWER TRANSFORMER - DRN MRW - ENG RKB - ISS 5.png",
+  "note": "WBSps.ca - WBS Power Transformer - 80-22.png.md",
+  "title_block": {
+    "drawing_number": "B 80-22",
+    "size": "B",
+    "title": "80-22 / POWER TRANSFORMER",
+    "date": "2/79",
+    "year": 1979,
+    "month": 2,
+    "drawn": "MRW/ 2/79",
+    "checked": "R. Bell (signature)",
+    "engineer": "RKB",
+    "signature": "ISS 2 2/79 CT. added; ISS 3 4/79 SEC VOLTGS REV.; ISS 4 11/83 DIM 3.12 max WAS 3.06; ISS 5 12/83 MFG # CORRECTED; SCALE 1/2",
+    "issue": "5"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "filename": "1202-01-002 T1202A M480C.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/wbsPS-NOT UPLOADED/1202-01-002 T1202A M480C.jpg",
+  "extension": ".jpg",
+  "size_bytes": 6772081,
+  "modified_time": "Sun Sep  6 22:05:44 2026",
+  "word_tokens": [
+    "1202",
+    "01",
+    "002",
+    "t1202a",
+    "m480c"
+  ],
+  "width": 4952,
+  "height": 3500,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "ResolutionUnit": "2",
+    "ExifOffset": "90",
+    "Orientation": "1",
+    "XResolution": "72.0",
+    "YResolution": "72.0",
+    "ExifImageWidth": "4952",
+    "ExifImageHeight": "3500"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

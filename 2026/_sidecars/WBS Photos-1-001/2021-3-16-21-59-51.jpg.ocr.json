@@ -1,0 +1,30 @@
+{
+  "filename": "2021-3-16-21-59-51.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2021-3-16-21-59-51.jpg",
+  "width": 4966,
+  "height": 3221,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3925,
+    2689,
+    4929,
+    3185
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/940447/1994 - 940447-03-001 - METER PANEL - DRN DRG - ISS 1.jpg",
+  "note": "2021-3-16-21-59-51.jpg.md",
+  "title_block": {
+    "drawing_number": "D 940447-03-001",
+    "size": "D",
+    "title": "METER PANEL",
+    "drawn": "DRG",
+    "signature": "DISC NO: 486 handwritten over with SYS01; CODE: 94447M01; SCALE 1:2",
+    "issue": "1"
+  }
+}

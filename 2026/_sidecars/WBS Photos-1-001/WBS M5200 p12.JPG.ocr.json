@@ -1,0 +1,23 @@
+{
+  "filename": "WBS M5200 p12.JPG",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBS M5200 p12.JPG",
+  "width": 1240,
+  "height": 1753,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": null,
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:00",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/COMPUTERS/M5200/1985 - M5200 - p12.jpg",
+  "note": "WBS M5200 p12.JPG.md",
+  "title_block": {
+    "title": "Connector Layout M5200 Controller Module",
+    "models": [
+      "M5200"
+    ]
+  }
+}

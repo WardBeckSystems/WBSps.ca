@@ -1,0 +1,31 @@
+{
+  "filename": "2021-3-16-23-28-32.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2021-3-16-23-28-32.jpg",
+  "width": 4966,
+  "height": 3221,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3940,
+    2599,
+    4942,
+    3098
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/940356 - CBC/1994 - 940356-04-002 - CBC ANNOUNCE TURRET LAYOUT - DRN DRG - ISS 1.jpg",
+  "note": "2021-3-16-23-28-32.jpg.md",
+  "title_block": {
+    "drawing_number": "D 940356-04-002",
+    "size": "D",
+    "title": "CBC / ANNOUNCE TURRET / LAYOUT",
+    "drawn": "DRG",
+    "signature": "DISC NO: 475; CODE: 94356L02; SCALE NTS",
+    "issue": "1",
+    "customer": "CBC"
+  }
+}

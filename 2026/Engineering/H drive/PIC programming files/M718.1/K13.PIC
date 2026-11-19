@@ -1,0 +1,415 @@
+; ----------   PIC16C5X HEADER   ----------
+
+W       EQU     0
+
+; RESET ADDRESSES
+
+PIC54   EQU     $1FF
+PIC55   EQU     $1FF
+PIC56   EQU     $3FF
+PIC57   EQU     $7FF
+
+; STATUS WORD REGISTER f3
+
+C       EQU     0
+DC      EQU     1
+Z       EQU     2
+PD      EQU     3
+TO      EQU     4
+PA0     EQU     5
+PA1     EQU     6
+PA2     EQU     7
+
+; OPERATIONAL REGISTER FILES
+
+IND     EQU     00
+RTCC    EQU     01
+PC      EQU     02
+STATUS  EQU     03
+FSR     EQU     04
+PORTA   EQU     05
+PORTB   EQU     06
+PORTC   EQU     07
+
+; ----------   END HEADER   ----------
+
+RCL     EQU     7       ; NONPORTABLE USE OF PORTC
+I       EQU     8
+ROW     EQU     9
+KEYCODE EQU     10
+DISPLAY EQU     11
+
+CS0     EQU     12      ; CLOSURE TABLE
+CS1     EQU     13
+CS2     EQU     14
+CS3     EQU     15
+
+KS0     EQU     16      ; KEYSWITCH TABLE
+KS1     EQU     17
+KS2     EQU     18
+KS3     EQU     19
+KS4     EQU     20
+KS5     EQU     21
+KS6     EQU     22
+KS7     EQU     23
+KS8     EQU     24
+KS9     EQU     25
+KSA     EQU     26
+KSB     EQU     27
+KSC     EQU     28
+KSD     EQU     29
+KSE     EQU     30
+KSF     EQU     31
+
+; ----------   PORTB BITS   ----------
+
+KCOL1   EQU     5               ; KEYBOARD COLUMNS
+KCOL2   EQU     4
+
+CL0     EQU     4               ; CLOSURE INPUTS
+CL1     EQU     5
+CL2     EQU     6
+CL3     EQU     7
+
+; ----------   NEXT STATE TABLE1   ----------
+
+        ORG     $000
+
+KEYBIT  EQU     3
+
+NEXT1   ANDLW   $0F     ; DEBOUNCE INPUT STATE MACHINE
+        ADDWF   PC      ; KEYBIT IS SET WHEN THE I/O PIN IS LOW.
+                        ; USE INITIAL STATE OF  0.
+                        ; THIS WORKS WELL WHEN SWITHES ARE PULLED UP
+                        ; AND THUS ACTIVE LOW.
+        RETLW   2
+        RETLW   0       ; KEYBIT CLEAR WHILE I/O PIN HIGH
+        RETLW   4
+        RETLW   0
+        RETLW   6
+        RETLW   0
+        RETLW   8       ; 4TH LOW SO SET KEYBIT
+        RETLW   0
+
+        RETLW   8       ; KEYBIT SET WHILE I/O PIN LOW
+        RETLW   10
+        RETLW   8
+        RETLW   12
+        RETLW   8
+        RETLW   14
+        RETLW   8
+        RETLW   0       ; 4TH HIGH SO CLEAR KEYBIT
+
+; ----------   DISPLAY TRASLATION TABLE2   ----------
+
+DCOL1   EQU     64              ; TURN ON DISPLAY COLUMN 1
+DCOL2   EQU     128             ; TURN ON DISPLAY COLUMN 2
+DOFF    EQU     128+64          ; TURN OFF DISPLAY
+
+TRANS2  ANDLW   $0F
+        ADDWF   PC
+
+        RETLW   DCOL1+0
+        RETLW   DCOL2+0
+        RETLW   DCOL1+1
+        RETLW   DCOL2+1
+        RETLW   DCOL1+2
+        RETLW   DCOL2+2
+        RETLW   DCOL1+3
+        RETLW   DCOL2+3
+
+        RETLW   DCOL1+4
+        RETLW   DCOL2+4
+        RETLW   DCOL1+5
+        RETLW   DCOL2+5
+        RETLW   DCOL1+6
+        RETLW   DCOL2+6
+        RETLW   DCOL1+7
+        RETLW   DCOL2+7
+
+; ----------   CLOSURE ADDRESS TRASLATION TABLE3   ----------
+
+TRANS3  ANDLW   $0F
+        ADDWF   PC
+
+        RETLW   $09     ; $00
+        RETLW   $0A     ; $01
+        RETLW   $08     ; $02
+        RETLW   $07     ; $03
+        RETLW   $0C     ; $04
+        RETLW   $0B     ; $05
+        RETLW   $0D     ; $06
+        RETLW   $0E     ; $07
+
+        RETLW   $04     ; $08
+        RETLW   $03     ; $09
+        RETLW   $05     ; $0A
+        RETLW   $06     ; $0B
+        RETLW   $01     ; $0C
+        RETLW   $02     ; $0D
+        RETLW   $00     ; $0E
+        RETLW   $0F     ; $0F
+
+; ----------   OUTPUT ADDRESS TRASLATION TABLE4   ----------
+
+TRANS4  ANDLW   $0F
+        ADDWF   PC
+
+        RETLW   $01
+        RETLW   $02
+        RETLW   $03
+        RETLW   $04
+        RETLW   $05
+        RETLW   $06
+        RETLW   $07
+        RETLW   $08
+
+        RETLW   $09
+        RETLW   $0A
+        RETLW   $0B
+        RETLW   $0C
+        RETLW   $0D
+        RETLW   $0E
+        RETLW   $0F
+        RETLW   $00
+
+; ----------   SCAN CLOSURE SUBROUTINE   ----------
+
+SCANC   BTFSS   RCL,CL0         ; SCAN CLOSURES
+        INCF    CS0             ; NOTE THAT CLOSURES ARE ACTIVE HIGH
+        MOVF    CS0,W           ; SO THERE IS AN INVERSION HERE
+        CALL    NEXT1           ; TO CANCEL THE INVERSION DONE BY
+        MOVWF   CS0             ; THE DEBOUNCE STATE MACHINE.
+
+        BTFSS   RCL,CL1
+        INCF    CS1
+        MOVF    CS1,W
+        CALL    NEXT1
+        MOVWF   CS1
+
+        BTFSS   RCL,CL2
+        INCF    CS2
+        MOVF    CS2,W
+        CALL    NEXT1
+        MOVWF   CS2
+
+        BTFSS   RCL,CL3
+        INCF    CS3
+        MOVF    CS3,W
+        CALL    NEXT1
+        MOVWF   CS3
+
+        RETLW   0
+
+; ----------   SCAN KEYBOARD SUBROUTINE   ----------
+
+SCANK
+        MOVLW   DOFF            ; TURN OFF LEDs
+        MOVWF   PORTB
+        MOVWF   ROW
+
+        MOVLW   PBSK
+        TRIS    PORTB
+
+        MOVLW   KS0
+        MOVWF   FSR
+        MOVLW   NROWS
+        MOVWF   I
+
+SCAN                            ; SCAN KEYBOARD
+        BTFSC   PORTB,KCOL1
+        INCF    IND
+        INCF    FSR
+        BTFSC   PORTB,KCOL2
+        INCF    IND
+
+        MOVF    ROW,W
+        MOVWF   PORTB
+        INCF    ROW
+
+        DECF    FSR
+        MOVF    IND,W
+        CALL    NEXT1
+        MOVWF   IND
+        INCF    FSR
+
+        MOVF    IND,W
+        CALL    NEXT1
+        MOVWF   IND
+        INCF    FSR
+
+        DECFSZ  I
+        GOTO    SCAN
+
+        MOVF    DISPLAY,W       ; RESTORE DISPLAY
+        MOVWF   PORTB           ; AFTER SCANNING KEYBOARD
+
+        RETLW   0
+
+; ----------   CODE   ----------
+
+NROWS   EQU     8
+NKEYS   EQU     16
+NCLSR   EQU     4
+
+DELAY1  EQU     110             ; 125 msec with OPTION $06
+DELAY2  EQU     69              ;   5 msec with OPTION $01
+
+PBSK    EQU     $30             ; PORTB SCAN KEYBOARD/DISPLAY
+PBSC    EQU     $F0             ; PORTB SCAN CLOSURES
+
+RCL0    EQU     128+64+8        ; READ CLOSURE DECODER ADDRESS
+RCL1    EQU     RCL0+1
+RCL2    EQU     RCL0+2
+RCL3    EQU     RCL0+3
+
+        ORG     $101
+
+INIT    MOVLW   $0F
+        MOVWF   PORTA           ; INITIALIZE PORTA
+        CLRW
+        TRIS    PORTA
+
+        MOVLW   128+7           ; INITIALIZE PORTB
+        MOVWF   PORTB
+        MOVLW   PBSK
+        TRIS    PORTB
+
+        MOVLW   KS0             ; BLANK KEYSWITCH TABLE
+        MOVWF   FSR
+        MOVLW   NKEYS
+        MOVWF   I
+
+BLANKK  CLRF    IND
+        INCF    FSR
+        DECFSZ  I
+        GOTO    BLANKK
+
+        MOVLW   CS0             ; BLANK CLOSURE TABLE
+        MOVWF   FSR
+        MOVLW   NCLSR
+        MOVWF   I
+
+BLANKC  CLRF    IND
+        INCF    FSR
+        DECFSZ  I
+        GOTO    BLANKC
+
+        CLRW                    ; INITIALIZE DISPLAY
+        MOVWF   KEYCODE
+        CALL    TRANS2
+        MOVWF   DISPLAY
+
+        MOVLW   NKEYS           ; SEQUENCE THROUGH LEDs
+        MOVWF   I
+
+        MOVLW   $06             ; RTCC = OSC2 / 128
+        OPTION
+SEQ1    MOVLW   DELAY1          ; RESET COUNTER
+        MOVWF   RTCC
+
+        DECF    I,W
+        CALL    TRANS2
+        MOVWF   PORTB
+
+SEQ2    MOVF    RTCC,W
+        BTFSS   STATUS,Z
+        GOTO    SEQ2            ; WAIT FOR TIME OUT
+
+        DECFSZ  I
+        GOTO    SEQ1
+
+        MOVLW   $01             ; RTCC = OSC2 / 4
+        OPTION
+        MOVLW   DELAY2          ; RESET COUNTER
+        MOVWF   RTCC
+WAIT
+NONE
+MAIN    MOVF    RTCC,W
+        BTFSS   STATUS,Z
+        GOTO    MAIN            ; WAIT FOR TIME OUT
+
+        MOVLW   DELAY2
+        MOVWF   RTCC            ; RESET COUNTER
+
+        MOVLW   DOFF
+        MOVWF   PORTB
+        MOVLW   PBSC            ; READ CLOSURES
+        TRIS    PORTB
+        MOVLW   RCL0
+        MOVWF   PORTB
+        NOP
+        NOP
+        NOP
+        MOVF    PORTB,W
+        MOVWF   RCL
+
+TCL0    BTFSC   CS0,KEYBIT
+        GOTO    OUTPUT2
+
+        MOVLW   RCL1
+TCL1    BTFSC   CS1,KEYBIT
+        GOTO    READCA
+
+        MOVLW   RCL2
+TCL2    BTFSC   CS2,KEYBIT
+        GOTO    READCA
+
+        MOVLW   RCL3
+TCL3    BTFSC   CS3,KEYBIT
+        GOTO    READCA
+
+        MOVLW   $FF
+        MOVWF   PORTA
+        CALL    SCANK
+        CALL    SCANC
+        GOTO    DOSEL
+
+READCA  MOVWF   PORTB
+        NOP
+        NOP
+        NOP
+        SWAPF   PORTB,W
+        CALL    TRANS3
+        MOVWF   KEYCODE
+        CALL    TRANS2
+        MOVWF   DISPLAY
+
+OUTPUT2 MOVF    KEYCODE,W
+        CALL    TRANS4
+        MOVWF   PORTA
+        CALL    SCANK
+        CALL    SCANC
+        GOTO    MAIN
+
+; --- SCAN ---
+
+
+DOSEL   MOVLW   KS0
+        ADDWF   KEYCODE,W
+        MOVWF   FSR
+        BTFSC   IND,KEYBIT
+        GOTO    WAIT            ; WAIT FOR RELEASE
+
+        MOVLW   KS0             ; GET HIGHEST PRIORITY KEY
+        MOVWF   FSR
+        MOVLW   NKEYS
+        MOVWF   I
+
+PRIO    BTFSC   IND,KEYBIT
+        GOTO    DONE
+
+        INCF    FSR
+        DECFSZ  I
+        GOTO    PRIO
+        GOTO    NONE
+
+DONE    MOVLW   KS0
+        SUBWF   FSR,W
+        MOVWF   KEYCODE
+        CALL    TRANS2          ; GET NEW DISPLAY VALUE
+        MOVWF   DISPLAY
+        GOTO    MAIN
+
+        ORG     PIC54
+RESET   GOTO    $100

@@ -1,0 +1,36 @@
+{
+  "filename": "7000 series - 004.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/RAW Photos/Communication/7000 series - Intercom System/7000 series - 004.jpg",
+  "extension": ".jpg",
+  "size_bytes": 1007315,
+  "modified_time": "Sun Sep  6 22:11:03 2026",
+  "word_tokens": [
+    "7000",
+    "series",
+    "004"
+  ],
+  "width": 2124,
+  "height": 3240,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "ImageWidth": "2550",
+    "ImageLength": "3330",
+    "BitsPerSample": "['8', '8', '8']",
+    "PhotometricInterpretation": "2",
+    "ResolutionUnit": "2",
+    "ExifOffset": "228",
+    "Software": "Adobe Photoshop CS5 Windows",
+    "Orientation": "1",
+    "DateTime": "2011:11:23 17:18:03",
+    "SamplesPerPixel": "3",
+    "XResolution": "300.0",
+    "YResolution": "300.0",
+    "ExifVersion": "0221",
+    "ColorSpace": "65535",
+    "ExifImageWidth": "2124",
+    "ExifImageHeight": "3240"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

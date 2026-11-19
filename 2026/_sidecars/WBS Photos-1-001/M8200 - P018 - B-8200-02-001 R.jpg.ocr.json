@@ -1,0 +1,26 @@
+{
+  "filename": "M8200 - P018 - B-8200-02-001 R.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/M8200 - P018 - B-8200-02-001 R.jpg",
+  "width": 1693,
+  "height": 2190,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": null,
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/AMPLIFIERS/M8200/19xx - 8200-02-001 - MICROPHONE PREAMPLIFIER SCHEMATIC - ISS 2.jpg",
+  "note": "M8200 - P018 - B-8200-02-001 R.jpg.md",
+  "title_block": {
+    "drawing_number": "B 8200-02-001",
+    "size": "B",
+    "title": "MICROPHONE PREAMPLIFIER / SCHEMATIC",
+    "issue": "2",
+    "models": [
+      "M8200"
+    ]
+  }
+}

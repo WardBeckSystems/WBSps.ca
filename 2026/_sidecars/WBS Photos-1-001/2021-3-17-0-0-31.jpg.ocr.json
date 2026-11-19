@@ -1,0 +1,31 @@
+{
+  "filename": "2021-3-17-0-0-31.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2021-3-17-0-0-31.jpg",
+  "width": 4921,
+  "height": 3251,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3679,
+    2671,
+    4692,
+    3172
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/960296 - CBC REGINA/1996 - 960296-04-003 - CBC REGINA MAIN PANELS LAYOUT - DRN DRG - ISS 1.jpg",
+  "note": "2021-3-17-0-0-31.jpg.md",
+  "title_block": {
+    "drawing_number": "D 960296-04-003",
+    "size": "D",
+    "title": "CBC REGINA / MAIN PANELS / LAYOUT",
+    "drawn": "DRG",
+    "signature": "SCALE NTS; DISC NO: SYS01, CODE: 96296L03",
+    "issue": "1",
+    "customer": "CBC REGINA"
+  }
+}

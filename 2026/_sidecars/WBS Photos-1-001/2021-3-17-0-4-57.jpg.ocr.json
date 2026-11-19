@@ -1,0 +1,26 @@
+{
+  "filename": "2021-3-17-0-4-57.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2021-3-17-0-4-57.jpg",
+  "width": 4853,
+  "height": 3296,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": null,
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/930007 - CICI-TV-CKNC-TV SUDBURY/1993 - 930007-01-002 - CICI-TV CKNC-TV SUDBURY 48X96 MicroCOM II SYSTEM FUNCTIONAL - DRN PA - ENG PA - ISS 1.jpg",
+  "note": "2021-3-17-0-4-57.jpg.md",
+  "title_block": {
+    "drawing_number": "D 930007-01-002",
+    "size": "D",
+    "title": "CICI-TV/CKNC-TV SUDBURY / 48X96 MicroCOM II / SYSTEM FUNCTIONAL",
+    "drawn": "PA",
+    "engineer": "PA",
+    "issue": "1",
+    "customer": "CICI-TV/CKNC-TV SUDBURY"
+  }
+}

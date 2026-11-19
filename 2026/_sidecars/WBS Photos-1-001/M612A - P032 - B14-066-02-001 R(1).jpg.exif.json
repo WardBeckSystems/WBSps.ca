@@ -1,0 +1,46 @@
+{
+  "filename": "M612A - P032 - B14-066-02-001 R(1).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M612A - P032 - B14-066-02-001 R(1).jpg",
+  "extension": ".jpg",
+  "size_bytes": 86276,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m612a",
+    "p032",
+    "b14",
+    "066",
+    "02",
+    "001",
+    "r(1)"
+  ],
+  "width": 850,
+  "height": 1084,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "850",
+    "ExifImageHeight": "1084",
+    "ImageUniqueID": "9a8b390522927e4b0000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/AMPLIFIERS/M612A/19xx - 14-066-02-001.jpg",
+  "note": "M612A - P032 - B14-066-02-001 R(1).jpg.md",
+  "title_block": {
+    "drawing_number": "B 14-066-02-001",
+    "size": "B",
+    "models": [
+      "M612A"
+    ]
+  }
+}

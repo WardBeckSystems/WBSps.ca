@@ -1,0 +1,36 @@
+{
+  "filename": "WBSps.ca - 20210317 11X 17 Scans  (55).png",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca - 20210317 11X 17 Scans  (55).png",
+  "width": 4757,
+  "height": 3363,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1599,
+    2639,
+    2523,
+    3277
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1977 - 7-107-02-001 - 7-107 DYNAMIC MIC PRE-AMP SCHEMATIC - DRN MRW - ISS 1.png",
+  "note": "WBSps.ca - 20210317 11X 17 Scans  (55).png.md",
+  "title_block": {
+    "drawing_number": "B 7-107-02-001",
+    "size": "B",
+    "title": "7-107 / DYNAMIC MIC PRE-AMP / SCHEMATIC",
+    "date": "MAY 77",
+    "year": 1977,
+    "month": 5,
+    "drawn": "MRW",
+    "checked": "R. Bell (signature)",
+    "issue": "1",
+    "models": [
+      "7-107"
+    ]
+  }
+}

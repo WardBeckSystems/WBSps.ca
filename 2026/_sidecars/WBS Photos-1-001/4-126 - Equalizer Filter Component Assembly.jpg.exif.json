@@ -1,0 +1,53 @@
+{
+  "filename": "4-126 - Equalizer Filter Component Assembly.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/4-126 - Equalizer Filter Component Assembly.jpg",
+  "extension": ".jpg",
+  "size_bytes": 510881,
+  "modified_time": "Sat Oct 17 23:34:16 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "126",
+    "equalizer",
+    "filter",
+    "component",
+    "assembly"
+  ],
+  "width": 2240,
+  "height": 1836,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "ResolutionUnit": "2",
+    "ExifOffset": "176",
+    "Software": "Adobe Photoshop CS3 Macintosh",
+    "Orientation": "1",
+    "DateTime": "2008:06:17 16:46:02",
+    "YCbCrSubSampling": "['1', '1']",
+    "XResolution": "300.0",
+    "YResolution": "300.0",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "2240",
+    "ExifImageHeight": "1836",
+    "ImageUniqueID": "d993934105266c970000000000000000",
+    "ExifInteroperabilityOffset": "288"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:55",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1974 - 4-126-06-001 - 4-126 EQUALIZER FILTER COMPONENT ASSEMBLY - DRN DM - ISS 2.jpg",
+  "note": "4-126 - Equalizer Filter Component Assembly.jpg.md",
+  "title_block": {
+    "drawing_number": "B 4-126-06-001",
+    "size": "B",
+    "title": "4-126 / EQUALIZER FILTER / COMPONENT ASSEMBLY",
+    "date": "JULY 74",
+    "year": 1974,
+    "month": 7,
+    "drawn": "DM",
+    "checked": "RB",
+    "signature": "revision: BD SOCKETS ADDED, PM",
+    "issue": "2"
+  }
+}

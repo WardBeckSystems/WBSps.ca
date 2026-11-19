@@ -1,0 +1,350 @@
+; ----------   PIC16C5X HEADER   ----------
+
+W       EQU     0
+
+; RESET ADDRESSES
+
+PIC54   EQU     $1FF
+PIC55   EQU     $1FF
+PIC56   EQU     $3FF
+PIC57   EQU     $7FF
+
+; STATUS WORD REGISTER f3
+
+C       EQU     0
+DC      EQU     1
+Z       EQU     2
+PD      EQU     3
+TO      EQU     4
+PA0     EQU     5
+PA1     EQU     6
+PA2     EQU     7
+
+; OPERATIONAL REGISTER FILES
+
+IND     EQU     00
+RTCC    EQU     01
+PC      EQU     02
+STATUS  EQU     03
+FSR     EQU     04
+PORTA   EQU     05
+PORTB   EQU     06
+PORTC   EQU     07
+
+; ----------   END HEADER   ----------
+
+ROW1    EQU     08
+S1      EQU     09
+ROW2    EQU     10
+S2      EQU     11
+ROW3    EQU     12
+S3      EQU     13
+ROW4    EQU     14
+S4      EQU     15
+ROW5    EQU     16
+S5      EQU     17
+ROW6    EQU     18
+S6      EQU     19
+ROW7    EQU     20
+S7      EQU     21
+ROW8    EQU     22
+S8      EQU     23
+
+STATE2  EQU     24
+DISPLAY EQU     25
+
+ROW     EQU     26
+I       EQU     27
+TEMP    EQU     28
+
+;-------------------------
+
+;     1     5     9    13
+;     2     0     0     0
+;     3     0     0     0
+;     0     0     0     0
+;    77    77    77    77
+;     0     6     0     0
+;     0     7     0     0
+;     0     0     0     0
+;    77    77    77    77
+;     0     0    10     0
+;     0     0    11     0
+;     0     0     0     0
+;    77    77    77    77
+;     0     0     0    14
+;     0     0     0    15
+;     0     0     0     0
+
+; ----------   NEXT STATE TABLE1   ----------
+
+        ORG     $06A
+
+NEXT1   ANDLW   $3F
+        ADDWF   PC
+
+        RETLW   1
+        RETLW   2
+        RETLW   3
+        RETLW   0+$80           ; BOTH PRESSED
+        GOTO    RESET
+        RETLW   0
+        RETLW   0
+        RETLW   0
+        GOTO    RESET
+        RETLW   0
+        RETLW   0
+        RETLW   0
+        GOTO    RESET
+        RETLW   0
+        RETLW   0
+        RETLW   0
+
+        RETLW   5
+        RETLW   0
+        RETLW   0
+        RETLW   0
+        GOTO    RESET
+        RETLW   6
+        RETLW   7
+        RETLW   0+$90           ; 1 PRESSED
+        GOTO    RESET
+        RETLW   0
+        RETLW   0
+        RETLW   0
+        GOTO    RESET
+        RETLW   0
+        RETLW   0
+        RETLW   0
+
+        RETLW   9
+        RETLW   0
+        RETLW   0
+        RETLW   0
+        GOTO    RESET
+        RETLW   0
+        RETLW   0
+        RETLW   0
+        GOTO    RESET
+        RETLW   10
+        RETLW   11
+        RETLW   0+$A0           ; 2 PRESSED
+        GOTO    RESET
+        RETLW   0
+        RETLW   0
+        RETLW   0
+
+        RETLW   13
+        RETLW   0
+        RETLW   0
+        RETLW   0
+        GOTO    RESET
+        RETLW   0
+        RETLW   0
+        RETLW   0
+        GOTO    RESET
+        RETLW   0
+        RETLW   0
+        RETLW   0
+        GOTO    RESET
+        RETLW   14
+        RETLW   15
+        RETLW   0+$B0           ; NONE PRESSED
+
+; ----------   NEXT STATE TABLE2   ----------
+
+NEXT2   ANDLW   $3F
+        ADDWF   PC
+
+        GOTO    MANY            ; 0
+        GOTO    MANY            ; 1
+        GOTO    MANY            ; 2
+        GOTO    MANY            ; 3
+        GOTO    MANY            ; 4
+        GOTO    MANY            ; 5
+        GOTO    MANY            ; 6
+        GOTO    MANY            ; 7
+        GOTO    MANY            ; 8
+        GOTO    MANY            ; 9
+        GOTO    MANY            ; A
+        GOTO    MANY            ; B
+        GOTO    MANY            ; C
+        GOTO    MANY            ; D
+        GOTO    MANY            ; E
+        GOTO    RESET           ; F
+
+        RETLW   $08             ; 0
+        RETLW   $29             ; 1
+        RETLW   $4A             ; 2
+        RETLW   $6B             ; 3
+        RETLW   $8C             ; 4
+        RETLW   $AD             ; 5
+        RETLW   $CE             ; 6
+        RETLW   $EF             ; 7
+        GOTO    MANY            ; 8
+        GOTO    MANY            ; 9
+        GOTO    MANY            ; A
+        GOTO    MANY            ; B
+        GOTO    MANY            ; C
+        GOTO    MANY            ; D
+        GOTO    MANY            ; E
+        GOTO    RESET           ; F
+
+        RETLW   $18             ; 0
+        RETLW   $39             ; 1
+        RETLW   $5A             ; 2
+        RETLW   $7B             ; 3
+        RETLW   $9C             ; 4
+        RETLW   $BD             ; 5
+        RETLW   $DE             ; 6
+        RETLW   $FF             ; 7
+        GOTO    MANY            ; 8
+        GOTO    MANY            ; 9
+        GOTO    MANY            ; A
+        GOTO    MANY            ; B
+        GOTO    MANY            ; C
+        GOTO    MANY            ; D
+        GOTO    MANY            ; E
+        GOTO    RESET           ; F
+
+        RETLW   $01             ; 0
+        RETLW   $02             ; 1
+        RETLW   $03             ; 2
+        RETLW   $04             ; 3
+        RETLW   $05             ; 4
+        RETLW   $06             ; 5
+        RETLW   $07             ; 6
+        GOTO    NONE            ; 7
+        RETLW   $09             ; 8
+        RETLW   $0A             ; 9
+        RETLW   $0B             ; A
+        RETLW   $0C             ; B
+        RETLW   $0D             ; C
+        RETLW   $0E             ; D
+        RETLW   $0F             ; E
+        GOTO    RESET           ; F
+
+; ----------   DISPLAY TRASLATION TABLE3   ----------
+
+TRANS3  ANDLW   $0F
+        ADDWF   PC
+
+        RETLW   64+0
+        RETLW   128+0
+        RETLW   64+1
+        RETLW   128+1
+        RETLW   64+2
+        RETLW   128+2
+        RETLW   64+3
+        RETLW   128+3
+
+        RETLW   64+4
+        RETLW   128+4
+        RETLW   64+5
+        RETLW   128+5
+        RETLW   64+6
+        RETLW   128+6
+        RETLW   64+7
+        RETLW   128+7
+
+; ----------   CODE   ----------
+
+        ORG     $1B0
+
+COUNT   EQU     8
+DELAY   EQU     96
+
+INIT    CLRF    PORTA
+        CLRW
+        TRIS    PORTA
+
+        MOVLW   64+0
+        MOVWF   DISPLAY
+        MOVWF   PORTB
+        MOVLW   $30
+        TRIS    PORTB
+
+        MOVLW   ROW1
+        MOVWF   FSR
+        MOVLW   16
+        MOVWF   I
+        CLRW
+BLANK   MOVWF   IND
+        INCF    FSR
+        DECFSZ  I
+        GOTO    BLANK
+
+        MOVLW   $03
+        OPTION
+        MOVLW   DELAY
+        MOVWF   RTCC
+
+NONE                            ; NO KEY PRESSED
+MANY                            ; ONE OR MORE KEYS PRESSED
+
+MAIN    MOVF    RTCC,W
+        BTFSS   STATUS,Z
+        GOTO    MAIN            ; WAIT FOR TIME OUT
+
+        MOVLW   DELAY
+        MOVWF   RTCC            ; RESET COUNTER
+
+        MOVLW   $C0
+        MOVWF   ROW
+        MOVLW   ROW1
+        MOVWF   FSR
+        MOVLW   COUNT
+        MOVWF   I
+
+SETROW  MOVF    ROW,W
+        MOVWF   PORTB
+        INCF    ROW
+
+        MOVF    PORTB,W
+        ANDLW   $30
+        IORWF   IND,W
+        CALL    NEXT1
+        MOVWF   TEMP
+        ANDLW   $0F
+        MOVWF   IND
+        INCF    FSR
+        MOVF    TEMP,W
+        BTFSC   TEMP,7
+        MOVWF   IND
+
+        INCF    FSR
+        DECFSZ  I
+        GOTO    SETROW
+
+        MOVF    DISPLAY,W       ; RESTORE DISPLAY
+        MOVWF   PORTB           ; AFTER KEYBOARD SCAN
+
+        MOVLW   S1              ; DECODE KEY FROM SCAN
+        MOVWF   FSR
+        MOVLW   COUNT
+        MOVWF   I
+
+        CLRF    TEMP
+        CLRF    STATE2
+
+DECODE  MOVF    IND,W
+        INCF    FSR
+        INCF    FSR
+
+        IORWF   STATE2,W
+        CALL    NEXT2
+        IORWF   TEMP
+        ANDLW   $0F
+        MOVWF   STATE2
+
+        DECFSZ  I
+        GOTO    DECODE
+
+        SWAPF   TEMP,W
+        MOVWF   PORTA           ; OUTPUT NEW ADDRESS
+        CALL    TRANS3          ; GET NEW DISPLAY VALUE
+        MOVWF   DISPLAY
+        GOTO    MAIN
+
+        ORG     PIC54
+RESET   GOTO    $100

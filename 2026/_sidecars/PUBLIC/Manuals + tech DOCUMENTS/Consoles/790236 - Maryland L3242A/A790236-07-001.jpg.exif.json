@@ -1,0 +1,27 @@
+{
+  "filename": "A790236-07-001.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/Manuals + tech DOCUMENTS/Consoles/790236 - Maryland L3242A/A790236-07-001.jpg",
+  "extension": ".jpg",
+  "size_bytes": 3115621,
+  "modified_time": "Sun Sep  6 22:14:28 2026",
+  "word_tokens": [
+    "a790236",
+    "07",
+    "001"
+  ],
+  "width": 3507,
+  "height": 2478,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "ResolutionUnit": "2",
+    "ExifOffset": "90",
+    "Orientation": "1",
+    "XResolution": "72.0",
+    "YResolution": "72.0",
+    "ExifImageWidth": "3507",
+    "ExifImageHeight": "2478"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

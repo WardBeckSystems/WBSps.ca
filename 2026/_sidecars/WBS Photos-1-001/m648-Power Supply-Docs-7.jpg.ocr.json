@@ -1,0 +1,31 @@
+{
+  "filename": "m648-Power Supply-Docs-7.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/m648-Power Supply-Docs-7.jpg",
+  "width": 1650,
+  "height": 1275,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1178,
+    850,
+    1638,
+    1103
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/POWER/M648/19xx - M648-09-002 - TYPICAL SYSTEM WIRING FIG. 1 - ISS 1.jpg",
+  "note": "m648-Power Supply-Docs-7.jpg.md",
+  "title_block": {
+    "drawing_number": "B M648-09-002",
+    "size": "B",
+    "title": "TYPICAL SYSTEM / WIRING / FIG. 1",
+    "issue": "1",
+    "models": [
+      "M648"
+    ]
+  }
+}

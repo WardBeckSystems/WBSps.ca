@@ -1,0 +1,32 @@
+{
+  "filename": "2015-09-03 12.32.47.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2015-09-03 12.32.47.jpg",
+  "width": 2592,
+  "height": 1936,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": null,
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/FILTERS/M462/1974 - 462-02-003 - M462B EQUALIZER SCHEMATIC - DRN DM - ISS 5.jpg",
+  "note": "2015-09-03 12.32.47.jpg.md",
+  "title_block": {
+    "drawing_number": "D 462-02-003",
+    "size": "D",
+    "title": "M462B / EQUALIZER SCHEMATIC",
+    "date": "9 MAY 74",
+    "year": 1974,
+    "month": 5,
+    "drawn": "DM",
+    "checked": "R.N.J.",
+    "signature": "rev table ISS 2-5 (3 MGB, 4 PKM, 5 VDL)",
+    "issue": "5",
+    "models": [
+      "M462B"
+    ]
+  }
+}

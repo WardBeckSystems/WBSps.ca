@@ -1,0 +1,28 @@
+{
+  "filename": "2021-3-16-23-43-11.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2021-3-16-23-43-11.jpg",
+  "width": 4971,
+  "height": 3218,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3958,
+    2857,
+    4930,
+    3215
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/19xx - INTERCOM PANEL(24 WAY) CONNECTOR BRACKET - DRN DRG.jpg",
+  "note": "2021-3-16-23-43-11.jpg.md",
+  "title_block": {
+    "size": "D",
+    "title": "INTERCOM PANEL(24 WAY) / CONNECTOR BRACKET",
+    "drawn": "DRG",
+    "signature": "DISC NO: SYS01; drawing number cut off at bottom"
+  }
+}

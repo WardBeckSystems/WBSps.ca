@@ -1,0 +1,32 @@
+{
+  "filename": "WBSps.ca 20210319 -  (8).jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca 20210319 -  (8).jpg",
+  "width": 4970,
+  "height": 3218,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    3918,
+    2685,
+    4921,
+    3181
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/940238/1994 - 940238-03-005 - M905NW CONTROLLER MONITOR MODULE - ISS 1.jpg",
+  "note": "WBSps.ca 20210319 -  (8).jpg.md",
+  "title_block": {
+    "drawing_number": "D 940238-03-005",
+    "size": "D",
+    "title": "M905NW / CONTROLLER MONITOR / MODULE",
+    "signature": "DISC NO: 467 CODE: 94238M05",
+    "issue": "1",
+    "models": [
+      "M905NW"
+    ]
+  }
+}

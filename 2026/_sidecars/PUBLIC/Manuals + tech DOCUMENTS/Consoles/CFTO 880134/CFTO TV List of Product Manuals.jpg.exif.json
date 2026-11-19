@@ -1,0 +1,26 @@
+{
+  "filename": "CFTO TV List of Product Manuals.jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/Manuals + tech DOCUMENTS/Consoles/CFTO 880134/CFTO TV List of Product Manuals.jpg",
+  "extension": ".jpg",
+  "size_bytes": 3752322,
+  "modified_time": "Sun Sep  6 22:13:19 2026",
+  "word_tokens": [
+    "cfto",
+    "tv",
+    "list",
+    "of",
+    "product",
+    "manuals"
+  ],
+  "width": 2478,
+  "height": 3507,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "ExifOffset": "26",
+    "ExifImageWidth": "2478",
+    "ExifImageHeight": "3507"
+  },
+  "is_manual": true,
+  "special_flag": "MANUAL_DOCUMENT"
+}

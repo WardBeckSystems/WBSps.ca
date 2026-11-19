@@ -1,0 +1,109 @@
+From: Dave Thomas [drthomas@telus.net]
+Sent: Sunday, September 07, 2003 1:45 PM
+To: 'Anthony Peter George Kuzub'
+Subject: RE: Ward-Beck
+
+Hi Tony, thanks for the e-mail.  I think I just sent you an incomplete
+e-mail by hitting send instead of attach.
+
+I have attached some pics of Ward Beck consoles and modules for your
+site. I have lots more pics available.  
+
+I have restored several Ward Beck consoles over the last 3-4 years.  The
+24x8x2 was a 32x16 that was customized into a 24x8x2 for a client with a
+Studio in a New York loft.  However, the client had to move and because
+of the weight and size of the console and the console was parted out.  
+
+A very good friend of mine here in Coquitlam has a 32x16 that we have
+restored and it is working daily in his home studio.  It has M460T and
+M460LA modules and M463L submaster modules.  I will find you a pic of it
+which is still on my old hard drive I believe.
+
+The SPARS console is only 15 minutes from my home in Coquitlam.  
+
+I have metal cases made here in Vancouver that hold two M460/M470 14"
+modules and I build up my own power supply regulator cards including
+phantom power.  I currently rack M460 or M470 modules including the
+case, power supplies, connectors and reconditioning of the modules for
+$495 Cnd a pair.
+
+I have modified the EQ's on M460 and M462 modules to widen the "Q" from
+a minimum 2 down to 1.5 thereby emulating the wider EQ curve of Neve and
+API of the era.  
+
+I believe that the Ward Beck's are referred to as the Canadian Neve's
+because Roger Beck was approached by the CBC in the early 70's to see if
+Ward Beck could build a console that would compare to the Neve consoles
+of the time utilizing the Neve 1081 modules.  Roger designed the M460
+modules.
+
+The M460 utilizes a custom made Hammond input transformer with the same
+winding ratio as the St Ives used in the Neves.  The preamp is also
+discrete class "A" just like the Neve except Roger used a class A/B
+transistor output stage in the preamp garnishing 6db more headroom in
+the front end than Neve.
+
+I am in the process of racking some M470 modules, M460La modules and
+building a  rack with 2-M461, 2-M462, 2-M464, 2-M467 and 2-M466 modules.
+I have a couple of extra M460LA modules arriving late next week and
+these are available for racking...they would be $1000 cnd reconditioned
+and racked in our custom 19" cases with power supplies and all
+connectors.
+
+I can supply edge connectors for the M460/M470 modules for $7.50 each
+new.
+
+It is the weight and size of the consoles that leave a lot of folks no
+option but to part out the consoles.  It takes a coordinated effort  as
+you probably know to move a Ward Beck console that can weigh over 650
+lbs.  I also find that the majority of Ward Beck consoles need to be
+completely re-configured for Stereo music recording.  I am always
+converting T1202 consoles for stereo monitoring and to send the soloed
+signal to both the left and right outputs.
+
+I also have some notes on re-calibrating the VU meters for +4dbm as most
+consoles were set for the Broadcast operating level of +8dbm.  
+
+I would glady contribute some technical information to your web-site.  
+I was an owner and chief tech at Ocean Sound Studios in Vancouver until
+1992.  Ocean had 2 Studer 24 tracks and 2-Trident Series 80 consoles.  I
+have also serviced Neve consoles including a BCM10 that I still work on
+for a client.  The EQ in the Trident Series 80 and the M460/M462 is very
+similar except the WBS has variable "Q" and about 10db more headroom.  
+
+I have lots of manuals here but do need a schematic for an M490b. 
+
+Cheers for now, Dave Thomas (Advanced Audio) 
+
+  
+
+
+-----Original Message-----
+From: Anthony Peter George Kuzub [mailto:Kuzub@sask.usask.ca] 
+Sent: September 7, 2003 10:36 AM
+To: drthomas@telus.net
+Subject: Ward-Beck
+Importance: High
+
+I've seen and heard that you are a ward-beck expert.  Maybe you've heard
+of
+my website: www.Kuzub.com/WBSPS The ward-beck systems preservation
+society.
+I've used some of your images on my website without your permission.  Is
+this ok?  they are from ebay auctions.  if you have more that would be
+appreciated.
+
+Would you like to join the club??
+Could you provide contact information and product samples of your rack
+mounts?
+Have you designed a power supply and 48V phantom power?
+	if so could you contribute drawings to the website?
+
+I have many manuals and many resources, so if there's anything I can do
+let
+me know.
+
+Tony Kuzub
+www.HighVoltageRecording.com
+
+

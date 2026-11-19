@@ -1,0 +1,42 @@
+{
+  "filename": "2021-3-16-23-4-15.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/2021-3-16-23-4-15.jpg",
+  "extension": ".jpg",
+  "size_bytes": 534467,
+  "modified_time": "Sat Oct 17 23:34:15 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "2021",
+    "16",
+    "23",
+    "15"
+  ],
+  "width": 5041,
+  "height": 3173,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "5041",
+    "ExifImageHeight": "3173",
+    "ImageUniqueID": "f57bc3f1dc6be0850000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/19xx - TTC DISPATCH -D- PA SYSTEM SIMULATION FUNCTIONAL - DRN WKW - ENG WKW.jpg",
+  "note": "2021-3-16-23-4-15.jpg.md",
+  "title_block": {
+    "title": "TTC DISPATCH \"D\" / PA SYSTEM SIMULATION / FUNCTIONAL",
+    "drawn": "WKW",
+    "engineer": "WKW",
+    "signature": "DISC NO: SYS01 (bottom cut off)",
+    "customer": "TTC"
+  }
+}

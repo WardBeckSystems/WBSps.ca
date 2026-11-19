@@ -1,0 +1,37 @@
+{
+  "filename": "Ward Beck Systems MF6 b.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/Ward Beck Systems MF6 b.jpg",
+  "extension": ".jpg",
+  "size_bytes": 164932,
+  "modified_time": "Sat Oct 17 23:34:21 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "ward",
+    "beck",
+    "systems",
+    "mf6"
+  ],
+  "width": 696,
+  "height": 900,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "696",
+    "ExifImageHeight": "900",
+    "ImageUniqueID": "7d2bb067df13c7600000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Photos/Ward Beck Systems MF6 b.jpg",
+  "note": "Ward Beck Systems MF6 b.jpg.md",
+  "title_block": null
+}

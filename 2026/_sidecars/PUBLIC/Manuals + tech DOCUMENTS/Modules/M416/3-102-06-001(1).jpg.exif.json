@@ -1,0 +1,30 @@
+{
+  "filename": "3-102-06-001(1).jpg",
+  "relative_path": "/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/PUBLIC/Manuals + tech DOCUMENTS/Modules/M416/3-102-06-001(1).jpg",
+  "extension": ".jpg",
+  "size_bytes": 12869219,
+  "modified_time": "Sun Sep  6 22:12:06 2026",
+  "word_tokens": [
+    "102",
+    "06",
+    "001(1)"
+  ],
+  "width": 3300,
+  "height": 7800,
+  "format": "JPEG",
+  "mode": "L",
+  "exif": {
+    "ResolutionUnit": "2",
+    "ExifOffset": "164",
+    "Software": "Adobe Photoshop CS3 Macintosh",
+    "Orientation": "1",
+    "DateTime": "2014:02:26 14:54:44",
+    "XResolution": "300.0",
+    "YResolution": "300.0",
+    "ColorSpace": "65535",
+    "ExifImageWidth": "3300",
+    "ExifImageHeight": "7800"
+  },
+  "is_manual": false,
+  "special_flag": null
+}

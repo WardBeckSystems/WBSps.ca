@@ -1,0 +1,46 @@
+{
+  "filename": "M648 - P010 - B648-02-003(1).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M648 - P010 - B648-02-003(1).jpg",
+  "extension": ".jpg",
+  "size_bytes": 275724,
+  "modified_time": "Sat Oct 17 23:34:19 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m648",
+    "p010",
+    "b648",
+    "02",
+    "003(1)"
+  ],
+  "width": 3069,
+  "height": 1908,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "3069",
+    "ExifImageHeight": "1908",
+    "ImageUniqueID": "345f13119f1f37380000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/POWER/M648/19xx - 648-02-003 - MOUNTING TRAY AND TYPICAL SYSTEM WIRING - ISS 1.jpg",
+  "note": "M648 - P010 - B648-02-003(1).jpg.md",
+  "title_block": {
+    "drawing_number": "B 648-02-003",
+    "size": "B",
+    "title": "MOUNTING TRAY AND TYPICAL SYSTEM WIRING",
+    "issue": "1",
+    "models": [
+      "M648"
+    ]
+  }
+}

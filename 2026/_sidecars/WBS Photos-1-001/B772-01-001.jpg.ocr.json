@@ -1,0 +1,31 @@
+{
+  "filename": "B772-01-001.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/B772-01-001.jpg",
+  "width": 3500,
+  "height": 4952,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    1193,
+    2325,
+    1787,
+    4109
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:57",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M772/19xx - 772-01-001 - DATA TRANSMIT RECEIVE MODULE FUNCTIONAL - ISS 1.jpg",
+  "note": "B772-01-001.jpg.md",
+  "title_block": {
+    "drawing_number": "B 772-01-001",
+    "size": "B",
+    "title": "M772 / DATA TRANSMIT/RECEIVE MODULE / FUNCTIONAL",
+    "issue": "1",
+    "models": [
+      "M772"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "filename": "M475 - P14 - Functional Diagram.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M475 - P14 - Functional Diagram.jpg",
+  "extension": ".jpg",
+  "size_bytes": 59434,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m475",
+    "p14",
+    "functional",
+    "diagram"
+  ],
+  "width": 900,
+  "height": 574,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "900",
+    "ExifImageHeight": "574",
+    "ImageUniqueID": "88eb9aaaf028f9680000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/MONITORING/M475/M475 - P14 - Functional Diagram.jpg",
+  "note": "M475 - P14 - Functional Diagram.jpg.md",
+  "title_block": {
+    "models": [
+      "M475"
+    ]
+  }
+}

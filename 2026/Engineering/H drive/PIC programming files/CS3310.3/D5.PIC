@@ -1,0 +1,341 @@
+; ----------   PIC16C5X HEADER   ----------
+
+W       EQU     0
+
+; RESET ADDRESSES
+
+PIC54   EQU     $1FF
+PIC55   EQU     $1FF
+PIC56   EQU     $3FF
+PIC57   EQU     $7FF
+
+; STATUS WORD REGISTER f3
+
+C       EQU     0
+DC      EQU     1
+Z       EQU     2
+PD      EQU     3
+TO      EQU     4
+PA0     EQU     5
+PA1     EQU     6
+PA2     EQU     7
+
+; OPERATIONAL REGISTER FILES
+
+IND     EQU     00
+RTCC    EQU     01
+PC      EQU     02
+STATUS  EQU     03
+FSR     EQU     04
+PORTA   EQU     05
+PORTB   EQU     06
+PORTC   EQU     07
+
+; ----------   END HEADER   ----------
+
+LEVEL   EQU     08
+STATE2  EQU     09              ; ENCODER STATE
+TXSR    EQU     10              ; TX SHIFT REGISTER
+I       EQU     11
+TEMP    EQU     12
+NUM     EQU     13
+
+AS      EQU     14
+BS      EQU     15
+KS      EQU     16
+INCV    EQU     17
+COUNT   EQU     18
+
+; ----------   PORTA BITS   ----------
+
+A       EQU     0
+B       EQU     1
+KEY     EQU     3
+
+; ----------   PORTB BITS   ----------
+
+DATA1   EQU     0               ; CS3310
+CLK1    EQU     1
+LOAD1   EQU     2
+MUTE1   EQU     3               ; PULL DOWN
+
+DATA2   EQU     4               ; LCD
+CLK2    EQU     5
+LOAD2   EQU     6
+TESTB   EQU     7               ; OUTPUT LEVEL IF BIT LOW
+
+
+; ----------   EQUATES   ----------
+
+DELAY1  EQU     1               ; MAX delay with OPTION $07 ( RTCC=OS2/256 )
+DELAY2  EQU     118             ;   1 msec  with OPTION $01 ( RTCC=OS2/4 )
+
+; ----------   NEXT STATE TABLE1   ----------
+
+KEYBIT  EQU     3
+
+NEXT1   ANDLW   $0F     ; DEBOUNCE INPUT STATE MACHINE
+        ADDWF   PC
+
+        RETLW   0       ; KEYBIT CLEAR WHILE INPUT=0
+        RETLW   2
+        RETLW   0
+        RETLW   4
+        RETLW   0
+        RETLW   6
+        RETLW   0
+        RETLW   8       ; 4TH INPUT=1 SO SET KEYBIT
+
+        RETLW   10
+        RETLW   8       ; KEYBIT SET WHILE INPUT=1
+        RETLW   12
+        RETLW   8
+        RETLW   14
+        RETLW   8
+        RETLW   0       ; 4TH INPUT=0 SO CLEAR KEYBIT
+        RETLW   8
+
+; ----------   DIGITS LOOKUP TABLE3   ----------
+
+DIGITS  ANDLW   $0F
+        ADDWF   PC
+
+        RETLW   $3F             ; 0
+        RETLW   $06             ; 1
+        RETLW   $5B             ; 2
+        RETLW   $4F             ; 3
+
+        RETLW   $66             ; 4
+        RETLW   $6D             ; 5
+        RETLW   $7D             ; 6
+        RETLW   $07             ; 7
+
+        RETLW   $7F             ; 8
+        RETLW   $6F             ; 9
+        RETLW   $77             ; A
+        RETLW   $7C             ; B
+
+        RETLW   $39             ; C
+        RETLW   $5E             ; D
+        RETLW   $79             ; E
+        RETLW   $71             ; F
+
+
+; ----------   CODE   ----------
+
+        ORG     $101
+
+        MOVLW   $0F
+        TRIS    PORTA
+
+        MOVLW   $04
+        MOVWF   PORTB
+        MOVLW   $80
+        TRIS    PORTB
+
+        MOVLW   $FF             ; TURN ON DISPLAY
+        CALL    TXDIS
+        MOVLW   $FF
+        CALL    TXDIS
+        MOVLW   $FF
+        CALL    TXDIS
+        MOVLW   $FF
+        CALL    TXDIS
+
+        BSF     PORTB,LOAD2
+        NOP
+        BCF     PORTB,LOAD2
+
+        MOVLW   $07
+        OPTION
+        MOVLW   DELAY1
+        MOVWF   RTCC
+
+TDIS    MOVF    RTCC,W
+        BTFSS   STATUS,Z
+        GOTO    TDIS
+
+        MOVLW   $01
+        OPTION
+        MOVLW   DELAY2
+        MOVWF   RTCC
+
+        CLRF    AS
+        CLRF    BS
+        CLRF    KS
+
+        CLRF    LEVEL
+        MOVLW   32
+        MOVWF   INCV
+        MOVLW   10
+        MOVWF   COUNT
+
+        MOVF    PORTA,W
+        ANDLW   $03
+        MOVWF   STATE2
+        RLF     STATE2
+        RLF     STATE2
+
+        BSF     PORTB,MUTE1
+
+        GOTO    OUTPUT
+
+MAIN    MOVF    RTCC,W
+        BTFSS   STATUS,Z
+        GOTO    MAIN
+
+        MOVLW   DELAY2
+        MOVWF   RTCC
+
+        DECFSZ  COUNT
+        GOTO    MORE
+
+        MOVLW   10
+        MOVWF   COUNT
+
+        BTFSS   INCV,0
+        RRF     INCV
+
+MORE
+; ----------   SCAN CLOSURE SUBROUTINE   ----------
+
+        BTFSC   PORTA,A         ; DEBOUNCE INPUTS
+        INCF    AS
+        MOVF    AS,W
+        CALL    NEXT1
+        MOVWF   AS
+
+        BTFSC   PORTA,B
+        INCF    BS
+        MOVF    BS,W
+        CALL    NEXT1
+        MOVWF   BS
+
+        BTFSC   PORTA,KEY
+        INCF    KS
+        MOVF    KS,W
+        CALL    NEXT1
+        MOVWF   KS
+
+        BTFSC   KS,KEYBIT
+        BCF     PORTB,MUTE1
+        BTFSS   KS,KEYBIT
+        BSF     PORTB,MUTE1
+
+        BTFSC   AS,KEYBIT
+        BSF     STATE2,A
+        BTFSC   BS,KEYBIT
+        BSF     STATE2,B
+        MOVF    STATE2,W
+        CALL    NEXT2
+        MOVWF   STATE2
+
+INC_L   BTFSS   STATE2,7
+        GOTO    DEC_L
+
+        MOVF    INCV,W
+        ADDWF   LEVEL
+        GOTO    REFRESH
+
+DEC_L   BTFSS   STATE2,6
+        GOTO    CHECK
+
+        MOVF    INCV,W
+        SUBWF   LEVEL
+
+REFRESH MOVLW   32
+        MOVWF   INCV
+        GOTO    OUTPUT
+
+CHECK   BTFSC   PORTB,TESTB
+        GOTO    MAIN
+
+OUTPUT  MOVF    LEVEL,W
+        CALL    TXGAIN
+        MOVF    LEVEL,W
+        CALL    TXGAIN
+
+        BSF     PORTB,LOAD1
+
+DISPLAY
+        MOVLW   192
+        SUBWF   LEVEL,W
+        MOVWF   TEMP
+        BTFSS   STATUS,C
+        GOTO    MINUS           ; LEVEL < 192
+                                ; LEVEL >= 192
+PLUS
+        MOVLW   $26
+        CALL    TXDIS
+        GOTO    OPNUM
+
+MINUS   MOVLW   $24
+        CALL    TXDIS
+        COMF    TEMP
+        INCF    TEMP
+
+OPNUM   RRF     TEMP,W
+        CALL    TRANS4
+        MOVWF   NUM
+        SWAPF   NUM,W
+        CALL    DIGITS
+        CALL    TXDIS
+        MOVF    NUM,W
+        CALL    DIGITS
+        CALL    TXDIS
+
+        MOVLW   0
+        BTFSC   TEMP,0
+        MOVLW   5
+        CALL    DIGITS
+        CALL    TXDIS
+
+        BSF     PORTB,LOAD2
+        NOP
+        BCF     PORTB,LOAD2
+
+        XORLW   $FF
+        GOTO    MAIN
+
+; ----------   TXB1 SUBROUTINE   ----------
+
+TXB1    MOVWF   TXSR
+        BCF     PORTB,LOAD1
+        MOVLW   8
+        MOVWF   I
+
+SHIFT1  BTFSC   TXSR,7
+        BSF     PORTB,DATA1
+        BTFSS   TXSR,7
+        BCF     PORTB,DATA1
+
+        BCF     PORTB,CLK1
+        RLF     TXSR            ; DO SOMETHING
+        BSF     PORTB,CLK1
+
+        DECFSZ  I
+        GOTO    SHIFT1
+        RETLW   0
+
+; ----------   TXB2 SUBROUTINE   ----------
+
+TXB2    MOVWF   TXSR
+        BCF     PORTB,LOAD2
+        MOVLW   8
+        MOVWF   I
+
+SHIFT2  BTFSC   TXSR,7
+        BSF     PORTB,DATA2
+        BTFSS   TXSR,7
+        BCF     PORTB,DATA2
+
+        BSF     PORTB,CLK2
+        RLF     TXSR            ; DO SOMETHING
+        BCF     PORTB,CLK2
+
+        DECFSZ  I
+        GOTO    SHIFT2
+        RETLW   0
+
+        ORG     PIC55
+RESET   GOTO    $100

@@ -1,0 +1,37 @@
+{
+  "filename": "146-06-001.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/146-06-001.jpg",
+  "width": 3300,
+  "height": 5250,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "RN C 5 OCONNELL FINISH WARD BECK SYSTEMS LTd. | ATE JULY - 66 | MATERIAL COMPFESSOR EOARD | HKD K/ MI46 COMPONENT LAYOUT | CALE 2 ' | | OLS FRACT = 1/64 DEC TO UNESS SPECIFIED PLACES GIVEN ANGLES B 146 06 0o1 ISS. 2 | tID' MINBEND RAD",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2629,
+    0,
+    3256,
+    2742
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/UNSORTED/M146/1968 - 146-06-001 - COMPRESSOR BOARD M146 COMPONENT LAYOUT - DRN C.S. O'CONNELL - ISS 2 (2).jpg",
+  "note": "146-06-001.jpg.md",
+  "title_block": {
+    "drawing_number": "B 146-06-001",
+    "size": "B",
+    "title": "COMPRESSOR BOARD M146 COMPONENT LAYOUT",
+    "date": "JULY-68",
+    "year": 1968,
+    "month": 7,
+    "drawn": "C.S. O'CONNELL",
+    "checked": "(handwritten initials)",
+    "signature": "SCALE 2:1",
+    "issue": "2",
+    "models": [
+      "M146"
+    ]
+  }
+}

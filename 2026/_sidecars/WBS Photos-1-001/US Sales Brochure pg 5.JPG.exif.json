@@ -1,0 +1,42 @@
+{
+  "filename": "US Sales Brochure pg 5.JPG",
+  "relative_path": "WBSps.env/WBS Photos-1-001/US Sales Brochure pg 5.JPG",
+  "extension": ".jpg",
+  "size_bytes": 4708278,
+  "modified_time": "Sat Oct 17 23:34:19 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "us",
+    "sales",
+    "brochure",
+    "pg"
+  ],
+  "width": 5102,
+  "height": 6599,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "5102",
+    "ExifImageHeight": "6599",
+    "ImageUniqueID": "f8b20e7a6c80b0c00000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:00",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/POWER/M648/19xx - M648 - M648.jpg",
+  "note": "US Sales Brochure pg 5.JPG.md",
+  "title_block": {
+    "title": "M648",
+    "models": [
+      "M648"
+    ]
+  }
+}

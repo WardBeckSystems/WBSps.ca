@@ -1,0 +1,46 @@
+{
+  "filename": "2021-3-16-23-34-46.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/2021-3-16-23-34-46.jpg",
+  "extension": ".jpg",
+  "size_bytes": 329470,
+  "modified_time": "Sat Oct 17 23:34:15 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "2021",
+    "16",
+    "23",
+    "34",
+    "46"
+  ],
+  "width": 4965,
+  "height": 3222,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4965",
+    "ExifImageHeight": "3222",
+    "ImageUniqueID": "eb5c21d556c8d0c90000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Consoles/1990-1999/940248 - Centennial College/1994 - 940248-01-002 - CENTENNIAL COLLEGE MASTER TURRET FUNCTIONAL - DRN SM - ENG SM - ISS 2.jpg",
+  "note": "2021-3-16-23-34-46.jpg.md",
+  "title_block": {
+    "drawing_number": "D 940248-01-002",
+    "size": "D",
+    "title": "CENTENNIAL COLLEGE / MASTER TURRET / FUNCTIONAL",
+    "drawn": "SM",
+    "engineer": "SM",
+    "signature": "DISC NO: 464; CODE: 94248F02",
+    "issue": "2",
+    "customer": "Centennial College"
+  }
+}

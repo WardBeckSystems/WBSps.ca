@@ -1,0 +1,48 @@
+{
+  "filename": "WBSps.ca 20210320 - Scans (120).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (120).jpg",
+  "extension": ".jpg",
+  "size_bytes": 1492873,
+  "modified_time": "Sat Oct 17 23:34:21 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "20210320",
+    "scans",
+    "(120)"
+  ],
+  "width": 4757,
+  "height": 3363,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4757",
+    "ExifImageHeight": "3363",
+    "ImageUniqueID": "aac157fbdee3fe050000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/METER/M445/19xx - 445-03-011 - M445A EXTENDED RANGE METER BATTERY HOLDER & CLIP - DRN WS - ENG WS - ISS 2.jpg",
+  "note": "WBSps.ca 20210320 - Scans (120).jpg.md",
+  "title_block": {
+    "drawing_number": "B 445-03-011",
+    "size": "B",
+    "title": "M445A / EXTENDED RANGE METER / BATTERY HOLDER & CLIP",
+    "drawn": "WS",
+    "engineer": "WS",
+    "signature": "ISS 2 4 HOLES ADDED & ONE HOLE CHANGED TO CSK. WS; DISC NO: M:\\M445 CODE: MM445-11",
+    "issue": "2",
+    "models": [
+      "M445A"
+    ]
+  }
+}

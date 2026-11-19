@@ -1,0 +1,51 @@
+{
+  "filename": "2021-3-21-17-41-57.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/2021-3-21-17-41-57.jpg",
+  "extension": ".jpg",
+  "size_bytes": 408925,
+  "modified_time": "Sat Oct 17 23:34:15 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "2021",
+    "21",
+    "17",
+    "41",
+    "57"
+  ],
+  "width": 6993,
+  "height": 2288,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "6993",
+    "ExifImageHeight": "2288",
+    "ImageUniqueID": "f46cc96ecf96692a0000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/COMMUNICATION/M712/1973 - 712-02-007 - M723 CROSSPOINT - DRN GEB - ISS 3.jpg",
+  "note": "2021-3-21-17-41-57.jpg.md",
+  "title_block": {
+    "drawing_number": "B 712-02-007",
+    "size": "B",
+    "title": "M723 / CROSSPOINT",
+    "date": "JAN 73",
+    "year": 1973,
+    "month": 1,
+    "drawn": "GEB",
+    "checked": "signature (RBel)",
+    "signature": "revision table CKD: BJ, DM; 'WHEN REQUIRED.' note above; ISS. 3",
+    "issue": "3",
+    "models": [
+      "M723"
+    ]
+  }
+}

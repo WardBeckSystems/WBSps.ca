@@ -1,0 +1,48 @@
+{
+  "filename": "WBSps.ca 20210320 - Scans (117).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (117).jpg",
+  "extension": ".jpg",
+  "size_bytes": 1433218,
+  "modified_time": "Sat Oct 17 23:34:21 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "20210320",
+    "scans",
+    "(117)"
+  ],
+  "width": 4757,
+  "height": 3363,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "4757",
+    "ExifImageHeight": "3363",
+    "ImageUniqueID": "a0cb26dc676329780000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:02",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/ROUTING/M468/1973 - 468-03-003 - ESCUTCHEON. (SCHADOW SWITCH) - DRN ALF - ISS 3.jpg",
+  "note": "WBSps.ca 20210320 - Scans (117).jpg.md",
+  "title_block": {
+    "drawing_number": "B 468-03-003 1/2",
+    "size": "B",
+    "title": "ESCUTCHEON. (SCHADOW SWITCH)",
+    "date": "5 NOV 73",
+    "year": 1973,
+    "month": 11,
+    "drawn": "ALF",
+    "checked": "D.P.L. P.C.",
+    "signature": "MAT'L PLEXIGLASS TYPE P95 (BLACK) .245 THICK; FINISH SEE NOTES",
+    "issue": "3"
+  }
+}

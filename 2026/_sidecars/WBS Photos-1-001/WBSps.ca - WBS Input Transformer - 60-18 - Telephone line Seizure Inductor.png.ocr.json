@@ -1,0 +1,29 @@
+{
+  "filename": "WBSps.ca - WBS Input Transformer - 60-18 - Telephone line Seizure Inductor.png",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca - WBS Input Transformer - 60-18 - Telephone line Seizure Inductor.png",
+  "width": 4400,
+  "height": 2673,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2522,
+    1818,
+    4264,
+    2655
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/19xx - B 60-18 - 60-18 TELEPHONE LINE SEIZURE INDUCTOR - DRN GEB - ISS 1.png",
+  "note": "WBSps.ca - WBS Input Transformer - 60-18 - Telephone line Seizure Inductor.png.md",
+  "title_block": {
+    "drawing_number": "B 60-18",
+    "size": "B",
+    "title": "60-18 / TELEPHONE LINE SEIZURE INDUCTOR",
+    "drawn": "GEB",
+    "issue": "1"
+  }
+}

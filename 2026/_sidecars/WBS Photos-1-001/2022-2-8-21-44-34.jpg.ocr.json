@@ -1,0 +1,37 @@
+{
+  "filename": "2022-2-8-21-44-34.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/2022-2-8-21-44-34.jpg",
+  "width": 3236,
+  "height": 10160,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    7215,
+    2492,
+    10012,
+    3197
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:55",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/SUMMING/M484/1975 - 484-02-002 - M484A SUMMING AMP. SCHEMATIC - DRN REB.jpg",
+  "note": "2022-2-8-21-44-34.jpg.md",
+  "title_block": {
+    "drawing_number": "B 484-02-002",
+    "size": "B",
+    "title": "M484A / SUMMING AMP. SCHEMATIC",
+    "date": "27 MAY 75",
+    "year": 1975,
+    "month": 5,
+    "drawn": "REB",
+    "checked": "R.Bel",
+    "signature": "revision column CKD Rn, RBel, GEB; issue cut off",
+    "job": "484",
+    "models": [
+      "M484A"
+    ]
+  }
+}

@@ -1,0 +1,895 @@
+MPASM 01.40 Released          POD9NEW.ASM   8-13-1997  17:26:43         PAGE  1
+
+
+LOC  OBJECT CODE     LINE SOURCE TEXT
+  VALUE
+
+                    00001 ;Pod 9 Audio Switcher
+                    00002 
+                    00003         list    p=16C73A
+                    00004         #include "P16C73A.INC"
+                    00001         LIST
+                    00002 ; P16C73A.INC  Standard Header File, Version 1.02    Microchip Technology, Inc.
+                    00309         LIST
+                    00005 
+0000                00006                 org     0
+0000 201C           00007                 call    init
+0001 208B           00008                 call    output
+0002 280E           00009                 goto    main
+                    00010         
+0020                00011                 org     20h
+0020                00012 output_reg      res     1
+0021                00013 pre_output      res     1
+0022                00014 bcount          res     1
+0023                00015 bounce          res     1
+0024                00016 comp_reg        res     1
+0025                00017 rel_flag        res     1
+0026                00018 parity          res     1
+0027                00019 parity_check    res     1
+0028                00020 recieved_reg    res     1
+0029                00021 good_data       res     1
+002A                00022 led_dance       res     1
+002B                00023 led_count       res     1
+002C                00024 shift_count     res     1
+002D                00025 transmit_flag   res     1
+002E                00026 remote_flag     res     1
+002F                00027 timer_end       res     1
+0030                00028 spi_transmit    res     1
+0031                00029 spi_output      res     1
+0032                00030 spi_recieved    res     1
+0033                00031 pre_spi         res     1
+0034                00032 input_reg       res     1
+0035                00033 input_flag      res     1
+0036                00034 spi_reg         res     1
+0037                00035 output_flag     res     1
+0038                00036 audio           res     1
+0039                00037 audio_reg       res     1
+003A                00038 video           res     1
+003B                00039 video_reg       res     1
+003C                00040 uart_flag       res     1
+003D                00041 transmit_reg    res     1
+                    00042 
+                    00043 
+0004                00044                 ORG     4H
+0004 0009           00045                 RETFIE
+                    00046 
+0005 0782           00047 video_table     addwf   PCL,1
+0006 0000           00048                 nop
+0007 34BF           00049                 retlw   0xBF
+0008 34FE           00050                 retlw   0xFE
+MPASM 01.40 Released          POD9NEW.ASM   8-13-1997  17:26:43         PAGE  2
+
+
+LOC  OBJECT CODE     LINE SOURCE TEXT
+  VALUE
+
+0009 347F           00051                 retlw   0x7F
+000A 34FD           00052                 retlw   0xFD
+000B 34F7           00053                 retlw   0xF7
+000C 34FB           00054                 retlw   0xFB
+000D 0008           00055                 return
+                    00056 
+                    00057 ;***************************************************
+                    00058 ;************   Main Program    ********************
+                    00059 ;***************************************************
+000E 0064           00060 main            clrwdt
+000F 2044           00061                 call    input
+0010 2056           00062                 call    debounce
+0011 206E           00063                 call    router
+0012 208B           00064                 call    output          
+0013 20AD           00065                 call    debounce_rel
+0014 20BF           00066                 call    recieve_uart
+0015 20E6           00067                 call    translate_uart
+0016 2114           00068                 call    transmit_uart
+0017 2145           00069                 call    SPI_trns_cntrl
+0018 215E           00070                 call    SPI_master
+0019 216B           00071                 call    SPI_rcv_ctrl
+001A 2138           00072                 call    timer_check
+001B 280E           00073                 goto    main
+                    00074 
+                    00075 ;***************************************************
+                    00076 ;***********    Initialization   *******************
+                    00077 ;***************************************************
+001C 1683           00078 init            BSF     STATUS,5        ; set bank 1
+Message[302]: Register in operand not in bank 0.  Ensure that bank bits are correct.
+001D 151F           00079                 BSF     ADCON1,PCFG2    ;porta is digital i/o
+Message[302]: Register in operand not in bank 0.  Ensure that bank bits are correct.
+001E 149F           00080                 BSF     ADCON1,PCFG1
+001F 30FF           00081                 movlw   0xFF
+Message[302]: Register in operand not in bank 0.  Ensure that bank bits are correct.
+0020 0085           00082                 movwf   TRISA           ; porta is an input.
+Message[302]: Register in operand not in bank 0.  Ensure that bank bits are correct.
+0021 0087           00083                 movwf   TRISC           ; portc is an input. *Must change
+Message[302]: Register in operand not in bank 0.  Ensure that bank bits are correct.
+0022 1007           00084                 bcf     TRISC,0
+Message[302]: Register in operand not in bank 0.  Ensure that bank bits are correct.
+0023 1287           00085                 bcf     TRISC,5
+Message[302]: Register in operand not in bank 0.  Ensure that bank bits are correct.
+0024 1187           00086                 bcf     TRISC,3
+Message[302]: Register in operand not in bank 0.  Ensure that bank bits are correct.
+0025 0186           00087                 clrf    TRISB           ; set portb as an output.
+0026 3007           00088                 movlw   0x07
+Message[302]: Register in operand not in bank 0.  Ensure that bank bits are correct.
+0027 0099           00089                 movwf   SPBRG           ; Set the baudrate genetor
+Message[302]: Register in operand not in bank 0.  Ensure that bank bits are correct.
+0028 1218           00090                 bcf     TXSTA,SYNC      ; Enable asynchonous mode
+Message[302]: Register in operand not in bank 0.  Ensure that bank bits are correct.
+0029 1118           00091                 bcf     TXSTA,BRGH      ; Low mode baud rate
+Message[302]: Register in operand not in bank 0.  Ensure that bank bits are correct.
+MPASM 01.40 Released          POD9NEW.ASM   8-13-1997  17:26:43         PAGE  3
+
+
+LOC  OBJECT CODE     LINE SOURCE TEXT
+  VALUE
+
+002A 1718           00092                 bsf     TXSTA,TX9
+Message[302]: Register in operand not in bank 0.  Ensure that bank bits are correct.
+002B 1698           00093                 bsf     TXSTA,TXEN
+002C 1283           00094                 BCF     STATUS,5        ; set bank 0
+002D 30BF           00095                 movlw   0xBF
+002E 00A0           00096                 movwf   output_reg              ;only input1 led is on.
+002F 00A1           00097                 movwf   pre_output
+0030 30FE           00098                 movlw   0xFE
+0031 00A2           00099                 movwf   bcount          ; debouncing counter
+0032 1025           00100                 bcf     rel_flag,0
+0033 1407           00101                 bsf     PORTC,0
+0034 1798           00102                 bsf     RCSTA,SPEN      ; Enable serial ports RC7 and RC6
+0035 1618           00103                 bsf     RCSTA,CREN      ; Continuous recieve enabled
+0036 1718           00104                 bsf     RCSTA,RX9       ; Nine bit recieve enabled
+0037 0191           00105                 clrf    TMR2
+0038 30FF           00106                 movlw   0xFF
+0039 0092           00107                 movwf   T2CON
+003A 108C           00108                 bcf     PIR1,TMR2IF
+003B 01AE           00109                 clrf    remote_flag
+003C 0194           00110                 clrf    SSPCON
+003D 1694           00111                 bsf     SSPCON,SSPEN
+003E 01A5           00112                 clrf    rel_flag
+003F 01B5           00113                 clrf    input_flag
+0040 1437           00114                 bsf     output_flag,0
+0041 14B7           00115                 bsf     output_flag,1
+0042 0093           00116                 movwf   SSPBUF
+0043 0008           00117                 return
+                    00118 
+                    00119 ;*****************************************************
+                    00120 ;**********   Input Subroutine   *********************
+                    00121 ;*****************************************************
+0044 01B4           00122 input           clrf    input_reg
+0045 1985           00123                 btfsc   PORTA,3         ;check input1
+0046 1734           00124                 bsf     input_reg,6     ;
+0047 1905           00125                 btfsc   PORTA,2         ;check input2
+0048 1434           00126                 bsf     input_reg,0     
+0049 1A85           00127                 btfsc   PORTA,5         ;check input3
+004A 17B4           00128                 bsf     input_reg,7
+004B 1A05           00129                 btfsc   PORTA,4         ;check input4
+004C 14B4           00130                 bsf     input_reg,1
+004D 1907           00131                 btfsc   PORTC,2         ;check input5
+004E 15B4           00132                 bsf     input_reg,3
+004F 1887           00133                 btfsc   PORTC,1         ;check input6
+0050 1534           00134                 bsf     input_reg,2     
+0051 1805           00135                 btfsc   PORTA,0         ;check spare
+0052 1634           00136                 bsf     input_reg,4
+0053 1885           00137                 btfsc   PORTA,1         ;check mix
+0054 16B4           00138                 bsf     input_reg,5
+0055 0008           00139                 return
+                    00140 
+                    00141 ;*******************************************************
+                    00142 ;************    Debounce Subroutine  ******************
+                    00143 ;*******************************************************
+MPASM 01.40 Released          POD9NEW.ASM   8-13-1997  17:26:43         PAGE  4
+
+
+LOC  OBJECT CODE     LINE SOURCE TEXT
+  VALUE
+
+0056 1825           00144 debounce        btfsc   rel_flag,0
+0057 0008           00145                 return
+0058 0834           00146                 movf    input_reg,w     ;check to see if the input has
+0059 3AFF           00147                 xorlw   0xFF            ;changed
+005A 1903           00148                 btfsc   STATUS,Z
+005B 2863           00149                 goto    bcount_reset
+005C 30FE           00150                 movlw   0xFE
+005D 0622           00151                 xorwf   bcount,w        
+005E 1903           00152                 btfsc   STATUS,2
+005F 20B9           00153                 call    bounceset
+0060 0834           00154                 movf    input_reg,w
+0061 0223           00155                 subwf   bounce,w
+0062 1D03           00156                 btfss   STATUS,2
+0063 20BC           00157 bcount_reset    call    reset_bcount
+0064 0BA2           00158                 decfsz  bcount,1
+0065 0008           00159                 return
+0066 30FE           00160                 movlw   0xFE
+0067 00A2           00161                 movwf   bcount
+0068 1425           00162                 bsf     rel_flag,0
+0069 1435           00163                 bsf     input_flag,0
+006A 14B5           00164                 bsf     input_flag,1
+006B 1535           00165                 bsf     input_flag,2
+006C 103C           00166                 bcf     uart_flag,0
+006D 0008           00167                 return  
+                    00168         
+                    00169 ;*******************************************************
+                    00170 ;**************    Output Subrountine  *****************
+                    00171 ;*******************************************************                         
+006E 1CB5           00172 router          btfss   input_flag,1
+006F 287C           00173                 goto    next_route0
+0070 1C35           00174                 btfss   input_flag,0
+0071 0008           00175                 return
+0072 1EA1           00176                 btfss   pre_output,5
+0073 209F           00177                 call    next_output1
+0074 1AA1           00178                 btfsc   pre_output,5
+0075 20A7           00179                 call    next_output2
+0076 0834           00180                 movf    input_reg,w
+0077 00A0           00181                 movwf   output_reg
+0078 00A1           00182                 movwf   pre_output
+0079 1437           00183                 bsf     output_flag,0
+007A 1035           00184                 bcf     input_flag,0
+007B 0008           00185                 return
+007C 1C2E           00186 next_route0     btfss   remote_flag,0
+007D 2884           00187                 goto    next_route1
+007E 0836           00188                 movf    spi_reg,w
+007F 00A0           00189                 movwf   output_reg
+0080 00A1           00190                 movwf   pre_output
+0081 1437           00191                 bsf     output_flag,0
+0082 102E           00192                 bcf     remote_flag,0
+0083 0008           00193                 return
+0084 1CAE           00194 next_route1     btfss   remote_flag,1
+0085 0008           00195                 return
+0086 083B           00196                 movf    video_reg,w
+MPASM 01.40 Released          POD9NEW.ASM   8-13-1997  17:26:43         PAGE  5
+
+
+LOC  OBJECT CODE     LINE SOURCE TEXT
+  VALUE
+
+0087 00A0           00197                 movwf   output_reg
+0088 1437           00198                 bsf     output_flag,0
+0089 10AE           00199                 bcf     remote_flag,1
+008A 0008           00200                 return
+                    00201         
+                    00202 ;***********************************
+008B 1C37           00203 output          btfss   output_flag,0
+008C 0008           00204                 return
+008D 0820           00205                 movf    output_reg,w
+008E 00A1           00206                 movwf   pre_output
+008F 1037           00207                 bcf     output_flag,0
+0090 3008           00208                 movlw   0x08
+0091 00AC           00209                 movwf   shift_count
+0092 1306           00210 shift_out       bcf     PORTB,6
+0093 1820           00211                 btfsc   output_reg,0
+0094 1706           00212                 bsf     PORTB,6
+0095 1786           00213                 bsf     PORTB,7
+0096 1386           00214                 bcf     PORTB,7
+0097 0CA0           00215                 rrf     output_reg,1
+0098 0BAC           00216                 decfsz  shift_count,1
+0099 2892           00217                 goto    shift_out
+009A 1686           00218                 bsf     PORTB,5
+009B 1286           00219                 bcf     PORTB,5
+009C 30FE           00220                 movlw   0xFE
+009D 00A2           00221                 movwf   bcount
+009E 0008           00222                 return
+                    00223 
+                    00224 ;***************************************************
+009F 1EB4           00225 next_output1    btfss   input_reg,5
+00A0 28A3           00226                 goto    if_clear
+00A1 12B4           00227                 bcf     input_reg,5
+00A2 0008           00228                 return
+00A3 0821           00229 if_clear        movf    pre_output,w
+00A4 00B4           00230                 movwf   input_reg
+00A5 16B4           00231                 bsf     input_reg,5
+00A6 0008           00232                 return
+                    00233 ;***************************************************
+00A7 1AB4           00234 next_output2    btfsc   input_reg,5
+00A8 0008           00235                 return
+00A9 0821           00236                 movf    pre_output,w
+00AA 00B4           00237                 movwf   input_reg
+00AB 12B4           00238                 bcf     input_reg,5
+00AC 0008           00239                 return
+                    00240 ;***************************************************
+                    00241 ;*********   Debounce Release Subroutine  **********
+                    00242 ;***************************************************
+00AD 1C25           00243 debounce_rel    btfss   rel_flag,0
+00AE 0008           00244                 return
+00AF 0834           00245                 movf    input_reg,0
+00B0 3AFF           00246                 xorlw   0xFF
+00B1 1D03           00247                 btfss   STATUS,2
+00B2 20BC           00248                 call    reset_bcount
+00B3 0BA2           00249                 decfsz  bcount,1
+MPASM 01.40 Released          POD9NEW.ASM   8-13-1997  17:26:43         PAGE  6
+
+
+LOC  OBJECT CODE     LINE SOURCE TEXT
+  VALUE
+
+00B4 0008           00250                 return
+00B5 30FE           00251                 movlw   0xFE
+00B6 00A2           00252                 movwf   bcount
+00B7 1025           00253                 bcf     rel_flag,0
+00B8 0008           00254                 return          
+                    00255 
+00B9 0834           00256 bounceset       movf    input_reg,0
+00BA 00A3           00257                 movwf   bounce
+00BB 0008           00258                 return
+                    00259 
+00BC 30FF           00260 reset_bcount    movlw   0xFF
+00BD 00A2           00261                 movwf   bcount
+00BE 0008           00262                 return
+                    00263 ;*************************************
+00BF 1E8C           00264 recieve_uart    btfss   PIR1,RCIF
+00C0 0008           00265                 return  
+00C1 1918           00266                 btfsc   RCSTA,FERR
+00C2 28C5           00267                 goto    aerror
+00C3 1C98           00268                 btfss   RCSTA,OERR
+00C4 28C7           00269                 goto    do_recieve
+00C5 1218           00270 aerror          bcf     RCSTA,CREN
+00C6 1618           00271                 bsf     RCSTA,CREN
+00C7 01A6           00272 do_recieve      clrf    parity
+00C8 1818           00273                 btfsc   RCSTA,RX9D
+00C9 1426           00274                 bsf     parity,0
+00CA 081A           00275                 movf    RCREG,w
+00CB 00A8           00276                 movwf   recieved_reg
+00CC 01A7           00277                 clrf    parity_check
+00CD 3001           00278                 movlw   0x01
+00CE 1828           00279                 btfsc   recieved_reg,0          ;Parity Check
+00CF 06A7           00280                 xorwf   parity_check,1
+00D0 18A8           00281                 btfsc   recieved_reg,1
+00D1 06A7           00282                 xorwf   parity_check,1  
+00D2 1928           00283                 btfsc   recieved_reg,2
+00D3 06A7           00284                 xorwf   parity_check,1
+00D4 19A8           00285                 btfsc   recieved_reg,3
+00D5 06A7           00286                 xorwf   parity_check,1  
+00D6 1A28           00287                 btfsc   recieved_reg,4
+00D7 06A7           00288                 xorwf   parity_check,1
+00D8 1AA8           00289                 btfsc   recieved_reg,5
+00D9 06A7           00290                 xorwf   parity_check,1  
+00DA 1B28           00291                 btfsc   recieved_reg,6
+00DB 06A7           00292                 xorwf   parity_check,1
+00DC 1BA8           00293                 btfsc   recieved_reg,7
+00DD 06A7           00294                 xorwf   parity_check,1
+00DE 3001           00295                 movlw   0x01
+00DF 05A6           00296                 andwf   parity,1
+00E0 05A7           00297                 andwf   parity_check,1
+00E1 0826           00298                 movf    parity,0
+00E2 0227           00299                 subwf   parity_check,0
+00E3 1903           00300                 btfsc   STATUS,Z
+00E4 142D           00301                 bsf     transmit_flag,0
+00E5 0008           00302                 return
+MPASM 01.40 Released          POD9NEW.ASM   8-13-1997  17:26:43         PAGE  7
+
+
+LOC  OBJECT CODE     LINE SOURCE TEXT
+  VALUE
+
+                    00303 
+                    00304 ;************************************
+00E6 1C2D           00305 translate_uart  btfss   transmit_flag,0
+00E7 0008           00306                 return
+00E8 0828           00307                 movf    recieved_reg,w
+00E9 39F0           00308                 andlw   0xF0
+00EA 3AF0           00309                 xorlw   0xF0            
+00EB 1D03           00310                 btfss   STATUS,Z
+00EC 28F0           00311                 goto    next_check1
+00ED 17BC           00312                 bsf     uart_flag,7
+00EE 102D           00313                 bcf     transmit_flag,0
+00EF 0008           00314                 return
+00F0 1FBC           00315 next_check1     btfss   uart_flag,7
+00F1 0008           00316                 return
+00F2 13BC           00317                 bcf     uart_flag,7
+00F3 1FA8           00318                 btfss   recieved_reg,7
+00F4 290F           00319                 goto    next_check2
+00F5 1B28           00320                 btfsc   recieved_reg,6
+00F6 0008           00321                 return
+00F7 3038           00322                 movlw   0x38
+00F8 0528           00323                 andwf   recieved_reg,w
+00F9 1903           00324                 btfsc   STATUS,Z
+00FA 2907           00325                 goto    audio_prog
+00FB 00BB           00326                 movwf   video_reg
+00FC 14AE           00327                 bsf     remote_flag,1
+00FD 01B5           00328                 clrf    input_flag
+00FE 102E           00329                 bcf     remote_flag,0
+00FF 1003           00330                 bcf     STATUS,C
+Message[305]: Using default destination of 1 (file).
+0100 0CBB           00331                 rrf     video_reg
+Message[305]: Using default destination of 1 (file).
+0101 0CBB           00332                 rrf     video_reg
+Message[305]: Using default destination of 1 (file).
+0102 0CBB           00333                 rrf     video_reg
+0103 083B           00334                 movf    video_reg,w
+0104 3907           00335                 andlw   0x07
+0105 2005           00336                 call    video_table
+0106 00BB           00337                 movwf   video_reg
+0107 3007           00338 audio_prog      movlw   0x07
+0108 0528           00339                 andwf   recieved_reg,w
+0109 1903           00340                 btfsc   STATUS,Z
+010A 290F           00341                 goto    next_check2
+010B 00B9           00342                 movwf   audio_reg
+010C 00B1           00343                 movwf   spi_output
+010D 17B1           00344                 bsf     spi_output,7
+010E 143C           00345                 bsf     uart_flag,0
+010F 13A8           00346 next_check2     bcf     recieved_reg,7
+0110 1328           00347                 bcf     recieved_reg,6
+0111 0828           00348                 movf    recieved_reg,w
+0112 00BD           00349                 movwf   transmit_reg
+0113 0008           00350                 return
+                    00351 
+                    00352 ;*************************************          
+MPASM 01.40 Released          POD9NEW.ASM   8-13-1997  17:26:43         PAGE  8
+
+
+LOC  OBJECT CODE     LINE SOURCE TEXT
+  VALUE
+
+0114 1683           00353 transmit_uart   BSF     STATUS,5        ; set bank 1
+Message[302]: Register in operand not in bank 0.  Ensure that bank bits are correct.
+0115 1C98           00354                 btfss   TXSTA,TRMT
+0116 2936           00355                 goto    no_transmit
+0117 1283           00356                 BCF     STATUS,5
+0118 1007           00357                 bcf     PORTC,0                 ;Set Transmit
+0119 1C2D           00358                 btfss   transmit_flag,0
+011A 2936           00359                 goto    no_transmit
+011B 102D           00360                 bcf     transmit_flag,0
+011C 1407           00361                 bsf     PORTC,0
+011D 01A6           00362                 clrf    parity
+011E 3001           00363                 movlw   0x01
+011F 183D           00364                 btfsc   transmit_reg,0          ;Parity Check
+0120 06A6           00365                 xorwf   parity,1
+0121 18BD           00366                 btfsc   transmit_reg,1
+0122 06A6           00367                 xorwf   parity,1        
+0123 193D           00368                 btfsc   transmit_reg,2
+0124 06A6           00369                 xorwf   parity,1
+0125 19BD           00370                 btfsc   transmit_reg,3
+0126 06A6           00371                 xorwf   parity,1        
+0127 1A3D           00372                 btfsc   transmit_reg,4
+0128 06A6           00373                 xorwf   parity,1
+0129 1ABD           00374                 btfsc   transmit_reg,5
+012A 06A6           00375                 xorwf   parity,1        
+012B 1B3D           00376                 btfsc   transmit_reg,6
+012C 06A6           00377                 xorwf   parity,1
+012D 1BBD           00378                 btfsc   transmit_reg,7
+012E 06A6           00379                 xorwf   parity,1
+012F 1683           00380                 BSF     STATUS,5
+Message[302]: Register in operand not in bank 0.  Ensure that bank bits are correct.
+0130 1018           00381                 bcf     TXSTA,TX9D
+0131 1283           00382                 BCF     STATUS,5
+0132 1826           00383                 btfsc   parity,0
+0133 2141           00384                 call    set_parity
+0134 083D           00385                 movf    transmit_reg,w
+0135 0099           00386                 movwf   TXREG
+0136 1283           00387 no_transmit     BCF     STATUS,5
+0137 0008           00388                 return
+                    00389 
+0138 1C8C           00390 timer_check     btfss   PIR1,TMR2IF
+0139 0008           00391                 return
+013A 0192           00392                 clrf    T2CON
+013B 0191           00393                 clrf    TMR2
+013C 1430           00394                 bsf     spi_transmit,0
+013D 30FF           00395                 movlw   0xFF
+013E 0092           00396                 movwf   T2CON
+013F 108C           00397                 bcf     PIR1,TMR2IF
+0140 0008           00398                 return
+                    00399 
+0141 1683           00400 set_parity      BSF     STATUS,5
+Message[302]: Register in operand not in bank 0.  Ensure that bank bits are correct.
+0142 1418           00401                 bsf     TXSTA,TX9D
+0143 1283           00402                 BCF     STATUS,5
+MPASM 01.40 Released          POD9NEW.ASM   8-13-1997  17:26:43         PAGE  9
+
+
+LOC  OBJECT CODE     LINE SOURCE TEXT
+  VALUE
+
+0144 0008           00403                 return
+                    00404 
+                    00405 
+0145 183C           00406 SPI_trns_cntrl  btfsc   uart_flag,0
+0146 0008           00407                 return
+0147 01B1           00408                 clrf    spi_output
+0148 18B5           00409                 btfsc   input_flag,1
+0149 17B1           00410                 bsf     spi_output,7
+014A 1431           00411                 bsf     spi_output,0
+014B 1F21           00412                 btfss   pre_output,6
+014C 0008           00413                 return
+014D 0AB1           00414                 incf    spi_output,1
+014E 1C21           00415                 btfss   pre_output,0
+014F 0008           00416                 return
+0150 0AB1           00417                 incf    spi_output,1
+0151 1FA1           00418                 btfss   pre_output,7
+0152 0008           00419                 return
+0153 0AB1           00420                 incf    spi_output,1
+0154 1CA1           00421                 btfss   pre_output,1
+0155 0008           00422                 return
+0156 0AB1           00423                 incf    spi_output,1
+0157 1DA1           00424                 btfss   pre_output,3
+0158 0008           00425                 return
+0159 0AB1           00426                 incf    spi_output,1
+015A 1D21           00427                 btfss   pre_output,2
+015B 0008           00428                 return
+015C 0AB1           00429                 incf    spi_output,1
+015D 0008           00430                 return
+                    00431                 
+015E 1683           00432 SPI_master      BSF     STATUS,RP0
+Message[302]: Register in operand not in bank 0.  Ensure that bank bits are correct.
+015F 1C14           00433                 btfss   SSPSTAT,BF
+0160 2969           00434                 goto    no_spi
+0161 1283           00435                 BCF     STATUS,RP0
+0162 1C30           00436                 btfss   spi_transmit,0
+0163 0008           00437                 return
+0164 0813           00438                 movf    SSPBUF,w
+0165 00B2           00439                 movwf   spi_recieved
+0166 0831           00440                 movf    spi_output,w
+0167 0093           00441                 movwf   SSPBUF
+0168 1030           00442                 bcf     spi_transmit,0
+0169 1283           00443 no_spi          BCF     STATUS,RP0              
+016A 0008           00444                 return
+                    00445         
+                    00446 
+016B 1D35           00447 SPI_rcv_ctrl    btfss   input_flag,2
+016C 2970           00448                 goto    normal_SPI_rec
+016D 1135           00449                 bcf     input_flag,2
+016E 01B2           00450                 clrf    spi_recieved
+016F 0008           00451                 return
+0170 1FB2           00452 normal_SPI_rec  btfss   spi_recieved,7
+0171 0008           00453                 return
+0172 1B32           00454                 btfsc   spi_recieved,6
+MPASM 01.40 Released          POD9NEW.ASM   8-13-1997  17:26:43         PAGE 10
+
+
+LOC  OBJECT CODE     LINE SOURCE TEXT
+  VALUE
+
+0173 0008           00455                 return
+0174 10B5           00456                 bcf     input_flag,1
+0175 13B2           00457                 bcf     spi_recieved,7
+0176 30FF           00458                 movlw   0xFF
+0177 00B6           00459                 movwf   spi_reg
+0178 0BB2           00460                 decfsz  spi_recieved,1
+0179 297E           00461                 goto    next_recie0
+017A 142E           00462                 bsf     remote_flag,0
+017B 103C           00463                 bcf     uart_flag,0
+017C 1336           00464                 bcf     spi_reg,6
+017D 0008           00465                 return
+017E 0BB2           00466 next_recie0     decfsz  spi_recieved,1
+017F 2983           00467                 goto    next_recie1
+0180 142E           00468                 bsf     remote_flag,0
+0181 1036           00469                 bcf     spi_reg,0
+0182 0008           00470                 return
+0183 0BB2           00471 next_recie1     decfsz  spi_recieved,1
+0184 2988           00472                 goto    next_recie2
+0185 142E           00473                 bsf     remote_flag,0
+0186 13B6           00474                 bcf     spi_reg,7
+0187 0008           00475                 return
+0188 0BB2           00476 next_recie2     decfsz  spi_recieved,1
+0189 298D           00477                 goto    next_recie3
+018A 142E           00478                 bsf     remote_flag,0
+018B 10B6           00479                 bcf     spi_reg,1
+018C 0008           00480                 return
+018D 0BB2           00481 next_recie3     decfsz  spi_recieved,1
+018E 2992           00482                 goto    next_recie4
+018F 142E           00483                 bsf     remote_flag,0
+0190 11B6           00484                 bcf     spi_reg,3
+0191 0008           00485                 return
+0192 0BB2           00486 next_recie4     decfsz  spi_recieved,1
+0193 2997           00487                 goto    next_recie5
+0194 142E           00488                 bsf     remote_flag,0
+0195 1136           00489                 bcf     spi_reg,2
+0196 0008           00490                 return
+0197 0BB2           00491 next_recie5     decfsz  spi_recieved,1
+0198 0008           00492                 return
+0199 1136           00493                 bcf     spi_reg,2
+019A 0836           00494                 movf    spi_reg,w
+019B 00B8           00495                 movwf   audio
+019C 142E           00496                 bsf     remote_flag,0
+019D 0008           00497                 return
+                    00498 
+                    00499         
+                    00500                 END
+MPASM 01.40 Released          POD9NEW.ASM   8-13-1997  17:26:43         PAGE 11
+
+
+SYMBOL TABLE
+  LABEL                             VALUE 
+
+ADCON0                            0000001F
+ADCON1                            0000009F
+ADCS0                             00000006
+ADCS1                             00000007
+ADIE                              00000006
+ADIF                              00000006
+ADON                              00000000
+ADRES                             0000001E
+BF                                00000000
+BRGH                              00000002
+C                                 00000000
+CCP1CON                           00000017
+CCP1IE                            00000002
+CCP1IF                            00000002
+CCP1M0                            00000000
+CCP1M1                            00000001
+CCP1M2                            00000002
+CCP1M3                            00000003
+CCP1X                             00000005
+CCP1Y                             00000004
+CCP2CON                           0000001D
+CCP2IE                            00000000
+CCP2IF                            00000000
+CCP2M0                            00000000
+CCP2M1                            00000001
+CCP2M2                            00000002
+CCP2M3                            00000003
+CCP2X                             00000005
+CCP2Y                             00000004
+CCPR1H                            00000016
+CCPR1L                            00000015
+CCPR2H                            0000001C
+CCPR2L                            0000001B
+CHS0                              00000003
+CHS1                              00000004
+CHS2                              00000005
+CKP                               00000004
+CREN                              00000004
+CSRC                              00000007
+D                                 00000005
+DATA_ADDRESS                      00000005
+DC                                00000001
+D_A                               00000005
+F                                 00000001
+FERR                              00000002
+FSR                               00000004
+GIE                               00000007
+GO                                00000002
+GO_DONE                           00000002
+I2C_DATA                          00000005
+I2C_READ                          00000002
+I2C_START                         00000003
+I2C_STOP                          00000004
+MPASM 01.40 Released          POD9NEW.ASM   8-13-1997  17:26:43         PAGE 12
+
+
+SYMBOL TABLE
+  LABEL                             VALUE 
+
+INDF                              00000000
+INTCON                            0000000B
+INTE                              00000004
+INTEDG                            00000006
+INTF                              00000001
+IRP                               00000007
+NOT_A                             00000005
+NOT_ADDRESS                       00000005
+NOT_BO                            00000000
+NOT_BOR                           00000000
+NOT_DONE                          00000002
+NOT_PD                            00000003
+NOT_POR                           00000001
+NOT_RBPU                          00000007
+NOT_RC8                           00000006
+NOT_T1SYNC                        00000002
+NOT_TO                            00000004
+NOT_TX8                           00000006
+NOT_W                             00000002
+NOT_WRITE                         00000002
+OERR                              00000001
+OPTION_REG                        00000081
+P                                 00000004
+PCFG0                             00000000
+PCFG1                             00000001
+PCFG2                             00000002
+PCL                               00000002
+PCLATH                            0000000A
+PCON                              0000008E
+PEIE                              00000006
+PIE1                              0000008C
+PIE2                              0000008D
+PIR1                              0000000C
+PIR2                              0000000D
+PORTA                             00000005
+PORTB                             00000006
+PORTC                             00000007
+PR2                               00000092
+PS0                               00000000
+PS1                               00000001
+PS2                               00000002
+PSA                               00000003
+R                                 00000002
+RBIE                              00000003
+RBIF                              00000000
+RC8_9                             00000006
+RC9                               00000006
+RCD8                              00000000
+RCIE                              00000005
+RCIF                              00000005
+RCREG                             0000001A
+RCSTA                             00000018
+READ_WRITE                        00000002
+MPASM 01.40 Released          POD9NEW.ASM   8-13-1997  17:26:43         PAGE 13
+
+
+SYMBOL TABLE
+  LABEL                             VALUE 
+
+RP0                               00000005
+RP1                               00000006
+RX9                               00000006
+RX9D                              00000000
+R_W                               00000002
+S                                 00000003
+SPBRG                             00000099
+SPEN                              00000007
+SPI_master                        0000015E
+SPI_rcv_ctrl                      0000016B
+SPI_trns_cntrl                    00000145
+SREN                              00000005
+SSPADD                            00000093
+SSPBUF                            00000013
+SSPCON                            00000014
+SSPEN                             00000005
+SSPIE                             00000003
+SSPIF                             00000003
+SSPM0                             00000000
+SSPM1                             00000001
+SSPM2                             00000002
+SSPM3                             00000003
+SSPOV                             00000006
+SSPSTAT                           00000094
+STATUS                            00000003
+SYNC                              00000004
+T0CS                              00000005
+T0IE                              00000005
+T0IF                              00000002
+T0SE                              00000004
+T1CKPS0                           00000004
+T1CKPS1                           00000005
+T1CON                             00000010
+T1INSYNC                          00000002
+T1OSCEN                           00000003
+T2CKPS0                           00000000
+T2CKPS1                           00000001
+T2CON                             00000012
+TMR0                              00000001
+TMR1CS                            00000001
+TMR1H                             0000000F
+TMR1IE                            00000000
+TMR1IF                            00000000
+TMR1L                             0000000E
+TMR1ON                            00000000
+TMR2                              00000011
+TMR2IE                            00000001
+TMR2IF                            00000001
+TMR2ON                            00000002
+TOUTPS0                           00000003
+TOUTPS1                           00000004
+TOUTPS2                           00000005
+TOUTPS3                           00000006
+MPASM 01.40 Released          POD9NEW.ASM   8-13-1997  17:26:43         PAGE 14
+
+
+SYMBOL TABLE
+  LABEL                             VALUE 
+
+TRISA                             00000085
+TRISB                             00000086
+TRISC                             00000087
+TRMT                              00000001
+TX8_9                             00000006
+TX9                               00000006
+TX9D                              00000000
+TXD8                              00000000
+TXEN                              00000005
+TXIE                              00000004
+TXIF                              00000004
+TXREG                             00000019
+TXSTA                             00000098
+UA                                00000001
+W                                 00000000
+WCOL                              00000007
+Z                                 00000002
+_BODEN_OFF                        00003FBF
+_BODEN_ON                         00003FFF
+_CP_50                            00002AEF
+_CP_75                            000015DF
+_CP_ALL                           000000CF
+_CP_OFF                           00003FFF
+_HS_OSC                           00003FFE
+_LP_OSC                           00003FFC
+_PWRTE_OFF                        00003FFF
+_PWRTE_ON                         00003FF7
+_RC_OSC                           00003FFF
+_WDT_OFF                          00003FFB
+_WDT_ON                           00003FFF
+_XT_OSC                           00003FFD
+__16C73A                          00000001
+aerror                            000000C5
+audio                             00000038
+audio_prog                        00000107
+audio_reg                         00000039
+bcount                            00000022
+bcount_reset                      00000063
+bounce                            00000023
+bounceset                         000000B9
+comp_reg                          00000024
+debounce                          00000056
+debounce_rel                      000000AD
+do_recieve                        000000C7
+good_data                         00000029
+if_clear                          000000A3
+init                              0000001C
+input                             00000044
+input_flag                        00000035
+input_reg                         00000034
+led_count                         0000002B
+led_dance                         0000002A
+main                              0000000E
+MPASM 01.40 Released          POD9NEW.ASM   8-13-1997  17:26:43         PAGE 15
+
+
+SYMBOL TABLE
+  LABEL                             VALUE 
+
+next_check1                       000000F0
+next_check2                       0000010F
+next_output1                      0000009F
+next_output2                      000000A7
+next_recie0                       0000017E
+next_recie1                       00000183
+next_recie2                       00000188
+next_recie3                       0000018D
+next_recie4                       00000192
+next_recie5                       00000197
+next_route0                       0000007C
+next_route1                       00000084
+no_spi                            00000169
+no_transmit                       00000136
+normal_SPI_rec                    00000170
+output                            0000008B
+output_flag                       00000037
+output_reg                        00000020
+parity                            00000026
+parity_check                      00000027
+pre_output                        00000021
+pre_spi                           00000033
+recieve_uart                      000000BF
+recieved_reg                      00000028
+rel_flag                          00000025
+remote_flag                       0000002E
+reset_bcount                      000000BC
+router                            0000006E
+set_parity                        00000141
+shift_count                       0000002C
+shift_out                         00000092
+spi_output                        00000031
+spi_recieved                      00000032
+spi_reg                           00000036
+spi_transmit                      00000030
+timer_check                       00000138
+timer_end                         0000002F
+translate_uart                    000000E6
+transmit_flag                     0000002D
+transmit_reg                      0000003D
+transmit_uart                     00000114
+uart_flag                         0000003C
+video                             0000003A
+video_reg                         0000003B
+video_table                       00000005
+MPASM 01.40 Released          POD9NEW.ASM   8-13-1997  17:26:43         PAGE 16
+
+
+MEMORY USAGE MAP ('X' = Used,  '-' = Unused)
+
+
+0000 : XXX-XXXXXXXXXXXX XXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXX
+0040 : XXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXX
+0080 : XXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXX
+00C0 : XXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXX
+0100 : XXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXX
+0140 : XXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXX
+0180 : XXXXXXXXXXXXXXXX XXXXXXXXXXXXXX-- ---------------- ----------------
+
+All other memory blocks unused.
+
+Program Memory Words Used:   413
+Program Memory Words Free:  3683
+
+
+Errors   :     0
+Warnings :     0 reported,     0 suppressed
+Messages :    20 reported,     0 suppressed
+
+

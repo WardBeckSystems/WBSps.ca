@@ -1,0 +1,46 @@
+{
+  "filename": "M462-562 - P032 - B8-109-02-002 R.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M462-562 - P032 - B8-109-02-002 R.jpg",
+  "extension": ".jpg",
+  "size_bytes": 125197,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m462",
+    "562",
+    "p032",
+    "b8",
+    "109",
+    "02",
+    "002"
+  ],
+  "width": 690,
+  "height": 900,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "690",
+    "ExifImageHeight": "900",
+    "ImageUniqueID": "786b87448aa8567b0000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/FILTERS/M462/19xx - 8-109-02-002.jpg",
+  "note": "M462-562 - P032 - B8-109-02-002 R.jpg.md",
+  "title_block": {
+    "drawing_number": "B 8-109-02-002",
+    "size": "B",
+    "models": [
+      "M462"
+    ]
+  }
+}

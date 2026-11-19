@@ -1,0 +1,48 @@
+{
+  "filename": "WBSps.ca - WBS Power Transformer - 80-23.png",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca - WBS Power Transformer - 80-23.png",
+  "extension": ".png",
+  "size_bytes": 1485431,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "wbs",
+    "power",
+    "transformer",
+    "80",
+    "23"
+  ],
+  "width": 4143,
+  "height": 2477,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "ExifOffset": "46",
+    "ExifVersion": "0220",
+    "ExifImageWidth": "4143",
+    "ExifImageHeight": "2477",
+    "ImageUniqueID": "bf3bbdc68423911d0000000000000000"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1978 - B 80-23 - POWER TRANSFORMER TYPE 80-23 - DRN GEB - ENG GEB - ISS 3.png",
+  "note": "WBSps.ca - WBS Power Transformer - 80-23.png.md",
+  "title_block": {
+    "drawing_number": "B 80-23",
+    "size": "B",
+    "title": "POWER TRANSFORMER / TYPE 80-23",
+    "date": "10/78",
+    "year": 1978,
+    "month": 10,
+    "drawn": "GEB",
+    "checked": "R. Bell (signature)",
+    "engineer": "GEB 10/78",
+    "signature": "ISS 2 9/79 MTG HOLE DIM CHANGED GEB",
+    "issue": "3"
+  }
+}

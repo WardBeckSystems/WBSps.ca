@@ -1,0 +1,34 @@
+{
+  "filename": "WBSps.ca - 20210317 11X 17 Scans  (1).png",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/WBSps.ca - 20210317 11X 17 Scans  (1).png",
+  "width": 4757,
+  "height": 3363,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2917,
+    2223,
+    4757,
+    3015
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:00",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/AMPLIFIERS/M600/1987 - 600-02-007 - CUE CHANNEL SCHEMATIC - DRN JRG - ENG GEB - ISS 1.png",
+  "note": "WBSps.ca - 20210317 11X 17 Scans  (1).png.md",
+  "title_block": {
+    "drawing_number": "B 600-02-007",
+    "size": "B",
+    "title": "CUE CHANNEL / SCHEMATIC",
+    "date": "02/87",
+    "year": 1987,
+    "month": 2,
+    "drawn": "JRG 02/87",
+    "engineer": "GEB",
+    "signature": "DISC NO: 130; CODE: 600S07",
+    "issue": "1"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "filename": "M608 - P019 - B8-116-06-001 R.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M608 - P019 - B8-116-06-001 R.jpg",
+  "extension": ".jpg",
+  "size_bytes": 117952,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m608",
+    "p019",
+    "b8",
+    "116",
+    "06",
+    "001"
+  ],
+  "width": 701,
+  "height": 900,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "701",
+    "ExifImageHeight": "900",
+    "ImageUniqueID": "240c67723e0770d00000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/AMPLIFIERS/M608/19xx - 8-116-06-001.jpg",
+  "note": "M608 - P019 - B8-116-06-001 R.jpg.md",
+  "title_block": {
+    "drawing_number": "B 8-116-06-001",
+    "size": "B",
+    "models": [
+      "M608"
+    ]
+  }
+}

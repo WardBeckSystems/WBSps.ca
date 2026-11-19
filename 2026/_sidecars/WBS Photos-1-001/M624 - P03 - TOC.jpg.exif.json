@@ -1,0 +1,40 @@
+{
+  "filename": "M624 - P03 - TOC.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M624 - P03 - TOC.jpg",
+  "extension": ".jpg",
+  "size_bytes": 60555,
+  "modified_time": "Sat Oct 17 23:34:19 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m624",
+    "p03",
+    "toc"
+  ],
+  "width": 641,
+  "height": 900,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['2', '2']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "641",
+    "ExifImageHeight": "900",
+    "ImageUniqueID": "2efa157f4a1b73f10000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/POWER/M624/M624 - P03 - TOC.jpg",
+  "note": "M624 - P03 - TOC.jpg.md",
+  "title_block": {
+    "models": [
+      "M624"
+    ]
+  }
+}

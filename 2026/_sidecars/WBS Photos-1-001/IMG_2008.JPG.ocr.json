@@ -1,0 +1,23 @@
+{
+  "filename": "IMG_2008.JPG",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/IMG_2008.JPG",
+  "width": 3264,
+  "height": 2448,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    708,
+    1603,
+    990,
+    2011
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:58",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Photos/IMG_2008.jpg",
+  "note": "IMG_2008.JPG.md",
+  "title_block": null
+}

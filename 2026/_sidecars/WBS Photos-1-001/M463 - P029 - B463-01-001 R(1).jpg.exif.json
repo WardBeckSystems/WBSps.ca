@@ -1,0 +1,52 @@
+{
+  "filename": "M463 - P029 - B463-01-001 R(1).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M463 - P029 - B463-01-001 R(1).jpg",
+  "extension": ".jpg",
+  "size_bytes": 538459,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m463",
+    "p029",
+    "b463",
+    "01",
+    "001",
+    "r(1)"
+  ],
+  "width": 1700,
+  "height": 2183,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "1700",
+    "ExifImageHeight": "2183",
+    "ImageUniqueID": "3119cad30c18e2680000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/SUMMING/M463/1977 - 463-01-001 - SUBMASTER MODULE FUNCTIONAL DIAGRAM - DRN PKM - ISS 2.jpg",
+  "note": "M463 - P029 - B463-01-001 R(1).jpg.md",
+  "title_block": {
+    "drawing_number": "B 463-01-001",
+    "size": "B",
+    "title": "SUBMASTER MODULE / FUNCTIONAL DIAGRAM",
+    "date": "22 APR 77",
+    "year": 1977,
+    "month": 4,
+    "drawn": "PKM",
+    "checked": "signature",
+    "issue": "2",
+    "models": [
+      "M463"
+    ]
+  }
+}

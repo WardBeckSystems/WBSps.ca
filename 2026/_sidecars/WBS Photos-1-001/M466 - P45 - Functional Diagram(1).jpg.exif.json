@@ -1,0 +1,53 @@
+{
+  "filename": "M466 - P45 - Functional Diagram(1).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M466 - P45 - Functional Diagram(1).jpg",
+  "extension": ".jpg",
+  "size_bytes": 228243,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m466",
+    "p45",
+    "functional",
+    "diagram(1)"
+  ],
+  "width": 2419,
+  "height": 1549,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "2419",
+    "ExifImageHeight": "1549",
+    "ImageUniqueID": "f51657a9f6bf2a710000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/DYNAMICS/M466/1977 - 466-01-001 - M466C LIMITER - COMPRESSOR MODULE FUNCTIONAL DIAGRAM - DRN DB - ENG RKB - ISS 2.jpg",
+  "note": "M466 - P45 - Functional Diagram(1).jpg.md",
+  "title_block": {
+    "drawing_number": "B 466-01-001",
+    "size": "B",
+    "title": "M466 / M466C / LIMITER - COMPRESSOR MODULE / FUNCTIONAL DIAGRAM",
+    "date": "10/77",
+    "year": 1977,
+    "month": 10,
+    "drawn": "DB",
+    "approved": "(signature) 10-12-77",
+    "engineer": "RKB",
+    "signature": "ISS 2 10/77 REDRAWN",
+    "issue": "2",
+    "models": [
+      "M466",
+      "M466C"
+    ]
+  }
+}

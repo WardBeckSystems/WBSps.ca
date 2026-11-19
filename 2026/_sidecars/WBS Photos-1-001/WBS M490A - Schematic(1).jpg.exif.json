@@ -1,0 +1,46 @@
+{
+  "filename": "WBS M490A - Schematic(1).jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBS M490A - Schematic(1).jpg",
+  "extension": ".jpg",
+  "size_bytes": 417636,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbs",
+    "m490a",
+    "schematic(1)"
+  ],
+  "width": 1786,
+  "height": 1273,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "PhotometricInterpretation": "2",
+    "ResolutionUnit": "2",
+    "ExifOffset": "188",
+    "Software": "Adobe Photoshop CS3 Macintosh",
+    "Orientation": "1",
+    "DateTime": "2008:10:30 00:04:30",
+    "YCbCrSubSampling": "['1', '1']",
+    "XResolution": "200.0",
+    "YResolution": "200.0",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "1786",
+    "ExifImageHeight": "1273",
+    "DateTimeDigitized": "2008:10:30 00:04:30",
+    "ExifInteroperabilityOffset": "332",
+    "ImageUniqueID": "79b143a8dc629adb0000000000000000"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:00",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/INPUT-PRE-AMPS/M490A/WBS M490A - Schematic(1).jpg",
+  "note": "WBS M490A - Schematic(1).jpg.md",
+  "title_block": {
+    "models": [
+      "M490A"
+    ]
+  }
+}

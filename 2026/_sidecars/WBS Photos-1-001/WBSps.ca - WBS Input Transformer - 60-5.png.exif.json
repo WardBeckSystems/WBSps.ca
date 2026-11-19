@@ -1,0 +1,44 @@
+{
+  "filename": "WBSps.ca - WBS Input Transformer - 60-5.png",
+  "relative_path": "WBSps.env/WBS Photos-1-001/WBSps.ca - WBS Input Transformer - 60-5.png",
+  "extension": ".png",
+  "size_bytes": 286422,
+  "modified_time": "Sat Oct 17 23:34:20 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "wbsps",
+    "ca",
+    "wbs",
+    "input",
+    "transformer",
+    "60"
+  ],
+  "width": 4103,
+  "height": 2480,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "ExifOffset": "46",
+    "ExifVersion": "0220",
+    "ExifImageWidth": "4103",
+    "ExifImageHeight": "2480",
+    "ImageUniqueID": "874f7e48396519da0000000000000000"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:01:01",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/PHOTOS/Drawings/1968 - 60-5 - INPUT TRANSFORMER TYPE 60-5 - CKD R. Bell - ISS 2.png",
+  "note": "WBSps.ca - WBS Input Transformer - 60-5.png.md",
+  "title_block": {
+    "drawing_number": "60-5",
+    "title": "INPUT TRANSFORMER / TYPE 60-5",
+    "date": "JAN 24/68",
+    "year": 1968,
+    "month": 1,
+    "checked": "R. Bell (signature)",
+    "signature": "ISS 2 3/8 DIM ADDED LEAD H.L.E. FEB 6/68; DWG: 60-5",
+    "issue": "2"
+  }
+}

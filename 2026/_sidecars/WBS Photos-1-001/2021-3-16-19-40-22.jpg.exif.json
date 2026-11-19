@@ -1,0 +1,50 @@
+{
+  "filename": "2021-3-16-19-40-22.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/2021-3-16-19-40-22.jpg",
+  "extension": ".jpg",
+  "size_bytes": 3068237,
+  "modified_time": "Sat Oct 17 23:34:15 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "2021",
+    "16",
+    "19",
+    "40",
+    "22"
+  ],
+  "width": 8332,
+  "height": 1920,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "58",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "8332",
+    "ExifImageHeight": "1920",
+    "ImageUniqueID": "bb88c207f68b37a00000000000000000",
+    "ExifInteroperabilityOffset": "170"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:54",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/DYNAMICS/M406/1969 - 406-02-013 - M406B COMPRESSOR SCHEMATIC CEILING CONTROL MODIFIED - DRN DJG - ISS 2.jpg",
+  "note": "2021-3-16-19-40-22.jpg.md",
+  "title_block": {
+    "drawing_number": "B 406-02-013",
+    "size": "B",
+    "title": "M406B COMPRESSOR / SCHEMATIC / CEILING CONTROL MODIFIED",
+    "date": "DEC 69",
+    "year": 1969,
+    "month": 12,
+    "drawn": "DJG",
+    "signature": "fragment of drawn/date cells only",
+    "issue": "2",
+    "models": [
+      "M406B"
+    ]
+  }
+}

@@ -1,0 +1,576 @@
+MPASM 01.30.01 Intermediate        DO.ASM   3-19-1996  11:22:49         PAGE  1
+
+
+LOC  OBJECT CODE     LINE SOURCE TEXT
+  VALUE
+
+                    00001 
+                    00002         LIST    F=INHX8M,R=DEC,P=16C54
+                    00003         INCLUDE "\PIC\SRC\P16C5X.INC"
+                    00001         LIST
+                    00002 ; P16C5X.INC  Standard Header File, Version 3.10    Microchip Technology, Inc.
+                    00246         LIST
+                    00004         INCLUDE "\PIC\SRC\MACROS.ASM"
+                    00001 ; ----------   MACROS   ----------
+                    00002 
+                    00003 IFZ     MACRO
+                    00004         BTFSC   STATUS,Z
+                    00005         ENDM
+                    00006 
+                    00007 IFNZ    MACRO
+                    00008         BTFSS   STATUS,Z
+                    00009         ENDM
+                    00010 
+                    00011 IFCS    MACRO
+                    00012         BTFSC   STATUS,C
+                    00013         ENDM
+                    00014 
+                    00015 IFCC    MACRO
+                    00016         BTFSS   STATUS,C
+                    00017         ENDM
+                    00018 
+                    00019 IFSET   MACRO   F,BIT
+                    00020         BTFSC   F,BIT
+                    00021         ENDM
+                    00022 
+                    00023 IFCLR   MACRO   F,BIT
+                    00024         BTFSS   F,BIT
+                    00025         ENDM
+                    00026 
+                    00027 ; ----------   .   ----------
+                    00005 
+                    00006 ; ----------   RAM   ----------
+                    00007 
+0008                00008         ORG     0x08
+                    00009 
+0008                00010 OUT1    RES     1
+0009                00011 OUT2    RES     1
+000A                00012 TXSR1   RES     1
+000B                00013 TXSR2   RES     1
+000C                00014 I       RES     1
+000D                00015 J       RES     1
+000E                00016 TEMP    RES     1
+                    00017 
+0010                00018         ORG     0x10
+                    00019 
+0010                00020 KTAB    RES     16
+                    00021 
+                    00022 ; ----------   PORTA BITS   ----------
+                    00023 
+MPASM 01.30.01 Intermediate        DO.ASM   3-19-1996  11:22:49         PAGE  2
+
+
+LOC  OBJECT CODE     LINE SOURCE TEXT
+  VALUE
+
+  00000000          00024 CLK     EQU     0
+  00000001          00025 LOAD    EQU     1
+  00000002          00026 DATA2   EQU     2
+  00000003          00027 DATA1   EQU     3
+                    00028 
+                    00029 ; ----------   PORTB BITS   ----------
+                    00030 
+  00000000          00031 COL1    EQU     0
+  00000001          00032 COL2    EQU     1
+  00000002          00033 COL3    EQU     2
+  00000003          00034 COL4    EQU     3
+  00000004          00035 ROW1    EQU     4
+  00000005          00036 ROW2    EQU     5
+  00000006          00037 ROW3    EQU     6
+  00000007          00038 ROW4    EQU     7
+                    00039 
+                    00040 ; ----------   EQUATES   ----------
+                    00041 
+  00000010          00042 NKEYS   EQU     16              ; NUMBER OF KEYS
+                    00043 
+                    00044                                 ; USE 39K AND 22pF FOR RC OSC
+                    00045                                 ; OS2 = 180kHz
+  0000005A          00046 DELAY1  EQU     90              ; 250 msec with OPTION 0x07
+  00000026          00047 DELAY2  EQU     38              ;   5 msec with OPTION 0x00
+                    00048 
+                    00049 ; ----------   CODE   ----------
+                    00050 
+0000                00051         ORG     0
+0000 0B69           00052         GOTO    INIT
+                    00053 
+                    00054 ; ----------   NEXT STATE TABLE1   ----------
+                    00055 
+                    00056 ; DEBOUNCE INPUT STATE MACHINE
+                    00057 ; BIT 0 INPUT - ACTIVE HIGH
+                    00058 ; BIT 1 STATE
+                    00059 ; BIT 2 STATE
+                    00060 ; BIT 3 OUTPUT - SET AFTER INPUT=1 FOUR CONSECUTIVE TIMES
+                    00061 ; BIT 4 OUTPUT - SET AFTER BIT 3 TOGGLES
+                    00062 ; BIT 5 OUTPUT - SET WHEN BOTH BITS 3 & 4 ARE SET
+                    00063 
+  00000003          00064 KEYBIT  EQU     3
+  00000004          00065 KCH     EQU     4
+  00000005          00066 PRESS   EQU     5
+                    00067 
+0001 0E0F           00068 NEXT1   ANDLW   0x0F     ; DEBOUNCE INPUT STATE MACHINE
+0002 01E2           00069         ADDWF   PCL,F
+                    00070 
+0003 0800           00071         RETLW   0       ; KEYBIT CLEAR WHILE INPUT=0
+0004 0802           00072         RETLW   2
+0005 0800           00073         RETLW   0
+0006 0804           00074         RETLW   4
+0007 0800           00075         RETLW   0
+0008 0806           00076         RETLW   6
+MPASM 01.30.01 Intermediate        DO.ASM   3-19-1996  11:22:49         PAGE  3
+
+
+LOC  OBJECT CODE     LINE SOURCE TEXT
+  VALUE
+
+0009 0800           00077         RETLW   0
+000A 0838           00078         RETLW   8+16+32 ; 4TH INPUT=1 SO SET KEYBIT
+                    00079 
+000B 080A           00080         RETLW   10
+000C 0808           00081         RETLW   8       ; KEYBIT SET WHILE INPUT=1
+000D 080C           00082         RETLW   12
+000E 0808           00083         RETLW   8
+000F 080E           00084         RETLW   14
+0010 0808           00085         RETLW   8
+0011 0810           00086         RETLW   0+16    ; 4TH INPUT=0 SO CLEAR KEYBIT
+0012 0808           00087         RETLW   8
+                    00088 
+                    00089 ; ----------   SEND TO LEDS   ----------
+                    00090 
+0013 0248           00091 SEND    COMF    OUT1,W
+0014 002A           00092         MOVWF   TXSR1
+0015 0249           00093         COMF    OUT2,W
+0016 002B           00094         MOVWF   TXSR2
+                    00095 
+0017 0C08           00096         MOVLW   8
+0018 002D           00097         MOVWF   J
+0019 0425           00098         BCF     PORTA,LOAD
+001A                00099 SEND_L1
+001A 0405           00100         BCF     PORTA,CLK
+                    00101 
+                    00102         IFSET   TXSR1,7
+001B 06EA               M         BTFSC   TXSR1,7
+001C 0565           00103         BSF     PORTA,DATA1
+                    00104         IFCLR   TXSR1,7
+001D 07EA               M         BTFSS   TXSR1,7
+001E 0465           00105         BCF     PORTA,DATA1
+                    00106 
+                    00107         IFSET   TXSR2,7
+001F 06EB               M         BTFSC   TXSR2,7
+0020 0545           00108         BSF     PORTA,DATA2
+                    00109         IFCLR   TXSR2,7
+0021 07EB               M         BTFSS   TXSR2,7
+0022 0445           00110         BCF     PORTA,DATA2
+                    00111 
+0023 036A           00112         RLF     TXSR1,F
+0024 036B           00113         RLF     TXSR2,F
+                    00114 
+0025 0505           00115         BSF     PORTA,CLK
+0026 02ED           00116         DECFSZ  J,F
+0027 0A1A           00117         GOTO    SEND_L1
+                    00118 
+0028 0525           00119         BSF     PORTA,LOAD
+0029 0800           00120         RETLW   0
+                    00121 
+                    00122 ; ----------   CLEAR STATES   ----------
+                    00123 
+002A 0C10           00124 CLEAR   MOVLW   KTAB
+002B 0024           00125         MOVWF   FSR
+MPASM 01.30.01 Intermediate        DO.ASM   3-19-1996  11:22:49         PAGE  4
+
+
+LOC  OBJECT CODE     LINE SOURCE TEXT
+  VALUE
+
+002C                00126 CLEAR_L1
+002C 0060           00127         CLRF    INDF
+002D 02A4           00128         INCF    FSR,F
+                    00129         IFSET   FSR,4
+002E 0684               M         BTFSC   FSR,4
+002F 0A2C           00130         GOTO    CLEAR_L1
+0030 0800           00131         RETLW   0
+                    00132 
+                    00133 ; ----------   INITIALIZATION CODE   ----------
+                    00134 
+0169                00135         ORG     0x169
+0169                00136 INIT
+0169 0FFF           00137         XORLW   0xFF             ; UNPROGRAMED NOP
+                    00138 
+016A 0040           00139         CLRW
+016B 0025           00140         MOVWF   PORTA           ; INITIALIZE PORTA
+016C 0005           00141         TRIS    PORTA
+                    00142 
+016D 0CF0           00143         MOVLW   0xF0             ; INITIALIZE PORTB
+016E 0026           00144         MOVWF   PORTB
+016F 0006           00145         TRIS    PORTB
+                    00146 
+0170 092A           00147         CALL    CLEAR           ; CLEAR KEYSWITCH STATES
+                    00148 
+                    00149 ; ----------   DISCO DUCK   ----------
+                    00150 
+0171 0C07           00151         MOVLW   0x07             ; TMR0 = OSC2 / 256
+0172 0002           00152         OPTION
+                    00153 
+0173 0068           00154         CLRF    OUT1
+0174 05E8           00155         BSF     OUT1,7
+0175 0069           00156         CLRF    OUT2
+0176                00157 SEQ1
+0176 0C5A           00158         MOVLW   DELAY1          ; RESET COUNTER
+0177 0021           00159         MOVWF   TMR0
+0178 0913           00160         CALL    SEND
+0179                00161 SEQ2
+0179 0201           00162         MOVF    TMR0,W
+                    00163         IFNZ
+017A 0743               M         BTFSS   STATUS,Z
+017B 0B79           00164         GOTO    SEQ2            ; WAIT FOR TIME OUT
+                    00165 
+017C 0328           00166         RRF     OUT1,F
+017D 04E8           00167         BCF     OUT1,7
+017E 0329           00168         RRF     OUT2,F
+                    00169         IFCC
+017F 0703               M         BTFSS   STATUS,C
+0180 0B76           00170         GOTO    SEQ1
+                    00171 
+0181 0C00           00172         MOVLW   0x00             ; TMR0 = OSC2 / 2
+0182 0002           00173         OPTION
+0183 0C26           00174         MOVLW   DELAY2
+0184 0021           00175         MOVWF   TMR0            ; RESET TIMER
+MPASM 01.30.01 Intermediate        DO.ASM   3-19-1996  11:22:49         PAGE  5
+
+
+LOC  OBJECT CODE     LINE SOURCE TEXT
+  VALUE
+
+                    00176 
+0185 0068           00177         CLRF    OUT1
+0186 0069           00178         CLRF    OUT2
+                    00179 
+                    00180 ; ----------   MAIN CODE   ----------
+                    00181 
+0187                00182 CHANGE
+0187 0913           00183         CALL    SEND
+0188                00184 MAIN
+                    00185 
+0188 0CFE           00186         MOVLW   0xFE
+0189 0026           00187         MOVWF   PORTB
+018A                00188 M_L1
+                    00189         IFCLR   TMR0,7          ; WAIT UNTIL TMR0 > 127
+018A 07E1               M         BTFSS   TMR0,7
+018B 0B8A           00190         GOTO    M_L1
+018C 0C26           00191         MOVLW   DELAY2
+018D 0021           00192         MOVWF   TMR0            ; RESET TIMER
+                    00193 
+                    00194 
+                    00195         IFCLR   PORTB,4
+018E 0786               M         BTFSS   PORTB,4
+018F 02B0           00196         INCF    0+KTAB,F
+                    00197         IFCLR   PORTB,5
+0190 07A6               M         BTFSS   PORTB,5
+0191 02B2           00198         INCF    2+KTAB,F
+                    00199         IFCLR   PORTB,6
+0192 07C6               M         BTFSS   PORTB,6
+0193 02B4           00200         INCF    4+KTAB,F
+                    00201         IFCLR   PORTB,7
+0194 07E6               M         BTFSS   PORTB,7
+0195 02B6           00202         INCF    6+KTAB,F
+                    00203 
+0196 0CFD           00204         MOVLW   0xFD
+0197 0026           00205         MOVWF   PORTB
+0198                00206 M_L2
+                    00207         IFCLR   TMR0,7          ; WAIT UNTIL TMR0 > 127
+0198 07E1               M         BTFSS   TMR0,7
+0199 0B98           00208         GOTO    M_L2
+019A 0C26           00209         MOVLW   DELAY2
+019B 0021           00210         MOVWF   TMR0            ; RESET TIMER
+                    00211 
+                    00212         IFCLR   PORTB,4
+019C 0786               M         BTFSS   PORTB,4
+019D 02B8           00213         INCF    8+KTAB,F
+                    00214         IFCLR   PORTB,5
+019E 07A6               M         BTFSS   PORTB,5
+019F 02BA           00215         INCF    10+KTAB,F
+                    00216         IFCLR   PORTB,6
+01A0 07C6               M         BTFSS   PORTB,6
+01A1 02BC           00217         INCF    12+KTAB,F
+                    00218         IFCLR   PORTB,7
+01A2 07E6               M         BTFSS   PORTB,7
+MPASM 01.30.01 Intermediate        DO.ASM   3-19-1996  11:22:49         PAGE  6
+
+
+LOC  OBJECT CODE     LINE SOURCE TEXT
+  VALUE
+
+01A3 02BE           00219         INCF    14+KTAB,F
+                    00220 
+01A4 0CFB           00221         MOVLW   0xFB
+01A5 0026           00222         MOVWF   PORTB
+01A6                00223 M_L3
+                    00224         IFCLR   TMR0,7          ; WAIT UNTIL TMR0 > 127
+01A6 07E1               M         BTFSS   TMR0,7
+01A7 0BA6           00225         GOTO    M_L3
+01A8 0C26           00226         MOVLW   DELAY2
+01A9 0021           00227         MOVWF   TMR0            ; RESET TIMER
+                    00228 
+                    00229         IFCLR   PORTB,4
+01AA 0786               M         BTFSS   PORTB,4
+01AB 02B1           00230         INCF    1+KTAB,F
+                    00231         IFCLR   PORTB,5
+01AC 07A6               M         BTFSS   PORTB,5
+01AD 02B3           00232         INCF    3+KTAB,F
+                    00233         IFCLR   PORTB,6
+01AE 07C6               M         BTFSS   PORTB,6
+01AF 02B5           00234         INCF    5+KTAB,F
+                    00235         IFCLR   PORTB,7
+01B0 07E6               M         BTFSS   PORTB,7
+01B1 02B7           00236         INCF    7+KTAB,F
+                    00237 
+01B2 0CF7           00238         MOVLW   0xF7
+01B3 0026           00239         MOVWF   PORTB
+01B4                00240 M_L4
+                    00241         IFCLR   TMR0,7          ; WAIT UNTIL TMR0 > 127
+01B4 07E1               M         BTFSS   TMR0,7
+01B5 0BB4           00242         GOTO    M_L4
+01B6 0C26           00243         MOVLW   DELAY2
+01B7 0021           00244         MOVWF   TMR0            ; RESET TIMER
+                    00245 
+                    00246         IFCLR   PORTB,4
+01B8 0786               M         BTFSS   PORTB,4
+01B9 02BF           00247         INCF    15+KTAB,F
+                    00248         IFCLR   PORTB,5
+01BA 07A6               M         BTFSS   PORTB,5
+01BB 02B9           00249         INCF    9+KTAB,F
+                    00250         IFCLR   PORTB,6
+01BC 07C6               M         BTFSS   PORTB,6
+01BD 02BB           00251         INCF    11+KTAB,F
+                    00252         IFCLR   PORTB,7
+01BE 07E6               M         BTFSS   PORTB,7
+01BF 02BD           00253         INCF    13+KTAB,F
+                    00254 
+01C0 0066           00255         CLRF    PORTB
+                    00256 
+01C1 0C10           00257         MOVLW   KTAB
+01C2 0024           00258         MOVWF   FSR
+01C3 006E           00259         CLRF    TEMP
+01C4                00260 CHECK
+                    00261         IFSET   INDF,0
+MPASM 01.30.01 Intermediate        DO.ASM   3-19-1996  11:22:49         PAGE  7
+
+
+LOC  OBJECT CODE     LINE SOURCE TEXT
+  VALUE
+
+01C4 0600               M         BTFSC   INDF,0
+01C5 02AE           00262         INCF    TEMP,F
+01C6 02A4           00263         INCF    FSR,F
+                    00264         IFSET   FSR,4
+01C7 0684               M         BTFSC   FSR,4
+01C8 0BC4           00265         GOTO    CHECK
+                    00266 
+01C9 0C02           00267         MOVLW   2
+01CA 008E           00268         SUBWF   TEMP,W
+                    00269         IFCC
+01CB 0703               M         BTFSS   STATUS,C
+01CC 0BCF           00270         GOTO    VALID
+01CD 092A           00271         CALL    CLEAR
+01CE 0B88           00272         GOTO    MAIN
+01CF                00273 VALID
+01CF 0C10           00274         MOVLW   KTAB
+01D0 0024           00275         MOVWF   FSR
+01D1 0C80           00276         MOVLW   0x80
+01D2 002E           00277         MOVWF   TEMP
+01D3 006C           00278         CLRF    I
+01D4                00279 UPDATE
+01D4 0200           00280         MOVF    INDF,W
+01D5 0901           00281         CALL    NEXT1
+01D6 0020           00282         MOVWF   INDF
+                    00283         IFCLR   INDF,PRESS
+01D7 07A0               M         BTFSS   INDF,PRESS
+01D8 0BDC           00284         GOTO    UP_1
+01D9 020E           00285         MOVF    TEMP,W
+01DA 01A8           00286         XORWF   OUT1,F
+01DB 02AC           00287         INCF    I,F
+01DC 02A4           00288 UP_1    INCF    FSR,F
+                    00289 
+01DD 0200           00290         MOVF    INDF,W
+01DE 0901           00291         CALL    NEXT1
+01DF 0020           00292         MOVWF   INDF
+                    00293         IFCLR   INDF,PRESS
+01E0 07A0               M         BTFSS   INDF,PRESS
+01E1 0BE5           00294         GOTO    UP_2
+01E2 020E           00295         MOVF    TEMP,W
+01E3 01A9           00296         XORWF   OUT2,F
+01E4 02AC           00297         INCF    I,F
+01E5 02A4           00298 UP_2    INCF    FSR,F
+                    00299 
+01E6 032E           00300         RRF     TEMP,F
+01E7 04EE           00301         BCF     TEMP,7
+                    00302         IFCC
+01E8 0703               M         BTFSS   STATUS,C
+01E9 0BD4           00303         GOTO    UPDATE
+                    00304 
+01EA 020C           00305         MOVF    I,W
+                    00306         IFNZ
+01EB 0743               M         BTFSS   STATUS,Z
+01EC 0B87           00307         GOTO    CHANGE
+MPASM 01.30.01 Intermediate        DO.ASM   3-19-1996  11:22:49         PAGE  8
+
+
+LOC  OBJECT CODE     LINE SOURCE TEXT
+  VALUE
+
+                    00308 
+01ED 0C10           00309         MOVLW   KTAB
+01EE 0024           00310         MOVWF   FSR
+01EF                00311 CHECK2
+01EF 0200           00312         MOVF    INDF,W
+                    00313         IFNZ
+01F0 0743               M         BTFSS   STATUS,Z
+01F1 0B88           00314         GOTO    MAIN
+01F2 02A4           00315         INCF    FSR,F
+                    00316         IFSET   FSR,4
+01F3 0684               M         BTFSC   FSR,4
+01F4 0BEF           00317         GOTO    CHECK2
+                    00318 
+01F5                00319 IDLE
+01F5 0066           00320         CLRF    PORTB
+01F6                00321 IDLE_L1
+                    00322         IFCLR   TMR0,7          ; WAIT UNTIL TMR0 > 127
+01F6 07E1               M         BTFSS   TMR0,7
+01F7 0BF6           00323         GOTO    IDLE_L1
+01F8 0C26           00324         MOVLW   DELAY2
+01F9 0021           00325         MOVWF   TMR0            ; RESET TIMER
+                    00326 
+                    00327 
+01FA 0246           00328         COMF    PORTB,W
+01FB 0EF0           00329         ANDLW   0xF0
+                    00330         IFZ
+01FC 0643               M         BTFSC   STATUS,Z
+01FD 0BF5           00331         GOTO    IDLE
+01FE 0B88           00332         GOTO    MAIN
+                    00333 
+                    00334         END
+MPASM 01.30.01 Intermediate        DO.ASM   3-19-1996  11:22:49         PAGE  9
+
+
+SYMBOL TABLE
+  LABEL                             VALUE 
+
+C                                 00000000
+CHANGE                            00000187
+CHECK                             000001C4
+CHECK2                            000001EF
+CLEAR                             0000002A
+CLEAR_L1                          0000002C
+CLK                               00000000
+COL1                              00000000
+COL2                              00000001
+COL3                              00000002
+COL4                              00000003
+DATA1                             00000003
+DATA2                             00000002
+DC                                00000001
+DELAY1                            0000005A
+DELAY2                            00000026
+F                                 00000001
+FSR                               00000004
+I                                 0000000C
+IDLE                              000001F5
+IDLE_L1                           000001F6
+IFCC                              
+IFCLR                             
+IFCS                              
+IFNZ                              
+IFSET                             
+IFZ                               
+INDF                              00000000
+INIT                              00000169
+J                                 0000000D
+KCH                               00000004
+KEYBIT                            00000003
+KTAB                              00000010
+LOAD                              00000001
+MAIN                              00000188
+M_L1                              0000018A
+M_L2                              00000198
+M_L3                              000001A6
+M_L4                              000001B4
+NEXT1                             00000001
+NKEYS                             00000010
+NOT_PD                            00000003
+NOT_TO                            00000004
+OUT1                              00000008
+OUT2                              00000009
+PA0                               00000005
+PA1                               00000006
+PA2                               00000007
+PCL                               00000002
+PORTA                             00000005
+PORTB                             00000006
+PRESS                             00000005
+PS0                               00000000
+MPASM 01.30.01 Intermediate        DO.ASM   3-19-1996  11:22:49         PAGE 10
+
+
+SYMBOL TABLE
+  LABEL                             VALUE 
+
+PS1                               00000001
+PS2                               00000002
+PSA                               00000003
+ROW1                              00000004
+ROW2                              00000005
+ROW3                              00000006
+ROW4                              00000007
+SEND                              00000013
+SEND_L1                           0000001A
+SEQ1                              00000176
+SEQ2                              00000179
+STATUS                            00000003
+T0CS                              00000005
+T0SE                              00000004
+TEMP                              0000000E
+TMR0                              00000001
+TXSR1                             0000000A
+TXSR2                             0000000B
+UPDATE                            000001D4
+UP_1                              000001DC
+UP_2                              000001E5
+VALID                             000001CF
+W                                 00000000
+Z                                 00000002
+_CP_OFF                           00000FFF
+_CP_ON                            00000FF7
+_HS_OSC                           00000FFE
+_LP_OSC                           00000FFC
+_RC_OSC                           00000FFF
+_WDT_OFF                          00000FFB
+_WDT_ON                           00000FFF
+_XT_OSC                           00000FFD
+__16C54                           00000001
+
+
+MEMORY USAGE MAP ('X' = Used,  '-' = Unused)
+
+0000 : XXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXX X---------------
+0040 : ---------------- ---------------- ---------------- ----------------
+0100 : ---------------- ---------------- ---------------- ----------------
+0140 : ---------------- ---------------- ---------XXXXXXX XXXXXXXXXXXXXXXX
+0180 : XXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXX
+01C0 : XXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXX XXXXXXXXXXXXXXX-
+
+All other memory blocks unused.
+
+Program Memory Words Used:   199
+Program Memory Words Free:   313
+
+
+MPASM 01.30.01 Intermediate        DO.ASM   3-19-1996  11:22:49         PAGE 11
+
+
+
+
+
+Errors   :     0
+Warnings :     0 reported,     0 suppressed
+Messages :     0 reported,     0 suppressed
+
+

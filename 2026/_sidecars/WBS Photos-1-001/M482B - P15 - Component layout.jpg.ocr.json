@@ -1,0 +1,36 @@
+{
+  "filename": "M482B - P15 - Component layout.jpg",
+  "relative_path": "../WBSps.env/WBS Photos-1-001/M482B - P15 - Component layout.jpg",
+  "width": 2867,
+  "height": 1911,
+  "format": null,
+  "is_manual": false,
+  "special_flag": null,
+  "ocr_text": "",
+  "ocr_scope": "title block crop",
+  "title_block_box": [
+    2334,
+    1679,
+    2867,
+    1910
+  ],
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/MONITORING/M482B/1980 - 482-06-002 - MONITOR MODULE COMPONENT LAYOUT - DRN P. MAHONEY - ENG MRW - ISS 2.jpg",
+  "note": "M482B - P15 - Component layout.jpg.md",
+  "title_block": {
+    "drawing_number": "B 482-06-002",
+    "size": "B",
+    "title": "M482B / MONITOR MODULE / COMPONENT LAYOUT",
+    "date": "01/80",
+    "year": 1980,
+    "month": 1,
+    "drawn": "P. MAHONEY",
+    "engineer": "MRW 01/80",
+    "issue": "2?",
+    "models": [
+      "M482B"
+    ]
+  }
+}

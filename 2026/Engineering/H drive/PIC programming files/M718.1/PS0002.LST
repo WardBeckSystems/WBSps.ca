@@ -1,0 +1,469 @@
+E&l8D&a12L(10U(s0p16.67h8.5v0s0b0T16c5x/xx Cross-Assembler V4.14 Released  Wed Aug 31 11:02:33 1994  Page 1
+
+Line   PC    Opcode
+
+0001                       LIST    F=INHX8M,R=DEC,P=16C54,X=OFF,C=120,N=75
+0002               
+0003               ; ----------   Pic Software 0002   ----------
+0004               
+0005               ; PROJECT  940184  CBC  GLENN GOULD STUDIO
+0006               ; MODULE   M718
+0007               ; REVISION 1.00
+0008               
+0009               ; WRITTEN AND DESIGNED BY PETER SHOOK
+0010               ; AUG 31, 1994
+0011               
+0012               ; COPYRIGHT 1994, WARD-BECK SYSTEMS LTD.
+0013               ; 841 PROGRESS AVENUE
+0014               ; SCARBOROUGH, ONTARIO, CANADA, M1H 2X4
+0015               ; (416) 438-6550
+0016               
+0017               ; OSC=RC   WDT=OFF   CP=OFF   ID=0002   CKSUM=65AB
+0018               
+0019               ; ----------   PIC16C5X HEADER   ----------
+0020               
+0021         0000  W       EQU     0
+0022               
+0023               ; RESET ADDRESSES
+0024               
+0025         01FF  PIC54   EQU     0x1FF
+0026         01FF  PIC55   EQU     0x1FF
+0027         03FF  PIC56   EQU     0x3FF
+0028         07FF  PIC57   EQU     0x7FF
+0029               
+0030               ; STATUS WORD REGISTER f3
+0031               
+0032         0000  C       EQU     0
+0033         0001  DC      EQU     1
+0034         0002  Z       EQU     2
+0035         0003  PD      EQU     3
+0036         0004  TO      EQU     4
+0037         0005  PA0     EQU     5
+0038         0006  PA1     EQU     6
+0039         0007  PA2     EQU     7
+0040               
+0041               ; OPERATIONAL REGISTER FILES
+0042               
+0043         0000  IND     EQU     00
+0044         0001  RTCC    EQU     01
+0045         0002  PC      EQU     02
+0046         0003  STATUS  EQU     03
+0047         0004  FSR     EQU     04
+0048         0005  PORTA   EQU     05
+0049         0006  PORTB   EQU     06
+0050         0007  PORTC   EQU     07
+0051               
+0052               ; ----------   END HEADER   ----------
+0053               
+0054         0007  DISPLAY EQU     07
+0055         0008  TMP     EQU     08
+0056         0008  IPV     EQU     08
+0057         0009  I       EQU     09
+0058         000A  ROW     EQU     10
+0059         000B  KEY     EQU     11
+0060               
+0061               
+0062         000C  TBST    EQU      12              ; TALKBACK INPUT STATE
+0063         000D  RA1ST   EQU      13              ; REMOTE ADDRESS 1 STATE
+0064         000E  RA2ST   EQU      14              ; REMOTE ADDRESS 2 STATE
+0065         000F  RA3ST   EQU      15              ; REMOTE ADDRESS 3 STATE
+0066               
+0067         0010  KEYST   EQU      16              ; KEYSWITCH STATES
+0068               
+0069               ; ----------   PORTB BITS   ----------
+0070               
+0071         0005  KCOL1   EQU     5               ; KEYBOARD COLUMN 1
+0072         0004  KCOL2   EQU     4               ; KEYBOARD COLUMN 2
+0073               
+0074         0004  TB      EQU     4               ; TALKBACK INPUTS
+0075         0005  RA1     EQU     5               ; REMOTE ADDRESS 1 INPUT
+16c5x/xx Cross-Assembler V4.14 Released  Wed Aug 31 11:02:33 1994  Page 2
+
+Line   PC    Opcode
+
+0076         0006  RA2     EQU     6               ; REMOTE ADDRESS 2 INPUT
+0077         0007  RA3     EQU     7               ; REMOTE ADDRESS 3 INPUT
+0078               
+0079               ; ----------   EQUATES   ----------
+0080               
+0081         0006  NROWS   EQU     6               ; NUMBER OF ROWS IN KEYBOARD
+0082         000C  NKEYS   EQU     12              ; NUMBER OF KEYS IN KEYBOARD
+0083         0004  NIP     EQU     4               ; NUMBER OF INPUTS
+0084               
+0085                                               ; USE 4K7 AND 330pF FOR RC OSC
+0086                                               ; OS2 = 125kHz
+0087         000C  DELAY1  EQU     12              ; 250 msec with OPTION 0x06
+0088         006C  DELAY2  EQU     108             ; 9.5 msec with OPTION 0x02
+0089               
+0090                                               ; PORTB DATA DIRECTION
+0091         0030  PBDSKD  EQU     0x30             ; PORTB SCAN KEYBOARD/DISPLAY
+0092         00F0  PBDIPSW EQU     0xF0             ; PORTB READ INPUTS/SWITCHES
+0093               
+0094                                               ; PORTB OUTPUTS FOR VARIOUS FUNCTIONS
+0095         0040  DCOL1   EQU     64              ; TURN ON DISPLAY COLUMN 1
+0096         0080  DCOL2   EQU     128             ; TURN ON DISPLAY COLUMN 2
+0097         00C2  KEYR1   EQU     128+64+2        ; FIRST KEYBOARD ROW
+0098               
+0099                                               ; DECODER ADDRESSES
+0100         00C8  PBIP    EQU     128+64+8        ; TALKBACK AND REMOTE INPUTS
+0101         00C9  PBSW1   EQU     PBIP+1          ; SWITCH 1
+0102         00CA  PBSW2   EQU     PBIP+2          ; SWITCH 2
+0103         00CB  PBSW3   EQU     PBIP+3          ; SWITCH 3
+0104         000F  PBNONE  EQU     0x0F             ; DISABLE ALL BUFFERS BY SELECTING NONE
+0105               
+0106               ; ----------   NEXT STATE TABLE1   ----------
+0107               
+0108         0000          ORG     0x000
+0109                                       ; SET BIT 0 OF THE STATE TO INPUT
+0110                                       ; BEFORE CALLING NEXT1
+0111         0003  KEYBIT  EQU     3       ; BIT TEST KEYBIT AFTER CALLING NEXT1
+0112               
+0113   0000  0E0F  NEXT1   ANDLW   0x0F     ; DEBOUNCE INPUT STATE MACHINE
+0114   0001  01E2          ADDWF   PC
+0115               
+0116   0002  0800          RETLW   0       ; KEYBIT CLEAR WHILE INPUT=0
+0117   0003  0802          RETLW   2
+0118   0004  0800          RETLW   0
+0119   0005  0804          RETLW   4
+0120   0006  0800          RETLW   0
+0121   0007  0806          RETLW   6
+0122   0008  0800          RETLW   0
+0123   0009  0808          RETLW   8       ; 4TH INPUT=1 SO SET KEYBIT
+0124               
+0125   000A  080A          RETLW   10
+0126   000B  0808          RETLW   8       ; KEYBIT SET WHILE INPUT=1
+0127   000C  080C          RETLW   12
+0128   000D  0808          RETLW   8
+0129   000E  080E          RETLW   14
+0130   000F  0808          RETLW   8
+0131   0010  0800          RETLW   0       ; 4TH INPUT=0 SO CLEAR KEYBIT
+0132   0011  0808          RETLW   8
+0133               
+0134               ; ----------   KEY STATE LOCATION TABLE2   ----------
+0135               
+0136   0012  0E0F  TRANS2  ANDLW   0x0F
+0137   0013  01E2          ADDWF   PC
+0138               
+0139   0014  081B          RETLW   KEYST+11        ; UNUSED
+0140   0015  081B          RETLW   KEYST+11        ; UNUSED
+0141   0016  081B          RETLW   KEYST+11        ; UNUSED
+0142               
+0143   0017  0810          RETLW   KEYST+00
+0144   0018  0812          RETLW   KEYST+02
+0145   0019  0814          RETLW   KEYST+04
+0146   001A  0816          RETLW   KEYST+06
+0147   001B  0818          RETLW   KEYST+08
+0148   001C  081A          RETLW   KEYST+10
+0149               
+0150   001D  0811          RETLW   KEYST+01
+16c5x/xx Cross-Assembler V4.14 Released  Wed Aug 31 11:02:33 1994  Page 3
+
+Line   PC    Opcode
+
+0151   001E  0813          RETLW   KEYST+03
+0152   001F  0815          RETLW   KEYST+05
+0153   0020  0817          RETLW   KEYST+07
+0154   0021  0819          RETLW   KEYST+09
+0155   0022  081B          RETLW   KEYST+11
+0156               
+0157   0023  081B          RETLW   KEYST+11        ; UNUSED
+0158               
+0159               ; ----------   DISPLAY TRASLATION TABLE3   ----------
+0160               
+0161   0024  0E0F  TRANS3  ANDLW   0x0F
+0162   0025  01E2          ADDWF   PC
+0163               
+0164   0026  0887          RETLW   DCOL2+7         ; UNUSED
+0165   0027  0887          RETLW   DCOL2+7         ; UNUSED
+0166   0028  0887          RETLW   DCOL2+7         ; UNUSED
+0167               
+0168   0029  0842          RETLW   DCOL1+2
+0169   002A  0843          RETLW   DCOL1+3
+0170   002B  0844          RETLW   DCOL1+4
+0171   002C  0845          RETLW   DCOL1+5
+0172   002D  0846          RETLW   DCOL1+6
+0173   002E  0847          RETLW   DCOL1+7
+0174               
+0175   002F  0882          RETLW   DCOL2+2
+0176   0030  0883          RETLW   DCOL2+3
+0177   0031  0884          RETLW   DCOL2+4
+0178   0032  0885          RETLW   DCOL2+5
+0179   0033  0886          RETLW   DCOL2+6
+0180   0034  0887          RETLW   DCOL2+7
+0181               
+0182   0035  0887          RETLW   DCOL2+7         ; UNUSED
+0183               
+0184               ; ----------   UPDATE KEYSTATE SUBROUTINE   ----------
+0185               
+0186   0036  0200  UPDATE  MOVF    IND,W
+0187   0037  0900          CALL    NEXT1
+0188   0038  0020          MOVWF   IND
+0189   0039  02A4          INCF    FSR
+0190   003A  0800          RETLW   0
+0191               
+0192               ; ----------   OUTPUT SUBROUTINE   ----------
+0193               
+0194   003B  0FFF  OUTPUT  XORLW   0xFF             ; UNPROGRAMMED NOP
+0195   003C  028B          INCF    KEY,W
+0196   003D  0E0C          ANDLW   0x0C
+0197   003E  0743          BTFSS   STATUS,Z
+0198   003F  0A42          GOTO    OKAY
+0199   0040  0C0E          MOVLW   14
+0200   0041  002B          MOVWF   KEY
+0201   0042  020B  OKAY    MOVF    KEY,W
+0202   0043  0025          MOVWF   PORTA
+0203   0044  0800          RETLW   0
+0204               
+0205               ; ----------   WAIT FOR TIMEOUT SUBROUTINE   ----------
+0206               
+0207   0045  0201  WAIT    MOVF    RTCC,W
+0208   0046  0743          BTFSS   STATUS,Z
+0209   0047  0A45          GOTO    WAIT            ; WAIT FOR TIME OUT
+0210               
+0211   0048  0C6C          MOVLW   DELAY2
+0212   0049  0021          MOVWF   RTCC            ; RESET COUNTER
+0213               
+0214   004A  020B          MOVF    KEY,W
+0215   004B  0924          CALL    TRANS3
+0216   004C  0027          MOVWF   DISPLAY
+0217               
+0218   004D  0C0F          MOVLW   PBNONE
+0219   004E  0126          IORWF   PORTB
+0220               
+0221   004F  0CF0          MOVLW   PBDIPSW
+0222   0050  0006          TRIS    PORTB
+0223               
+0224   0051  0800          RETLW   0
+0225               
+16c5x/xx Cross-Assembler V4.14 Released  Wed Aug 31 11:02:33 1994  Page 4
+
+Line   PC    Opcode
+
+0226               ; ----------   INITIALIZATION CODE   ----------
+0227               
+0228         0000          ORG     0x163
+0229   0163  0FFF  INIT    XORLW   0xFF             ; UNPROGRAMED NOP
+0230               
+0231   0164  0C0F          MOVLW   0x0F             ; INITIALIZE PORTA
+0232   0165  0025          MOVWF   PORTA
+0233   0166  0040          CLRW
+0234   0167  0005          TRIS    PORTA
+0235               
+0236   0168  0C42          MOVLW   DCOL1+2         ; INITIALIZE PORTB
+0237   0169  0026          MOVWF   PORTB
+0238   016A  0C30          MOVLW   PBDSKD
+0239   016B  0006          TRIS    PORTB
+0240               
+0241   016C  0C0C          MOVLW   TBST            ; BLANK INPUT AND KEYSWITCH STATES
+0242   016D  0024          MOVWF   FSR
+0243   016E  0C10          MOVLW   NIP+NKEYS
+0244   016F  0029          MOVWF   I
+0245   0170  0060  BLANK   CLRF    IND
+0246   0171  02A4          INCF    FSR
+0247   0172  02E9          DECFSZ  I
+0248   0173  0B70          GOTO    BLANK
+0249               
+0250   0174  0C06          MOVLW   0x06             ; RTCC = OSC2 / 128
+0251   0175  0002          OPTION
+0252               
+0253   0176  0C0C          MOVLW   NKEYS
+0254   0177  0029          MOVWF   I
+0255   0178  0C03          MOVLW   3
+0256   0179  002B          MOVWF   KEY
+0257               
+0258   017A  0C0C  SEQ1    MOVLW   DELAY1          ; RESET COUNTER
+0259   017B  0021          MOVWF   RTCC
+0260               
+0261   017C  020B          MOVF    KEY,W
+0262   017D  0924          CALL    TRANS3
+0263   017E  0026          MOVWF   PORTB
+0264   017F  02AB          INCF    KEY
+0265               
+0266   0180  0201  SEQ2    MOVF    RTCC,W
+0267   0181  0743          BTFSS   STATUS,Z
+0268   0182  0B80          GOTO    SEQ2            ; WAIT FOR TIME OUT
+0269               
+0270   0183  02E9          DECFSZ  I
+0271   0184  0B7A          GOTO    SEQ1
+0272               
+0273   0185  0C02          MOVLW   0x02             ; RTCC = OSC2 / 8
+0274   0186  0002          OPTION
+0275               
+0276   0187  0C0E          MOVLW   14
+0277   0188  002B          MOVWF   KEY
+0278   0189  0BEA          GOTO    SELECT
+0279               
+0280               ; ----------   SCAN INPUT AND KEYBOARD ROUTINE   ----------
+0281               
+0282               SCAN2
+0283   018A  0386          SWAPF   PORTB,W
+0284   018B  002B          MOVWF   KEY
+0285               
+0286   018C  0CC8          MOVLW   PBIP
+0287   018D  0026          MOVWF   PORTB
+0288   018E  0000          NOP
+0289               SCAN1
+0290   018F  0206          MOVF    PORTB,W
+0291   0190  0028          MOVWF   IPV
+0292               
+0293   0191  0C0F          MOVLW   PBNONE
+0294   0192  0126          IORWF   PORTB
+0295               
+0296   0193  0C30          MOVLW   PBDSKD
+0297   0194  0006          TRIS    PORTB
+0298               
+0299   0195  0CC2          MOVLW   KEYR1           ; TURN OFF LEDs AND MAKE FIRST ROW LOW
+0300   0196  0026          MOVWF   PORTB
+16c5x/xx Cross-Assembler V4.14 Released  Wed Aug 31 11:02:33 1994  Page 5
+
+Line   PC    Opcode
+
+0301   0197  002A          MOVWF   ROW
+0302               
+0303   0198  0C10          MOVLW   KEYST
+0304   0199  0024          MOVWF   FSR
+0305   019A  0C05          MOVLW   NROWS-1
+0306   019B  0029          MOVWF   I
+0307               
+0308   019C  02AA  SCANKB  INCF    ROW
+0309   019D  020A          MOVF    ROW,W
+0310               
+0311   019E  06A6          BTFSC   PORTB,KCOL1
+0312   019F  02A0          INCF    IND
+0313   01A0  02A4          INCF    FSR
+0314   01A1  0686          BTFSC   PORTB,KCOL2
+0315   01A2  02A0          INCF    IND
+0316   01A3  0026          MOVWF   PORTB
+0317               
+0318   01A4  00E4          DECF    FSR
+0319   01A5  0936          CALL    UPDATE
+0320   01A6  0936          CALL    UPDATE
+0321               
+0322   01A7  02E9          DECFSZ  I
+0323   01A8  0B9C          GOTO    SCANKB
+0324               
+0325   01A9  0000          NOP
+0326   01AA  0207          MOVF    DISPLAY,W
+0327               
+0328   01AB  06A6          BTFSC   PORTB,KCOL1
+0329   01AC  02A0          INCF    IND
+0330   01AD  02A4          INCF    FSR
+0331   01AE  0686          BTFSC   PORTB,KCOL2
+0332   01AF  02A0          INCF    IND
+0333   01B0  0026          MOVWF   PORTB           ; RESTORE DISPLAY
+0334                                               ; AFTER SCANNING KEYBOARD
+0335   01B1  00E4          DECF    FSR
+0336   01B2  0936          CALL    UPDATE
+0337   01B3  0936          CALL    UPDATE
+0338               
+0339   01B4  0C0C          MOVLW   TBST             ; SCAN INPUTS
+0340   01B5  0024          MOVWF   FSR
+0341               
+0342   01B6  0688          BTFSC   IPV,TB
+0343   01B7  02AC          INCF    TBST
+0344   01B8  0936          CALL    UPDATE
+0345               
+0346   01B9  06A8          BTFSC   IPV,RA1
+0347   01BA  02AD          INCF    RA1ST
+0348   01BB  0936          CALL    UPDATE
+0349               
+0350   01BC  06C8          BTFSC   IPV,RA2
+0351   01BD  02AE          INCF    RA2ST
+0352   01BE  0936          CALL    UPDATE
+0353               
+0354   01BF  06E8          BTFSC   IPV,RA3
+0355   01C0  02AF          INCF    RA3ST
+0356   01C1  0936          CALL    UPDATE
+0357               
+0358   01C2  0FFF          XORLW   0xFF             ; UNPROGRAMED NOP
+0359               
+0360   01C3  066C          BTFSC   TBST,KEYBIT
+0361   01C4  0BD0          GOTO    TALK
+0362   01C5  066D          BTFSC   RA1ST,KEYBIT
+0363   01C6  0BD6          GOTO    REMOTE1
+0364   01C7  066E          BTFSC   RA2ST,KEYBIT
+0365   01C8  0BDC          GOTO    REMOTE2
+0366   01C9  066F          BTFSC   RA3ST,KEYBIT
+0367   01CA  0BE2          GOTO    REMOTE3
+0368   01CB  0BEA          GOTO    SELECT
+0369               
+0370               ; ----------   TALK MODE   ----------
+0371               
+0372   01CC  0945  T1      CALL    WAIT
+0373   01CD  0CC8          MOVLW   PBIP
+0374   01CE  0026          MOVWF   PORTB
+0375   01CF  0B8F          GOTO    SCAN1
+16c5x/xx Cross-Assembler V4.14 Released  Wed Aug 31 11:02:33 1994  Page 6
+
+Line   PC    Opcode
+
+0376   01D0  093B  TALK    CALL    OUTPUT
+0377   01D1  0BCC          GOTO    T1
+0378               
+0379               ; ----------   REMOTE1 MODE   ----------
+0380               
+0381   01D2  0945  R1      CALL    WAIT
+0382   01D3  0CC9          MOVLW   PBSW1
+0383   01D4  0026          MOVWF   PORTB
+0384   01D5  0B8A          GOTO    SCAN2
+0385   01D6  093B  REMOTE1 CALL    OUTPUT
+0386   01D7  0BD2          GOTO    R1
+0387               
+0388               ; ----------   REMOTE2 MODE   ----------
+0389               
+0390   01D8  0945  R2      CALL    WAIT
+0391   01D9  0CCA          MOVLW   PBSW2
+0392   01DA  0026          MOVWF   PORTB
+0393   01DB  0B8A          GOTO    SCAN2
+0394   01DC  093B  REMOTE2 CALL    OUTPUT
+0395   01DD  0BD8          GOTO    R2
+0396               
+0397               ; ----------   REMOTE3 MODE   ----------
+0398               
+0399   01DE  0945  R3      CALL    WAIT
+0400   01DF  0CCB          MOVLW   PBSW3
+0401   01E0  0026          MOVWF   PORTB
+0402   01E1  0B8A          GOTO    SCAN2
+0403   01E2  093B  REMOTE3 CALL    OUTPUT
+0404   01E3  0BDE          GOTO    R3
+0405               
+0406               ; ----------   SELECT MODE   ----------
+0407               
+0408   01E4  0208  GOTONE  MOVF    TMP,W
+0409   01E5  002B          MOVWF   KEY
+0410               HELD
+0411               NONE
+0412   01E6  0945          CALL    WAIT
+0413   01E7  0CC8          MOVLW   PBIP
+0414   01E8  0026          MOVWF   PORTB
+0415   01E9  0B8F          GOTO    SCAN1
+0416   01EA  0040  SELECT  CLRW
+0417   01EB  0FFF          XORLW   0xFF
+0418   01EC  0025          MOVWF   PORTA
+0419               
+0420   01ED  020B          MOVF    KEY,W
+0421   01EE  0912          CALL    TRANS2
+0422   01EF  0024          MOVWF   FSR
+0423   01F0  0660          BTFSC   IND,KEYBIT
+0424   01F1  0BE6          GOTO    HELD            ; KEY NOT RELEASED YET
+0425               
+0426   01F2  0C0E          MOVLW   14
+0427   01F3  0028          MOVWF   TMP
+0428   01F4  0C0C          MOVLW   NKEYS           ; GET HIGHEST PRIORITY KEY
+0429   01F5  0029          MOVWF   I
+0430               
+0431   01F6  0208  PRIO    MOVF    TMP,W
+0432   01F7  0912          CALL    TRANS2
+0433   01F8  0024          MOVWF   FSR
+0434   01F9  0660          BTFSC   IND,KEYBIT
+0435   01FA  0BE4          GOTO    GOTONE          ; FOUND HIGHEST PRIORITY KEY
+0436               
+0437   01FB  00E8          DECF    TMP
+0438   01FC  02E9          DECFSZ  I
+0439   01FD  0BF6          GOTO    PRIO
+0440   01FE  0BE6          GOTO    NONE            ; NO KEYS PRESSED
+0441               
+0442         0000          ORG     PIC54
+0443   01FF  0B63  RESET   GOTO    INIT
+0444         0000          END
+

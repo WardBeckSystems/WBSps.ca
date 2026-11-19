@@ -1,0 +1,48 @@
+{
+  "filename": "M441 441-02-013b.JPG",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M441 441-02-013b.JPG",
+  "extension": ".jpg",
+  "size_bytes": 4791620,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m441",
+    "441",
+    "02",
+    "013b"
+  ],
+  "width": 5102,
+  "height": 6599,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "5102",
+    "ExifImageHeight": "6599",
+    "ImageUniqueID": "337d1e17753d134c0000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:58",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/INPUT-PRE-AMPS/M441/1973 - 441-02-013 - DRN GP.jpg",
+  "note": "M441 441-02-013b.JPG.md",
+  "title_block": {
+    "drawing_number": "441-02-013",
+    "date": "APR 73",
+    "year": 1973,
+    "month": 4,
+    "drawn": "GP",
+    "checked": "illegible initials",
+    "signature": "left part of block: ISS 2 MOD 617 CKD PC; ISS 3 MOD 1203 CKD PC",
+    "models": [
+      "M441"
+    ]
+  }
+}

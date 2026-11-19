@@ -1,0 +1,51 @@
+{
+  "filename": "M468 - P006 - B468-02-002 5.jpg",
+  "relative_path": "WBSps.env/WBS Photos-1-001/M468 - P006 - B468-02-002 5.jpg",
+  "extension": ".jpg",
+  "size_bytes": 775139,
+  "modified_time": "Sat Oct 17 23:34:18 2026",
+  "is_manual": false,
+  "special_flag": null,
+  "word_tokens": [
+    "m468",
+    "p006",
+    "b468",
+    "02",
+    "002"
+  ],
+  "width": 1693,
+  "height": 2179,
+  "format": "JPEG",
+  "mode": "RGB",
+  "exif": {
+    "Software": "Picasa",
+    "Orientation": "1",
+    "YCbCrSubSampling": "['1', '1']",
+    "ExifOffset": "70",
+    "ExifVersion": "0220",
+    "ColorSpace": "1",
+    "ExifImageWidth": "1693",
+    "ExifImageHeight": "2179",
+    "ImageUniqueID": "9a67f23b27deace20000000000000000",
+    "ExifInteroperabilityOffset": "182"
+  },
+  "processed": true,
+  "processed_at": "2026-10-18T02:00:59",
+  "processed_by": "title-block ingest",
+  "copied_to": "2026/Modules/ROUTING/M468/1970 - 468-02-002 - 8 WAY RELAY SWITCHER SCHEMATIC - DRN DJG - ISS 3.jpg",
+  "note": "M468 - P006 - B468-02-002 5.jpg.md",
+  "title_block": {
+    "drawing_number": "B 468-02-002",
+    "size": "B",
+    "title": "M468 8 WAY / RELAY SWITCHER / SCHEMATIC",
+    "date": "OCT 70",
+    "year": 1970,
+    "month": 10,
+    "drawn": "DJG",
+    "checked": "RG.1",
+    "issue": "3",
+    "models": [
+      "M468"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+
+---------------------------------------
+Loading: C:\ORCADEXE\PLOTALL.EXE
+With Parameters:  .\M923.SCH       /O /S.950 /X-15.000 /Y-10.000 
+---------------------------------------
+PlotAll - OrCAD/SDT 386+ v1.21 N    01-APR-95
+(C)Copyright 1991-1995 OrCAD, Inc. ALL RIGHTS RESERVED.
+Reading Configuration Data File: sdt.bcf
+Initial memory allocation: 2000K.
+OrCAD RealMode Interface Handler - Version    1.20x  02-Sep-94
+(C) Copyright 1992,1993,1994  OrCAD, Inc.  ALL RIGHTS RESERVED.
+
+
+Loading Plotter Driver: "C:\ORCADESP\DRV\HP.DRV"
+HP Plotter Driver (.00098 inch/unit) V4.21
+(C) Copyright 1987 OrCAD, Inc.  ALL RIGHTS RESERVED.
+Reading Library: .\M923.LIB
+Reading Library: C:\ORCADESP\SDT\LIBRARY\ANALOG.LIB
+Reading Library: C:\ORCADESP\SDT\LIBRARY\PCBDEV.LIB
+Reading Library: C:\ORCADESP\SDT\LIBRARY\TTL.LIB
+Reading Library: C:\ORCADESP\SDT\LIBRARY\DEVICE.LIB
+Opening ".\M923.SCH"
+Opening ".\M923.SCH"
+Worksheet size is "D"
+
+If needed, load Plotter Paper.
+Press any key when ready...
+Beginning Plot
+fb01sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#b01LLLLJSNNnnnnnnSNNnnnnnnnnnnnnnnnnnnnnSNNnnnnnSNNnnnnnnnnnnSNNnnnnnnnnnnnnnnnnnnnnnnnnnnLLLLLLLLLLLLLLLLLeeeeJJnSNNnnnnnnnnnLLLLLSNNnnnnnnnnnSNNnnnnnnnnnSNNnnnnnnSNNnnnnnnLLLLLLLLLLLLLLLLLLLLLLnnnnSNNnnnnnnnnSNNnnnnnnnnSNNnnnnSNNnnnnnnnnnnnnnnb01b01ssb01ssb01b01sssb01b01sssb01LLLLLLLeeeeeeJJJJJnnLLLLLLLLLLeeeeeeSNNnnnnnnnnnnnnnnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnb01JJnnCCSNNnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnSNNnnnnnnnnnnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnb01snsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnb01b01b01LLLLLLLeeeeJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJnnnnnnnnnnnnnsn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#b01b01sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#sn#b01LLLLLLLJJJJJJJJJJJnnnnnnnnnnnnnnnnnnSNNnnnnb01b01sssb01ssb01ssb01ssb01s#s#s#b01s#s#s#b01ssb01ssb01ssb01LLLLLLLLLLLLLLLLLLPJJJJJJJnnnnnnSNNnnnnnnSNNnnnnnnnnnssb01ssb01ssb01ssb01s#s#s#b01s#s#s#b01ssb01ssb01LLLLLLLLLLLLPJJJJJnnssb01ssb01ssb01ssb01ssb01ssb01s#s#s#b01s#s#s#b01ssb01b01ssb01ssb01ssb01ssb01ssb01b01b01b01b01ssb01b01ssb01LLLLLPJJJJJJJJJJJJJJJJJJJJb01ssb01ssb01ssb01s#s#s#b01s#s#s#b01ssb01ssb01ssb01ssb01ssb01ssb01s#s#s#b01s#s#s#b01ssb01b01b01LLLLLLLLLLLLLLLLLLLPPPJJJJJJJJJJJJJJJJJJJnb01b01ssb01s#s#s#b01ssb01ssb01b01b01LLLLLLLJJJJJJJJJJJJCCSNNnnnnnnnnnnnnnnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnsnb01b01b01LLLLLLLLeeeeeeeeJJJJJJJJJJJJJJJJJJJJJJnnWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWFBBBBBBBBBBBBBBBBBB
+
+Ending Plot
