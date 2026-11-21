@@ -105,3 +105,4 @@ site/
 /rust_image_data_suite/
 /2026/timelines/
 /2026/extractors/rust_analyzer/
+.vscode/
