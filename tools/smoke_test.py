@@ -26,7 +26,7 @@ ENDPOINTS = [
     ("wbsps.ca wbs_scan.js",       "https://wbsps.ca/_catalog/wbs_scan.js?v=7792b3a7"),
     ("xtm.wbsps.ca",               "https://xtm.wbsps.ca/"),
     ("xtm.wbsps.ca /version.json", "https://xtm.wbsps.ca/version.json"),
-    ("xtm.wbsps.ca /router.py",    "https://xtm.wbsps.ca/tools/wbs-audio-router.py"),
+    ("xtm.wbsps.ca Audio Tab",     "https://xtm.wbsps.ca/tools/ward-beck-audio-tab.py"),
     ("gh-pages Root",              "https://wardbecksystems.github.io/WBSps.ca/"),
     ("gh-pages McCurdy Dual",      "https://wardbecksystems.github.io/WBSps.ca/mccurdy_ats_dual_meters.html"),
     ("gh-pages McCurdy Style",     "https://wardbecksystems.github.io/WBSps.ca/styleguide-mccurdy-meter-logo.html"),
