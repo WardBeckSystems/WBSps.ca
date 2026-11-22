@@ -1,0 +1,125 @@
+# 19xx - 8224-03-027 - FRONT PANEL (IPH-1C) - DRN DRG - ISS 2.png
+Wiki page: [Consoles](../../PAGES/Consoles.md)
+
+
+- **Year:** unknown (title block (read by eye))
+- **Type:** drawing / photo from WBS Photos-1-001
+
+## Title block (found by software, read by eye)
+
+- **Drawing:** B 8224-03-027
+- **Size:** B
+- **Title:** FRONT PANEL (IPH-1C)
+- **Drawn:** DRG
+- **Issue:** 2
+- **Confidence:** high
+
+- **Original file:** `WBSps.env/WBS Photos-1-001/WBSps.ca - 20210317 11X 17 Scans  (170).png`
+- **SHA-256:** `7bdd34ea0d7a865a7e90d8bc0f6387357dfe4dc0e64187718c998e6c4638b367`
+- **Size:** 1,109,737 bytes
+- **Pages:** 1
+
+## Vectors (traced)
+
+- **Sheet:** mechanical B 8224-03-027, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px); scale DISC NO: 443
+- **Ink extent:** 80–431 mm across, 5–298 mm up
+- **Outlines:** line 137 rings, 1,787 straight (6,841 mm) / 271 curved (457 mm); text 756 rings, 4,710 straight (5,586 mm) / 1,465 curved (2,120 mm); tb 6 rings, 108 straight (226 mm) / 10 curved (17.2 mm)
+- **Centre lines:** 4,604 paths (119 closed); straight 7,456 mm, curved 154 mm; horizontal 3,000 mm, vertical 1,680 mm, diagonal 2,776 mm
+- **Circles and arcs:** 3 circles, 17 arcs; largest r 5.6 @ (187.9, 163.6), r 4.7 @ (240.3, 183.3), r 1.2 @ (258.2, 136.5)
+- **Closed boxes:** 16 (10 in the title block); named: JACK HOLES ADDED; 8224-03-027; ISSUE; SCALE 1:1; CODE: 8224M27
+- **Words (OCR):** 85 in 60 lines: 3.750 · 0.110 DIA · & C'SK 82 · 0.257 · 3.236 · TO 0.175 · PLACES · 2.618 · 0.175 TYP · 0.618 · 0.375 DIA · 2 PLACES
+- **Title block:** (251, 21)–(421, 89) mm: JACK HOLES ADDED · DRG · REVISION · APP · ISSUE · WBS · WARD-BECK SYSTEMS · DRN. DRG · FRONT PANEL · ENG_ · CKD_ · (IPH-1C) · APP_ · SCALE DISC NO: 443 · ISSUE · 1:1 CODE: 8224M27 · 8224-03-027
+
+Every curve, box, word and wire group: [19xx - 8224-03-027 - FRONT PANEL (IPH-1C) - DRN DRG - ISS 2 (traced).json](19xx%20-%208224-03-027%20-%20FRONT%20PANEL%20%28IPH-1C%29%20-%20DRN%20DRG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `19xx - 8224-03-027 - FRONT PANEL (IPH-1C) - DRN DRG - ISS 2 (traced).dxf`).
+
+## Full text
+
+### Page 1 (OCR, spell-checked: 2 words corrected)
+
+```text
+3.750
+0.110 DIA & C'SK 82" To 0.175 PLACES
+0.257
+3.236
+2.618
+0.175 TYP
+0.618
+0.375 DIA PLACES
+12" REF
+0.075
+0.375
+1.650
+0.900
+0.750
+0.10 RAD TYP  (TO MATCH END CAPS B8224-03-022)
+0.257 DIA
+1.168
+PITCHES OF 0.450
+0.900
+0.422 DIA
+0.125 X 0.25 OBROUND PUNCH
+0.111 +0.0030 & INSERT FROM THIS SIDE "PEM" STUD FH-440-10 PLACES
+NOTES:
+JACK HOLES  ADDED (3) REVISION
+DRG APP 
+REMOVE ALL BURRS AND SHARP EDGES 2 TOL To BE XXX 10.015, XXXX +0.005 3 MATL: ALUM ALLOY 0.10 THK FINISH: SAND #120 GRIT AND PAINT EXTRA FINE TEXTURED GREY TEXCOTE VINYL 5. FOR SILKSCREEN SEE: 8224-08-027
+ISSUE
+WBS
+WARD-BECK SYSTEMS
+DRN
+DRG
+ENG  CKD APP_ SCALE DISC NO: 443 1:1 CODE: 8224M27
+FRONT PANEL (IPH-1C)
+ISSUE 2
+B
+8224-03-027
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+3.750
+0.110 DIA & C'SK 82" To 0.175 PLACES
+0.257
+3.236
+2.618
+0.175 TYP
+0.618
+0.375 DIA PLACES
+12" REF
+0.075
+0.375
+1.650
+0.900
+0.750
+0.10 RAD TYP  (TO MATCH END CAPS B8224-03-022)
+0.257 DIA
+1.168
+PITCHES OF 0.450
+0.900
+0.422 DIA
+0.125 X 0.25 OBROUND PUNCH
+0.111 +0.0030 & INSERT FROM THIS SIDE "PEM" STUD FH-440-10 PLACES
+NQTES:
+JACK HOLES  ADDED (3) REVSION
+DRG APP 
+REMOVE ALL BURRS AND SHARP EDGES 2 TOL To BE XXX 10.015, XXXX +0.005 3 MATL: ALUM ALLOY 0.10 THK FINISH: SAND #120 GRIT AND PAINT EXTRA FINE TEXTURED GREY TEXCOTE VINYL 5. FOR SILKSCREEN SEE: 8224-08-027
+ISSUE
+WBS
+WARD-BECK SYSTEMS
+DRN
+DRG
+ENG  CKD APP_ SCALE DISC NO: 443 1:1 CODE: 8224M27
+FRONT PANEL (IPH-1C)
+ISSUE 2
+B
+8224-03-027
+```
+
+</details>
+
+## Contents (JSON)
+
+```json
+{"file":"PHOTOS/Drawings/19xx - 8224-03-027 - FRONT PANEL (IPH-1C) - DRN DRG - ISS 2.png","sha256":"7bdd34ea0d7a865a7e90d8bc0f6387357dfe4dc0e64187718c998e6c4638b367","kind":"photo","pages":1,"order":[{"page":1,"title_block":[{"number":"B 8224-03-027","type":"wiring","title":"FRONT PANEL (IPH-1C)","drawn":"DRG","issue":"2"}],"text":["3.750","0.110 DIA & C'SK 82","0.257 3.236 TO 0.175 PLACES","2.618","0.175 TYP","0.618 0.375 DIA","2 PLACES 12\" REF","0.075","0.375","1.650 0.900 0.750","0.10 RAD TYP (TO MATCH END CAPS","B8224-03-022)","0.257 DIA","1.168 PITCHES 0.450 0.900","0.422 DIA","0.125 X 0.25 OBROUND PUNCH 0.111 +0.0030 & INSERT FROM THIS","SIDE \"PEM' STUD FH-440-10 PLACES","NQIES: JACK HOLES ADDED DRG","REMOVE ALL BURRS AND SHARP EDGES ISSUE REVISION APP","2. TOL To BE XXX 10.015, XXXX +0.005","MATL: ALUM ALLOY 0.10 THK WBS WARD-BECK SYSTEMS","FINISH:   SAND #120 GRIT AND PAINT EXTRA FINE","TEXTURED  GREY TEXCOTE VINYL","FOR SILKSCREEN   SEE: 8224-08-027 DRN. DRG","ENG_ FRONT PANEL","CKD_ (IPH-1C)","APP_","SCALE DISC NO: 443 8224-03-027 ISSUE","1:1 B 2","CODE: 8224M27"]}],"drawing":{"svg":"_traces/7bdd34ea0d7a865a.svg","viewBox":[2000,1414],"rotate":0,"size":"B","number":"B 8224-03-027","title":"FRONT PANEL (IPH-1C)","dtype":"03","outlines":"see _traces/7bdd34ea0d7a865a.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","centre_lines":"see _traces/7bdd34ea0d7a865a.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","words":[[964,344,"3.750"],[1354,366,"0.110"],[1414,366,"DIA"],[1454,366,"&amp; C'SK 82"],[681,389,"0.257"],[961,389,"3.236"],[1359,386,"TO 0.175"],[1496,386,"PLACES"],[924,424,"2.618"],[1251,444,"0.175 TYP"],[806,461,"0.618"],[966,464,"0.375 DIA"],[966,481,"2 PLACES"],[1249,484,"12\" REF"],[1281,516,"0.075"],[641,544,"0.375"],[554,621,"1.650"],[644,624,"0.900"],[1281,621,"0.750"],[1319,701,"0.10"],[1369,701,"RAD"],[1416,704,"TYP (TO MATCH END CAPS"],[1317,728,"B8224-03-022)"],[1174,751,"0.257"],[1234,751,"DIA"],[841,794,"1.168"],[1099,794,"PITCHES"],[1224,794,"0.450"],[1314,794,"0.900"],[609,806,"0.422"],[674,806,"DIA"],[584,871,"0.125"],[644,871,"X 0.25 OBROUND PUNCH"],[1101,876,"0.111"],[1159,876,"+0.0030"],[1249,876,"&amp; INSERT FROM THIS"],[1101,904,"SIDE \"PEM'"],[1216,904,"STUD"],[1276,904,"FH-440-10"],[1441,904,"PLACES"],[368,1018,"NQIES:"],[1514,1019,"JACK HOLES"],[1641,1019,"ADDED"],[1871,1019,"DRG"],[394,1056,"REMOVE"],[481,1054,"ALL BURRS"],[596,1054,"AND"],[644,1054,"SHARP EDGES"],[1346,1051,"ISSUE"],[1589,1051,"REVISION"],[1871,1049,"APP"],[370,1080,"2. TOL To BE"],[511,1076,"XXX"],[589,1076,"10.015,"],[669,1076,"XXXX"],[759,1074,"+0.005"],[396,1096,"MATL:"],[471,1096,"ALUM ALLOY"],[599,1096,"0.10"],[649,1096,"THK"],[1250,1118,"WBS"],[1470,1115,"WARD-BECK"],[1715,1115,"SYSTEMS"],[396,1119,"FINISH:   SAND #120 GRIT"],[641,1116,"AND PAINT EXTRA FINE"],[476,1139,"TEXTURED  GREY"],[639,1136,"TEXCOTE"],[726,1136,"VINYL"],[396,1159,"FOR SILKSCREEN   SEE:"],[619,1159,"8224-08-027"],[1201,1164,"DRN."],[1271,1164,"DRG"],[1201,1197,"ENG_"],[1530,1203,"FRONT PANEL"],[1201,1227,"CKD_"],[1571,1241,"(IPH-1C)"],[1204,1256,"APP_"],[1214,1286,"SCALE"],[1291,1289,"DISC"],[1344,1286,"NO:"],[1394,1289,"443"],[1846,1282,"ISSUE"],[1220,1318,"1:1"],[1291,1316,"CODE: 8224M27"],[1550,1308,"8224-03-027"]]}}
+```

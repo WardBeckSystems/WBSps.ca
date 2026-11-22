@@ -1,0 +1,122 @@
+# 1994 - 940184 - DOC - 940184-03-005 - REVOVE ALL BURRS AND SHARP EOGES TOLERANCES.jpg
+Wiki page: [Documents](../../../PAGES/Documents.md)
+
+
+- **Year:** 1994 (job number 940184)
+- **Type:** document scan
+- **About:** 940184
+
+## Text recovered by OCR
+
+> ThESE TWO SURFACES PARALLEL 4.400 768 87 MATERIAL: CR.S. 0.036 THICK . REQ D /BASE 0.75 O-90 SPOT WELD BEFORE PRINRMGKETS(2) 0.26 RAD(3) 0.260 MATERIAL: CR.S. 0.105 THICK; 3,500 2.000 825 0.313 490 000 REF 1,020 450 1.020 0.140 DIA REO'D 560 8,000 880 0.560 MA TERIAL: SEE BODY OF DRAWING. FINISH: SAND 120 GRIT AND PAINT TEXTURED BROWN (438C) TEXCOTE VINYL SEE SPOT WELD NOTE ISSUE] REVSICN WBS WARD-BECK SYSTEMS NOTE. REVOVE ALL BURRS AND SHARP EOGES: TOLERANCES; XX-+/-0.015 XXX-+/-0.005 DRN; DRG ENG; CKD; TURRET BASE (LARGE) SCALE DISC NO: CODE: 94184M05 IISSUE 940184-03-005
+- **Original file:** `WBSps.env/PUBLIC/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/2021-3-16-21-47-41.jpg`
+- **SHA-256:** `5c26fb3b7e35d4b9043097125ea380e3fa5274caab90085895d56003e0c2e7c0`
+- **Size:** 13,507,351 bytes
+- **Pages:** 1
+
+## Vectors (traced)
+
+- **Sheet:** mechanical 940184-03-005, size B (assumed) 432 × 279 mm, 2000 × 1294 px traced (0.216 mm/px)
+- **Ink extent:** 42–431 mm across, 7–230 mm up
+- **Outlines:** line 356 rings, 3,273 straight (9,195 mm) / 594 curved (717 mm); text 206 rings, 1,241 straight (1,220 mm) / 384 curved (494 mm); tb 16 rings, 150 straight (183 mm) / 27 curved (31.7 mm)
+- **Centre lines:** 5,270 paths (110 closed); straight 6,269 mm, curved 9.3 mm; horizontal 2,690 mm, vertical 1,349 mm, diagonal 2,231 mm
+- **Circles and arcs:** 1 circles, 3 arcs; largest r 0.8 @ (214.4, 195.7)
+- **Closed boxes:** 11 (4 in the title block); named: TURRET BASE (LARGE); 940184-03-005
+- **Words (OCR):** 21 in 18 lines: CR,S: 0036 · THICK · KATERIAL: · 0105 · ThICK · 0,250 · Djco · MATERIAL: SEE BODY OF DRAMNG: · FINISH:  SAND 120 GRIT AND PAINT · TEXTURED BROHN (438C) · TEXCOTE MNY: · WBS
+- **Title block:** (343, 22)–(427, 39) mm: WBS · WARD-BECK SYSTEMS
+
+Every curve, box, word and wire group: [1994 - 940184 - DOC - 940184-03-005 - REVOVE ALL BURRS AND SHARP EOGES TOLERANCES (traced).json](1994%20-%20940184%20-%20DOC%20-%20940184-03-005%20-%20REVOVE%20ALL%20BURRS%20AND%20SHARP%20EOGES%20TOLERANCES%20%28traced%29.json) (the CAD file: `1994 - 940184 - DOC - 940184-03-005 - REVOVE ALL BURRS AND SHARP EOGES TOLERANCES (traced).dxf`).
+
+## Full text
+
+### Page 1 (OCR, spell-checked: 2 words corrected)
+
+```text
+ThESE TWO SURFACES PARALLEL
+4.400
+768
+87 MATERIAL: CR.S. 0.036 THICK . REQ D /BASE
+0.75
+O-90
+SPOT WELD BEFORE PRINRMGKETS(2)
+0.26 RAD(3)
+0.260
+MATERIAL: CR.S. 0.105 THICK;
+3,500
+2.000
+825
+0.313
+490
+000 REF
+1,020
+450
+1.020
+0.140 DIA
+REO'D
+560
+8,000
+880
+0.560
+MA TERIAL:
+SEE BODY OF DRAWING.
+FINISH: SAND 120 GRIT AND PAINT TEXTURED BROWN (438C) TEXCOTE VINYL SEE SPOT WELD NOTE
+ISSUE]
+REVSICN
+WBS
+WARD-BECK SYSTEMS
+NOTE. REMOVE ALL BURRS AND SHARP EDGES: TOLERANCES; XX-+/-0.015 XXX-+/-0.005
+DRN; DRG ENG; CKD;
+TURRET BASE (LARGE)
+SCALE DISC NO: CODE: 94184M05
+IISSUE 940184-03-005
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+ThESE TWO SURFACES PARALLEL
+4.400
+768
+87 MATERIAL: CR.S. 0.036 THICK . REQ D /BASE
+0.75
+O-90
+SPOT WELD BEFORE PRINRMGKETS(2)
+0.26 RAD(3)
+0.260
+MATERIAL: CR.S. 0.105 THICK;
+3,500
+2.000
+825
+0.313
+490
+000 REF
+1,020
+450
+1.020
+0.140 DIA
+REO'D
+560
+8,000
+880
+0.560
+MA TERIAL:
+SEE BODY OF DRAWING.
+FINISH: SAND 120 GRIT AND PAINT TEXTURED BROWN (438C) TEXCOTE VINYL SEE SPOT WELD NOTE
+ISSUE]
+REVSICN
+WBS
+WARD-BECK SYSTEMS
+NOTE. REVOVE ALL BURRS AND SHARP EOGES: TOLERANCES; XX-+/-0.015 XXX-+/-0.005
+DRN; DRG ENG; CKD;
+TURRET BASE (LARGE)
+SCALE DISC NO: CODE: 94184M05
+IISSUE 940184-03-005
+```
+
+</details>
+
+## Contents (JSON)
+
+```json
+{"file":"Consoles/1990-1999/940184 - Glenn Gould Studio/1994 - 940184 - DOC - 940184-03-005 - REVOVE ALL BURRS AND SHARP EOGES TOLERANCES.jpg","sha256":"5c26fb3b7e35d4b9043097125ea380e3fa5274caab90085895d56003e0c2e7c0","kind":"doc","models":["940184"],"year":1994,"pages":1,"order":[{"page":1,"title_block":[{"number":"940184-03-005","type":"wiring","title":"Revove All Burrs And Sharp Eoges Tolerances","drawn":"DRG"}],"text":["CR,S: 0036 THICK","KATERIAL: 0105 ThICK","0,250","Djco","MATERIAL: SEE BODY OF DRAMNG:","FINISH:  SAND 120 GRIT AND PAINT","TEXTURED BROHN (438C)","TEXCOTE MNY: WARD-BECK SYSTEMS","WBS","DUARS SHARP EC CCS:","TURRET BASE","(LARGE)","940184-03-005"]}],"drawing":{"svg":"_traces/5c26fb3b7e35d4b9.svg","viewBox":[2000,1294],"rotate":0,"number":"940184-03-005","title":"Revove All Burrs And Sharp Eoges Tolerances","dtype":"03","outlines":"see _traces/5c26fb3b7e35d4b9.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","centre_lines":"see _traces/5c26fb3b7e35d4b9.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","words":[[1216,336,"CR,S:"],[1255,330,"0036"],[1289,336,"THICK"],[1234,446,"KATERIAL:"],[1332,443,"0105"],[1369,446,"ThICK"],[962,740,"0,250"],[961,911,"Djco"],[189,1089,"MATERIAL:"],[286,1089,"SEE BODY OF DRAMNG:"],[189,1119,"FINISH:  SAND 120"],[321,1119,"GRIT AND PAINT"],[246,1137,"TEXTURED BROHN (438C)"],[246,1149,"TEXCOTE MNY:"],[1629,1164,"WBS"],[1736,1161,"WARD-BECK SYSTEMS"],[265,1185,"DUARS"],[321,1189,"SHARP EC CCS:"],[1769,1204,"TURRET BASE"],[1794,1224,"(LARGE)"],[1766,1259,"940184-03-005"]]}}
+```

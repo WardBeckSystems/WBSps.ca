@@ -1,0 +1,304 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>M466C</title><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&display=swap"><script src="../../../_catalog/drive_lookup.js"></script><style>
+:root { --desk:#2b2a27; --paper:#fbfaf4; --ink:#1f1e1c; --faint:#6d6a63; --rule:#cfcabc; --link:#1f3f6b; --hl:#efe9d2; }
+* { box-sizing:border-box }
+html { background:var(--desk) }
+body { margin:0; padding:28px 16px 60px; color:var(--ink); font:15px/1.55 "Courier Prime","Courier New",Courier,monospace }
+.sheet { position:relative; max-width:8.5in; margin:0 auto; background:var(--paper);
+  padding:clamp(24px,6vw,64px) clamp(18px,7vw,72px) 56px clamp(30px,9vw,92px);
+  box-shadow:0 1px 0 #d8d4c6, 0 18px 40px rgba(0,0,0,.5) }
+.sheet::before { content:""; position:absolute; left:clamp(10px,2.6vw,28px); top:10%; bottom:10%; width:16px;
+  background:radial-gradient(circle, var(--desk) 7px, rgba(0,0,0,.18) 8px, transparent 9px) 0 0/16px 33.3% repeat-y }
+.top { display:flex; flex-wrap:wrap; gap:4px 16px; margin-bottom:18px; color:var(--faint) }
+a { color:var(--link); text-underline-offset:3px; text-decoration-thickness:1px } a:hover { background:var(--hl) }
+h1 { font-size:20px; margin:0 0 14px; text-transform:uppercase; letter-spacing:.04em; text-decoration:underline; text-underline-offset:5px }
+h2 { font-size:16px; margin:26px 0 8px; text-transform:uppercase; text-decoration:underline; text-underline-offset:4px }
+h3 { font-size:15px; margin:18px 0 6px }
+table { border-collapse:collapse; width:100%; margin:6px 0 12px; font-size:14px }
+th, td { text-align:left; vertical-align:top; padding:3px 10px 3px 0; border-bottom:1px dotted var(--rule) }
+th { color:var(--faint); font-weight:400; text-decoration:underline }
+code { font:inherit; background:#f1ede0; padding:0 3px }
+blockquote { margin:6px 0; padding-left:12px; border-left:2px solid var(--rule); color:var(--faint) }
+.thumbs { display:grid; grid-template-columns:repeat(auto-fill,minmax(130px,1fr)); gap:12px; margin:10px 0 18px }
+.thumbs a { display:block; text-decoration:none; color:var(--ink); font-size:11px; line-height:1.3; word-break:break-word }
+.sheet .offline { display:inline-block; border:1px dashed var(--rule); color:var(--faint); font-size:12px; padding:30px 18px; margin:4px 8px 4px 0 }
+.thumbs .offline { display:grid; place-items:center; height:110px; border:1px dashed var(--rule); color:var(--faint); font-size:12px; text-align:center; padding:6px }
+.thumbs canvas { max-width:100%; max-height:110px; width:auto; height:auto; margin:0 auto; background:#fff; border:1px solid var(--rule); display:block }
+.sheet p canvas { max-width:100%; max-height:320px; border:1px solid var(--rule); background:#fff; margin:4px 8px 4px 0 }
+.thumbs img { width:100%; height:110px; object-fit:contain; background:#fff; border:1px solid var(--rule); display:block; margin-bottom:4px }
+.sheet details.json pre { max-height:420px; overflow:auto; font-size:12px; background:#f1ede0; padding:8px; white-space:pre }
+.sheet details.json pre { max-height:420px; overflow:auto; font-size:12px; background:#f1ede0; padding:8px; white-space:pre }
+.wbs-conn { display:flex; gap:16px; align-items:flex-start } .wbs-conn .wbs-panel { flex:none; width:96px; height:auto; margin-top:6px }
+.wbs-face { flex:none; display:flex; flex-direction:column; gap:8px; align-items:center } .wbs-face .wbs-live:not(:empty) + .wbs-panel { display:none }
+.wbs-face .flip { font-size:12px; cursor:pointer; color:var(--link); text-decoration:underline; background:none; border:0; font-family:inherit }
+.wbs-conn .wbs-main { flex:1; min-width:0 } svg.wbs-panel.solo { width:110px; height:auto; display:block; margin:6px 0 12px }
+@media (max-width:600px) { .wbs-conn .wbs-panel { width:58px } .wbs-conn { gap:8px } }
+.foot { margin-top:36px; text-align:center; color:var(--faint) }
+.sheet details { border-left:3px solid var(--rule); padding:2px 0 2px 12px; margin:8px 0 2px } .sheet details summary { cursor:pointer; font-weight:700 }
+.sheet details p { white-space:normal; font-size:13.5px; max-width:80ch } .sheet details .bp { color:var(--faint); font-size:12.5px }
+.sheet p img { max-width:100%; height:auto; max-height:320px; border:1px solid var(--rule); background:#fff; margin:4px 8px 4px 0;
+  vertical-align:top; box-shadow:0 2px 6px rgba(0,0,0,.12) }
+@media (max-width:600px) { .sheet::before { display:none } table { font-size:12.5px } }
+</style></head><body><article class="sheet"><div class="top"><a href="../../../index.html">Index</a><a href="../../../Home.html">Wiki home</a><a href="../../../PAGES/Timeline.html">Timeline</a><a href="../../../search.html">Search</a><a href="../../../status.html">Status</a></div><h1>M466C</h1>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Type</td>
+<td>module</td>
+</tr>
+<tr>
+<td>Category</td>
+<td><a href="../../../PAGES/Category-DYNAMICS.html">DYNAMICS</a></td>
+</tr>
+<tr>
+<td>Try it</td>
+<td><a href="../../../kicad.html?m=M466C">KiCad symbol generator</a></td>
+</tr>
+<tr>
+<td>Earliest dated evidence</td>
+<td><a href="../../../PAGES/Year-1976.html">1976|9</a> — named in document</td>
+</tr>
+<tr>
+<td>Evidence</td>
+<td>named in 1976 - M466 - Compressor - Limiter.pdf</td>
+</tr>
+<tr>
+<td>Confidence</td>
+<td>low (named by)</td>
+</tr>
+<tr>
+<td>All years found</td>
+<td><a href="../../../PAGES/Year-1976.html">1976|9</a>, <a href="../../../PAGES/Year-1977.html">1977|10</a>, <a href="../../../PAGES/Year-2005.html">2005|38</a></td>
+</tr>
+<tr>
+<td>Variants</td>
+<td><a href="../../../PAGES/M466.html">M466</a>, <a href="../../../PAGES/M466M.html">M466M</a></td>
+</tr>
+<tr>
+<td>Folder</td>
+<td><a href="../../../DOCUMENTS/RECENT%20SCANS/WBSps.ca%2020210317%20-%20Small%2011X17%20drawings/index.html">DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Small 11X17 drawings</a></td>
+</tr>
+<tr>
+<td>Folder</td>
+<td><a href="index.html">Modules/DYNAMICS/M466C</a></td>
+</tr>
+</tbody>
+</table>
+<h2>Connections</h2>
+<p><em>What it is made of and what it is part of.</em></p>
+<div class="wbs-conn"><div class="wbs-face"><div class="wbs-live" data-m="M466C" data-n="" data-cat="DYNAMICS"></div><svg class="wbs-panel" data-m="M466C" data-n="" data-cat="DYNAMICS" role="img" aria-label="M466C front panel (drawn from the simulator's layout)"></svg></div><div class="wbs-main"><div class="wbs-spice"></div><script type="application/json" class="wbs-spice-data">{"code":"M466C","title":"","rto":null,"parts":[{"item":"6-106","title":"Mating Connector Pins Used Are","label":"6-106 Mating Connector Pins Used","href":"Register-Sub-assemblies-n-nnn.html#6-106","note":"Sub-assemblies (n-nnn)"}],"parents":[]}</script></div></div>
+<script src="wbs_spice.js"></script>
+
+<h2>Pinout &amp; connections</h2>
+<p><em>No page of its own numbers M466C's contacts: these are its variant <a href="../../../PAGES/M466.html">M466</a>'s, drawn faded — not confirmed for M466C.</em></p>
+<div class="wbs-pinout" style="display:flex;flex-direction:column;gap:14px;margin:8px 0 14px"><div style="display:flex;flex-wrap:wrap;gap:10px 16px;align-items:flex-start"><svg class="wp" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 292 516" width="292" height="516" role="img" aria-label="M466C edge connector, numbered contacts" style="width:100%;max-width:292px;height:auto;background:#fbfaf4"><style>.wp text{font-family:"Courier Prime","Courier New",Courier,monospace;fill:#1f1e1c;font-size:12px} .wp .f{fill:#6d6a63;font-size:10.5px} .wp .h{font-size:12.5px;font-weight:700;letter-spacing:.04em} .wp .b{font-size:17px;font-weight:700} .wp a text{fill:#1f3f6b;text-decoration:underline} .wp a:hover rect{fill:#efe9d2}</style><text x="4" y="16" class="h" text-anchor="start">EDGE CONNECTOR · 1–22</text><text x="4" y="32" class="f" text-anchor="start">NUMBERED SIDE · AS ON M466</text><rect x="4" y="40" width="49" height="468" fill="#efe9d2" stroke="#cfcabc"/><g opacity=".62"><title>1: INPUT
+audio in · confidence variant (from a variant)
+table · 1976 - M466 - Compressor - Limiter (2).pdf, p. 50</title><rect x="14" y="46" width="30" height="15" rx="1.5" fill="#dcecef" stroke="#2b7a8c" stroke-width="1.5" stroke-dasharray="3 2"/><text x="29" y="58" text-anchor="middle" style="font-weight:700;fill:#2b7a8c">1</text><text x="54" y="58" text-anchor="start">INPUT</text><text x="272" y="58" class="f" text-anchor="end" style="fill:#2b7a8c">IN</text><circle cx="284" cy="54" r="3.6" fill="none" stroke="#1f1e1c" stroke-width="1" stroke-dasharray="1.6 1.4"/></g><g opacity=".62"><title>2: INPUT
+audio in · confidence variant (from a variant)
+table · 1976 - M466 - Compressor - Limiter (2).pdf, p. 50</title><rect x="14" y="67" width="30" height="15" rx="1.5" fill="#dcecef" stroke="#2b7a8c" stroke-width="1.5" stroke-dasharray="3 2"/><text x="29" y="79" text-anchor="middle" style="font-weight:700;fill:#2b7a8c">2</text><text x="54" y="79" text-anchor="start">INPUT</text><text x="272" y="79" class="f" text-anchor="end" style="fill:#2b7a8c">IN</text><circle cx="284" cy="75" r="3.6" fill="none" stroke="#1f1e1c" stroke-width="1" stroke-dasharray="1.6 1.4"/></g><g opacity=".62"><title>3: SHIELD GND
+ground / common · confidence variant (from a variant)
+table · 1976 - M466 - Compressor - Limiter (2).pdf, p. 50</title><rect x="14" y="88" width="30" height="15" rx="1.5" fill="#e6e3da" stroke="#6d6a63" stroke-width="1.5" stroke-dasharray="3 2"/><text x="29" y="100" text-anchor="middle" style="font-weight:700;fill:#6d6a63">3</text><text x="54" y="100" text-anchor="start">SHIELD GND</text><text x="272" y="100" class="f" text-anchor="end" style="fill:#6d6a63">GND</text><circle cx="284" cy="96" r="3.6" fill="none" stroke="#1f1e1c" stroke-width="1" stroke-dasharray="1.6 1.4"/></g><rect x="14" y="109" width="30" height="15" fill="none" stroke="#cfcabc" stroke-dasharray="2 2"/><text x="29" y="121" class="f" text-anchor="middle">4</text><rect x="14" y="130" width="30" height="15" fill="none" stroke="#cfcabc" stroke-dasharray="2 2"/><text x="29" y="142" class="f" text-anchor="middle">5</text><rect x="14" y="151" width="30" height="15" fill="none" stroke="#cfcabc" stroke-dasharray="2 2"/><text x="29" y="163" class="f" text-anchor="middle">6</text><rect x="14" y="172" width="30" height="15" fill="none" stroke="#cfcabc" stroke-dasharray="2 2"/><text x="29" y="184" class="f" text-anchor="middle">7</text><rect x="14" y="193" width="30" height="15" fill="none" stroke="#cfcabc" stroke-dasharray="2 2"/><text x="29" y="205" class="f" text-anchor="middle">8</text><g opacity=".62"><title>9: COMP TIE   1
+control / tally · confidence variant (from a variant)
+rto-144 · M466.rto144.json, p. 1</title><rect x="14" y="214" width="30" height="15" rx="1.5" fill="#f4e7cc" stroke="#b7791f" stroke-width="1.5" stroke-dasharray="3 2"/><text x="29" y="226" text-anchor="middle" style="font-weight:700;fill:#b7791f">9</text><text x="54" y="226" text-anchor="start">COMP TIE   1 −</text><text x="272" y="226" class="f" text-anchor="end" style="fill:#b7791f">CTL</text><circle cx="284" cy="222" r="3.6" fill="none" stroke="#1f1e1c" stroke-width="1" stroke-dasharray="1.6 1.4"/></g><g opacity=".62"><title>10: STEREO TIE
+control / tally · confidence variant (from a variant)
+table · 1976 - M466 - Compressor - Limiter (2).pdf, p. 50</title><rect x="14" y="235" width="30" height="15" rx="1.5" fill="#f4e7cc" stroke="#b7791f" stroke-width="1.5" stroke-dasharray="3 2"/><text x="29" y="247" text-anchor="middle" style="font-weight:700;fill:#b7791f">10</text><text x="54" y="247" text-anchor="start">STEREO TIE</text><text x="272" y="247" class="f" text-anchor="end" style="fill:#b7791f">CTL</text><circle cx="284" cy="243" r="3.6" fill="none" stroke="#1f1e1c" stroke-width="1" stroke-dasharray="1.6 1.4"/></g><g opacity=".62"><title>11: EXTERNAL
+named, kind not clear · confidence variant (from a variant)
+table · 1976 - M466 - Compressor - Limiter (2).pdf, p. 50</title><rect x="14" y="256" width="30" height="15" rx="1.5" fill="#efece3" stroke="#1f1e1c" stroke-width="1.5" stroke-dasharray="3 2"/><text x="29" y="268" text-anchor="middle" style="font-weight:700;fill:#1f1e1c">11</text><text x="54" y="268" text-anchor="start">EXTERNAL</text><circle cx="284" cy="264" r="3.6" fill="none" stroke="#1f1e1c" stroke-width="1" stroke-dasharray="1.6 1.4"/></g><g opacity=".62"><title>12: EXTERNAL
+named, kind not clear · confidence variant (from a variant)
+table · 1976 - M466 - Compressor - Limiter (2).pdf, p. 50</title><rect x="14" y="277" width="30" height="15" rx="1.5" fill="#efece3" stroke="#1f1e1c" stroke-width="1.5" stroke-dasharray="3 2"/><text x="29" y="289" text-anchor="middle" style="font-weight:700;fill:#1f1e1c">12</text><text x="54" y="289" text-anchor="start">EXTERNAL</text><circle cx="284" cy="285" r="3.6" fill="none" stroke="#1f1e1c" stroke-width="1" stroke-dasharray="1.6 1.4"/></g><g opacity=".62"><title>13: VU METER
+audio out · confidence variant (from a variant)
+table · 1976 - M466 - Compressor - Limiter (2).pdf, p. 50</title><rect x="14" y="298" width="30" height="15" rx="1.5" fill="#dde9dc" stroke="#2e6b34" stroke-width="1.5" stroke-dasharray="3 2"/><text x="29" y="310" text-anchor="middle" style="font-weight:700;fill:#2e6b34">13</text><text x="54" y="310" text-anchor="start">VU METER</text><text x="272" y="310" class="f" text-anchor="end" style="fill:#2e6b34">OUT</text><circle cx="284" cy="306" r="3.6" fill="none" stroke="#1f1e1c" stroke-width="1" stroke-dasharray="1.6 1.4"/></g><rect x="14" y="319" width="30" height="15" fill="none" stroke="#cfcabc" stroke-dasharray="2 2"/><text x="29" y="331" class="f" text-anchor="middle">14</text><g opacity=".62"><title>15: OUTPUT
+audio out · confidence variant (from a variant)
+table · 1976 - M466 - Compressor - Limiter (2).pdf, p. 50</title><rect x="14" y="340" width="30" height="15" rx="1.5" fill="#dde9dc" stroke="#2e6b34" stroke-width="1.5" stroke-dasharray="3 2"/><text x="29" y="352" text-anchor="middle" style="font-weight:700;fill:#2e6b34">15</text><text x="54" y="352" text-anchor="start">OUTPUT</text><text x="272" y="352" class="f" text-anchor="end" style="fill:#2e6b34">OUT</text><circle cx="284" cy="348" r="3.6" fill="none" stroke="#1f1e1c" stroke-width="1" stroke-dasharray="1.6 1.4"/></g><g opacity=".62"><title>16: OUTPUT
+audio out · confidence variant (from a variant)
+table · 1976 - M466 - Compressor - Limiter (2).pdf, p. 50</title><rect x="14" y="361" width="30" height="15" rx="1.5" fill="#dde9dc" stroke="#2e6b34" stroke-width="1.5" stroke-dasharray="3 2"/><text x="29" y="373" text-anchor="middle" style="font-weight:700;fill:#2e6b34">16</text><text x="54" y="373" text-anchor="start">OUTPUT</text><text x="272" y="373" class="f" text-anchor="end" style="fill:#2e6b34">OUT</text><circle cx="284" cy="369" r="3.6" fill="none" stroke="#1f1e1c" stroke-width="1" stroke-dasharray="1.6 1.4"/></g><rect x="14" y="382" width="30" height="15" fill="none" stroke="#cfcabc" stroke-dasharray="2 2"/><text x="29" y="394" class="f" text-anchor="middle">17</text><rect x="14" y="403" width="30" height="15" fill="none" stroke="#cfcabc" stroke-dasharray="2 2"/><text x="29" y="415" class="f" text-anchor="middle">18</text><g opacity=".62"><title>19: -25 V
+power rail · confidence variant (from a variant)
+table · 1976 - M466 - Compressor - Limiter (2).pdf, p. 50</title><rect x="14" y="424" width="30" height="15" rx="1.5" fill="#f3ddd5" stroke="#a8442a" stroke-width="1.5" stroke-dasharray="3 2"/><text x="29" y="436" text-anchor="middle" style="font-weight:700;fill:#a8442a">19</text><text x="54" y="436" text-anchor="start">-25 V</text><text x="272" y="436" class="f" text-anchor="end" style="fill:#a8442a">PWR</text><circle cx="284" cy="432" r="3.6" fill="none" stroke="#1f1e1c" stroke-width="1" stroke-dasharray="1.6 1.4"/></g><g opacity=".62"><title>20: ±COMMON
+ground / common · confidence variant (from a variant)
+table · 1976 - M466 - Compressor - Limiter (2).pdf, p. 50</title><rect x="14" y="445" width="30" height="15" rx="1.5" fill="#e6e3da" stroke="#6d6a63" stroke-width="1.5" stroke-dasharray="3 2"/><text x="29" y="457" text-anchor="middle" style="font-weight:700;fill:#6d6a63">20</text><text x="54" y="457" text-anchor="start">±COMMON</text><text x="272" y="457" class="f" text-anchor="end" style="fill:#6d6a63">GND</text><circle cx="284" cy="453" r="3.6" fill="none" stroke="#1f1e1c" stroke-width="1" stroke-dasharray="1.6 1.4"/></g><g opacity=".62"><title>21: +25 V
+power rail · confidence variant (from a variant)
+table · 1976 - M466 - Compressor - Limiter (2).pdf, p. 50</title><rect x="14" y="466" width="30" height="15" rx="1.5" fill="#f3ddd5" stroke="#a8442a" stroke-width="1.5" stroke-dasharray="3 2"/><text x="29" y="478" text-anchor="middle" style="font-weight:700;fill:#a8442a">21</text><text x="54" y="478" text-anchor="start">+25 V</text><text x="272" y="478" class="f" text-anchor="end" style="fill:#a8442a">PWR</text><circle cx="284" cy="474" r="3.6" fill="none" stroke="#1f1e1c" stroke-width="1" stroke-dasharray="1.6 1.4"/></g><g opacity=".62"><title>22: CHASSIS GND
+ground / common · confidence variant (from a variant)
+table · 1976 - M466 - Compressor - Limiter (2).pdf, p. 50</title><rect x="14" y="487" width="30" height="15" rx="1.5" fill="#e6e3da" stroke="#6d6a63" stroke-width="1.5" stroke-dasharray="3 2"/><text x="29" y="499" text-anchor="middle" style="font-weight:700;fill:#6d6a63">22</text><text x="54" y="499" text-anchor="start">CHASSIS GND</text><text x="272" y="499" class="f" text-anchor="end" style="fill:#6d6a63">GND</text><circle cx="284" cy="495" r="3.6" fill="none" stroke="#1f1e1c" stroke-width="1" stroke-dasharray="1.6 1.4"/></g></svg></div><div style="display:flex;flex-wrap:wrap;gap:10px 16px;align-items:flex-start"><svg class="wp" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 292 136" width="292" height="136" role="img" aria-label="legend" style="width:100%;max-width:292px;height:auto;background:#fbfaf4"><style>.wp text{font-family:"Courier Prime","Courier New",Courier,monospace;fill:#1f1e1c;font-size:12px} .wp .f{fill:#6d6a63;font-size:10.5px} .wp .h{font-size:12.5px;font-weight:700;letter-spacing:.04em} .wp .b{font-size:17px;font-weight:700} .wp a text{fill:#1f3f6b;text-decoration:underline} .wp a:hover rect{fill:#efe9d2}</style><text x="4" y="14" class="h">KEY</text><rect x="4" y="24" width="22" height="12" fill="#dcecef" stroke="#2b7a8c" stroke-width="1.5"/><text x="32" y="34" class="f" style="fill:#2b7a8c">IN audio in</text><rect x="4" y="42" width="22" height="12" fill="#dde9dc" stroke="#2e6b34" stroke-width="1.5"/><text x="32" y="52" class="f" style="fill:#2e6b34">OUT audio out</text><rect x="4" y="60" width="22" height="12" fill="#f3ddd5" stroke="#a8442a" stroke-width="1.5"/><text x="32" y="70" class="f" style="fill:#a8442a">PWR power rail</text><rect x="4" y="78" width="22" height="12" fill="#e6e3da" stroke="#6d6a63" stroke-width="1.5"/><text x="32" y="88" class="f" style="fill:#6d6a63">GND ground / common</text><rect x="4" y="96" width="22" height="12" fill="#f4e7cc" stroke="#b7791f" stroke-width="1.5"/><text x="32" y="106" class="f" style="fill:#b7791f">CTL control / tally</text><rect x="4" y="114" width="22" height="12" fill="#efece3" stroke="#1f1e1c" stroke-width="1.5"/><text x="32" y="124" class="f" style="fill:#1f1e1c">· named, kind not clear</text><circle cx="176" cy="30" r="3.6" fill="none" stroke="#1f1e1c" stroke-width="1" stroke-dasharray="1.6 1.4"/><text x="186" y="34" class="f">variant</text></svg></div></div>
+
+<div class="wbs-pinconn" style="margin:6px 0 10px"><svg class="wp" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 366" width="400" height="366" role="img" aria-label="M466C connections" style="width:100%;max-width:500px;height:auto;background:#fbfaf4"><style>.wp text{font-family:"Courier Prime","Courier New",Courier,monospace;fill:#1f1e1c;font-size:12px} .wp .f{fill:#6d6a63;font-size:10.5px} .wp .h{font-size:12.5px;font-weight:700;letter-spacing:.04em} .wp .b{font-size:17px;font-weight:700} .wp a text{fill:#1f3f6b;text-decoration:underline} .wp a:hover rect{fill:#efe9d2}</style><text x="4" y="18" class="h">M466C</text><text x="4" y="34" class="f">pins as on its variant M466 (not confirmed for M466C)</text><rect x="6" y="44" width="65" height="18" rx="2" fill="#f3ddd5" stroke="#a8442a" stroke-dasharray="3 2"/><text x="12" y="57" style="font-size:11px;fill:#a8442a">-25 V 19</text><rect x="76.8" y="44" width="65" height="18" rx="2" fill="#f3ddd5" stroke="#a8442a" stroke-dasharray="3 2"/><text x="82.8" y="57" style="font-size:11px;fill:#a8442a">+25 V 21</text><line x1="200.0" y1="70" x2="200.0" y2="84" stroke="#a8442a" stroke-width="1.6"/><rect x="136" y="84" width="128" height="130" fill="#f4ecd2" stroke="#1f1e1c" stroke-width="1.6"/><text x="200.0" y="110" class="b" text-anchor="middle">M466C</text><line x1="6" y1="146" x2="136" y2="146" stroke="#2b7a8c" stroke-width="1.8" stroke-dasharray="4 3"/><path d="M129,142 L136,146 L129,150" fill="none" stroke="#2b7a8c" stroke-width="1.6"/><text x="130" y="141" text-anchor="end" style="font-size:11.5px;fill:#2b7a8c">INPUT</text><text x="130" y="159" text-anchor="end" class="f">1·2</text><line x1="264" y1="131" x2="394" y2="131" stroke="#2e6b34" stroke-width="1.8" stroke-dasharray="4 3"/><path d="M387,127 L394,131 L387,135" fill="none" stroke="#2e6b34" stroke-width="1.6"/><text x="270" y="126" text-anchor="start" style="font-size:11.5px;fill:#2e6b34">VU METER</text><text x="270" y="144" text-anchor="start" class="f">13</text><line x1="264" y1="161" x2="394" y2="161" stroke="#2e6b34" stroke-width="1.8" stroke-dasharray="4 3"/><path d="M387,157 L394,161 L387,165" fill="none" stroke="#2e6b34" stroke-width="1.6"/><text x="270" y="156" text-anchor="start" style="font-size:11.5px;fill:#2e6b34">OUTPUT</text><text x="270" y="174" text-anchor="start" class="f">15·16</text><line x1="200.0" y1="214" x2="200.0" y2="228" stroke="#6d6a63" stroke-width="1.6"/><rect x="6" y="228" width="91" height="18" rx="2" fill="#e6e3da" stroke="#6d6a63" stroke-dasharray="3 2"/><text x="12" y="241" style="font-size:11px;fill:#6d6a63">SHIELD GND 3</text><rect x="103.19999999999999" y="228" width="104" height="18" rx="2" fill="#f4e7cc" stroke="#b7791f" stroke-dasharray="3 2"/><text x="109.19999999999999" y="241" style="font-size:11px;fill:#b7791f">COMP TIE   1 9</text><rect x="213.59999999999997" y="228" width="98" height="18" rx="2" fill="#f4e7cc" stroke="#b7791f" stroke-dasharray="3 2"/><text x="219.59999999999997" y="241" style="font-size:11px;fill:#b7791f">STEREO TIE 10</text><rect x="317.4" y="228" width="78" height="18" rx="2" fill="#e6e3da" stroke="#6d6a63" stroke-dasharray="3 2"/><text x="323.4" y="241" style="font-size:11px;fill:#6d6a63">±COMMON 20</text><rect x="6" y="254" width="104" height="18" rx="2" fill="#e6e3da" stroke="#6d6a63" stroke-dasharray="3 2"/><text x="12" y="267" style="font-size:11px;fill:#6d6a63">CHASSIS GND 22</text><text x="4" y="310" class="h">MADE OF · SUB-ASSEMBLIES (1)</text><a href="../../../PAGES/Register-Sub-assemblies-n-nnn.html#6-106"><rect x="4" y="318" width="192" height="34" fill="#fbfaf4" stroke="#cfcabc"/><text x="10" y="332">6-106</text><text x="10" y="346" class="f">Mating Connector Pins Used …</text></a></svg></div>
+
+<p><a href="../../../viewer.html?f=Engineering/IO/M466C.pinout.svg">pinout (SVG)</a> · <a href="../../../viewer.html?f=Engineering/IO/M466C.connections.svg">connections (SVG)</a> · <a href="../../../viewer.html?f=Engineering/IO/M466C.pins.json">pins (JSON)</a></p>
+
+<details><summary>Pin evidence — 14 contacts</summary><table><tr><th>Pin</th><th>Signal</th><th>Kind</th><th>Confidence</th><th>Read from</th><th>Source</th></tr><tr><td>1</td><td>INPUT</td><td>audio in</td><td>variant</td><td>table</td><td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29.pdf">1976 - M466 - Compressor - Limiter (2).pdf</a>, p. 50</td></tr><tr><td>2</td><td>INPUT</td><td>audio in</td><td>variant</td><td>table</td><td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29.pdf">1976 - M466 - Compressor - Limiter (2).pdf</a>, p. 50</td></tr><tr><td>3</td><td>SHIELD GND</td><td>ground / common</td><td>variant</td><td>table</td><td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29.pdf">1976 - M466 - Compressor - Limiter (2).pdf</a>, p. 50</td></tr><tr><td>9</td><td>COMP TIE   1</td><td>control / tally</td><td>variant</td><td>rto-144</td><td><a href="../../../viewer.html?f=Engineering/RTO-144/M466/M466.rto144.json">M466.rto144.json</a>, p. 1</td></tr><tr><td>10</td><td>STEREO TIE</td><td>control / tally</td><td>variant</td><td>table</td><td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29.pdf">1976 - M466 - Compressor - Limiter (2).pdf</a>, p. 50</td></tr><tr><td>11</td><td>EXTERNAL</td><td>named, kind not clear</td><td>variant</td><td>table</td><td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29.pdf">1976 - M466 - Compressor - Limiter (2).pdf</a>, p. 50</td></tr><tr><td>12</td><td>EXTERNAL</td><td>named, kind not clear</td><td>variant</td><td>table</td><td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29.pdf">1976 - M466 - Compressor - Limiter (2).pdf</a>, p. 50</td></tr><tr><td>13</td><td>VU METER</td><td>audio out</td><td>variant</td><td>table</td><td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29.pdf">1976 - M466 - Compressor - Limiter (2).pdf</a>, p. 50</td></tr><tr><td>15</td><td>OUTPUT</td><td>audio out</td><td>variant</td><td>table</td><td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29.pdf">1976 - M466 - Compressor - Limiter (2).pdf</a>, p. 50</td></tr><tr><td>16</td><td>OUTPUT</td><td>audio out</td><td>variant</td><td>table</td><td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29.pdf">1976 - M466 - Compressor - Limiter (2).pdf</a>, p. 50</td></tr><tr><td>19</td><td>-25 V</td><td>power rail</td><td>variant</td><td>table</td><td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29.pdf">1976 - M466 - Compressor - Limiter (2).pdf</a>, p. 50</td></tr><tr><td>20</td><td>±COMMON</td><td>ground / common</td><td>variant</td><td>table</td><td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29.pdf">1976 - M466 - Compressor - Limiter (2).pdf</a>, p. 50</td></tr><tr><td>21</td><td>+25 V</td><td>power rail</td><td>variant</td><td>table</td><td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29.pdf">1976 - M466 - Compressor - Limiter (2).pdf</a>, p. 50</td></tr><tr><td>22</td><td>CHASSIS GND</td><td>ground / common</td><td>variant</td><td>table</td><td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29.pdf">1976 - M466 - Compressor - Limiter (2).pdf</a>, p. 50</td></tr></table></details>
+
+<h2>Pictures</h2><div class="thumbs"><a href="../../../viewer.html?f=DOCUMENTS/RECENT%20SCANS/WBSps.ca%2020210317%20-%20Small%2011X17%20drawings/1976%20-%20DOC%20-%20WBSps.ca%20-%2020210317%2011X%2017%20Scans.png"><img loading="lazy" src="../../../DOCUMENTS/RECENT%20SCANS/WBSps.ca%2020210317%20-%20Small%2011X17%20drawings/1976%20-%20DOC%20-%20WBSps.ca%20-%2020210317%2011X%2017%20Scans.png" alt="" data-f="DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Small 11X17 drawings/1976 - DOC - WBSps.ca - 20210317 11X 17 Scans.png" data-size="320" onerror="wbsOff(this)">1976 - DOC - WBSps.ca - 20210317 11X 17 Scans.png</a><a href="../../../viewer.html?f=Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20compressor%20limiter%201.jpg"><img loading="lazy" src="../../../Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20compressor%20limiter%201.jpg" alt="" data-f="Modules/DYNAMICS/M466C/1976 - M466C - compressor limiter 1.jpg" data-size="320" onerror="wbsOff(this)">1976 - M466C - compressor limiter 1.jpg</a><a href="../../../viewer.html?f=Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20compressor%20limiter%201_small.jpg"><img loading="lazy" src="../../../Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20compressor%20limiter%201_small.jpg" alt="" data-f="Modules/DYNAMICS/M466C/1976 - M466C - compressor limiter 1_small.jpg" data-size="320" onerror="wbsOff(this)">1976 - M466C - compressor limiter 1_small.jpg</a><a href="../../../viewer.html?f=Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20compressor%20limiter%202.jpg"><img loading="lazy" src="../../../Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20compressor%20limiter%202.jpg" alt="" data-f="Modules/DYNAMICS/M466C/1976 - M466C - compressor limiter 2.jpg" data-size="320" onerror="wbsOff(this)">1976 - M466C - compressor limiter 2.jpg</a><a href="../../../viewer.html?f=Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20compressor%20limiter%202_small.jpg"><img loading="lazy" src="../../../Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20compressor%20limiter%202_small.jpg" alt="" data-f="Modules/DYNAMICS/M466C/1976 - M466C - compressor limiter 2_small.jpg" data-size="320" onerror="wbsOff(this)">1976 - M466C - compressor limiter 2_small.jpg</a><a href="../../../viewer.html?f=Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20compressor%20limiter%203.jpg"><img loading="lazy" src="../../../Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20compressor%20limiter%203.jpg" alt="" data-f="Modules/DYNAMICS/M466C/1976 - M466C - compressor limiter 3.jpg" data-size="320" onerror="wbsOff(this)">1976 - M466C - compressor limiter 3.jpg</a><a href="../../../viewer.html?f=Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20compressor%20limiter%203_small.jpg"><img loading="lazy" src="../../../Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20compressor%20limiter%203_small.jpg" alt="" data-f="Modules/DYNAMICS/M466C/1976 - M466C - compressor limiter 3_small.jpg" data-size="320" onerror="wbsOff(this)">1976 - M466C - compressor limiter 3_small.jpg</a><a href="../../../viewer.html?f=Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20lunchbox.jpg"><img loading="lazy" src="../../../Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20lunchbox.jpg" alt="" data-f="Modules/DYNAMICS/M466C/1976 - M466C - lunchbox.jpg" data-size="320" onerror="wbsOff(this)">1976 - M466C - lunchbox.jpg</a><a href="../../../viewer.html?f=Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20lunchbox_small.jpg"><img loading="lazy" src="../../../Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20lunchbox_small.jpg" alt="" data-f="Modules/DYNAMICS/M466C/1976 - M466C - lunchbox_small.jpg" data-size="320" onerror="wbsOff(this)">1976 - M466C - lunchbox_small.jpg</a><a href="../../../viewer.html?f=Modules/DYNAMICS/M466/M466%20-%20P45%20-%20Functional%20Diagram.jpg"><img loading="lazy" src="../../../Modules/DYNAMICS/M466/M466%20-%20P45%20-%20Functional%20Diagram.jpg" alt="" data-f="Modules/DYNAMICS/M466/M466 - P45 - Functional Diagram.jpg" data-size="320" onerror="wbsOff(this)">M466 - P45 - Functional Diagram.jpg</a><a href="../../../viewer.html?f=Modules/DYNAMICS/M466/1976%20-%20M466%20-%20SLOPE%20COMP%20CONTROL%20FILTER%20FREQUENCY%20BUF%20STEREO%20TIE.jpg"><img loading="lazy" src="../../../Modules/DYNAMICS/M466/1976%20-%20M466%20-%20SLOPE%20COMP%20CONTROL%20FILTER%20FREQUENCY%20BUF%20STEREO%20TIE.jpg" alt="" data-f="Modules/DYNAMICS/M466/1976 - M466 - SLOPE COMP CONTROL FILTER FREQUENCY BUF STEREO TIE.jpg" data-size="320" onerror="wbsOff(this)">1976 - M466 - SLOPE COMP CONTROL FILTER FREQUENCY BUF STEREO TIE.jpg</a><a href="../../../viewer.html?f=Modules/DYNAMICS/M466/1977%20-%20466-01-001%20-%20M466C%20LIMITER%20-%20COMPRESSOR%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20DB%20-%20ENG%20RKB%20-%20ISS%202.jpg"><img loading="lazy" src="../../../Modules/DYNAMICS/M466/1977%20-%20466-01-001%20-%20M466C%20LIMITER%20-%20COMPRESSOR%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20DB%20-%20ENG%20RKB%20-%20ISS%202.jpg" alt="" data-f="Modules/DYNAMICS/M466/1977 - 466-01-001 - M466C LIMITER - COMPRESSOR MODULE FUNCTIONAL DIAGRAM - DRN DB - ENG RKB - ISS 2.jpg" data-size="320" onerror="wbsOff(this)">1977 - 466-01-001 - M466C LIMITER - COMPRESSOR MODULE FUNCTIONAL DIAGRAM - DRN DB - ENG RKB - ISS 2.jpg</a></div><h2>Price history</h2>
+<table>
+<thead>
+<tr>
+<th>Year</th>
+<th>Kind</th>
+<th>Price</th>
+<th>Listed as</th>
+<th>Effective</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../../../PAGES/Year-2005.html">2005|38</a></td>
+<td>used market value</td>
+<td>300.00</td>
+<td>M466C Compressor/Limiter/De-esser</td>
+<td></td>
+<td>wbsps - website ARCHIVE/WBSPS 2008/ARCHIVE/old website/PriceGuide.htm</td>
+</tr>
+<tr>
+<td><a href="../../../PAGES/Year-2006.html">2006|39</a></td>
+<td>used market value</td>
+<td>300.00</td>
+<td>M466C Compressor/Limiter/De-esser</td>
+<td></td>
+<td>wbsps - website ARCHIVE/WBSPS 2008/ARCHIVE/jan 2006 shell/priceguide.htm</td>
+</tr>
+</tbody>
+</table>
+<h2>Dates found in the documents</h2>
+<table>
+<thead>
+<tr>
+<th>Year</th>
+<th>Kind</th>
+<th>Text</th>
+<th>File</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../../../PAGES/Year-1976.html">1976|9</a></td>
+<td>title-block date</td>
+<td><code>DATE JUNE 76</code></td>
+<td><a href="../../../viewer.html?f=DOCUMENTS/RECENT%20SCANS/WBSps.ca%2020210317%20-%20Small%2011X17%20drawings/1976%20-%20DOC%20-%20WBSps.ca%20-%2020210317%2011X%2017%20Scans.png">1976 - DOC - WBSps.ca - 20210317 11X 17 Scans.png</a></td>
+</tr>
+<tr>
+<td><a href="../../../PAGES/Year-1976.html">1976|9</a></td>
+<td>title-block date</td>
+<td><code>DATE JUNE 76</code></td>
+<td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20DOC%20-%20WBSps.ca%20-%2020210317%2011X%2017%20Scans.png">1976 - M466C - DOC - WBSps.ca - 20210317 11X 17 Scans.png</a></td>
+</tr>
+</tbody>
+</table>
+<h2>Photos &amp; scans (10)</h2>
+<table>
+<thead>
+<tr>
+<th>Year</th>
+<th>File</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1976|9</td>
+<td><a href="../../../viewer.html?f=DOCUMENTS/RECENT%20SCANS/WBSps.ca%2020210317%20-%20Small%2011X17%20drawings/1976%20-%20DOC%20-%20WBSps.ca%20-%2020210317%2011X%2017%20Scans.png">1976 - DOC - WBSps.ca - 20210317 11X 17 Scans.png</a></td>
+<td><a href="../../../viewer.html?f=DOCUMENTS/RECENT%20SCANS/WBSps.ca%2020210317%20-%20Small%2011X17%20drawings/1976%20-%20DOC%20-%20WBSps.ca%20-%2020210317%2011X%2017%20Scans.png.md">note</a></td>
+</tr>
+<tr>
+<td>1976|9</td>
+<td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20DOC%20-%20WBSps.ca%20-%2020210317%2011X%2017%20Scans.png">1976 - M466C - DOC - WBSps.ca - 20210317 11X 17 Scans.png</a></td>
+<td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20DOC%20-%20WBSps.ca%20-%2020210317%2011X%2017%20Scans.png.md">note</a></td>
+</tr>
+<tr>
+<td>1976|9</td>
+<td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20compressor%20limiter%201.jpg">1976 - M466C - compressor limiter 1.jpg</a></td>
+<td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20compressor%20limiter%201.jpg.md">note</a></td>
+</tr>
+<tr>
+<td>1976|9</td>
+<td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20compressor%20limiter%201_small.jpg">1976 - M466C - compressor limiter 1_small.jpg</a></td>
+<td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20compressor%20limiter%201_small.jpg.md">note</a></td>
+</tr>
+<tr>
+<td>1976|9</td>
+<td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20compressor%20limiter%202.jpg">1976 - M466C - compressor limiter 2.jpg</a></td>
+<td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20compressor%20limiter%202.jpg.md">note</a></td>
+</tr>
+<tr>
+<td>1976|9</td>
+<td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20compressor%20limiter%202_small.jpg">1976 - M466C - compressor limiter 2_small.jpg</a></td>
+<td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20compressor%20limiter%202_small.jpg.md">note</a></td>
+</tr>
+<tr>
+<td>1976|9</td>
+<td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20compressor%20limiter%203.jpg">1976 - M466C - compressor limiter 3.jpg</a></td>
+<td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20compressor%20limiter%203.jpg.md">note</a></td>
+</tr>
+<tr>
+<td>1976|9</td>
+<td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20compressor%20limiter%203_small.jpg">1976 - M466C - compressor limiter 3_small.jpg</a></td>
+<td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20compressor%20limiter%203_small.jpg.md">note</a></td>
+</tr>
+<tr>
+<td>1976|9</td>
+<td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20lunchbox.jpg">1976 - M466C - lunchbox.jpg</a></td>
+<td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20lunchbox.jpg.md">note</a></td>
+</tr>
+<tr>
+<td>1976|9</td>
+<td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20lunchbox_small.jpg">1976 - M466C - lunchbox_small.jpg</a></td>
+<td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466C/1976%20-%20M466C%20-%20lunchbox_small.jpg.md">note</a></td>
+</tr>
+</tbody>
+</table>
+<h2>Sub-assemblies &amp; parts used (1)</h2>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>What</th>
+<th>Family</th>
+<th>Year</th>
+<th>How we know</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../../../PAGES/Register-Sub-assemblies-n-nnn.html#6-106">6-106</a></td>
+<td>Mating Connector Pins Used Are</td>
+<td>Sub-assemblies (n-nnn)</td>
+<td>1976|9</td>
+<td>named in its manual</td>
+</tr>
+</tbody>
+</table>
+<h2>Named in other drawings &amp; documents (5)</h2>
+<table>
+<thead>
+<tr>
+<th>File</th>
+<th>Page</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466/M466%20-%20P45%20-%20Functional%20Diagram.jpg">M466 - P45 - Functional Diagram.jpg</a></td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466/1976%20-%20M466%20-%20Compressor%20-%20Limiter%20%282%29.pdf">1976 - M466 - Compressor - Limiter (2).pdf</a></td>
+<td>47</td>
+</tr>
+<tr>
+<td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466/1976%20-%20M466%20-%20Compressor%20-%20Limiter.pdf">1976 - M466 - Compressor - Limiter.pdf</a></td>
+<td>47</td>
+</tr>
+<tr>
+<td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466/1976%20-%20M466%20-%20SLOPE%20COMP%20CONTROL%20FILTER%20FREQUENCY%20BUF%20STEREO%20TIE.jpg">1976 - M466 - SLOPE COMP CONTROL FILTER FREQUENCY BUF STEREO TIE.jpg</a></td>
+<td>1</td>
+</tr>
+<tr>
+<td><a href="../../../viewer.html?f=Modules/DYNAMICS/M466/1977%20-%20466-01-001%20-%20M466C%20LIMITER%20-%20COMPRESSOR%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20DB%20-%20ENG%20RKB%20-%20ISS%202.jpg">1977 - 466-01-001 - M466C LIMITER - COMPRESSOR MODULE FUNCTIONAL DIAGRAM - DRN DB - ENG RKB - ISS 2.jpg</a></td>
+<td>1</td>
+</tr>
+</tbody>
+</table><script src="../../../_catalog/wbs_reels.js" defer></script><script src="../../../_catalog/wbs_panel.js"></script><link rel="stylesheet" href="../../../_catalog/libcontrol/libcontrol.css"><script src="../../../_catalog/libcontrol/react.js"></script><script src="../../../_catalog/libcontrol/react-dom.js"></script><script src="../../../_catalog/libcontrol/libcontrol.js"></script><script src="../../../_catalog/wbs_live_panel.js"></script><div class="foot">An archive by Anthony Peter Kuzub · <a href="https://wbsps.kuzub.com">WBSps.Kuzub.com</a> · <a href="https://wbsps.ca">WBSps.ca</a><br><small>generated from M466C.md</small></div></article><script src="../../../_catalog/wbs_scan.js?v=7792b3a7"></script></body></html>

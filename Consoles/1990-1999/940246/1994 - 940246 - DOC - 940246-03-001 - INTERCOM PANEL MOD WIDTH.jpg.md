@@ -1,0 +1,103 @@
+# 1994 - 940246 - DOC - 940246-03-001 - INTERCOM PANEL MOD WIDTH.jpg
+Wiki page: [Documents](../../../PAGES/Documents.md)
+
+
+- **Year:** 1994 (job number 940246)
+- **Type:** document scan
+- **About:** 940246
+
+## Text recovered by OCR
+
+> UNC_ C'Sk f8 0.250 DIA REC D 3 3 0.100 DIA-C'Sk To 0.180DIA REQ D DATUM 0.200 B00 7.692 MATERIAL: ALUM ALLOY 0.125 THICK PITCH( 1.000) FINISH: SAND 120 GRIT AND PAINT TEXTURED BEIGE (452C) TEXCOTE VINYL, (EXTRA FINE TEXTURE) NOTE. REMOVE BURRS AND SHARP EDGES: TOLERANCES: XX-+/-0,015 XXXE /-0.005 FOR S/s ARTWORX SEE 930351- 004 (SPECIAL) 14.500 PUNCH 0.640 Sq 12 REQ'0 INTERCOM IntERCOM 15.350 15.950 16.150 R R SSUE DATE REMSION APP: WBS WARD-BECK SYSTEMS DRN; ENG. CKD: INTERCOM PANEL MOD WIDTH) SCALE DISC CODE: 942+6m01 ISSUE 940246-03-001
+- **Original file:** `WBSps.env/PUBLIC/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/2021-3-16-22-16-45.jpg`
+- **SHA-256:** `f8b262c3494f37e304229a200fd91e2f0fd2baaaa5e2b2fd6f59f0eb516629d4`
+- **Size:** 19,469,050 bytes
+- **Pages:** 1
+
+## Vectors (traced)
+
+- **Sheet:** mechanical 940246-03-001, size B (assumed) 432 × 280 mm, 2000 × 1296 px traced (0.216 mm/px)
+- **Ink extent:** 59–423 mm across, 7–262 mm up
+- **Outlines:** line 310 rings, 2,445 straight (5,839 mm) / 443 curved (546 mm); text 232 rings, 1,414 straight (1,385 mm) / 457 curved (589 mm); tb 20 rings, 165 straight (193 mm) / 24 curved (27.0 mm)
+- **Centre lines:** 4,927 paths (130 closed); straight 4,700 mm, curved 14.0 mm; horizontal 1,382 mm, vertical 1,773 mm, diagonal 1,546 mm
+- **Circles and arcs:** 3 circles, 4 arcs; largest r 1.8 @ (209.3, 238.1), r 1.8 @ (103.9, 37.8), r 1.4 @ (209.3, 230.5)
+- **Closed boxes:** 32 (4 in the title block); named: INTERCOM PANEL MOD WIDTH); 940246 03-001; 1:1; DISC NO
+- **Dots (junctions):** 1
+- **Words (OCR):** 28 in 22 lines: RLQD · UNC-CS · Toco, · MATERIAL: ALUK ALLOY 0.125 THICK · AINISH: SAND 120 GRIT AND PAINT · TEXTURED BEIGE (452C) · TEXCOTE VNYL, · (EXTRA · TEXTURE) · REVDM · JURAS · JCLEKAYCES-
+- **Title block:** (344, 22)–(428, 39) mm: WBS · WARD-BECK SYSTEMS
+
+Every curve, box, word and wire group: [1994 - 940246 - DOC - 940246-03-001 - INTERCOM PANEL MOD WIDTH (traced).json](1994%20-%20940246%20-%20DOC%20-%20940246-03-001%20-%20INTERCOM%20PANEL%20MOD%20WIDTH%20%28traced%29.json) (the CAD file: `1994 - 940246 - DOC - 940246-03-001 - INTERCOM PANEL MOD WIDTH (traced).dxf`).
+
+## Full text
+
+### Page 1 (OCR, spell-checked: 1 words corrected)
+
+```text
+UNC_ C'Sk f8 0.250 DIA REC D
+3
+3
+0.100 DIA-C'Sk To 0.180DIA REQ D
+DATUM 0.200
+B00
+7.692
+MATERIAL: ALUM ALLOY 0.125 THICK
+PITCH( 1.000)
+FINISH: SAND 120 GRIT AND PAINT TEXTURED BEIGE (452C) TEXCOTE VINYL, (EXTRA   FINE   TEXTURE) NOTE. REMOVE BURRS AND SHARP EDGES: TOLERANCES: XX-+/-0,015 XXXE /-0.005 FOR S/s ARTWORK SEE 930351- 004 (SPECIAL)
+14.500
+PUNCH 0.640 Sq 12 REQ'0
+INTERCOM
+IntERCOM
+15.350
+15.950 16.150
+R
+R
+SSUE DATE
+REMSION
+APP:
+WBS
+WARD-BECK SYSTEMS
+DRN; ENG. CKD:
+INTERCOM PANEL MOD WIDTH)
+SCALE DISC CODE: 942+6m01
+ISSUE 940246-03-001
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+UNC_ C'Sk f8 0.250 DIA REC D
+3
+3
+0.100 DIA-C'Sk To 0.180DIA REQ D
+DATUM 0.200
+B00
+7.692
+MATERIAL: ALUM ALLOY 0.125 THICK
+PITCH( 1.000)
+FINISH: SAND 120 GRIT AND PAINT TEXTURED BEIGE (452C) TEXCOTE VINYL, (EXTRA   FINE   TEXTURE) NOTE. REMOVE BURRS AND SHARP EDGES: TOLERANCES: XX-+/-0,015 XXXE /-0.005 FOR S/s ARTWORX SEE 930351- 004 (SPECIAL)
+14.500
+PUNCH 0.640 Sq 12 REQ'0
+INTERCOM
+IntERCOM
+15.350
+15.950 16.150
+R
+R
+SSUE DATE
+REMSION
+APP:
+WBS
+WARD-BECK SYSTEMS
+DRN; ENG. CKD:
+INTERCOM PANEL MOD WIDTH)
+SCALE DISC CODE: 942+6m01
+ISSUE 940246-03-001
+```
+
+</details>
+
+## Contents (JSON)
+
+```json
+{"file":"Consoles/1990-1999/940246/1994 - 940246 - DOC - 940246-03-001 - INTERCOM PANEL MOD WIDTH.jpg","sha256":"f8b262c3494f37e304229a200fd91e2f0fd2baaaa5e2b2fd6f59f0eb516629d4","kind":"doc","models":["940246"],"year":1994,"pages":1,"order":[{"page":1,"title_block":[{"number":"940246-03-001","type":"wiring","title":"Intercom Panel Mod Width"}],"text":["UNC-CS","RLQD","Toco,","MATERIAL: ALUK ALLOY 0.125 THICK","AINISH: SAND 120 GRIT AND PAINT","TEXTURED BEIGE (452C)","TEXCOTE VNYL,","(EXTRA TEXTURE)","REVDM JURAS","JCLEKAYCES-","(SPFCIA","16 JEC","R","15.931","WBS WARD-BECK SYSTEMS","INTERCOM PANEL","MOD WIDTH)","DISC NO 940246 03-001","1:1"]}],"drawing":{"svg":"_traces/f8b262c3494f37e3.svg","viewBox":[2000,1296],"rotate":0,"number":"940246-03-001","title":"Intercom Panel Mod Width","dtype":"03","outlines":"see _traces/f8b262c3494f37e3.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","centre_lines":"see _traces/f8b262c3494f37e3.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","words":[[650,110,"UNC-CS"],[636,131,"RLQD"],[274,154,"Toco,"],[1606,879,"MATERIAL:"],[1684,879,"ALUK ALLOY 0.125 THICK"],[1606,909,"AINISH:"],[1661,909,"SAND 120 GRIT AND PAINT"],[1661,924,"TEXTURED BEIGE"],[1781,924,"(452C)"],[1661,939,"TEXCOTE VNYL,"],[1664,954,"(EXTRA"],[1739,954,"TEXTURE)"],[1620,977,"REVDM"],[1682,977,"JURAS"],[1622,987,"JCLEKAYCES-"],[1812,1005,"(SPFCIA"],[582,1090,"16 JEC"],[582,1125,"15.931"],[1631,1166,"WBS"],[1739,1164,"WARD-BECK SYSTEMS"],[1749,1206,"INTERCOM"],[1836,1206,"PANEL"],[1784,1224,"MOD"],[1829,1224,"WIDTH)"],[1652,1247,"DISC NO"],[1619,1263,"1:1"],[1774,1259,"940246"],[1846,1259,"03-001"]]}}
+```

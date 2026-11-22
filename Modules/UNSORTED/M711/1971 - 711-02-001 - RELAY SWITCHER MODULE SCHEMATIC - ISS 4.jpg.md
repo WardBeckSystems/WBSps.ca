@@ -1,0 +1,157 @@
+# 1971 - 711-02-001 - RELAY SWITCHER MODULE SCHEMATIC - ISS 4.jpg
+Wiki page: [M711](../../../PAGES/M711.md)
+
+
+- **Year:** 1971 (title block date)
+- **Module:** M711
+- **Category:** COMMUNICATION
+- **Module year estimate:** unknown —
+
+## Title block (found by software, read by eye)
+
+- **Drawing:** B 711-02-001
+- **Size:** B
+- **Title:** M711 RELAY SWITCHER MODULE / SCHEMATIC
+- **Date:** JUNE 71
+- **Issue:** 4
+- **Confidence:** medium
+
+Wide schematic of a relay switcher module with many relays, title block small at lower right.
+
+- **Original file:** `WBSps.env/WBS Photos-1-001/mmm2021-3-21-21-56-41 (1).jpg`
+- **SHA-256:** `6cb51b4c52d2e8925a0e70facbcef9be9272c35bd53b8034ab25e3c2a17ed6f6`
+- **Size:** 1,615,263 bytes
+- **Pages:** 1
+
+## Vectors (traced)
+
+- **Sheet:** schematic B 711-02-001, size B 432 × 204 mm, 2000 × 944 px traced (0.216 mm/px)
+- **Ink extent:** 1–432 mm across, 65–204 mm up
+- **Outlines:** line 882 rings, 8,703 straight (15,419 mm) / 1,808 curved (2,235 mm); text 476 rings, 2,448 straight (2,255 mm) / 920 curved (1,159 mm)
+- **Centre lines:** 10,622 paths (201 closed); straight 10,778 mm, curved 292 mm; horizontal 4,052 mm, vertical 2,930 mm, diagonal 3,796 mm
+- **Circles and arcs:** 3 circles, 80 arcs; largest r 3.8 @ (19.8, 96.7), r 3.6 @ (192.8, 96.0), r 0.9 @ (178.9, 164.3)
+- **Closed boxes:** 10
+- **Words (OCR):** 46 in 45 lines: NOTES: · NOTE · NOTE · UNLESS SPECIFIED · VELUE ND DIODES ARE IN4OO} · RIS <r14 · RI7 <RI8 · Rzi <r22 · REFER · DwG · 1-127O · FOR
+- **Wiring (first pass):** 83 connected wire groups from 871 runs; labelled ends: 1151 mm → CR3A, CR39, CR3;, Ez8; 722 mm → PELAY SWITCHER MODULE, SCHEMATIC, 02-001; 200 mm → RIS <r14, Rzi <r22, RI7 <RI8; 155 mm → RIS <r14, RI7 <RI8, Rzi <r22; 113 mm → CRis, CRZO, CRI6
+
+Every curve, box, word and wire group: [1971 - 711-02-001 - RELAY SWITCHER MODULE SCHEMATIC - ISS 4 (traced).json](1971%20-%20711-02-001%20-%20RELAY%20SWITCHER%20MODULE%20SCHEMATIC%20-%20ISS%204%20%28traced%29.json) (the CAD file: `1971 - 711-02-001 - RELAY SWITCHER MODULE SCHEMATIC - ISS 4 (traced).dxf`).
+
+## Full text
+
+### Page 1 (OCR, spell-checked: 2 words corrected)
+
+```text
+NOTE Rzi <R22
+NONEEs UNLESS SPECIFIED RESISTORS ARE VWSz VALUE ND DIODES ARE IN4OO3 REFER To DwG N? |-127- oe-01 FoR PC BOARD LAYOUT: 3 DEPENDING UPON SYSTEM APPLICATION THE PC CARD MAY BE SUPPLIED WITH VARIOUS COMPONENT CONFIGURATIONS,_ FOR BRIDGING APPLICATION RI THRU R24 ARE IOK FOR MATCHING APPLICATIONS With EXTERNAL BRIDGING AMPLIFIER RI THRU R24 ARE JUMPEREDAS SHOWN
+NOTE
+<R9 <RIO
+RII ~RI2
+RIS <RI4
+<RIs <RI6
+RI7 <RI8
+SRI9 <RZO
+SR23 [8R24
+Ki2
+CR4O
+CR39
+CR3B
+CR37
+CRbe
+CR3s
+CR34
+CR3S
+CR32
+CRBI
+2
+1(+2+)
+47k 32 ISk
+CR
+R27 47K
+R28 CR ISk
+CR28
+K2
+K5
+K8
+Kio
+ZN4923
+2N4923
+CRI4 CRIS 'CrI3 IN746A
+CR22
+CRIG
+CRI7
+CRI6
+CRI9
+CRZO
+CR
+CR2A_
+CR2S
+CR26_
+TOLS
+Ward BECK_SYSIENS Lo M7ii DELAY SWITCHER MODULE SCHEMATIC 711-02-0o1
+CR2I IN746A
+PHL JUNE 7I
+22
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+NOTE Rzi <R22
+NONEEs UNLESS SPECIFIED RESISTORS ARE VWSz VALUE ND DIODES ARE IN4OO3 REFER To DwG N? |-127- oe-01 FoR PC BOARD LAYOUT: 3 DEPENDING UPON SYSTEM APPLICATION THE PC CARD MAY BE SUPPLIED WITH VARIQUS COMPONENT CONFIGURATIONS,_ FOR BRIDGING APPLICATION RI THRU R24 ARE IOK FOR MATCHING APPLICATIONS With EXTERNAL BRIDGING AMPLIFIER RI THRU R24 ARE JUMPEREDAS SHOWN
+NOTE
+<R9 <RIO
+RII ~RI2
+RIS <RI4
+<RIs <RI6
+RI7 <RI8
+SRI9 <RZO
+SR23 [8R24
+Ki2
+CR4O
+CR39
+CR3B
+CR37
+CRbe
+CR3s
+CR34
+CR3S
+CR32
+CRBI
+2
+1(+2+)
+47k 32 ISk
+CR
+R27 47K
+R28 CR ISk
+CR28
+K2
+K5
+K8
+Kio
+ZN4923
+2N4923
+CRI4 CRIS 'CrI3 IN746A
+CR22
+CRIG
+CRI7
+CRI6
+CRI9
+CRZO
+CR
+CR2A_
+CR2S
+CR26_
+TOLS
+Ward BECK_SYSIENS Lo M7ii PELAY SWITCHER MODULE SCHEMATIC 711-02-0o1
+CR2I IN746A
+PHL JUNE 7I
+22
+```
+
+</details>
+
+## Contents (JSON)
+
+```json
+{"file":"Modules/UNSORTED/M711/1971 - 711-02-001 - RELAY SWITCHER MODULE SCHEMATIC - ISS 4.jpg","sha256":"6cb51b4c52d2e8925a0e70facbcef9be9272c35bd53b8034ab25e3c2a17ed6f6","kind":"module","models":["M711"],"year":1971,"pages":1,"order":[{"page":1,"title_block":[{"number":"B 711-02-001","type":"schematic","title":"M711 RELAY SWITCHER MODULE / SCHEMATIC","date":"JUNE 71","year":1971,"issue":"4"}],"text":["NOTES:","NOTE UNLESS SPECIFIED","NOTE VELUE ND DIODES ARE IN4OO}","RIS <r14 RI7 <RI8 Rzi <r22 REFER DwG 1-127O","FOR LatoT","DEPENDING UPON SYSTEM APPLICATION","THE PC CARD May BE SUPFLIEO WITH","VARIOUS COYPONENT CONFIGURATIONS","FOR BRIDGING APPLICATION AITHRU R2A","ARE IOk","VATCHING AppLicATiONS With","EXTEANAL eridging AMPLIFIER Ri TKRU","R24 ARE JUMFEREDASSHOWN","CR39 CRSE CR3A CR3; CREI","Ez8 CR28","Kio","ZN4923 CR22","CRIS_ Cri6 _ CRI6 CRis CRZO CR24 CRZS CR26_ MArd","M7ii","01J4 PELAY SWITCHER MODULE","SCHEMATIC","T _ 02-001"]}],"drawing":{"svg":"_traces/6cb51b4c52d2e892.svg","viewBox":[2000,944],"rotate":0,"size":"B","number":"B 711-02-001","title":"M711 RELAY SWITCHER MODULE / SCHEMATIC","dtype":"02","outlines":"see _traces/6cb51b4c52d2e892.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","centre_lines":"see _traces/6cb51b4c52d2e892.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","words":[[1694,156,"NOTES:"],[1534,176,"NOTE"],[1706,169,"UNLESS SPECIFIED"],[261,184,"NOTE"],[1709,181,"VELUE"],[1764,188,"ND DIODES ARE IN4OO}"],[1009,196,"RIS &lt;r14"],[1241,199,"RI7 &lt;RI8"],[1476,201,"Rzi &lt;r22"],[1711,196,"REFER"],[1805,195,"DwG"],[1865,198,"1-127O"],[1704,211,"FOR"],[1830,210,"LatoT"],[1704,240,"DEPENDING UPON SYSTEM APPLICATION"],[1701,254,"THE PC CARD May BE SUPFLIEO WITH"],[1704,269,"VARIOUS COYPONENT CONFIGURATIONS"],[1704,284,"FOR BRIDGING APPLICATION AITHRU R2A"],[1701,291,"ARE IOk"],[1731,311,"VATCHING AppLicATiONS With"],[1701,326,"EXTEANAL eridging AMPLIFIER Ri TKRU"],[1701,339,"R24 ARE JUMFEREDASSHOWN"],[289,409,"CR39"],[765,408,"CRSE"],[1115,410,"CR3A"],[1230,410,"CR3;"],[1352,410,"CREI"],[1561,456,"CR28"],[952,475,"Ez8"],[1421,471,"Kio"],[24,511,"ZN4923"],[931,519,"CR22"],[161,529,"CRIS_"],[276,529,"Cri6 _"],[509,529,"CRI6"],[626,531,"CRis"],[739,531,"CRZO"],[1089,534,"CR24"],[1206,536,"CRZS"],[1326,536,"CR26_"],[1746,536,"MArd"],[1784,559,"M7ii"],[81,576,"01J4"],[1739,586,"PELAY SWITCHER MODULE"],[1784,601,"SCHEMATIC"],[1809,621,"02-001"]]}}
+```

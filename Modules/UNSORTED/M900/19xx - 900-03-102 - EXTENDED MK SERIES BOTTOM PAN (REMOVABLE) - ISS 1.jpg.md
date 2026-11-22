@@ -1,0 +1,131 @@
+# 19xx - 900-03-102 - EXTENDED MK SERIES BOTTOM PAN (REMOVABLE) - ISS 1.jpg
+Wiki page: [M900](../../../PAGES/M900.md)
+
+
+- **Year:** unknown (title block (read by eye))
+- **Module:** M900
+- **Category:** UNSORTED
+- **Module year estimate:** unknown —
+
+## Title block (found by software, read by eye)
+
+- **Drawing:** D 900-03-102
+- **Size:** D
+- **Title:** EXTENDED MK SERIES / BOTTOM PAN (REMOVABLE)
+- **Issue:** 1
+- **Confidence:** high
+
+- **Original file:** `WBSps.env/WBS Photos-1-001/WBSps.ca 20210319 -  (59).jpg`
+- **SHA-256:** `8d477673aaed08ff4c3864c49f0ae6fb9b24d0626ff18a0282c64e8cc109920a`
+- **Size:** 821,469 bytes
+- **Pages:** 1
+
+## Vectors (traced)
+
+- **Sheet:** mechanical D 900-03-102, size D 864 × 558 mm, 2000 × 1293 px traced (0.432 mm/px)
+- **Ink extent:** 1–864 mm across, 0–558 mm up
+- **Outlines:** line 777 rings, 6,870 straight (38,245 mm) / 1,049 curved (2,813 mm); text 299 rings, 1,768 straight (3,422 mm) / 568 curved (1,426 mm)
+- **Centre lines:** 6,854 paths (246 closed); straight 23,431 mm, curved 268 mm; horizontal 9,165 mm, vertical 8,591 mm, diagonal 5,675 mm
+- **Circles and arcs:** 0 circles, 37 arcs
+- **Closed boxes:** 114; named: PART NUMBER; MODULE COUNT; 19,975; 39.9s; 31,975; 41,975; WARD-BECK SYSTEMS WB3S; EXTENDED MK   SERIES BOTTOM PAN (REMOVAB; 900-03-102
+- **Words (OCR):** 34 in 26 lines: 0.23 CALOY? · 0.62 DIA · Notcr ACCCRMNGLY · DATUL · TOTAL croupe · Pitc- 7,175] · PART NUMBER MODULE COUNT · 19,975 · 39.9s · 31,975 · 10275 · 41,975
+
+Every curve, box, word and wire group: [19xx - 900-03-102 - EXTENDED MK SERIES BOTTOM PAN (REMOVABLE) - ISS 1 (traced).json](19xx%20-%20900-03-102%20-%20EXTENDED%20MK%20SERIES%20BOTTOM%20PAN%20%28REMOVABLE%29%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 900-03-102 - EXTENDED MK SERIES BOTTOM PAN (REMOVABLE) - ISS 1 (traced).dxf`).
+
+## Full text
+
+### Page 1 (OCR, spell-checked: 2 words corrected)
+
+```text
+0.13
+0.25 OBLONG (D) REq"D
+PITCH(B.0OO) (B)
+1.918
+3 3
+2.276 REF
+0.62 DIA
+19.05 18,90
+135"
+REE
+3.316
+14.05
+NoTCH ACCORDINGLY REC D
+13.18
+10.10
+5.00
+0.65
+DATUM
+0.500
+0.064 TYP
+PUNCH "RE8 B2GROUFOQG 125 TOTAL GROUPS (P) ~PITCH(0.250)(24)-(6.000)
+0.15
+(D) REQ"D
+3
+PITCH(7.375) (H)
+PART NUMBER MODULE COUNT 900-03-102_ 900-05-102_2 900-03-102-3
+23.95 35.95
+19.975 33.975 43.975
+5.975 1.975 5.975
+16.350
+3,912 2,537
+26.037 39.412
+47.95
+MATERIAL: ALUM ALLOY 0.06   THICK
+FINISH: SAND 120 GRIT AND PAINT TEXTURED BROWN (438C) TEXCOTE VINYL;
+ISSUE DAL
+REMSION
+NOTE REMOVE BURRS AND SHARP EDGES; TOLERANCES: XX-+/-0.015 XXX=+/-0.005
+WBS WARD-BECK SYSTEMS DRN; DRG ENG. EXTENDED MK   SERIES Ckd BOTTOM PAN (REMOVABLE) SCALE DISC NO: 4493002 ISSUE CODE: 900102 900-03-102
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+0.13
+0.25 OBLONG (D) REq"D
+PITCH(B.0OO) (B)
+1.918
+3 3
+2.276 REF
+0.62 DIA
+19.05 18,90
+135"
+REE
+3.316
+14.05
+NoTCH ACCORDINGLY REC D
+13.18
+10.10
+5.00
+0.65
+DATUM
+0.500
+0.064 TYP
+PUNCH "RE8 B2GROUFOQG 125 TOTAL GROUPS (P) ~PITCH(0.250)(24)-(6.000)
+0.15
+(D) REQ"D
+3
+PITCH(7.375) (H)
+PART NUMBER MODULE COUNT 900-03-102_ 900-05-102_2 900-03-102-3
+23.95 35.95
+19.975 33.975 43.975
+5.975 1.975 5.975
+16.350
+3,912 2,537
+26.037 39.412
+47.95
+MATERIAL: ALUM ALLOY 0.06   THICK
+FINISH: SAND 120 GRIT AND PAINT TEXTURED BROWN (438C) TEXCOTE VINYL;
+ILSSUE DAL
+REMSION
+NOTE REMOVE BURRS AND SHARP EDGES; TCLERANCES: XX-+/-0.015 XXX=+/-0.005
+WBS WARD-BECK SYSTEMS DRN; DRG ENG. EXTENDED MK   SERIES Ckd BOTTOM PAN (REMOVABLE) SCALE DISC NO: 4493002 ISSUE CODE: 900102 900-03-102
+```
+
+</details>
+
+## Contents (JSON)
+
+```json
+{"file":"Modules/UNSORTED/M900/19xx - 900-03-102 - EXTENDED MK SERIES BOTTOM PAN (REMOVABLE) - ISS 1.jpg","sha256":"8d477673aaed08ff4c3864c49f0ae6fb9b24d0626ff18a0282c64e8cc109920a","kind":"module","models":["M900"],"pages":1,"order":[{"page":1,"title_block":[{"number":"D 900-03-102","type":"wiring","title":"EXTENDED MK SERIES / BOTTOM PAN (REMOVABLE)","issue":"1"}],"text":["0.23 CALOY?","0.62 DIA","Notcr ACCCRMNGLY","DATUL","TOTAL croupe","Pitc- 7,175] (H)","PART NUMBER MODULE COUNT","19,975","39.9s 31,975","10275 41,975 MATERIAL: ALUM ALLOY 0.06 THICK","FINISH: SAND 120 GRIT AND PAINT","TEXTURED BROWN (438C)","TEXCOTE VINYL","REMSICr","REMOVE AURAS WB3S WARD-BECK SYSTEMS","TCLERANCES","EXTENDED MK   SERIES","BOTTOM PAN (REMOVABLE)","900-03-102"]}],"drawing":{"svg":"_traces/8d477673aaed08ff.svg","viewBox":[2000,1293],"rotate":0,"size":"D","number":"D 900-03-102","title":"EXTENDED MK SERIES / BOTTOM PAN (REMOVABLE)","dtype":"03","outlines":"see _traces/8d477673aaed08ff.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","centre_lines":"see _traces/8d477673aaed08ff.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","words":[[1671,76,"0.23 CALOY?"],[939,149,"0.62 DIA"],[672,477,"Notcr"],[710,477,"ACCCRMNGLY"],[195,812,"DATUL"],[935,877,"TOTAL"],[968,877,"croupe"],[1152,959,"Pitc- 7,175]"],[119,988,"PART NUMBER"],[231,991,"MODULE COUNT"],[478,1012,"19,975"],[360,1027,"39.9s"],[475,1029,"31,975"],[175,1042,"10275"],[475,1047,"41,975"],[1031,1051,"MATERIAL:"],[1109,1053,"ALUM ALLOY 0.06 THICK"],[1029,1081,"FINISH:"],[1086,1083,"SAND 120 GRIT AND"],[1234,1083,"PAINT"],[1086,1098,"TEXTURED"],[1161,1101,"BROWN (438C)"],[1086,1113,"TEXCOTE VINYL"],[1805,1127,"REMSICr"],[1045,1147,"REMOVE"],[1105,1147,"AURAS"],[1045,1157,"TCLERANCES"],[1626,1158,"WB3S"],[1734,1161,"WARD-BECK SYSTEMS"],[1726,1201,"EXTENDED"],[1816,1203,"MK   SERIES"],[1704,1218,"BOTTOM"],[1776,1221,"PAN (REMOVABLE)"],[1774,1256,"900-03-102"]]}}
+```

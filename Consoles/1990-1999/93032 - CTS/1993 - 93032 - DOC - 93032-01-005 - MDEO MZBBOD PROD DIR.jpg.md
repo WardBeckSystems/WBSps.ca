@@ -1,0 +1,147 @@
+# 1993 - 93032 - DOC - 93032-01-005 - MDEO MZBBOD PROD DIR.jpg
+Wiki page: [Documents](../../../PAGES/Documents.md)
+
+
+- **Year:** 1993 (job number 93032)
+- **Type:** document scan
+- **About:** 93032
+
+## Text recovered by OCR
+
+> UNITARY PROCRA SOUND INPUTS LEGEND: (TELOS) PHONE CROSSPOINT NORMALLY OFF , SWITCHED CROSSPOINT NORVALLY ON, SWITCHED OFF BOOV 1/2 M8220 BOOM M8524 MATRIX AMPLIFER (24 INPUTS OUTPUTS) SPARE MRELESS MATRIX INPUTS +8 dBm, 600 OHMS 48512 CAMERA M8512 BUFFER AMPLIFIER (12 SECTIONS) CAMERA CAMERA CAMERA FLOOR 1/2 M8220 FLOOR NOTE: TECH DIR FUTURE CARDS ARE NoT SUPPLED_ VTR V7880G LIGHTING AUDiO MDEO MZBBOD PROD DIR [e512 M8524E [ 8 1] E 8 8 9 7 J V 1 8 8 2 2 1 1 1 ~ 8 S @ IFB OUTPUTS FUTURE ISSUE REVSICN APP WBS WARD-BECK SYSTEMS DRN: DRG MATRIX OUTPUTS dBm. 600 OHMS CTS DRAMA STUDIO 24x36 MiniCoM INTERCOM FUNCTIONAL SCALE disc ND: 93032-01-005 ISSUE CODE; 93052F05
+- **Original file:** `WBSps.env/PUBLIC/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/2021-3-17-0-8-20.jpg`
+- **SHA-256:** `3b749703c92ec76176a5b1e8b232c17cbf6e8398baade3f6e99c8f6d53294e5d`
+- **Size:** 21,582,306 bytes
+- **Pages:** 1
+
+## Vectors (traced)
+
+- **Sheet:** functional 93032-01-005, size B (assumed) 432 × 278 mm, 2000 × 1289 px traced (0.216 mm/px)
+- **Ink extent:** 14–420 mm across, 2–276 mm up
+- **Outlines:** line 2,876 rings, 21,082 straight (33,200 mm) / 2,395 curved (3,212 mm); text 193 rings, 1,199 straight (1,130 mm) / 381 curved (498 mm); tb 16 rings, 157 straight (179 mm) / 33 curved (37.8 mm)
+- **Centre lines:** 81,242 paths (130 closed); straight 35,299 mm, curved 24.7 mm; horizontal 9,632 mm, vertical 10,725 mm, diagonal 14,943 mm
+- **Circles and arcs:** 127 circles, 10 arcs; largest r 3.4 @ (130.4, 183.4), r 3.4 @ (168.4, 183.0), r 3.4 @ (143.1, 183.3), r 3.4 @ (231.0, 115.5)
+- **Closed boxes:** 162 (2 in the title block); named: CTS DRAMA  STUDIO 24*36 MiniCOM INTERCOM; 93032- 005
+- **Words (OCR):** 25 in 24 lines: EGEND: · CROSSPCANT NORu · 1/2 V8220 · (24 NRUTS · L4PLIFIEF · SOARC · 000 · puTS · 0222 · GOD ChuS · FLOR · 1/7 V9720
+- **Title block:** (341, 18)–(425, 34) mm: WBS · WARD-BECK SYSTEMS · CTS DRAMA  STUDIO
+- **Wiring (first pass):** 205 connected wire groups from 4,088 runs; labelled ends: 34 mm → WBS; 22 mm → cutputs; 15 mm → FLOR; 15 mm → SOARC; 15 mm → FL007
+
+Every curve, box, word and wire group: [1993 - 93032 - DOC - 93032-01-005 - MDEO MZBBOD PROD DIR (traced).json](1993%20-%2093032%20-%20DOC%20-%2093032-01-005%20-%20MDEO%20MZBBOD%20PROD%20DIR%20%28traced%29.json) (the CAD file: `1993 - 93032 - DOC - 93032-01-005 - MDEO MZBBOD PROD DIR (traced).dxf`).
+
+## Full text
+
+### Page 1 (OCR, spell-checked: 1 words corrected)
+
+```text
+UNITARY PROCRA SOUND INPUTS
+LEGEND:
+(TELOS)
+PHONE
+CROSSPOINT NORMALLY  OFF , SWITCHED CROSSPOINT NORMALLY ON, SWITCHED OFF
+BOOV
+1/2 M8220
+BOOM
+M8524 MATRIX  AMPLIFER (24 INPUTS OUTPUTS)
+SPARE
+MRELESS
+MATRIX INPUTS +8 dBm, 600 OHMS
+48512
+CAMERA
+M8512 BUFFER AMPLIFIER (12  SECTIONS)
+CAMERA
+CAMERA
+CAMERA
+FLOOR
+1/2 M8220
+FLOOR
+NOTE:
+TECH DIR
+FUTURE CARDS ARE NoT SUPPLED_
+VTR
+V7880G
+LIGHTING
+AUDiO
+MDEO
+MZBBOD
+PROD DIR
+[e512
+M8524E
+[ 8 1] E 8 8 9 7 J V 1 8 8 2 2
+1
+1
+1 ~
+8 S
+@
+IFB  OUTPUTS
+FUTURE
+ISSUE
+REVSICN
+APP
+WBS
+WARD-BECK SYSTEMS
+DRN: DRG
+MATRIX OUTPUTS dBm. 600 OHMS
+CTS DRAMA STUDIO 24x36 MiniCoM INTERCOM FUNCTIONAL SCALE disc ND: 93032-01-005 ISSUE CODE; 93052F05
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+UNITARY PROCRA SOUND INPUTS
+LEGEND:
+(TELOS)
+PHONE
+CROSSPOINT NORMALLY  OFF , SWITCHED CROSSPOINT NORVALLY ON, SWITCHED OFF
+BOOV
+1/2 M8220
+BOOM
+M8524 MATRIX  AMPLIFER (24 INPUTS OUTPUTS)
+SPARE
+MRELESS
+MATRIX INPUTS +8 dBm, 600 OHMS
+48512
+CAMERA
+M8512 BUFFER AMPLIFIER (12  SECTIONS)
+CAMERA
+CAMERA
+CAMERA
+FLOOR
+1/2 M8220
+FLOOR
+NOTE:
+TECH DIR
+FUTURE CARDS ARE NoT SUPPLED_
+VTR
+V7880G
+LIGHTING
+AUDiO
+MDEO
+MZBBOD
+PROD DIR
+[e512
+M8524E
+[ 8 1] E 8 8 9 7 J V 1 8 8 2 2
+1
+1
+1 ~
+8 S
+@
+IFB  OUTPUTS
+FUTURE
+ISSUE
+REVSICN
+APP
+WBS
+WARD-BECK SYSTEMS
+DRN: DRG
+MATRIX OUTPUTS dBm. 600 OHMS
+CTS DRAMA STUDIO 24x36 MiniCoM INTERCOM FUNCTIONAL SCALE disc ND: 93032-01-005 ISSUE CODE; 93052F05
+```
+
+</details>
+
+## Contents (JSON)
+
+```json
+{"file":"Consoles/1990-1999/93032 - CTS/1993 - 93032 - DOC - 93032-01-005 - MDEO MZBBOD PROD DIR.jpg","sha256":"3b749703c92ec76176a5b1e8b232c17cbf6e8398baade3f6e99c8f6d53294e5d","kind":"doc","models":["93032"],"year":1993,"pages":1,"order":[{"page":1,"title_block":[{"number":"93032-01-005","type":"functional / block diagram","title":"Mdeo Mzbbod Prod Dir","drawn":"DRG"}],"text":["EGEND:","CROSSPCANT NORu","1/2 V8220","(24 NRUTS L4PLIFIEF","SOARC","000","puTS 0222","GOD ChuS","FLOR","1/7 V9720","FL007","NQIE;","SUPPLED","8","8 cutputs","8 TTURC","WBS WARD-BECK SYSTEMS","CTS DRAMA  STUDIO","24*36 MiniCOM","INTERCOM FUNCTIONAL","93032- 005"]}],"drawing":{"svg":"_traces/3b749703c92ec761.svg","viewBox":[2000,1289],"rotate":0,"number":"93032-01-005","title":"Mdeo Mzbbod Prod Dir","dtype":"01","outlines":"see _traces/3b749703c92ec761.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","centre_lines":"see _traces/3b749703c92ec761.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","blocks":[[528,570,30,47],[558,570,30,47],[646,572,30,47],[704,572,30,48],[792,572,30,47],[822,572,30,48],[880,574,30,47],[938,574,31,48],[998,574,30,47],[1056,574,30,48],[1232,576,30,47],[1262,576,30,48],[1594,1246,43,30]],"words":[[1649,451,"EGEND:"],[1659,479,"CROSSPCANT"],[1732,475,"NORu"],[244,504,"1/2 V8220"],[1755,533,"L4PLIFIEF"],[343,545,"SOARC"],[1681,544,"(24 NRUTS"],[1714,581,"000"],[155,590,"puTS"],[1714,596,"0222"],[150,603,"GOD ChuS"],[328,738,"FLOR"],[241,754,"1/7 V9720"],[330,768,"FL007"],[1639,796,"NQIE;"],[1775,820,"SUPPLED"],[1260,1145,"cutputs"],[1430,1148,"TTURC"],[1621,1179,"WBS"],[1726,1181,"WARD-BECK SYSTEMS"],[1724,1214,"CTS DRAMA  STUDIO"],[1744,1232,"24*36 MiniCOM"],[1709,1249,"INTERCOM FUNCTIONAL"],[1751,1274,"93032-"],[1846,1274,"005"]]}}
+```

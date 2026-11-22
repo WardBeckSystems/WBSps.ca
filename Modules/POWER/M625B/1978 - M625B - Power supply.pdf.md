@@ -1,0 +1,1689 @@
+# 1978 - M625B - Power supply.pdf
+Wiki page: [M625B](../../../PAGES/M625B.md)
+
+
+- **Year:** 1978 (found in this file: "MAY 78")
+- **Module:** M625B
+- **Category:** POWER
+- **Module year estimate:** 1978 — labelled "DATE MAY 78" in PUBLIC/Manuals + tech DOCUMENTS/Modules/M625B - Power Supply/M625B - P015 - LB625-02-003 5.jpg
+- **Original file:** `WBSps.env/PUBLIC/Manuals + tech DOCUMENTS/Modules/M625B - Power Supply/M625B - Power supply.pdf`
+- **SHA-256:** `6cad0d85bdeacbb2f45aa3bd46979068ff285991915fcc647e1e722ca4f540d6`
+- **Size:** 38,882,131 bytes
+- **Pages:** 28
+- **PDF created (scan date, not design date):** Thu Jan 27 01:36:15 2011 EST
+
+## Dates found in this file
+
+- **1978** (month): `MAY 78` — …7 SSMoD CKd; 8 BSSSGEB 3568 L 3624 GEB USED E3S WaAD" (: Dl MAY 78 125. D Ec Ka tols ANa LB FCI…
+- **1978** (month): `MAY 78` — …CR6 IN+4B CR7 23 WVES Wa orelekayet e L DEGE: M6 58 I15/ D MAY 78 125V POwER SUPL CKD EC SCHEMATIe E4 Ttols LB 625 02 ~00 3 S…
+
+## Vectors (traced)
+
+### Page 1
+
+- **Sheet:** drawing, size B (assumed) 432 × 309 mm, 2000 × 1433 px traced (0.216 mm/px)
+- **Ink extent:** 3–432 mm across, 0–294 mm up
+- **Outlines:** line 750 rings, 8,987 straight (24,129 mm) / 1,659 curved (2,790 mm); text 20 rings, 136 straight (126 mm) / 59 curved (82.7 mm)
+- **Circles and arcs:** 3 circles, 0 arcs; largest r 3.4 @ (217.8, 112.7), r 1.7 @ (90.8, 115.1), r 1.2 @ (74.8, 39.6)
+- **Closed boxes:** 2
+- **Words (OCR):** 5 in 5 lines: PCE · Sw · J2 (BLACK) · (RED) · Sw2
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p1 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p1%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p1 (traced).dxf`).
+
+### Page 2
+
+- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1525 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 1–294 mm across, 23–426 mm up
+- **Outlines:** line 84 rings, 1,444 straight (3,309 mm) / 193 curved (284 mm); text 138 rings, 1,282 straight (1,800 mm) / 294 curved (493 mm)
+- **Words (OCR):** 11 in 5 lines: WAAD-EECX sYatema LTD. · WES 341 F=CGFES= AVENLE SCAFECFCLCC SNTAFIC MtF2x: · Ce5-25253 · M625B · POWER SUPPLY
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p2 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p2%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p2 (traced).dxf`).
+
+### Page 3
+
+- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1524 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 1–301 mm across, 14–425 mm up
+- **Outlines:** line 25 rings, 587 straight (2,700 mm) / 68 curved (103 mm); text 907 rings, 6,763 straight (7,459 mm) / 2,000 curved (3,124 mm); tb 25 rings, 206 straight (359 mm) / 34 curved (50.4 mm)
+- **Words (OCR):** 131 in 74 lines: WAAD-BECX Systems LTD_ · TECHNICAL DATA · M6258 POWER · SUPPLY · DC Output: · +25 volts at · Ioad currents · from · to · amperes · Line Regulation: · 0.1%
+- **Title block:** (18, 101)–(275, 425) mm: WAAD-BECX Systems LTD_ · TECHNICAL DATA · M6258 POWER · SUPPLY · DC Output: · +25 volts at · Ioad currents · from · to · amperes · Line Regulation: · 0.1% · for Iine · variations from 105 125 · to · o
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p3 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p3%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p3 (traced).dxf`).
+
+### Page 4
+
+- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1524 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 3–302 mm across, 18–425 mm up
+- **Outlines:** line 50 rings, 830 straight (3,384 mm) / 136 curved (206 mm); text 1,813 rings, 13,222 straight (14,707 mm) / 3,915 curved (6,184 mm); tb 11 rings, 72 straight (78.5 mm) / 17 curved (25.3 mm)
+- **Dots (junctions):** 2
+- **Words (OCR):** 268 in 132 lines: WAAD-BECX Systems LTD_ · CIRcuiT DESCRIPTION · M625B POWER · SUPPLY · The M625B is · +25 volt dc power · supply which is · capable of · delivering currents up · of · t0 · amperes.
+- **Title block:** (20, 166)–(173, 425) mm: WAAD-BECX Systems LTD_ · CIRcuiT DESCRIPTION · M625B POWER · The M625B is · +25 volt dc power · delivering currents up · of · t0 · amperes. · The primary · inding of the power · operation · from 115/2
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p4 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p4%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p4 (traced).dxf`).
+
+### Page 5
+
+- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1524 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 2–300 mm across, 8–424 mm up
+- **Outlines:** line 68 rings, 944 straight (3,242 mm) / 163 curved (255 mm); text 1,521 rings, 11,162 straight (12,318 mm) / 3,266 curved (5,097 mm)
+- **Words (OCR):** 272 in 147 lines: WAAD-BECX Systems LTD, · TEST · SETUP PROCEDURE · M625B · POWER SUPPLY · ~Remove · PCB 1-117 . Check for · ac voltage strapping on · JI _ · ~Apply power · and check for presence · of approximately
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p5 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p5%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p5 (traced).dxf`).
+
+### Page 6
+
+- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1524 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 2–305 mm across, 11–412 mm up
+- **Outlines:** line 77 rings, 906 straight (3,291 mm) / 184 curved (280 mm); text 1,493 rings, 11,371 straight (12,457 mm) / 3,196 curved (4,995 mm)
+- **Dots (junctions):** 1
+- **Words (OCR):** 267 in 130 lines: WAAD-BECX Systems LtD · CTJ · TEST SETUP · PROCEDURE · M625B POWER · SUPPLY · 12) ~Set the · metering switch t0 · +25 and set the · DMM to · CURRENT · range.
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p6 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p6%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p6 (traced).dxf`).
+
+### Page 7
+
+- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1524 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 2–300 mm across, 16–425 mm up
+- **Outlines:** line 56 rings, 766 straight (3,382 mm) / 109 curved (161 mm); text 1,098 rings, 8,226 straight (9,102 mm) / 2,459 curved (3,876 mm)
+- **Words (OCR):** 178 in 112 lines: WAAD-EECX Systems LtD_ · TEST SETUP · PROCEDURE · M625B · POWER · SUPPLY · ~Slowly apply ac · input with · variac. When · the · voltage · reaches
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p7 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p7%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p7 (traced).dxf`).
+
+### Page 8
+
+- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1524 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 2–323 mm across, 15–415 mm up
+- **Outlines:** line 45 rings, 705 straight (2,978 mm) / 109 curved (172 mm); text 510 rings, 3,923 straight (4,335 mm) / 1,103 curved (1,750 mm)
+- **Dots (junctions):** 2
+- **Words (OCR):** 134 in 98 lines: CTJ · WAFC-SECX Systems LTD_ · TEST · & SETUP PROCEDURE · M6258_POWER SUPPLY · Emitter · 35 eil Base 25 · Collector 29*3057 · Aje · 01 · 01 · +L0.0
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p8 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p8%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p8 (traced).dxf`).
+
+### Page 9
+
+- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1524 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 2–308 mm across, 24–426 mm up
+- **Outlines:** line 137 rings, 1,396 straight (3,896 mm) / 257 curved (394 mm); text 598 rings, 4,751 straight (5,459 mm) / 1,386 curved (2,232 mm)
+- **Dots (junctions):** 1
+- **Words (OCR):** 109 in 98 lines: WAAC-BECX Systems LtD_ · PARTS LiST · M625B POWER · SUPPLY · PART DESCRIPTION · MFG PART · NUMBER · MFG · C1 · Capacitor 0.033 · uF/630 · Philips
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p9 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p9%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p9 (traced).dxf`).
+
+### Page 10
+
+- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1524 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 24–329 mm across, 17–425 mm up
+- **Outlines:** line 55 rings, 1,118 straight (3,640 mm) / 157 curved (262 mm); text 343 rings, 2,882 straight (3,160 mm) / 761 curved (1,189 mm); tb 5 rings, 21 straight (17.3 mm) / 1 curved (2.0 mm)
+- **Closed boxes:** 1
+- **Words (OCR):** 72 in 56 lines: ORAW · 72| · PARTS LIST · M6258 POWER · SUPPLY · PART DESCRIPTION · MFG · MFG PART · NUMBER · SW1 · Circuit Breaker · Airpax
+- **Title block:** (32, 46)–(195, 301) mm: T1 · Power Transformer · WBS · Regulator PCB slooiom · 2-27 · 05-Jh · 2,0 · 2.0 · 35-27 · WBS recommends · the use · ofreplacement parts · manufacturers for · continued optimum equipment performance .
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p10 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p10%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p10 (traced).dxf`).
+
+### Page 11
+
+- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1524 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 2–306 mm across, 13–423 mm up
+- **Outlines:** line 52 rings, 734 straight (3,101 mm) / 113 curved (173 mm); text 2,284 rings, 16,655 straight (18,119 mm) / 4,850 curved (7,546 mm); tb 3 rings, 15 straight (14.2 mm) / 4 curved (5.2 mm)
+- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.7 @ (161.1, 64.4)
+- **Words (OCR):** 363 in 177 lines: WAAD-BECX Systems LTD: · CIRcUIT DESCRIPLION · 1-117 · REGULATOR BOARD · The 1-117 Regulator is · printed circuit board unit. It is · used in · of WBS Power · Supp lies and contains the · majority of the · number · active
+- **Title block:** (20, 311)–(148, 424) mm: WAAD-BECX Systems LTD: · 1-117 · The 1-117 Regulator is · of WBS Power · number · active · circuitry of these units esn
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p11 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p11%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p11 (traced).dxf`).
+
+### Page 12
+
+- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1524 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 28–304 mm across, 16–412 mm up
+- **Outlines:** line 18 rings, 623 straight (2,818 mm) / 77 curved (112 mm); text 496 rings, 3,845 straight (4,221 mm) / 1,096 curved (1,707 mm)
+- **Words (OCR):** 208 in 144 lines: WAAD-BECX SystEMs LtD_ · CIRcUIT DESCRIPTION · 4-417 REGULATOR · BOARD · Overvoltage protection provided by · crowbar · SCR 09 The · sensing · is · networks · consisting of · 07
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p12 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p12%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p12 (traced).dxf`).
+
+### Page 13
+
+- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1524 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 1–304 mm across, 0–432 mm up
+- **Outlines:** line 151 rings, 1,422 straight (4,050 mm) / 250 curved (380 mm); text 662 rings, 5,387 straight (6,189 mm) / 1,563 curved (2,500 mm)
+- **Words (OCR):** 148 in 138 lines: WAAD-BECX Systems LtD; · PARTS LIST · 1-117 REGULATOR BOARD · PART DESCRIPIION · MFG · MFG PART · NUMBER · C1 · Capacitor · 2200 · pF · Aselco
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p13 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p13%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p13 (traced).dxf`).
+
+### Page 14
+
+- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1524 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 31–323 mm across, 12–410 mm up
+- **Outlines:** line 97 rings, 1,175 straight (3,628 mm) / 187 curved (281 mm); text 757 rings, 6,108 straight (6,921 mm) / 1,790 curved (2,830 mm)
+- **Words (OCR):** 171 in 149 lines: WAAD-BECX SYSTEMs LTD; · PARTS LIST · 1-117 · REGULATOR BQARD · ~AAO · 07m · PART DESCRIPTION · MFG · MFG · PART NUMBER · NS · 701.J606 7
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p14 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p14%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p14 (traced).dxf`).
+
+### Page 15
+
+- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1524 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 1–317 mm across, 15–423 mm up
+- **Outlines:** line 45 rings, 922 straight (3,462 mm) / 109 curved (176 mm); text 499 rings, 3,971 straight (4,526 mm) / 1,168 curved (1,836 mm); tb 32 rings, 153 straight (160 mm) / 39 curved (57.4 mm)
+- **Words (OCR):** 79 in 60 lines: WAAD-BECX SysTems LTD. · PARTS LiST · 1-117 REGULATOR BOARD · PART DESCRIPTION · MFG · MFG PART · NUMBER · R36 · Resistor 1/4w 5% · delete · R37 · delete
+- **Title block:** (22, 70)–(151, 421) mm: WAAD-BECX SysTems LTD. · PART DESCRIPTION · R36 · Resistor 1/4w 5% · R37 · R38 · R39 · Trim pot · RLo · Resistor 1/4w 5% · R42 · 1K · R43 · R4b · R45 · 1k · R46 · 10K · R47 · 1K · R48 · 10K · R4g · 4K
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p15 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p15%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p15 (traced).dxf`).
+
+### Page 16
+
+- **Sheet:** assembly 014 05 013, size B (assumed) 329 × 432 mm, 1525 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 0–329 mm across, 0–432 mm up
+- **Outlines:** line 7,485 rings, 54,302 straight (41,614 mm) / 13,343 curved (13,795 mm); text 594 rings, 4,574 straight (4,280 mm) / 1,136 curved (1,502 mm)
+- **Circles and arcs:** 10 circles, 0 arcs; largest r 2.2 @ (135.7, 298.2), r 2.2 @ (156.5, 289.0), r 2.2 @ (156.7, 298.7), r 2.1 @ (156.3, 318.4)
+- **Closed boxes:** 1; named: 16
+- **Dots (junctions):** 2
+- **Words (OCR):** 82 in 72 lines: HSv AC · POWER · SUPPLX · sol6o4z MOUNIING · IBAX · 08 016 · 07 · 20 · 30 · +25v · 06 · 014
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p16 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p16%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p16 (traced).dxf`).
+
+### Page 17
+
+- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1525 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 0–329 mm across, 0–432 mm up
+- **Outlines:** line 1,522 rings, 11,986 straight (11,736 mm) / 2,582 curved (3,111 mm); text 534 rings, 5,674 straight (6,561 mm) / 1,297 curved (2,018 mm)
+- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.0 @ (7.8, 347.2)
+- **Closed boxes:** 2; named: RED
+- **Words (OCR):** 69 in 56 lines: Sw | · CRI · ciecuit BREAKER} (80 · PBgo · 21 · FI · BR · RED · 7a · 62 · ~Haoov · C3
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p17 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p17%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p17 (traced).dxf`).
+
+### Page 18
+
+- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1525 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 0–329 mm across, 8–432 mm up
+- **Outlines:** line 2,609 rings, 19,701 straight (18,475 mm) / 4,179 curved (4,881 mm); text 263 rings, 2,911 straight (3,275 mm) / 698 curved (1,036 mm)
+- **Circles and arcs:** 4 circles, 0 arcs; largest r 2.1 @ (297.9, 215.1), r 2.1 @ (305.8, 222.5), r 2.0 @ (147.1, 397.6), r 1.4 @ (282.5, 328.4)
+- **Closed boxes:** 8; named: 35SS); 3568
+- **Dots (junctions):** 2
+- **Words (OCR):** 48 in 48 lines: CRZ · IN4003 · R4 · C2 · 218772 · R7 · 05 · 0I · 2ow · 2N3772 · 7A · 2k2
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p18 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p18%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p18 (traced).dxf`).
+
+### Page 19
+
+- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1525 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 0–329 mm across, 12–422 mm up
+- **Outlines:** line 2,630 rings, 21,320 straight (19,401 mm) / 3,961 curved (4,750 mm); text 201 rings, 2,131 straight (2,343 mm) / 539 curved (798 mm)
+- **Circles and arcs:** 12 circles, 0 arcs; largest r 3.0 @ (75.6, 203.6), r 2.8 @ (30.9, 203.5), r 2.5 @ (130.9, 204.0), r 2.4 @ (175.7, 204.5)
+- **Closed boxes:** 22; named: MATL; 3568]+; FINT; GEB; 3624; tols
+- **Dots (junctions):** 1
+- **Words (OCR):** 33 in 31 lines: Pe · 12 · CR8 · TMR 751 · DS1 · 56 · 2k2 · 3W · Cr9 · MR 751 · Sw28 · SWZA Ce
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p19 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p19%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p19 (traced).dxf`).
+
+### Page 20
+
+- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1525 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 0–329 mm across, 10–425 mm up
+- **Outlines:** line 2,620 rings, 19,081 straight (16,398 mm) / 3,785 curved (4,330 mm); text 158 rings, 1,771 straight (2,022 mm) / 422 curved (629 mm)
+- **Circles and arcs:** 7 circles, 0 arcs; largest r 2.4 @ (21.4, 204.9), r 2.4 @ (66.1, 205.2), r 2.3 @ (211.9, 350.0), r 2.2 @ (43.0, 228.4)
+- **Closed boxes:** 5; named: 36 13 910; tols
+- **Words (OCR):** 28 in 26 lines: Pe · CR& · MR 751 · #COM · 36 · 13 · Cr9 · MR751 · 910 · Sw28 · CR7 · IN++B
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p20 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p20%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p20 (traced).dxf`).
+
+### Page 21
+
+- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1525 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 0–329 mm across, 3–426 mm up
+- **Outlines:** line 2,287 rings, 23,100 straight (32,063 mm) / 5,261 curved (6,081 mm); text 28 rings, 149 straight (159 mm) / 47 curved (70.6 mm)
+- **Circles and arcs:** 4 circles, 0 arcs; largest r 4.4 @ (307.8, 156.6), r 3.0 @ (308.1, 156.2), r 2.3 @ (231.1, 215.5), r 2.1 @ (308.4, 155.9)
+- **Words (OCR):** 6 in 6 lines: C1 · Rib · R14 · 1-M17 PcB · Pz · R4
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p21 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p21%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p21 (traced).dxf`).
+
+### Page 22
+
+- **Sheet:** component layout 615-06-002, size B (assumed) 329 × 432 mm, 1525 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 0–327 mm across, 0–418 mm up
+- **Outlines:** line 13,682 rings, 78,305 straight (58,159 mm) / 22,745 curved (20,795 mm); text 42 rings, 325 straight (330 mm) / 121 curved (128 mm); tb 80 rings, 496 straight (370 mm) / 147 curved (136 mm)
+- **Circles and arcs:** 2 circles, 0 arcs; largest r 4.3 @ (28.7, 156.8), r 2.0 @ (29.4, 156.2)
+- **Closed boxes:** 3 (2 in the title block)
+- **Dots (junctions):** 2
+- **Words (OCR):** 13 in 12 lines: R2 · Rs · Jz (BLACK) · (RED) · Meo · 4862 · JSsu DATE · {REvISKON · WBS · 3w2 · 7m6758 · 625-067U0
+- **Title block:** (222, 26)–(274, 59) mm: JSsu DATE · WBS
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p22 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p22%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p22 (traced).dxf`).
+
+### Page 23
+
+- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1525 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 0–329 mm across, 0–432 mm up
+- **Outlines:** line 123 rings, 3,854 straight (8,815 mm) / 553 curved (1,038 mm); text 253 rings, 2,380 straight (2,992 mm) / 700 curved (1,264 mm)
+- **Circles and arcs:** 12 circles, 0 arcs; largest r 19.0 @ (229.6, 264.4), r 3.1 @ (321.7, 163.9), r 3.1 @ (322.1, 177.8), r 3.0 @ (206.8, 265.0)
+- **Closed boxes:** 3
+- **Dots (junctions):** 2
+- **Words (OCR):** 61 in 56 lines: Series · CUrRENT · REG BASE · Limit · +25v · 21 · 20 · Rg · +40V 22 · 75 · rio · MJE
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p23 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p23%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p23 (traced).dxf`).
+
+### Page 24
+
+- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1525 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 0–329 mm across, 0–432 mm up
+- **Outlines:** line 97 rings, 3,741 straight (9,139 mm) / 506 curved (1,015 mm); text 321 rings, 2,947 straight (3,691 mm) / 830 curved (1,424 mm)
+- **Circles and arcs:** 10 circles, 0 arcs; largest r 19.2 @ (56.8, 170.3), r 3.2 @ (43.5, 189.7), r 3.2 @ (34.6, 178.1), r 3.2 @ (42.3, 152.0)
+- **Closed boxes:** 2
+- **Words (OCR):** 67 in 64 lines: C3 · Rib · Ri7 · 470k · 27k · 1/s5 · Co · Rib Rzo · DIFADJ- · Sk 2k7 · 100/40 · Ris
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p24 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p24%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p24 (traced).dxf`).
+
+### Page 25
+
+- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1525 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 0–329 mm across, 0–432 mm up
+- **Outlines:** line 73 rings, 2,560 straight (5,750 mm) / 314 curved (469 mm); text 115 rings, 1,065 straight (1,338 mm) / 318 curved (519 mm)
+- **Words (OCR):** 31 in 29 lines: 15 · 13 · 14 · R27 · R32 ~ · iOk · 24k · R28 · R38 · R3o · R33 · 63
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p25 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p25%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p25 (traced).dxf`).
+
+### Page 26
+
+- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1525 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 0–329 mm across, 0–430 mm up
+- **Outlines:** line 105 rings, 2,800 straight (8,154 mm) / 363 curved (638 mm); text 481 rings, 4,316 straight (5,771 mm) / 1,130 curved (1,935 mm); tb 19 rings, 201 straight (405 mm) / 41 curved (68.7 mm)
+- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.6 @ (280.5, 139.4)
+- **Closed boxes:** 20 (6 in the title block); named: 4036; 0182; CR 3 ADDED; 10/78; 1-117 - 02 001; SCALE; LB
+- **Words (OCR):** 70 in 55 lines: NOTES · ALL RESISTORs ARE IN V4 W · 5e · AND ALL CAPACiTors · UNLESS · SPECIFIED OTHERWISE · LAST · comPonenT DESIGNATIONS · C12 · CR8, Q9 , Rs0 22 · R47 · Ci2
+- **Title block:** (126, 13)–(329, 114) mm: Scr (ircuit ADDED · REVISION · ISSUE |DATE · WBS WARD-BECK · SYSTEME · DRN: MRW 6/78 · 1-117 · ENG_ MRW · REGULATOR BOARD · CKD: Rm · SCHEMATIC · APP · ISSUE · SCALE · LB 1-117 - 02 001
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p26 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p26%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p26 (traced).dxf`).
+
+### Page 27
+
+- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1525 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 0–329 mm across, 2–421 mm up
+- **Outlines:** line 3,791 rings, 29,677 straight (27,722 mm) / 7,517 curved (8,676 mm); text 228 rings, 1,939 straight (2,158 mm) / 623 curved (902 mm)
+- **Circles and arcs:** 19 circles, 0 arcs; largest r 10.8 @ (119.1, 255.5), r 10.2 @ (193.3, 254.8), r 9.0 @ (267.4, 159.4), r 8.9 @ (230.1, 159.6)
+- **Closed boxes:** 5; named: 04; 01 MUE 2901; Ria; Rie; 09 2n6395
+- **Dots (junctions):** 2
+- **Words (OCR):** 65 in 57 lines: 04 · 01 · MUE 2901 · Ria ADJ · Rie DIF ADJ · s0o · Sk · R2s22 · RIs %4 · RAIIK · Rwolu · -R24 J59
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p27 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p27%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p27 (traced).dxf`).
+
+### Page 28
+
+- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1525 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 0–328 mm across, 0–421 mm up
+- **Outlines:** line 4,957 rings, 36,597 straight (32,048 mm) / 8,773 curved (9,596 mm); text 226 rings, 1,838 straight (1,935 mm) / 567 curved (831 mm); tb 111 rings, 945 straight (824 mm) / 219 curved (228 mm)
+- **Circles and arcs:** 9 circles, 0 arcs; largest r 10.2 @ (28.8, 256.1), r 9.0 @ (103.1, 160.5), r 9.0 @ (103.1, 182.6), r 9.0 @ (65.6, 160.7)
+- **Closed boxes:** 12 (10 in the title block); named: Rie
+- **Words (OCR):** 62 in 55 lines: MJE 2301 · Rie DIf ADJ · 5k · Rwolu · 0 +015 · 0is · -R7 1 · Re * · 520037 · C6 · LM3OS · 2NSA5
+- **Title block:** (190, 3)–(329, 81) mm: Hal · 4eo3 · Ion CR 8 Aooed · 6/78 · RE-DRAWN · ISSUE DATE · REVISION · APR · WBS WARDEECKSY3TEMB · DRN. Mrw 0/78 · IZ · ENG_ Mrw · REGULATOR BOARD · CKD_ · COMPONENTLAYQUT · APP · SCALE · F17-06*001
+
+Every curve, box, word and wire group: [1978 - M625B - Power supply p28 (traced).json](1978%20-%20M625B%20-%20Power%20supply%20p28%20%28traced%29.json) (the CAD file: `1978 - M625B - Power supply p28 (traced).dxf`).
+
+## Full text
+
+### Page 1 (OCR)
+
+```text
+Lu7 PCE
+DSi
+(BLACK)
+(RED)
+3w2
+```
+
+### Page 2 (OCR)
+
+```text
+WAAD-EECX Syatema Lto 541 FECSFEEE ZVenLe_ SC-FECFCLC- SNZFC MtFax- 72l* 2e5-23355 FeleS-CNE 48.238-8382
+WE=
+M625B POWER SUPPLY
+```
+
+### Page 3 (OCR, spell-checked: 4 words corrected)
+
+```text
+LAnC ZECX EYSTEME
+TECHNICAL DATi
+M5z32 BolIaSUPPL_
+Juinn
+cureereg
+mpmear
+Acgulatian:
+Ual
+rezpcctvely .
+Kea
+arlatlone
+Ripolo
+mlcrycm conditions #ecutlcd above;
+Intrns
+dance
+Jariora
+Rinunes Kermup
+Omatectiot
+icucrcnt Jyarvoilg
+short circuit
+Adecl
+Indu :
+Tr/27m
+rom 7 eeHTTTLT ice pcNI:
+emctri Damnensionse
+Jeocee_ Celglus
+Catch EulAr.
+eah
+Acl
+mauniing Orantin accononee Meze3 Pew Lieacsi
+Hite?
+I-
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+LAnC ZECX EYSTEME
+TECHNICAL DATi
+M5z32 BolIaSUPPL_
+Juinn
+cureereg
+mpmear
+Acgulatian:
+Ual
+rezpcctvely .
+Kea
+arlatlone
+Ripolo
+mlcrycm conditians #ecutlcd above;
+Intrns
+dance
+Jariora
+Rinunes Kermup
+Omatectiot
+icucrcnt Jyarvoilg
+ghort circut
+Adecl
+Indu :
+Tr/27m
+rom 7 eeHTTTLT ice pcNI:
+emctri Damnensionse
+Jeocee_ Celglus
+Cathc EulAr.
+eah
+Acl
+mauniing Orantin accononee Meze3 Pew Lieacsi
+Hite?
+I-
+```
+
+</details>
+
+### Page 4 (OCR, spell-checked: 18 words corrected)
+
+```text
+WAAC DECX SYSTEMS
+Scull "MESCRAA
+AGe POWE
+cupely
+MFAR
+DowG- Wupp LITE ureto
+AniCre
+cpeblc
+ceverina currim[a
+Macy operation
+cowcr
+insocnt ac==
+Juziunud
+41522 cridje cecatier Jilier cepacilor Aecencur miraind  unresbialed altpui rncax - MAE roie regulator (rensisroc [ogether prime rsjulatcr circ_ic HACu7 ~printed Giccania CAr anaialta provide regulntas Duzueb HRAART Cannectar
+Conneciad Julale
+OLLPUI
+ndicmLur
+PrARHNcI
+citages .
+Meer Provided
+a4Itch 1872) together Troni 04n & AUPPIZ
+Meter cicrina
+acke
+cuipui
+dainal Po Ncr Lcclt checead
+Qurdu oeon curtenis Teluind Feat,
+Function
+SiTC Positive
+funcTiCA CONVERSION FACTOR
+Main 0Fa current ~oliayu cfiee Voltage Coitanc Dirrrn
+cucreng Curtani Ycltage Curceni Lurthr
+4
+ofrect
+Meaurine rasiivc coll4at iskccN petition Neaeine ndicale yoilaam Wnmn Meesurino Dony ouiput Current Wmcr reading cdicaa Fe 062se peaiticn, Metro Jilfarentiai Vollage ~belwaon p"v8 neqatye Euppy Yoltagcs Gifierentla Yoltagc Aissibie:
+~DecIlor
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+WAAC DECX GYStEMs
+SculI "MESCRAA
+AGe POWE
+cupely
+MFAR
+DowG- Wupp ULITe ureto
+AniCre
+cpeblc
+ceverina currim[a
+Macy operatien
+cowcr
+insocnt ac==
+Juziunud
+41522 cridje cecatier Jilier cepacilor Aecencur miraind  unresbialed altpui rncax - MAE roie regulator (rensisroc [ogether primg rsjulatcr circ_ic HACu7 ~prinied Giccania CAr anaialta provide regulntas Duzueb HRAART Cannectar
+Conneciad Julale
+OLLPUI
+ndicmLur
+PrARHNcI
+citages .
+Meer Orovided
+a4Itch 1872) togeteer Troni 04n & AUPPIZ
+Meger cicrina
+acke
+cuipui
+dainal Po Ncr Lcclt checead
+Qurdu oeon curtenis Teluind Feat,
+QunctiON
+SiTC Positice
+funcTiCA COVVERSION FACTOR
+Mainc 0Fa cucrent ~oliayu cfiee Doltage Coitanc Dirrrn
+cucreng Curtani Ycltage Curceni Lurthr
+4
+ofrect
+Meaurine rasiivc coll4at iskccN petilion Neaeine ndicale yoilaam Wnmn Meesurino Dony ouiput Current Wmcr reaoing cdicaa Fe 062se peaiticn, Metrc Jilfarentiai Vollage ~belwaon p"v8 neqatye Euppy Yoltagcs Gifierentla Yoltagc Aissibie:
+~DecIlor
+```
+
+</details>
+
+### Page 5 (OCR, spell-checked: 4 words corrected)
+
+```text
+~VAFD BEcX Ratete LTE;
+ahEtzye KJab-JAAV]
+TEST MW ProCldukC Kiye Jouia SuppLY
+-Rumdvu
+I-M17 Check
+yoltanc Strand
+-Annly Ravhr chec presence cuDUs edes Fuecs
+epproilmtely
+-Ketoce aver Jicing Deer upply|
+Firsiail Uetoara Comotementac
+HEtt detoclor.
+Jsat
+Wingia
+Luonor
+JbIpUI poker Smt~ uring ulatlon Reduce Ycitan
+Addiy
+Haian 377 (right
+Rmmave En Insin Facing Dewhr JLpply/
+OuIDUI uqhon Detore
+BulprC
+chauld
+#ottanc rcacies
+~Rwmeve Bawe . Re7o jumper
+(-117.
+chec< sulnut 70la9u? cenuator Ccrteciy c shcald Wnin dprxmA Emy CufT : 1dim Caae Ioktr Buladi COUSC WcN7 elalize Atereatiat Detarat poltanc; (mpertare lget lcunlicmi OCCR_ 40/agce
+Th-ine aon Tcon noie Jac 4alut cillbratlor control (-1177 uht
+OfFset
+Ji]2 €2
+unoe-
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+~VAFD BEcX Ratete LTE;
+ahEtzye KJab-JAAV]
+TEST MW ProCldukC Kiye Jouia SuppLY
+-Rumdvu
+I-M17 Check
+yoltanc Stradd
+-Annly Ravhr chec presence cuDUs edes Fuecs
+epproilmtely
+-Ketoce aver Jicing Doeer upply|
+Firsiail Uetoara Comotementac
+HEtt detoclor.
+Jsat
+Wingia
+Luonor
+JbIpUI poker Smt~ uring ulatlon Reduce Ycitan
+Addiy
+Haian 377 (kight
+Rmmave En Insin Jacing Dewhr JLpply/
+OuIDUI uqhon Detore
+BulprC
+chauld
+#ottanc rcacies
+~Rwmeve Bawe . Re7o jumper
+(-117.
+chec< sulnut 70la9u? cenuator Ccrteciy c shcald Wnin dprxmA Emy CufT : 1dim Caae Ioktr Buladi COUSC WcN7 elalize Atereatiat Detarat poltanc; (mpertare lget lcunlicmi OCCR_ 40/agce
+Th-ine aon Tcon noie Jac 4alut cillbratlor control (-1177 uht
+OfFset
+Ji]2 €2
+unoe-
+```
+
+</details>
+
+### Page 6 (OCR, spell-checked: 15 words corrected)
+
+```text
+7 ===
+WAFC DLCt 9797848
+IL STuP DooceduRE
+"5z58 PCNzp suppLY
+Metering switch
+current
+Caaeh_ AGus
+orating cotirc
+-lizi
+mu lerira etet callbratlgo control
+(1-117)
+Doder, -Connect ammaan belwHune -Sloals apply DoNGr Ciriee
+Gecies
+Ooberye
+curtett,
+Change resin Sie 4f37 port odgerve
+Elrrint.
+ahauo Aabie
+Featuring (hler aplua Meter Jack Cidiual Kanictaian centno
+~izi
+reedino
+Mercrina -adler ctlibra
+LLTI[F
+(1-1I71
+reading
+~Rumeve t[erint Rnk Elcaye armcter circuli ceolcT reisianc Foldbeck current Mmmting should Robrdxin hcif Circui Juanut should
+~Opecote Ceeaete
+JuDo" Anoine Acran Ogcose
+curter Aholt rermra Noise Anduio Dcillo copc Check Jogui&0
+thin gecilatIona_
+-rwindva ~Using
+rua#[ai
+Knori Gmter
+cccctor
+~Piaek
+Volner Mecosy
+cntour
+Mea
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+7 ===
+WAFC DLCt 9797848
+IL STuP DooceduRE
+"5z58 PCNzp suppLY
+Tetering saitch
+current
+Caaeh_ AGus
+orating cotirc
+-lizi
+mu lerira etet callbratlgo controi
+(1-117)
+Doder, -Conncct ammaan belwHune -Sloals apply DoNGr Ciriee
+Gecies
+Ooberye
+curtett,
+Chinge resin Sie 4f37 portr odgerve
+Elrrint.
+ahauo Aabie
+Eaturing (hler aplua Meter Jacke Cidiual Kanictaian centno
+~izi
+reedino
+Mercrina -adlur ctlibra
+LLTI[F
+(1-1I71
+readino
+~Rumeve t[erint Rnk Elcaye armcter circuli ceolcT reisianc Foldbeck current Mmmting shculd Robrdxin hcif Circui Juanut chould
+~Opecote Ceeaete
+JuDo" Anoine Acran Ogcose
+curter Aholt rermra Noine Anduio Dcillo copc Cieck Jogui&0
+thin gecilatIona_
+-rwindva ~Ubing
+rua#[ai
+Knori Gmter
+cccctor
+~Piaek
+Volner Mecosy
+cntour
+Mea
+```
+
+</details>
+
+### Page 7 (OCR, spell-checked: 10 words corrected)
+
+```text
+OUD
+Eyetems LtD
+4-50
+S3tup prOCcEduAE
+M6282 3owez SUPPLY
+"Shca
+apply Vutiac- Awitan 5otag8 Fcolnies Jccclmtclt volts; "croedaF (1-[171 should short cicult Ihe Supply DIRU_ neamive oudug SUooy
+Metering OFFSET Meter Markaa S_Nen WCTAGE Doker udpy ar-IudtLen (I Conngcl remote chang Ganeine atolio Caceco
+VOLtCE Cobet
+Toioino 40tadce diricng rei unreauii choulc
+ypie
+ablaingc Jomuaze Mimeter volt
+ollact Mnlarrek
+M6232
+Franti
+Fmillur
+Colledio ~
+LlZi
+3iz,Co
+LAco
+Lad DE
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+OUD
+Eyetems LtD
+4-50
+S3tup prOCcEduAE
+M6282 3owez SupPLX
+"Shca
+apply Vutiac- Awitan 5otag8 Fcolnies Jccclmtclt volts; "croedaF (1-[171 snould ghort cicult Ihe Jupply DIRU_ neamive oudug SUooy
+MeterIno OFfSFT Methr Markaa S_Nen WCTAGE Doker udpy ar-IudtLen (I Conngcl remoye chang Ganeine atolio Caceco
+VOLtCE Cobet
+Toioino 40tadce diricng rei unreauii choulc
+ypie
+ablaingc Jomuaze Mimeter nvolt
+ollact Mnlarrek
+M6232
+Franti
+Fmillur
+Colledio ~
+LlZi
+3iz,Co
+LAco
+Iad DE
+```
+
+</details>
+
+### Page 8 (OCR, spell-checked: 1 words corrected)
+
+```text
+WAAC Be2* Stst3ME
+3535 SALY
+Test JEtuF #DCEDURE
+46250 PUMCP SUPPL~
+Miter
+Coecio
+C40 0
+4t _"4
+-Kemo Drpeieing
+"c@i criror raise Unpui Teanectue unndin epprorimately pamur ELppl mineina reattian under
+oaot ~Che
+Oiticns
+otjol -
+7' | _ [
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+WAAC Be2* Stst3ME
+3535 SALY
+Test JEtuF #DCEDURE
+46250 PUMCP SUPPL~
+Emiter
+Coecio
+C40 0
+4t _"4
+-Kemo Drpeieing
+"c@i criror raise Unpui Teanectue unndin epprorimately pamur ELppl mineina reattian under
+oaot ~Che
+Oiticns
+otjol -
+7' | _ [
+```
+
+</details>
+
+### Page 9 (OCR, spell-checked: 7 words corrected)
+
+```text
+WAFC DECX systene
+Jias
+HRSE POWER supply
+UFECA F
+Paki HUMALK
+Capacitor
+0,01: u/670 Jf/coc 601 Uf/50
+chips
+201CC4j1k 2e1CCA1oCK Ccsoo_uoscofe
+accy
+Recthficr EsbcMo~ place
+8
+Motorola
+TNLOJS
+Diode
+He
+Mglarcin
+MRSi
+Aaecol 
+Littelitcs
+9Co_1G0X,_O7ZRM
+LItteltuee
+J12.007
+Taneinon
+Uelarc
+7NJT7?
+1 saelu Ke_Igtor 3
+HL-zo
+HL- O
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+WAFC DECX systene
+Jias
+HRSE POHER qupply
+UFECA F
+Paki HUMALK
+Capacitcr
+0,01: u/670 Jf/coc 601 Uf/50
+crips
+201CC4j1k 2e1CCA1oCK Ccsoo_uoscofe
+accy
+Recthficr EsbcMo~ plcce
+8
+Hotorola
+TNLOJS
+Diodo
+He
+Mglarcin
+MRSi
+Aaecol 
+Littelitcs
+9Co_1G0X,_O7ZRM
+LItteltuee
+J12.007
+Taneinon
+Uelarc
+7NJT7?
+1 saelu Ke_Igtor 3
+HL-zo
+HL- O
+```
+
+</details>
+
+### Page 10 (OCR, spell-checked: 2 words corrected)
+
+```text
+LIED EEC Etattt
+PARIS LEI 46258 POWER SuppLY
+Can
+DESCRiPtioN
+MFC PART humbER
+@iczui Braa Paler + acer
+Kicper
+USe @-DUA_JI-I Pe4_2nT
+00-21
+Acnllelor
+recottende M4a Liacluryr $
+Caaiacetnlanti md
+epeciticc centinuso Odnml7 rnidest Dettortance
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+LUIEd EEC Etattt
+PARIS LEI 46258 PCWER SuppLY
+Can
+DESCRiPtioN
+MFC PART humbER
+@iczui Braa Paler + acer
+Kicper
+USe @-DUA_JI-I Pe4_2nT
+00-21
+Acnllelor
+recottende M4a Liacluryr $
+Caaiacetnlanti md
+epeciticc centinuso Odnml7 rnidest Dettortance
+```
+
+</details>
+
+### Page 11 (OCR, spell-checked: 17 words corrected)
+
+```text
+LNED BECY Altnertane
+Cl $ = 4
+circuIT desisiptic
+LWZAESULATOR AC4A0
+Relulcion Dciniet cccu Doant numde Pow er Supplies contoing Aclivu crcuilrt aau
+ma city
+clJaac gier Transetor annin inetn curate imieine cdek circuit. #cl[oq Cross Current Cn4asf Col eden Az/Ru. Auinniy ructeni enprox Amprrer YbRek Tcren filing SUPPL> cndu Baorieg cucti7 F Himilud "ppruximEuly fi Ut n. 3 Adbacl aunaing Drougni Main frameyla connesior Vo jnc dvioer consisting Denial Lutrlnt Rnttive Lariet tram Cocdecton
+renulaior Treneisic > thruah nuannivu cennecle By varying Otout ~ditage centre Smnulean~Jlrit neendiv 7olige cicer urDu valiag# dict probcrLianally ~cptration poshilve Nesutive Jo(0drd Iceck
+40i *a valtoge
+differential coninji decrz0bins crer.
+Kclusting
+increase
+Ealar naial
+operate N-uativg 34toz" Rhrieh ruqulltor connector
+C7Je
+Frae
+Tmnnictar ApkCi Current sen3ing relso Ici prereterminud Jele;
+449i Mi4pcc ramel lnddal TeG
+cugter Ocice
+Gcns Oudunt Waer_ Tflzd radultina buice Cniehud uveni either Gupdy Volasr Dtzrne nenconeucve In+rcd ceterence cunten causing reametcti
+CN7_-I
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+LNED BECY Altnertane
+Cl $ = 4
+circuIT desisiptic
+LWZAESULATOR AC4A0
+Relulcion Dciniet cccu Doant numde Pow er Supolies contoing Aclivu crcuilrt aau
+ma ccity
+clJaac gier Transetor annin inetn curtte imieine cdek ciruit. #cl[oq Crose Current Cn4asf Col eiden Az/Ru. Auinniy ructeni enprox Amprrer YbRek Tcren miling SUPPI> cndu Baorieg cucti7 F Himilud "ppruximEuly fi Ut n. 3 Adbacl aunaing Drougni Main frameyla connesior Vo jnc dvioer ccnsisting Cenial Lutrlnt Rnttive Lariet tram Cocdecton
+renulaior Treneisic > thruah nuannivu cennecle By verying Otout ~ditage contre Smnulean~Jlrit neendiv 7olige cicer urDu valiag# dict probcrLianally ~cptration poshilve Nesutive Jo(0drd Iceck
+40i *a valtoge
+ditferential coninji decrz0bins crer.
+Kclusting
+increase
+Ealar naial
+operateo N-uativg 34toz" Rhrieh ruqulltor connecior
+C7Je
+Frae
+Tmnnictar ApkCi Cunrrent sen3ing relso Ici prereterminud Jele;
+449i Mi4pcc ramel lnddal TeG
+cugter Ocice
+Gcns Oudunt Waer_ Tflzd radultina buice Cniehud uveni either Gupdy Volasr Dtzrne nenconeucve In+rcd ceterence cunten causins reametcti
+CN7_-I
+```
+
+</details>
+
+### Page 12 (OCR, spell-checked: 3 words corrected)
+
+```text
+WAFC-dECX BYETZME
+H3n
+7PE h
+SAcULI_DEECAIPTLON LZEEULATOR_BOARD
+Ovaryolias orjiestlor Wua Ndtrn ccntitting Dositye Kaher 4429e rir fFari Gtie
+Cro Nda
+ganging
+negative JUfoly yolteges approximately vJlla hupp"_
+ehculo
+Verccing einorks ccosisting 4L95B
+[hcouan
+Umzec
+Lu7 S
+Drovldin
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+WAFC-dECX BYETZME
+H3n
+7PE h
+SAcULI_DEECAIPTLON LZEEULATOR_BOARD
+Ovaryolias orjiestlor Wua Ndtrn ccntitting Dositye Kaher 4429e rir fFari Gtie
+Cro Nda
+genging
+negetive JUfoly yolteges appruximately vJlla hupp"_
+ehculo
+Verccing einorks ccosisting 4L95B
+[hcouan
+Umzec
+Lu7 S
+Drovldin
+```
+
+</details>
+
+### Page 13 (OCR, spell-checked: 5 words corrected)
+
+```text
+WAAD-BECX EYSTEME
+7FL'
+Parts
+I-017 REGULATOR OCAAC
+Cescriptict
+Mivbfa
+Capacilar
+CCaz-MC-ZzU 6993-MC-1534 IL-EK Tabcciokojie Co92-MC-I5zM
+2 8
+pkiar
+UF/I
+Aelcc
+UF{LO
+4zgetc120
+uF /63 C4eLL 0.0is
+Lrothiz
+Aeelco
+Con _UC_IM
+Uf/25
+Fnp
+4Z011022
+diadi
+niccaila
+Wl
+WnSahbA
+Lens- dele c
+Jojctola
+MaLnc
+IRL75I/-
+JALMLI
+Trans [er
+MJEZSO" 3N3645
+aniant
+Mclaria
+Dufjant ZNLDJT
+ZN-nis Zhcon
+Motorola
+3N6J35
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+WAAD-BECX EYSTEME
+7FL'
+PiRts
+I-017 REGULATok OCAAC
+Cescriptict
+Mivbfa
+Capacilar
+CCaz-MC-ZzU 6993-MC-1534 IL-EK Tabcciokojie Co92-MC-I5zM
+2 8
+pkiar
+UF/I
+Aelcc
+UF{LO
+4zgetc120
+uF /63 C4eLL 0.0is
+Lrothiz
+Aeelco
+Con _UC_IM
+Uf/25
+Fnp
+4Z011022
+diadi
+niccaila
+Wl
+WnSahbA
+Iens- dele c
+Jojctola
+MaLnc
+IRL75I/-
+JALMLI
+Trani [er
+MJEZSO" 3N3645
+aniant
+Mclaria
+Dufjant ZNLDJT
+ZN-nis Zhcon
+Motorcla
+3N6J35
+```
+
+</details>
+
+### Page 14 (OCR, spell-checked: 4 words corrected)
+
+```text
+153
+OALVA
+LARC BEICT Flenneala
+Parts
+REGULATOR a0faL
+PART
+DEsCRiPTION
+PART NUMBER
+Kebarct
+Dtds
+E
+Hasuegor J/aw 53
+philioe
+(2.31 * C6-28
+Uesetor
+0761 Aesatar
+0w-20
+Pniar
+Philips
+Restore V/14
+Philos
+Reaialor V/5 53
+Pe pnilpx Pncr
+Ru-inior
+Philing
+1-07-1 2
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+153
+OALVA
+LARC BEICT Flenneala
+Paats
+RECULATOR a0faL
+PART
+DEsCRiPTION
+PART NUMDER
+Kebarct
+Dtds
+E
+Hasuegor J/aw 53
+philioe
+(2.31 * C6-28
+Uesetor
+0761 Aesatar
+0w-20
+Pniar
+Philips
+Restor V/14
+Philos
+Reaialor V/5 53
+Pe pnilpx Pncr
+Ru-inior
+Philing
+1-07-1 2
+```
+
+</details>
+
+### Page 15 (OCR, spell-checked: 5 words corrected)
+
+```text
+WAAC EEC  Ft ennnra
+#4Rts
+I-17 uagulatok Card
+deECAFTiON
+A hunbip
+Reearc
+Philips
+Reslgic -
+Philip-
+Eleto
+Philip
+Intuara{uca cicul
+Natlcnal
+LMJC_AA MiMn
+cecommnd menuluelur-h
+Larcenne acts continue- Ootfum pMeni
+apeclticd -etnieu.
+Ic117_2-1
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+WAAC EEC  Ft ennnra
+#4Rts
+I-17 uagulatok VcaRD
+deECAFTiON
+A hunbip
+Reearc
+Philios
+Reslgic -
+Philie-
+Eleto
+Philip
+Intuara{uca cicul
+Natlcnal
+LMJC_AA MiMn
+cecommnd menuluelur-h
+Larcenne nacts centinue- Ootfum pMeni
+apeclticd -etnieu.
+Ic117_2-1
+```
+
+</details>
+
+### Page 16 (OCR, spell-checked: 1 words corrected)
+
+```text
+TSN AC sol6o4z
+POWER SUPPLY MQUNIING_IBAX
+P
+016 O15 014
+90 410 1oo 20 1i0 30 40 10 50 40 60 50 70 160 80
++25v ~25v #CoM:
+8
+J
+J2
+23ov AC so/koHz
+conNECtoRS REAR VIEw
+No FC 51
+08 816 87 Co1s 06 014 05 013 04 0i2 03 Ou4 02 Oio 01 09
+90 28 Ileo lo 30 18 40 50 140 60 li5o 70 IIs0 80
++25v 25v #com:
+2Fc 5e
+3Al AL
+4# C
+J2
+WNSTEX,18 Iornn
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+TSN AC sol6o4z
+POWER SUPPLX MQUNIING_IBAX
+P
+016 O15 014
+90 410 1oo 20 1i0 30 40 10 50 40 60 50 70 160 80
++25v ~25v #CoM:
+8
+J
+J2
+23ov AC so/koHz
+conNECtoRS REAR VIEw
+No FC 51
+08 816 87 Co1s 06 014 05 013 04 0i2 03 Ou4 02 Oio 01 09
+90 28 Ileo lo 30 18 40 50 140 60 li5o 70 IIs0 80
++25v 25v #com:
+2Fc 5e
+3Al AL
+4# C
+J2
+WNSTEX,18 Iornn
+```
+
+</details>
+
+### Page 17 (OCR, spell-checked: 3 words corrected)
+
+```text
+PI
+Sw |
+CRI PBg0
+TI circuit BREAKER ((80 21 BR RED WH 62 IelAoov BR RED CT 033/6301 YEE
+C3 9690 sov
+8
+Ri Iok Sw
+04 9600 Sov
+BK
+NOISE FoR Schematic OF Pcb/-#7 SEe DwG CB 1-/7 02 ooi 2FoR COMPONENT LAYOUT SF-PCB |-1l7 SE6 DWG B1-47- 06 6oi 3ALL RESISTOR VALUES ArE IN OHMS (n ) ALL CAPAciTOR VALUES ARE IN MICROFARADS (uF) 4 LAST component DESIGNATIONS ARE AS Follow ' c4 CRS F2 J3 P2 05 RR7 Sw2 Ti
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+PI
+Sw |
+CRI PBg0
+TI circuit BREAKER ((80 21 BR RED WH 62 IelAoov BR RED CT 033/6301 YEE
+C3 9690 sov
+8
+Ri Iok Sw
+04 9600 Sov
+BK
+NOIES FoR ScheMKTiC OF Pcb/-#7 SEe DwG CB 1-/7 02 ooi 2FoR COMPONENT LAYOUT SF-PCB |-1l7 SE6 DWG B1-47- 06 6oi 3ALL RESISTOR VALUES ArE IN OHMS (n ) ALL CAPAciTOR VALUES ARE IN MICROFARADS (uF) 4 LAST compRnenT DESIGNATIONS ARE AS Follow ' c4 CRS F2 J3 P2 05 RR7 Sw2 Ti
+```
+
+</details>
+
+### Page 18 (OCR)
+
+```text
+CRz IN4003
+RA 0,5,20W
+92 218772
+93
+01
+2N3772
+Fs 2k2 3wW
+Aov 33 21 422
+20
+23 1600 sov
+J
+10
+4ov
+Swz 0251 7
+R2 05 2ow MNA 03 2N3772
+025 Zow
+Bfe0
+04 2N3712
+R3
+0.5,2ow
+CR3 IN403
+SCoE 21pz4] 3 B5SSGE 8568 36.24
+```
+
+### Page 19 (OCR)
+
+```text
+P?
+C59 IMR 751
+DSi
+56
+Bs 2k2 3W
+CR9 MR 751
+Sw28
+SWZA 42s1
+gE5 '25
+BfF0
+0OfF
+6582 CR7
+SSMoD CKd; 8 BSSSGEB 3568 L 3624 GEB
+USED
+E3S WaAD"
+(: Dl MAY 78 125. D Ec Ka tols ANa LB
+FCI
+```
+
+### Page 20 (OCR, spell-checked: 2 words corrected)
+
+```text
+Pe
+#esv
+CR 8 IMR 751
+#COM 56
+CHASSIS
+Cr9 MR 751
+25v
+J6
+Sw28
+CR6 IN+4B
+CR7 23
+WVES Wa orelekayet e L
+DEGE: M6 58 I15/ D MAY 78 125V POwER SUPL CKD EC SCHEMATIC E4 Tools LB 625 02 ~00 3 S
+F7
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+Pe
+#esv
+CR 8 IMR 751
+#COM 56
+CHASSIS
+Cr9 MR 751
+25v
+J6
+Sw28
+CR6 IN+4B
+CR7 23
+WVES Wa orelekayet e L
+DEGE: M6 58 I15/ D MAY 78 125V POwER SUPL CKD EC SCHEMATIe E4 Ttols LB 625 02 ~00 3 S
+F7
+```
+
+</details>
+
+### Page 21 (OCR)
+
+```text
+R1b
+5i4
+1-17 Pcb
+```
+
+### Page 22 (OCR, spell-checked: 1 words corrected)
+
+```text
+(BLACK)
+(RED)
+MeD 1oco DAD REvEOH
+WBS WARD-BECK
+drm Pa
+K6258
+POWER ISUPLYE Mporerir Iou
+5022
+615-06-002
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+(BLACK)
+(RED)
+MeD 1oco DAD REvEOH
+WBS WARD-BECK
+drm Pa
+K6258
+POMER ISUPLYE Mporerir Iou
+5022
+615-06-002
+```
+
+</details>
+
+### Page 23 (OCR)
+
+```text
+SErIES RES: BASE
+CURREnt Limit 20
++25v
+Rg
++40V 22
+Rio
+MJE 2901
+R6 iOk
+IN4003
+C3 1/35
+C2 015
+zi LM305
+DIF Ris
+r8 2k2
+I5k
+2200p
+COMM 106
+ri I0k
+Cri in4148
+C4 10/25
+rii Riz 6k2 IkS
+02
+2N3645 Rs
+Rz IOOK
+Ri3 2v4
+IoOk
+R3 22k
+03
+Ria 500
+VADJ
+2N3645
+```
+
+### Page 24 (OCR)
+
+```text
+C3 135
+Rib 470k
+Ri7 27k
+rib DIFADJS 5k Ris
+Rzo Zkt
+C6 I00/40
+ISk
+crz in4i4b
+(3 47/63
+Cr8 In4003
+10/25
+Cr3 IN 5366A 39v
+C7 100/40
+R25 I2k
+'Ri3 2v4
+22 LM304
+R24
+750
+VADJ
+R42 Ik
+C5 ISo0e/
+Rzi 75
+R26
+27 2n3645
+R23
+330
+R4i Ik
+05 2N4037
+rig 300 3.75w
+Cio 015
+Rzz
+75 MJE 2801 3.75w SERIES REG BASE
+~4ov
+CURRENT Limit
+~25v
+```
+
+### Page 25 (OCR)
+
+```text
+R27 iok
+R32 Z4k
+R28 S00
+R38 9ik
+R3o 9ik
+R33 5k
+DIF CAL
+R29 iok
+R3g zok
+R3i 20k 
+R35- 24k
+CAL
+16
+```
+
+### Page 26 (OCR, spell-checked: 2 words corrected)
+
+```text
+NOTES L ALL rEsiSTORS ARE IN V4w52 AND ALL CAPACiTORS IN Af UNLESS SPECIFIED OThErWISE 2 LAST COMPONENT DESIGNATIONS C12 Cr8, Q9 , Rso 22
+R47 Ik R48
+(iz 22/25
+iok Cr7 IN47SIA 30v
+Zn4037
+RAS Cii IK T22/25 R46
+iok
+2n6395
+Rso
+07 crg Zn4o37 INA7SIA 30v
+IK R4g 4k7
+482 1 <
+4232 40C =
+FCo#2u
+10/78 CR 3 ADDED 6/78 [REDRAWN , Scr Circuit ADDED ISSUE |DATE REVISION
+WBS
+WARD-BECK SYSTEMS
+DRN: Mrw 6/78 ENG_ MRW CKD: Ra APP SCALE LB
+1-117 REGULATOR BOARD SCHEMATIC ISSUE 1-117 - 02 - 001
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+NQTES L ALL rEsiSTORS ARE IN V4w52 AND ALL CAPACiTORS IN Af UNLESS SPECIFIED OThErWISE 2 LAST COMPONENT DESIGNATIONS C12 Cr8, Q9 , Rso 22
+R47 Ik R48
+(iz 22/25
+iok Cr7 IN47SIA 30v
+Zn4037
+RAS Cii IK T22/25 R46
+iok
+2n6395
+Rso
+07 crg Zn4o37 INA7SIA 30v
+IK R4g 4k7
+482 1 <
+4232 40C =
+FCo#2u
+10/78 CR 3 ADDED 6/78 [REDRAWN , Scr Circuit ADDEDL ISSUE |DATE REVISION
+WBS
+WARD-BECK SYSTEMS
+DRN: Mrw 6/78 ENG_ MRW CKD: Ra APP SCALE LB
+1-117 REGULATOR BOARD SCHEMATIC ISSUE 1-117 - 02 - 001
+```
+
+</details>
+
+### Page 27 (OCR)
+
+```text
+MJE 130
+MuE?301
+Ri+ VadJ 500
+Rie OIF ADJ Sk
+R2s *
+LRi54
+R4I_ R24 JSe Rzs EL 049n15 #Ca84
+Raobe R+ee R7 Rp*2
+RzoJ C2_015 Rk mrr RInL Olzzocy #oll Ris- Fot
+R4z
+#CRslr
+R22-5 Ri9 7T5v
+2H4037
+Ta
+Riijn RIz Ju
+R2i J5 Rs +2
+LM3C4
+ZNXA5
+5M3OS
+boLe
+ZysetS
+705645
+rs 22k Rzor
+RIjK Rzb-
+~CRS
+Q1t R47-1
+46
+R48-Jar
+CII Jiue
+(i2 JUUf
+WBS CANADA 1-117
+Ras
++CR7715
+R35e RSz Rz7 *r Rzg Ju R38 J
+R3t
+R3}
+204031
+Zn4037 09 2n639s Rso- Rag
+RA6 Jer #cr6 i
+R2a 500
+R39 20k.
+zok
+Ipot
+Rso*1
+```
+
+### Page 28 (OCR, spell-checked: 1 words corrected)
+
+```text
+Mue2901
+Rib DIFADJ
+84
+Rare R7t
+Cz_ois_
+Rwo!y RKeer RImK #O44 ~4
+5214o37
+Joon
+ZN45
+LM3O5
+Rolo
+~CRs_
+4162
+Rso 21
+35
+R3s* R3z* Rz7JoK Rrg- R38-
+R34
+R33
+17
+R3i zok
+R28 S0
+R39 2Ok
+DIF
+L1 akz 41 Iony
+Lal
+EcOL
+Loro ECo 77 4002 CR %Aooed RE-DRAWN REVISION
+ISSUE DATE
+WBS WARD-BECKEYBTEMB
+DRN:  MRW 4/74 ENG MrW CKd &+ KAPR SCALE
+FM7 REGULATOR BOARD COMPONENT LAYOUT
+417-06-0014
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+Mue2901
+Rib DIFADJ
+84
+Rare R7t
+Cz_ois_
+Rwo!y RKeer RImK #O44 ~4
+5214o37
+Joon
+ZN45
+LM3O5
+Rolo
+~CRs_
+4162
+Rso 21
+35
+R3s* R3z* Rz7JoK Rrg- R38-
+R34
+R33
+17
+R3i zok
+R28 S0
+R39 2Ok
+DIF
+L1 akz 41 Iony
+Lal
+EcOL
+Loro ECo 77 4002 CR %Aooed RE-DRAWN REVISION
+ISSUE DATE
+WBS WARD-BECKEYBTEMB
+DRN:  MRW 4/74 ENG MrW CKd &+ KAPR SCALE
+FM7 REGULATOR BOARD COMPONENT LAYQUT
+417-06-0014
+```
+
+</details>
+
+## Contents (JSON)
+
+```json
+{
+ "file": "Modules/POWER/M625B/1978 - M625B - Power supply.pdf",
+ "sha256": "6cad0d85bdeacbb2f45aa3bd46979068ff285991915fcc647e1e722ca4f540d6",
+ "kind": "module",
+ "models": [
+  "M625B"
+ ],
+ "year": 1978,
+ "pages": 28,
+ "order": [
+  {
+   "page": 19,
+   "dates": [
+    {
+     "year": 1978,
+     "kind": "month",
+     "text": "MAY 78"
+    }
+   ]
+  },
+  {
+   "page": 20,
+   "dates": [
+    {
+     "year": 1978,
+     "kind": "month",
+     "text": "MAY 78"
+    }
+   ],
+   "connections": [
+    {
+     "kind": "ground",
+     "signal": "CHASSIS"
+    },
+    {
+     "kind": "in",
+     "signal": "CR6 IN+4B"
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "title_block": [
+    {
+     "number": "1-117-02-001",
+     "type": "schematic",
+     "title": "Regulator Board Schematic",
+     "drawn": "MRW",
+     "checked": "RA",
+     "issue": "1"
+    }
+   ]
+  }
+ ]
+}
+```

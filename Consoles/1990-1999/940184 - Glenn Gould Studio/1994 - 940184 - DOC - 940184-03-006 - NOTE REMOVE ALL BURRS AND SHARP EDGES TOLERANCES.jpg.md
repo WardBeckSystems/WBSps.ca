@@ -1,0 +1,130 @@
+# 1994 - 940184 - DOC - 940184-03-006 - NOTE REMOVE ALL BURRS AND SHARP EDGES TOLERANCES.jpg
+Wiki page: [Documents](../../../PAGES/Documents.md)
+
+
+- **Year:** 1994 (job number 940184)
+- **Type:** document scan
+- **About:** 940184
+
+## Text recovered by OCR
+
+> THESE Twio SURFACES PARALLEL 1400 040 5.316 Trp 4.900 MATERIAL: CRS: 0.036 ThICK REC'D /BASE SPoT_KELD BRACKETS(2) BEFORE PAINTING, 0.199 0.26 RAD(J) 3.500 MATERIAL: CR.S; 0.105 THICK. 2,000 1,825 0.258 7.340 6.500 REF 1.020 5.300 1.020 0.140 DIA REQ"D 560 500 5-360 0.560 MATERIAL: SEE BODY OF DRAWING. FINISH: SAND 120 GRIT AND PAINT TEXTURED BROWN (438C) TEXCOTE VINYL; SEE SPOT WELD NOTE SSUEL REVSION APP; NOTE: REMOVE ALL BURRS AND SHARP EDGES; TOLERANCES: XX-+/-0.015 XXX-+/-0.C05 WBS WARD-BECK SYSTEMS DRN: DRG TURRET BASE (MEDIUM) CKD: SCALE DISC_NO; CODE: 94184MO6 ISSUE 940184-03-006
+- **Original file:** `WBSps.env/PUBLIC/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/2021-3-16-21-48-14.jpg`
+- **SHA-256:** `160ecfd4da1ef948bdaf605e1c8cd55a904e4313b2f3748f73d05fa79d78ca37`
+- **Size:** 19,260,323 bytes
+- **Pages:** 1
+
+## Vectors (traced)
+
+- **Sheet:** mechanical 940184-03-006, size B (assumed) 432 × 280 mm, 2000 × 1296 px traced (0.216 mm/px)
+- **Ink extent:** 40–420 mm across, 7–236 mm up
+- **Outlines:** line 308 rings, 3,165 straight (7,880 mm) / 539 curved (648 mm); text 244 rings, 1,407 straight (1,359 mm) / 480 curved (614 mm); tb 15 rings, 141 straight (165 mm) / 33 curved (39.8 mm)
+- **Centre lines:** 5,447 paths (102 closed); straight 5,735 mm, curved 4.2 mm; horizontal 2,223 mm, vertical 1,343 mm, diagonal 2,168 mm
+- **Circles and arcs:** 0 circles, 2 arcs
+- **Closed boxes:** 8 (2 in the title block); named: TURRET BASE (MEDIUM)
+- **Words (OCR):** 27 in 23 lines: MATERIAL · CR,S; UOSE · THIC * · 0.153 · RAD(S) · MATERIAL: CRS 0.10s Thick; · 200] · REC D · 0.560 · 0,500 · MATERIAL: SEE BODY OF DRAWING. · FINISH: SAND 120 Grit AND PAINT
+- **Title block:** (341, 23)–(426, 40) mm: WBS · WARD-BECK SYSTEMS
+
+Every curve, box, word and wire group: [1994 - 940184 - DOC - 940184-03-006 - NOTE REMOVE ALL BURRS AND SHARP EDGES TOLERANCES (traced).json](1994%20-%20940184%20-%20DOC%20-%20940184-03-006%20-%20NOTE%20REMOVE%20ALL%20BURRS%20AND%20SHARP%20EDGES%20TOLERANCES%20%28traced%29.json) (the CAD file: `1994 - 940184 - DOC - 940184-03-006 - NOTE REMOVE ALL BURRS AND SHARP EDGES TOLERANCES (traced).dxf`).
+
+## Full text
+
+### Page 1 (OCR, spell-checked: 1 words corrected)
+
+```text
+THESE Twio SURFACES PARALLEL
+1400
+040
+5.316
+Trp
+4.900
+MATERIAL: CRS: 0.036 ThICK REC'D /BASE
+SPoT_KELD BRACKETS(2) BEFORE PAINTING,
+0.199
+0.26 RAD(J)
+3.500
+MATERIAL: CR.S; 0.105 THICK.
+2,000
+1,825
+0.258
+7.340
+6.500 REF
+1.020
+5.300
+1.020
+0.140 DIA
+REQ"D
+560
+500
+5-360
+0.560
+MATERIAL:
+SEE BODY OF   DRAWING.
+FINISH: SAND 120 GRIT AND PAINT TEXTURED BROWN (438C) TEXCOTE VINYL; SEE SPOT WELD NOTE
+SSUEL
+REVISION
+APP;
+NOTE: REMOVE ALL BURRS AND SHARP EDGES; TOLERANCES: XX-+/-0.015 XXX-+/-0.C05
+WBS
+WARD-BECK SYSTEMS
+DRN: DRG
+TURRET BASE (MEDIUM)
+CKD:
+SCALE DISC_NO; CODE: 94184MO6
+ISSUE
+940184-03-006
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+THESE Twio SURFACES PARALLEL
+1400
+040
+5.316
+Trp
+4.900
+MATERIAL: CRS: 0.036 ThICK REC'D /BASE
+SPoT_KELD BRACKETS(2) BEFORE PAINTING,
+0.199
+0.26 RAD(J)
+3.500
+MATERIAL: CR.S; 0.105 THICK.
+2,000
+1,825
+0.258
+7.340
+6.500 REF
+1.020
+5.300
+1.020
+0.140 DIA
+REQ"D
+560
+500
+5-360
+0.560
+MATERIAL:
+SEE BODY OF   DRAWING.
+FINISH: SAND 120 GRIT AND PAINT TEXTURED BROWN (438C) TEXCOTE VINYL; SEE SPOT WELD NOTE
+SSUEL
+REVSION
+APP;
+NOTE: REMOVE ALL BURRS AND SHARP EDGES; TOLERANCES: XX-+/-0.015 XXX-+/-0.C05
+WBS
+WARD-BECK SYSTEMS
+DRN: DRG
+TURRET BASE (MEDIUM)
+CKD:
+SCALE DISC_NO; CODE: 94184MO6
+ISSUE
+940184-03-006
+```
+
+</details>
+
+## Contents (JSON)
+
+```json
+{"file":"Consoles/1990-1999/940184 - Glenn Gould Studio/1994 - 940184 - DOC - 940184-03-006 - NOTE REMOVE ALL BURRS AND SHARP EDGES TOLERANCES.jpg","sha256":"160ecfd4da1ef948bdaf605e1c8cd55a904e4313b2f3748f73d05fa79d78ca37","kind":"doc","models":["940184"],"year":1994,"pages":1,"order":[{"page":1,"title_block":[{"number":"940184-03-006","type":"wiring","title":"Note Remove All Burrs And Sharp Edges Tolerances","drawn":"DRG"}],"text":["MATERIAL CR,S; UOSE THIC *","0.153 RAD(S)","MATERIAL: CRS 0.10s Thick;","200]","REC D","0.560","0,500","MATERIAL: SEE BODY OF DRAWING.","FINISH: SAND 120 Grit AND PAINT","TEXTURED BROWN (438C)","TEXCOTE \"LD HOm","AURAS EDCES WBS WARD-BECK SYSTEMS","TOLER \"cES","TURRET BASE","(MEDIUM)","940184-03-006"]}],"drawing":{"svg":"_traces/160ecfd4da1ef948.svg","viewBox":[2000,1296],"rotate":0,"number":"940184-03-006","title":"Note Remove All Burrs And Sharp Edges Tolerances","dtype":"03","outlines":"see _traces/160ecfd4da1ef948.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","centre_lines":"see _traces/160ecfd4da1ef948.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","words":[[1162,318,"MATERIAL"],[1224,324,"CR,S;"],[1262,320,"UOSE"],[1299,324,"THIC *"],[915,378,"0.153"],[1026,382,"RAD(S)"],[1239,437,"MATERIAL: CRS 0.10s Thick;"],[960,478,"200]"],[1285,675,"REC D"],[964,727,"0.560"],[960,891,"0,500"],[184,1057,"MATERIAL:"],[281,1062,"SEE BODY OF DRAWING."],[184,1087,"FINISH:"],[239,1087,"SAND"],[284,1092,"120 Grit AND PAINT"],[241,1107,"TEXTURED BROWN (438C)"],[239,1120,"TEXCOTE"],[415,1118,"\"LD HOm"],[258,1153,"AURAS"],[349,1160,"EDCES"],[1621,1160,"WBS"],[1729,1162,"WARD-BECK SYSTEMS"],[198,1163,"TOLER \"cES"],[1764,1206,"TURRET BASE"],[1781,1222,"(MEDIUM)"],[1759,1260,"940184-03-006"]]}}
+```

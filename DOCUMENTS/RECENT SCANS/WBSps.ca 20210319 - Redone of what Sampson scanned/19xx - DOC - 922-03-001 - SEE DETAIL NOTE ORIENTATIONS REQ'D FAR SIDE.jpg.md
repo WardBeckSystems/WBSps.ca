@@ -1,0 +1,94 @@
+# 19xx - DOC - 922-03-001 - SEE DETAIL NOTE ORIENTATIONS REQ'D FAR SIDE.jpg
+Wiki page: [Documents](../../../PAGES/Documents.md)
+
+
+- **Year:** unknown (unknown)
+- **Type:** document scan
+- **About:** M922
+
+## Text recovered by OCR
+
+> 0.20 APPROX 8 3 3 f8-825UNG1AC"SK REQ 0 0.100 DIA-C'SK 0.180,Dia REQ'D DATUM 0.200 ShOWS ORIENTATION V922 M922 WBS V9224 WB8 40z? 4 PUNCH (0.04 RAD CORNERS) Sk REAR OF PANEL 500 OREoo 90 DEG 1.600 0.800 0.070 0.590 REQ'D 0.035 (0.05 0.07) 2.375 SEE DETAIL NOTE ORIENTATIONS REQ'D FAR SIDE 5.025 SECTION AA 3.675 4325 DETAIL (SCALE 41) 975 0.257 DIA REO 'D 5.625 400 7.200 7.800 B.0C0 R R R R MATERIAL: ALUM ALLOY 0.125 THICK FINISH: SAND 120 GRIT AND PAINT TEXTURED BEIGE (452C) TEXCOTE VINYL_ (EXTRA FINE TEXTURE) NOTE. REMOVE ALL BURRS AND SHARP EDGES TOLERANCES= 0.015 KXe+ 0.005 SILKSCREEN TO 4922-08 001 (FOR M922) 0922-08 OO1A (FOR M922n) 8 3 ISSUE DAME REWSION WBS WARD-BECK SYSTEMS DRN: DRG ENG CKD APP SCALE DISC CODE: M922/M922A STEREO 'EQUALIZER MODULE Uaeaoo 922-03-001 922001 ISSUE o4ek1
+- **Original file:** `WBSps.env/PUBLIC/RECENT SCANS/WBSps.ca 20210319 - Redone of what Sampson scanned/WBSps.ca 20210319 -  (29).jpg`
+- **SHA-256:** `d68b0ce02661f5030ba78529980c423f163dedb60acd00e73b9bdf056a1b4fda`
+- **Size:** 20,122,718 bytes
+- **Pages:** 1
+
+## Vectors (traced)
+
+- **Sheet:** mechanical 922-03-001, size B (assumed) 432 × 284 mm, 2000 × 1317 px traced (0.216 mm/px)
+- **Ink extent:** 1–431 mm across, 0–262 mm up
+- **Outlines:** line 886 rings, 6,245 straight (10,831 mm) / 1,397 curved (2,218 mm); text 283 rings, 1,705 straight (1,685 mm) / 531 curved (682 mm); tb 21 rings, 137 straight (179 mm) / 22 curved (25.8 mm)
+- **Centre lines:** 12,169 paths (273 closed); straight 8,461 mm, curved 546 mm; horizontal 2,420 mm, vertical 2,189 mm, diagonal 3,852 mm
+- **Circles and arcs:** 12 circles, 31 arcs; largest r 65.4 @ (360.9, 195.7), r 1.9 @ (160.7, 196.3), r 1.9 @ (237.4, 195.4), r 1.9 @ (236.3, 96.1)
+- **Closed boxes:** 23 (5 in the title block); named: M922/M922A STEREO EQUALIZER MODULE; SCALC; 922-03-001; LCOE;
+- **Dots (junctions):** 4
+- **Words (OCR):** 36 in 31 lines: REQ QOIA · 938 · 0200 · Dh · RAD CO · 0,070 · (0.03 · FAR SIDE · 1675 · (SCHE #1) · DETAIL · 0.257
+- **Title block:** (351, 27)–(432, 44) mm: REMSIC · WBS WARD · BECK SYSTEMS · M922/M922A
+
+Every curve, box, word and wire group: [19xx - DOC - 922-03-001 - SEE DETAIL NOTE ORIENTATIONS REQ'D FAR SIDE (traced).json](19xx%20-%20DOC%20-%20922-03-001%20-%20SEE%20DETAIL%20NOTE%20ORIENTATIONS%20REQ%27D%20FAR%20SIDE%20%28traced%29.json) (the CAD file: `19xx - DOC - 922-03-001 - SEE DETAIL NOTE ORIENTATIONS REQ'D FAR SIDE (traced).dxf`).
+
+## Full text
+
+### Page 1 (OCR)
+
+```text
+0.20 APPROX
+8 3
+3
+f8-825UNG1AC"SK REQ 0
+0.100 DIA-C'SK 0.180,Dia REQ'D
+DATUM 0.200
+ShOWS ORIENTATION
+V922
+M922
+WBS
+V9224
+WB8
+40z? 4
+PUNCH (0.04 RAD CORNERS) Sk REAR OF PANEL 500 OREoo 90 DEG 1.600
+0.800
+0.070
+0.590
+REQ'D
+0.035
+(0.05
+0.07)
+2.375
+SEE  DETAIL NOTE   ORIENTATIONS REQ'D FAR SIDE
+5.025
+SECTION AA
+3.675
+4325
+DETAIL (SCALE 41)
+975
+0.257 DIA
+REO 'D
+5.625
+400
+7.200
+7.800 B.0C0
+R
+R
+R
+R
+MATERIAL: ALUM ALLOY 0.125 THICK
+FINISH:   SAND 120 GRIT AND PAINT TEXTURED BEIGE (452C) TEXCOTE VINYL_ (EXTRA FINE TEXTURE) NOTE. REMOVE ALL BURRS AND SHARP EDGES TOLERANCES= 0.015 KXe+ 0.005 SILKSCREEN TO 4922-08 001 (FOR M922) 0922-08 OO1A (FOR M922n)
+8
+3
+ISSUE DAME
+REWSION
+WBS
+WARD-BECK SYSTEMS
+DRN: DRG ENG CKD APP SCALE DISC CODE:
+M922/M922A
+STEREO 'EQUALIZER MODULE Uaeaoo 922-03-001 922001
+ISSUE
+o4ek1
+```
+
+## Contents (JSON)
+
+```json
+{"file":"DOCUMENTS/RECENT SCANS/WBSps.ca 20210319 - Redone of what Sampson scanned/19xx - DOC - 922-03-001 - SEE DETAIL NOTE ORIENTATIONS REQ'D FAR SIDE.jpg","sha256":"d68b0ce02661f5030ba78529980c423f163dedb60acd00e73b9bdf056a1b4fda","kind":"doc","models":["M922"],"pages":1,"order":[{"page":1,"title_block":[{"number":"922-03-001","type":"wiring","title":"See Detail Note Orientations Req'D Far Side","drawn":"DRG"}],"text":["REQ QOIA","938","0200","Dh","RAD CO","0,070","(0.03","FAR SIDE","1675","DETAIL","(SCHE #1)","0.257","6.470","R R MATERIAL: ALUM ALLOY 0.125 THICK","BCOC","FINISH: SAND 120 GRIT AND PAINT","TEXTURED    BEIGE (452C)","EXCOTE","(EXTRA FINE TEXTURE)","0,005","(FCR Vo","M9224)","REMSIC","WBS WARD BECK SYSTEMS","M922/M922A","STEREO EQUALIZER","MODULE","SCALC 922-03-001","LCOE;"]}],"drawing":{"svg":"_traces/d68b0ce02661f503.svg","viewBox":[2000,1317],"rotate":0,"number":"922-03-001","dtype":"03","outlines":"see _traces/d68b0ce02661f503.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","centre_lines":"see _traces/d68b0ce02661f503.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","words":[[554,341,"REQ QOIA"],[184,359,"938"],[498,410,"0200"],[172,432,"Dh"],[201,449,"RAD CO"],[1735,475,"0,070"],[1479,524,"(0.03"],[251,581,"FAR SIDE"],[258,617,"1675"],[1641,689,"DETAIL"],[1636,701,"(SCHE #1)"],[155,735,"0.257"],[255,782,"6.470"],[1642,875,"MATERIAL:"],[1724,873,"ALUM ALLOY 0.125"],[1864,873,"THICK"],[490,882,"BCOC"],[1644,903,"FINISH:"],[1699,903,"SAND 120 GRIT AND PAINT"],[1699,918,"TEXTURED    BEIGE"],[1821,921,"(452C)"],[1699,933,"EXCOTE"],[1701,948,"(EXTRA FINE TEXTURE)"],[1855,985,"0,005"],[1802,995,"(FCR Vo"],[1838,1005,"M9224)"],[1850,1132,"REMSIC"],[1666,1166,"WBS"],[1776,1166,"WARD"],[1839,1166,"BECK SYSTEMS"],[1801,1201,"M922/M922A"],[1779,1216,"STEREO EQUALIZER"],[1824,1233,"MODULE"],[1650,1247,"SCALC"],[1688,1262,"LCOE;"],[1826,1263,"922-03-001"]]}}
+```

@@ -1,0 +1,135 @@
+# 1996 - 960077-03-006 - CUSTOM PUNCHING (CUSTOMER SUPPLIED PANEL) - DRN DRG - ISS 1.jpg
+Wiki page: [Job-960077](../../../PAGES/Job-960077.md)
+
+
+- **Year:** 1996 (job number 960077)
+- **Job / serial number:** 960077
+- **Project:** —
+
+## Title block (found by software, read by eye)
+
+- **Drawing:** D 960077-03-006
+- **Size:** D
+- **Title:** CUSTOM PUNCHING / (CUSTOMER SUPPLIED PANEL)
+- **Drawn:** DRG
+- **Issue:** 1
+- **Confidence:** high
+
+- **Original file:** `WBSps.env/WBS Photos-1-001/2021-3-16-23-46-52.jpg`
+- **SHA-256:** `a6f9b1e3316798c15c9850b258b4cb2f01d4c77da561c92ad984852573d31185`
+- **Size:** 555,135 bytes
+- **Pages:** 1
+
+## Vectors (traced)
+
+- **Sheet:** mechanical D 960077-03-006, size D 864 × 544 mm, 2000 × 1259 px traced (0.432 mm/px)
+- **Ink extent:** 79–864 mm across, 4–503 mm up
+- **Outlines:** line 625 rings, 4,460 straight (23,245 mm) / 950 curved (2,190 mm); text 151 rings, 915 straight (1,763 mm) / 276 curved (732 mm)
+- **Centre lines:** 4,943 paths (183 closed); straight 14,228 mm, curved 35.1 mm; horizontal 7,983 mm, vertical 2,820 mm, diagonal 3,424 mm
+- **Circles and arcs:** 0 circles, 5 arcs
+- **Closed boxes:** 65; named: WARD-BECK SYSTEMS WBSJ; PUNCHING CUSTOM (CUSTOMER  SUPPLIED PANE; 960077-03-006; disC HC
+- **Words (OCR):** 13 in 13 lines: 10,072 · SOUARC · EKUSID" · CLE · NG SCRATCHES · WARD-BECK SYSTEMS · ShAR? EDCES · WBSJ · (CUSTOMER  SUPPLIED PANEL) · CUSTOM · PUNCHING · disC HC
+
+Every curve, box, word and wire group: [1996 - 960077-03-006 - CUSTOM PUNCHING (CUSTOMER SUPPLIED PANEL) - DRN DRG - ISS 1 (traced).json](1996%20-%20960077-03-006%20-%20CUSTOM%20PUNCHING%20%28CUSTOMER%20SUPPLIED%20PANEL%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1996 - 960077-03-006 - CUSTOM PUNCHING (CUSTOMER SUPPLIED PANEL) - DRN DRG - ISS 1 (traced).dxf`).
+
+## Full text
+
+### Page 1 (OCR, spell-checked: 2 words corrected)
+
+```text
+18.312
+0.544
+16.672
+0.235
+04-40 UNC
+REQ'0
+0.130 DIA
+0.835
+0,900
+3.470
+3,DDD
+PUNCH "KEQ Z5 TYPICAL
+0406 OBLONG
+PITCHES OF 1.000
+3.000
+PUNCH 0.640 SQUARE
+REQ'D
+4.070
+PUNCH 0.656 1.220
+5.40
+PITCHES OF 1,00o
+7.000
+320
+960077-03 006-2 IDENT  EXTRUSION MATERUL: EXTRUSION  #49916 FInISH: SAND BLAST Wih #13 MEDIA
+CLEAN
+0.159 DIA= 0.25 DIA REQ"D
+#1-72 UNF
+Ia DATUM 0.51 0.62 REF
+08
+DATUM "250 0.500
+980077 006-3 IDENT COVER MATERUL; CLEAR RIGID VINYL 0,03 Thick FINISH: CLEAN SCRATCHES
+0.123 Dia
+ISSUEL
+REVSIC N
+NOTEMOVE BURRS VD SHARP EDGES: TOLERANCES: XX=+/-0.015 AAXET/ 0.005
+WBS
+WARD-BECK SYSTEMS
+DRN;
+DRG
+CUSTOM PUNCHING
+(CUSTOMER SUPPLIED PANEL) SCALE DISC NO: SYSO1 ISSUE 960077-03-006 COOE: 96077m06
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+18.312
+0.544
+16.672
+0.235
+04-40 UNC
+REQ'0
+0.130 DIA
+0.835
+0,900
+3.470
+3,DDD
+PUNCH "KEQ Z5 TYPICAL
+0406 OBLONG
+PITCHES OF 1.000
+3.000
+PUNCH 0.640 SCUARE
+REQ'D
+4.070
+PUNCH 0.656 1.220
+5.40
+PITCHES OF 1,00o
+7.000
+320
+960077-03 006-2 IDENT  EXTRUSION MATERUL: EXTRUSION  #49916 FInISH: SAND BLAST Wih #13 MEDIA
+CLEAN
+0.159 DIA= 0.25 DIA REQ"D
+#1-72 UNF
+Ia DATUM 0.51 0.62 REF
+08
+DATUM "250 0.500
+980077 006-3 IDENT COVER MATERUL; CLEAR RIGID VINYL 0,03 Thick FINISH: CLEAN SCRATCHES
+0.123 Dia
+ISSUEL
+REVSIC N
+NOTEMOVE BURRS VD SHARP EDGES: TCLERANCES: XX=+/-0.015 AAXET/ 0.005
+WBS
+WARD-BECK SYSTEMS
+DRN;
+DRG
+CUSTOM PUNCHING
+(CUSTOMER SUPPLIED PANEL) SCALE DISC NO: SYSO1 ISSUE 960077-03-006 COOE: 96077m06
+```
+
+</details>
+
+## Contents (JSON)
+
+```json
+{"file":"Consoles/1990-1999/960077/1996 - 960077-03-006 - CUSTOM PUNCHING (CUSTOMER SUPPLIED PANEL) - DRN DRG - ISS 1.jpg","sha256":"a6f9b1e3316798c15c9850b258b4cb2f01d4c77da561c92ad984852573d31185","kind":"job","models":["960077"],"year":1996,"pages":1,"order":[{"page":1,"title_block":[{"number":"D 960077-03-006","type":"wiring","title":"CUSTOM PUNCHING / (CUSTOMER SUPPLIED PANEL)","year":1996,"drawn":"DRG","issue":"1"}],"text":["10,072","SOUARC","EKUSID\"","%8","CLE NG SCRATCHES","ShAR? EDCES WBSJ WARD-BECK SYSTEMS","CUSTOM PUNCHING","(CUSTOMER  SUPPLIED PANEL)","disC HC 960077-03-006"]}],"drawing":{"svg":"_traces/a6f9b1e3316798c1.svg","viewBox":[2000,1259],"rotate":0,"size":"D","number":"D 960077-03-006","title":"CUSTOM PUNCHING / (CUSTOMER SUPPLIED PANEL)","dtype":"03","outlines":"see _traces/a6f9b1e3316798c1.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","centre_lines":"see _traces/a6f9b1e3316798c1.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","words":[[900,298,"10,072"],[1055,625,"SOUARC"],[605,755,"EKUSID\""],[520,1055,"CLE"],[564,1056,"NG SCRATCHES"],[311,1154,"ShAR? EDCES"],[1586,1154,"WBSJ"],[1694,1151,"WARD-BECK SYSTEMS"],[1699,1192,"CUSTOM"],[1771,1189,"PUNCHING"],[1656,1209,"(CUSTOMER  SUPPLIED PANEL)"],[1608,1233,"disC HC"],[1726,1244,"960077-03-006"]]}}
+```

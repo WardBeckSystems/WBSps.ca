@@ -1,0 +1,157 @@
+# 1988 - 880134 - 3642-02-009 - STEREO JUMPER PINS CORRECTED.jpg
+Wiki page: [Job-880134](../../../PAGES/Job-880134.md)
+
+
+- **Year:** 1988 (job number 880134 (first two digits = year))
+- **Job / serial number:** 880134
+- **Project:** CFTO ST
+- **Original file:** `WBSps.env/PUBLIC/Manuals + tech DOCUMENTS/Consoles/CFTO 880134/3642-02-009.jpg`
+- **SHA-256:** `abc77493d36d832a5c709f466eec761e20ef24fd6194880307503a7ed70fec01`
+- **Size:** 30,726,477 bytes
+- **Pages:** 1
+
+## Vectors (traced)
+
+- **Sheet:** schematic 3642-02-009, size B (assumed) 432 × 279 mm, 2000 × 1294 px traced (0.216 mm/px)
+- **Ink extent:** 5–432 mm across, 0–279 mm up
+- **Outlines:** line 1,633 rings, 10,582 straight (19,270 mm) / 1,587 curved (1,813 mm); text 129 rings, 841 straight (822 mm) / 240 curved (302 mm); tb 94 rings, 545 straight (584 mm) / 98 curved (106 mm)
+- **Centre lines:** 10,117 paths (214 closed); straight 11,286 mm, curved 118 mm; horizontal 5,692 mm, vertical 3,088 mm, diagonal 2,506 mm
+- **Circles and arcs:** 2 circles, 46 arcs; largest r 1.9 @ (8.1, 121.3), r 0.7 @ (153.7, 107.3)
+- **Closed boxes:** 46 (1 in the title block); named: UCQULE; PRDcess; EACCESSING Yc; SSUE: DATE WARD-BECK SYSTEMS WBS PROCESS; PROCESSING MODULES SCHEMATIC; Idisc No; 3642-02-009
+- **Words (OCR):** 14 in 14 lines: UCQULE · PRDcess · EACCESSING · Yc · CHASSS · NQIE: · SSUE: DATE · FMETER · WARD-BECK SYSTEMS · WBS · PROCESSING MODULES · SCHEMATIC
+- **Title block:** (345, 21)–(429, 42) mm: SSUE: DATE · WARD-BECK SYSTEMS · WBS
+- **Wiring (first pass):** 69 connected wire groups from 1,445 runs; labelled ends: 37 mm → Idisc No;; 5 mm → Idisc No;; 5 mm → PROCESSING MODULES, SCHEMATIC, 3642-02-009
+
+Every curve, box, word and wire group: [1988 - 880134 - 3642-02-009 - STEREO JUMPER PINS CORRECTED (traced).json](1988%20-%20880134%20-%203642-02-009%20-%20STEREO%20JUMPER%20PINS%20CORRECTED%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-009 - STEREO JUMPER PINS CORRECTED (traced).dxf`).
+
+## Full text
+
+### Page 1 (OCR, spell-checked: 14 words corrected)
+
+```text
+15.16
+45,6
+PROCESSING MODULE
+OUT
+PROCESSING MODULE
+CuT
+PROCESSING MQDVLE
+OuT
+PROCESSING MODULE
+OuT
+PROCESSING MODULE
+OuT
+PROCESSING MODULE
+Melth
+INLE
+MiMar
+SIGNAL GROUP +25v CHASSIS GROUND
+4SIF
+15, 10
+1S6
+1516
+CUT
+PROCESSING MODULE
+OuT
+PROCESSING MQQULLE
+OuT
+PROCESSING MODULE
+OUT
+PROCESSING MODULE
+OUT
+PROCESSING MODULE
+OUT
+PROCESSING MCDULLE
+METER)
+124
+(GR VETDR)
+12.3
+IZJ
+METER )
+12.13
+25v
+SG IAL GROUND +25v CHASSIS GROUND
+RedRAT
+RedAAT
+SLEREO TE WuuPeR ANS CCAREcteD Ans CCARECTED REMSION APD
+NQIE; PROCESSING MODULES MAY BE M562 EQ. 456+ HPAP FILTER. M566 Liv COMP MseGh METER, V567 NOISEGATE
+SOl SSUE DALE
+WBS
+WARD-BECK SYSTEMS
+DRN: D.S: 4/88 ENG  CKD_
+PROCESSING MODULES SCHEMATIC
+SCALE DISC ND: 255 CODE:_3642509
+SSUE
+3642-02-009
+OUt
+25v
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+15.16
+45,6
+PROCESSING MODULE
+OUT
+PROCESSNNG MODULE
+CuT
+PROCESSING MQDVLE
+OuT
+PROCESSING MCDULE
+OuT
+PROCESSING MQDULE
+OuT
+PROCESSING MCDULE
+Melth
+INIE
+MiMar
+SIGNAL GROUd +25v CHASSIS GROUND
+4SIF
+15, 10
+1S6
+1516
+CUT
+PROCESSING MQDULE
+OuT
+BROCESSING MQQULLE
+OuT
+PROCESSING MODULE
+OUT
+PROCESSNG MODULE
+OUT
+PROCESSIG MODULE
+OUT
+PROCESSING MCDULLE
+METER)
+124
+(GR VETDR)
+12.3
+IZJ
+VETER )
+12.13
+25v
+SG IAL GROUND +25v CHASSIS GROUND
+RedRAT
+RedAAT
+SIEREO TE WuuPeR ANS CCAREcteD Ans CCARECTED REMSION APD
+NQIE; PROCESSING MCDULES MAY BE M562 EQ. 456+ HPAP FILTER. M566 Liv COMP MseGh METER, V567 NOISEGATE
+SOl SSUE DAIE
+WBS
+WARD-BECK SYSTEMS
+DRN: D.S: 4/88 ENG  CKD_
+PROCESSING MODULES SCHEMATIC
+SCALE DISC ND: 255 CODE:_3642509
+SSUE
+3642-02-009
+OUt
+25v
+```
+
+</details>
+
+## Contents (JSON)
+
+```json
+{"file":"Consoles/1980-1989/880134 - CFTO ST/1988 - 880134 - 3642-02-009 - STEREO JUMPER PINS CORRECTED.jpg","sha256":"abc77493d36d832a5c709f466eec761e20ef24fd6194880307503a7ed70fec01","kind":"job","models":["880134"],"year":1988,"pages":1,"order":[{"page":1,"title_block":[{"number":"3642-02-009","type":"schematic","title":"Stereo Jumper Pins Corrected","drawn":"DS"},{"number":"3642-02-009","type":"schematic","title":"Nqie Processing Mcdules May","drawn":"DS"}],"text":["PRDcess","UCQULE","EACCESSING","Yc ","CHASSS","NQIE:","SSUE: DATE","FMETER WARD-BECK SYSTEMS","WBS","PROCESSING MODULES","SCHEMATIC","Idisc No;","3642-02-009"]}],"drawing":{"svg":"_traces/abc77493d36d832a.svg","viewBox":[2000,1294],"rotate":0,"number":"3642-02-009","title":"Nqie Processing Mcdules May","dtype":"02","outlines":"see _traces/abc77493d36d832a.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","centre_lines":"see _traces/abc77493d36d832a.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","words":[[1765,360,"PRDcess"],[1480,370,"UCQULE"],[1469,804,"EACCESSING"],[1480,810,"Yc"],[118,1038,"CHASSS"],[491,1129,"NQIE:"],[1685,1138,"SSUE: DATE"],[568,1148,"FMETER"],[1636,1171,"WBS"],[1744,1171,"WARD-BECK SYSTEMS"],[1736,1214,"PROCESSING MODULES"],[1781,1231,"SCHEMATIC"],[1652,1253,"Idisc No;"],[1774,1269,"3642-02-009"]]}}
+```

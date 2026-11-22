@@ -1,0 +1,105 @@
+---
+type: "product"
+code: "POD11A"
+title: "Digital Stereo Loudness Meter"
+category: "PODS"
+year: 2014
+confidence: "medium"
+tags: ["product", "pods", "2010s"]
+---
+
+# POD11A — Digital Stereo Loudness Meter
+
+**▶ [Open the POD11A simulation](../siumulation.html?plugin=pod11a)** — front panel, operator tutorial, one second in slow motion, block diagram, schematics and how each control drives the firmware
+
+|  |  |
+|---|---|
+| Type | product |
+| Series | [PODS](Series-PODS.md) |
+| Try it | [full simulation: POD11A](../siumulation.html?plugin=pod11a) · [KiCad symbol generator](../kicad.html?m=POD11A) · [download package (zip)](../_packages/POD11A.zip) |
+| Earliest dated evidence | [2014\|47](Year-2014.md) — month & year |
+| Evidence | "Oct.01 2014" in PUBLIC/Manuals + tech DOCUMENTS/PODS/POD11A MANUAL(1).docx |
+| Confidence | medium |
+| All years found | [2014\|47](Year-2014.md) |
+| Folder | [Products/PODS/POD11A](../Products/PODS/POD11A/) |
+
+## Front panel
+
+<svg class="wbs-panel solo" data-m="POD11A" data-n="Digital Stereo Loudness Meter" data-cat="PODS" role="img" aria-label="POD11A front panel"></svg>
+
+<a id="software"></a>
+
+## Software
+
+_What runs on the POD11A: every programmable part and the version Ward-Beck released for it, from the [engineering software listings](Software.md) (the FULL HISTORY workbook, kept to 2018|51)._
+
+| Part / board | What | Chip | Clock | Current version | Date | Sheet |
+|---|---|---|---|---|---|---|
+| SLM1D/POD11A (SLM1D / POD11A) | Microcontroller | PIC12F675 | INT. CLOCK | **SLM1V100** | 2003-04-03 | Standard Products |
+| POD11A (HI-RES METER) | SHARC DSP boot (E)EPROM | AT25F512N |  | **SLM1-5_4LEDV102** | — | Sharc |
+
+**Programming:** Boot EEPROMs are programmed with ChipWin (.LDR files from the debug folder); AT25F512 parts with the VisualDSP++ Flash Programmer (session ADSP-21262, AT25F512 driver).
+
+## Versions
+
+### Listed versions
+
+| Year | Date | Listed as | Chip | Released | Not released / work copy | Tested |
+|---|---|---|---|---|---|---|
+| 2003\|36 | 2003-04-03 | SLM1D/POD11A | PIC12F675 | SLM1V100 | SLM1V101D | WKW 2007-06-04 |
+|  | — | POD11A (HI-RES METER) | AT25F512N | SLM1-5_4LEDV102 |  |  |
+
+## Changes in each version
+
+_What changed, in the words of the listing, oldest first._
+
+- **SLM1V100** — 2003|36 · 2003-04-03 — _SLM1D/POD11A · PIC12F675_: NEED CONFIRMATION OF PIC SOFTWARE
+
+_No change note in the listing for: SLM1-5_4LEDV102._
+
+## Dates found in the documents
+
+| Year | Kind | Text | File |
+|---|---|---|---|
+| [2014\|47](Year-2014.md) | month & year | `Oct.01 2014` | [2014 - POD11A - MANUAL (2).docx](../Products/PODS/POD11A/2014%20-%20POD11A%20-%20MANUAL%20%282%29.docx) |
+| [2014\|47](Year-2014.md) | month & year | `Oct.01 2014` | [2014 - POD11A - MANUAL.docx](../Products/PODS/POD11A/2014%20-%20POD11A%20-%20MANUAL.docx) |
+
+## Documents (2)
+
+| Year | File |  |
+|---|---|---|
+| 2014 | [2014 - POD11A - MANUAL (2).docx](../Products/PODS/POD11A/2014%20-%20POD11A%20-%20MANUAL%20%282%29.docx) | [note](../Products/PODS/POD11A/2014%20-%20POD11A%20-%20MANUAL%20%282%29.docx.md) |
+| 2014 | [2014 - POD11A - MANUAL.docx](../Products/PODS/POD11A/2014%20-%20POD11A%20-%20MANUAL.docx) | [note](../Products/PODS/POD11A/2014%20-%20POD11A%20-%20MANUAL.docx.md) |
+
+## Photos & scans (4)
+
+| Year | File |  |
+|---|---|---|
+| 2014 | [2014 - POD11A - Front.jpg](../Products/PODS/POD11A/2014%20-%20POD11A%20-%20Front.jpg) | [note](../Products/PODS/POD11A/2014%20-%20POD11A%20-%20Front.jpg.md) |
+| 2014 | [2014 - POD11A - Information Sheet.jpg](../Products/PODS/POD11A/2014%20-%20POD11A%20-%20Information%20Sheet.jpg) | [note](../Products/PODS/POD11A/2014%20-%20POD11A%20-%20Information%20Sheet.jpg.md) |
+| 2014 | [2014 - POD11A - Rear 110.jpg](../Products/PODS/POD11A/2014%20-%20POD11A%20-%20Rear%20110.jpg) | [note](../Products/PODS/POD11A/2014%20-%20POD11A%20-%20Rear%20110.jpg.md) |
+| 2014 | [2014 - POD11A - Rear 75.jpg](../Products/PODS/POD11A/2014%20-%20POD11A%20-%20Rear%2075.jpg) | [note](../Products/PODS/POD11A/2014%20-%20POD11A%20-%20Rear%2075.jpg.md) |
+
+## From the manuals
+
+_Each manual split into its sections. Text that is the same in many Ward-Beck manuals (warranty, address, standard notes) is kept once on the [Boilerplate](Boilerplate.md) page and linked._
+
+### Specifications (2)
+
+<details><summary>Specifications — 70 words · 2014 - POD11A - MANUAL (2).docx, page 1</summary><p>DIGITAL AUDIO</p><p>Meter Calibration 0VU = -20 dBFS (default, configurable with DIP SWITCHES) Input Standard AES/EBU 110Ω transformer balanced screw terminal</p><p>or 75Ω unbalanced BNC Input Level 0.2-5V p-p Sampling Frequency Range 30kHz to 96kHz Frequency Response +/- 0.25 dB, 20 Hz to 20 kHz Peak Hold Indicator Threshold -3 dB below Full Scale</p><p>GENERAL</p><p>Power Requirements 100-240 VAC, 50-60 Hz Dimensions 8.69&quot; wide x 1.73&quot; high x 7.0&quot; deep</p><p class="bp">Also: <a href="Boilerplate.md#bp-e859149857e4e8bc">specs boilerplate (8 devices)</a> · <a href="Boilerplate.md#bp-d598fd57bc8328e0">specs boilerplate (56 devices)</a></p></details>
+- source: [2014 - POD11A - MANUAL (2).docx](../Products/PODS/POD11A/2014%20-%20POD11A%20-%20MANUAL%20%282%29.docx), p. 1
+- also in: [2014 - POD11A - MANUAL.docx](../Products/PODS/POD11A/2014%20-%20POD11A%20-%20MANUAL.docx), p. 1
+
+### Warranty (2)
+
+<details><summary>Warranty — 0 words · 2014 - POD11A - MANUAL (2).docx, page 1</summary><p><em>(only shared text)</em></p><p class="bp">Also: <a href="Boilerplate.md#bp-63617240bb5bb638">warranty boilerplate (67 devices)</a> · <a href="Boilerplate.md#bp-1a488a5cc38d92fe">warranty boilerplate (67 devices)</a> · <a href="Boilerplate.md#bp-045065cd9adcbfb5">warranty boilerplate (67 devices)</a> · <a href="Boilerplate.md#bp-073c30eb0adcf664">warranty boilerplate (67 devices)</a> · <a href="Boilerplate.md#bp-1cbf852f43462543">warranty boilerplate (67 devices)</a> · <a href="Boilerplate.md#bp-b6240b9a7aed9a9e">warranty boilerplate (67 devices)</a> · <a href="Boilerplate.md#bp-72f55892a1c53496">warranty boilerplate (67 devices)</a> · <a href="Boilerplate.md#bp-34741163f3361dce">warranty boilerplate (67 devices)</a> · <a href="Boilerplate.md#bp-f4e5345ab11dc585">warranty boilerplate (67 devices)</a> · <a href="Boilerplate.md#bp-1637977c20b2600e">warranty boilerplate (67 devices)</a> · <a href="Boilerplate.md#bp-7f976e2b41601d05">warranty boilerplate (67 devices)</a> · <a href="Boilerplate.md#bp-c1c0908fa3aad7e2">warranty boilerplate (68 devices)</a></p></details>
+- source: [2014 - POD11A - MANUAL (2).docx](../Products/PODS/POD11A/2014%20-%20POD11A%20-%20MANUAL%20%282%29.docx), p. 1
+<details><summary>Warranty — 0 words · 2014 - POD11A - MANUAL.docx, page 1</summary><p><em>(only shared text)</em></p><p class="bp">Also: <a href="Boilerplate.md#bp-63617240bb5bb638">warranty boilerplate (67 devices)</a> · <a href="Boilerplate.md#bp-1a488a5cc38d92fe">warranty boilerplate (67 devices)</a> · <a href="Boilerplate.md#bp-045065cd9adcbfb5">warranty boilerplate (67 devices)</a> · <a href="Boilerplate.md#bp-073c30eb0adcf664">warranty boilerplate (67 devices)</a> · <a href="Boilerplate.md#bp-1cbf852f43462543">warranty boilerplate (67 devices)</a> · <a href="Boilerplate.md#bp-b6240b9a7aed9a9e">warranty boilerplate (67 devices)</a> · <a href="Boilerplate.md#bp-72f55892a1c53496">warranty boilerplate (67 devices)</a> · <a href="Boilerplate.md#bp-34741163f3361dce">warranty boilerplate (67 devices)</a> · <a href="Boilerplate.md#bp-f4e5345ab11dc585">warranty boilerplate (67 devices)</a> · <a href="Boilerplate.md#bp-1637977c20b2600e">warranty boilerplate (67 devices)</a> · <a href="Boilerplate.md#bp-7f976e2b41601d05">warranty boilerplate (67 devices)</a> · <a href="Boilerplate.md#bp-c1c0908fa3aad7e2">warranty boilerplate (68 devices)</a></p></details>
+- source: [2014 - POD11A - MANUAL.docx](../Products/PODS/POD11A/2014%20-%20POD11A%20-%20MANUAL.docx), p. 1
+
+## Footnotes
+
+1. The green plate carries no PODS mark: it prints the WBS box logo and “Ward-Beck Systems” bottom right, unlike the other PODs. — `#POD #SERIES/POD11A - #Master/POD11A - #ARTWORK #DA #2016/POD11A-FRONT&REAR-SILK(CURVE).cdr`
+2. The bar-graph scale numbers on the white plate are set rotated 90°. — `#POD #SERIES/POD11A - #Master/POD11A - #ARTWORK #DA #2016/POD11A-FRONT&REAR-SILK(CURVE).cdr`
+3. The rear power legend reads “90-230 VAC, 50-60 Hz, ½ A.S.B. DISCONNECT BEFORE SERVICING”, printed above the inlet rather than beside a warning triangle. — `#POD #SERIES/POD11A - #Master/POD11A - #ARTWORK #DA #2016/POD11A-FRONT&REAR-SILK(CURVE).cdr`
+4. An older silk, POD11A-Silk-iss2.cdr, dates from 2006|39 and is stored twice (here and in the obsolete POD11 folder). — `#POD #SERIES/POD11A - #Master/POD11A - #ARTWORK #DA #2016/POD11A-Silk-iss2.cdr`

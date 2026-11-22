@@ -1,0 +1,132 @@
+# 1995 - 950250 - DOC - 950250-03-001 - METER PANEL NOTE REVOVE ALL BURRS AND SHARP.jpg
+Wiki page: [Documents](../../../PAGES/Documents.md)
+
+
+- **Year:** 1995 (job number 950250)
+- **Type:** document scan
+- **About:** 950250
+
+## Text recovered by OCR
+
+> 33 0.150 DIA REQ"D 3 3 88 0.500 DATUM ; 3 3 4 3 DETAIL DETAIL 3338 2.950 PUNCH 3.720 2.000 REQ"D 150 4150 0.583 0.583 PUNCH 0.985 (0.032 RADS) RunSz RA085) 984 0.985 DETAIL DETAIL ~944 ULA INSERT FROM ThiS 51280 STUD #FH-440-6 ~Pew" INSERT STUD ah_ [480018 This SEQo 0.130 PREQ D 0.130 'REao 0.675 PITCH(0.700) 025 PITCH(0.700) MATERIAL: ALUM ALLOY 0.080 THICK SSUE] DATEL REMSION APP_ WBS WARD-BECK SYSTEMS FINISH: SAND 120 GRIT AND PAINT TEXTURED BEIGE (452C) TEXCOTE VINYL. DRN: DRG(7 /95) METER PANEL NOTE REVOVE ALL BURRS AND SHARP EDGES: TOLERANCES; Et / 015 Y7x=+ - 0.005 FOR S/s ARTWIORK SEE 950250 08-001. SCALE DISC NO; STs01 1: 2 COOE: 0525Ch0 ISSUE 950250-03- 001 DATUM
+- **Original file:** `WBSps.env/PUBLIC/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/2021-3-16-23-50-0.jpg`
+- **SHA-256:** `9146d6cb98df57e59377dbe5ee85c27e7642d120ded37615e5791d042d9734a7`
+- **Size:** 18,155,037 bytes
+- **Pages:** 1
+
+## Vectors (traced)
+
+- **Sheet:** mechanical 950250-03-001, size B (assumed) 432 × 277 mm, 2000 × 1284 px traced (0.216 mm/px)
+- **Ink extent:** 49–432 mm across, 2–263 mm up
+- **Outlines:** line 556 rings, 4,115 straight (8,338 mm) / 817 curved (952 mm); text 220 rings, 1,229 straight (1,201 mm) / 408 curved (524 mm); tb 28 rings, 200 straight (208 mm) / 45 curved (58.3 mm)
+- **Centre lines:** 5,387 paths (176 closed); straight 5,808 mm, curved 21.2 mm; horizontal 2,821 mm, vertical 1,179 mm, diagonal 1,808 mm
+- **Circles and arcs:** 0 circles, 8 arcs
+- **Closed boxes:** 20 (3 in the title block); named: DETAIL; DETAIL; METER PANEL; 950250-03-001
+- **Words (OCR):** 22 in 22 lines: 0 50d · DATUU · RFOD · 0,305 · 0,985 · DETAIL · DETAIL · PITC-(0.7C0) (J) = · 0.875 · ALUM ALLOY 0.080 Thick · MATERIAL: · WARD-BECK   SYSTEMS
+- **Title block:** (342, 18)–(427, 35) mm: WARD-BECK   SYSTEMS · WBS
+
+Every curve, box, word and wire group: [1995 - 950250 - DOC - 950250-03-001 - METER PANEL NOTE REVOVE ALL BURRS AND SHARP (traced).json](1995%20-%20950250%20-%20DOC%20-%20950250-03-001%20-%20METER%20PANEL%20NOTE%20REVOVE%20ALL%20BURRS%20AND%20SHARP%20%28traced%29.json) (the CAD file: `1995 - 950250 - DOC - 950250-03-001 - METER PANEL NOTE REVOVE ALL BURRS AND SHARP (traced).dxf`).
+
+## Full text
+
+### Page 1 (OCR, spell-checked: 4 words corrected)
+
+```text
+33
+0.150 DIA
+REQ"D
+3
+3
+88
+0.500 DATUM
+;
+3
+3
+4
+3
+DETAIL
+DETAIL
+3338 2.950
+PUNCH 3.720 2.000
+REQ"D
+150
+4150
+0.583
+0.583
+PUNCH 0.985 (0.032 RADS)
+Runs RA085) 984 0.985
+DETAIL
+DETAIL
+~944 ULA INSERT FROM ThiS 51280 STUD #FH-440-6
+~Pew" INSERT STUD ah_ [480018 This SEQo
+0.130 PREQ D
+0.130 'REao
+0.675
+PITCH(0.700)
+025
+PITCH(0.700)
+MATERIAL: ALUM ALLOY 0.080 THICK
+SSUE] DATE REMSION APP_ WBS WARD-BECK  SYSTEMS
+FINISH: SAND 120 GRIT AND PAINT TEXTURED BEIGE (452C) TEXCOTE VINYL.
+DRN: DRG(7 /95)
+METER PANEL
+NOTE REMOVE ALL BURRS AND SHARP EDGES: TOLERANCES; Et / 015 Y7x=+ - 0.005 FOR S/s ARTWORK SEE 950250 08-001.
+SCALE DISC NO; STs01 1: 2 COOE: 0525Ch0
+ISSUE 950250-03- 001
+DATUM
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+33
+0.150 DIA
+REQ"D
+3
+3
+88
+0.500 DATUM
+;
+3
+3
+4
+3
+DETAIL
+DETAIL
+3338 2.950
+PUNCH 3.720 2.000
+REQ"D
+150
+4150
+0.583
+0.583
+PUNCH 0.985 (0.032 RADS)
+RunSz RA085) 984 0.985
+DETAIL
+DETAIL
+~944 ULA INSERT FROM ThiS 51280 STUD #FH-440-6
+~Pew" INSERT STUD ah_ [480018 This SEQo
+0.130 PREQ D
+0.130 'REao
+0.675
+PITCH(0.700)
+025
+PITCH(0.700)
+MATERIAL: ALUM ALLOY 0.080 THICK
+SSUE] DATEL REMSION APP_ WBS WARD-BECK  SYSTEMS
+FINISH: SAND 120 GRIT AND PAINT TEXTURED BEIGE (452C) TEXCOTE VINYL.
+DRN: DRG(7 /95)
+METER PANEL
+NOTE REVOVE ALL BURRS AND SHARP EDGES: TOLERANCES; Et / 015 Y7x=+ - 0.005 FOR S/s ARTWIORK SEE 950250 08-001.
+SCALE DISC NO; STs01 1: 2 COOE: 0525Ch0
+ISSUE 950250-03- 001
+DATUM
+```
+
+</details>
+
+## Contents (JSON)
+
+```json
+{"file":"Consoles/1990-1999/950250/1995 - 950250 - DOC - 950250-03-001 - METER PANEL NOTE REVOVE ALL BURRS AND SHARP.jpg","sha256":"9146d6cb98df57e59377dbe5ee85c27e7642d120ded37615e5791d042d9734a7","kind":"doc","models":["950250"],"year":1995,"pages":1,"order":[{"page":1,"title_block":[{"number":"950250-03-001","type":"wiring","title":"Meter Panel Note Revove All Burrs And Sharp","drawn":"DRG"}],"text":["3","2","0 50d","DATUU","RFOD","0,305","0,985","DETAIL DETAIL","PITC-(0.7C0) (J) = 0.875","MATERIAL: ALUM ALLOY 0.080 Thick","SAND 120 GRIT AND PAINT WBS WARD-BECK   SYSTEMS","FINISH: TEXTURED BEIGE (452C)","TEXCOTE MNYL:","METER PANEL","RURRS","+-001s 950250-03-001"]}],"drawing":{"svg":"_traces/9146d6cb98df57e5.svg","viewBox":[2000,1284],"rotate":0,"number":"950250-03-001","title":"Meter Panel Note Revove All Burrs And Sharp","dtype":"03","outlines":"see _traces/9146d6cb98df57e5.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","centre_lines":"see _traces/9146d6cb98df57e5.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","words":[[300,543,"0 50d"],[285,620,"DATUU"],[1362,775,"RFOD"],[650,933,"0,305"],[578,973,"0,985"],[1291,986,"DETAIL"],[736,996,"DETAIL"],[1209,1096,"0.875"],[731,1104,"PITC-(0.7C0) (J) ="],[239,1149,"MATERIAL:"],[316,1149,"ALUM ALLOY 0.080 Thick"],[239,1179,"FINISH:"],[294,1179,"SAND 120 GRIT AND PAINT"],[1626,1174,"WBS"],[1734,1172,"WARD-BECK   SYSTEMS"],[294,1194,"TEXTURED BEIGE (452C)"],[296,1209,"TEXCOTE"],[361,1206,"MNYL:"],[1761,1221,"METER PANEL"],[315,1243,"RURRS"],[345,1253,"+-001s"],[1764,1267,"950250-03-001"]]}}
+```
