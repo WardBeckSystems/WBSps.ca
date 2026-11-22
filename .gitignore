@@ -62,6 +62,7 @@ docker/ftp-passwd/
 [sS][cC][aA][nN]/
 
 # Not archive content: environments, dependencies, build output, packages, private files, databases, backups
+logs/*.log
 venv/
 venv-*/
 .venv/

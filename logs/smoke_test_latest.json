@@ -1,0 +1,220 @@
+{
+  "timestamp": "2026-11-22T05:16:02.027153+00:00",
+  "verdict": "HEALTHY",
+  "duration_sec": 2.18,
+  "summary": {
+    "total": 15,
+    "passed": 15,
+    "failed": 0,
+    "critical_failures": 0,
+    "avg_latency_ms": 199.7
+  },
+  "dns": {
+    "wbsps.ca": {
+      "ok": true,
+      "ips": [
+        "69.27.124.160"
+      ],
+      "error": null
+    },
+    "xtm.wbsps.ca": {
+      "ok": true,
+      "ips": [
+        "69.27.124.160"
+      ],
+      "error": null
+    },
+    "wardbecksystems.github.io": {
+      "ok": true,
+      "ips": [
+        "185.199.108.153",
+        "185.199.109.153",
+        "185.199.111.153",
+        "185.199.110.153"
+      ],
+      "error": null
+    }
+  },
+  "endpoints": [
+    {
+      "name": "WBSps.ca Root (HTTPS)",
+      "url": "https://wbsps.ca/",
+      "category": "Main Archive",
+      "critical": true,
+      "status": 200,
+      "latency_ms": 330.2,
+      "content_length": 1395077,
+      "content_type": "text/html; charset=utf-8",
+      "passed": true,
+      "error": null
+    },
+    {
+      "name": "WBSps.ca HTTP Redirect / Port 80",
+      "url": "http://wbsps.ca/",
+      "category": "Main Archive",
+      "critical": false,
+      "status": 200,
+      "latency_ms": 312.4,
+      "content_length": 1395077,
+      "content_type": "text/html; charset=utf-8",
+      "passed": true,
+      "error": null
+    },
+    {
+      "name": "WBSps.ca Search Page",
+      "url": "https://wbsps.ca/search.html",
+      "category": "Main Archive Tools",
+      "critical": true,
+      "status": 200,
+      "latency_ms": 283.2,
+      "content_length": 11387,
+      "content_type": "text/html; charset=utf-8",
+      "passed": true,
+      "error": null
+    },
+    {
+      "name": "WBSps.ca Drawing Viewer",
+      "url": "https://wbsps.ca/viewer.html",
+      "category": "Main Archive Tools",
+      "critical": true,
+      "status": 200,
+      "latency_ms": 247.8,
+      "content_length": 37743,
+      "content_type": "text/html; charset=utf-8",
+      "passed": true,
+      "error": null
+    },
+    {
+      "name": "WBSps.ca Rotation Audit",
+      "url": "https://wbsps.ca/rotation_audit.html",
+      "category": "Main Archive Tools",
+      "critical": false,
+      "status": 200,
+      "latency_ms": 216.7,
+      "content_length": 731023,
+      "content_type": "text/html; charset=utf-8",
+      "passed": true,
+      "error": null
+    },
+    {
+      "name": "WBSps.ca Parts Database",
+      "url": "https://wbsps.ca/PARTS/index.html",
+      "category": "Main Archive Tools",
+      "critical": false,
+      "status": 200,
+      "latency_ms": 221.6,
+      "content_length": 2698,
+      "content_type": "text/html; charset=utf-8",
+      "passed": true,
+      "error": null
+    },
+    {
+      "name": "WBSps.ca Logo SVG",
+      "url": "https://wbsps.ca/WBS_Logo.svg",
+      "category": "Archive Assets",
+      "critical": true,
+      "status": 200,
+      "latency_ms": 343.6,
+      "content_length": 15036,
+      "content_type": "image/svg+xml",
+      "passed": true,
+      "error": null
+    },
+    {
+      "name": "WBS Panel Bundle JS",
+      "url": "https://wbsps.ca/_catalog/wbs_panel.js",
+      "category": "Archive Assets",
+      "critical": true,
+      "status": 200,
+      "latency_ms": 213.4,
+      "content_length": 11282,
+      "content_type": "application/javascript; charset=utf-8",
+      "passed": true,
+      "error": null
+    },
+    {
+      "name": "WBS Scan Bundle JS",
+      "url": "https://wbsps.ca/_catalog/wbs_scan.js?v=7792b3a7",
+      "category": "Archive Assets",
+      "critical": true,
+      "status": 200,
+      "latency_ms": 236.4,
+      "content_length": 6677,
+      "content_type": "application/javascript; charset=utf-8",
+      "passed": true,
+      "error": null
+    },
+    {
+      "name": "XTM-4 Standalone App",
+      "url": "https://xtm.wbsps.ca/",
+      "category": "XTM Meter",
+      "critical": true,
+      "status": 200,
+      "latency_ms": 155.0,
+      "content_length": 74611,
+      "content_type": "text/html",
+      "passed": true,
+      "error": null
+    },
+    {
+      "name": "XTM Version Telemetry JSON",
+      "url": "https://xtm.wbsps.ca/version.json",
+      "category": "XTM Meter",
+      "critical": true,
+      "status": 200,
+      "latency_ms": 172.2,
+      "content_length": 69,
+      "content_type": "application/json",
+      "passed": true,
+      "error": null
+    },
+    {
+      "name": "GitHub Pages Mirror Root",
+      "url": "https://wardbecksystems.github.io/WBSps.ca/",
+      "category": "GitHub Pages",
+      "critical": true,
+      "status": 200,
+      "latency_ms": 84.3,
+      "content_length": 1395077,
+      "content_type": "text/html; charset=utf-8",
+      "passed": true,
+      "error": null
+    },
+    {
+      "name": "McCurdy ATS Dual Meters Simulator",
+      "url": "https://wardbecksystems.github.io/WBSps.ca/mccurdy_ats_dual_meters.html",
+      "category": "GitHub Pages",
+      "critical": true,
+      "status": 200,
+      "latency_ms": 48.0,
+      "content_length": 63198,
+      "content_type": "text/html; charset=utf-8",
+      "passed": true,
+      "error": null
+    },
+    {
+      "name": "McCurdy Meter Logo Styleguide",
+      "url": "https://wardbecksystems.github.io/WBSps.ca/styleguide-mccurdy-meter-logo.html",
+      "category": "GitHub Pages",
+      "critical": true,
+      "status": 200,
+      "latency_ms": 54.7,
+      "content_length": 39488,
+      "content_type": "text/html; charset=utf-8",
+      "passed": true,
+      "error": null
+    },
+    {
+      "name": "GitHub Pages Search Engine",
+      "url": "https://wardbecksystems.github.io/WBSps.ca/search.html",
+      "category": "GitHub Pages",
+      "critical": true,
+      "status": 200,
+      "latency_ms": 76.4,
+      "content_length": 11387,
+      "content_type": "text/html; charset=utf-8",
+      "passed": true,
+      "error": null
+    }
+  ]
+}
