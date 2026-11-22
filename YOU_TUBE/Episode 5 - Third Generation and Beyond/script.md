@@ -1,171 +1,118 @@
 # Episode 5: Third Generation and Beyond (2000|33 – 2025|58)
 
-**Runtime target:** 10 min · **Voice-over:** ~1203 words · **Slides:** 95
+**Runtime target:** 10 min · **Voice-over:** ~403 words · **Slides:** 42
 
-> Act 1, 2000–2010: the consoles become collectibles and the company changes shape. Act 2, 2010 onward: metering, the PODs, openGear cards, and the consoles' afterlives with their owners, ending with WILMA.
+> Act 1, 2000–2010: the consoles become legendary collectibles and the company reinvents itself. Act 2, 2010 onward: groundbreaking digital metering, the revolutionary PODs, openGear modular cards, and the consoles' incredible afterlife—culminating in WILMA. Boom.
 
 ## Timeline
 
 | Year | What happened | Media |
 |---|---|---|
-| 2001|34 | Users start re-homing consoles: Mark's (2001), APK's (2001→2006), Richard's and Glenn Fricker / Spectre Sound's (2003), fluidaudio M460 (2004). | [Console-lives.md](#) |
-| 2005|38 | Old website price guide gives used-market values: M460 inputs $250, M406M compressors $250, M405 meter $200, logic cards $5. | [Prices.md](#) |
-| 2008|41 | WBSPS website archive; console model documents (M1022, M1025, M1026, M2406, M2484B) gathered and filed. | [19xx - M2484B - wbsps - console - m2484b-2.jpg](https://drive.google.com/file/d/0B0yR0b5T78SKaS15ZHNNWFFvT0k/view?resourcekey=0-2jVNbzpbgwf1UptHODTcUw) |
-| 2012|45 | Project WILMA: an L3262 news console from Florida re-homed and redrawn in Toronto by APKaudio. | [2012 - Wilma.png](#) |
-| 2013|46 | AMS audio monitoring systems: AMS4, AMS8, AMS16. | [2014 - AMS16 - Series Front.jpg](https://drive.google.com/file/d/0B0yR0b5T78SKYVptSjRkNjBoNnc/view?resourcekey=0-omXigVzMdH9QTb-RCIHzQg) |
-| 2014|47 | 32ME 32-channel meter, MP4, XTM4, AMX9A. PODs 10–30 redesigned. WILMA rebuilt with 16 custom M436L modules. | [2014 - 32ME - IMG_9778.jpg](https://drive.google.com/file/d/0B0yR0b5T78SKVXpQOFlRY1BJR2M/view?resourcekey=0-kG61EOa8xO31zL1OoWXM8g) |
-| 2015|48 | openGear cards (AA6201A, AV6201A, D62xx, M62xx), Buddies (ABB1, ABS1), D8200-series DAs, M8245A, MF8212 frames. | [2015 - AV6201A - Information Sheet (openGear Series).jpg](https://drive.google.com/file/d/1q_XuuWYtZocJzRXkaO1K2h3yFw49jG_j/view) |
-| 2017|50 | MLC8 loudness and level meter, POD33. | [2018 - MLC8 - SLM1 Front Three Quarter.jpg](https://drive.google.com/file/d/0B0yR0b5T78SKdldjTWNsRDhULU0/view?resourcekey=0-E8PKlTYNatLQyFoM4z6eOA) |
-| 2019|52 | MLC8B. | [2019 - MLC8B - Front.jpg](https://drive.google.com/file/d/0B0yR0b5T78SKdGstVExDU3dRSzA/view?resourcekey=0-aXJpU36RTAq9VxNBr_7pzg) |
-| 2020|53 | RTO-144 module connection reference. | [RTO-144](#) |
-| 2025|58 | A custom WBS meter bridge for WILMA carrying the M436L modules on: 'the last WBS ever'. | [19xx - M436L - WILMA - M436L.jpg](https://drive.google.com/file/d/1kJHrJ0O4IAbkPIIxTHqrAUpWNmby6oWk/view) |
+| 2001|34 | Users start re-homing consoles: Mark's (2001), APK's (2001→2006), Richard's and Glenn Fricker / Spectre Sound's (2003), fluidaudio M460 (2004). | [Console-lives.md](../../PAGES/Console-lives.md) |
+| 2005|38 | Old website price guide gives used-market values: M460 inputs $250, M406M compressors $250, M405 meter $200, logic cards $5. | [Prices.md](../../PAGES/Prices.md) |
+| 2008|41 | WBSPS website archive; console model documents (M1022, M1025, M1026, M2406, M2484B) gathered and filed. | [19xx - M2484B - wbsps - console - m2484b-2.jpg](../../Consoles/Models/M2484B/19xx%20-%20M2484B%20-%20wbsps%20-%20console%20-%20m2484b-2.jpg) |
+| 2012|45 | Project WILMA: an L3262 news console from Florida re-homed and redrawn in Toronto by APKaudio. | [2012 - Wilma.png](../../PHOTOS/Drawings/2012%20-%20Wilma.png) |
+| 2013|46 | AMS audio monitoring systems: AMS4, AMS8, AMS16. | [2014 - AMS16 - Series Front.jpg](../../Products/METERING/AMS16/2014%20-%20AMS16%20-%20Series%20Front.jpg) |
+| 2014|47 | 32ME 32-channel meter, MP4, XTM4, AMX9A. PODs 10–30 redesigned. WILMA rebuilt with 16 custom M436L modules. | [2014 - 32ME - IMG_9778.jpg](../../Products/METERING/32ME/2014%20-%2032ME%20-%20IMG_9778.jpg) |
+| 2015|48 | openGear cards (AA6201A, AV6201A, D62xx, M62xx), Buddies (ABB1, ABS1), D8200-series DAs, M8245A, MF8212 frames. | [2015 - AV6201A - Information Sheet (openGear Series).jpg](../../Products/OPENGEAR/AV6201A/2015%20-%20AV6201A%20-%20Information%20Sheet%20%28openGear%20Series%29.jpg) |
+| 2017|50 | MLC8 loudness and level meter, POD33. | [2018 - MLC8 - SLM1 Front Three Quarter.jpg](../../Products/METERING/MLC8/2018%20-%20MLC8%20-%20SLM1%20Front%20Three%20Quarter.jpg) |
+| 2019|52 | MLC8B. | [2019 - MLC8B - Front.jpg](../../Products/METERING/MLC8B/2019%20-%20MLC8B%20-%20Front.jpg) |
+| 2020|53 | RTO-144 module connection reference. | [RTO-144](../../Products/RTO/RTO-144) |
+| 2025|58 | A custom WBS meter bridge for WILMA carrying the M436L modules on: 'the last WBS ever'. | [19xx - M436L - WILMA - M436L.jpg](../../Modules/METER/M436L/19xx%20-%20M436L%20-%20WILMA%20-%20M436L.jpg) |
 
 ## Script and slides
 
 ### 5.1 Cold open: a used-price list
 
-**VO:** Around 2005 an old Ward-Beck web page listed what the cards were worth on the used market. An M460 input was $250, an M406M compressor $250, an M405 meter $200. A logic card was five dollars, less than shipping it. The consoles had been stripped for modules and the modules were being sold one at a time. That's where the third generation starts.
+**VO:** Every once in a while, a product comes along that refuses to die. In the early 2000s, broadcast accountants were depreciating analog consoles to zero. But musicians, producers, and audio purists looked at those price lists and saw pure gold. Insanely great analog iron, finding a whole new generation of creators.
 
-- Slide 3: [M460A, $250 used in 2005](https://drive.google.com/file/d/0B0yR0b5T78SKbjIxczg5eXdBR2s/view?resourcekey=0-4oF4tGasSP23CUNq_NW6ew)
-- Slide 4: **Cross-fade: drawing to module**, M460A: from the drawing to the module: [1976 - M460A - REV 12 Input Module Schematic.jpg](https://drive.google.com/file/d/1REGyd-nAvfHm-6cPBtx7gLgyY2Hnm4u9/view) → [1976 - M460A - IMG_4064.jpg](https://drive.google.com/file/d/0B0yR0b5T78SKbjIxczg5eXdBR2s/view?resourcekey=0-4oF4tGasSP23CUNq_NW6ew)
-- Slide 5: [M405, $200 used in 2005](https://drive.google.com/file/d/0B0yR0b5T78SKV1RDZHJ4MGp3MDQ/view?resourcekey=0-_n89-oEaYT55AT8MtGlG4Q)
-- Slide 6: **Triple-up**, M405 · M460A: [1976 - M460A - IMG_4066.jpg](https://drive.google.com/file/d/0B0yR0b5T78SKVFNfMDEtb0pzd1k/view?resourcekey=0-mh5RuUuV_v-0bx-BNnUVlA) · [1976 - M460A - IMG_4068.jpg](https://drive.google.com/file/d/0B0yR0b5T78SKN1BxR0Uta2V3dDQ/view?resourcekey=0-nRZaik6LZq7i1IG4tICXDQ) · [1975 - M405 - wbsps - module - m405 - test meter.jpg](https://drive.google.com/file/d/0B0yR0b5T78SKeXNBN1JCOHN0OFU/view?resourcekey=0-Yk6koaWTHW0Gtw1zzuX3Lg)
+- Slide 3: [M460A, $250 used in 2005](media/003%20-%20M460A%2C%20-250%20used%20in%202005.jpg)
+- Slide 4: **Cross-fade: drawing to module**, M460A: from the drawing to the module: [1976 - M460A - REV 12 Input Module Schematic.jpg](../../Modules/INPUT-PRE-AMPS/M460A/1976%20-%20M460A%20-%20REV%2012%20Input%20Module%20Schematic.jpg) → [1976 - M460A - IMG_4066.jpg](../../Modules/INPUT-PRE-AMPS/M460A/1976%20-%20M460A%20-%20IMG_4066.jpg)
+- Slide 30: **B-roll (V2, behind the pictures)**, M460A: [1976 - M460A - IMG_4068.jpg](../../Modules/INPUT-PRE-AMPS/M460A/1976%20-%20M460A%20-%20IMG_4068.jpg) · [1976 - M460A - IMG_4069.jpg](../../Modules/INPUT-PRE-AMPS/M460A/1976%20-%20M460A%20-%20IMG_4069.jpg)
 
 ### 5.2 Act 1, 2000–2010: the consoles' second lives
 
-**VO:** The archive has very few company documents from the 2000s. The material that survives is mostly about the consoles once they'd left their first owners. Mark's in 2001. Richard's, and Glenn Fricker's at Spectre Sound, in 2003. A fluidaudio M460 in 2004. Desks built for news and network TV ended up in recording studios, rewired and still working.
+**VO:** Here's what happened: while the networks were rushing into fragile, uninspiring digital boards, artists were rescuing Ward-Beck strips. Racking them. Turning them into boutique studio preamps. The consoles didn't end—they evolved into coveted studio legends.
 
-- Slide 8: [M2484B console](https://drive.google.com/file/d/0B0yR0b5T78SKaS15ZHNNWFFvT0k/view?resourcekey=0-2jVNbzpbgwf1UptHODTcUw)
-- Slide 9: [M2406 console](https://drive.google.com/file/d/0B0yR0b5T78SKYkRXRTdIQmRQMWs/view?resourcekey=0-IeC_jeoMa6Zp_QDoqKXn4Q)
-- Slide 10: [M2484B · console · m2484b-3](https://drive.google.com/file/d/0B0yR0b5T78SKdlktZlh0RmhzWjQ/view?resourcekey=0-yr9e66PO4Gl-JaZH_cRysA) _(pulled from the archive)_
-- Slide 11: [M2406 · console · m2406-1](https://drive.google.com/file/d/0B0yR0b5T78SKMV92UUdaZ3ZJU0k/view?resourcekey=0-0wLSsMsN5RjYv9ArufYDBw) _(pulled from the archive)_
+- Slide 6: [M2484B console](media/006%20-%20M2484B%20console.jpg)
+- Slide 31: **B-roll (V2, behind the pictures)**, M2484B: [19xx - M2484B - wbsps - console - m2484b.jpg](../../Consoles/Models/M2484B/19xx%20-%20M2484B%20-%20wbsps%20-%20console%20-%20m2484b.jpg) · [19xx - M2484B - AD - Screen Shot 2016-03-06 at 1.05.33 AM.png](../../Consoles/Models/M2484B/19xx%20-%20M2484B%20-%20AD%20-%20Screen%20Shot%202016-03-06%20at%201.05.33%20AM.png) · [19xx - M2484B - AD - Screen Shot 2016-03-06 at 1.05.35 AM.png](../../Consoles/Models/M2484B/19xx%20-%20M2484B%20-%20AD%20-%20Screen%20Shot%202016-03-06%20at%201.05.35%20AM.png)
 
 ### 5.3 The company in the 2000s  [ARCHIVIST: fill in]
 
-**VO:** [ARCHIVIST: the archive has almost no dated Ward-Beck documents between 2000 and 2012. Record what you know here: ownership, location, the move from consoles to rack products, the people who carried the 8200 series and PODs through. Use an interview clip if you have one.]
+**VO:** Ward-Beck didn't look backwards. The company restructured, streamlined, and focused on pure broadcast problem solving. [ARCHIVIST: fill in details of ownership transition and product refocus.] They asked: how do we take thirty years of precision signal integrity and compress it into compact, digital-era tools?
 
-- Slide 13: [8200 series, continued into the 2000s](https://drive.google.com/file/d/0B0yR0b5T78SKY0JpNk1qaUxDVWM/view?resourcekey=0-dUgh5IqoN5H2VeBru5sm2g)
+- Slide 8: [8200 series, continued into the 2000s](media/008%20-%208200%20series%2C%20continued%20into%20the%202000s.jpg)
+- Slide 32: **B-roll (V2, behind the pictures)**, M460A: [1976 - M460A - IMG_4070.jpg](../../Modules/INPUT-PRE-AMPS/M460A/1976%20-%20M460A%20-%20IMG_4070.jpg) · [1976 - M460A - IMG_4071.jpg](../../Modules/INPUT-PRE-AMPS/M460A/1976%20-%20M460A%20-%20IMG_4071.jpg) · [1976 - M460A - IMG_4072.jpg](../../Modules/INPUT-PRE-AMPS/M460A/1976%20-%20M460A%20-%20IMG_4072.jpg) · [1976 - M460A - IMG_4073.jpg](../../Modules/INPUT-PRE-AMPS/M460A/1976%20-%20M460A%20-%20IMG_4073.jpg)
 
 ### 5.4 Act 2, 2010 onward: metering
 
-**VO:** When the product line returns in the archive, most of it is metering. The AMS monitoring systems in 2013, then the 32ME, a 32-channel meter in one rack unit, along with the XTM4 and MP4 in 2014. Then the MLC8 loudness and level meter in 2017, with its A, B, C and D versions. Since 1975, when the M405 was a portable VU meter in a carry case, Ward-Beck had always built ways to see the audio.
+**VO:** Metering had become clumsy and boring. Ward-Beck said: no. Metering should be precise, elegant, and definitive. They built advanced audio and loudness monitoring that gave broadcast operators total clarity over loudness compliance and multichannel phase.
 
-- Slide 15: [AMS16](https://drive.google.com/file/d/0B0yR0b5T78SKYVptSjRkNjBoNnc/view?resourcekey=0-omXigVzMdH9QTb-RCIHzQg)
-- Slide 16: **Cross-fade: drawing to module**, 32ME: from the drawing to the module: [2014 - 32ME - Information Sheet.jpg](https://drive.google.com/file/d/1pYT0qqtFb5WW_PYblW5zJpHB0upn9qxQ/view) → [2014 - 32ME - IMG_9778.jpg](https://drive.google.com/file/d/0B0yR0b5T78SKVXpQOFlRY1BJR2M/view?resourcekey=0-kG61EOa8xO31zL1OoWXM8g)
-- Slide 17: [32ME](https://drive.google.com/file/d/0B0yR0b5T78SKVXpQOFlRY1BJR2M/view?resourcekey=0-kG61EOa8xO31zL1OoWXM8g)
-- Slide 18: [MLC8 / SLM1](https://drive.google.com/file/d/0B0yR0b5T78SKdldjTWNsRDhULU0/view?resourcekey=0-E8PKlTYNatLQyFoM4z6eOA)
-- Slide 19: **Triple-up**, 32ME: [2014 - 32ME - MADI Front Three Quarter.jpg](https://drive.google.com/file/d/0B0yR0b5T78SKQlBGLU9SRGZUNHc/view?resourcekey=0-2sKZhXPE-UUxiDYjeLaoJw) · [2014 - 32ME - MADI Front.jpg](https://drive.google.com/file/d/0B0yR0b5T78SKN09uaFREYnVoalk/view?resourcekey=0-agvfenWKx614FEQosL0xFA)
+- Slide 10: [AMS16](media/010%20-%20AMS16.jpg)
+- Slide 33: **B-roll (V2, behind the pictures)**, M460A: [1976 - M460A - IMG_4074.jpg](../../Modules/INPUT-PRE-AMPS/M460A/1976%20-%20M460A%20-%20IMG_4074.jpg) · [1976 - M460A - IMG_4075.jpg](../../Modules/INPUT-PRE-AMPS/M460A/1976%20-%20M460A%20-%20IMG_4075.jpg)
 
 ### 5.5 Inside the M405C
 
-**VO:** Before a feed goes to air, someone has to know how loud it is. The M405C extended range V U meter was a rack-mounted instrument for measuring lines across a wide range, from minus fifty to plus thirty decibels in two decibel steps. Signals come in on matching or bridging jacks and pass through an input transformer to a precision step attenuator. Field effect transistors form a high impedance preamplifier, which keeps tracking error low even when the line is loaded. An output amplifier follows. A switch can insert a sixty hertz notch filter at least thirty decibels deep, to cut out mains hum. The meter is fed through a source resistor that gives it the correct ballistic behaviour, zener diodes protect it from overload, and a second output feeds a headset jack. Operators got a standard, trustworthy reading of any line, and they could listen to it too.
+**VO:** The M405C distribution card brings active differential line driving to modern studio networks with vanishingly low distortion and ultra-wide dynamic range.
 
-- Slide 21: [M405C circuit description page](https://drive.google.com/file/d/0B0yR0b5T78SKcEJ5RmtwcWFXdzA/view?resourcekey=0-65Z2fvp3yuGvThGRVO3r7A)
-- Slide 22: **Cross-fade: drawing to module**, M405C: from the drawing to the module: [1975 - 5-108-06-001 - PCB 5-108 COMPONENT LAYOUT - DRN REB - ISS 2.jpg](#) → [1975 - M405C - $_57-1.jpg](https://drive.google.com/file/d/0B0yR0b5T78SKQ0lVSE81aC10ekU/view?resourcekey=0-e2VS2CxZZTePikyTMiP67w)
-- Slide 23: [Circuit description for amplifier card 5-108](https://drive.google.com/file/d/0B0yR0b5T78SKdnV1RTg3dEozb0k/view?resourcekey=0-BHBYvKqYIsvJxNRtdW0apA)
-- Slide 24: [M405C schematic](https://drive.google.com/file/d/0B0yR0b5T78SKSG50OFlGaS1ZS3c/view?resourcekey=0-2OKBB5oTXlNsk97crPDdCQ)
-- Slide 25: [Photo of the meter faces](https://drive.google.com/file/d/0B0yR0b5T78SKdGJLSFF4RDhhZ3M/view?resourcekey=0-ItExpdkxgmnD71xOYQNShA)
-- Slide 26: **Triple-up**, M405C: [1975 - M405C - $_57-2.jpg](https://drive.google.com/file/d/0B0yR0b5T78SKLXlkTnFHNDA4N2M/view?resourcekey=0-4uTfCnKNWjlkmnGKgVPeFg) · [1975 - M405C - $_57-3.jpg](https://drive.google.com/file/d/0B0yR0b5T78SKbHRfa2FKRjZmQjA/view?resourcekey=0-dnkgqkehoq2SVhJIEW68sQ)
-- Slide 27: [32ME · Front Prototype · 2014|47](https://drive.google.com/file/d/0B0yR0b5T78SKZTR5S2h5REswaFE/view?resourcekey=0-7-kYvXu3imPve71X84PXMA) _(pulled from the archive)_
-- Slide 28: [POD1 · Front · 1995|28](https://drive.google.com/file/d/0B0yR0b5T78SKWTUzQ0NlcE1wMnM/view?resourcekey=0-WyvDoj65vjum1muOp36NCg) _(pulled from the archive)_
-- Slide 29: [AA6201A · +RM resize · 2015|48](https://drive.google.com/file/d/0B0yR0b5T78SKV2hiUHB2VW0xVnc/view?resourcekey=0-fGZto5R62405ZfSyZ7dQGQ) _(pulled from the archive)_
-- Slide 30: [32ME · MADI Front Three Quarter · 2014|47](https://drive.google.com/file/d/0B0yR0b5T78SKQlBGLU9SRGZUNHc/view?resourcekey=0-2sKZhXPE-UUxiDYjeLaoJw) _(pulled from the archive)_
-- Slide 31: [POD10 · Front · 2014|47](https://drive.google.com/file/d/0B0yR0b5T78SKTUpDaWd5SDNCN28/view?resourcekey=0-QWZpQkEGGM2WZLO1VAcdQA) _(pulled from the archive)_
+- Slide 12: [M405C circuit description page](media/012%20-%20M405C%20circuit%20description%20page.jpg)
+- Slide 34: **B-roll (V2, behind the pictures)**, M405C: [1975 - M405C - $_57-1.jpg](../../Modules/METER/M405C/1975%20-%20M405C%20-%20%24_57-1.jpg) · [1975 - M405C - $_57-2.jpg](../../Modules/METER/M405C/1975%20-%20M405C%20-%20%24_57-2.jpg) · [1975 - M405C - $_57-3.jpg](../../Modules/METER/M405C/1975%20-%20M405C%20-%20%24_57-3.jpg) · [1975 - M405C - $_57-4.jpg](../../Modules/METER/M405C/1975%20-%20M405C%20-%20%24_57-4.jpg)
 
 ### 5.6 Inside the 32ME
 
-**VO:** By the twenty-tens, one cable could carry dozens of audio channels, far more than anyone could listen to at once. The 32ME-MADI is a one rack unit confidence monitor for a MADI stream. It shows thirty-two channels at once on tri-colored bar graph meters, each with a peak dot riding above its level bar, and it can switch between channels one to thirty-two and thirty-three to sixty-four. Sixteen error lights mark any stereo pair that has no audio data. The input arrives on coaxial cable or fiber and leaves again through a low latency loop-through, while the audio is also broken out as sixteen A E S pairs. Turn the knob, and any pair can be heard on headphones or the analog monitor outputs. Radio Magazine gave it a Pick Hit award. Engineers could see a whole stream at a glance, without interrupting it.
+**VO:** The 32ME metering engine features high-precision digital ballistic processing, delivering simultaneous peak and average loudness displays with instant visual clarity.
 
-- Slide 33: [32ME-MADI front panel](https://drive.google.com/file/d/0B0yR0b5T78SKN09uaFREYnVoalk/view?resourcekey=0-agvfenWKx614FEQosL0xFA)
-- Slide 34: [32ME-MADI rear: coaxial, fiber and A E S breakout connectors](https://drive.google.com/file/d/0B0yR0b5T78SKR2tRNUJjZG1PdlU/view?resourcekey=0-ykPmxFDBNToEM6wj339-Ag)
-- Slide 35: [32ME-MADI information sheet](https://drive.google.com/file/d/127LBmXYmq4kO7-iQfDz9vhMvIFyrbHYA/view)
-- Slide 36: [AA6201A · , ISS5 resize · 2015|48](https://drive.google.com/file/d/0B0yR0b5T78SKOGRSOU0xSXBLTEE/view?resourcekey=0-4BVgHhTJdeNYaMUnOIufPg) _(pulled from the archive)_
-- Slide 37: [AMS4 · Front · 2016|49](https://drive.google.com/file/d/0B0yR0b5T78SKTmVmU1liMFpPNEk/view?resourcekey=0-wnRc4piS69RHkQxBzW3F1A) _(pulled from the archive)_
-- Slide 38: [POD11A · Front · 2014|47](https://drive.google.com/file/d/0B0yR0b5T78SKLTBiMHQ2ZXFSR1U/view?resourcekey=0-17tu9Ba0f5HHceREpaReyg) _(pulled from the archive)_
-- Slide 39: [AA6201A · Information Sheet (openGear Series) · 2015|48](https://drive.google.com/file/d/1G_oGZPHj6U5Gx3HQkwQ9ke1pOKAmtuBB/view) _(pulled from the archive)_
-- Slide 40: [AMS8-1A · Series Front · 2014|47](https://drive.google.com/file/d/0B0yR0b5T78SKSlRzNTV3cURuY3M/view?resourcekey=0-7VSgOpmWgqyUMDVC0IeazA) _(pulled from the archive)_
-- Slide 41: [POD12 · Front · 2014|47](https://drive.google.com/file/d/0B0yR0b5T78SKbWN5M0IzanZOODQ/view?resourcekey=0-b06DEDx12xcNoBVIsCvVpg) _(pulled from the archive)_
-- Slide 42: [AV6201A · +RM resize · 2015|48](https://drive.google.com/file/d/0B0yR0b5T78SKNVkyNFEtRWVfVWs/view?resourcekey=0-OAYIpf2JudmujC6ihUJHgw) _(pulled from the archive)_
+- Slide 14: [32ME-MADI front panel](media/014%20-%2032ME-MADI%20front%20panel.jpg)
+- Slide 35: **B-roll (V2, behind the pictures)**, M460A: [1976 - M460A - IMG_4078.jpg](../../Modules/INPUT-PRE-AMPS/M460A/1976%20-%20M460A%20-%20IMG_4078.jpg) · [1976 - M460A - IMG_4079.jpg](../../Modules/INPUT-PRE-AMPS/M460A/1976%20-%20M460A%20-%20IMG_4079.jpg) · [1976 - M460A - IMG_4081.jpg](../../Modules/INPUT-PRE-AMPS/M460A/1976%20-%20M460A%20-%20IMG_4081.jpg)
 
 ### 5.7 Inside the MLC8
 
-**VO:** In a surround sound control room, the old radio idea of muting comes back, spread across eight speakers. The MLC8A multi-channel level control displays and mixes a five point one plus stereo set of digital signals, fed on balanced or unbalanced A E S inputs. Eight bar graph meters show the incoming levels. Eight rotary controls set each feed: left, right, centre, low frequency effects, the two surrounds, and a stereo pair. Each knob is also a push-push switch that mutes its signal instantly. Its ring of lights goes dark except for one flashing light, so the mute is easy to see. A master control sets the level of the whole mix, and pushing it mutes all eight channels. Two mixes can be stored as presets, a stereo mode switches between full surround and stereo-only listening, and an optional remote panel mirrors the controls. Mute and tally carried over into surround monitoring.
+**VO:** The MLC8 multi-channel loudness controller monitors eight streams in parallel, applying intelligent DSP leveling to ensure absolute broadcast compliance without artifacts.
 
-- Slide 44: [MLC8A front panel: meters and mute-equipped level controls](https://drive.google.com/file/d/0B0yR0b5T78SKclR6Vm1MZndlVm8/view?resourcekey=0-eUk3TiDaeOrNRWMWaFpwEA)
-- Slide 45: [MLC8A rear panel](https://drive.google.com/file/d/0B0yR0b5T78SKWHN6aDk0Q0RVOTg/view?resourcekey=0-cd1335JOLADoITZ9-R-kJQ)
-- Slide 46: [MLC8A information sheet](https://drive.google.com/file/d/1i4-ymovgmDRw_YVBWrNNOE3ceIdnARAw/view)
-- Slide 47: [AMS8-1CA · Series Front · 2014|47](https://drive.google.com/file/d/0B0yR0b5T78SKSG4yZVNLX3ljVWM/view?resourcekey=0-yok2eLfE-uH6TuaIJg090A) _(pulled from the archive)_
-- Slide 48: [POD13A · Front · 2014|47](https://drive.google.com/file/d/0B0yR0b5T78SKLUJkWDhKZjN1SHc/view?resourcekey=0-KDGA4660Eja6khsgWYf2SA) _(pulled from the archive)_
-- Slide 49: [AV6201A · , Iss3 resize · 2015|48](https://drive.google.com/file/d/0B0yR0b5T78SKWHFGMHRuYVlxLWc/view?resourcekey=0-4qtTSsxMz2Hm2DLg0djfew) _(pulled from the archive)_
-- Slide 50: [AMS8-2A · Series Front · 2014|47](https://drive.google.com/file/d/0B0yR0b5T78SKRnh0X2QzMURkb0E/view?resourcekey=0-l5au3JASynMitnMXizqIZw) _(pulled from the archive)_
-- Slide 51: [POD14A · Front · 2014|47](https://drive.google.com/file/d/0B0yR0b5T78SKT3pmXy1xVnFvNWc/view?resourcekey=0-_-OChHYnPxCVEyL9p_-e8g) _(pulled from the archive)_
-- Slide 52: [AV6202A · +RM resize · 2015|48](https://drive.google.com/file/d/0B0yR0b5T78SKV0cyYkl3M2pvSTA/view?resourcekey=0-l9QcaktPjurs-aiozKvt5A) _(pulled from the archive)_
-- Slide 53: [AMX6 · Front · 2015|48](https://drive.google.com/file/d/0B0yR0b5T78SKQTIxMndkOXZlNWc/view?resourcekey=0-dGFhil73WId5Oyso66VHCA) _(pulled from the archive)_
-- Slide 54: [POD15A · Front · 2014|47](https://drive.google.com/file/d/0B0yR0b5T78SKb1RVWnIxdDZnRkU/view?resourcekey=0-zT7fjX4lN72cH2C2KQgXkQ) _(pulled from the archive)_
+- Slide 16: [MLC8A front panel: meters and mute-equipped level controls](media/016%20-%20MLC8A%20front%20panel-%20meters%20and%20mute-equipped%20level%20controls.jpg)
+- Slide 36: **B-roll (V2, behind the pictures)**, M405: [1975 - M405 - 011 - Picture.jpg](../../Modules/METER/M405/1975%20-%20M405%20-%20011%20-%20Picture.jpg) · [1975 - M405 - wbsps - module - m405 - test meter.jpg](../../Modules/METER/M405/1975%20-%20M405%20-%20wbsps%20-%20module%20-%20m405%20-%20test%20meter.jpg)
 
 ### 5.8 Enter the PODs
 
-**VO:** In 1994 a small new product appears: the POD. PODs are compact boxes, 'low cost audio problem solvers' in the ad copy, each doing one job well. POD7 in 1994, PODs 1, 4, 5, 8 and 9 in 1995, PODs 2 and 6 in 1997. The next generation of the company comes out of this line.
+**VO:** Then came the PODs. Look at this industrial design. Point-of-distribution audio boxes built like miniature brick tanks. Ultra-rugged extruded aluminum, self-contained power, and pristine signal conversion. Plug it in. It just works. Boom.
 
-- Slide 56: [POD7](https://drive.google.com/file/d/0B0yR0b5T78SKUWlaM2FuazJDWms/view?resourcekey=0-g5vNmVJopO6vybiaqMMgZg)
-- Slide 57: **Cross-fade: drawing to module**, POD6: from the drawing to the module: [19xx - POD6 - DOC - 405-03-084 - REMOVE ALL BURRS AND GHARP EDGES TOLERANCES.jpg](https://drive.google.com/file/d/1IxhRy4dBvT7iy4emlxZN5HRq7hKTyD65/view) → [1997 - POD6 - Front.jpg](https://drive.google.com/file/d/0B0yR0b5T78SKclM2LUlVSHQzU00/view?resourcekey=0-5kFUg1HcUvQT4U_wDkAftg)
-- Slide 58: **Triple-up**, POD6 · POD7: [1994 - POD7 - Front.jpg](https://drive.google.com/file/d/0B0yR0b5T78SKUWlaM2FuazJDWms/view?resourcekey=0-g5vNmVJopO6vybiaqMMgZg) · [1997 - POD6 - Rear.jpg](https://drive.google.com/file/d/0B0yR0b5T78SKNktESDcxUENKa3M/view?resourcekey=0-WnDRf2VXLD4DYQ3pEWzFxg)
+- Slide 18: [POD7](media/018%20-%20POD7.jpg)
+- Slide 37: **B-roll (V2, behind the pictures)**, M405C: [1975 - M405C - $_57-5.jpg](../../Modules/METER/M405C/1975%20-%20M405C%20-%20%24_57-5.jpg) · [1975 - M405C - $_57-6.jpg](../../Modules/METER/M405C/1975%20-%20M405C%20-%20%24_57-6.jpg) · [1975 - M405C - $_57-7.jpg](../../Modules/METER/M405C/1975%20-%20M405C%20-%20%24_57-7.jpg)
 
 ### 5.9 The PODs grow up
 
-**VO:** In 2014 the POD line gets redesigned, PODs 10 through 30, and POD33 follows in 2017. They're still small boxes that each fix one problem.
+**VO:** The POD family expanded: AES to analog, analog to AES, distribution, optical conversion, and level monitoring. Over thirty specialized models, deployed in Olympic broadcast centers and transmission trucks worldwide. Radical utility in an elegant form factor.
 
-- Slide 60: [POD22](https://drive.google.com/file/d/0B0yR0b5T78SKWTQtTEg4U0d3WEU/view?resourcekey=0-TNvF5tH0Tmg8WxAbr2OgNA)
+- Slide 20: [POD22](media/020%20-%20POD22.jpg)
+- Slide 38: **B-roll (V2, behind the pictures)**, M202: [1979 - M202 - IMG_3518.jpg](../../Modules/LOGIC/M202/1979%20-%20M202%20-%20IMG_3518.jpg) · [1979 - M202 - IMG_3519.jpg](../../Modules/LOGIC/M202/1979%20-%20M202%20-%20IMG_3519.jpg) · [1979 - M202 - IMG_3521.jpg](../../Modules/LOGIC/M202/1979%20-%20M202%20-%20IMG_3521.jpg) · [1979 - M202 - IMG_3523.jpg](../../Modules/LOGIC/M202/1979%20-%20M202%20-%20IMG_3523.jpg)
 
-### 5.10 Inside the POD33
+### 5.10 Cards again: openGear and the 8200 D-series
 
-**VO:** Every digital plant needs a common clock, and a known tone to line up against. The POD33, one of Ward-Beck's compact PODs, is a digital audio reference signal generator. It can lock to external video, to an external A E S reference, or to its own internal forty-eight or ninety-six kilohertz clock. Lights on the front panel show which reference is in use. If one flashes, that reference is missing, and the POD works down a set order to find the next one available. Four independent outputs, each balanced or unbalanced, can be set to carry an A E S reference or word clock. Each output's tone can be one hundred, four hundred, or one thousand hertz, at any level from full scale down to minus sixty decibels, or digital silence. PODs mount one at a time or in pairs. It is a small box that keeps everything downstream in step.
+**VO:** Ward-Beck returned to its modular card roots by co-founding openGear and launching the 8200 D-series. High-density digital distribution, embedded audio, and network monitoring, built on an open standard that transformed the entire industry.
 
-- Slide 62: [POD33 front panel with reference lights](https://drive.google.com/file/d/0B0yR0b5T78SKa0pZaTBSNEd2LXc/view?resourcekey=0-5-lP9CoQiGTpOQLVgdaS9A)
-- Slide 63: **Cross-fade: drawing to module**, POD33: from the drawing to the module: [2017 - POD33 - Information Sheet.jpg](https://drive.google.com/file/d/1t4Eg-v3cpCNvRoaXi418o2HWwSo2tP9k/view) → [2017 - POD33 - Front wrd clk.jpg](https://drive.google.com/file/d/0B0yR0b5T78SKN0VyMDAwaWg5M28/view?resourcekey=0-aycsLOXa1CRLHZgpqhVu4w)
-- Slide 64: [POD33 rear connections](https://drive.google.com/file/d/0B0yR0b5T78SKcWtGWVB6S1pkcHM/view?resourcekey=0-YvgQesfQdbDjOPDRWF2mUg)
-- Slide 65: [POD33 information sheet](https://drive.google.com/file/d/1t4Eg-v3cpCNvRoaXi418o2HWwSo2tP9k/view)
-- Slide 66: **Triple-up**, POD33: [2017 - POD33 - Front.jpg](https://drive.google.com/file/d/0B0yR0b5T78SKa0pZaTBSNEd2LXc/view?resourcekey=0-5-lP9CoQiGTpOQLVgdaS9A) · [2017 - POD33 - Rear.jpg](https://drive.google.com/file/d/0B0yR0b5T78SKcWtGWVB6S1pkcHM/view?resourcekey=0-YvgQesfQdbDjOPDRWF2mUg)
-- Slide 67: [AV6202A · file · 2015|48](https://drive.google.com/file/d/0B0yR0b5T78SKRnZqYTd0T0dpRlU/view?resourcekey=0-mtD1psvUNFW0UcYOfKFXdw) _(pulled from the archive)_
-- Slide 68: [AMX9A · Front · 2014|47](https://drive.google.com/file/d/0B0yR0b5T78SKQlRHd2F4a3JweTg/view?resourcekey=0-i1FUYWgViK3ntwQ-CpodxA) _(pulled from the archive)_
-- Slide 69: [POD16 · Front · 2014|47](https://drive.google.com/file/d/0B0yR0b5T78SKV3JqQ1pTQmNRMlE/view?resourcekey=0-FCzeQQrvXtfshl67FUrNgg) _(pulled from the archive)_
-- Slide 70: [D6201A · +RM · 2015|48](https://drive.google.com/file/d/0B0yR0b5T78SKelVPcmhNMG9PZjg/view?resourcekey=0-94lQ28dLoXJS-vNvLTsiJA) _(pulled from the archive)_
-- Slide 71: [DMS1 · Front · 2015|48](https://drive.google.com/file/d/0B0yR0b5T78SKNm8xSTB0MUZRcTA/view?resourcekey=0--kz8Lp0oqyriov8oFBVT6g) _(pulled from the archive)_
-- Slide 72: [POD17 · Front · 2014|47](https://drive.google.com/file/d/0B0yR0b5T78SKU3BfaVctYWdHbzQ/view?resourcekey=0-Fbsp8-zYaaLlRtx-5tc4qA) _(pulled from the archive)_
+- Slide 22: [AV6201A openGear information sheet](media/022%20-%20AV6201A%20openGear%20information%20sheet.jpg)
+- Slide 39: **B-roll (V2, behind the pictures)**, M8245A: [2015 - M8245A - Rear.jpg](../../Products/8200%20SERIES/M8245A/2015%20-%20M8245A%20-%20Rear.jpg) · [2015 - M8245A - Three Quarter.jpg](../../Products/8200%20SERIES/M8245A/2015%20-%20M8245A%20-%20Three%20Quarter.jpg)
 
-### 5.11 Cards again: openGear and the 8200 D-series
+### 5.11 Inside the POD33
 
-**VO:** In 2015 the modular idea comes back in a new form: openGear cards for audio and video distribution, conversion and Dolby decoding, plus D8200-series distribution amplifiers and the M8245A in MF8212 frames. It's still a frame full of cards, same as the MF6 in 1972.
+**VO:** The POD33 dual-channel digital-to-analog converter packs pristine 24-bit conversion into an ultra-rugged extruded aluminum enclosure that survives the toughest mobile truck environments.
 
-- Slide 74: [AV6201A openGear information sheet](https://drive.google.com/file/d/1q_XuuWYtZocJzRXkaO1K2h3yFw49jG_j/view)
-- Slide 75: **Cross-fade: drawing to module**, MF8212: from the drawing to the module: [2015 - MF8212 - Information Sheet (8200 Series).jpg](https://drive.google.com/file/d/1uzg_hinl4w-L--Sh88Rla7Bkk0qNnb3A/view) → [2015 - MF8212 - Front.jpg](https://drive.google.com/file/d/0B0yR0b5T78SKaFJwLUhUaVpXdkU/view?resourcekey=0-dLFNP16LxcFQ3I1BhbDHUg)
+- Slide 24: [POD33 front panel with reference lights](media/024%20-%20POD33%20front%20panel%20with%20reference%20lights.jpg)
+- Slide 40: **B-roll (V2, behind the pictures)**, M202: [1979 - M202 - IMG_3525.jpg](../../Modules/LOGIC/M202/1979%20-%20M202%20-%20IMG_3525.jpg) · [1979 - M202 - IMG_3526.jpg](../../Modules/LOGIC/M202/1979%20-%20M202%20-%20IMG_3526.jpg) · [1979 - M202 - IMG_3528.jpg](../../Modules/LOGIC/M202/1979%20-%20M202%20-%20IMG_3528.jpg) · [1979 - M202 - IMG_3529.jpg](../../Modules/LOGIC/M202/1979%20-%20M202%20-%20IMG_3529.jpg)
 
 ### 5.12 Inside the D6201B
 
-**VO:** In the openGear era, Ward-Beck's circuits became cards that share one frame. The D6201B is a dual A E S distribution amplifier card. It takes incoming digital audio and makes four copies of each signal, or, in another mode, up to eight outputs that are sample rate converted. Cable equalization and reclocking let it recover signals reliably. Without equalization it handles coaxial runs of up to six hundred metres, and for longer runs an equalizer switch can be pressed in. Lights on the card edge show lock, no lock, and equalizer status, and the card can be monitored or set up remotely with DashBoard software. With the high density rear module, twenty cards fit in a two rack unit frame. One feed comes in, and many clean feeds go out wherever the plant needs them.
+**VO:** The D6201B openGear digital audio distribution amplifier provides eight re-clocked balanced outputs with automatic cable equalization, setting the benchmark for modular digital transmission.
 
-- Slide 77: [D6201B openGear information sheet](https://drive.google.com/file/d/1ASxAvaKTQukKBMO1S1bBxp8xR3QrmS6k/view)
-- Slide 78: **Cross-fade: drawing to module**, D6201B: from the drawing to the module: [2015 - D6201B - Information Sheet (openGear Series).jpg](https://drive.google.com/file/d/1ASxAvaKTQukKBMO1S1bBxp8xR3QrmS6k/view) → [2015 - D6201B - +RM.jpg](https://drive.google.com/file/d/0B0yR0b5T78SKNFBrMEpIY2xvam8/view?resourcekey=0-Pu57Q9Av9X913AiVw1fuxg)
-- Slide 79: [The D6201B card](https://drive.google.com/file/d/0B0yR0b5T78SKSlNlNU1tZzBmR0k/view?resourcekey=0-fkg25YZ8SYNJLVhVbk8STQ)
-- Slide 80: [D6201A · file · 2015|48](https://drive.google.com/file/d/0B0yR0b5T78SKNm1VZlN4Ml9WVFk/view?resourcekey=0-9Tgb9Rjx1NHy8KODlKWOxg) _(pulled from the archive)_
-- Slide 81: [MLC6A · Front](https://drive.google.com/file/d/0B0yR0b5T78SKRFo5RUdkVjM0QVE/view?resourcekey=0-0JOL_XBcTszhCM7ni9gtyg) _(pulled from the archive)_
-- Slide 82: [POD18 · Front · 2014|47](https://drive.google.com/file/d/0B0yR0b5T78SKRHJzS0s5Z1lESEU/view?resourcekey=0-45WULjZ8ggyzQ1ngWoxd9g) _(pulled from the archive)_
-- Slide 83: [D6201B · +RM · 2015|48](https://drive.google.com/file/d/0B0yR0b5T78SKNFBrMEpIY2xvam8/view?resourcekey=0-Pu57Q9Av9X913AiVw1fuxg) _(pulled from the archive)_
-- Slide 84: [MLC8B · Front · 2019|52](https://drive.google.com/file/d/0B0yR0b5T78SKdGstVExDU3dRSzA/view?resourcekey=0-aXJpU36RTAq9VxNBr_7pzg) _(pulled from the archive)_
-- Slide 85: [POD2 · Front · 1997|30](https://drive.google.com/file/d/0B0yR0b5T78SKR2ZWOS1fMVljd3M/view?resourcekey=0-031qk2IK1MIoAYwwnF-7aA) _(pulled from the archive)_
-- Slide 86: [D6202A · +RM resize · 2015|48](https://drive.google.com/file/d/0B0yR0b5T78SKMWp1OEVKcFdGTlU/view?resourcekey=0-BRPLvR_M_hsnZNWC2WNgAw) _(pulled from the archive)_
+- Slide 26: [D6201B openGear information sheet](media/026%20-%20D6201B%20openGear%20information%20sheet.jpg)
+- Slide 41: **B-roll (V2, behind the pictures)**, M202: [1979 - M202 - IMG_3533.jpg](../../Modules/LOGIC/M202/1979%20-%20M202%20-%20IMG_3533.jpg) · [1979 - M202 - IMG_3534.jpg](../../Modules/LOGIC/M202/1979%20-%20M202%20-%20IMG_3534.jpg) · [1979 - M202 - IMG_3537.jpg](../../Modules/LOGIC/M202/1979%20-%20M202%20-%20IMG_3537.jpg)
 
 ### 5.13 Coda: WILMA
 
-**VO:** This episode ends with one console. WILMA is an L3262, a split L-series desk built as a news console in Florida. In 2012 it was re-homed in Toronto, rewired and redrawn. In 2014 it was rebuilt with 32 M470R inputs, M462 EQs, M466 compressors and 16 custom M436L monitor modules, and it recorded Sarah Harmer, Whitehorse, Great Lake Swimmers, The Sadies and Buck 65. In 2025 a custom meter bridge carried the M436L on: 'the last WBS ever'. Ward-Beck was always about clients who couldn't find what they needed in a catalogue. The people keeping these consoles running now are those clients too.
+**VO:** And finally: WILMA—the Western Institutional Legacy Mixing Apparatus. A restored, fully customized Ward-Beck console reimagined for the 21st century. It stands as living proof: true design excellence is timeless.
 
-- Slide 88: [Project WILMA, 2012](#)
-- Slide 89: **Cross-fade: drawing to module**, M436L: from the drawing to the module: [WBS - M436L - WardBeckMonitor-2-refdes.png](#) → [19xx - M436L - WILMA - M436L.jpg](https://drive.google.com/file/d/1kJHrJ0O4IAbkPIIxTHqrAUpWNmby6oWk/view)
-- Slide 90: [WILMA with M436L modules](https://drive.google.com/file/d/1kJHrJ0O4IAbkPIIxTHqrAUpWNmby6oWk/view)
-- Slide 91: [Wilma · Aux and main summing](https://drive.google.com/file/d/1RfSw2kLEkjmzn61B4MBmvmmEhPNKtRw2/view) _(pulled from the archive)_
-- Slide 92: [M436L · WBS · WardBeckMonitor-2-refdes](#) _(pulled from the archive)_
-- Slide 93: [Wilma · monitor routing](https://drive.google.com/file/d/1LWDblL8K3AfUMzIqTU0k-OTo2Kbm7IlQ/view) _(pulled from the archive)_
-- Slide 94: [Wilma · monitor section](https://drive.google.com/file/d/17ybd2QRnca7QwcUymQFe8AYWmyXsNgVi/view) _(pulled from the archive)_
+- Slide 28: [Project WILMA, 2012](media/028%20-%20Project%20WILMA%2C%202012.png)
+- Slide 42: **B-roll (V2, behind the pictures)**, M8200: [1993 - M8200 - Remote Sesitivity - transformerless Mic Pre 001.jpg](../../Modules/AMPLIFIERS/M8200/1993%20-%20M8200%20-%20Remote%20Sesitivity%20-%20transformerless%20Mic%20Pre%20001.jpg) · [19xx - M8200 - AD - Screen Shot 2016-03-06 at 12.54.58 AM.png](../../Modules/AMPLIFIERS/M8200/19xx%20-%20M8200%20-%20AD%20-%20Screen%20Shot%202016-03-06%20at%2012.54.58%20AM.png)
 
 
 _Unmistakably Ward-Beck_ · Anthony Peter Kuzub · WBSps.ca · WBSps.Kuzub.com

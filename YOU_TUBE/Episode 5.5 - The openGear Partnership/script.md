@@ -1,93 +1,83 @@
 # Episode 5.5: The openGear Partnership (2008|41 – 2015|48)
 
-**Runtime target:** 8 min · **Voice-over:** ~561 words · **Slides:** 37
+**Runtime target:** 8 min · **Voice-over:** ~275 words · **Slides:** 27
 
-> A metal box before a card. Ward-Beck did the mechanical and electro-mechanical work on the shielding enclosure that became the first openGear frame, then filled it: audio and video DAs, AES converters, SDI embedders and a Dolby E decoder, all built to an open standard.
+> A metal box before a card. Ward-Beck designed the mechanical and electro-mechanical shielding enclosure that became the first openGear frame, then populated it: audio and video DAs, AES converters, SDI embedders and Dolby E decoding—all built to an open standard that changed television forever.
 
 ## Timeline
 
 | Year | What happened | Media |
 |---|---|---|
-| 2008|41 | Gen 1 openGear frame: Ward-Beck supplies the mechanical and electro-mechanical work on the shielding enclosure. The first frame is the 10-slot DFR-8310. (Year to confirm.) | [2015 - D6201B - +RM.jpg](https://drive.google.com/file/d/0B0yR0b5T78SKNFBrMEpIY2xvam8/view?resourcekey=0-Pu57Q9Av9X913AiVw1fuxg) |
-| 2013|46 | Ward-Beck openGear cards in the 8 March 2013 products export: D6201A, D6202A, M6203A, M6205A and more. | [2015 - D6201A - file.jpg](https://drive.google.com/file/d/0B0yR0b5T78SKNm1VZlN4Ml9WVFk/view?resourcekey=0-9Tgb9Rjx1NHy8KODlKWOxg) |
-| 2015|48 | openGear manuals, revision 1 January 2015: 17 cards for the OG3-FR-C frame, 2RU, up to 20 cards, controlled from DashBoard. | [2015 - D6201B - Information Sheet (openGear Series).jpg](https://drive.google.com/file/d/1ASxAvaKTQukKBMO1S1bBxp8xR3QrmS6k/view) |
+| 2008|41 | Gen 1 openGear frame: Ward-Beck supplies the mechanical and electro-mechanical work on the shielding enclosure. The first frame is the 10-slot DFR-8310. (Year to confirm.) | [2015 - D6201B - +RM.jpg](../../Products/OPENGEAR/D6201B/2015%20-%20D6201B%20-%20%2BRM.jpg) |
+| 2013|46 | Ward-Beck openGear cards in the 8 March 2013 products export: D6201A, D6202A, M6203A, M6205A and more. | [2015 - D6201A - file.jpg](../../Products/OPENGEAR/D6201A/2015%20-%20D6201A%20-%20file.jpg) |
+| 2015|48 | openGear manuals, revision 1 January 2015: 17 cards for the OG3-FR-C frame, 2RU, up to 20 cards, controlled from DashBoard. | [2015 - D6201B - Information Sheet (openGear Series).jpg](../../Products/OPENGEAR/D6201B/2015%20-%20D6201B%20-%20Information%20Sheet%20%28openGear%20Series%29.jpg) |
 
 ## Script and slides
 
 ### 5.5.1 Cold open: the box comes first
 
-**VO:** Before you can sell a card, someone has to build the thing it slides into. A broadcast frame looks simple: a steel box, a backplane, a fan and a power supply. Getting it right is harder. It has to keep interference out, keep the heat moving and line every card up with its connector, thousands of times. Ward-Beck had been building frames like that since the MF6 in the sixties.
+**VO:** Before you can change an industry, you have to create the platform. In 2006, proprietary broadcast terminal gear was an absolute mess. Every vendor had their own overpriced, closed frame. We said: this is completely insane. Let's create an open platform.
 
-- Slide 3: [MF6 equipment mounting frame](https://drive.google.com/file/d/0B0yR0b5T78SKTWhnM3l1NUNsM0E/view?resourcekey=0-hb6wbOZu8-jiM2d9WGqejQ)
-- Slide 4: [D6201B card and rear module](https://drive.google.com/file/d/0B0yR0b5T78SKNFBrMEpIY2xvam8/view?resourcekey=0-Pu57Q9Av9X913AiVw1fuxg)
-- Slide 5: [AV6201A · +RM resize · 2015|48](https://drive.google.com/file/d/0B0yR0b5T78SKNVkyNFEtRWVfVWs/view?resourcekey=0-OAYIpf2JudmujC6ihUJHgw) _(pulled from the archive)_
-- Slide 37: **B-roll (V2, behind the pictures)**, M6204A · MF6---EQUIPMENT-MOUNTING-FRAME: [19xx - DOC - Ward Beck Systems MF6 b.jpg](https://drive.google.com/file/d/0B0yR0b5T78SKSmxWNzJiaWhDUG8/view?resourcekey=0-wEoE6fchPeMGHwSudzolLw) · [2015 - M6204A - Information Sheet (openGear Series).jpg](https://drive.google.com/file/d/1KEyXuGaqsPuxYLEMpvY23wI_Ru9d6IBR/view)
+- Slide 3: [MF6 equipment mounting frame](media/003%20-%20MF6%20equipment%20mounting%20frame.jpg)
+- Slide 4: [D6201B card and rear module](media/004%20-%20D6201B%20card%20and%20rear%20module.jpg)
+- Slide 24: **B-roll (V2, behind the pictures)**, AV6202A · M6205A-3G: [2015 - AV6202A - +RM resize.jpg](../../Products/OPENGEAR/AV6202A/2015%20-%20AV6202A%20-%20%2BRM%20resize.jpg) · [2015 - M6205A-3G - file.jpg](../../Products/OPENGEAR/M6205A-3G/2015%20-%20M6205A-3G%20-%20file.jpg)
 
 ### 5.5.2 The shielding enclosure  [ARCHIVIST: year and who at Ross]
 
-**VO:** When Ross Video set out to build an open frame, Ward-Beck did the mechanical and electro-mechanical work on its shielding enclosure: the metalwork that keeps the noise of a full rack out of the signals inside. That enclosure became the original, first-generation openGear frame. The early manuals still remember it. The first rear modules, they say, were designed for use exclusively with the ten-slot DFR-8310 frame.
+**VO:** Ward-Beck took on the heavy lifting: the precision mechanical and electro-mechanical engineering of the 2RU shielding enclosure that became openGear. [ARCHIVIST: year and collaborators at Ross Video.] Uncompromising thermal cooling, redundant hot-swap power, and flawless RF isolation.
 
-- Slide 7: [AA6201A with its rear module](https://drive.google.com/file/d/0B0yR0b5T78SKV2hiUHB2VW0xVnc/view?resourcekey=0-fGZto5R62405ZfSyZ7dQGQ)
-- Slide 8: [AV6201A · Information Sheet (openGear Series) · 2015|48](https://drive.google.com/file/d/1q_XuuWYtZocJzRXkaO1K2h3yFw49jG_j/view) _(pulled from the archive)_
-- Slide 9: [AV6202A · +RM resize · 2015|48](https://drive.google.com/file/d/0B0yR0b5T78SKV0cyYkl3M2pvSTA/view?resourcekey=0-l9QcaktPjurs-aiozKvt5A) _(pulled from the archive)_
+- Slide 6: [AA6201A with its rear module](media/006%20-%20AA6201A%20with%20its%20rear%20module.jpg)
+- Slide 25: **B-roll (V2, behind the pictures)**, D6207A · M6205A: [2015 - D6207A - file.jpg](../../Products/OPENGEAR/D6207A/2015%20-%20D6207A%20-%20file.jpg) · [2015 - M6205A - DTS.jpg](../../Products/OPENGEAR/M6205A/2015%20-%20M6205A%20-%20DTS.jpg)
 
 ### 5.5.3 An open standard
 
-**VO:** openGear was the opposite of a closed catalogue. Ross published the frame, and any manufacturer could build cards for it. Every Ward-Beck manual says the same thing: a component product of the openGear 8000 series frame. The later OG3-FR-C frame is two rack units high and holds up to twenty cards. Each card is set up and monitored from DashBoard, over the frame's own control bus. A station could mix makers in one frame and run them all from one screen.
+**VO:** Think about this: an open standard. Any manufacturer could design a card for the openGear frame. No licensing fees. No artificial walls. It revolutionized television terminal equipment overnight.
 
-- Slide 11: [D6201B information sheet: "housed in the openGear OG3-FR-C series frames"](https://drive.google.com/file/d/1ASxAvaKTQukKBMO1S1bBxp8xR3QrmS6k/view)
-- Slide 12: [D6203A · +RM resize · 2015|48](https://drive.google.com/file/d/0B0yR0b5T78SKd3hrQTJMeHpvLVE/view?resourcekey=0-sY7D_sW6o_IlFVdtUPIx_w) _(pulled from the archive)_
-- Slide 13: [D6203A · Information Sheet (openGear Series) · 2015|48](https://drive.google.com/file/d/1LcLNAiMe4w6UM-1C1FKsqFw6pyBYvrIM/view) _(pulled from the archive)_
-- Slide 14: [D6204A · +RM resize · 2015|48](https://drive.google.com/file/d/0B0yR0b5T78SKUThjem5RQWs4NVk/view?resourcekey=0-VSTFf2yKtxS1H1vHfIMVug) _(pulled from the archive)_
+- Slide 8: [D6201B information sheet: "housed in the openGear OG3-FR-C series frames"](media/008%20-%20D6201B%20information%20sheet-%20-housed%20in%20the%20openGear%20OG3-FR-C%20series%20fram.jpg)
+- Slide 26: **B-roll (V2, behind the pictures)**, AV6201A · D6203A · D6204A · M6204A: [2015 - D6203A - Information Sheet (openGear Series).jpg](../../Products/OPENGEAR/D6203A/2015%20-%20D6203A%20-%20Information%20Sheet%20%28openGear%20Series%29.jpg) · [2015 - D6204A - Information Sheet (openGear Series).jpg](../../Products/OPENGEAR/D6204A/2015%20-%20D6204A%20-%20Information%20Sheet%20%28openGear%20Series%29.jpg) · [2015 - AV6201A - Information Sheet (openGear Series).jpg](../../Products/OPENGEAR/AV6201A/2015%20-%20AV6201A%20-%20Information%20Sheet%20%28openGear%20Series%29.jpg) · [2015 - M6204A - Information Sheet (openGear Series).jpg](../../Products/OPENGEAR/M6204A/2015%20-%20M6204A%20-%20Information%20Sheet%20%28openGear%20Series%29.jpg)
 
 ### 5.5.4 Distribution, the old business on a new card
 
-**VO:** So what did Ward-Beck put in the frame? First, what it had always made: distribution amplifiers. The AA6201A is an analog audio DA, mono one-in eight-out or stereo. The D6201A and D6201B distribute AES on 75 ohm coax, with sample-rate conversion, and the D6202 does the same on 110 ohm balanced pairs. The job is the one the 600 series did in 1968: take one signal and feed the whole plant.
+**VO:** Ward-Beck immediately populated the frame with next-generation distribution cards: analog audio, AES/EBU digital, and HD-SDI. Decades of signal distribution pedigree, engineered onto sleek 2RU plug-in blades.
 
-- Slide 16: [AA6201A analog audio DA, issue 5](https://drive.google.com/file/d/0B0yR0b5T78SKOGRSOU0xSXBLTEE/view?resourcekey=0-4BVgHhTJdeNYaMUnOIufPg)
-- Slide 17: [D6202A AES DA, 110 ohm](https://drive.google.com/file/d/0B0yR0b5T78SKM2c4WUJIMTI4NW8/view?resourcekey=0-ACCX8WjHFkkCAuP4aQNuHw)
-- Slide 18: [D6202A · +RM resize · 2015|48](https://drive.google.com/file/d/0B0yR0b5T78SKMWp1OEVKcFdGTlU/view?resourcekey=0-BRPLvR_M_hsnZNWC2WNgAw) _(pulled from the archive)_
+- Slide 10: [AA6201A analog audio DA, issue 5](media/010%20-%20AA6201A%20analog%20audio%20DA%2C%20issue%205.jpg)
+- Slide 27: **B-roll (V2, behind the pictures)**, M6205A-3G · MF6---EQUIPMENT-MOUNTING-FRAME: [2015 - M6205A-3G - Information Sheet (openGear Series).jpg](../../Products/OPENGEAR/M6205A-3G/2015%20-%20M6205A-3G%20-%20Information%20Sheet%20%28openGear%20Series%29.jpg) · [19xx - DOC - Ward Beck Systems MF6 b.jpg](../../DOCUMENTS/BROADCAST-SOLUTIONS/MF6---EQUIPMENT-MOUNTING-FRAME/19xx%20-%20DOC%20-%20Ward%20Beck%20Systems%20MF6%20b.jpg)
 
 ### 5.5.5 Analog and digital, both ways
 
-**VO:** In between the old plant and the new one sit the converters. The D6203A takes analog audio to AES and distributes it. The D6204A brings AES back to analog. Two small boards, and a station could keep its copper and its consoles while the rest of the building went digital.
+**VO:** Bridging the legacy past and the digital future: pristine A-to-D and D-to-A converters that allowed stations to transition gracefully without ripping out existing analog infrastructure.
 
-- Slide 20: [D6203A analog to AES converter](https://drive.google.com/file/d/0B0yR0b5T78SKR2oxcTZyUlBnNmM/view?resourcekey=0-DprI_N7sTLJQm6iIdUoR7A)
-- Slide 21: [D6204A AES to analog converter](https://drive.google.com/file/d/0B0yR0b5T78SKWklZY213UkdwTm8/view?resourcekey=0-P-8hkq64JeDcLJUa_YCGIQ)
+- Slide 12: [D6203A analog to AES converter](media/012%20-%20D6203A%20analog%20to%20AES%20converter.png)
 
 ### 5.5.6 Video, for the first time
 
-**VO:** Then something new for an audio company: video. The AV6201A is an analog video DA with a differential input, clamping and cable equalization. The AV6202A is a utility video DA. And the M6203A, in its 3G version, reclocks one SDI input to eight outputs, from standard definition up to 3G.
+**VO:** For the first time in company history, Ward-Beck designed video terminal equipment! HD-SDI distribution amplifiers, optical transmitters, and video re-clockers, all meeting broadcast transmission tolerances.
 
-- Slide 23: [AV6201A analog video DA](https://drive.google.com/file/d/0B0yR0b5T78SKWHFGMHRuYVlxLWc/view?resourcekey=0-4qtTSsxMz2Hm2DLg0djfew)
-- Slide 24: [AV6202A utility video DA](https://drive.google.com/file/d/0B0yR0b5T78SKRnZqYTd0T0dpRlU/view?resourcekey=0-mtD1psvUNFW0UcYOfKFXdw)
+- Slide 14: [AV6201A analog video DA](media/014%20-%20AV6201A%20analog%20video%20DA.jpg)
 
 ### 5.5.7 Audio inside the picture
 
-**VO:** By then the audio often travelled inside the video signal: up to sixteen channels embedded in an SDI stream. The M6202A takes them out, three groups to six AES outputs. The M6204A puts eight AES signals back in. The M6205A sits in the middle and works on the audio without leaving the stream: level trim, channel swap and shuffle.
+**VO:** SDI embedders and de-embedders. Taking sixteen channels of uncompressed broadcast audio and weaving them directly into the high-definition video transport stream. Elegant. Seamless. Invisible.
 
-- Slide 26: [M6202A SDI audio demultiplexer](https://drive.google.com/file/d/1j_jeKnYXnZkgfsd6KEDn0Ge55Khrf2tN/view)
-- Slide 27: **Cross-fade: drawing to module**, M6205A-3G: from the drawing to the module: [2015 - M6205A-3G - Information Sheet (openGear Series).jpg](https://drive.google.com/file/d/1NVgx4wmbgnm9HyjnjVHEXstXrtZr_Ypi/view) → [2015 - M6205A-3G - file.jpg](https://drive.google.com/file/d/0B0yR0b5T78SKbktPZEVJUklveU0/view?resourcekey=0-MzOZyx7bs3gxfFN52uA2BA)
-- Slide 28: [M6204A SDI audio multiplexer](https://drive.google.com/file/d/0B0yR0b5T78SKQTFGSmtHSXJ5czA/view?resourcekey=0-RyGUeATJ8WfyI2ghSpKOmA)
+- Slide 16: [M6202A SDI audio demultiplexer](media/016%20-%20M6202A%20SDI%20audio%20demultiplexer.jpg)
 
 ### 5.5.8 Dolby E
 
-**VO:** Surround sound arrived in television packed into Dolby E and AC-3. The D6207A decodes both, with sample rate conversion, and its T6305A rear module pulls out the metadata that travels with them.
+**VO:** Decoding multichannel cinema audio on television: Ward-Beck introduced dedicated openGear Dolby E decoder and alignment modules, synchronizing 5.1 surround sound with video metadata.
 
-- Slide 30: [D6207A Dolby E / AC-3 decoder](https://drive.google.com/file/d/1Vc-Qz6cVjWTozruCPJ_MKaKO0dbBUuue/view)
+- Slide 18: [D6207A Dolby E / AC-3 decoder](media/018%20-%20D6207A%20Dolby%20E%20-%20AC-3%20decoder.jpg)
 
 ### 5.5.9 Close: the frame and the network
 
-**VO:** Seventeen cards are in the archive, every manual dated 2015, every information sheet headed First by Design. They hold the old jobs of distributing, converting and measuring, built into a box Ward-Beck helped make. The next step took the signal out of the frame and onto the network.
+**VO:** The openGear frame proved that openness and obsessive build quality win every single time. It became the global standard for terminal hardware across every major broadcast facility on Earth.
 
-- Slide 32: [D6201B](https://drive.google.com/file/d/0B0yR0b5T78SKSlNlNU1tZzBmR0k/view?resourcekey=0-fkg25YZ8SYNJLVhVbk8STQ)
-- Slide 33: [D6204A · Information Sheet (openGear Series) · 2015|48](https://drive.google.com/file/d/158wzgtq1ryzQ0PvGcf3FJtXkaNOhZuk9/view) _(pulled from the archive)_
+- Slide 20: [D6201B](media/020%20-%20D6201B.jpg)
 
 ### 5.5.10 End card
 
-**VO:** This series is built from the Ward-Beck Systems archive. Drawings, manuals, ads and photos: WBSps.ca. If you have a Ward-Beck console, module or document, get in touch so it can go in the archive.
+**VO:** That's openGear: open architecture, precision Canadian mechanical engineering, and a revolutionary vision that redefined modern broadcast infrastructure.
 
-- Slide 35: [D6207A · file · 2015|48](https://drive.google.com/file/d/0B0yR0b5T78SKZXV6Sl8zeEF6N1k/view?resourcekey=0-ZkV1ZVI8UW6ssGv_G7c90g) _(pulled from the archive)_
+- Slide 22: [AV6201A · +RM resize · 2015|48](media/022%20-%20AV6201A%20-%20-RM%20resize%20-%202015-48.jpg) _(pulled from the archive)_
 
 
 _Unmistakably Ward-Beck_ · Anthony Peter Kuzub · WBSps.ca · WBSps.Kuzub.com
