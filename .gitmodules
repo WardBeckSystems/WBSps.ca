@@ -4,3 +4,7 @@
 [submodule "Premote.WBSps.ca"]
 	path = 2026/Premo
 	url = https://github.com/LikeDotAudio/Premote.WBSps.ca.git
+[submodule "Ward-Beck-Audio-Tab"]
+	path = Ward-Beck-Audio-Tab
+	url = https://github.com/WardBeckSystems/Ward-Beck-Audio-Tab.git
+	branch = main
