@@ -6,5 +6,5 @@
 	url = https://github.com/LikeDotAudio/Premote.WBSps.ca.git
 [submodule "Ward-Beck-Audio-Tap"]
 	path = Ward-Beck-Audio-Tap
-	url = https://github.com/WardBeckSystems/Ward-Beck-Audio-Tab.git
+	url = https://github.com/WardBeckSystems/Ward-Beck-Audio-Tap.git
 	branch = main
