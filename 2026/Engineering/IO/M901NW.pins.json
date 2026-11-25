@@ -31,7 +31,7 @@
    "pol": null,
    "src": {
     "sha": "da17633613426824a20f10d7b0dc59e6716ad1589b9b399e2ce1623eeb925a72",
-    "file": "Modules/UNSORTED/M901NW/SCHEMATICS/1994 - M901NW - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
+    "file": "Modules/UNSORTED/M901NW/MANUALS/1994 - M901NW - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
     "page": 1
    },
    "quote": "Alternately an external ground applied at edge connector P2 pin 43 will produce the same effect.",
@@ -50,7 +50,7 @@
    "pol": null,
    "src": {
     "sha": "da17633613426824a20f10d7b0dc59e6716ad1589b9b399e2ce1623eeb925a72",
-    "file": "Modules/UNSORTED/M901NW/SCHEMATICS/1994 - M901NW - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
+    "file": "Modules/UNSORTED/M901NW/MANUALS/1994 - M901NW - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
     "page": 1
    },
    "quote": "This state change can be brought about by two different methods: Momentary operation of the Cue switch SW5, or momentary closure of the external Cue control inp",
@@ -69,7 +69,7 @@
    "pol": null,
    "src": {
     "sha": "da17633613426824a20f10d7b0dc59e6716ad1589b9b399e2ce1623eeb925a72",
-    "file": "Modules/UNSORTED/M901NW/SCHEMATICS/1994 - M901NW - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
+    "file": "Modules/UNSORTED/M901NW/MANUALS/1994 - M901NW - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
     "page": 1
    },
    "quote": "Momentary operation of the channel off switch SW3 or momentary grounding of the external channel off control input at P2-44 will result in a negative going puls",

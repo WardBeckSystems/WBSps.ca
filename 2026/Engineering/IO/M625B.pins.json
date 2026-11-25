@@ -93,14 +93,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/POWER/M625B/PHOTOS/1978 - M625B - WBS test procedures 1.jpeg",
+     "file": "Modules/POWER/M625B/MANUALS/1978 - M625B - WBS test procedures 1.jpeg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/POWER/M625B/PHOTOS/1978 - M625B - WBS test procedures 2.jpeg",
+     "file": "Modules/POWER/M625B/MANUALS/1978 - M625B - WBS test procedures 2.jpeg",
      "page": 1
     }
    ]
@@ -141,14 +141,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/POWER/M625B/PHOTOS/1978 - M625B - WBS test procedures 1.jpeg",
+     "file": "Modules/POWER/M625B/MANUALS/1978 - M625B - WBS test procedures 1.jpeg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/POWER/M625B/PHOTOS/1978 - M625B - WBS test procedures 1.jpeg",
+     "file": "Modules/POWER/M625B/MANUALS/1978 - M625B - WBS test procedures 1.jpeg",
      "page": 1
     }
    ]
@@ -182,14 +182,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/POWER/M625B/PHOTOS/1978 - M625B - WBS test procedures 1.jpeg",
+     "file": "Modules/POWER/M625B/MANUALS/1978 - M625B - WBS test procedures 1.jpeg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/POWER/M625B/PHOTOS/1978 - M625B - WBS test procedures 2.jpeg",
+     "file": "Modules/POWER/M625B/MANUALS/1978 - M625B - WBS test procedures 2.jpeg",
      "page": 1
     }
    ]
@@ -207,7 +207,7 @@
    "pol": null,
    "src": {
     "sha": "efa7b63f43809f21e59d4f5419919d454cefcbee7c09cbf424969569d53b5ac3",
-    "file": "Modules/POWER/M625B/PHOTOS/1978 - M625B - WBS test procedures 1.jpeg",
+    "file": "Modules/POWER/M625B/MANUALS/1978 - M625B - WBS test procedures 1.jpeg",
     "page": 1
    },
    "quote": "Check that the \"high\" side of the AC Iine voltage is connected between P1-7 and the \"Line\" side of the circuit breaker Sw1",

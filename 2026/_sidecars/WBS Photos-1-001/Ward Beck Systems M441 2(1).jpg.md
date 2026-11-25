@@ -18,7 +18,7 @@ Product data sheet for the M441M channel amplifier with outline and technical da
 - **Kind:** advert
 - **Device:** M441M — wiki: [M441M](../../2026/PAGES/M441M.md)
 - **Original file:** `WBSps.env/WBS Photos-1-001/Ward Beck Systems M441 2(1).jpg`
-- **Copy in 2026:** [`2026/Modules/INPUT-PRE-AMPS/M441M/PHOTOS/19xx - M441M - Buffalo New York.jpg`](../../2026/Modules/INPUT-PRE-AMPS/M441M/PHOTOS/19xx%20-%20M441M%20-%20Buffalo%20New%20York.jpg)
+- **Copy in 2026:** [`2026/Modules/INPUT-PRE-AMPS/M441M/MANUALS/19xx - M441M - Buffalo New York.jpg`](../../2026/Modules/INPUT-PRE-AMPS/M441M/MANUALS/19xx%20-%20M441M%20-%20Buffalo%20New%20York.jpg)
 - **SHA-256:** `d2615fb3726b05b8ce91ca195840983eff4c01b596c569d0b778768fcc412a7a`
 - **Read by:** software OCR of the title-block crop; read by eye (whole image); whole image looked at by eye
 - **Note:** data sheet spec text fragment (impedance, power 65 ma, dimensions 6.625 H x 6.5 D), footer Ward-Beck Systems Ltd / Inc, 290 Larkin St Buffalo NY; no title block

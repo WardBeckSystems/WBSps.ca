@@ -57,6 +57,19 @@ PHOTO_WORDS = re.compile(r'\b(front|back|rear|side|top|bottom|inside|internal|ph
                          r'wbsps - module)\b', re.I)
 IMAGE_EXT = {'.jpg', '.jpeg', '.png', '.gif', '.tif', '.tiff', '.bmp', '.webp', '.heic'}
 PHOTO_NAME = re.compile(r'\b(IMG|DSC|DSCN|DSCF|PXL|P\d{7})_?\d{3,}|\b\d{8}_\d{6}\b|\b\d{4}-\d\d-\d\d \d\d[_.]\d\d[_.]\d\d\b', re.I)
+DOC_EXT = {'.wp', '.wpd', '.doc', '.docx', '.rtf', '.odt'}
+MANUAL_NAME = re.compile(r'\b(test procedures?|circuit description|information sheet|data ?sheet)\b', re.I)
+
+
+def _manual_list():
+    try:
+        with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'module_manuals.txt'), encoding='utf-8') as fh:
+            return {ln.rstrip('\n') for ln in fh if ln.strip() and not ln.startswith('#')}
+    except OSError:
+        return set()
+
+
+MANUAL_FILES = _manual_list()   # pages found by their content to be manual pages (tools/module_manuals.txt)
 ORIGIN = re.compile(r'^- \*\*Original file:\*\* `([^`]*)`', re.M)
 
 
@@ -97,6 +110,9 @@ def kind_of(name, origin='', siblings=(), path=None):
         return kind_of(src, '', (), path and os.path.join(os.path.dirname(path), src)) if src else 'SCHEMATICS'
     stem, ext = os.path.splitext(name)
     ext = ext.lower()
+    # Anything that is a manual goes in MANUALS: documents, and pages known to be manual pages
+    if name in MANUAL_FILES or ext in DOC_EXT or MANUAL_NAME.search(stem):
+        return 'MANUALS'
     if ext.startswith('.kicad_') or ext in ('.kicad_sym', '.kicad_pro', '.kicad_prl'):
         return 'KICAD'
     if PINOUT_WORDS.search(stem) and ext not in CAD_EXT:

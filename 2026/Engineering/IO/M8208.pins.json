@@ -25,7 +25,7 @@
    "pol": null,
    "src": {
     "sha": "56b9eab5ec46e007b8bbd093120efff62deb66bc2493828e9a070f9de2239f1a",
-    "file": "Modules/AMPLIFIERS/M8208/SCHEMATICS/1995 - M8208 - 8208-02-001 - COMPONENT LAYOUT.wp",
+    "file": "Modules/AMPLIFIERS/M8208/MANUALS/1995 - M8208 - 8208-02-001 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "Input The input signal to the amplifier is applied at connector pins 1 and A, and the input shield to pin B.",
@@ -44,7 +44,7 @@
    "pol": null,
    "src": {
     "sha": "56b9eab5ec46e007b8bbd093120efff62deb66bc2493828e9a070f9de2239f1a",
-    "file": "Modules/AMPLIFIERS/M8208/SCHEMATICS/1995 - M8208 - 8208-02-001 - COMPONENT LAYOUT.wp",
+    "file": "Modules/AMPLIFIERS/M8208/MANUALS/1995 - M8208 - 8208-02-001 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "Input The input signal to the amplifier is applied at connector pins 1 and A, and the input shield to pin B.",
@@ -63,7 +63,7 @@
    "pol": null,
    "src": {
     "sha": "56b9eab5ec46e007b8bbd093120efff62deb66bc2493828e9a070f9de2239f1a",
-    "file": "Modules/AMPLIFIERS/M8208/SCHEMATICS/1995 - M8208 - 8208-02-001 - COMPONENT LAYOUT.wp",
+    "file": "Modules/AMPLIFIERS/M8208/MANUALS/1995 - M8208 - 8208-02-001 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "Input The input signal to the amplifier is applied at connector pins 1 and A, and the input shield to pin B.",
@@ -82,7 +82,7 @@
    "pol": null,
    "src": {
     "sha": "56b9eab5ec46e007b8bbd093120efff62deb66bc2493828e9a070f9de2239f1a",
-    "file": "Modules/AMPLIFIERS/M8208/SCHEMATICS/1995 - M8208 - 8208-02-001 - COMPONENT LAYOUT.wp",
+    "file": "Modules/AMPLIFIERS/M8208/MANUALS/1995 - M8208 - 8208-02-001 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "Two direct coupled actively balanced outputs are provided at module connector pins 4 & D and 5 & E; output 1 and output 2 respectively.",
@@ -101,7 +101,7 @@
    "pol": null,
    "src": {
     "sha": "56b9eab5ec46e007b8bbd093120efff62deb66bc2493828e9a070f9de2239f1a",
-    "file": "Modules/AMPLIFIERS/M8208/SCHEMATICS/1995 - M8208 - 8208-02-001 - COMPONENT LAYOUT.wp",
+    "file": "Modules/AMPLIFIERS/M8208/MANUALS/1995 - M8208 - 8208-02-001 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "Two direct coupled actively balanced outputs are provided at module connector pins 4 & D and 5 & E; output 1 and output 2 respectively.",
@@ -120,7 +120,7 @@
    "pol": null,
    "src": {
     "sha": "56b9eab5ec46e007b8bbd093120efff62deb66bc2493828e9a070f9de2239f1a",
-    "file": "Modules/AMPLIFIERS/M8208/SCHEMATICS/1995 - M8208 - 8208-02-001 - COMPONENT LAYOUT.wp",
+    "file": "Modules/AMPLIFIERS/M8208/MANUALS/1995 - M8208 - 8208-02-001 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "Two direct coupled actively balanced outputs are provided at module connector pins 4 & D and 5 & E; output 1 and output 2 respectively.",
@@ -139,7 +139,7 @@
    "pol": null,
    "src": {
     "sha": "56b9eab5ec46e007b8bbd093120efff62deb66bc2493828e9a070f9de2239f1a",
-    "file": "Modules/AMPLIFIERS/M8208/SCHEMATICS/1995 - M8208 - 8208-02-001 - COMPONENT LAYOUT.wp",
+    "file": "Modules/AMPLIFIERS/M8208/MANUALS/1995 - M8208 - 8208-02-001 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "Two direct coupled actively balanced outputs are provided at module connector pins 4 & D and 5 & E; output 1 and output 2 respectively.",
@@ -158,7 +158,7 @@
    "pol": null,
    "src": {
     "sha": "56b9eab5ec46e007b8bbd093120efff62deb66bc2493828e9a070f9de2239f1a",
-    "file": "Modules/AMPLIFIERS/M8208/SCHEMATICS/1995 - M8208 - 8208-02-001 - COMPONENT LAYOUT.wp",
+    "file": "Modules/AMPLIFIERS/M8208/MANUALS/1995 - M8208 - 8208-02-001 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "Power Supply Decoupling The \u00b122 volt DC supply voltage appearing at amplifier connector pins 15 & S and 13 & P are isolated from the amplifier circuitry by fusing resistors R60 and R61.",
@@ -177,7 +177,7 @@
    "pol": null,
    "src": {
     "sha": "56b9eab5ec46e007b8bbd093120efff62deb66bc2493828e9a070f9de2239f1a",
-    "file": "Modules/AMPLIFIERS/M8208/SCHEMATICS/1995 - M8208 - 8208-02-001 - COMPONENT LAYOUT.wp",
+    "file": "Modules/AMPLIFIERS/M8208/MANUALS/1995 - M8208 - 8208-02-001 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "Power Supply Decoupling The \u00b122 volt DC supply voltage appearing at amplifier connector pins 15 & S and 13 & P are isolated from the amplifier circuitry by fusing resistors R60 and R61.",
@@ -196,7 +196,7 @@
    "pol": null,
    "src": {
     "sha": "56b9eab5ec46e007b8bbd093120efff62deb66bc2493828e9a070f9de2239f1a",
-    "file": "Modules/AMPLIFIERS/M8208/SCHEMATICS/1995 - M8208 - 8208-02-001 - COMPONENT LAYOUT.wp",
+    "file": "Modules/AMPLIFIERS/M8208/MANUALS/1995 - M8208 - 8208-02-001 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "Power Supply Decoupling The \u00b122 volt DC supply voltage appearing at amplifier connector pins 15 & S and 13 & P are isolated from the amplifier circuitry by fusing resistors R60 and R61.",
@@ -215,7 +215,7 @@
    "pol": null,
    "src": {
     "sha": "56b9eab5ec46e007b8bbd093120efff62deb66bc2493828e9a070f9de2239f1a",
-    "file": "Modules/AMPLIFIERS/M8208/SCHEMATICS/1995 - M8208 - 8208-02-001 - COMPONENT LAYOUT.wp",
+    "file": "Modules/AMPLIFIERS/M8208/MANUALS/1995 - M8208 - 8208-02-001 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "Power Supply Decoupling The \u00b122 volt DC supply voltage appearing at amplifier connector pins 15 & S and 13 & P are isolated from the amplifier circuitry by fusing resistors R60 and R61.",

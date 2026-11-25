@@ -1,0 +1,232 @@
+# Module files that are manual pages (data sheets, promo sheets, test procedures, circuit descriptions, parts lists,
+# brochures, WordPerfect manuals): kind_of() files these in MANUALS whatever their name says. One file name per line.
+1967 - M604 - P003 - Circuit Description.jpg
+1968 - M124 - Ward Beck Systems 124 a copy.jpg
+1968 - M124 - Ward Beck Systems 124 b.jpg
+1968 - M124 - wbsps - module - m124 audio amp - back.jpg
+1968 - M124 - wbsps - module - m124 audio amp - front.jpg
+1968 - M124 - wbsps - module - m124 audio amp.jpg
+1968 - M124 - wbsps - promo - m124 audio amp - front.jpg
+1968 - M124 - wbsps - promo - m124 audio amp.jpg
+1968 - M402A - Ward Beck Systems M402A 1.jpg
+1968 - M402A - Ward Beck Systems M402A 4.jpg
+1968 - M402A - wbsps - module - m402a eq - 001.jpg
+1968 - M402A - wbsps - module - m402a eq - 002.jpg
+1968 - M402A - wbsps - promo - m402a eq - 001.jpg
+1968 - M402A - wbsps - promo - m402a eq - 002.jpg
+1968 - M404A - Ward Beck Systems M404A 2.jpg
+1968 - M404A - Ward Beck Systems M404A.jpg
+1968 - M404A - wbsps - module - m404a hplp filter - back.jpg
+1968 - M404A - wbsps - module - m404a hplp filter - front.jpg
+1968 - M404A - wbsps - promo - m404a hplp filter - back.jpg
+1968 - M404A - wbsps - promo - m404a hplp filter - front.jpg
+1968 - M624 - WBS test procedures 0.jpeg
+1968 - M624 - WBS test procedures 1.jpeg
+1969 - M406B - Ward Beck Systems M406B 2.jpg
+1969 - M406B - Ward Beck Systems M406B.jpg
+1969 - M406B - wbsps - module - m406b comp - back.jpg
+1969 - M406B - wbsps - module - m406b comp - front.jpg
+1969 - M406B - wbsps - promo - m406b comp - back.jpg
+1969 - M406B - wbsps - promo - m406b comp - front.jpg
+1969 - M411 - wbsps - module - m411 - back.jpg
+1969 - M411 - wbsps - module - m411 - front.jpg
+1969 - M411 - wbsps - promo - m411 - back.jpg
+1969 - M411 - wbsps - promo - m411 - front.jpg
+1969 - M412 - Ward Beck Systems M412.jpg
+1969 - M412 - wbsps - module - m412 osc - front.jpg
+1969 - M412 - wbsps - promo - m412 osc - front.jpg
+1970 - M600 - Ward Beck Systems M600 b.jpg
+1970 - M600 - Ward Beck Systems M600.jpg
+1970 - M600 - wbsps - module - m600 - back.jpg
+1970 - M600 - wbsps - module - m600 - front.jpg
+1970 - M600 - wbsps - promo - m600 - back.jpg
+1970 - M600 - wbsps - promo - m600 - front.jpg
+1970 - M621 - wbsps - module - m621 monitor amp - 001.jpg
+1970 - M621 - wbsps - module - m621 monitor amp - 002.jpg
+1970 - M621 - wbsps - promo - m621 monitor amp - 001.jpg
+1970 - M621 - wbsps - promo - m621 monitor amp - 002.jpg
+1970 - M648 - wbsps - module - m648 power supply - back.jpg
+1970 - M648 - wbsps - module - m648 power supply - front.jpg
+1970 - M648 - wbsps - promo - m648 power supply - front.jpg
+1970 - M648 - WBS test procedures 0.jpeg
+1970 - M648 - WBS test procedures 1.jpeg
+1970 - M648 - WBS test procedures 2.jpeg
+1970 - M648 - WBS test procedures 3.jpeg
+1971 - M441 - Ward Beck Systems M441 2.jpg
+1971 - M441 - Ward Beck Systems M441.jpg
+1971 - M605 - wbsps - module - m605 da - back.jpg
+1971 - M605 - wbsps - module - m605 da - front.jpg
+1971 - M605 - wbsps - promo - m605 da - back.jpg
+1971 - M605 - wbsps - promo - m605 da - front.jpg
+1973 - M441M - Archived - wbsps - promo - m441m pre-amp - 001.jpg
+1973 - M441M - wbsps - module - m441m pre-amp - back.jpg
+1973 - M441M - wbsps - module - m441m pre-amp - front.jpg
+1973 - M441M - wbsps - promo - m441m pre-amp - 003.jpg
+1973 - M441M - wbsps - promo - m441m pre-amp - 004.jpg
+1973 - M441M - wbsps - promo - m441m pre-amp - back.jpg
+1974 - M460L - WBS test procedures 0.jpeg
+1974 - M460L - WBS test procedures 1.jpeg
+1974 - M460L - WBS test procedures 2.jpeg
+1974 - M460L - WBS test procedures 3.jpeg
+1974 - M460L - WBS test procedures 4.jpeg
+1974 - M460L - WBS test procedures 5.jpeg
+1974 - M460L - WBS test procedures 6.jpeg
+1974 - M460L - WBS test procedures 7.jpeg
+1974 - M460L - WBS test procedures 8.jpeg
+1974 - M460L - WBS test procedures 9.jpeg
+1974 - M462 - WBS test procedures 0.jpeg
+1974 - M462 - WBS test procedures 1.jpeg
+1974 - M462 - WBS test procedures 2.jpeg
+1974 - M462 - WBS test procedures 3.jpeg
+1974 - M462 - WBS test procedures 4.jpeg
+1974 - M462 - WBS test procedures 5.jpeg
+1975 - M405 - 002 (2).jpg
+1975 - M405 - 002.jpg
+1975 - M608 - WBS test procedures 0.jpeg
+1975 - M608 - WBS test procedures 1.jpeg
+1975 - M608 - WBS test procedures 2.jpeg
+1975 - M608 - WBS test procedures 3.jpeg
+1975 - M608 - WBS test procedures 4.jpeg
+1976 - M459 - 000 - cover (2).jpg
+1976 - M464 - WBS test procedures 0.jpeg
+1976 - M464 - WBS test procedures 1.jpeg
+1976 - M464 - WBS test procedures 2.jpeg
+1976 - M464 - WBS test procedures 3.jpeg
+1976 - M467 - WBS test procedures 0.jpeg
+1976 - M467 - WBS test procedures 1.jpeg
+1976 - M467 - WBS test procedures 2.jpeg
+1977 - M612 - wbsps - module - m612 da - back.jpg
+1977 - M612 - wbsps - module - m612 da - front.jpg
+1977 - M612 - wbsps - promo - m612 da - back.jpg
+1977 - M612 - wbsps - promo - m612 da - front.jpg
+1977 - M7000 - 7000 series - 001.jpg
+1977 - M7000 - 7000 series - 002.jpg
+1977 - M7000 - 7000 series - 003.jpg
+1977 - M7000 - 7000 series - 004.jpg
+1977 - M7000 - 7000 series - 005.jpg
+1977 - M7000 - 7000 series - 006.jpg
+1977 - M7000 - 7000 series - 007.jpg
+1977 - M7000 - 7000 series - 009.jpg
+1977 - M7000 - 7000 series - 011.jpg
+1977 - M7000 - 7000 series - 012.jpg
+1977 - M7000 - 7000 series - 013.jpg
+1977 - M7000 - promo - 7000 series - 001.jpg
+1977 - M7000 - promo - 7000 series - 002.jpg
+1977 - M7000 - promo - 7000 series - 003.jpg
+1977 - M7000 - promo - 7000 series - 004.jpg
+1978 - M625B - WBS test procedures 0.jpeg
+1978 - M625B - WBS test procedures 1.jpeg
+1978 - M625B - WBS test procedures 2.jpeg
+1978 - M625B - WBS test procedures 3.jpeg
+1978 - M625B - WBS test procedures 6.jpeg
+1979 - M201 - WBS test procedures 1.jpeg
+1979 - M201 - WBS test procedures 2.jpeg
+1979 - M201 - WBS test procedures.jpeg
+1979 - M450B - WBS test procedures 3.jpeg
+1979 - M450B - WBS test procedures 4.jpeg
+1979 - M450B - WBS test procedures 5.jpeg
+1979 - M450B - WBS test procedures 6.jpeg
+1980 - M467 - WBS test procedures 3.jpeg
+1985 - M523 - ST Series - Stereo Submaster Module - 021 - SA14-077 Control Assembly.jpg
+1985 - M523 - ST Series - Stereo Submaster Module - 022 - SA14-077 Control Assembly.jpg
+1985 - M523 - ST Series - Stereo Submaster Module - 023 - SA14-077 Control Assembly.jpg
+1985 - M523 - ST Series - Stereo Submaster Module - 024 - SA14-077 Control Assembly.jpg
+1993 - M8200 - Remote Sesitivity - transformerless Mic Pre 001.jpg
+1993 - M8204 - Information Sheet (8200 Series).jpg
+1993 - M8204 - Stereo Audio DA 001.jpg
+1993 - M8204 - Stereo Audio DA 002.jpg
+1994 - M7880H - M7880H - 14-246-02-003 - COMPONENT LAYOUT.wp
+1994 - M7885A - M7885A - 14-218-02-001 - SA14-219 - ASSEMBLY - FRONT PANEL.wp
+1994 - M808C - M808C - 808-02-004 - COMPONENT LAYOUT.wp
+1994 - M901NW - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp
+1994 - M905B - M905B - 14-273-02-001 - SA14-273 - 10X1 STEREO SELECTOR - ASSEMBLY.wp
+1994 - M907 - 907-01-001 - COMPONENT LAYOUT.wp
+1994 - M924 - 924-02-001 - 3 CONNECTOR 3-1 - LAYOUT.wp
+1994 - M924A - 924-02-003 - 3 CONNECTOR 3-1 - LAYOUT.wp
+1994 - M926 - 926-02-999 - FN5 '5TH PART FIELD' - DOCUMENT.docx
+1995 - M405M - 14-292-02-003 - 3 P1 CONNECTOR 3-1 - LAYOUT.wp
+1995 - M405M - Archived - M405M - METER - MONITOR 001.jpg
+1995 - M405M - Archived - M405M - METER - MONITOR 002.jpg
+1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp
+1995 - M8202 - Remote sesitivity DA 001.jpg
+1995 - M8205 - 8205-02-001 - COMPONENT LAYOUT.wp
+1995 - M8205 - Distribution Amp 001.jpg
+1995 - M8205 - Distribution Amp 002.jpg
+1995 - M8207 - 8207-02-001 - COMPONENT LAYOUT.wp
+1995 - M8207 - audio compressor - limiter 001.jpg
+1995 - M8207 - audio compressor - limiter 002.jpg
+1995 - M8208 - 8208-02-001 - COMPONENT LAYOUT.wp
+1995 - M8208 - REMOTE LEVEL AMPLIFIER 001.jpg
+1995 - M901A - 901-01-002 - COMPONENT LAYOUT.wp
+1995 - M901B - 14-280-02-001 - SA14-280 - INPUT AMPLIFIER - ASSEMBLY.wp
+1995 - M901D - 901-01-006 - COMPONENT LAYOUT.wp
+1995 - M901 - DOC - 14-152-02-003 - COMPONENT LAYOUT.wp
+1995 - M922 - DOC - 14-152-02-003 - COMPONENT LAYOUT.wp
+1996 - M445 - 14-304-02-001 - SCHEMATIC.wp
+1996 - M445 - Archived - M445 - EXTENDED RANGE METER - MONITOR 002.jpg
+1996 - M901C - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp
+19xx - M166A - Ward Beck Systems 166A.jpg
+19xx - M166A - wbsps - module - m166a summing module - front.jpg
+19xx - M166A - wbsps - promo - m166a summing module - front.jpg
+19xx - M402A - M402A.jpg
+19xx - M402A - M402B.jpg
+19xx - M406B - M406B.jpg
+19xx - M441M - Buffalo New York.jpg
+19xx - M441M - M441M.jpg
+19xx - M521 - PARTS LIST SA14-077 CONTROL ASSEMBLY.jpg
+19xx - M527 - Master Module - 011 - SA14-109 Universal Amplifier Assembly.jpg
+19xx - M527 - Master Module - 012 - SA14-109 Universal Amplifier Assembly.jpg
+19xx - M527 - Master Module - 013 - SA14-109 Universal Amplifier Assembly.jpg
+19xx - M527 - Master Module - 014 - SA14-109 Universal Amplifier Assembly.jpg
+19xx - M527 - Master Module - 015 - SA14-109 Universal Amplifier Assembly.jpg
+19xx - M600 - M600 (2).jpg
+19xx - M600 - M600 (3).jpg
+19xx - M605 - M605.jpg
+19xx - M606 - wbsps - module - m606 monitor amp - back.jpg
+19xx - M606 - wbsps - module - m606 monitor amp - front.jpg
+19xx - M606 - wbsps - promo - m606 monitor amp - back.jpg
+19xx - M606 - wbsps - promo - m606 monitor amp - front.jpg
+19xx - M610 - wbsps - module - m610 10w amp - back.jpg
+19xx - M610 - wbsps - module - m610 10w amp - front.jpg
+19xx - M610 - wbsps - promo - m610 10w amp - front.jpg
+19xx - M612 - DOC - wbsps - promo - mf6 mounting frame - back.jpg
+19xx - M612 - M612.jpg
+19xx - M625 - DOC - wbsps - promo - mf6 mounting frame - back.jpg
+19xx - M648 - DOC - wbsps - module - mf6 mounting frame - back.jpg
+19xx - M648 - DOC - wbsps - promo - mf6 mounting frame - back.jpg
+19xx - M666 - wbsps - module - m666 100w power amp - back.jpg
+19xx - M666 - wbsps - module - m666 100w power amp - front.jpg
+19xx - M666 - wbsps - promo - m666 100w power amp - back.jpg
+19xx - M666 - wbsps - promo - m666 100w power amp - front.jpg
+19xx - M7880 - DOC - M7880 - 14-172-02-004 - COMPONENT LAYOUT.wp
+19xx - M8201 - Announce Channel Control Module 001.jpg
+19xx - M8206 - Matrixing Audio Distribution Amplifier 001.jpg
+19xx - M901 - DOC - 909-01-001 - COMPONENT LAYOUT.wp
+19xx - M907 - DOC - 909-01-001 - COMPONENT LAYOUT.wp
+19xx - M909 - DOC - 909-01-001 - COMPONENT LAYOUT.wp
+19xx - RM424S - wbsps - module - rm424s patch bay - front.jpg
+19xx - RM424S - wbsps - promo - rm424s patch bay - front.jpg
+2015 - M8203 - Information Sheet (8200 Series).jpg
+Archived - wbsps - promo - m404a hplp filter - back.jpg
+Archived - wbsps - promo - m406b comp - 002.jpg
+Ward Beck Systems M402A 4.jpg
+Ward Beck Systems M404A 2(1).jpg
+Ward Beck Systems M404A 2.jpg
+Ward Beck Systems M406B 2.jpg
+Ward Beck Systems M441 2.jpg
+Ward Beck Systems M600 b.jpg
+wbsps - module - m402a eq - 002.jpg
+Wbsps_-_module_-_m404a_hplp_filter_-_back.jpg
+wbsps - module - m406b comp - back(1).jpg
+wbsps - module - m406b comp - back.jpg
+Wbsps_-_module_-_m411_-_back.jpg
+wbsps - module - m441m pre-amp - back.jpg
+wbsps - promo - m402a eq - 002.jpg
+wbsps - promo - m411 - 002.jpg
+wbsps - promo - m441m pre-amp - 002.jpg
+wbsps - promo - m600 - 002.jpg
+wbsps - promo - m605 da - 002.jpg
+wbsps - promo - m610 10w amp - 002.jpg
+wbsps - promo - m612 da - back.jpg
+wbsps - promo - m621 monitor amp - 002.jpg
+wbsps - promo - m648 power supply - 002.jpg
