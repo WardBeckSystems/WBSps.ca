@@ -551,3 +551,6 @@
 [submodule "2026/Modules/METER/M401"]
 	path = 2026/Modules/METER/M401
 	url = https://github.com/WardBeckSystems/MODULES.METER.M401.git
+[submodule "Ward-Beck-Plugin-Core"]
+	path = Ward-Beck-Plugin-Core
+	url = https://github.com/WardBeckSystems/Ward-Beck-Plugin-Core.git
