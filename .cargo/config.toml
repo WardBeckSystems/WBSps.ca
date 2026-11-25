@@ -1,0 +1,9 @@
+# Copyright (c) 2026 Ward-Beck Systems (Ward-Beck.com - Ward-Beck.ca). All rights reserved.
+# Builds anywhere inside the WBSps.ca checkout (the module plugins under 2026/Modules/*/*/plugin) use the
+# local Ward-Beck-Plugin-Core instead of fetching it, and the Linux pkg-config shims.
+[patch."https://github.com/WardBeckSystems/Ward-Beck-Plugin-Core"]
+wbs-panel = { path = "Ward-Beck-Plugin-Core/panel" }
+
+[env]
+PKG_CONFIG_PATH = { value = "Ward-Beck-Plugin-Core/build-shims/linux", relative = true }
+LIBRARY_PATH = { value = "Ward-Beck-Plugin-Core/build-shims/linux/lib", relative = true }

@@ -1,9 +1,6 @@
 [submodule "XTM.WBSps.ca"]
 	path = XTM.WBSps.ca
 	url = https://github.com/WardBeckSystems/XTM.WBSps.ca.git
-[submodule "Premote.WBSps.ca"]
-	path = 2026/Premo
-	url = https://github.com/WardBeckSystems/Premote.WBSps.ca.git
 [submodule "Ward-Beck-Audio-Tap"]
 	path = Ward-Beck-Audio-Tap
 	url = https://github.com/WardBeckSystems/Ward-Beck-Audio-Tap.git
@@ -134,3 +131,33 @@
 [submodule "2026/Modules/AMPLIFIERS/M8202"]
 	path = 2026/Modules/AMPLIFIERS/M8202
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M8202.git
+[submodule "2026/Modules/AMPLIFIERS/M8204"]
+	path = 2026/Modules/AMPLIFIERS/M8204
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M8204.git
+[submodule "2026/Modules/AMPLIFIERS/M8205"]
+	path = 2026/Modules/AMPLIFIERS/M8205
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M8205.git
+[submodule "2026/Modules/AMPLIFIERS/M8206"]
+	path = 2026/Modules/AMPLIFIERS/M8206
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M8206.git
+[submodule "2026/Modules/AMPLIFIERS/M8208"]
+	path = 2026/Modules/AMPLIFIERS/M8208
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M8208.git
+[submodule "2026/Modules/AMPLIFIERS/M827"]
+	path = 2026/Modules/AMPLIFIERS/M827
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M827.git
+[submodule "2026/Modules/AMPLIFIERS/M845"]
+	path = 2026/Modules/AMPLIFIERS/M845
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M845.git
+[submodule "2026/Modules/COMMUNICATION/M494"]
+	path = 2026/Modules/COMMUNICATION/M494
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M494.git
+[submodule "2026/Modules/COMMUNICATION/M529"]
+	path = 2026/Modules/COMMUNICATION/M529
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M529.git
+[submodule "2026/Modules/COMMUNICATION/M7000"]
+	path = 2026/Modules/COMMUNICATION/M7000
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M7000.git
+[submodule "2026/Modules/COMMUNICATION/M701"]
+	path = 2026/Modules/COMMUNICATION/M701
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M701.git
