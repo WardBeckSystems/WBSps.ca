@@ -9,6 +9,8 @@ tags: ["module", "ravenna-aes67", "2020s"]
 
 # preMO-222
 
+**▶ [preMO remote (web control panel)](../Premo/2026/web/index.html) · [PreMO manual (draft, PDF)](https://github.com/WardBeckSystems/Premote.WBSps.ca/blob/main/preMO%20remote-20261119T130500Z-1-001/preMO%20remote/PreMO%20manual%20draft.pdf)**
+
 **▶ [Open the PREmo AES67 mic preamp (RD88) simulation](../siumulation.html?plugin=premo)** — front panel, operator tutorial, one second in slow motion, block diagram, schematics and how each control drives the firmware
 
 |  |  |

@@ -108,5 +108,3 @@ site/
 /2026/extractors/rust_analyzer/
 .vscode/
 
-# Premo is private: never part of the public site repo
-2026/Premo/

@@ -161,3 +161,9 @@
 [submodule "2026/Modules/COMMUNICATION/M701"]
 	path = 2026/Modules/COMMUNICATION/M701
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M701.git
+[submodule "Premote.WBSps.ca"]
+	path = 2026/Premo
+	url = https://github.com/WardBeckSystems/Premote.WBSps.ca.git
+[submodule "2026/Modules/COMMUNICATION/M7012C"]
+	path = 2026/Modules/COMMUNICATION/M7012C
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M7012C.git
