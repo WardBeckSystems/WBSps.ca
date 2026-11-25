@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/MONITORING/M8203/KICAD","f":[["M8203.kicad_sym",""]]};

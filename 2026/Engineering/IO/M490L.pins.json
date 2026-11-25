@@ -107,7 +107,7 @@
    "pol": null,
    "src": {
     "sha": "1f253600d3e7c5dbd5a924ddc98a42361682ca4f97c60fdbb8c0b9d0cef2f359",
-    "file": "Modules/INPUT-PRE-AMPS/M490L/1983 - M490L - P007 - 2-3.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490L/MANUALS/1983 - M490L - P007 - 2-3.jpg",
     "page": 1
    },
    "quote": "Pos[ Direct_Qutput The outputs the left and right chancel amplifiers are summe together before the ba ance switch via R38 R41 This node, nomina level dBm, then ",
@@ -202,7 +202,7 @@
    "pol": null,
    "src": {
     "sha": "22f71a43b3e5ae82fd7596ff1ea86870123b474323837f74f893a2a22848dc00",
-    "file": "Modules/INPUT-PRE-AMPS/M490L/1983 - M490L - 490-02-010 - EXT RIOO RIOZ.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490L/SCHEMATICS/1983 - M490L - 490-02-010 - EXT RIOO RIOZ.jpg",
     "page": 1
    },
    "quote": "Ricmt ChannIL (Pz-4",
@@ -297,7 +297,7 @@
    "pol": null,
    "src": {
     "sha": "22f71a43b3e5ae82fd7596ff1ea86870123b474323837f74f893a2a22848dc00",
-    "file": "Modules/INPUT-PRE-AMPS/M490L/1983 - M490L - 490-02-010 - EXT RIOO RIOZ.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490L/SCHEMATICS/1983 - M490L - 490-02-010 - EXT RIOO RIOZ.jpg",
     "page": 1
    },
    "quote": "Pz- L",
@@ -316,7 +316,7 @@
    "pol": null,
    "src": {
     "sha": "22f71a43b3e5ae82fd7596ff1ea86870123b474323837f74f893a2a22848dc00",
-    "file": "Modules/INPUT-PRE-AMPS/M490L/1983 - M490L - 490-02-010 - EXT RIOO RIOZ.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490L/SCHEMATICS/1983 - M490L - 490-02-010 - EXT RIOO RIOZ.jpg",
     "page": 1
    },
    "quote": "P2-10",
@@ -335,7 +335,7 @@
    "pol": null,
    "src": {
     "sha": "22f71a43b3e5ae82fd7596ff1ea86870123b474323837f74f893a2a22848dc00",
-    "file": "Modules/INPUT-PRE-AMPS/M490L/1983 - M490L - 490-02-010 - EXT RIOO RIOZ.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490L/SCHEMATICS/1983 - M490L - 490-02-010 - EXT RIOO RIOZ.jpg",
     "page": 1
    },
    "quote": "Pz-M",
@@ -354,7 +354,7 @@
    "pol": null,
    "src": {
     "sha": "22f71a43b3e5ae82fd7596ff1ea86870123b474323837f74f893a2a22848dc00",
-    "file": "Modules/INPUT-PRE-AMPS/M490L/1983 - M490L - 490-02-010 - EXT RIOO RIOZ.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490L/SCHEMATICS/1983 - M490L - 490-02-010 - EXT RIOO RIOZ.jpg",
     "page": 1
    },
    "quote": "P2-R",
@@ -373,7 +373,7 @@
    "pol": null,
    "src": {
     "sha": "22f71a43b3e5ae82fd7596ff1ea86870123b474323837f74f893a2a22848dc00",
-    "file": "Modules/INPUT-PRE-AMPS/M490L/1983 - M490L - 490-02-010 - EXT RIOO RIOZ.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490L/SCHEMATICS/1983 - M490L - 490-02-010 - EXT RIOO RIOZ.jpg",
     "page": 1
    },
    "quote": "P2-17",
@@ -392,7 +392,7 @@
    "pol": null,
    "src": {
     "sha": "22f71a43b3e5ae82fd7596ff1ea86870123b474323837f74f893a2a22848dc00",
-    "file": "Modules/INPUT-PRE-AMPS/M490L/1983 - M490L - 490-02-010 - EXT RIOO RIOZ.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490L/SCHEMATICS/1983 - M490L - 490-02-010 - EXT RIOO RIOZ.jpg",
     "page": 1
    },
    "quote": "P2-V",
@@ -420,7 +420,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490L/1983 - M490L - 490-02-010 - EXT RIOO RIOZ.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490L/SCHEMATICS/1983 - M490L - 490-02-010 - EXT RIOO RIOZ.jpg",
      "page": 1
     }
    ]
@@ -484,7 +484,7 @@
    "pol": null,
    "src": {
     "sha": "f16c0a6f581f58a412d8c83d2c11af2f132c05018b38835ac735d9a3a2cfeec2",
-    "file": "Modules/INPUT-PRE-AMPS/M490L/1983 - M490L - 490-02-010 - MIXIEA BUSES RIGHT CMANNIL.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490L/SCHEMATICS/1983 - M490L - 490-02-010 - MIXIEA BUSES RIGHT CMANNIL.jpg",
     "page": 1
    },
    "quote": "ca > P2-22 2 Ctl 104883 Comm",

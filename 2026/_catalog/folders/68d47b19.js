@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/INPUT-PRE-AMPS/M480C/KICAD","f":[["1982 - M480C - 480-01-002 - CUE-SOLO SOLO CONTROL CONTROL COMMON ISSU.kicad_sch",""],["1982 - M480C - Input Module (2) p23.kicad_sch",""],["1982 - M480C - Input Module p23.kicad_sch",""],["1982 - M480C - M480C - 1202-01-002 - 400 MON MUTE CONTROL COLO HON 1 HOM - FUNCTIONAL.kicad_sch",""],["M480C.kicad_sym",""]]};

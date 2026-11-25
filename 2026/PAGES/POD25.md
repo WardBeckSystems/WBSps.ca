@@ -97,3 +97,54 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 3. The rear terminal-block window is one long cut-out for 2 × 9-way blocks, ruled into OUTPUT 1, OUTPUT 2 and OUTPUT 1+2. — `#POD #SERIES/POD25 - #Master/POD25 - #ARTWORK #DA #2016/POD25-FRONT&REAR-SILK (CURVE).cdr`
 4. POD25-FRONT&REAR.cdr (21 May 2014) is the live-text version of the same sheet; the CURVE file is dated Jul.02/14. — `#POD #SERIES/POD25 - #Master/POD25 - #ARTWORK #DA #2016/POD25-FRONT&REAR.cdr`
 5. The rear photo shows an older silk with “DISCONNECT POWER BEFORE SERVICING” across the bottom, not the Jul.02/14 artwork. — `#POD #SERIES/POD25 - #Master/POD25 - #ARTWORK #DA #2016/POD25-FRONT&REAR-SILK (CURVE).cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD25",
+ "name": "Silence Detector",
+ "category": "PODS",
+ "year": 2014,
+ "documents": [
+  {
+   "file": "Products/PODS/POD25/2014 - POD25 - Front.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD25/2014 - POD25 - Information Sheet.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD25/2014 - POD25 - MANUAL (2).docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD25/2014 - POD25 - MANUAL.docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD25/2014 - POD25 - Rear.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  }
+ ]
+}
+```

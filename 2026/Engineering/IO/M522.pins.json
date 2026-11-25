@@ -31,7 +31,7 @@
    "pol": null,
    "src": {
     "sha": "c04b95b56e0221c57edcaec5d38afa940d1101ab0970f38b6b91fbe849470ed0",
-    "file": "Modules/FILTERS/M522/19xx - M522 - 522A - Equalizer (2).pdf",
+    "file": "Modules/FILTERS/M522/MANUALS/19xx - M522 - 522A - Equalizer (2).pdf",
     "page": 22
    },
    "quote": null,
@@ -50,7 +50,7 @@
    "pol": null,
    "src": {
     "sha": "c04b95b56e0221c57edcaec5d38afa940d1101ab0970f38b6b91fbe849470ed0",
-    "file": "Modules/FILTERS/M522/19xx - M522 - 522A - Equalizer (2).pdf",
+    "file": "Modules/FILTERS/M522/MANUALS/19xx - M522 - 522A - Equalizer (2).pdf",
     "page": 22
    },
    "quote": null,
@@ -69,7 +69,7 @@
    "pol": null,
    "src": {
     "sha": "c04b95b56e0221c57edcaec5d38afa940d1101ab0970f38b6b91fbe849470ed0",
-    "file": "Modules/FILTERS/M522/19xx - M522 - 522A - Equalizer (2).pdf",
+    "file": "Modules/FILTERS/M522/MANUALS/19xx - M522 - 522A - Equalizer (2).pdf",
     "page": 22
    },
    "quote": null,
@@ -88,7 +88,7 @@
    "pol": null,
    "src": {
     "sha": "c04b95b56e0221c57edcaec5d38afa940d1101ab0970f38b6b91fbe849470ed0",
-    "file": "Modules/FILTERS/M522/19xx - M522 - 522A - Equalizer (2).pdf",
+    "file": "Modules/FILTERS/M522/MANUALS/19xx - M522 - 522A - Equalizer (2).pdf",
     "page": 22
    },
    "quote": null,
@@ -107,7 +107,7 @@
    "pol": null,
    "src": {
     "sha": "c04b95b56e0221c57edcaec5d38afa940d1101ab0970f38b6b91fbe849470ed0",
-    "file": "Modules/FILTERS/M522/19xx - M522 - 522A - Equalizer (2).pdf",
+    "file": "Modules/FILTERS/M522/MANUALS/19xx - M522 - 522A - Equalizer (2).pdf",
     "page": 22
    },
    "quote": null,
@@ -116,14 +116,14 @@
      "signal": "+/-25 VOL SUPPLY VOLTAGE",
      "how": "prose",
      "conf": "medium",
-     "file": "Modules/FILTERS/M522/19xx - M522 - A B - P05.jpg",
+     "file": "Modules/FILTERS/M522/MANUALS/19xx - M522 - A B - P05.jpg",
      "page": 1
     },
     {
      "signal": "AT PINS MOCULE CONNECTOR AND THE COMMON",
      "how": "prose",
      "conf": "medium",
-     "file": "Modules/FILTERS/M522/19xx - M522 - A B - P05.jpg",
+     "file": "Modules/FILTERS/M522/MANUALS/19xx - M522 - A B - P05.jpg",
      "page": 1
     }
    ]
@@ -141,7 +141,7 @@
    "pol": null,
    "src": {
     "sha": "c04b95b56e0221c57edcaec5d38afa940d1101ab0970f38b6b91fbe849470ed0",
-    "file": "Modules/FILTERS/M522/19xx - M522 - 522A - Equalizer (2).pdf",
+    "file": "Modules/FILTERS/M522/MANUALS/19xx - M522 - 522A - Equalizer (2).pdf",
     "page": 22
    },
    "quote": null,
@@ -160,7 +160,7 @@
    "pol": null,
    "src": {
     "sha": "732acf110715a90528a1ef1a8b729e44b9e5e1ec657ecff75801da1646b90504",
-    "file": "Modules/FILTERS/M522/19xx - M522 - A B - P15.jpg",
+    "file": "Modules/FILTERS/M522/MANUALS/19xx - M522 - A B - P15.jpg",
     "page": 1
    },
    "quote": "The Mter input is applied P1-2",

@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/COMMUNICATION/M753/MANUALS","f":[["19xx - M753 - DOC - WBSps.ca -2021-3-15-19-3-51.jpg",""],["19xx - M753 - DOC - WHEN COBE DOES NOT ACEEC.jpg",""]]};

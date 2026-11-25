@@ -23,6 +23,6 @@
 - **Kind:** drawing
 - **Device:** M702 — wiki: [M702](../../2026/PAGES/M702.md)
 - **Original file:** `WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (17).jpg`
-- **Copy in 2026:** [`2026/Modules/COMMUNICATION/M702/1984 - 702-03-001 - M702B HEATSINK - CKD GEB - ISS 5.jpg`](../../2026/Modules/COMMUNICATION/M702/1984%20-%20702-03-001%20-%20M702B%20HEATSINK%20-%20CKD%20GEB%20-%20ISS%205.jpg)
+- **Copy in 2026:** [`2026/Modules/COMMUNICATION/M702/MECHANICAL/1984 - 702-03-001 - M702B HEATSINK - CKD GEB - ISS 5.jpg`](../../2026/Modules/COMMUNICATION/M702/MECHANICAL/1984%20-%20702-03-001%20-%20M702B%20HEATSINK%20-%20CKD%20GEB%20-%20ISS%205.jpg)
 - **SHA-256:** `cd6a6e08cca79f2b360c258d90acfe5a20fc4b1e7bcf32c1d044529b2aa7a411`
 - **Read by:** title-block crop read by eye

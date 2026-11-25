@@ -160,3 +160,194 @@ _Read from the drawing title blocks._
 3. A small circle sits over the slash of "115 VAC, 1/2 A.S.B." It is the PEM ground stud hole. inferred — `#POD #SERIES/POD7 - #Master/POD7 - #ARTWORK #DA #2016/POD7-FRONT&REAR-SILK ( CURVE).cdr`
 4. The file name has a stray space: "( CURVE)". — `#POD #SERIES/POD7 - #Master/POD7 - #ARTWORK #DA #2016/POD7-FRONT&REAR-SILK ( CURVE).cdr`
 5. POD7SILK.CDR (2 Nov 1998) is the first-issue silk. — `#POD #SERIES/POD7 - #Master/POD7 - #Engineering/POD7 - #SILK/POD7SILK.CDR`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD7",
+ "name": "Universal Interface",
+ "category": "PODS",
+ "year": 1994,
+ "made_of": [
+  "SA14-307",
+  "SA14-316"
+ ],
+ "documents": [
+  {
+   "file": "Products/PODS/POD7/1994 - POD7 - #ESP_OUT.TXT - DOCUMENT.docx",
+   "year": 1994,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD7/1994 - POD7 - #ESP_OUT.txt",
+   "year": 1994,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD7/1994 - POD7 - FN5 '5TH PART FIELD' - DOCUMENT.docx",
+   "year": 1994,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "modules"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD7/1994 - POD7 - Front.jpg",
+   "year": 1994,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD7/1994 - POD7 - POD7 - DRAFTERR.LOG - DOCUMENT.docx",
+   "year": 1994,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD7/1994 - POD7 - Rear.jpg",
+   "year": 1994,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD7/1995 - POD7 - POD7 - 14-316 - PCB.pcb",
+   "year": 1995,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "title_block"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD7/1995 - POD7 - POD7 - FA - DRAWING (AUTOCAD).dwg",
+   "year": 1995,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD7/1995 - POD7 - POD7 - POD7 - SCHEMATIC (ORCAD).dsn",
+   "year": 1995,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD7/1995 - POD7 - POD7 - POD7MAN1 - LAYOUT.dwg",
+   "year": 1995,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD7/1995 - POD7 - SCHEMATIC.wpd",
+   "year": 1995,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD7/1996 - POD7 - POD7 - FAPOD7 - DRAWING (AUTOCAD).dwg",
+   "year": 1996,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD7/1996 - POD7 - POD7 - LMPOD7-1 - WIRING.dwg",
+   "year": 1996,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD7/1996 - POD7 - POD7 - LMPOD7-2 - LAYOUT.dwg",
+   "year": 1996,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD7/1996 - POD7 - POD7 - LMPOD7-3 - LAYOUT.dwg",
+   "year": 1996,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD7/1996 - POD7 - POD7 - POD7-1 - LAYOUT.dwg",
+   "year": 1996,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD7/1996 - POD7 - POD7 - POD7-1X - LAYOUT.dwg",
+   "year": 1996,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD7/1996 - POD7 - POD7 - POD7M01 - DRAWING (AUTOCAD).dwg",
+   "year": 1996,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD7/1996 - POD7 - POD7 - POD7M02 - DRAWING (AUTOCAD).dwg",
+   "year": 1996,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD7/1996 - POD7 - POD7 - POD7MAN.wp",
+   "year": 1996,
+   "pages": 1,
+   "holds": [
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD7/1997 - POD7 - POD7 - POD7 - UNKNOWN.cdr",
+   "year": 1997,
+   "pages": null,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD7/1997 - POD7 - POD7 - POD7-BIG - UNKNOWN.cdr",
+   "year": 1997,
+   "pages": null,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD7/1997 - POD7 - POD7 - SPECIFICATIONS (POD7).wpd",
+   "year": 1997,
+   "pages": 1,
+   "holds": [
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD7/2014 - POD7 - MANUAL (2).docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD7/2014 - POD7 - MANUAL.docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  }
+ ]
+}
+```

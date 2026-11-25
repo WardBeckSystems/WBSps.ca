@@ -73,3 +73,42 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 4. The rear sheet holds the panel twice: a copy with hole guides placed off the page and the WHITE plate on the page. — `ENGINEERING - 2016 RD FILES/RD22-MADI/SILK/OBSOLETE/FEB282013/RearPanel/32ME-REARPANEL_Feb212013.cdr`
 5. Rear mains legend: “90-230 VAC, 1A S.B. CAUTION: DISCONNECT POWER BEFORE SERVICING OR REPLACING THE FUSE” plus “PLEASE REFER TO MANUAL” beside a warning triangle. — `ENGINEERING - 2016 RD FILES/RD22-MADI/SILK/OBSOLETE/FEB282013/RearPanel/32ME-REARPANEL_Feb212013.cdr`
 6. The SILK tree holds about 26 CorelDRAW files for the 32ME panels and chroma filter (2012–2013), many as Backup_of_ copies, all under OBSOLETE except ConceptFrontAll.cdr. — `ENGINEERING - 2016 RD FILES/RD22-MADI/SILK/OBSOLETE`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "32ME-AES",
+ "name": "High Density 32 Channel Audio Meter",
+ "category": "METERING",
+ "year": 2015,
+ "documents": [
+  {
+   "file": "Products/METERING/32ME-AES/2015 - 32ME-AES - Information Sheet.jpg",
+   "year": 2015,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/METERING/32ME-AES/2015 - 32ME-AES - MANUAL (2).docx",
+   "year": 2015,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/METERING/32ME-AES/2015 - 32ME-AES - MANUAL.docx",
+   "year": 2015,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  }
+ ]
+}
+```

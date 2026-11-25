@@ -100,3 +100,42 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 5. ABBFSLK2.cdr is stored twice, byte-identical, in ABB1 - #Engineering and ABB1 - #Engineering/ABB1 - #ARCHIVE. — `ABB1 - #Master/ABB1 - #Engineering/ABB1 - #ARCHIVE/ABBFSLK2.cdr`
 6. The earlier front silk abbfslk.CDR (1999-09-20) is a CorelDRAW 5 file whose text libcdr decodes byte-swapped (“LOCK” comes out as two CJK characters). — `ABB1 - #Master/ABB1 - #Engineering/abbfslk.CDR`
 7. ABB-1SLK.CDR, the only rear-panel CorelDRAW file, holds five guide lines and no legend; the rear legend in the simulator comes from the 2010 photo. — `ABB1 - #Master/ABB1 - #Engineering/ABB-1SLK.CDR`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "ABB1",
+ "name": "Audio Bit Buddy Portable Digital/Analog Audio Monitor",
+ "category": "BUDDIES",
+ "year": 2015,
+ "documents": [
+  {
+   "file": "Products/BUDDIES/ABB1/2015 - ABB1 - Information Sheet.jpg",
+   "year": 2015,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/BUDDIES/ABB1/2015 - ABB1 - Manual (2).docx",
+   "year": 2015,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/BUDDIES/ABB1/2015 - ABB1 - Manual.docx",
+   "year": 2015,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  }
+ ]
+}
+```

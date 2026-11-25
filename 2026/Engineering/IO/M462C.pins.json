@@ -177,7 +177,7 @@
    "pol": null,
    "src": {
     "sha": "c72f20b47a50e0021dbfc8236aab124fa2b56ec7a222be901f1eb0dc1ee8a1a0",
-    "file": "Modules/FILTERS/M462C/1985 - M462C - M462C562C - P010 - 4-3.jpg",
+    "file": "Modules/FILTERS/M462C/MANUALS/1985 - M462C - M462C562C - P010 - 4-3.jpg",
     "page": 1
    },
    "quote": "The +/-18 volt supply voltage required by the operational amplifiers the equalization circuitry decoup ed and filtered by 05 through 08 These voltages are tapped off the +/-22 volt supply Iines The power supply common return appears pin connector and the chassis frame connects pin 22 the module 4-3",
@@ -186,7 +186,7 @@
      "signal": "POWER SUPPLY COMMON RETURN",
      "how": "prose",
      "conf": "medium",
-     "file": "Modules/FILTERS/M462C/1985 - M462C - M462C562C - P010 - 4-3.jpg",
+     "file": "Modules/FILTERS/M462C/MANUALS/1985 - M462C - M462C562C - P010 - 4-3.jpg",
      "page": 1
     }
    ]

@@ -79,3 +79,48 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 4. Each OUTPUT cut-out (18.5 × 12.4 mm) has two flange-screw holes 25.4 mm apart. The plugin had drawn the plugs 32 px high and the IEC inlet 46 px right; both now sit on the drawing. — `#POD #SERIES/POD29 - #Master/POD29 - #ARTWORK #DA #2016/POD29-FRONT&REAR-SILK (CURVE).cdr`
 5. The rear has the same small hole above the right fixing screw as POD27/28, where the POD28 drawing calls it the ground-stud insert. — `#POD #SERIES/POD29 - #Master/POD29 - #ARTWORK #DA #2016/POD29-FRONT&REAR-SILK (CURVE).cdr`
 6. The rear mains text reads “90-230 VAC 50-60 Hz, 2 A.S.B.”, while the POD29L/E rears read “100-230 VAC, 50-60 Hz”. — `#POD #SERIES/POD29 - #Master/POD29 - #ARTWORK #DA #2016/POD29X-REAR-SILK(CURVE).cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD29",
+ "name": "Regulated Power Supply",
+ "category": "PODS",
+ "year": 2014,
+ "documents": [
+  {
+   "file": "Products/PODS/POD29/2014 - POD29 - Front.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD29/2014 - POD29 - Information Sheet.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD29/2014 - POD29 - MANUAL (2).docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD29/2014 - POD29 - MANUAL.docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  }
+ ]
+}
+```

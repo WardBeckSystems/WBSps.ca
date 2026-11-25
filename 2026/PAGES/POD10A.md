@@ -127,3 +127,42 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 2. The file name is missing its opening bracket: “POD10A-FRONT&amp;REAR-SILK CURVE).cdr”. — `#POD #SERIES/POD10A - #Master/POD10A - #ARTWORK #DA #2016 /POD10A-FRONT&REAR-SILK CURVE).cdr`
 3. The front 1-8 / A-B slide switch has its own rectangular cut-out beside the power LED. — `#POD #SERIES/POD10A - #Master/POD10A - #ARTWORK #DA #2016 /POD10A-FRONT&REAR-SILK CURVE).cdr`
 4. An older front-only sheet, POD10A-FRONT (FINAL CURVE).cdr, dates from 2014|47. — `#POD #SERIES/POD10A - #Master/POD10A - #ARTWORK #DA #2016 /POD10A-FRONT (FINAL CURVE).cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD10A",
+ "name": "AES Switcher",
+ "category": "PODS",
+ "year": 2014,
+ "documents": [
+  {
+   "file": "Products/PODS/POD10A/2014 - POD10A - Information Sheet.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD10A/2014 - POD10A - MANUAL (2).docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD10A/2014 - POD10A - MANUAL.docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  }
+ ]
+}
+```

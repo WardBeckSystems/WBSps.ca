@@ -25,7 +25,7 @@
    "pol": null,
    "src": {
     "sha": "9c0f308a4a394e58de4b7d6b91551bd71a6ca3005be3b605370209462aaddf8d",
-    "file": "Modules/COMMUNICATION/M702D/1996 - M702D - file.wpd",
+    "file": "Modules/COMMUNICATION/M702D/MANUALS/1996 - M702D - file.wpd",
     "page": 1
    },
    "quote": "Power Supply Decoupling The module is powered by a +32 volt DC unregulated power source, connected to pins 13 and P of the module connector.",
@@ -44,7 +44,7 @@
    "pol": null,
    "src": {
     "sha": "9c0f308a4a394e58de4b7d6b91551bd71a6ca3005be3b605370209462aaddf8d",
-    "file": "Modules/COMMUNICATION/M702D/1996 - M702D - file.wpd",
+    "file": "Modules/COMMUNICATION/M702D/MANUALS/1996 - M702D - file.wpd",
     "page": 1
    },
    "quote": "Power Supply Decoupling The module is powered by a +32 volt DC unregulated power source, connected to pins 13 and P of the module connector.",
@@ -63,7 +63,7 @@
    "pol": null,
    "src": {
     "sha": "9c0f308a4a394e58de4b7d6b91551bd71a6ca3005be3b605370209462aaddf8d",
-    "file": "Modules/COMMUNICATION/M702D/1996 - M702D - file.wpd",
+    "file": "Modules/COMMUNICATION/M702D/MANUALS/1996 - M702D - file.wpd",
     "page": 1
    },
    "quote": "Input The input is applied to pins U and V of the module connector and is coupled by C201 and C202 to two separate resistive networks followed by two solid state switches.",
@@ -82,7 +82,7 @@
    "pol": null,
    "src": {
     "sha": "9c0f308a4a394e58de4b7d6b91551bd71a6ca3005be3b605370209462aaddf8d",
-    "file": "Modules/COMMUNICATION/M702D/1996 - M702D - file.wpd",
+    "file": "Modules/COMMUNICATION/M702D/MANUALS/1996 - M702D - file.wpd",
     "page": 1
    },
    "quote": "Input The input is applied to pins U and V of the module connector and is coupled by C201 and C202 to two separate resistive networks followed by two solid state switches.",
@@ -101,7 +101,7 @@
    "pol": null,
    "src": {
     "sha": "9c0f308a4a394e58de4b7d6b91551bd71a6ca3005be3b605370209462aaddf8d",
-    "file": "Modules/COMMUNICATION/M702D/1996 - M702D - file.wpd",
+    "file": "Modules/COMMUNICATION/M702D/MANUALS/1996 - M702D - file.wpd",
     "page": 1
    },
    "quote": "This is available at the module connector pins W and X.",
@@ -120,7 +120,7 @@
    "pol": null,
    "src": {
     "sha": "9c0f308a4a394e58de4b7d6b91551bd71a6ca3005be3b605370209462aaddf8d",
-    "file": "Modules/COMMUNICATION/M702D/1996 - M702D - file.wpd",
+    "file": "Modules/COMMUNICATION/M702D/MANUALS/1996 - M702D - file.wpd",
     "page": 1
    },
    "quote": "This is available at the module connector pins W and X.",
@@ -139,7 +139,7 @@
    "pol": null,
    "src": {
     "sha": "9c0f308a4a394e58de4b7d6b91551bd71a6ca3005be3b605370209462aaddf8d",
-    "file": "Modules/COMMUNICATION/M702D/1996 - M702D - file.wpd",
+    "file": "Modules/COMMUNICATION/M702D/MANUALS/1996 - M702D - file.wpd",
     "page": 1
    },
    "quote": "Its output appears at module connector pins 21 and Y.",
@@ -158,7 +158,7 @@
    "pol": null,
    "src": {
     "sha": "9c0f308a4a394e58de4b7d6b91551bd71a6ca3005be3b605370209462aaddf8d",
-    "file": "Modules/COMMUNICATION/M702D/1996 - M702D - file.wpd",
+    "file": "Modules/COMMUNICATION/M702D/MANUALS/1996 - M702D - file.wpd",
     "page": 1
    },
    "quote": "Its output appears at module connector pins 21 and Y.",

@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/UNSORTED/M173/KICAD","f":[["1973 - 173-02-001 - 20 WATT MONITOR AMP PCB SCHEMATIC - DRN DPS - ISS 6.kicad_sch",""],["M173.kicad_sym",""]]};

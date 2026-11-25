@@ -31,7 +31,7 @@
    "pol": null,
    "src": {
     "sha": "fe5af9d8226bb921daa7eb1e8dcf134fd1655a58e60ee12d334a2e295cbffb5e",
-    "file": "Modules/AMPLIFIERS/M453A/1979 - M453A - Cue Amplifier.pdf",
+    "file": "Modules/AMPLIFIERS/M453A/MANUALS/1979 - M453A - Cue Amplifier.pdf",
     "page": 7
    },
    "quote": "R29 may be jumpered by J1 to increase 'overati amplifier gain by 10 dB The output amplifier consists 0 f 22 with its associated components An actively balanced Tine output is brought out at modu]e connector pins 14/R after passing through C19 C20 , R41 and R42 2 -1",
@@ -40,7 +40,7 @@
      "signal": "ACTIVELY BALANCED TINE OUTPUT",
      "how": "prose",
      "conf": "medium",
-     "file": "Modules/AMPLIFIERS/M453A/1979 - M453A - Cue Amplifier.pdf",
+     "file": "Modules/AMPLIFIERS/M453A/MANUALS/1979 - M453A - Cue Amplifier.pdf",
      "page": 7
     }
    ]

@@ -118,3 +118,60 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 2. In the libcdr reading of ABS1SSGR.CDR every odd-length legend loses its last letter (RIGHT, AES/EBU, REF INPUT, AUDIO LEVEL…). — `ABS1 - #Master/ABS-1 - Bit Spitter - #Engineering/ABS1SSGR.CDR`
 3. ABS1SSGR.CDR (1998-10-14) holds the front plate twice, as two ink separations, plus the rear; the earlier ABS1SS.CDR (1998-01-09) holds one front and the rear. — `ABS1 - #Master/ABS-1 - Bit Spitter - #Engineering/ABS1SS.CDR`
 4. The drill crosshairs, bars and LOCK bracket that survive in ABS1SSGR.CDR line up with the manual's panel drawing. — `ABS1 - #Master/ABS-1 - Bit Spitter - #Engineering/ABS1SSGR.CDR`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "ABS1",
+ "name": "Audio Bit Spitter Portable Digital/Analog Audio Generator",
+ "category": "BUDDIES",
+ "year": 2015,
+ "documents": [
+  {
+   "file": "Products/BUDDIES/ABS1/2015 - ABS1 - Information Sheet.jpg",
+   "year": 2015,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/BUDDIES/ABS1/2015 - ABS1 - Manual (2).docx",
+   "year": 2015,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "modules",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/BUDDIES/ABS1/2015 - ABS1 - Manual.docx",
+   "year": 2015,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "modules",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/BUDDIES/ABS1/19xx - ABS1 - DOC - BitKit Marketing Sheet.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/MICRO SERIES/microDriver/19xx - microDriver - DOC - Commonly Requested Parts _ Accessories.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  }
+ ]
+}
+```

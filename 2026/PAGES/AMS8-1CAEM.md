@@ -49,3 +49,22 @@ The software listings name the AMS8-1CAEM only as part of the [AMS8-1CA](AMS8-1C
 5. The front legend reads PRESET (singular), the AMS8-2 front reads PRESETS. — `AMS81 - #Master/AMS81 - #ARTWORK #DA #2016/AMS8-1A-FRONT-SILK (CURVES).cdr`
 6. Two AMS8-1A front sheets sit side by side with the same date: the CURVES file and AMS8-1A-FRONT-SILK (AMS8-M24).cdr. — `AMS81 - #Master/AMS81 - #ARTWORK #DA #2016/AMS8-1A-FRONT-SILK (AMS8-M24).cdr`
 7. The 1B and 1CA fronts (Apr 2016) are separate variants that the simulator does not model. — `AMS81 - #Master/AMS81 - #ARTWORK #DA #2016/AMS8-1CA-FRONT-SILK (CURVES).cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "AMS8-1CAEM",
+ "name": "Mkiii 8 Channel Audio Monitoring System",
+ "category": "METERING",
+ "year": 2013,
+ "documents": [
+  {
+   "file": "Products/METERING/AMS8-1CAM/2018 - AMS8-1CAM - Rear.jpg",
+   "year": 2018,
+   "pages": 1,
+   "holds": []
+  }
+ ]
+}
+```

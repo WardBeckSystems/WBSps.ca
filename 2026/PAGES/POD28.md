@@ -96,3 +96,54 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 2. The rear prints “100-240 VAC, 50-60 Hz, ½ A.S.B.” beside the IEC cut-out, with the CAUTION block turned on its side. — `#POD #SERIES/POD PANELS - #Mechanical #DA #2016/POD - NOT IN ERP/Silks/POD28/POD28-FRONT&REAR(FINAL CURVE).cdr`
 3. The small hole above the right rear fixing screw is the ground-stud insert (FH-440-5) on the POD28 ISS 1 rear drawing. — `#POD #SERIES/POD PANELS - #Mechanical #DA #2016/POD - NOT IN ERP/Silks/POD28/POD28-FRONT&REAR(FINAL CURVE).cdr`
 4. The silk PNGs had been cut 3 px inside the crop marks (1709 × 316 px), so the full-panel vector art sits at (−3, −3) in that frame. — `#POD #SERIES/POD PANELS - #Mechanical #DA #2016/POD - NOT IN ERP/Silks/POD28/POD28-FRONT&REAR(FINAL CURVE).cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD28",
+ "name": "HD-SDI Distribution Amplifier",
+ "category": "PODS",
+ "year": 2014,
+ "documents": [
+  {
+   "file": "Products/PODS/POD28/2014 - POD28 - Front.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD28/2014 - POD28 - Information Sheet.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD28/2014 - POD28 - MANUAL (2).docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD28/2014 - POD28 - MANUAL.docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD28/2014 - POD28 - Rear.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  }
+ ]
+}
+```

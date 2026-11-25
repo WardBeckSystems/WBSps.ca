@@ -1,1 +1,1 @@
-window.WBS_FOLDER={"d":"Consoles/1990-1999/960043 - _w_ _ - _ _","f":[["1996 - 960043 - Binder spine - Rawlco Communications - Renaissance MKII (01).jpg",""],["1996 - 960043 - Binder spine - Rawlco Communications - Renaissance MKII (02).jpg",""]]};
+window.WBS_FOLDER={"d":"Consoles/1990-1999/960043 - _w_ _ - _ _","f":[["1996 - 960043 - Binder spine - Rawlco Communications - Renaissance MKII (01).jpg","9ac91f7180e6107bd302"],["1996 - 960043 - Binder spine - Rawlco Communications - Renaissance MKII (02).jpg","40e0c1018bc7b090de86"]]};

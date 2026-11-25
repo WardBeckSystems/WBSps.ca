@@ -90,3 +90,72 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 5. “POD8A-FRONT & REAR-PHX FINAL CURVE.cdr” in the POD8 SILK folder is the 16-output POD8A face, not POD8. — `#POD #SERIES/xxx - POD8 - #Master #OBSOLETE/POD8 - #Engineering/POD8 - #SILK/POD8A-FRONT & REAR-PHX FINAL CURVE.cdr`
 6. POD8A-FRONT&REAR-XLR-SILK.cdr is stored twice (ARTWORK and BLACK RACK folders). — `#POD #SERIES/POD8A - #Master/POD8A - BLACK RACK - #Mechanical #DA #2016/POD8A-FRONT&REAR-XLR-SILK.cdr`
 7. POD8-REAR ISS 4 is an inside view (IEC on the left), mirrored from the silk. — `#POD #SERIES/POD PANELS - #Mechanical #DA #2016/POD - OBSOLETE/POD8 - MECHANICAL/POD8-REAR ISS 4 (PANEL).pdf`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD8",
+ "name": "Stereo Distribution Amplifier",
+ "category": "PODS",
+ "year": 1995,
+ "documents": [
+  {
+   "file": "Products/PODS/POD8/1995 - POD8 - Front.jpg",
+   "year": 1995,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD8/1995 - POD8 - POD8 - FAPOD8 - DRAWING (AUTOCAD).dwg",
+   "year": 1995,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD8/1995 - POD8 - POD8 - LMPOD8-1 - WIRING.dwg",
+   "year": 1995,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD8/1995 - POD8 - POD8 - LMPOD8-2 - LAYOUT.dwg",
+   "year": 1995,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD8/1995 - POD8 - POD8 - LMPOD8-3 - LAYOUT.dwg",
+   "year": 1995,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD8/1995 - POD8 - Rear.jpg",
+   "year": 1995,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD8/2014 - POD8 - MANUAL (2).docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD8/2014 - POD8 - MANUAL.docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  }
+ ]
+}
+```

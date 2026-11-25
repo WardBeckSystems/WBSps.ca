@@ -25,6 +25,6 @@
 - **Kind:** drawing
 - **Device:** M774 — wiki: [M774](../../2026/PAGES/M774.md)
 - **Original file:** `WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (11).jpg`
-- **Copy in 2026:** [`2026/Modules/UNSORTED/M774/1983 - 774-03-002 - HEATSINKS - DRN P. Mahoney - ENG MRW - ISS 3.jpg`](../../2026/Modules/UNSORTED/M774/1983%20-%20774-03-002%20-%20HEATSINKS%20-%20DRN%20P.%20Mahoney%20-%20ENG%20MRW%20-%20ISS%203.jpg)
+- **Copy in 2026:** [`2026/Modules/UNSORTED/M774/MECHANICAL/1983 - 774-03-002 - HEATSINKS - DRN P. Mahoney - ENG MRW - ISS 3.jpg`](../../2026/Modules/UNSORTED/M774/MECHANICAL/1983%20-%20774-03-002%20-%20HEATSINKS%20-%20DRN%20P.%20Mahoney%20-%20ENG%20MRW%20-%20ISS%203.jpg)
 - **SHA-256:** `4847d42fdc8fd4f45534098d35e9a22dec050d3d39039d932e88d363daa4ab44`
 - **Read by:** title-block crop read by eye

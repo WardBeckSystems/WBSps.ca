@@ -343,7 +343,7 @@
    "pol": null,
    "src": {
     "sha": "2d48496bcaf9e15a718a6d753e24804abd75ad6cb86fcd8c4bd602bfff1af000",
-    "file": "Modules/MONITORING/M495/1975 - M495 - P003 - 2-1.jpg",
+    "file": "Modules/MONITORING/M495/MANUALS/1975 - M495 - P003 - 2-1.jpg",
     "page": 1
    },
    "quote": "Muting The muting relay K1 may be operated either by the mute pushbutton Sw6 or externa ]y by a ground closure at pin X 0 f the modu le connector The LED DS 1 is iluminated when the muting function is activated 2 -1",
@@ -352,14 +352,14 @@
      "signal": "MUTING RELAY K1",
      "how": "prose",
      "conf": "medium",
-     "file": "Modules/MONITORING/M495/1975 - M495 - P003 - 2-1.jpg",
+     "file": "Modules/MONITORING/M495/MANUALS/1975 - M495 - P003 - 2-1.jpg",
      "page": 1
     },
     {
      "signal": "MUTING RELAY KL",
      "how": "prose",
      "conf": "medium",
-     "file": "Modules/MONITORING/M495/1975 - M495 - Stereo Monitor Module (2).pdf",
+     "file": "Modules/MONITORING/M495/MANUALS/1975 - M495 - Stereo Monitor Module (2).pdf",
      "page": 3
     }
    ]
@@ -461,7 +461,7 @@
    "pol": null,
    "src": {
     "sha": "53118032b9524674502ef31f2b1ec3c66cbae888e95fc574abeec026ba5b929e",
-    "file": "Modules/MONITORING/M495/1975 - M495 - P004 - 2-2.jpg",
+    "file": "Modules/MONITORING/M495/MANUALS/1975 - M495 - P004 - 2-2.jpg",
     "page": 1
    },
    "quote": "deir bajns] sd 94+ M*0} 2j09n0qmo) b9j6+30226 7+9d} bn$ SI II 8 (enasa? TiJ] #d3 70} b9zv 79f} 1[9mstq 8306b99m | suqn} T9v9{ 94f T0 T 601 910 0$ 8[J deuotdj bs",

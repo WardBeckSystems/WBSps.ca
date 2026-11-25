@@ -194,3 +194,360 @@
 [submodule "2026/Modules/COMMUNICATION/M718"]
 	path = 2026/Modules/COMMUNICATION/M718
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M718.git
+[submodule "2026/Modules/COMMUNICATION/M718A"]
+	path = 2026/Modules/COMMUNICATION/M718A
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M718A.git
+[submodule "2026/Modules/COMMUNICATION/M719"]
+	path = 2026/Modules/COMMUNICATION/M719
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M719.git
+[submodule "2026/Modules/COMMUNICATION/M724"]
+	path = 2026/Modules/COMMUNICATION/M724
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M724.git
+[submodule "2026/Modules/COMMUNICATION/M740"]
+	path = 2026/Modules/COMMUNICATION/M740
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M740.git
+[submodule "2026/Modules/COMMUNICATION/M742"]
+	path = 2026/Modules/COMMUNICATION/M742
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M742.git
+[submodule "2026/Modules/COMMUNICATION/M743"]
+	path = 2026/Modules/COMMUNICATION/M743
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M743.git
+[submodule "2026/Modules/COMMUNICATION/M745"]
+	path = 2026/Modules/COMMUNICATION/M745
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M745.git
+[submodule "2026/Modules/COMMUNICATION/M748"]
+	path = 2026/Modules/COMMUNICATION/M748
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M748.git
+[submodule "2026/Modules/COMMUNICATION/M749"]
+	path = 2026/Modules/COMMUNICATION/M749
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M749.git
+[submodule "2026/Modules/COMMUNICATION/M750"]
+	path = 2026/Modules/COMMUNICATION/M750
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M750.git
+[submodule "2026/Modules/COMMUNICATION/M751"]
+	path = 2026/Modules/COMMUNICATION/M751
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M751.git
+[submodule "2026/Modules/COMMUNICATION/M751B"]
+	path = 2026/Modules/COMMUNICATION/M751B
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M751B.git
+[submodule "2026/Modules/COMMUNICATION/M752"]
+	path = 2026/Modules/COMMUNICATION/M752
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M752.git
+[submodule "2026/Modules/COMMUNICATION/M753"]
+	path = 2026/Modules/COMMUNICATION/M753
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M753.git
+[submodule "2026/Modules/COMMUNICATION/M757"]
+	path = 2026/Modules/COMMUNICATION/M757
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M757.git
+[submodule "2026/Modules/COMMUNICATION/M770"]
+	path = 2026/Modules/COMMUNICATION/M770
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M770.git
+[submodule "2026/Modules/COMMUNICATION/M771"]
+	path = 2026/Modules/COMMUNICATION/M771
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M771.git
+[submodule "2026/Modules/COMMUNICATION/M772"]
+	path = 2026/Modules/COMMUNICATION/M772
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M772.git
+[submodule "2026/Modules/COMMUNICATION/M773"]
+	path = 2026/Modules/COMMUNICATION/M773
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M773.git
+[submodule "2026/Modules/COMMUNICATION/M774"]
+	path = 2026/Modules/COMMUNICATION/M774
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M774.git
+[submodule "2026/Modules/COMMUNICATION/M777"]
+	path = 2026/Modules/COMMUNICATION/M777
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M777.git
+[submodule "2026/Modules/COMMUNICATION/M780"]
+	path = 2026/Modules/COMMUNICATION/M780
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M780.git
+[submodule "2026/Modules/COMMUNICATION/M7800"]
+	path = 2026/Modules/COMMUNICATION/M7800
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M7800.git
+[submodule "2026/Modules/COMMUNICATION/M7830"]
+	path = 2026/Modules/COMMUNICATION/M7830
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M7830.git
+[submodule "2026/Modules/COMMUNICATION/M7840"]
+	path = 2026/Modules/COMMUNICATION/M7840
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M7840.git
+[submodule "2026/Modules/COMMUNICATION/M7880"]
+	path = 2026/Modules/COMMUNICATION/M7880
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M7880.git
+[submodule "2026/Modules/COMMUNICATION/M7880DA"]
+	path = 2026/Modules/COMMUNICATION/M7880DA
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M7880DA.git
+[submodule "2026/Modules/COMMUNICATION/M7880G"]
+	path = 2026/Modules/COMMUNICATION/M7880G
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M7880G.git
+[submodule "2026/Modules/COMMUNICATION/M7880H"]
+	path = 2026/Modules/COMMUNICATION/M7880H
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M7880H.git
+[submodule "2026/Modules/COMMUNICATION/M7884"]
+	path = 2026/Modules/COMMUNICATION/M7884
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M7884.git
+[submodule "2026/Modules/COMMUNICATION/M7885A"]
+	path = 2026/Modules/COMMUNICATION/M7885A
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M7885A.git
+[submodule "2026/Modules/COMMUNICATION/M812B"]
+	path = 2026/Modules/COMMUNICATION/M812B
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M812B.git
+[submodule "2026/Modules/COMPUTERS/M5200"]
+	path = 2026/Modules/COMPUTERS/M5200
+	url = https://github.com/WardBeckSystems/MODULES.COMPUTERS.M5200.git
+[submodule "2026/Modules/COMPUTERS/M5201"]
+	path = 2026/Modules/COMPUTERS/M5201
+	url = https://github.com/WardBeckSystems/MODULES.COMPUTERS.M5201.git
+[submodule "2026/Modules/COMPUTERS/M524"]
+	path = 2026/Modules/COMPUTERS/M524
+	url = https://github.com/WardBeckSystems/MODULES.COMPUTERS.M524.git
+[submodule "2026/Modules/COMPUTERS/M524A"]
+	path = 2026/Modules/COMPUTERS/M524A
+	url = https://github.com/WardBeckSystems/MODULES.COMPUTERS.M524A.git
+[submodule "2026/Modules/COMPUTERS/M526"]
+	path = 2026/Modules/COMPUTERS/M526
+	url = https://github.com/WardBeckSystems/MODULES.COMPUTERS.M526.git
+[submodule "2026/Modules/DYNAMICS/M406"]
+	path = 2026/Modules/DYNAMICS/M406
+	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M406.git
+[submodule "2026/Modules/DYNAMICS/M406A"]
+	path = 2026/Modules/DYNAMICS/M406A
+	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M406A.git
+[submodule "2026/Modules/DYNAMICS/M406B"]
+	path = 2026/Modules/DYNAMICS/M406B
+	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M406B.git
+[submodule "2026/Modules/DYNAMICS/M406C"]
+	path = 2026/Modules/DYNAMICS/M406C
+	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M406C.git
+[submodule "2026/Modules/DYNAMICS/M406M"]
+	path = 2026/Modules/DYNAMICS/M406M
+	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M406M.git
+[submodule "2026/Modules/DYNAMICS/M415"]
+	path = 2026/Modules/DYNAMICS/M415
+	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M415.git
+[submodule "2026/Modules/DYNAMICS/M465"]
+	path = 2026/Modules/DYNAMICS/M465
+	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M465.git
+[submodule "2026/Modules/DYNAMICS/M465A"]
+	path = 2026/Modules/DYNAMICS/M465A
+	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M465A.git
+[submodule "2026/Modules/DYNAMICS/M465B"]
+	path = 2026/Modules/DYNAMICS/M465B
+	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M465B.git
+[submodule "2026/Modules/DYNAMICS/M466"]
+	path = 2026/Modules/DYNAMICS/M466
+	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M466.git
+[submodule "2026/Modules/DYNAMICS/M466C"]
+	path = 2026/Modules/DYNAMICS/M466C
+	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M466C.git
+[submodule "2026/Modules/DYNAMICS/M466M"]
+	path = 2026/Modules/DYNAMICS/M466M
+	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M466M.git
+[submodule "2026/Modules/DYNAMICS/M467"]
+	path = 2026/Modules/DYNAMICS/M467
+	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M467.git
+[submodule "2026/Modules/DYNAMICS/M8207"]
+	path = 2026/Modules/DYNAMICS/M8207
+	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M8207.git
+[submodule "2026/Modules/FILTERS/M402"]
+	path = 2026/Modules/FILTERS/M402
+	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M402.git
+[submodule "2026/Modules/FILTERS/M402A"]
+	path = 2026/Modules/FILTERS/M402A
+	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M402A.git
+[submodule "2026/Modules/FILTERS/M402B"]
+	path = 2026/Modules/FILTERS/M402B
+	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M402B.git
+[submodule "2026/Modules/FILTERS/M404"]
+	path = 2026/Modules/FILTERS/M404
+	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M404.git
+[submodule "2026/Modules/FILTERS/M404A"]
+	path = 2026/Modules/FILTERS/M404A
+	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M404A.git
+[submodule "2026/Modules/FILTERS/M462"]
+	path = 2026/Modules/FILTERS/M462
+	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M462.git
+[submodule "2026/Modules/FILTERS/M462A"]
+	path = 2026/Modules/FILTERS/M462A
+	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M462A.git
+[submodule "2026/Modules/FILTERS/M462B"]
+	path = 2026/Modules/FILTERS/M462B
+	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M462B.git
+[submodule "2026/Modules/FILTERS/M462C"]
+	path = 2026/Modules/FILTERS/M462C
+	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M462C.git
+[submodule "2026/Modules/FILTERS/M464"]
+	path = 2026/Modules/FILTERS/M464
+	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M464.git
+[submodule "2026/Modules/FILTERS/M472"]
+	path = 2026/Modules/FILTERS/M472
+	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M472.git
+[submodule "2026/Modules/FILTERS/M472A"]
+	path = 2026/Modules/FILTERS/M472A
+	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M472A.git
+[submodule "2026/Modules/FILTERS/M522"]
+	path = 2026/Modules/FILTERS/M522
+	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M522.git
+[submodule "2026/Modules/FILTERS/M522B"]
+	path = 2026/Modules/FILTERS/M522B
+	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M522B.git
+[submodule "2026/Modules/FILTERS/M522C"]
+	path = 2026/Modules/FILTERS/M522C
+	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M522C.git
+[submodule "2026/Modules/FILTERS/M562C"]
+	path = 2026/Modules/FILTERS/M562C
+	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M562C.git
+[submodule "2026/Modules/FILTERS/M922"]
+	path = 2026/Modules/FILTERS/M922
+	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M922.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M441"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M441
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M441.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M441F"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M441F
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M441F.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M441M"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M441M
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M441M.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M460"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M460
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M460A"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M460A
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460A.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M460B"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M460B
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460B.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M460C"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M460C
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460C.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M460E"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M460E
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460E.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M460F"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M460F
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460F.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M460K"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M460K
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460K.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M460L"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M460L
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460L.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M460LA"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M460LA
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460LA.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M460M"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M460M
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460M.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M460T"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M460T
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460T.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M461"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M461
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M461.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M461M"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M461M
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M461M.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M470"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M470
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M470.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M470A"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M470A
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M470A.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M470C"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M470C
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M470C.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M470D"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M470D
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M470D.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M470E"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M470E
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M470E.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M471"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M471
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M471.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M471A"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M471A
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M471A.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M471C"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M471C
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M471C.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M480"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M480
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M480.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M480A"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M480A
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M480A.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M480B"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M480B
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M480B.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M480C"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M480C
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M480C.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M490"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M490
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M490A"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M490A
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490A.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M490B"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M490B
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490B.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M490C"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M490C
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490C.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M490D"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M490D
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490D.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M490E"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M490E
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490E.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M490F"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M490F
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490F.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M490G"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M490G
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490G.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M490H"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M490H
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490H.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M490J"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M490J
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490J.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M490K"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M490K
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490K.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M490L"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M490L
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490L.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M490M"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M490M
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490M.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M490N"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M490N
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490N.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M490T"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M490T
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490T.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M520"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M520
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M520.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M5200A"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M5200A
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M5200A.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M520A"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M520A
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M520A.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M520K"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M520K
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M520K.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M521"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M521
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M521.git
+[submodule "2026/Modules/INPUT-PRE-AMPS/M521A"]
+	path = 2026/Modules/INPUT-PRE-AMPS/M521A
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M521A.git
+[submodule "2026/Modules/LOGIC/M202"]
+	path = 2026/Modules/LOGIC/M202
+	url = https://github.com/WardBeckSystems/MODULES.LOGIC.M202.git
+[submodule "2026/Modules/METER/M401"]
+	path = 2026/Modules/METER/M401
+	url = https://github.com/WardBeckSystems/MODULES.METER.M401.git

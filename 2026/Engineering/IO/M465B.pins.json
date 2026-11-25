@@ -25,7 +25,7 @@
    "pol": null,
    "src": {
     "sha": "22ac0984a394229beea939fb19a1ff40bbc5eabaa4825278df8e9e14422298f5",
-    "file": "Modules/DYNAMICS/M465B/1982 - M465B - p5.jpg",
+    "file": "Modules/DYNAMICS/M465B/MANUALS/1982 - M465B - p5.jpg",
     "page": 1
    },
    "quote": "INPUT AND FADER The input signal is applied to edge connector pins 16 IT and routed to the CH ON switch, SW15.",
@@ -34,7 +34,7 @@
      "signal": "INPUT SIGNAL",
      "how": "prose",
      "conf": "medium",
-     "file": "Modules/DYNAMICS/M465B/1982 - M465B - p5.jpg",
+     "file": "Modules/DYNAMICS/M465B/MANUALS/1982 - M465B - p5.jpg",
      "page": 1
     }
    ]

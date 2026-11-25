@@ -10,15 +10,13 @@ tags: ["product", "metering", "2010s"]
 
 # XTM4 — Extended Range Test Meter
 
-**▶ [Open the XTM-4 Live Soundcard Visualizer](https://xtm.wbsps.ca/)** — standalone real-time audio metering engine with live soundcard & system audio capture, VU & PPM electromechanical ballistics, and phase correlation
-
 **▶ [Open the XTM4 simulation](../siumulation.html?plugin=xtm4)** — front panel, operator tutorial, one second in slow motion, block diagram, schematics and how each control drives the firmware
 
 |  |  |
 |---|---|
 | Type | product |
 | Series | [METERING](Series-METERING.md) |
-| Try it | [live visualizer: XTM-4](https://xtm.wbsps.ca/) · [full simulation: XTM4](../siumulation.html?plugin=xtm4) · [KiCad symbol generator](../kicad.html?m=XTM4) · [download package (zip)](../_packages/XTM4.zip) |
+| Try it | [full simulation: XTM4](../siumulation.html?plugin=xtm4) · [KiCad symbol generator](../kicad.html?m=XTM4) · [download package (zip)](../_packages/XTM4.zip) |
 | Earliest dated evidence | [2014\|47](Year-2014.md) — month & year |
 | Evidence | "Oct.01 2014" in PUBLIC/Manuals + tech DOCUMENTS/Metering and Monitoring Manuals/XTM4 MANUAL(1).docx |
 | Confidence | medium |
@@ -158,3 +156,48 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 5. The eight phase-LED holes between 0° and 180° are on the front sheet, at the 32-pixel pitch the simulator had already measured from the photo. — `XTM4 - #MASTER/XTM4 - #ARTWORK #DA #2016/XTM4M1-FRONT-SILK (CURVE).cdr`
 6. Drill crosshairs on the rear mark only AES 110 Ω, MONITOR OUTPUT A and ANALOG INPUT B. — `XTM4 - #MASTER/XTM4 - #ARTWORK #DA #2016/XTM4M2-REAR-SILK (CURVE).cdr`
 7. The front and rear CURVE sheets are stored twice, byte-identical, in #ARTWORK #DA #2016 and in XTM4 - #Engineering/SILK. — `XTM4 - #MASTER/XTM4 - #Engineering/SILK/XTM4M1-FRONT-SILK (CURVE).cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "XTM4",
+ "name": "Extended Range Test Meter",
+ "category": "METERING",
+ "year": 2014,
+ "documents": [
+  {
+   "file": "Products/METERING/XTM4/2014 - XTM4 - Front Three Quarter.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/XTM4/2014 - XTM4 - Information Sheet.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/METERING/XTM4/2014 - XTM4 - MANUAL (2).docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/METERING/XTM4/2014 - XTM4 - MANUAL.docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  }
+ ]
+}
+```

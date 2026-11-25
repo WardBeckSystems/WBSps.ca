@@ -138,3 +138,60 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 4. SLM-1M20-SILK(CURVE).cdr is exactly the same size as its non-curve twin, and the M13 CURVE file is smaller than its twin: those two were probably never converted to curves. — `#SLM #SERIES - To Delete/SLM & SLM-RMK1&2 - #ARTWORK #DA #2016/SLM-1M20-SILK(CURVE).cdr`
 5. The artwork folder also holds SLM-1 M4, M5, M12, M13, M18 and M20 panels that the simulator does not model. — `#SLM #SERIES - To Delete/SLM & SLM-RMK1&2 - #ARTWORK #DA #2016/SLM-1M5-SILK(CURVE).cdr`
 6. The SLM-1-3 engineering folder keeps a separate earlier SLM1-3 silk and front silk in CorelDRAW. — `#SLM #SERIES - To Delete/SLM - #Engineering - To Delete/SLM-1/PCB/SLM-1-3/SILK/SLM-1-3 FRONT-SILK-CURVE.cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "SLM",
+ "name": "Series Stereo Loudness Meter",
+ "category": "METERING",
+ "year": 2014,
+ "documents": [
+  {
+   "file": "Products/METERING/SLM/2014 - SLM - Series MANUAL_ (2).docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/METERING/SLM/2014 - SLM - Series MANUAL_.docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/METERING/SLM/19xx - SLM - DOC - SLM1A Rear.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/SLM/19xx - SLM - DOC - SLM1D-110 Rear.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/SLM/19xx - SLM - DOC - SLM1D-75 Rear.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/MICRO SERIES/microDriver/19xx - microDriver - DOC - Commonly Requested Parts _ Accessories.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  }
+ ]
+}
+```

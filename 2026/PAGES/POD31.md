@@ -91,3 +91,52 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 2. Two small holes at (336, 122) and (936, 122) px between the Phoenix row and the BNC row are used by no part in the model, probably bracket screws for the Phoenix PCB (inferred). — `#POD #SERIES/POD31 - #Master/POD31 - #ARTWORK #DA #2016/POD31-FRONT&REAR-SILK (CURVE).cdr`
 3. All 14 front LED holes match the 14 tallies in the code (PWR, SD, HD, ERR, four groups, four Dolby, E and DD). — `#POD #SERIES/POD31 - #Master/POD31 - #ARTWORK #DA #2016/POD31-FRONT&REAR-SILK (CURVE).cdr`
 4. The rear has a ground-stud hole above the right fixing screw. — `#POD #SERIES/POD31 - #Master/POD31 - #ARTWORK #DA #2016/POD31-FRONT&REAR-SILK (CURVE).cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD31",
+ "name": "SD/HD-SDI AES Demuxer",
+ "category": "PODS",
+ "year": 2013,
+ "documents": [
+  {
+   "file": "Products/PODS/POD31/19xx - POD31 - Front.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD31/19xx - POD31 - Information Sheet.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD31/19xx - POD31 - MANUAL (2).docx",
+   "year": null,
+   "pages": 1,
+   "holds": [
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD31/19xx - POD31 - MANUAL.docx",
+   "year": null,
+   "pages": 1,
+   "holds": [
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD31/19xx - POD31 - Rear.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": []
+  }
+ ]
+}
+```

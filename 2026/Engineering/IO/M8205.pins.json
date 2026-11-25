@@ -25,7 +25,7 @@
    "pol": null,
    "src": {
     "sha": "a62ae02133b5a2509903ec238eb62769e3341d87b2243c19883b9ff7ae050296",
-    "file": "Modules/AMPLIFIERS/M8205/1995 - M8205 - 8205-02-001 - COMPONENT LAYOUT.wp",
+    "file": "Modules/AMPLIFIERS/M8205/SCHEMATICS/1995 - M8205 - 8205-02-001 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "CIRCUIT DESCRIPTION M8205 AUDIO DISTRIBUTION AMPLIFIER Input The input signal to the amplifier is applied at connector pins 1 & A, and the input shield connects to pin B.",
@@ -44,7 +44,7 @@
    "pol": null,
    "src": {
     "sha": "a62ae02133b5a2509903ec238eb62769e3341d87b2243c19883b9ff7ae050296",
-    "file": "Modules/AMPLIFIERS/M8205/1995 - M8205 - 8205-02-001 - COMPONENT LAYOUT.wp",
+    "file": "Modules/AMPLIFIERS/M8205/SCHEMATICS/1995 - M8205 - 8205-02-001 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "CIRCUIT DESCRIPTION M8205 AUDIO DISTRIBUTION AMPLIFIER Input The input signal to the amplifier is applied at connector pins 1 & A, and the input shield connects to pin B.",
@@ -63,7 +63,7 @@
    "pol": null,
    "src": {
     "sha": "a62ae02133b5a2509903ec238eb62769e3341d87b2243c19883b9ff7ae050296",
-    "file": "Modules/AMPLIFIERS/M8205/1995 - M8205 - 8205-02-001 - COMPONENT LAYOUT.wp",
+    "file": "Modules/AMPLIFIERS/M8205/SCHEMATICS/1995 - M8205 - 8205-02-001 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "CIRCUIT DESCRIPTION M8205 AUDIO DISTRIBUTION AMPLIFIER Input The input signal to the amplifier is applied at connector pins 1 & A, and the input shield connects to pin B.",
@@ -82,7 +82,7 @@
    "pol": null,
    "src": {
     "sha": "a62ae02133b5a2509903ec238eb62769e3341d87b2243c19883b9ff7ae050296",
-    "file": "Modules/AMPLIFIERS/M8205/1995 - M8205 - 8205-02-001 - COMPONENT LAYOUT.wp",
+    "file": "Modules/AMPLIFIERS/M8205/SCHEMATICS/1995 - M8205 - 8205-02-001 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "Power Supply Decoupling The \u00b122 volt DC supply bus voltages appearing at the amplifier connector pins 15 & S and 13 & P are isolated from the amplifier circuitry via fusing resistors R52 and R53.",
@@ -101,7 +101,7 @@
    "pol": null,
    "src": {
     "sha": "a62ae02133b5a2509903ec238eb62769e3341d87b2243c19883b9ff7ae050296",
-    "file": "Modules/AMPLIFIERS/M8205/1995 - M8205 - 8205-02-001 - COMPONENT LAYOUT.wp",
+    "file": "Modules/AMPLIFIERS/M8205/SCHEMATICS/1995 - M8205 - 8205-02-001 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "Power Supply Decoupling The \u00b122 volt DC supply bus voltages appearing at the amplifier connector pins 15 & S and 13 & P are isolated from the amplifier circuitry via fusing resistors R52 and R53.",
@@ -120,7 +120,7 @@
    "pol": null,
    "src": {
     "sha": "a62ae02133b5a2509903ec238eb62769e3341d87b2243c19883b9ff7ae050296",
-    "file": "Modules/AMPLIFIERS/M8205/1995 - M8205 - 8205-02-001 - COMPONENT LAYOUT.wp",
+    "file": "Modules/AMPLIFIERS/M8205/SCHEMATICS/1995 - M8205 - 8205-02-001 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "Power Supply Decoupling The \u00b122 volt DC supply bus voltages appearing at the amplifier connector pins 15 & S and 13 & P are isolated from the amplifier circuitry via fusing resistors R52 and R53.",
@@ -139,7 +139,7 @@
    "pol": null,
    "src": {
     "sha": "a62ae02133b5a2509903ec238eb62769e3341d87b2243c19883b9ff7ae050296",
-    "file": "Modules/AMPLIFIERS/M8205/1995 - M8205 - 8205-02-001 - COMPONENT LAYOUT.wp",
+    "file": "Modules/AMPLIFIERS/M8205/SCHEMATICS/1995 - M8205 - 8205-02-001 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "Power Supply Decoupling The \u00b122 volt DC supply bus voltages appearing at the amplifier connector pins 15 & S and 13 & P are isolated from the amplifier circuitry via fusing resistors R52 and R53.",

@@ -97,3 +97,76 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 7. **POD1:** The sheet's own title reads “PO1-FRONT&amp;REAR-SILK”, missing the D of POD. — `#POD #SERIES/POD1 - #Master/POD1 - #SILK/POD1-FRONT&REAR-SILK(CURVE) .cdr`
 8. **POD1:** The POD1 ARTWORK folder also holds a copy of the POD-18 front silk (2013|46). — `#POD #SERIES/POD1 - #Master/POD-1 - ARTWORK/POD-18 FRONT SILK (FINAL CURVE).cdr`
 9. **POD1:** Separate front-only and rear-only sheets exist: POD1-FRONT (FINAL CURVE).cdr (2015|48) and POD1-REAR (FINAL CURVE).cdr (2014|47). — `#POD #SERIES/POD1 - #Master/POD1 - #SILK/POD1-REAR (FINAL CURVE).cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD1",
+ "name": "Bi-Directional Audio Interface",
+ "category": "PODS",
+ "year": 1995,
+ "documents": [
+  {
+   "file": "Products/PODS/POD1/1995 - POD1 - Front.jpg",
+   "year": 1995,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD1/1995 - POD1 - Information Sheet.jpg",
+   "year": 1995,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD1/1995 - POD1 - POD1 - POD1MAN.wp",
+   "year": 1995,
+   "pages": 1,
+   "holds": [
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD1/1995 - POD1 - POD1 - POD1MAN1 - DRAWING (AUTOCAD).dwg",
+   "year": 1995,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD1/1995 - POD1 - Rear.jpg",
+   "year": 1995,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD1/1995 - POD1 - SCHEMATIC.wpd",
+   "year": 1995,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD1/2014 - POD1 - MANUAL (2).docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD1/2014 - POD1 - MANUAL.docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  }
+ ]
+}
+```

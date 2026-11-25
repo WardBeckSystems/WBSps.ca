@@ -22,6 +22,6 @@
 - **Kind:** drawing
 - **Device:** M485 — wiki: [M485](../../2026/PAGES/M485.md)
 - **Original file:** `WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (96).jpg`
-- **Copy in 2026:** [`2026/Modules/UNSORTED/M485/1980 - 485-03-005 - CAPACITOR MTG. PLATE - DRN P. Mahoney - ISS 2.jpg`](../../2026/Modules/UNSORTED/M485/1980%20-%20485-03-005%20-%20CAPACITOR%20MTG.%20PLATE%20-%20DRN%20P.%20Mahoney%20-%20ISS%202.jpg)
+- **Copy in 2026:** [`2026/Modules/UNSORTED/M485/MECHANICAL/1980 - 485-03-005 - CAPACITOR MTG. PLATE - DRN P. Mahoney - ISS 2.jpg`](../../2026/Modules/UNSORTED/M485/MECHANICAL/1980%20-%20485-03-005%20-%20CAPACITOR%20MTG.%20PLATE%20-%20DRN%20P.%20Mahoney%20-%20ISS%202.jpg)
 - **SHA-256:** `058aacc46c4a19cb6343dabd192fa097d7e2cf5568937f2cef731c659cefe822`
 - **Read by:** title-block crop read by eye

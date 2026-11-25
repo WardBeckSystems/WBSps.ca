@@ -88,3 +88,42 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 1. The rear power legend stops at “100-230 VAC, 50-60 Hz,” with a trailing comma and no fuse rating. — `#POD #SERIES/POD12A - #Master/POD12A - #ARTWORK #DA #2016/POD12A-FRONT&REAR-SILK (CURVE).cdr`
 2. The rear on this sheet is the 75 Ω BNC build; the 75/110 rear variants are on a separate sheet. — `#POD #SERIES/POD12A - #Master/POD12A - #ARTWORK #DA #2016/POD12A-75-110-REAR SILK(FINAL CURVE).cdr`
 3. POD12A-FRONT(FINAL CURVE).cdr is stored twice, in “POD12A - Artwork” and in the 2016 drafting set (same size). — `#POD #SERIES/POD12A - #Master/POD12A - Artwork/POD12A-FRONT(FINAL CURVE).cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD12A",
+ "name": "Digital Audio DA",
+ "category": "PODS",
+ "year": 2014,
+ "documents": [
+  {
+   "file": "Products/PODS/POD12A/2014 - POD12A - Information Sheet.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD12A/2014 - POD12A - MANUAL (2).docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD12A/2014 - POD12A - MANUAL.docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  }
+ ]
+}
+```

@@ -67,3 +67,28 @@ _What changed, in the words of the listing, oldest first._
 2. The rear has two DIP windows, each 22.4 × 7.1 mm, for DIP1–8 and DIP9–16. — `#POD #SERIES/POD PANELS - #Mechanical #DA #2016/POD - NOT IN ERP/Silks/POD32/POD32-FRONT&REAR(FINAL CURVE).cdr`
 3. The eight Ø 13.5 mm AES BNC holes form two 2 × 2 blocks, held by screws at x 680, 942 and 1205 px (a BNC bracket, inferred). — `#POD #SERIES/POD PANELS - #Mechanical #DA #2016/POD - NOT IN ERP/Silks/POD32/POD32-FRONT&REAR(FINAL CURVE).cdr`
 4. The batch pointed at 2006 SILK/POD32-SILK.cdr copies, stored seven times across Engineering and RD3; the later FINAL CURVE drawing in POD PANELS is the one used. — `#POD #SERIES/POD32 - #Master/POD32 - #Engineering/SILK/POD32-SILK.cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD32",
+ "name": "MD-SDI AES Muxer",
+ "category": "PODS",
+ "year": 2013,
+ "documents": [
+  {
+   "file": "Products/PODS/POD32/19xx - POD32 - Front.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD32/19xx - POD32 - Rear.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": []
+  }
+ ]
+}
+```

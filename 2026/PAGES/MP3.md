@@ -28,7 +28,7 @@ tags: ["product", "metering", "1970s"]
 
 _What it is made of and what it is part of._
 
-<div class="wbs-conn"><div class="wbs-face"><div class="wbs-live" data-m="MP3" data-n="" data-cat="METERING"></div><svg class="wbs-panel" data-m="MP3" data-n="" data-cat="METERING" role="img" aria-label="MP3 front panel (drawn from the simulator's layout)"></svg></div><div class="wbs-main"><div class="wbs-spice"></div><script type="application/json" class="wbs-spice-data">{"code":"MP3","title":"","rto":null,"parts":[],"parents":[{"label":"MP4","href":"MP4.html","note":"on 5 drawings with it: Classic Rackmount Analog"},{"label":"MP2","href":"MP2.html","note":"on 5 drawings with it"},{"label":"MP1","href":"MP1.html","note":"on 5 drawings with it: PPM/VU Meter"}]}</script></div></div><script src="wbs_spice.js"></script>
+<div class="wbs-conn"><div class="wbs-face"><div class="wbs-live" data-m="MP3" data-n="" data-cat="METERING"></div><svg class="wbs-panel" data-m="MP3" data-n="" data-cat="METERING" role="img" aria-label="MP3 front panel (drawn from the simulator's layout)"></svg></div><div class="wbs-main"><div class="wbs-spice"></div><script type="application/json" class="wbs-spice-data">{"code":"MP3","title":"","rto":null,"parts":[],"parents":[{"label":"MP4","href":"MP4.html","note":"on 5 drawings with it: Classic Rackmount Analog"},{"label":"MP1","href":"MP1.html","note":"on 5 drawings with it: PPM/VU Meter"},{"label":"MP2","href":"MP2.html","note":"on 5 drawings with it"}]}</script></div></div><script src="wbs_spice.js"></script>
 
 <a id="software"></a>
 
@@ -56,3 +56,41 @@ The MP3 is not in the engineering [software listings](Software.md) (1998|31 – 
 3. The rear legend states 115 VAC, 1A SB only; there is no 230 V marking. — `#MP (8100) #SERIES/8100 CHASSIS - #ARTWORK #DA #2016/8100MP-REAR-SILK (CURVE).CDR`
 4. The rear silk's guides put the four rack-ear holes at 0.17 in / 16.53 in across and 0.52 in / 2.78 in up on the 16.7 in × 3.27 in plate. — `#MP (8100) #SERIES/8100 CHASSIS - #ARTWORK #DA #2016/8100MP-REAR-SILK (CURVE).CDR`
 5. Both silk files are stored twice, in 8100 CHASSIS - #ARTWORK #DA #2016 and in SILKS. — `#MP (8100) #SERIES/SILKS/8100MP-REAR-SILK (CURVE).CDR`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "MP3",
+ "category": "METERING",
+ "year": 1976,
+ "documents": [
+  {
+   "file": "Products/METERING/MP3/19xx - MP3 - (PPM) Front.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MP3/19xx - MP3 - (VU) Front.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MP3/19xx - MP3 - Rear.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MP4/19xx - MP4 - DOC - MP Series Information Sheet.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  }
+ ]
+}
+```

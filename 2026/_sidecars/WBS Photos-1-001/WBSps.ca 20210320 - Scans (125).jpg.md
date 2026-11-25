@@ -22,6 +22,6 @@
 - **Kind:** drawing
 - **Device:** M461 — wiki: [M461](../../2026/PAGES/M461.md)
 - **Original file:** `WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (125).jpg`
-- **Copy in 2026:** [`2026/Modules/INPUT-PRE-AMPS/M461/1974 - 461-03-003 - SWITCH MTG. BRACKET - DRN DM - ISS 7.jpg`](../../2026/Modules/INPUT-PRE-AMPS/M461/1974%20-%20461-03-003%20-%20SWITCH%20MTG.%20BRACKET%20-%20DRN%20DM%20-%20ISS%207.jpg)
+- **Copy in 2026:** [`2026/Modules/INPUT-PRE-AMPS/M461/MECHANICAL/1974 - 461-03-003 - SWITCH MTG. BRACKET - DRN DM - ISS 7.jpg`](../../2026/Modules/INPUT-PRE-AMPS/M461/MECHANICAL/1974%20-%20461-03-003%20-%20SWITCH%20MTG.%20BRACKET%20-%20DRN%20DM%20-%20ISS%207.jpg)
 - **SHA-256:** `c4e02e7b6332c2945209a3e74e2ae5f19ff3ff6b4b59319cde5bc33d8d5960f8`
 - **Read by:** title-block crop read by eye

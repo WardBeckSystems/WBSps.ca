@@ -50,3 +50,28 @@ The software listings name the AMS8-2A only as part of the [AMS8-2](AMS8-2.md#so
 5. The rear sheet carries a third-party ‘Designed for’ logo box; the simulator shows it as plain text. — `AMS82 - #Master/AMS82 - #ARTWORK #DA #2016/AMS82-M2 SILK (CURVE).cdr`
 6. The rear art is stored three times: in #ARTWORK #DA #2016, in AMS82/SILK and in AMS82 #Engineering/AMS82 #SILK (the last two dated May 2015). An older 2014 sheet, AMS82-1M1-CURVE.cdr, sits beside them. — `AMS82 - #Master/AMS82 #Engineering/AMS82 #SILK/AMS82-1M1-CURVE.cdr`
 7. Older 2005|38–2006|39 sheets (AMS82-DEMUX4-*) in the TIM engineering folder show an earlier rear with the SDI IN / SDI OUT / COMP / Y / Cr / Cb top row and a four-legend SDI IN, SDI OUT, AES 1, AES2 plate, still titled AMS-81. — `AMS8 #Engineering #TIM/AMS82/SILK/AMS82-DEMUX4-REARPANEL-SILK-CURVE.cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "AMS8-2A",
+ "name": "Mkiii 8 Channel Audio Monitoring System",
+ "category": "METERING",
+ "year": 2013,
+ "documents": [
+  {
+   "file": "Products/METERING/AMS8-2A/2014 - AMS8-2A - Series Front.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/AMS8-2AE/2014 - AMS8-2AE - Rear.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  }
+ ]
+}
+```

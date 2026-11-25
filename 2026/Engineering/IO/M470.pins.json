@@ -183,7 +183,7 @@
    "pol": null,
    "src": {
     "sha": "5da6d2b49ee33350841529d7320b6a7510c7c237f0bfcf317cf9d3dac85a17dc",
-    "file": "Modules/INPUT-PRE-AMPS/M470/19xx - M470 - Input Channel 1.png",
+    "file": "Modules/INPUT-PRE-AMPS/M470/MANUALS/19xx - M470 - Input Channel 1.png",
     "page": 1
    },
    "quote": "P2-4",
@@ -354,7 +354,7 @@
    "pol": null,
    "src": {
     "sha": "5da6d2b49ee33350841529d7320b6a7510c7c237f0bfcf317cf9d3dac85a17dc",
-    "file": "Modules/INPUT-PRE-AMPS/M470/19xx - M470 - Input Channel 1.png",
+    "file": "Modules/INPUT-PRE-AMPS/M470/MANUALS/19xx - M470 - Input Channel 1.png",
     "page": 1
    },
    "quote": "Pz- 16",
@@ -466,7 +466,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470/19xx - M470 - Input Channel 1.png",
+     "file": "Modules/INPUT-PRE-AMPS/M470/MANUALS/19xx - M470 - Input Channel 1.png",
      "page": 1
     }
    ]

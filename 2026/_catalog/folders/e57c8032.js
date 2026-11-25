@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/COMMUNICATION/M752/KICAD","f":[["M752.kicad_sym",""]]};

@@ -1,1 +1,1 @@
-window.WBS_FOLDER={"d":"Consoles/1980-1989/870374 - CKPR RADIO - R1000 RADIO CONSOLE","f":[["1987 - 870374 - Binder spine - CKPR RADIO - R1000 RADIO CONSOLE (01).jpg",""],["1987 - 870374 - Binder spine - CKPR RADIO - R1000 RADIO CONSOLE (02).jpg",""]]};
+window.WBS_FOLDER={"d":"Consoles/1980-1989/870374 - CKPR RADIO - R1000 RADIO CONSOLE","f":[["1987 - 870374 - Binder spine - CKPR RADIO - R1000 RADIO CONSOLE (01).jpg","fb261386fab72a542c9e"],["1987 - 870374 - Binder spine - CKPR RADIO - R1000 RADIO CONSOLE (02).jpg","24135d462db3d8d0dafe"]]};

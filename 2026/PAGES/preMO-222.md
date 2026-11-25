@@ -9,9 +9,9 @@ tags: ["module", "ravenna-aes67", "2020s"]
 
 # preMO-222
 
-**▶ [preMO remote (web control panel)](../Premo/2026/web/index.html) · [PreMO manual (draft, PDF)](https://github.com/WardBeckSystems/Premote.WBSps.ca/blob/main/preMO%20remote-20261119T130500Z-1-001/preMO%20remote/PreMO%20manual%20draft.pdf)**
-
 **▶ [Open the PREmo AES67 mic preamp (RD88) simulation](../siumulation.html?plugin=premo)** — front panel, operator tutorial, one second in slow motion, block diagram, schematics and how each control drives the firmware
+
+**▶ [preMO remote (web control panel)](../2026/Premo/2026/web/index.html) · [PreMO manual (draft, PDF)](https%3A//github.com/WardBeckSystems/Premote.WBSps.ca/blob/main/preMO%2520remote-20261119T130500Z-1-001/preMO%2520remote/PreMO%2520manual%2520draft.pdf)**
 
 |  |  |
 |---|---|
@@ -38,3 +38,21 @@ tags: ["module", "ravenna-aes67", "2020s"]
 
 1. The front-panel drawing says “SILKSCREEN TO ARTWORK #PREMO222-FRONT &amp; REAR-SILK”, but no such artwork file (CorelDRAW, PDF or otherwise) is in the archive, so the panels here stay drawn from the PCB assembly drawings. — `#PREmo #Series/RD88-MICpre/PREmo - #Mechanical #DA #2016/PREMO222-FRONT ISS.1(PANEL).pdf`
 2. The PREMO222 panels are 0.250 in aluminium, powder-coated San Tex black (Protech PX611N331), with the silkscreen applied before the powder coat. — `#PREmo #Series/RD88-MICpre/PREmo - #Mechanical #DA #2016/PREMO222-FRONT ISS.1(PANEL).pdf`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "preMO-222",
+ "category": "RAVENNA AES67",
+ "year": 2021,
+ "documents": [
+  {
+   "file": "Products/RAVENNA AES67/preMO-222/19xx - preMO-222 - Information Sheet.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": []
+  }
+ ]
+}
+```

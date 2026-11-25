@@ -79,3 +79,42 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 5. The rear prints “CAUTION: DISCONNECT POWER BEFORE SERVICING OR REPLACING THE FUSE” and a warning triangle, neither mentioned in the spec sheet. — `#POD #SERIES/POD34 - #Master/POD34 - #ARTWORK #DA #2016/POD34-FRONT&REAR-SILK (Curve).cdr`
 6. The ARTWORK copy (saved Oct 2015) and Engineering/SILK/POD34-FRONT&REAR(FINAL CURVE).cdr (Mar 2015) are identical inside the panel outlines. — `#POD #SERIES/POD34 - #Master/POD34 - #Engineering/SILK/POD34-FRONT&REAR(FINAL CURVE).cdr`
 7. Each XLR is drawn as a D-flange connector with two diagonal mounting holes, and the binding posts as Ø 14 mm holes in a 2 × 2 block. — `#POD #SERIES/POD34 - #Master/POD34 - #ARTWORK #DA #2016/POD34-FRONT&REAR-SILK (Curve).cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD34",
+ "name": "30 Watt Class D Amplifier With Digital & Analog Input",
+ "category": "PODS",
+ "year": 2015,
+ "documents": [
+  {
+   "file": "Products/PODS/POD34/2015 - POD34 - Information Sheet.jpg",
+   "year": 2015,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD34/2015 - POD34 - MANUAL (2).docx",
+   "year": 2015,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD34/2015 - POD34 - MANUAL.docx",
+   "year": 2015,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  }
+ ]
+}
+```

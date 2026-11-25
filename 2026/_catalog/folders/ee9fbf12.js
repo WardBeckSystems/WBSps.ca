@@ -1,1 +1,1 @@
-window.WBS_FOLDER={"d":"Consoles/1980-1989/870782 - WTOP RADIO - ANNOUNCE CONSOLE","f":[["1987 - 870782 - Binder spine - WTOP RADIO - ANNOUNCE CONSOLE (01).jpg",""],["1987 - 870782 - Binder spine - WTOP RADIO - ANNOUNCE CONSOLE (02).jpg",""]]};
+window.WBS_FOLDER={"d":"Consoles/1980-1989/870782 - WTOP RADIO - ANNOUNCE CONSOLE","f":[["1987 - 870782 - Binder spine - WTOP RADIO - ANNOUNCE CONSOLE (01).jpg","003b6b9f1529f9318cdd"],["1987 - 870782 - Binder spine - WTOP RADIO - ANNOUNCE CONSOLE (02).jpg","2abc0729ef0a6d5998fc"]]};

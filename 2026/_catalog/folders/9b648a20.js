@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/SUMMING/M477/KICAD","f":[["1979 - M477 - 477-01-001 - OHM MONITOR OUTPUT METERING OUTPUT SOLO SOLO SUMMING.kicad_sch",""],["1979 - M477 - Master Module (2) p17.kicad_sch",""],["1979 - M477 - Master Module p20.kicad_sch",""],["1979 - M477 - Master Module p21.kicad_sch",""],["1979 - M477 - Master Module p23.kicad_sch",""],["M477.kicad_sym",""]]};

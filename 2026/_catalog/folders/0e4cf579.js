@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/INPUT-PRE-AMPS/M490E/PHOTOS","f":[["1978 - M490E - wbsps - module - M490e 001.jpg",""],["1978 - M490E - wbsps - module - M490e 001_small.jpg",""],["1978 - M490E - wbsps - module - M490e 003.jpg",""],["1978 - M490E - wbsps - module - M490e 003_small.jpg",""]]};

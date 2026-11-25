@@ -77,3 +77,29 @@ _What changed, in the words of the listing, oldest first._
 5. The front legend reads PRESET (singular), the AMS8-2 front reads PRESETS. — `AMS81 - #Master/AMS81 - #ARTWORK #DA #2016/AMS8-1A-FRONT-SILK (CURVES).cdr`
 6. Two AMS8-1A front sheets sit side by side with the same date: the CURVES file and AMS8-1A-FRONT-SILK (AMS8-M24).cdr. — `AMS81 - #Master/AMS81 - #ARTWORK #DA #2016/AMS8-1A-FRONT-SILK (AMS8-M24).cdr`
 7. The 1B and 1CA fronts (Apr 2016) are separate variants that the simulator does not model. — `AMS81 - #Master/AMS81 - #ARTWORK #DA #2016/AMS8-1CA-FRONT-SILK (CURVES).cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "AMS8-1AN",
+ "category": "RAVENNA AES67",
+ "year": 2014,
+ "documents": [
+  {
+   "file": "Products/RAVENNA AES67/AMS8-1AN/2014 - AMS8-1AN - 002 - AMS8-1AN Three Quarter.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/RAVENNA AES67/AMS8-1AN/2014 - AMS8-1AN - Information Sheet.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  }
+ ]
+}
+```

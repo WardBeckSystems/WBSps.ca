@@ -246,3 +246,213 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 2. The file name says "FINAL CURVE" where every sister POD sheet says "SILK (CURVE)". — `#POD #SERIES/POD5 - #Master/POD5 - #ARTWORK #DA #2016/POD5-FRONT&REAR(FINAL CURVE).cdr`
 3. POD5SLK.CDR (18 Sep 2008) is the older silk. — `#POD #SERIES/POD5 - #Master/POD5 - #Engineering/POD5 - #ARTWORK/POD5SLK.CDR`
 4. The drill crosses in the jack and pot holes are on the sheet but not printed on the panel in the photo. inferred — `#POD #SERIES/POD5 - #Master/POD5 - #ARTWORK #DA #2016/Pics/POD5 Front.jpg`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD5",
+ "name": "Dual Headset Amplifier",
+ "category": "PODS",
+ "year": 1995,
+ "documents": [
+  {
+   "file": "Products/PODS/POD5/1995 - POD5 - FN5 '5TH PART FIELD' - DOCUMENT.docx",
+   "year": 1995,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "modules"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD5/1995 - POD5 - Front.jpg",
+   "year": 1995,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD5/1995 - POD5 - Information Sheet.jpg",
+   "year": 1995,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD5/1995 - POD5 - POD5 - #ESP_OUT.TXT - DOCUMENT.docx",
+   "year": 1995,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD5/1995 - POD5 - POD5 - DRAFTERR.LOG - DOCUMENT.docx",
+   "year": 1995,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD5/1995 - POD5 - POD5 - POD5 - SCHEMATIC (ORCAD).dsn",
+   "year": 1995,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD5/1995 - POD5 - POD5 - POD5-3 - DRAWING (AUTOCAD).dwg",
+   "year": 1995,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD5/1995 - POD5 - Rear.jpg",
+   "year": 1995,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD5/1995 - POD5 - SCHEMATIC.wpd",
+   "year": 1995,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD5/1996 - POD5 - #ESP_OUT.txt",
+   "year": 1996,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD5/1996 - POD5 - POD5 - GREATER THAN 70 DB BELOW -10 DBU OUTPUT - COMPONENT LAYOUT.wpd",
+   "year": 1996,
+   "pages": 1,
+   "holds": [
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD5/1996 - POD5 - POD5 - INCLUSIVE OF POWER SUPPLY - FRONT PANEL.wpd",
+   "year": 1996,
+   "pages": 1,
+   "holds": [
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD5/1996 - POD5 - POD5 - LMPOD5-1 - WIRING.dwg",
+   "year": 1996,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD5/1996 - POD5 - POD5 - LMPOD5-2 - LAYOUT.dwg",
+   "year": 1996,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD5/1996 - POD5 - POD5 - LMPOD5-3 - LAYOUT.dwg",
+   "year": 1996,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD5/1996 - POD5 - POD5 - POD5-1 - DRAWING (AUTOCAD).dwg",
+   "year": 1996,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD5/1996 - POD5 - POD5 - POD5F01 - DRAWING (AUTOCAD).dwg",
+   "year": 1996,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD5/1996 - POD5 - POD5 - POD5M01 - DRAWING (AUTOCAD).dwg",
+   "year": 1996,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD5/1996 - POD5 - POD5 - POD5M02 - DRAWING (AUTOCAD).dwg",
+   "year": 1996,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD5/1996 - POD5 - POD5 - POD5MAN1 - DRAWING (AUTOCAD).dwg",
+   "year": 1996,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD5/1996 - POD5 - POD5 - POD5TRY - UNKNOWN.wpd",
+   "year": 1996,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD5/1997 - POD5 - POD5 - FUNMAN - DRAWING (AUTOCAD).dwg",
+   "year": 1997,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD5/1997 - POD5 - POD5 - POD3BACK - DRAWING (DXF).dxf",
+   "year": 1997,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD5/1997 - POD5 - POD5 - POD5-2 - DRAWING (AUTOCAD).dwg",
+   "year": 1997,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD5/1997 - POD5 - POD5 - POD5BACK - DRAWING (DXF).dxf",
+   "year": 1997,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD5/1997 - POD5 - POD5 - POD5FRNT - DRAWING (DXF).dxf",
+   "year": 1997,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD5/1997 - POD5 - POD5 - POD5MAN2 - DRAWING (AUTOCAD).dwg",
+   "year": 1997,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD5/2014 - POD5 - MANUAL (2).docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD5/2014 - POD5 - MANUAL.docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  }
+ ]
+}
+```

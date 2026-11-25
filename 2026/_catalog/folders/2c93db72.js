@@ -1,1 +1,1 @@
-window.WBS_FOLDER={"d":"Products/RAVENNA AES67/AMS2-N","f":[["2016 - AMS2-N - Front Three Quarter.jpg",""],["2016 - AMS2-N - Information Sheet.jpg",""],["2016 - AMS2-N - MANUAL (2).docx",""],["2016 - AMS2-N - MANUAL.docx",""]]};
+window.WBS_FOLDER={"d":"Products/RAVENNA AES67/AMS2-N","f":[["2016 - AMS2-N - Front Three Quarter.jpg","672cf74c0dab809fecc3"],["2016 - AMS2-N - Information Sheet.jpg","b0dd8d4dc08d36090f45"],["2016 - AMS2-N - MANUAL (2).docx","380f1d8cb44ba5aed345"],["2016 - AMS2-N - MANUAL.docx","23bc8d2e0a60048ea9fa"]]};

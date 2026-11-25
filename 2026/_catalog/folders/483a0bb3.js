@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/INPUT-PRE-AMPS/M480C/PINOUTS","f":[["1982 - M480C - P18 - 5-1 - pinout.jpg",""],["M480C - connections.svg",""],["M480C - pinout.svg",""],["M480C - RTO-144 Connections.pdf",""],["M480C - RTO-144 connector.svg",""],["M480C - RTO-144 inputs and outputs.svg",""]]};

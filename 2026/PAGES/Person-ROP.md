@@ -22,5 +22,5 @@ tags: ["person"]
 
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
-| — | Cod Input Moo Ule Front Panel |  | [MGB](Person-MGB.md) |  |  | [file](../Modules/INPUT-PRE-AMPS/M470/1977%20-%20M470%20-%20Input%20Module%20-%20User%20Guide%20%282%29.pdf) |
-| 463-01-001 | Control Solo Solo Control Common Solo |  | [PKM](Person-PKM.md) | [ROP](Person-ROP.md) |  | [file](../Modules/SUMMING/M463/1974%20-%20M463%20-%20Submaster%20Module.pdf) p.31 |
+| — | Cod Input Moo Ule Front Panel |  | [MGB](Person-MGB.md) |  |  | [file](../Modules/INPUT-PRE-AMPS/M470/MANUALS/1977%20-%20M470%20-%20Input%20Module%20-%20User%20Guide%20%282%29.pdf) |
+| 463-01-001 | Control Solo Solo Control Common Solo |  | [PKM](Person-PKM.md) | [ROP](Person-ROP.md) |  | [file](../Modules/SUMMING/M463/MANUALS/1974%20-%20M463%20-%20Submaster%20Module.pdf) p.31 |

@@ -84,3 +84,42 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 3. Of the two INPUT 1 GAIN holes on the front, only L has a drill crosshair; R is a plain hole. — `#POD #SERIES/POD14B - UNBALANCE IN #Master/POD14B - #ARTWORK #DA #2016/POD14B-FRONT&REAR-SILK (CURVE).cdr`
 4. The CDR (saved 2016-06-16) is newer than the PDF of the same sheet (2015-12-03), but the ink is identical. The sheet is dated NOV.06/14. — `#POD #SERIES/POD14B - UNBALANCE IN #Master/POD14B - #ARTWORK #DA #2016/POD14B-FRONT&REAR-SILK (CURVE).cdr`
 5. The CDR draws a drill crosshair at every hole on both the green and white plates; the real panels (Pics/ photos) carry no crosshairs, so the simulator shows them faint. — `#POD #SERIES/POD14B - UNBALANCE IN #Master/POD14B - #ARTWORK #DA #2016/POD14B-FRONT&REAR-SILK (CURVE).cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD14B",
+ "name": "Dual Analog To Digital Converter",
+ "category": "PODS",
+ "year": 2014,
+ "documents": [
+  {
+   "file": "Products/PODS/POD14B/2014 - POD14B - Information Sheet.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD14B/2014 - POD14B - MANUAL (2).docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD14B/2014 - POD14B - MANUAL.docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  }
+ ]
+}
+```

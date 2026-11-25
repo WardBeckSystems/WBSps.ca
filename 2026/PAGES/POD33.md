@@ -111,3 +111,60 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 4. The rear power legend reads “110-230 VAC, 50-60 Hz” and gives no fuse rating. — `#POD #SERIES/POD33 - #Master/POD33 - #ARTWORK #DA #2016/POD33-FRONT&REAR-SILK (CURVE).cdr`
 5. POD33-SILK-ISS4.cdr in the Engineering SILK folder is an older issue (2010|43) than the 2016|49 drafting set. — `#POD #SERIES/POD33 - #Master/POD33 - #Engineering/SILK/POD33-SILK-ISS4.cdr`
 6. The drafting set holds a live-text twin, POD33-FRONT&amp;REAR-SILK.cdr, beside the CURVE version (same date). — `#POD #SERIES/POD33 - #Master/POD33 - #ARTWORK #DA #2016/POD33-FRONT&REAR-SILK.cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD33",
+ "name": "AES DARS Tone Generator",
+ "category": "PODS",
+ "year": 2017,
+ "documents": [
+  {
+   "file": "Products/PODS/POD33/2017 - POD33 - Front wrd clk.jpg",
+   "year": 2017,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD33/2017 - POD33 - Front.jpg",
+   "year": 2017,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD33/2017 - POD33 - Information Sheet.jpg",
+   "year": 2017,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD33/2017 - POD33 - MANUAL (2).docx",
+   "year": 2017,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD33/2017 - POD33 - MANUAL.docx",
+   "year": 2017,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD33/2017 - POD33 - Rear.jpg",
+   "year": 2017,
+   "pages": 1,
+   "holds": []
+  }
+ ]
+}
+```

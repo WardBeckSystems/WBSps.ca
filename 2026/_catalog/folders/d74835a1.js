@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/UNSORTED/M414/KICAD","f":[["19xx - 414-02-001 - 6 WATT UTILITY AMPLIFIER - ISS 2.kicad_sch",""],["M414.kicad_sym",""]]};

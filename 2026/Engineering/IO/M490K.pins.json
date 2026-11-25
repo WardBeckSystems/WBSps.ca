@@ -40,7 +40,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490K/1983 - M490K - Line Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M490K/MANUALS/1983 - M490K - Line Input Module.pdf",
      "page": 7
     }
    ]
@@ -115,7 +115,7 @@
    "pol": null,
    "src": {
     "sha": "c979f482ea6e4da019ad47ca7547c2bb5931d5abec89076995915ae7e8083207",
-    "file": "Modules/INPUT-PRE-AMPS/M490K/1983 - M490K - P007 - 2-3.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490K/MANUALS/1983 - M490K - P007 - 2-3.jpg",
     "page": 1
    },
    "quote": "The FOLDBACK outputs, like the POST DRECT output, are taken from the booster amplifier output via level controls R1SO-R15I (FB1 and R1S2-R153 (FB2) . FBI and FB",
@@ -134,7 +134,7 @@
    "pol": null,
    "src": {
     "sha": "d9f27931a30defc5b90a51b3364a204b76db085b2a1969ad90c20ff5412e4cb4",
-    "file": "Modules/INPUT-PRE-AMPS/M490K/1983 - M490K - P006 - 2-2.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490K/MANUALS/1983 - M490K - P006 - 2-2.jpg",
     "page": 1
    },
    "quote": "The output booster amplifier 23-24 taken before the PAN switch and routed the PoST DIRECT output P1-20,21 _ The output level dBm (voltage re: 600 ohms) under no",
@@ -229,7 +229,7 @@
    "pol": null,
    "src": {
     "sha": "09863dc440ee932fdcbdb53579f22daa174d1a48b07c1e9c77c18244fb4021c3",
-    "file": "Modules/INPUT-PRE-AMPS/M490K/1983 - M490K - 490-02-011 - CMON CUE JOR.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490K/SCHEMATICS/1983 - M490K - 490-02-011 - CMON CUE JOR.jpg",
     "page": 1
    },
    "quote": "P2-4",
@@ -324,7 +324,7 @@
    "pol": null,
    "src": {
     "sha": "09863dc440ee932fdcbdb53579f22daa174d1a48b07c1e9c77c18244fb4021c3",
-    "file": "Modules/INPUT-PRE-AMPS/M490K/1983 - M490K - 490-02-011 - CMON CUE JOR.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490K/SCHEMATICS/1983 - M490K - 490-02-011 - CMON CUE JOR.jpg",
     "page": 1
    },
    "quote": "-25v Pz-13,7",
@@ -343,7 +343,7 @@
    "pol": null,
    "src": {
     "sha": "09863dc440ee932fdcbdb53579f22daa174d1a48b07c1e9c77c18244fb4021c3",
-    "file": "Modules/INPUT-PRE-AMPS/M490K/1983 - M490K - 490-02-011 - CMON CUE JOR.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490K/SCHEMATICS/1983 - M490K - 490-02-011 - CMON CUE JOR.jpg",
     "page": 1
    },
    "quote": "Timlr Pz - R AlIt",
@@ -362,7 +362,7 @@
    "pol": null,
    "src": {
     "sha": "09863dc440ee932fdcbdb53579f22daa174d1a48b07c1e9c77c18244fb4021c3",
-    "file": "Modules/INPUT-PRE-AMPS/M490K/1983 - M490K - 490-02-011 - CMON CUE JOR.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490K/SCHEMATICS/1983 - M490K - 490-02-011 - CMON CUE JOR.jpg",
     "page": 1
    },
    "quote": "Pz - 17 P?-U",
@@ -427,7 +427,7 @@
    "pol": null,
    "src": {
     "sha": "0964088ad78ad82576453b5e22faa79c66a665c7dc1f3dada96be8bc7682e637",
-    "file": "Modules/INPUT-PRE-AMPS/M490K/1983 - M490K - Line Input Module.pdf",
+    "file": "Modules/INPUT-PRE-AMPS/M490K/MANUALS/1983 - M490K - Line Input Module.pdf",
     "page": 27
    },
    "quote": "Cai P2-Y,Y < Ilen",

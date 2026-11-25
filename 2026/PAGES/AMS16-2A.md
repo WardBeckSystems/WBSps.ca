@@ -52,3 +52,21 @@ The software listings name the AMS16-2A only as part of the [AMS16](AMS16.md#sof
 9. **RD23AMS163GSDIUpgrade:** The sheet's assembled view uses live Arial text; only its WHITE plate is in curves. — `AMS16 - #Master/AMS16 - #ARTWORK #DA #2016/AMS16AQ-3G-M2-SILK (curve).cdr`
 10. **RD23AMS163GSDIUpgrade:** SDI IN1/IN2/OUT1/OUT2 are D-shaped holes with flats; the eight AES outputs and two MONITOR outputs are round Ø0.485″ BNC holes. — `AMS16 - #Master/AMS16 - #ARTWORK #DA #2016/AMS16AQ-3G-M2-SILK (curve).cdr`
 11. **RD23AMS163GSDIUpgrade:** The RD23 folder holds a 2008 front sheet (AMS16A2-SILK-FINALcurve.cdr); the newest front is AMS16A2-M1-FRONT-SILK (CURVE).cdr, dated OCT.27/15. RD23 did not change the front. — `ENGINEERING - 2016 RD FILES/RD23AMS163GSDIUpgrade/Adam/AMS16/SILK/AMS16A2-SILK-FINALcurve.cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "AMS16-2A",
+ "category": "METERING",
+ "year": 2013,
+ "documents": [
+  {
+   "file": "Products/METERING/AMS16-2AE/2014 - AMS16-2AE - Rear.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  }
+ ]
+}
+```

@@ -95,3 +95,46 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 2. The silk puts CUT at the counter-clockwise end of FADE TIME and 2SEC clockwise; the schematic's CW mark on RV1 suggests the opposite. — `#POD #SERIES/XXX - POD16 - #Master #OBSOLETE/POD16 - #ARTWORK #DA #2016/POD16-FRONT&REAR(CURVE).cdr`
 3. The 1999 silk converts only the bars, the three fade symbols and the drill crosshairs; its text is lost. — `#POD #SERIES/XXX - POD16 - #Master #OBSOLETE/POD16 - #Engineering/SILK/POD16SLK.CDR`
 4. The 2014 artwork sheet is dated Jun.25/14, although the POD16 itself dates from 1998|31. — `#POD #SERIES/XXX - POD16 - #Master #OBSOLETE/POD16 - #ARTWORK #DA #2016/POD16-FRONT&REAR(CURVE).cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD16",
+ "name": "Stereo Audio Fader",
+ "category": "PODS",
+ "year": 2014,
+ "documents": [
+  {
+   "file": "Products/PODS/POD16/2014 - POD16 - Front.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD16/2014 - POD16 - MANUAL (2).docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD16/2014 - POD16 - MANUAL.docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD16/2014 - POD16 - Rear.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  }
+ ]
+}
+```

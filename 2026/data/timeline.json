@@ -61,17 +61,17 @@
    "files": 71,
    "folder": "Modules/COMPUTERS/M526",
    "ads": [
-    "Modules/COMPUTERS/M5200/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M5201/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M524/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M526/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/FILTERS/M522/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M520/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M521/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/MONITORING/M525/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M523/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M527/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M528/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
+    "Modules/COMPUTERS/M5200/MANUALS/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M5201/MANUALS/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M524/MANUALS/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M526/MANUALS/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/FILTERS/M522/MANUALS/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M520/MANUALS/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M521/MANUALS/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/MONITORING/M525/MANUALS/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M523/MANUALS/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M527/MANUALS/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M528/MANUALS/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
    ],
    "page": ""
   },
@@ -444,7 +444,7 @@
    "files": 72,
    "folder": "Modules/COMMUNICATION/M7880",
    "ads": [
-    "Modules/COMMUNICATION/M7880/19xx - M7880 - AD - WBSPS - AD - Microcom II 0012.jpg",
+    "Modules/COMMUNICATION/M7880/MANUALS/19xx - M7880 - AD - WBSPS - AD - Microcom II 0012.jpg",
     "Products/MICRO SERIES/microCOM II/19xx - microCOM II - AD - WBSPS - AD - Microcom II 0012.jpg",
     "Products/MICRO SERIES/microCOM/19xx - microCOM - AD - WBSPS - AD - Microcom II 0012.jpg"
    ],
@@ -1132,13 +1132,13 @@
    "files": 169,
    "folder": "Modules/AMPLIFIERS/M612",
    "ads": [
-    "Modules/AMPLIFIERS/M605/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M610/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M612/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M621/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M666/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M624/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M648/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
+    "Modules/AMPLIFIERS/M605/MANUALS/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M612/MANUALS/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M621/MANUALS/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M666/MANUALS/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M624/MANUALS/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M648/MANUALS/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
    ],
    "page": ""
   },
@@ -1937,8 +1937,8 @@
    "files": 100,
    "folder": "Products/8200 SERIES/D8212",
    "ads": [
-    "Modules/AMPLIFIERS/M8200/19xx - M8200 - AD - Screen Shot 2016-03-06 at 12.54.58 AM.png",
-    "Modules/AMPLIFIERS/M8200/19xx - M8200 - AD - Screen Shot 2016-03-06 at 12.55.00 AM.png",
+    "Modules/AMPLIFIERS/M8200/MANUALS/19xx - M8200 - AD - Screen Shot 2016-03-06 at 12.54.58 AM.png",
+    "Modules/AMPLIFIERS/M8200/MANUALS/19xx - M8200 - AD - Screen Shot 2016-03-06 at 12.55.00 AM.png",
     "Products/8200 SERIES/D8212/19xx - D8212 - AD - Screen Shot 2016-03-06 at 12.51.49 AM (2).png",
     "Products/8200 SERIES/D8212/19xx - D8212 - AD - Screen Shot 2016-03-06 at 12.51.49 AM.png",
     "Products/8200 SERIES/D8212/19xx - D8212 - AD - Screen Shot 2016-03-06 at 12.52.00 AM.png",
@@ -2169,17 +2169,17 @@
    "files": 62,
    "folder": "Modules/SUMMING/M527",
    "ads": [
-    "Modules/COMPUTERS/M5200/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M5201/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M524/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M526/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/FILTERS/M522/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M520/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M521/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/MONITORING/M525/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M523/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M527/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M528/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
+    "Modules/COMPUTERS/M5200/MANUALS/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M5201/MANUALS/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M524/MANUALS/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M526/MANUALS/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/FILTERS/M522/MANUALS/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M520/MANUALS/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M521/MANUALS/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/MONITORING/M525/MANUALS/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M523/MANUALS/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M527/MANUALS/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M528/MANUALS/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
    ],
    "page": ""
   },
@@ -2257,7 +2257,7 @@
    "files": 80,
    "folder": "Products/MICRO SERIES/microCOM II",
    "ads": [
-    "Modules/COMMUNICATION/M7880/19xx - M7880 - AD - WBSPS - AD - Microcom II 0012.jpg",
+    "Modules/COMMUNICATION/M7880/MANUALS/19xx - M7880 - AD - WBSPS - AD - Microcom II 0012.jpg",
     "Products/MICRO SERIES/microCOM II/19xx - microCOM II - AD - WBSPS - AD - Microcom II 001.jpg",
     "Products/MICRO SERIES/microCOM II/19xx - microCOM II - AD - WBSPS - AD - Microcom II 0012.jpg",
     "Products/MICRO SERIES/microCOM II/19xx - microCOM II - AD - WBSPS - AD - Microcom II 003.jpg",
@@ -2289,7 +2289,7 @@
    "files": 130,
    "folder": "Modules/UNSORTED/M907",
    "ads": [
-    "Modules/UNSORTED/M907/19xx - M907 - AD - Renaissance console 006.jpg"
+    "Modules/UNSORTED/M907/MANUALS/19xx - M907 - AD - Renaissance console 006.jpg"
    ],
    "page": ""
   },
@@ -2627,8 +2627,8 @@
    "files": 50,
    "folder": "Modules/FILTERS/M402",
    "ads": [
-    "Modules/FILTERS/M402/19xx - M402 - AD - 20170522_122029_020.jpg",
-    "Modules/FILTERS/M404/19xx - M404 - AD - 20170522_122029_020.jpg"
+    "Modules/FILTERS/M402/MANUALS/19xx - M402 - AD - 20170522_122029_020.jpg",
+    "Modules/FILTERS/M404/MANUALS/19xx - M404 - AD - 20170522_122029_020.jpg"
    ],
    "page": ""
   },
@@ -2816,7 +2816,7 @@
    "files": 250,
    "folder": "Products/MICRO SERIES/microCOM",
    "ads": [
-    "Modules/COMMUNICATION/M7880/19xx - M7880 - AD - WBSPS - AD - Microcom II 0012.jpg",
+    "Modules/COMMUNICATION/M7880/MANUALS/19xx - M7880 - AD - WBSPS - AD - Microcom II 0012.jpg",
     "Products/MICRO SERIES/microCOM II/19xx - microCOM II - AD - WBSPS - AD - Microcom II 0012.jpg",
     "Products/MICRO SERIES/microCOM II/19xx - microCOM II - AD - WBSPS - AD - Microcom II 003.jpg",
     "Products/MICRO SERIES/microCOM/19xx - microCOM - AD - 20170522_121429_002.jpg",
@@ -3040,13 +3040,13 @@
    "files": 158,
    "folder": "Modules/POWER/M648",
    "ads": [
-    "Modules/AMPLIFIERS/M605/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M610/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M612/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M621/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M666/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M624/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M648/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
+    "Modules/AMPLIFIERS/M605/MANUALS/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M612/MANUALS/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M621/MANUALS/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M666/MANUALS/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M624/MANUALS/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M648/MANUALS/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
    ],
    "page": ""
   },
@@ -3237,13 +3237,13 @@
    "files": 86,
    "folder": "Modules/POWER/M624",
    "ads": [
-    "Modules/AMPLIFIERS/M605/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M610/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M612/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M621/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M666/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M624/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M648/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
+    "Modules/AMPLIFIERS/M605/MANUALS/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M612/MANUALS/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M621/MANUALS/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M666/MANUALS/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M624/MANUALS/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M648/MANUALS/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
    ],
    "page": ""
   },
@@ -3733,17 +3733,17 @@
    "files": 88,
    "folder": "Modules/SUMMING/M523",
    "ads": [
-    "Modules/COMPUTERS/M5200/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M5201/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M524/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M526/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/FILTERS/M522/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M520/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M521/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/MONITORING/M525/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M523/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M527/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M528/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
+    "Modules/COMPUTERS/M5200/MANUALS/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M5201/MANUALS/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M524/MANUALS/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M526/MANUALS/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/FILTERS/M522/MANUALS/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M520/MANUALS/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M521/MANUALS/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/MONITORING/M525/MANUALS/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M523/MANUALS/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M527/MANUALS/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M528/MANUALS/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
    ],
    "page": ""
   },
@@ -3805,17 +3805,17 @@
    "files": 66,
    "folder": "Modules/COMPUTERS/M5200",
    "ads": [
-    "Modules/COMPUTERS/M5200/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M5201/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M524/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M526/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/FILTERS/M522/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M520/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M521/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/MONITORING/M525/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M523/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M527/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M528/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
+    "Modules/COMPUTERS/M5200/MANUALS/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M5201/MANUALS/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M524/MANUALS/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M526/MANUALS/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/FILTERS/M522/MANUALS/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M520/MANUALS/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M521/MANUALS/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/MONITORING/M525/MANUALS/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M523/MANUALS/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M527/MANUALS/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M528/MANUALS/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
    ],
    "page": ""
   },
@@ -4281,17 +4281,17 @@
    "files": 78,
    "folder": "Modules/COMPUTERS/M5201",
    "ads": [
-    "Modules/COMPUTERS/M5200/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M5201/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M524/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M526/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/FILTERS/M522/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M520/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M521/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/MONITORING/M525/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M523/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M527/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M528/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
+    "Modules/COMPUTERS/M5200/MANUALS/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M5201/MANUALS/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M524/MANUALS/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M526/MANUALS/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/FILTERS/M522/MANUALS/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M520/MANUALS/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M521/MANUALS/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/MONITORING/M525/MANUALS/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M523/MANUALS/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M527/MANUALS/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M528/MANUALS/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
    ],
    "page": ""
   },
@@ -4580,17 +4580,17 @@
    "files": 57,
    "folder": "Modules/SUMMING/M528",
    "ads": [
-    "Modules/COMPUTERS/M5200/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M5201/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M524/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M526/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/FILTERS/M522/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M520/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M521/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/MONITORING/M525/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M523/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M527/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M528/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
+    "Modules/COMPUTERS/M5200/MANUALS/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M5201/MANUALS/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M524/MANUALS/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M526/MANUALS/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/FILTERS/M522/MANUALS/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M520/MANUALS/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M521/MANUALS/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/MONITORING/M525/MANUALS/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M523/MANUALS/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M527/MANUALS/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M528/MANUALS/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
    ],
    "page": ""
   },
@@ -4618,17 +4618,17 @@
    "files": 109,
    "folder": "Modules/INPUT-PRE-AMPS/M520",
    "ads": [
-    "Modules/COMPUTERS/M5200/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M5201/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M524/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M526/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/FILTERS/M522/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M520/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M521/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/MONITORING/M525/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M523/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M527/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M528/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
+    "Modules/COMPUTERS/M5200/MANUALS/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M5201/MANUALS/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M524/MANUALS/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M526/MANUALS/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/FILTERS/M522/MANUALS/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M520/MANUALS/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M521/MANUALS/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/MONITORING/M525/MANUALS/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M523/MANUALS/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M527/MANUALS/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M528/MANUALS/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
    ],
    "page": ""
   },
@@ -4921,17 +4921,17 @@
    "files": 136,
    "folder": "Modules/FILTERS/M522",
    "ads": [
-    "Modules/COMPUTERS/M5200/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M5201/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M524/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M526/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/FILTERS/M522/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M520/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M521/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/MONITORING/M525/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M523/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M527/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M528/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
+    "Modules/COMPUTERS/M5200/MANUALS/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M5201/MANUALS/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M524/MANUALS/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M526/MANUALS/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/FILTERS/M522/MANUALS/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M520/MANUALS/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M521/MANUALS/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/MONITORING/M525/MANUALS/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M523/MANUALS/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M527/MANUALS/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M528/MANUALS/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
    ],
    "page": ""
   },
@@ -5043,9 +5043,9 @@
    "files": 80,
    "folder": "Modules/AMPLIFIERS/M8200",
    "ads": [
-    "Modules/AMPLIFIERS/M8200/19xx - M8200 - AD - Screen Shot 2016-03-06 at 12.54.58 AM.png",
-    "Modules/AMPLIFIERS/M8200/19xx - M8200 - AD - Screen Shot 2016-03-06 at 12.55.00 AM.png",
-    "Modules/AMPLIFIERS/M8200/19xx - M8200 - AD - Screen Shot 2016-03-06 at 12.55.01 AM.png",
+    "Modules/AMPLIFIERS/M8200/MANUALS/19xx - M8200 - AD - Screen Shot 2016-03-06 at 12.54.58 AM.png",
+    "Modules/AMPLIFIERS/M8200/MANUALS/19xx - M8200 - AD - Screen Shot 2016-03-06 at 12.55.00 AM.png",
+    "Modules/AMPLIFIERS/M8200/MANUALS/19xx - M8200 - AD - Screen Shot 2016-03-06 at 12.55.01 AM.png",
     "Products/8200 SERIES/D8212/19xx - D8212 - AD - Screen Shot 2016-03-06 at 12.54.58 AM.png",
     "Products/8200 SERIES/D8212/19xx - D8212 - AD - Screen Shot 2016-03-06 at 12.55.00 AM.png"
    ],
@@ -5704,13 +5704,13 @@
    "files": 80,
    "folder": "Modules/AMPLIFIERS/M610",
    "ads": [
-    "Modules/AMPLIFIERS/M605/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M610/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M612/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M621/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M666/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M624/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M648/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
+    "Modules/AMPLIFIERS/M605/MANUALS/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M612/MANUALS/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M621/MANUALS/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M666/MANUALS/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M624/MANUALS/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M648/MANUALS/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
    ],
    "page": ""
   },
@@ -5822,17 +5822,17 @@
    "files": 55,
    "folder": "Modules/COMPUTERS/M524",
    "ads": [
-    "Modules/COMPUTERS/M5200/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M5201/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M524/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M526/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/FILTERS/M522/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M520/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M521/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/MONITORING/M525/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M523/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M527/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M528/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
+    "Modules/COMPUTERS/M5200/MANUALS/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M5201/MANUALS/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M524/MANUALS/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M526/MANUALS/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/FILTERS/M522/MANUALS/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M520/MANUALS/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M521/MANUALS/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/MONITORING/M525/MANUALS/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M523/MANUALS/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M527/MANUALS/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M528/MANUALS/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
    ],
    "page": ""
   },
@@ -6312,13 +6312,13 @@
    "files": 151,
    "folder": "Modules/AMPLIFIERS/M621",
    "ads": [
-    "Modules/AMPLIFIERS/M605/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M610/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M612/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M621/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M666/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M624/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M648/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
+    "Modules/AMPLIFIERS/M605/MANUALS/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M612/MANUALS/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M621/MANUALS/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M666/MANUALS/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M624/MANUALS/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M648/MANUALS/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
    ],
    "page": ""
   },
@@ -6657,13 +6657,13 @@
    "files": 84,
    "folder": "Modules/AMPLIFIERS/M605",
    "ads": [
-    "Modules/AMPLIFIERS/M605/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M610/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M612/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M621/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M666/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M624/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M648/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
+    "Modules/AMPLIFIERS/M605/MANUALS/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M612/MANUALS/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M621/MANUALS/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M666/MANUALS/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M624/MANUALS/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M648/MANUALS/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
    ],
    "page": ""
   },
@@ -7298,8 +7298,8 @@
    "files": 58,
    "folder": "PHOTOS/Photos",
    "ads": [
-    "Modules/FILTERS/M402/19xx - M402 - AD - 20170522_122029_020.jpg",
-    "Modules/FILTERS/M404/19xx - M404 - AD - 20170522_122029_020.jpg"
+    "Modules/FILTERS/M402/MANUALS/19xx - M402 - AD - 20170522_122029_020.jpg",
+    "Modules/FILTERS/M404/MANUALS/19xx - M404 - AD - 20170522_122029_020.jpg"
    ],
    "page": ""
   },
@@ -7331,17 +7331,17 @@
    "files": 30,
    "folder": "Modules/MONITORING/M525",
    "ads": [
-    "Modules/COMPUTERS/M5200/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M5201/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M524/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M526/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/FILTERS/M522/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M520/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M521/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/MONITORING/M525/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M523/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M527/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M528/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
+    "Modules/COMPUTERS/M5200/MANUALS/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M5201/MANUALS/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M524/MANUALS/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M526/MANUALS/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/FILTERS/M522/MANUALS/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M520/MANUALS/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M521/MANUALS/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/MONITORING/M525/MANUALS/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M523/MANUALS/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M527/MANUALS/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M528/MANUALS/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
    ],
    "page": ""
   },
@@ -7517,7 +7517,7 @@
    "files": 112,
    "folder": "Modules/INPUT-PRE-AMPS/M470",
    "ads": [
-    "Modules/INPUT-PRE-AMPS/M470/19xx - M470 - AD - wbsps - ad - l3242.jpg"
+    "Modules/INPUT-PRE-AMPS/M470/MANUALS/19xx - M470 - AD - wbsps - ad - l3242.jpg"
    ],
    "page": ""
   },
@@ -7807,9 +7807,9 @@
    "files": 77,
    "folder": "Modules/AMPLIFIERS/M608",
    "ads": [
-    "Modules/AMPLIFIERS/M608/19xx - M608 - AD - WBSPS - AD - for the engineer who has everything.jpg",
-    "Modules/AMPLIFIERS/M609/19xx - M609 - AD - WBSPS - AD - for the engineer who has everything.jpg",
-    "Modules/AMPLIFIERS/M612A/19xx - M612A - AD - WBSPS - AD - for the engineer who has everything.jpg"
+    "Modules/AMPLIFIERS/M608/MANUALS/19xx - M608 - AD - WBSPS - AD - for the engineer who has everything.jpg",
+    "Modules/AMPLIFIERS/M609/MANUALS/19xx - M609 - AD - WBSPS - AD - for the engineer who has everything.jpg",
+    "Modules/AMPLIFIERS/M612A/MANUALS/19xx - M612A - AD - WBSPS - AD - for the engineer who has everything.jpg"
    ],
    "page": ""
   },
@@ -8420,9 +8420,9 @@
    "files": 104,
    "folder": "Modules/AMPLIFIERS/M612A",
    "ads": [
-    "Modules/AMPLIFIERS/M608/19xx - M608 - AD - WBSPS - AD - for the engineer who has everything.jpg",
-    "Modules/AMPLIFIERS/M609/19xx - M609 - AD - WBSPS - AD - for the engineer who has everything.jpg",
-    "Modules/AMPLIFIERS/M612A/19xx - M612A - AD - WBSPS - AD - for the engineer who has everything.jpg"
+    "Modules/AMPLIFIERS/M608/MANUALS/19xx - M608 - AD - WBSPS - AD - for the engineer who has everything.jpg",
+    "Modules/AMPLIFIERS/M609/MANUALS/19xx - M609 - AD - WBSPS - AD - for the engineer who has everything.jpg",
+    "Modules/AMPLIFIERS/M612A/MANUALS/19xx - M612A - AD - WBSPS - AD - for the engineer who has everything.jpg"
    ],
    "page": ""
   },
@@ -8915,7 +8915,7 @@
    "files": 120,
    "folder": "Modules/METER/M405",
    "ads": [
-    "Modules/METER/M405/19xx - M405 - AD - wbsps - ad - made to measure.jpg"
+    "Modules/METER/M405/MANUALS/19xx - M405 - AD - wbsps - ad - made to measure.jpg"
    ],
    "page": ""
   },
@@ -9154,9 +9154,9 @@
    "files": 65,
    "folder": "Modules/AMPLIFIERS/M609",
    "ads": [
-    "Modules/AMPLIFIERS/M608/19xx - M608 - AD - WBSPS - AD - for the engineer who has everything.jpg",
-    "Modules/AMPLIFIERS/M609/19xx - M609 - AD - WBSPS - AD - for the engineer who has everything.jpg",
-    "Modules/AMPLIFIERS/M612A/19xx - M612A - AD - WBSPS - AD - for the engineer who has everything.jpg"
+    "Modules/AMPLIFIERS/M608/MANUALS/19xx - M608 - AD - WBSPS - AD - for the engineer who has everything.jpg",
+    "Modules/AMPLIFIERS/M609/MANUALS/19xx - M609 - AD - WBSPS - AD - for the engineer who has everything.jpg",
+    "Modules/AMPLIFIERS/M612A/MANUALS/19xx - M612A - AD - WBSPS - AD - for the engineer who has everything.jpg"
    ],
    "page": ""
   },
@@ -9621,17 +9621,17 @@
    "files": 125,
    "folder": "Modules/INPUT-PRE-AMPS/M521",
    "ads": [
-    "Modules/COMPUTERS/M5200/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M5201/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M524/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M526/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/FILTERS/M522/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M520/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M521/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/MONITORING/M525/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M523/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M527/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M528/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
+    "Modules/COMPUTERS/M5200/MANUALS/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M5201/MANUALS/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M524/MANUALS/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M526/MANUALS/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/FILTERS/M522/MANUALS/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M520/MANUALS/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M521/MANUALS/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/MONITORING/M525/MANUALS/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M523/MANUALS/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M527/MANUALS/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M528/MANUALS/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
    ],
    "page": ""
   },
@@ -10463,13 +10463,13 @@
    "files": 62,
    "folder": "Modules/AMPLIFIERS/M666",
    "ads": [
-    "Modules/AMPLIFIERS/M605/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M610/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M612/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M621/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M666/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M624/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M648/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
+    "Modules/AMPLIFIERS/M605/MANUALS/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M612/MANUALS/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M621/MANUALS/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M666/MANUALS/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M624/MANUALS/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M648/MANUALS/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
    ],
    "page": ""
   },

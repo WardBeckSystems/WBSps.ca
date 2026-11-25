@@ -78,3 +78,46 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 3. A small unlabelled hole sits beside the “115 VAC, 1/2 A.S.B.” legend on the rear (fuse holder or ground stud, inferred). — `#POD #SERIES/POD24 - #Master/POD24 - #ARTWORK #DA #2016/POD24-FRONT&REAR-SILK (CURVE).cdr`
 4. The panel says “STEREO / LEFT · RIGHT” where the manual calls the mode “MONO”. — `#POD #SERIES/POD24 - #Master/POD24 - #ARTWORK #DA #2016/POD24-FRONT&REAR-SILK (CURVE).cdr`
 5. The rear power cut-out is a flatted round hole about 13 mm across, not an IEC inlet window. — `#POD #SERIES/POD24 - #Master/POD24 - #ARTWORK #DA #2016/POD24-FRONT&REAR-SILK (CURVE).cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD24",
+ "name": "Power Amplifier",
+ "category": "PODS",
+ "year": 2014,
+ "documents": [
+  {
+   "file": "Products/PODS/POD24/2014 - POD24 - Front.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD24/2014 - POD24 - MANUAL (2).docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD24/2014 - POD24 - MANUAL.docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD24/2014 - POD24 - Rear.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  }
+ ]
+}
+```

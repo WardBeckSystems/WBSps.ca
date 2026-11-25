@@ -43,7 +43,7 @@
    "pol": null,
    "src": {
     "sha": "92d57f045fba7ec0adce84dc3a37701212f60203d243ba77acd7534a0b43bc68",
-    "file": "Modules/SUMMING/M463K/1974 - M463K - Submaster Module (2).pdf",
+    "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module (2).pdf",
     "page": 45
    },
    "quote": "5 \"\"' 10    I SW ~ I      ' 5WBI           5w,         5wC.          15 W5 1 I Sv.J4- 1 I S W .3 1",
@@ -62,7 +62,7 @@
    "pol": null,
    "src": {
     "sha": "92d57f045fba7ec0adce84dc3a37701212f60203d243ba77acd7534a0b43bc68",
-    "file": "Modules/SUMMING/M463K/1974 - M463K - Submaster Module (2).pdf",
+    "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module (2).pdf",
     "page": 2
    },
    "quote": "M46 3K     Componen t La you l              S 4-1 J6-06 -0 18",
@@ -81,7 +81,7 @@
    "pol": null,
    "src": {
     "sha": "0a4b4d113bb545abda5e191ec084a6bca0f0d88f0cb4d8e6765bf87199e372fb",
-    "file": "Modules/SUMMING/M463K/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
+    "file": "Modules/SUMMING/M463K/SCHEMATICS/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
     "page": 1
    },
    "quote": "7 P1-3",
@@ -100,7 +100,7 @@
    "pol": null,
    "src": {
     "sha": "0a4b4d113bb545abda5e191ec084a6bca0f0d88f0cb4d8e6765bf87199e372fb",
-    "file": "Modules/SUMMING/M463K/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
+    "file": "Modules/SUMMING/M463K/SCHEMATICS/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
     "page": 1
    },
    "quote": "P1-7",
@@ -109,7 +109,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463K/1974 - M463K - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module.pdf",
      "page": 43
     }
    ]
@@ -127,7 +127,7 @@
    "pol": null,
    "src": {
     "sha": "7d69401020a93340314835636296d249fc1e84b2ecb1f3e108ebe09ae6e99177",
-    "file": "Modules/SUMMING/M463K/1974 - M463K - Submaster Module.pdf",
+    "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module.pdf",
     "page": 43
    },
    "quote": "7PZ F ~P1-12",
@@ -146,7 +146,7 @@
    "pol": null,
    "src": {
     "sha": "cf7d4b25c913724f25ca4bf95aa2c4b27ad7ca8f244c6fb9b890ba31696e083c",
-    "file": "Modules/SUMMING/M463K/1974 - M463K - P038 - LB463-02-010 003.jpg",
+    "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - P038 - LB463-02-010 003.jpg",
     "page": 1
    },
    "quote": "P1 -21",
@@ -165,7 +165,7 @@
    "pol": null,
    "src": {
     "sha": "0a4b4d113bb545abda5e191ec084a6bca0f0d88f0cb4d8e6765bf87199e372fb",
-    "file": "Modules/SUMMING/M463K/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
+    "file": "Modules/SUMMING/M463K/SCHEMATICS/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
     "page": 1
    },
    "quote": "DIRECT ~P2-12 OUTPUT Pz-N 10 JBm NOMINAL PZ-3 Mi PZ-\u20ac LEFT P2-4 OuTPUTS M3 PZ-D P2-5 M2 P?-E RIGhT OUTPUTS P2-6 M4 P2-F",
@@ -174,7 +174,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463K/1974 - M463K - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module.pdf",
      "page": 43
     }
    ]
@@ -192,7 +192,7 @@
    "pol": null,
    "src": {
     "sha": "0a4b4d113bb545abda5e191ec084a6bca0f0d88f0cb4d8e6765bf87199e372fb",
-    "file": "Modules/SUMMING/M463K/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
+    "file": "Modules/SUMMING/M463K/SCHEMATICS/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
     "page": 1
    },
    "quote": "DIRECT ~P2-12 OUTPUT Pz-N 10 JBm NOMINAL PZ-3 Mi PZ-\u20ac LEFT P2-4 OuTPUTS M3 PZ-D P2-5 M2 P?-E RIGhT OUTPUTS P2-6 M4 P2-F",
@@ -211,7 +211,7 @@
    "pol": null,
    "src": {
     "sha": "0a4b4d113bb545abda5e191ec084a6bca0f0d88f0cb4d8e6765bf87199e372fb",
-    "file": "Modules/SUMMING/M463K/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
+    "file": "Modules/SUMMING/M463K/SCHEMATICS/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
     "page": 1
    },
    "quote": "DIRECT ~P2-12 OUTPUT Pz-N 10 JBm NOMINAL PZ-3 Mi PZ-\u20ac LEFT P2-4 OuTPUTS M3 PZ-D P2-5 M2 P?-E RIGhT OUTPUTS P2-6 M4 P2-F",
@@ -220,7 +220,7 @@
      "signal": "OUTPUTS",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463K/1974 - M463K - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module.pdf",
      "page": 43
     }
    ]
@@ -238,7 +238,7 @@
    "pol": null,
    "src": {
     "sha": "0a4b4d113bb545abda5e191ec084a6bca0f0d88f0cb4d8e6765bf87199e372fb",
-    "file": "Modules/SUMMING/M463K/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
+    "file": "Modules/SUMMING/M463K/SCHEMATICS/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
     "page": 1
    },
    "quote": "DIRECT ~P2-12 OUTPUT Pz-N 10 JBm NOMINAL PZ-3 Mi PZ-\u20ac LEFT P2-4 OuTPUTS M3 PZ-D P2-5 M2 P?-E RIGhT OUTPUTS P2-6 M4 P2-F",
@@ -247,7 +247,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463K/1974 - M463K - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module.pdf",
      "page": 43
     }
    ]
@@ -265,7 +265,7 @@
    "pol": null,
    "src": {
     "sha": "0a4b4d113bb545abda5e191ec084a6bca0f0d88f0cb4d8e6765bf87199e372fb",
-    "file": "Modules/SUMMING/M463K/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
+    "file": "Modules/SUMMING/M463K/SCHEMATICS/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
     "page": 1
    },
    "quote": "DIRECT ~P2-12 OUTPUT Pz-N 10 JBm NOMINAL PZ-3 Mi PZ-\u20ac LEFT P2-4 OuTPUTS M3 PZ-D P2-5 M2 P?-E RIGhT OUTPUTS P2-6 M4 P2-F",
@@ -284,7 +284,7 @@
    "pol": null,
    "src": {
     "sha": "0a4b4d113bb545abda5e191ec084a6bca0f0d88f0cb4d8e6765bf87199e372fb",
-    "file": "Modules/SUMMING/M463K/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
+    "file": "Modules/SUMMING/M463K/SCHEMATICS/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
     "page": 1
    },
    "quote": "DIRECT ~P2-12 OUTPUT Pz-N 10 JBm NOMINAL PZ-3 Mi PZ-\u20ac LEFT P2-4 OuTPUTS M3 PZ-D P2-5 M2 P?-E RIGhT OUTPUTS P2-6 M4 P2-F",
@@ -293,7 +293,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463K/1974 - M463K - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module.pdf",
      "page": 43
     }
    ]
@@ -311,7 +311,7 @@
    "pol": null,
    "src": {
     "sha": "0a4b4d113bb545abda5e191ec084a6bca0f0d88f0cb4d8e6765bf87199e372fb",
-    "file": "Modules/SUMMING/M463K/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
+    "file": "Modules/SUMMING/M463K/SCHEMATICS/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
     "page": 1
    },
    "quote": "DIRECT ~P2-12 OUTPUT Pz-N 10 JBm NOMINAL PZ-3 Mi PZ-\u20ac LEFT P2-4 OuTPUTS M3 PZ-D P2-5 M2 P?-E RIGhT OUTPUTS P2-6 M4 P2-F",
@@ -320,7 +320,7 @@
      "signal": "OUTPUT",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463K/1974 - M463K - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module.pdf",
      "page": 43
     }
    ]
@@ -338,7 +338,7 @@
    "pol": null,
    "src": {
     "sha": "0a4b4d113bb545abda5e191ec084a6bca0f0d88f0cb4d8e6765bf87199e372fb",
-    "file": "Modules/SUMMING/M463K/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
+    "file": "Modules/SUMMING/M463K/SCHEMATICS/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
     "page": 1
    },
    "quote": "DIRECT ~P2-12 OUTPUT Pz-N 10 JBm NOMINAL PZ-3 Mi PZ-\u20ac LEFT P2-4 OuTPUTS M3 PZ-D P2-5 M2 P?-E RIGhT OUTPUTS P2-6 M4 P2-F",
@@ -347,7 +347,7 @@
      "signal": "OUTPUT",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463K/1974 - M463K - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module.pdf",
      "page": 43
     }
    ]
@@ -365,7 +365,7 @@
    "pol": null,
    "src": {
     "sha": "7d69401020a93340314835636296d249fc1e84b2ecb1f3e108ebe09ae6e99177",
-    "file": "Modules/SUMMING/M463K/1974 - M463K - Submaster Module.pdf",
+    "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module.pdf",
     "page": 41
    },
    "quote": "Pz - 13",
@@ -384,7 +384,7 @@
    "pol": null,
    "src": {
     "sha": "0a4b4d113bb545abda5e191ec084a6bca0f0d88f0cb4d8e6765bf87199e372fb",
-    "file": "Modules/SUMMING/M463K/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
+    "file": "Modules/SUMMING/M463K/SCHEMATICS/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
     "page": 1
    },
    "quote": ">P2-T",
@@ -403,7 +403,7 @@
    "pol": null,
    "src": {
     "sha": "cf7d4b25c913724f25ca4bf95aa2c4b27ad7ca8f244c6fb9b890ba31696e083c",
-    "file": "Modules/SUMMING/M463K/1974 - M463K - P038 - LB463-02-010 003.jpg",
+    "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - P038 - LB463-02-010 003.jpg",
     "page": 1
    },
    "quote": "SUB TALLY P2-U<0",
@@ -412,7 +412,7 @@
      "signal": "SUB TALLY",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463K/1974 - M463K - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module.pdf",
      "page": 41
     }
    ]
@@ -430,7 +430,7 @@
    "pol": null,
    "src": {
     "sha": "0a4b4d113bb545abda5e191ec084a6bca0f0d88f0cb4d8e6765bf87199e372fb",
-    "file": "Modules/SUMMING/M463K/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
+    "file": "Modules/SUMMING/M463K/SCHEMATICS/1974 - M463K - 463-02-010 - SUB MASTER MODULE EKO.jpg",
     "page": 1
    },
    "quote": "P2-18 CTL COM:",
@@ -439,7 +439,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463K/1974 - M463K - P038 - LB463-02-010 003.jpg",
+     "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - P038 - LB463-02-010 003.jpg",
      "page": 1
     }
    ]
@@ -457,7 +457,7 @@
    "pol": null,
    "src": {
     "sha": "cf7d4b25c913724f25ca4bf95aa2c4b27ad7ca8f244c6fb9b890ba31696e083c",
-    "file": "Modules/SUMMING/M463K/1974 - M463K - P038 - LB463-02-010 003.jpg",
+    "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - P038 - LB463-02-010 003.jpg",
     "page": 1
    },
    "quote": "SUB ON PZ-W < CTLCOM P2-X",
@@ -466,7 +466,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463K/1974 - M463K - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module.pdf",
      "page": 41
     }
    ]
@@ -484,7 +484,7 @@
    "pol": null,
    "src": {
     "sha": "39dd53ee63b521a973e4a1061d3eb259a5ad3b6893edfbe14a4d4e6a567b41aa",
-    "file": "Modules/SUMMING/M463K/1974 - M463K - P038 - LB463-02-010 001.jpg",
+    "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - P038 - LB463-02-010 001.jpg",
     "page": 1
    },
    "quote": "Ri2? c47 ISk 46 PNSLAS 220/25 Q2 PN3645 CR2 P2-19 1N4003 Tip308",
@@ -493,7 +493,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463K/1974 - M463K - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module.pdf",
      "page": 39
     }
    ]
@@ -511,7 +511,7 @@
    "pol": null,
    "src": {
     "sha": "cf7d4b25c913724f25ca4bf95aa2c4b27ad7ca8f244c6fb9b890ba31696e083c",
-    "file": "Modules/SUMMING/M463K/1974 - M463K - P038 - LB463-02-010 003.jpg",
+    "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - P038 - LB463-02-010 003.jpg",
     "page": 1
    },
    "quote": "SUB ON PZ-W < CTLCOM P2-X",
@@ -520,7 +520,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463K/1974 - M463K - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module.pdf",
      "page": 41
     }
    ]
@@ -538,7 +538,7 @@
    "pol": null,
    "src": {
     "sha": "39dd53ee63b521a973e4a1061d3eb259a5ad3b6893edfbe14a4d4e6a567b41aa",
-    "file": "Modules/SUMMING/M463K/1974 - M463K - P038 - LB463-02-010 001.jpg",
+    "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - P038 - LB463-02-010 001.jpg",
     "page": 1
    },
    "quote": "P2-20",
@@ -547,7 +547,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463K/1974 - M463K - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module.pdf",
      "page": 39
     }
    ]
@@ -565,7 +565,7 @@
    "pol": null,
    "src": {
     "sha": "cf7d4b25c913724f25ca4bf95aa2c4b27ad7ca8f244c6fb9b890ba31696e083c",
-    "file": "Modules/SUMMING/M463K/1974 - M463K - P038 - LB463-02-010 003.jpg",
+    "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - P038 - LB463-02-010 003.jpg",
     "page": 1
    },
    "quote": "+24v P2 -Y < ,",
@@ -574,28 +574,28 @@
      "signal": "+24V",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463K/1974 - M463K - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module.pdf",
      "page": 41
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463K/1974 - M463K - P038 - LB463-02-010 003.jpg",
+     "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - P038 - LB463-02-010 003.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463K/1974 - M463K - Submaster Module (2).pdf",
+     "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module (2).pdf",
      "page": 41
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463K/1974 - M463K - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module.pdf",
      "page": 41
     }
    ]
@@ -613,7 +613,7 @@
    "pol": null,
    "src": {
     "sha": "39dd53ee63b521a973e4a1061d3eb259a5ad3b6893edfbe14a4d4e6a567b41aa",
-    "file": "Modules/SUMMING/M463K/1974 - M463K - P038 - LB463-02-010 001.jpg",
+    "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - P038 - LB463-02-010 001.jpg",
     "page": 1
    },
    "quote": "P2 -21",
@@ -622,7 +622,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463K/1974 - M463K - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module.pdf",
      "page": 39
     }
    ]
@@ -640,7 +640,7 @@
    "pol": null,
    "src": {
     "sha": "39dd53ee63b521a973e4a1061d3eb259a5ad3b6893edfbe14a4d4e6a567b41aa",
-    "file": "Modules/SUMMING/M463K/1974 - M463K - P038 - LB463-02-010 001.jpg",
+    "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - P038 - LB463-02-010 001.jpg",
     "page": 1
    },
    "quote": "P2-22",
@@ -649,7 +649,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463K/1974 - M463K - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463K/MANUALS/1974 - M463K - Submaster Module.pdf",
      "page": 39
     }
    ]

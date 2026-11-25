@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/AMPLIFIERS/M808B/PINOUTS","f":[["1994 - M808B - CONNECTOR LAYOUT.jpg",""],["M808B - connections.svg",""],["M808B - pinout.svg",""]]};

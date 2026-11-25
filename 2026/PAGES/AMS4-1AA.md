@@ -72,3 +72,34 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 3. The silk only fits the PIC version (MODE / SOURCE buttons and the dot-matrix window); the AMS4N and AMS4E front layouts have no artwork in the archive. — `AMS4 - #Master/AMS4 & AMS4N - #ARTWORK #DA #2016/AMS4-FRONT&REAR-SILK(CURVE).cdr`
 4. AMS4-FRONT&REAR-SILK(CURVE).cdr, AMS4-FRONT-SILK(CURVE).cdr and AMS4-REAR-SILK(CURVE).cdr are each stored three times (ARTWORK #DA #2016, #Engineering/ARTWORK, #Engineering/AMS4 - #ARTWORK). — `AMS4 - #Master/AMS4 - #Engineering/ARTWORK/AMS4-FRONT&REAR-SILK(CURVE).cdr`
 5. The title block of the combined silk says DEC.23/15, but the file was saved 2016-06-29, the same day as the rear-only silk. — `AMS4 - #Master/AMS4 & AMS4N - #ARTWORK #DA #2016/AMS4-FRONT&REAR-SILK(CURVE).cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "AMS4-1AA",
+ "name": "Audio Monitor System",
+ "category": "METERING",
+ "year": 2016,
+ "documents": [
+  {
+   "file": "Products/METERING/AMS4-1AA/2016 - AMS4-1AA - AMS4-1AAM MANUAL (2).docx",
+   "year": 2016,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/METERING/AMS4-1AA/2016 - AMS4-1AA - AMS4-1AAM MANUAL.docx",
+   "year": 2016,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  }
+ ]
+}
+```

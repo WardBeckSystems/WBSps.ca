@@ -21,6 +21,6 @@
 - **Kind:** drawing
 - **Device:** M107 — wiki: [M107](../../2026/PAGES/M107.md)
 - **Original file:** `WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (102).jpg`
-- **Copy in 2026:** [`2026/Modules/UNSORTED/M107/1972 - 107-03-004 - MODULE BASE - DRN MRW.jpg`](../../2026/Modules/UNSORTED/M107/1972%20-%20107-03-004%20-%20MODULE%20BASE%20-%20DRN%20MRW.jpg)
+- **Copy in 2026:** [`2026/Modules/UNSORTED/M107/MECHANICAL/1972 - 107-03-004 - MODULE BASE - DRN MRW.jpg`](../../2026/Modules/UNSORTED/M107/MECHANICAL/1972%20-%20107-03-004%20-%20MODULE%20BASE%20-%20DRN%20MRW.jpg)
 - **SHA-256:** `cd493d3f714c841d6c859b5ece60b455530a3855280643090ff8e917dfc047ba`
 - **Read by:** title-block crop read by eye

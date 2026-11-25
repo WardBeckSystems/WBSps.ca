@@ -21,6 +21,6 @@
 - **Kind:** drawing
 - **Device:** M468 — wiki: [M468](../../2026/PAGES/M468.md)
 - **Original file:** `WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (4).jpg`
-- **Copy in 2026:** [`2026/Modules/ROUTING/M468/1988 - 468-03-018 - KEY CAP JOINER - DRN DRG - ISS 2.jpg`](../../2026/Modules/ROUTING/M468/1988%20-%20468-03-018%20-%20KEY%20CAP%20JOINER%20-%20DRN%20DRG%20-%20ISS%202.jpg)
+- **Copy in 2026:** [`2026/Modules/ROUTING/M468/MECHANICAL/1988 - 468-03-018 - KEY CAP JOINER - DRN DRG - ISS 2.jpg`](../../2026/Modules/ROUTING/M468/MECHANICAL/1988%20-%20468-03-018%20-%20KEY%20CAP%20JOINER%20-%20DRN%20DRG%20-%20ISS%202.jpg)
 - **SHA-256:** `6e77bd3419078e614b9aecfb16916b5c05080c03d7b07e9fd613d66839280d75`
 - **Read by:** title-block crop read by eye

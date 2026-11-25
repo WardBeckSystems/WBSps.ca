@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/COMMUNICATION/M702D/PINOUTS","f":[["M702D - connections.svg",""],["M702D - pinout.svg",""]]};

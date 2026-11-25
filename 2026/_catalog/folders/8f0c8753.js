@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/ROUTING/M568P/KICAD","f":[["19xx - M568P - 568-01-014 - MONO ASSIGNMENT MODULE FUNCTIONAL.kicad_sch",""],["19xx - M568P - 568-02-014 - MONO ASSIGNMENT MODULE SCHEMA TIC.kicad_sch",""],["M568P.kicad_sym",""]]};

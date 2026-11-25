@@ -37,7 +37,7 @@
    "pol": null,
    "src": {
     "sha": "2d3419ae16ffd03f3f27bb43918e596e1fb786a4d2a9b9482bba1159da41b670",
-    "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 021 - Pin Out.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490A/PINOUTS/1978 - M490A - 021 - Pin Out.jpg",
     "page": 1
    },
    "quote": null,
@@ -56,7 +56,7 @@
    "pol": null,
    "src": {
     "sha": "2d3419ae16ffd03f3f27bb43918e596e1fb786a4d2a9b9482bba1159da41b670",
-    "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 021 - Pin Out.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490A/PINOUTS/1978 - M490A - 021 - Pin Out.jpg",
     "page": 1
    },
    "quote": null,
@@ -75,7 +75,7 @@
    "pol": null,
    "src": {
     "sha": "2d3419ae16ffd03f3f27bb43918e596e1fb786a4d2a9b9482bba1159da41b670",
-    "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 021 - Pin Out.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490A/PINOUTS/1978 - M490A - 021 - Pin Out.jpg",
     "page": 1
    },
    "quote": null,
@@ -94,7 +94,7 @@
    "pol": null,
    "src": {
     "sha": "2d3419ae16ffd03f3f27bb43918e596e1fb786a4d2a9b9482bba1159da41b670",
-    "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 021 - Pin Out.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490A/PINOUTS/1978 - M490A - 021 - Pin Out.jpg",
     "page": 1
    },
    "quote": null,
@@ -113,7 +113,7 @@
    "pol": null,
    "src": {
     "sha": "2d3419ae16ffd03f3f27bb43918e596e1fb786a4d2a9b9482bba1159da41b670",
-    "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 021 - Pin Out.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490A/PINOUTS/1978 - M490A - 021 - Pin Out.jpg",
     "page": 1
    },
    "quote": null,
@@ -132,7 +132,7 @@
    "pol": null,
    "src": {
     "sha": "2d3419ae16ffd03f3f27bb43918e596e1fb786a4d2a9b9482bba1159da41b670",
-    "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 021 - Pin Out.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490A/PINOUTS/1978 - M490A - 021 - Pin Out.jpg",
     "page": 1
    },
    "quote": null,
@@ -151,7 +151,7 @@
    "pol": null,
    "src": {
     "sha": "2d3419ae16ffd03f3f27bb43918e596e1fb786a4d2a9b9482bba1159da41b670",
-    "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 021 - Pin Out.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490A/PINOUTS/1978 - M490A - 021 - Pin Out.jpg",
     "page": 1
    },
    "quote": null,
@@ -255,21 +255,21 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 020 - PCB layout.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 020 - PCB layout.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490A/WBS M490A - Schematic(1).jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/WBS M490A - Schematic(1).jpg",
      "page": 1
     }
    ]
@@ -315,21 +315,21 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490A/WBS M490A - Schematic(1).jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/WBS M490A - Schematic(1).jpg",
      "page": 1
     }
    ]
@@ -356,21 +356,21 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490A/WBS M490A - Schematic(1).jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/WBS M490A - Schematic(1).jpg",
      "page": 1
     }
    ]
@@ -388,7 +388,7 @@
    "pol": null,
    "src": {
     "sha": "3e618de81c16bf473b89fee614e495ae5b9681f042c8e2610d78f303f8b23170",
-    "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
     "page": 1
    },
    "quote": "P? j P2-E 72-K",
@@ -397,7 +397,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490A/WBS M490A - Schematic(1).jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/WBS M490A - Schematic(1).jpg",
      "page": 1
     }
    ]
@@ -415,7 +415,7 @@
    "pol": null,
    "src": {
     "sha": "3e618de81c16bf473b89fee614e495ae5b9681f042c8e2610d78f303f8b23170",
-    "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
     "page": 1
    },
    "quote": "RrL e2ofi0 P2-6 P2-8 P2-5",
@@ -424,14 +424,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490A/WBS M490A - Schematic(1).jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/WBS M490A - Schematic(1).jpg",
      "page": 1
     }
    ]
@@ -458,7 +458,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490A/WBS M490A - Schematic(1).jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/WBS M490A - Schematic(1).jpg",
      "page": 1
     }
    ]
@@ -485,7 +485,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
      "page": 1
     }
    ]
@@ -531,7 +531,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490A/WBS M490A - Schematic(1).jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/WBS M490A - Schematic(1).jpg",
      "page": 1
     }
    ]
@@ -549,7 +549,7 @@
    "pol": null,
    "src": {
     "sha": "351b2262586cbe8baccdefcafc15e8d243043bedb18844011189ffe989f048a4",
-    "file": "Modules/INPUT-PRE-AMPS/M490A/WBS M490A - Schematic(1).jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/WBS M490A - Schematic(1).jpg",
     "page": 1
    },
    "quote": "P2-F P2-J P2-E F2-H",
@@ -568,7 +568,7 @@
    "pol": null,
    "src": {
     "sha": "3e618de81c16bf473b89fee614e495ae5b9681f042c8e2610d78f303f8b23170",
-    "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
     "page": 1
    },
    "quote": "RrL e2ofi0 P2-6 P2-8 P2-5",
@@ -577,7 +577,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
      "page": 1
     }
    ]
@@ -595,7 +595,7 @@
    "pol": null,
    "src": {
     "sha": "351b2262586cbe8baccdefcafc15e8d243043bedb18844011189ffe989f048a4",
-    "file": "Modules/INPUT-PRE-AMPS/M490A/WBS M490A - Schematic(1).jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/WBS M490A - Schematic(1).jpg",
     "page": 1
    },
    "quote": "RJt P2-9,K < 3-L5",
@@ -614,7 +614,7 @@
    "pol": null,
    "src": {
     "sha": "3e618de81c16bf473b89fee614e495ae5b9681f042c8e2610d78f303f8b23170",
-    "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
     "page": 1
    },
    "quote": "P2-L",
@@ -623,14 +623,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490A/WBS M490A - Schematic(1).jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/WBS M490A - Schematic(1).jpg",
      "page": 1
     }
    ]
@@ -648,7 +648,7 @@
    "pol": null,
    "src": {
     "sha": "f5968854b1edc8f36a13d8354841a56498295123baf423d0570bc08614b5aa93",
-    "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
     "page": 1
    },
    "quote": "Pz-M",
@@ -657,7 +657,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490A/WBS M490A - Schematic(1).jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/WBS M490A - Schematic(1).jpg",
      "page": 1
     }
    ]
@@ -675,7 +675,7 @@
    "pol": null,
    "src": {
     "sha": "3e618de81c16bf473b89fee614e495ae5b9681f042c8e2610d78f303f8b23170",
-    "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
     "page": 1
    },
    "quote": "EXt P2-N ON",
@@ -684,7 +684,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
      "page": 1
     }
    ]
@@ -702,7 +702,7 @@
    "pol": null,
    "src": {
     "sha": "3e618de81c16bf473b89fee614e495ae5b9681f042c8e2610d78f303f8b23170",
-    "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
     "page": 1
    },
    "quote": "Rio7 EXt 3k3 P2 - 12 2M OFF C35",
@@ -711,7 +711,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
      "page": 1
     }
    ]
@@ -729,7 +729,7 @@
    "pol": null,
    "src": {
     "sha": "3e618de81c16bf473b89fee614e495ae5b9681f042c8e2610d78f303f8b23170",
-    "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
     "page": 1
    },
    "quote": "P2-P Ch",
@@ -738,7 +738,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
      "page": 1
     }
    ]
@@ -756,7 +756,7 @@
    "pol": null,
    "src": {
     "sha": "3e618de81c16bf473b89fee614e495ae5b9681f042c8e2610d78f303f8b23170",
-    "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
     "page": 1
    },
    "quote": "25v P2-13,W",
@@ -765,14 +765,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
      "page": 1
     }
    ]
@@ -790,7 +790,7 @@
    "pol": null,
    "src": {
     "sha": "f5968854b1edc8f36a13d8354841a56498295123baf423d0570bc08614b5aa93",
-    "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
     "page": 1
    },
    "quote": "P2 - R",
@@ -809,7 +809,7 @@
    "pol": null,
    "src": {
     "sha": "f5968854b1edc8f36a13d8354841a56498295123baf423d0570bc08614b5aa93",
-    "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
     "page": 1
    },
    "quote": "P2-15",
@@ -828,7 +828,7 @@
    "pol": null,
    "src": {
     "sha": "3e618de81c16bf473b89fee614e495ae5b9681f042c8e2610d78f303f8b23170",
-    "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
     "page": 1
    },
    "quote": "P2 = 17 P2-U",
@@ -837,7 +837,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
      "page": 1
     }
    ]
@@ -855,7 +855,7 @@
    "pol": null,
    "src": {
     "sha": "f5968854b1edc8f36a13d8354841a56498295123baf423d0570bc08614b5aa93",
-    "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
     "page": 1
    },
    "quote": "Pz - 17",
@@ -874,7 +874,7 @@
    "pol": null,
    "src": {
     "sha": "3e618de81c16bf473b89fee614e495ae5b9681f042c8e2610d78f303f8b23170",
-    "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
     "page": 1
    },
    "quote": "Pz-V",
@@ -883,7 +883,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
      "page": 1
     }
    ]
@@ -956,7 +956,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
      "page": 1
     }
    ]
@@ -974,7 +974,7 @@
    "pol": null,
    "src": {
     "sha": "f5968854b1edc8f36a13d8354841a56498295123baf423d0570bc08614b5aa93",
-    "file": "Modules/INPUT-PRE-AMPS/M490A/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
     "page": 1
    },
    "quote": "CRZi CTL >P2-22,2 comm 1N4063",

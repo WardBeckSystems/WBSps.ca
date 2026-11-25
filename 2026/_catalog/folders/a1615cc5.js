@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/AMPLIFIERS/M610/KICAD","f":[["19xx - M610 - 610-02-003 - EXTERNAL VOLUME CONTROL VOLUME CONTROL MGIO REMOTE VOLUME.kicad_sch",""],["19xx - M610 - 610-02-004 - MEIO EXT MUTE CONTROL.kicad_sch",""],["M610.kicad_sym",""]]};

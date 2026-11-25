@@ -93,3 +93,68 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 3. The ISS.2 sheet exists in a live-text copy and a FINAL CURVE copy saved the same day (2016-06-13). — `#POD #SERIES/POD PARTS - #Mechanical #DA #2016/SILKS/POD6-001& POD6-002 ISS.2.cdr`
 4. The front panel knob has no pot on the ISS4 PCB: P1 loops the receiver output out and back, so the volume control is off-board (inferred). — `microDriver - POD6 - #Master turned into microdriver/POD6 - #RD #RD76/SMT_Upgrade/backup12-final/POD6-ISS4/POD6-ISS4-S1.pdf`
 5. This POD-series product lives outside #POD #SERIES; its panel and bracket silks are in POD PARTS. — `#POD #SERIES/POD PARTS - #Mechanical #DA #2016/SILKS/POD6-001/POD6-001-SILK (CURVE).cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "microDriver",
+ "name": "Miniature Stereo Headphone Module",
+ "category": "MICRO SERIES",
+ "year": 2014,
+ "documents": [
+  {
+   "file": "Products/MICRO SERIES/microDriver/2014 - microDriver - Information Sheet.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/MICRO SERIES/microDriver/2014 - microDriver - MANUAL - OBSOLETE THRU-HOLE VERSION (2).docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/MICRO SERIES/microDriver/2014 - microDriver - MANUAL - OBSOLETE THRU-HOLE VERSION.docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/MICRO SERIES/microDriver/2016 - microDriver - Manual (2).docx",
+   "year": 2016,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/MICRO SERIES/microDriver/2016 - microDriver - Manual.docx",
+   "year": 2016,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/MICRO SERIES/microDriver/19xx - microDriver - DOC - Commonly Requested Parts _ Accessories.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  }
+ ]
+}
+```

@@ -106,3 +106,54 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 2. The two screw holes between the front buttons (x 861 and 1161 px) hold the button bracket; they are not fixing screws. — `#POD #SERIES/POD30 - #Master/POD30 - #ARTWORK #DA #2016/POD30-FRONT&REAR-SILK (CURVE).cdr`
 3. The white plate numbers the four square 8.6 mm button cut-outs 1–4 underneath, with no input names. — `#POD #SERIES/POD30 - #Master/POD30 - #ARTWORK #DA #2016/POD30-FRONT&REAR-SILK (CURVE).cdr`
 4. The rear has a small hole above the right fixing screw, matching the ground-stud insert of the POD28 drawing. — `#POD #SERIES/POD30 - #Master/POD30 - #ARTWORK #DA #2016/POD30-FRONT&REAR-SILK (CURVE).cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD30",
+ "name": "4x1 HD-SDI Switcher",
+ "category": "PODS",
+ "year": 2014,
+ "documents": [
+  {
+   "file": "Products/PODS/POD30/2014 - POD30 - Front.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD30/2014 - POD30 - Information Sheet.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD30/2014 - POD30 - MANUAL (2).docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD30/2014 - POD30 - MANUAL.docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD30/2014 - POD30 - Rear.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  }
+ ]
+}
+```

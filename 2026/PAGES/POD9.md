@@ -114,3 +114,74 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 3. The rear BNC holes are D-shaped (one flat side), drawn as an arc plus a straight edge. — `#POD #SERIES/POD9 - #Master/POD9 - #ARTWORK #DA #2016/POD9-FRONT&REAR-SILK (CURVE).cdr`
 4. POD9SILK.CDR (Aug 2007) is the earlier silk, filed under the POD9R folder. — `#POD #SERIES/POD9 - #Master/POD9 - #Engineering/POD9R - #SILK/POD9SILK.CDR`
 5. A separate rear-only issue 2 silk survives: POD9-REAR iss2 silk.cdr (Aug 2007). — `#POD #SERIES/POD9 - #Master/POD9 - #Engineering/POD9R - #SILK/POD9-REAR iss2 silk.cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD9",
+ "name": "Video Switcher",
+ "category": "PODS",
+ "year": 1995,
+ "documents": [
+  {
+   "file": "Products/PODS/POD9/1995 - POD9 - Front.jpg",
+   "year": 1995,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD9/1995 - POD9 - Information Sheet.jpg",
+   "year": 1995,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD9/1995 - POD9 - POD2 - POD9.CFG - DOCUMENT.docx",
+   "year": 1995,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD9/1995 - POD9 - POD9 - FAPOD9 - DRAWING (AUTOCAD).dwg",
+   "year": 1995,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD9/1995 - POD9 - Rear.jpg",
+   "year": 1995,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD9/1997 - POD9 - POD9 - WSX - DOCUMENT.cdr",
+   "year": 1997,
+   "pages": null,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD9/2014 - POD9 - MANUAL (2).docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD9/2014 - POD9 - MANUAL.docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  }
+ ]
+}
+```

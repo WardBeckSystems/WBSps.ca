@@ -40,3 +40,23 @@ tags: ["module", "ravenna-aes67", "2010s"]
 4. The rear sheet holds the panel twice: a copy with hole guides placed off the page and the WHITE plate on the page. — `ENGINEERING - 2016 RD FILES/RD22-MADI/SILK/OBSOLETE/FEB282013/RearPanel/32ME-REARPANEL_Feb212013.cdr`
 5. Rear mains legend: “90-230 VAC, 1A S.B. CAUTION: DISCONNECT POWER BEFORE SERVICING OR REPLACING THE FUSE” plus “PLEASE REFER TO MANUAL” beside a warning triangle. — `ENGINEERING - 2016 RD FILES/RD22-MADI/SILK/OBSOLETE/FEB282013/RearPanel/32ME-REARPANEL_Feb212013.cdr`
 6. The SILK tree holds about 26 CorelDRAW files for the 32ME panels and chroma filter (2012–2013), many as Backup_of_ copies, all under OBSOLETE except ConceptFrontAll.cdr. — `ENGINEERING - 2016 RD FILES/RD22-MADI/SILK/OBSOLETE`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "32ME-N",
+ "category": "RAVENNA AES67",
+ "year": 2014,
+ "documents": [
+  {
+   "file": "Products/RAVENNA AES67/32ME-N/2014 - 32ME-N - Information Sheet.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  }
+ ]
+}
+```

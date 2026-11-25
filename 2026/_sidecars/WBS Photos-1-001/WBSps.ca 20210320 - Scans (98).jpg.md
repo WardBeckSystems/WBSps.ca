@@ -22,6 +22,6 @@
 - **Kind:** drawing
 - **Device:** M207 — wiki: [M207](../../2026/PAGES/M207.md)
 - **Original file:** `WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (98).jpg`
-- **Copy in 2026:** [`2026/Modules/POWER/M207/1981 - 207-03-001 - COVER PLATE - DRN GEB - ENG GEB - ISS 1.jpg`](../../2026/Modules/POWER/M207/1981%20-%20207-03-001%20-%20COVER%20PLATE%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%201.jpg)
+- **Copy in 2026:** [`2026/Modules/POWER/M207/MECHANICAL/1981 - 207-03-001 - COVER PLATE - DRN GEB - ENG GEB - ISS 1.jpg`](../../2026/Modules/POWER/M207/MECHANICAL/1981%20-%20207-03-001%20-%20COVER%20PLATE%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%201.jpg)
 - **SHA-256:** `0b6028289a1886e1ece85bb0ded07ddbd2b19485371073de32868907191c9f22`
 - **Read by:** title-block crop read by eye

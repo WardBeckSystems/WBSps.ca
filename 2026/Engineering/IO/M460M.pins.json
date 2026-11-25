@@ -69,7 +69,7 @@
    "pol": null,
    "src": {
     "sha": "a4707180640be010a7d3c24ea86c322fddf6d92c709359abdeedbd2764e78bf5",
-    "file": "Modules/INPUT-PRE-AMPS/M460M/1974 - M460M - P009 - 2-3 (2).jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1974 - M460M - P009 - 2-3 (2).jpg",
     "page": 1
    },
    "quote": "SW13 depressed, the equalized signal fed the Thus with output addition, SW13 depressed, the LED as indi amplifier B-109A _ cator activated. 0Jc2 30' iefna SALL-",
@@ -78,7 +78,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M460M/1974 - M460M - P009 - 2-3.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1974 - M460M - P009 - 2-3.jpg",
      "page": 1
     }
    ]
@@ -162,14 +162,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M460M/1974 - M460M - P009 - 2-3 (2).jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1974 - M460M - P009 - 2-3 (2).jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M460M/1974 - M460M - P009 - 2-3.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1974 - M460M - P009 - 2-3.jpg",
      "page": 1
     }
    ]
@@ -215,28 +215,28 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M460M/1974 - M460M - P009 - 2-3 (2).jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1974 - M460M - P009 - 2-3 (2).jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M460M/1974 - M460M - P009 - 2-3 (2).jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1974 - M460M - P009 - 2-3 (2).jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M460M/1974 - M460M - P009 - 2-3.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1974 - M460M - P009 - 2-3.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M460M/1974 - M460M - P009 - 2-3.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/1974 - M460M - P009 - 2-3.jpg",
      "page": 1
     }
    ]

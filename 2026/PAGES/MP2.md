@@ -67,3 +67,107 @@ The MP2 is not in the engineering [software listings](Software.md) (1998|31 – 
 3. The rear legend states 115 VAC, 1A SB only; there is no 230 V marking. — `#MP (8100) #SERIES/8100 CHASSIS - #ARTWORK #DA #2016/8100MP-REAR-SILK (CURVE).CDR`
 4. The rear silk's guides put the four rack-ear holes at 0.17 in / 16.53 in across and 0.52 in / 2.78 in up on the 16.7 in × 3.27 in plate. — `#MP (8100) #SERIES/8100 CHASSIS - #ARTWORK #DA #2016/8100MP-REAR-SILK (CURVE).CDR`
 5. Both silk files are stored twice, in 8100 CHASSIS - #ARTWORK #DA #2016 and in SILKS. — `#MP (8100) #SERIES/SILKS/8100MP-REAR-SILK (CURVE).CDR`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "MP2",
+ "category": "METERING",
+ "year": 1992,
+ "documents": [
+  {
+   "file": "Products/METERING/MP2/19xx - MP2 - (1V1P).jpg",
+   "year": null,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MP2/19xx - MP2 - (PPM) Front.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MP2/19xx - MP2 - (VU) Front.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MP2/19xx - MP2 - 001.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MP2/19xx - MP2 - 002.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MP2/19xx - MP2 - 003.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MP2/19xx - MP2 - 004.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MP2/19xx - MP2 - 005.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MP2/19xx - MP2 - 006.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MP2/19xx - MP2 - 007.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MP2/19xx - MP2 - 008.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MP2/19xx - MP2 - 009.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MP2/19xx - MP2 - 010.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MP2/19xx - MP2 - Rear.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MP4/19xx - MP4 - DOC - MP Series Information Sheet.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  }
+ ]
+}
+```

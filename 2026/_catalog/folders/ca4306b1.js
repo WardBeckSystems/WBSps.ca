@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/SUMMING/M477/PHOTOS","f":[["1979 - M477 - Master Module.jpg",""],["1979 - M477 - Master Module_small.jpg",""],["1979 - M477 - wbsps - module - m477 master module_small.jpg",""]]};

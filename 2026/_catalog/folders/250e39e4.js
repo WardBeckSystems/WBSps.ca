@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/COMMUNICATION/M780/MECHANICAL","f":[["19xx - M780 - DOC - 780-03-005 - PMUBVE EINSH NONJE (traced).dxf",""],["19xx - M780 - DOC - 780-03-005 - PMUBVE EINSH NONJE.png",""]]};

@@ -79,3 +79,46 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 4. The silk sheet has no outline for the IEC inlet, the speaker grilles or the rear terminal blocks; the simulator draws those from the photos and Amx6manu.cdr. — `#AMX #SERIES/XXX - AMX6 - #Master/AMX6 - #Engineering/SILK/AMX6SILK.CDR`
 5. The silk is dated Aug 1998|31, ten months before the Tango PCB (Jun 1999|32). — `#AMX #SERIES/XXX - AMX6 - #Master/AMX6 - #Engineering/SILK/AMX6SILK.CDR`
 6. The rear silk asks for a 1 A slow-blow fuse (“115 VAC, 1 A.S.B”) for a unit the manual rates at 25 VA (about 0.22 A). — `#AMX #SERIES/XXX - AMX6 - #Master/AMX6 - #Engineering/SILK/AMX6SILK.CDR`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "AMX6",
+ "name": "Audio Monitor System",
+ "category": "METERING",
+ "year": 2015,
+ "documents": [
+  {
+   "file": "Products/METERING/AMX6/2015 - AMX6 - Front.jpg",
+   "year": 2015,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/AMX6/2015 - AMX6 - Manual (2).docx",
+   "year": 2015,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/METERING/AMX6/2015 - AMX6 - Manual.docx",
+   "year": 2015,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/METERING/AMX6/2015 - AMX6 - Rear.jpg",
+   "year": 2015,
+   "pages": 1,
+   "holds": []
+  }
+ ]
+}
+```

@@ -1,1 +1,1 @@
-window.WBS_FOLDER={"d":"Consoles/1980-1989/880096 - CHXL - R1000 RADIO CONSOLE","f":[["1988 - 880096 - Binder spine - CHXL - R1000 RADIO CONSOLE (01).jpg",""],["1988 - 880096 - Binder spine - CHXL - R1000 RADIO CONSOLE (02).jpg",""]]};
+window.WBS_FOLDER={"d":"Consoles/1980-1989/880096 - CHXL - R1000 RADIO CONSOLE","f":[["1988 - 880096 - Binder spine - CHXL - R1000 RADIO CONSOLE (01).jpg","fdffd4b5c3c2f718c960"],["1988 - 880096 - Binder spine - CHXL - R1000 RADIO CONSOLE (02).jpg","b19b56aa0b24de1efc99"]]};

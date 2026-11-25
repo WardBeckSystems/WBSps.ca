@@ -79,3 +79,48 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 4. The bottom-cover note reads “ALL BENS ARE 90 DEG.” (for BENDS). — `microMATCH - #MASTER`
 5. The two ISS.1 DWGs in the folder root duplicate those in MICRO MATCH - #MECHANICAL/. — `microMATCH - #MASTER`
 6. The silk was kept as a live-text MICROMATCH.cdr and a curve copy MICROMATCH(FINAL CURVE).cdr. — `microMATCH - #MASTER/MICRO MATCH - #Silks/MICROMATCH.cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "microMATCH",
+ "name": "Stand Alone Unbalanced To Balanced Converter",
+ "category": "MICRO SERIES",
+ "year": 2015,
+ "documents": [
+  {
+   "file": "Products/MICRO SERIES/microMATCH/2015 - microMATCH - Information Sheet.jpg",
+   "year": 2015,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/MICRO SERIES/microMATCH/2015 - microMATCH - Manual (2).docx",
+   "year": 2015,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/MICRO SERIES/microMATCH/2015 - microMATCH - Manual.docx",
+   "year": 2015,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/MICRO SERIES/microMATCH/2015 - microMATCH - Three Quarter.jpg",
+   "year": 2015,
+   "pages": 1,
+   "holds": []
+  }
+ ]
+}
+```

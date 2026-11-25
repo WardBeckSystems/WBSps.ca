@@ -10,7 +10,7 @@ This wiki is generated from the archive in `WBSps.env` (never modified) by `time
 - **Database:** `timelines/wbs_timeline.db` (SQLite) — see `timelines/README.md` for every table.
 - **Data files:** `timelines/data/*.csv`, `timelines/data/timeline.json`.
 - **File history:** every JSON about a file is stored in order in the `blobs` table / `file_history` view.
-- **Per-file notes:** every copied file has a `.md` note beside it with its year, origin and the dates found in it.
+- **Per-file notes:** every copied file has a `.md` note (beside it; in a module folder, in its `OCR/` folder) with its year, origin and the dates found in it.
 
 ## How dates are decided
 

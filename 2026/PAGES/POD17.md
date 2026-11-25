@@ -105,3 +105,46 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 4. The 110 Ω rear plate has an unlabelled round hole at its top right corner, as on POD19. — `#POD #SERIES/POD17 - #Master/POD17 - #ARTWORK #DA #2016/POD17-FRONT&REAR-SILK (CURVE).cdr`
 5. One sheet holds four plates: front GREEN, front WHITE, rear 75 and rear 110 (dated Jun.25/14). The separate FRONT-SILK and REAR-SILK CDRs repeat the same art. — `#POD #SERIES/POD17 - #Master/POD17 - #ARTWORK #DA #2016/POD17-FRONT&REAR-SILK (CURVE).cdr`
 6. The CDR draws a drill crosshair at every hole on both the green and white plates; the real panels (Pics/ photos) carry no crosshairs, so the simulator shows them faint. — `#POD #SERIES/POD17 - #Master/POD17 - #ARTWORK #DA #2016/POD17-FRONT&REAR-SILK (CURVE).cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD17",
+ "name": "Digital Audio Distribution Amplifier",
+ "category": "PODS",
+ "year": 2014,
+ "documents": [
+  {
+   "file": "Products/PODS/POD17/2014 - POD17 - Front.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD17/2014 - POD17 - MANUAL (2).docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD17/2014 - POD17 - MANUAL.docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD17/2014 - POD17 - Rear 75.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  }
+ ]
+}
+```

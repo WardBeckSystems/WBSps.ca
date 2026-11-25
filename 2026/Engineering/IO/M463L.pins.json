@@ -31,7 +31,7 @@
    "pol": null,
    "src": {
     "sha": "8c3edcfd85e74ae25265ccd721c0a6308df6e70650559d3325e075234995a86d",
-    "file": "Modules/SUMMING/M463L/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
+    "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
     "page": 1
    },
    "quote": ">P1-7",
@@ -50,7 +50,7 @@
    "pol": null,
    "src": {
     "sha": "25d204341b798ca196ae88033dbb8d3e7962312fd704de16d0e282f18bebe563",
-    "file": "Modules/SUMMING/M463L/1974 - M463L - Submaster Module (2).pdf",
+    "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module (2).pdf",
     "page": 43
    },
    "quote": "P2 - 1~",
@@ -69,7 +69,7 @@
    "pol": null,
    "src": {
     "sha": "25d204341b798ca196ae88033dbb8d3e7962312fd704de16d0e282f18bebe563",
-    "file": "Modules/SUMMING/M463L/1974 - M463L - Submaster Module (2).pdf",
+    "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module (2).pdf",
     "page": 43
    },
    "quote": "P2-2(B ~     .H'.~ ~\"'I>                                              T O i!1 - 24-",
@@ -78,7 +78,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463L/1974 - M463L - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module.pdf",
      "page": 43
     }
    ]
@@ -96,7 +96,7 @@
    "pol": null,
    "src": {
     "sha": "8c3edcfd85e74ae25265ccd721c0a6308df6e70650559d3325e075234995a86d",
-    "file": "Modules/SUMMING/M463L/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
+    "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
     "page": 1
    },
    "quote": "DIRECT >P2-12 OTPUT P2-N +8dBm NoMiNAL P?-3 Mi PZ-C Left P2-4 outputs M3 Pz-D",
@@ -105,7 +105,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463L/1974 - M463L - Submaster Module (2).pdf",
+     "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module (2).pdf",
      "page": 47
     }
    ]
@@ -123,7 +123,7 @@
    "pol": null,
    "src": {
     "sha": "8c3edcfd85e74ae25265ccd721c0a6308df6e70650559d3325e075234995a86d",
-    "file": "Modules/SUMMING/M463L/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
+    "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
     "page": 1
    },
    "quote": "DIRECT >P2-12 OTPUT P2-N +8dBm NoMiNAL P?-3 Mi PZ-C Left P2-4 outputs M3 Pz-D",
@@ -142,7 +142,7 @@
    "pol": null,
    "src": {
     "sha": "8c3edcfd85e74ae25265ccd721c0a6308df6e70650559d3325e075234995a86d",
-    "file": "Modules/SUMMING/M463L/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
+    "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
     "page": 1
    },
    "quote": "DIRECT >P2-12 OTPUT P2-N +8dBm NoMiNAL P?-3 Mi PZ-C Left P2-4 outputs M3 Pz-D",
@@ -151,7 +151,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463L/1974 - M463L - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module.pdf",
      "page": 47
     }
    ]
@@ -169,7 +169,7 @@
    "pol": null,
    "src": {
     "sha": "8c3edcfd85e74ae25265ccd721c0a6308df6e70650559d3325e075234995a86d",
-    "file": "Modules/SUMMING/M463L/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
+    "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
     "page": 1
    },
    "quote": "P?-5 M2 PZ-= Rigkt OUTPuts P2-6 M4 P2-F 7P1-I2",
@@ -188,7 +188,7 @@
    "pol": null,
    "src": {
     "sha": "8c3edcfd85e74ae25265ccd721c0a6308df6e70650559d3325e075234995a86d",
-    "file": "Modules/SUMMING/M463L/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
+    "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
     "page": 1
    },
    "quote": "P?-5 M2 PZ-= Rigkt OUTPuts P2-6 M4 P2-F 7P1-I2",
@@ -207,7 +207,7 @@
    "pol": null,
    "src": {
     "sha": "f3e37f7d5a64dd30680d69b55543e7f88f3d1d96465b5dc2e1d57805fd48239f",
-    "file": "Modules/SUMMING/M463L/1974 - M463L - P042 - LB463-02-011 004.jpg",
+    "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - P042 - LB463-02-011 004.jpg",
     "page": 1
    },
    "quote": "P2 -8",
@@ -226,7 +226,7 @@
    "pol": null,
    "src": {
     "sha": "8c3edcfd85e74ae25265ccd721c0a6308df6e70650559d3325e075234995a86d",
-    "file": "Modules/SUMMING/M463L/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
+    "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
     "page": 1
    },
    "quote": "DIRECT >P2-12 OTPUT P2-N +8dBm NoMiNAL P?-3 Mi PZ-C Left P2-4 outputs M3 Pz-D",
@@ -245,7 +245,7 @@
    "pol": null,
    "src": {
     "sha": "8c3edcfd85e74ae25265ccd721c0a6308df6e70650559d3325e075234995a86d",
-    "file": "Modules/SUMMING/M463L/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
+    "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
     "page": 1
    },
    "quote": "DIRECT >P2-12 OTPUT P2-N +8dBm NoMiNAL P?-3 Mi PZ-C Left P2-4 outputs M3 Pz-D",
@@ -264,7 +264,7 @@
    "pol": null,
    "src": {
     "sha": "8c3edcfd85e74ae25265ccd721c0a6308df6e70650559d3325e075234995a86d",
-    "file": "Modules/SUMMING/M463L/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
+    "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
     "page": 1
    },
    "quote": ">P2-T",
@@ -283,7 +283,7 @@
    "pol": null,
    "src": {
     "sha": "8c3edcfd85e74ae25265ccd721c0a6308df6e70650559d3325e075234995a86d",
-    "file": "Modules/SUMMING/M463L/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
+    "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
     "page": 1
    },
    "quote": "P2-V",
@@ -302,7 +302,7 @@
    "pol": null,
    "src": {
     "sha": "8c3edcfd85e74ae25265ccd721c0a6308df6e70650559d3325e075234995a86d",
-    "file": "Modules/SUMMING/M463L/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
+    "file": "Modules/SUMMING/M463L/SCHEMATICS/1974 - M463L - 463-02-011 - ATE BELLI SUB.jpg",
     "page": 1
    },
    "quote": "Pz-18 CTL Com",
@@ -311,21 +311,21 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463L/1974 - M463L - P042 - LB463-02-011 003.jpg",
+     "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - P042 - LB463-02-011 003.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463L/1974 - M463L - Submaster Module (2).pdf",
+     "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module (2).pdf",
      "page": 45
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463L/1974 - M463L - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module.pdf",
      "page": 45
     }
    ]
@@ -343,7 +343,7 @@
    "pol": null,
    "src": {
     "sha": "0f3bebfb79a50103cf8406ddfa5769b0892a5cd5b092e11f560b714edc8b2ca0",
-    "file": "Modules/SUMMING/M463L/1974 - M463L - Submaster Module.pdf",
+    "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module.pdf",
     "page": 43
    },
    "quote": "C36 CR4 22/25 Imaoo3 Ri22 c47 ISk 0 RzS Pnsas 1zs K2 Av9L4s CR? 353 -25v P2-19 04 Inoo} Tip908",
@@ -352,7 +352,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463L/1974 - M463L - P042 - LB463-02-011 001.jpg",
+     "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - P042 - LB463-02-011 001.jpg",
      "page": 1
     }
    ]
@@ -370,7 +370,7 @@
    "pol": null,
    "src": {
     "sha": "2a1bfc0244183885a57cc3394399081f24c5e783cc14190494bd21319773948c",
-    "file": "Modules/SUMMING/M463L/1974 - M463L - P042 - LB463-02-011 001.jpg",
+    "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - P042 - LB463-02-011 001.jpg",
     "page": 1
    },
    "quote": "569 1nk4oos Q1 8n3S69 Tipz9b Ri24 c46 |eol2s Q5 33 R12i Pn3sc9 ISk CR? C35 R33 22/25 4Rk 1n4009 P2-20 C36 CRA 22/25 1ma003 Ri22 C47 ISk R125 Pnsa 23 z25 Q2 Pn3L",
@@ -379,14 +379,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463L/1974 - M463L - Submaster Module (2).pdf",
+     "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module (2).pdf",
      "page": 43
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463L/1974 - M463L - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module.pdf",
      "page": 43
     }
    ]
@@ -404,7 +404,7 @@
    "pol": null,
    "src": {
     "sha": "f14be8ee69a9af552aac33e50a78b25f7a4e20ac1f5a17068dd9261160211391",
-    "file": "Modules/SUMMING/M463L/1974 - M463L - P042 - LB463-02-011 003.jpg",
+    "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - P042 - LB463-02-011 003.jpg",
     "page": 1
    },
    "quote": "P2-Y",
@@ -413,14 +413,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463L/1974 - M463L - Submaster Module (2).pdf",
+     "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module (2).pdf",
      "page": 45
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463L/1974 - M463L - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module.pdf",
      "page": 45
     }
    ]
@@ -438,7 +438,7 @@
    "pol": null,
    "src": {
     "sha": "0f3bebfb79a50103cf8406ddfa5769b0892a5cd5b092e11f560b714edc8b2ca0",
-    "file": "Modules/SUMMING/M463L/1974 - M463L - Submaster Module.pdf",
+    "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module.pdf",
     "page": 43
    },
    "quote": "+25v P2-21",
@@ -447,7 +447,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463L/1974 - M463L - P042 - LB463-02-011 001.jpg",
+     "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - P042 - LB463-02-011 001.jpg",
      "page": 1
     }
    ]
@@ -465,7 +465,7 @@
    "pol": null,
    "src": {
     "sha": "2a1bfc0244183885a57cc3394399081f24c5e783cc14190494bd21319773948c",
-    "file": "Modules/SUMMING/M463L/1974 - M463L - P042 - LB463-02-011 001.jpg",
+    "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - P042 - LB463-02-011 001.jpg",
     "page": 1
    },
    "quote": "P2-22",
@@ -474,14 +474,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463L/1974 - M463L - Submaster Module (2).pdf",
+     "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module (2).pdf",
      "page": 43
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463L/1974 - M463L - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module.pdf",
      "page": 43
     }
    ]

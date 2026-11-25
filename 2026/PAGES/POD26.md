@@ -79,3 +79,54 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 3. The rear OUTPUT and INPUT terminal blocks share one window, with two fixing holes each side. — `#POD #SERIES/POD26 - #Master/POD26 - #ARTWORK #DA #2016/POD26-FRONT&REAR-SILK (CURVE).cdr`
 4. The rear mains legend is printed sideways: “CAUTION: DISCONNECT POWER BEFORE SERVICING OR REPLACING THE FUSE”. — `#POD #SERIES/POD26 - #Master/POD26 - #ARTWORK #DA #2016/POD26-FRONT&REAR-SILK (CURVE).cdr`
 5. POD26-FRONT&REAR.cdr (20 May 2014) is the live-text version of the same sheet; the CURVE file is dated Jul.02/14. — `#POD #SERIES/POD26 - #Master/POD26 - #ARTWORK #DA #2016/POD26-FRONT&REAR.cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD26",
+ "name": "Audio Level Amplifier",
+ "category": "PODS",
+ "year": 2014,
+ "documents": [
+  {
+   "file": "Products/PODS/POD26/2014 - POD26 - Front.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD26/2014 - POD26 - Information Sheet.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD26/2014 - POD26 - MANUAL (2).docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD26/2014 - POD26 - MANUAL.docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD26/2014 - POD26 - Rear.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  }
+ ]
+}
+```

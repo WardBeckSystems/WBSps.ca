@@ -10,7 +10,7 @@
    "letters": false,
    "size": {
     "count": 15,
-    "file": "Modules/AMPLIFIERS/M604/1967 - M604 - Dual Frequency Oscillator (2).pdf",
+    "file": "Modules/AMPLIFIERS/M604/MANUALS/1967 - M604 - Dual Frequency Oscillator (2).pdf",
     "page": 7,
     "quote": "15 pin COnnector"
    }
@@ -30,7 +30,7 @@
    "pol": null,
    "src": {
     "sha": "d9c92870ad4ee170c50372b8fc48e147f2483b1eca3dcb051312e495df3f5827",
-    "file": "Modules/AMPLIFIERS/M604/1967 - M604 - P003 - Circuit Description.jpg",
+    "file": "Modules/AMPLIFIERS/M604/SCHEMATICS/1967 - M604 - P003 - Circuit Description.jpg",
     "page": 1
    },
    "quote": "Two 600 ohm outputs are_provided appearing at the PC connector pins These inturn are connected to the module connector and appear on pins 11 and 12 respectively.",
@@ -39,7 +39,7 @@
      "signal": "TWO 600 OHM OUTPUTS AREPROVIDED",
      "how": "prose",
      "conf": "medium",
-     "file": "Modules/AMPLIFIERS/M604/1967 - M604 - P003 - Circuit Description.jpg",
+     "file": "Modules/AMPLIFIERS/M604/SCHEMATICS/1967 - M604 - P003 - Circuit Description.jpg",
      "page": 1
     }
    ]
@@ -57,7 +57,7 @@
    "pol": null,
    "src": {
     "sha": "d9c92870ad4ee170c50372b8fc48e147f2483b1eca3dcb051312e495df3f5827",
-    "file": "Modules/AMPLIFIERS/M604/1967 - M604 - P003 - Circuit Description.jpg",
+    "file": "Modules/AMPLIFIERS/M604/SCHEMATICS/1967 - M604 - P003 - Circuit Description.jpg",
     "page": 1
    },
    "quote": "Two 600 ohm outputs are_provided appearing at the PC connector pins These inturn are connected to the module connector and appear on pins 11 and 12 respectively.",
@@ -66,7 +66,7 @@
      "signal": "TWO 600 OHM OUTPUTS AREPROVIDED",
      "how": "prose",
      "conf": "medium",
-     "file": "Modules/AMPLIFIERS/M604/1967 - M604 - P003 - Circuit Description.jpg",
+     "file": "Modules/AMPLIFIERS/M604/SCHEMATICS/1967 - M604 - P003 - Circuit Description.jpg",
      "page": 1
     }
    ]

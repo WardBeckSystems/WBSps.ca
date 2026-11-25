@@ -96,3 +96,45 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 1. The SAMPLE RATE row is legended 32 · 44.1 · 48 · 96; the fifth LED hole is drilled (with its crosshair) but has no “192” legend, although the 2015 photo shows one. — `#POD #SERIES/POD14A - #Master/POD14A - #ARTWORK #DA #2016/POD14A-FRONT&REAR-SILK (CURVE).cdr`
 2. The rear power legend reads “100-240 VAC, 50-60 Hz, ½ A.S.B.”, a wider range than the POD10A/POD12A “100-230 VAC”. — `#POD #SERIES/POD14A - #Master/POD14A - #ARTWORK #DA #2016/POD14A-FRONT&REAR-SILK (CURVE).cdr`
 3. An older rear-only sheet, POD14A-SILK-RR-ISS2.cdr, dates from 2010|43. — `#POD #SERIES/POD14A - #Master/POD14A - #ARTWORK #DA #2016/POD14A-SILK-RR-ISS2.cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD14A",
+ "name": "Dual Analog To Digital Converter",
+ "category": "PODS",
+ "year": 2014,
+ "documents": [
+  {
+   "file": "Products/PODS/POD14A/2014 - POD14A - Front.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD14A/2014 - POD14A - Information Sheet.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD14A/2014 - POD14A - MANUAL.docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD14A/2014 - POD14A - Rear.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  }
+ ]
+}
+```

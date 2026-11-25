@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/AMPLIFIERS/M808B/KICAD","f":[["1994 - M808B - 808-02-003 - MODULE SCHEMA TIC.kicad_sch",""],["M808B.kicad_sym",""]]};

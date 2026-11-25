@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/ROUTING/M538C/KICAD","f":[["M538C.kicad_sym",""]]};

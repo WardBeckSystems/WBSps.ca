@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/AMPLIFIERS/M666/KICAD","f":[["19xx - M666 - LB 666-02-001 - M666 - 100W MONITOR AMPLIFIER - SCHEMATIC.kicad_sch",""],["1977 - 666-02-002 - 100W MONITOR AMPLIFIER SYSTEM WIRING - DRN MRW - ISS 4.kicad_sch",""],["M666.kicad_sym",""]]};

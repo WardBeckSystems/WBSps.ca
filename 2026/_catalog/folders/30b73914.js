@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/POWER/M648/MECHANICAL","f":[["19xx - M648 - DOC - wbsps - module - mf6 mounting frame - back.jpg",""],["19xx - M648 - DOC - wbsps - promo - mf6 mounting frame - back.jpg",""]]};

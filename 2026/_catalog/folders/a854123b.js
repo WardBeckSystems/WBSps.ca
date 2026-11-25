@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/AMPLIFIERS/M8205/PINOUTS","f":[["M8205 - connections.svg",""],["M8205 - pinout.svg",""]]};

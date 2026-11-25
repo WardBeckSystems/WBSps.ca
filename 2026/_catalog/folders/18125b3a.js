@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/COMMUNICATION/M757","f":[["1975 - M757 - PRICE LIST - PRICE LIST.jpg","735d4d555bd96d6d0647"]]};

@@ -37,7 +37,7 @@
    "pol": null,
    "src": {
     "sha": "956b95813ba5d58032bdf17aab0730be84bfd7d81be9a9e02aeed281a62701c8",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf",
     "page": 5
    },
    "quote": "CIR CUIT DESCRIPTION H470C INPUT MODUL E DIRECT Output The output signal of the booster amplifier feeds the DIRECT output a t connector Pl, pins 3/C.",
@@ -46,14 +46,14 @@
      "signal": "OUTPUT SIGNA 0 F THE BOOSTER AMPHSIEUTPEEDS",
      "how": "prose",
      "conf": "medium",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - P005 - 2-3.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - P005 - 2-3.jpg",
      "page": 1
     },
     {
      "signal": "OUTPUT SIGNA OF THE BOOSTER AMPHSIEUTPEEDS THE",
      "how": "prose",
      "conf": "medium",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - P005 - 2-3.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - P005 - 2-3.jpg",
      "page": 1
     }
    ]
@@ -80,7 +80,7 @@
      "signal": "MASTER OUT",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
      "page": 1
     }
    ]
@@ -107,7 +107,7 @@
      "signal": "MASTER 2 OUT",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
      "page": 1
     }
    ]
@@ -125,7 +125,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 2 of the drawing, left of the pin column",
@@ -144,7 +144,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 2 of the drawing, right of the pin column",
@@ -163,7 +163,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 3 of the drawing, left of the pin column",
@@ -182,7 +182,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 3 of the drawing, right of the pin column",
@@ -201,7 +201,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 4 of the drawing, left of the pin column",
@@ -220,7 +220,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 4 of the drawing, right of the pin column",
@@ -239,7 +239,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 5 of the drawing, left of the pin column",
@@ -258,7 +258,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 5 of the drawing, right of the pin column",
@@ -267,7 +267,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module.pdf",
      "page": 17
     }
    ]
@@ -285,7 +285,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 6 of the drawing, left of the pin column",
@@ -304,7 +304,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 6 of the drawing, right of the pin column",
@@ -323,7 +323,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 7 of the drawing, left of the pin column",
@@ -342,7 +342,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 7 of the drawing, right of the pin column",
@@ -361,7 +361,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 8 of the drawing, left of the pin column",
@@ -380,7 +380,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 8 of the drawing, right of the pin column",
@@ -399,7 +399,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 9 of the drawing, left of the pin column",
@@ -418,7 +418,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 9 of the drawing, right of the pin column",
@@ -437,7 +437,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 10 of the drawing, left of the pin column",
@@ -456,7 +456,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 10 of the drawing, right of the pin column",
@@ -475,7 +475,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 11 of the drawing, left of the pin column",
@@ -494,7 +494,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 11 of the drawing, right of the pin column",
@@ -513,7 +513,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 12 of the drawing, left of the pin column",
@@ -532,7 +532,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 12 of the drawing, right of the pin column",
@@ -551,7 +551,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 13 of the drawing, left of the pin column",
@@ -570,7 +570,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 13 of the drawing, right of the pin column",
@@ -589,7 +589,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 14 of the drawing, left of the pin column",
@@ -608,7 +608,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 14 of the drawing, right of the pin column",
@@ -627,7 +627,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 15 of the drawing, left of the pin column",
@@ -646,7 +646,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 15 of the drawing, right of the pin column",
@@ -665,7 +665,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 16 of the drawing, left of the pin column",
@@ -684,7 +684,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 16 of the drawing, right of the pin column",
@@ -703,7 +703,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 17 of the drawing, left of the pin column",
@@ -722,7 +722,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 17 of the drawing, right of the pin column",
@@ -741,7 +741,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 18 of the drawing, left of the pin column",
@@ -760,7 +760,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 18 of the drawing, right of the pin column",
@@ -788,7 +788,7 @@
      "signal": "MIC",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
      "page": 1
     }
    ]
@@ -815,7 +815,7 @@
      "signal": "MIC",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
      "page": 1
     }
    ]
@@ -833,7 +833,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 20 of the drawing, left of the pin column",
@@ -852,7 +852,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 20 of the drawing, right of the pin column",
@@ -871,7 +871,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 21 of the drawing, left of the pin column",
@@ -890,7 +890,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 21 of the drawing, right of the pin column",
@@ -909,7 +909,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 22 of the drawing, left of the pin column",
@@ -928,7 +928,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 22 of the drawing, right of the pin column",
@@ -956,14 +956,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf",
      "page": 17
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module.pdf",
      "page": 17
     }
    ]
@@ -990,21 +990,21 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf",
      "page": 17
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf",
      "page": 17
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module.pdf",
      "page": 17
     }
    ]
@@ -1022,7 +1022,7 @@
    "pol": null,
    "src": {
     "sha": "305df998f07467b1fc686c1e0e4d12e18b048e9cbba92a14ac0ca40f76bb7f32",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-02-004 - INPUT MODULE SSCAL SCHEMATIC.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/SCHEMATICS/1977 - M470C - 470-02-004 - INPUT MODULE SSCAL SCHEMATIC.jpg",
     "page": 1
    },
    "quote": "PZ - 2|",
@@ -1031,14 +1031,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf",
      "page": 17
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module.pdf",
      "page": 17
     }
    ]
@@ -1065,7 +1065,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf",
      "page": 17
     }
    ]
@@ -1092,14 +1092,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf",
      "page": 17
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module.pdf",
      "page": 17
     }
    ]
@@ -1117,7 +1117,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 4 of the drawing, right of the pin column",
@@ -1126,21 +1126,21 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-02-004 - INPUT MODULE SSCAL SCHEMATIC.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/SCHEMATICS/1977 - M470C - 470-02-004 - INPUT MODULE SSCAL SCHEMATIC.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf",
      "page": 17
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module.pdf",
      "page": 17
     }
    ]
@@ -1167,21 +1167,21 @@
      "signal": "ATT OUT",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf",
      "page": 17
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module.pdf",
      "page": 17
     }
    ]
@@ -1208,21 +1208,21 @@
      "signal": "ATT OUT",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf",
      "page": 17
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module.pdf",
      "page": 17
     }
    ]
@@ -1249,14 +1249,14 @@
      "signal": "CH ON",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf",
      "page": 17
     }
    ]
@@ -1283,7 +1283,7 @@
      "signal": "CH ON IN",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
      "page": 1
     }
    ]
@@ -1310,14 +1310,14 @@
      "signal": "CH",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf",
      "page": 17
     }
    ]
@@ -1344,14 +1344,14 @@
      "signal": "CH ON OUT",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf",
      "page": 17
     }
    ]
@@ -1378,14 +1378,14 @@
      "signal": "PRE OUT",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf",
      "page": 17
     }
    ]
@@ -1412,14 +1412,14 @@
      "signal": "PRE",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf",
      "page": 17
     }
    ]
@@ -1437,7 +1437,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 9 of the drawing, left of the pin column",
@@ -1456,7 +1456,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 9 of the drawing, right of the pin column",
@@ -1475,7 +1475,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 10 of the drawing, left of the pin column",
@@ -1484,14 +1484,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf",
      "page": 17
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module.pdf",
      "page": 17
     }
    ]
@@ -1509,7 +1509,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 10 of the drawing, right of the pin column",
@@ -1518,7 +1518,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf",
      "page": 17
     }
    ]
@@ -1536,7 +1536,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 11 of the drawing, left of the pin column",
@@ -1545,7 +1545,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module.pdf",
      "page": 17
     }
    ]
@@ -1563,7 +1563,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 11 of the drawing, right of the pin column",
@@ -1572,7 +1572,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf",
      "page": 17
     }
    ]
@@ -1590,7 +1590,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 12 of the drawing, left of the pin column",
@@ -1599,7 +1599,7 @@
      "signal": "CONTROL",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module.pdf",
      "page": 17
     }
    ]
@@ -1617,7 +1617,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 12 of the drawing, right of the pin column",
@@ -1626,14 +1626,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-02-004 - INPUT MODULE SSCAL SCHEMATIC.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/SCHEMATICS/1977 - M470C - 470-02-004 - INPUT MODULE SSCAL SCHEMATIC.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module.pdf",
      "page": 17
     }
    ]
@@ -1651,7 +1651,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 13 of the drawing, left of the pin column",
@@ -1670,7 +1670,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 13 of the drawing, right of the pin column",
@@ -1679,7 +1679,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf",
      "page": 17
     }
    ]
@@ -1697,7 +1697,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 14 of the drawing, left of the pin column",
@@ -1706,14 +1706,14 @@
      "signal": "SUB CONTROL COMMON",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module.pdf",
      "page": 17
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf",
      "page": 17
     }
    ]
@@ -1731,7 +1731,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 14 of the drawing, right of the pin column",
@@ -1740,14 +1740,14 @@
      "signal": "SUB CONTROL COMMON",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module.pdf",
      "page": 17
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf",
      "page": 17
     }
    ]
@@ -1765,7 +1765,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 15 of the drawing, left of the pin column",
@@ -1784,7 +1784,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 16 of the drawing, left of the pin column",
@@ -1793,7 +1793,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf",
      "page": 17
     }
    ]
@@ -1811,7 +1811,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 16 of the drawing, right of the pin column",
@@ -1830,7 +1830,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 17 of the drawing, left of the pin column",
@@ -1839,7 +1839,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf",
      "page": 17
     }
    ]
@@ -1857,7 +1857,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 17 of the drawing, right of the pin column",
@@ -1866,14 +1866,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-02-004 - INPUT MODULE SSCAL SCHEMATIC.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/SCHEMATICS/1977 - M470C - 470-02-004 - INPUT MODULE SSCAL SCHEMATIC.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf",
      "page": 17
     }
    ]
@@ -1891,7 +1891,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 18 of the drawing, left of the pin column",
@@ -1900,7 +1900,7 @@
      "signal": "SOLO CONTROL",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module.pdf",
      "page": 17
     }
    ]
@@ -1927,14 +1927,14 @@
      "signal": "CTL COM",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
      "page": 1
     },
     {
      "signal": "SOLO CONTROL",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module.pdf",
      "page": 17
     }
    ]
@@ -1952,7 +1952,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 19 of the drawing, left of the pin column",
@@ -1961,7 +1961,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf",
      "page": 17
     }
    ]
@@ -1988,7 +1988,7 @@
      "signal": "25V",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
      "page": 1
     }
    ]
@@ -2006,7 +2006,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 20 of the drawing, left of the pin column",
@@ -2041,14 +2041,14 @@
      "signal": "25V COM",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf",
      "page": 17
     }
    ]
@@ -2075,7 +2075,7 @@
      "signal": "24V",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
      "page": 1
     }
    ]
@@ -2102,14 +2102,14 @@
      "signal": "+25V",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module.pdf",
      "page": 17
     }
    ]
@@ -2127,7 +2127,7 @@
    "pol": null,
    "src": {
     "sha": "fd6240f5cb3d9f0f4c4d40b4e757aae197bd3960127b679b5327afc7bcd0819c",
-    "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 22 of the drawing, left of the pin column",
@@ -2136,7 +2136,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf",
      "page": 17
     }
    ]
@@ -2163,21 +2163,21 @@
      "signal": "CHASSIS",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/PINOUTS/1977 - M470C - 470-04-008 - CONNECTOR REAR VIEW.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - 470-02-004 - INPUT MODULE SSCAL SCHEMATIC.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/SCHEMATICS/1977 - M470C - 470-02-004 - INPUT MODULE SSCAL SCHEMATIC.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module.pdf",
      "page": 17
     }
    ]

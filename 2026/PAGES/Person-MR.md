@@ -22,4 +22,4 @@ tags: ["person"]
 
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
-| — | Cue Module Component Layout Issu |  | [MR](Person-MR.md) |  | U | [file](../Modules/COMMUNICATION/M494/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module.pdf) p.13 |
+| — | Cue Module Component Layout Issu |  | [MR](Person-MR.md) |  | U | [file](../Modules/COMMUNICATION/M494/MANUALS/19xx%20-%20M494%20-%20Remote%20Line%20Tb%20Module.pdf) p.13 |

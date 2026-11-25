@@ -25,7 +25,7 @@
    "pol": null,
    "src": {
     "sha": "6c20a764690b138b7e725a94b9bb9732a99a9feba90083a95ba3607eda13bc65",
-    "file": "Modules/INPUT-PRE-AMPS/M5200A/1985 - M5200A - 002.pdf",
+    "file": "Modules/INPUT-PRE-AMPS/M5200A/MANUALS/1985 - M5200A - 002.pdf",
     "page": 6
    },
    "quote": "The power to the controller is via a 15 pin D ' connector. 2-1",
@@ -45,7 +45,7 @@
    "pol": null,
    "src": {
     "sha": "6c20a764690b138b7e725a94b9bb9732a99a9feba90083a95ba3607eda13bc65",
-    "file": "Modules/INPUT-PRE-AMPS/M5200A/1985 - M5200A - 002.pdf",
+    "file": "Modules/INPUT-PRE-AMPS/M5200A/MANUALS/1985 - M5200A - 002.pdf",
     "page": 35
    },
    "quote": "Discrete Data Inputs Data port 7600H provides 16 isolated control inputs Each input is isolated with an opto-coupler with both sides of each input floating and isolated_ The LED of each opto-coupler may derive its power from the external con trolling device where total isolation is required) or from",
@@ -65,7 +65,7 @@
    "pol": null,
    "src": {
     "sha": "6c20a764690b138b7e725a94b9bb9732a99a9feba90083a95ba3607eda13bc65",
-    "file": "Modules/INPUT-PRE-AMPS/M5200A/1985 - M5200A - 002.pdf",
+    "file": "Modules/INPUT-PRE-AMPS/M5200A/MANUALS/1985 - M5200A - 002.pdf",
     "page": 35
    },
    "quote": "Discrete Data Inputs Data port 7600H provides 16 isolated control inputs Each input is isolated with an opto-coupler with both sides of each input floating and isolated_ The LED of each opto-coupler may derive its power from the external con trolling device where total isolation is required) or from",

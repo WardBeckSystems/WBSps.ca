@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/MONITORING/M475/PHOTOS","f":[["1977 - M475 - front.png",""],["1977 - M475 - monitor module 2.jpg",""],["1977 - M475 - monitor module 2_small.jpg",""],["1977 - M475 - monitor module.jpg",""],["1977 - M475 - monitor module_small.jpg",""],["1977 - M475 - wbsps - module - m475 monitor module 002_small.jpg",""]]};

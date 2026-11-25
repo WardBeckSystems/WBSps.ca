@@ -18,7 +18,7 @@ Product data sheet for the M402B with outline drawing and technical data, WBS lo
 - **Kind:** advert
 - **Device:** M402A — wiki: [M402A](../../2026/PAGES/M402A.md)
 - **Original file:** `WBSps.env/WBS Photos-1-001/Ward Beck Systems M402A 4(1).jpg`
-- **Copy in 2026:** [`2026/Modules/FILTERS/M402A/19xx - M402A - M402B.jpg`](../../2026/Modules/FILTERS/M402A/19xx%20-%20M402A%20-%20M402B.jpg)
+- **Copy in 2026:** [`2026/Modules/FILTERS/M402A/PHOTOS/19xx - M402A - M402B.jpg`](../../2026/Modules/FILTERS/M402A/PHOTOS/19xx%20-%20M402A%20-%20M402B.jpg)
 - **SHA-256:** `78af9e44390a4bc5ca20f85093d171d418c98ec969f07e6da946f2d7143f1593`
 - **Read by:** whole image looked at by eye
 - **Note:** rotated WBS logo only (from a data sheet)

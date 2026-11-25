@@ -21,7 +21,7 @@ tags: ["product", "micro-series"]
 
 ## Ads & brochures
 
-- [19xx - M7880 - AD - WBSPS - AD - Microcom II 0012.jpg](../Modules/COMMUNICATION/M7880/19xx%20-%20M7880%20-%20AD%20-%20WBSPS%20-%20AD%20-%20Microcom%20II%200012.jpg)
+- [19xx - M7880 - AD - WBSPS - AD - Microcom II 0012.jpg](../Modules/COMMUNICATION/M7880/MANUALS/19xx%20-%20M7880%20-%20AD%20-%20WBSPS%20-%20AD%20-%20Microcom%20II%200012.jpg)
 - [19xx - MicroCOM II - AD - WBSPS - AD - Microcom II 0012.jpg](../Products/MICRO%20SERIES/MicroCOM%20II/19xx%20-%20MicroCOM%20II%20-%20AD%20-%20WBSPS%20-%20AD%20-%20Microcom%20II%200012.jpg)
 - [19xx - MicroCOM II - AD - WBSPS - AD - Microcom II 003.jpg](../Products/MICRO%20SERIES/MicroCOM%20II/19xx%20-%20MicroCOM%20II%20-%20AD%20-%20WBSPS%20-%20AD%20-%20Microcom%20II%20003.jpg)
 - [19xx - MicroCOM - AD - WBSPS - AD - Microcom II 0012.jpg](../Products/MICRO%20SERIES/MicroCOM/19xx%20-%20MicroCOM%20-%20AD%20-%20WBSPS%20-%20AD%20-%20Microcom%20II%200012.jpg)

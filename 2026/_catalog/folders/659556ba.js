@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/DYNAMICS/M465B/MECHANICAL","f":[["1982 - M465B - 465-04-007 - FRONT PANEL LAYOUT (EXTRACTED).svg",""],["1982 - M465B - 465-04-007 - FRONT PANEL LAYOUT (traced).dxf",""],["1982 - M465B - 465-04-007 - FRONT PANEL LAYOUT.jpg",""],["M465B - front panel.svg",""]]};

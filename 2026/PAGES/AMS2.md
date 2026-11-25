@@ -81,3 +81,48 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 3. Of the two small holes either side of the STEREO / LEFT / RIGHT selector, only the left one carries a drill crosshair on the silk sheet. — `AMS2 - #Master/SILK/AMS2-FRONT &  REAR-SILK(CURVE).cdr`
 4. The panel artwork (MAR.17/15) is newer than the rear drawing AMS2-REAR ISS 2 (24-02-15) by about a month. — `AMS2 - #Master/SILK/AMS2-FRONT &  REAR-SILK(CURVE).cdr`
 5. The rear legend gives 90-230 VAC, 1A S.B. on the IEC inlet, and the analog trims are labelled ANALOG IN ADJUST, L and R. — `AMS2 - #Master/SILK/AMS2-FRONT &  REAR-SILK(CURVE).cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "AMS2",
+ "name": "Mini Cue Stereo Speaker With Digital & Analog Inputs",
+ "category": "METERING",
+ "year": 2015,
+ "documents": [
+  {
+   "file": "Products/METERING/AMS2/2015 - AMS2 - Information Sheet.jpg",
+   "year": 2015,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/METERING/AMS2/2015 - AMS2 - MANUAL (2).docx",
+   "year": 2015,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/METERING/AMS2/2015 - AMS2 - MANUAL.docx",
+   "year": 2015,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/METERING/AMS2/19xx - AMS2 - DOC - IMG_9780.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": []
+  }
+ ]
+}
+```

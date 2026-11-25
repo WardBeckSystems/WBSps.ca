@@ -48,3 +48,28 @@ The software listings name the AMS8-1A only as part of the [AMS8-1](AMS8-1.md#so
 3. The source text object reads “AMS -8 SERIES” (a space before the dash); it may be a spacing artefact of the conversion rather than the printed legend. — `AMS81 - #Master/AMS81 - #ARTWORK #DA #2016/AMS8-1A-FRONT-SILK (CURVES).cdr`
 4. The rear has a second ⚠ “PLEASE REFER TO MANUAL” by the long option-card slot, as well as DOLBY E METADATA and SERIAL COMM DE9s and an AUX DB25 that RD60 does not use. — `AMS81 - #Master/AMS81 - #ARTWORK #DA #2016/AMS8-M2-Rear-SILK(Curve).cdr`
 5. A sister front sheet, AMS8-1A-FRONT-SILK (AMS8-M24).cdr, sits beside the CURVES file. — `AMS81 - #Master/AMS81 - #ARTWORK #DA #2016/AMS8-1A-FRONT-SILK (AMS8-M24).cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "AMS8-1A",
+ "name": "Mkiii 8 Channel Audio Monitoring System",
+ "category": "METERING",
+ "year": 2013,
+ "documents": [
+  {
+   "file": "Products/METERING/AMS8-1A/2014 - AMS8-1A - Series Front.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MLC8D/2018 - MLC8D - Rear.jpg",
+   "year": 2018,
+   "pages": 1,
+   "holds": []
+  }
+ ]
+}
+```

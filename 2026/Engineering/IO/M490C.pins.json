@@ -116,7 +116,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490C/1978 - M490C - 018.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490C/MANUALS/1978 - M490C - 018.jpg",
      "page": 1
     }
    ]
@@ -181,7 +181,7 @@
      "signal": "INPUT",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490C/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490C/SCHEMATICS/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
      "page": 1
     }
    ]
@@ -199,7 +199,7 @@
    "pol": null,
    "src": {
     "sha": "f85fb4e0c0c6d1fc3f67d160a85d1846842f8a3015289d17ef43c12cfa68f16f",
-    "file": "Modules/INPUT-PRE-AMPS/M490C/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490C/SCHEMATICS/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
     "page": 1
    },
    "quote": "22 - P2-E P2-H",
@@ -218,7 +218,7 @@
    "pol": null,
    "src": {
     "sha": "f85fb4e0c0c6d1fc3f67d160a85d1846842f8a3015289d17ef43c12cfa68f16f",
-    "file": "Modules/INPUT-PRE-AMPS/M490C/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490C/SCHEMATICS/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
     "page": 1
    },
    "quote": "P2-6 ?2-8 P2-5",
@@ -265,7 +265,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490C/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490C/SCHEMATICS/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
      "page": 1
     }
    ]
@@ -292,7 +292,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490C/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490C/SCHEMATICS/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
      "page": 1
     }
    ]
@@ -329,7 +329,7 @@
    "pol": null,
    "src": {
     "sha": "f85fb4e0c0c6d1fc3f67d160a85d1846842f8a3015289d17ef43c12cfa68f16f",
-    "file": "Modules/INPUT-PRE-AMPS/M490C/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490C/SCHEMATICS/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
     "page": 1
    },
    "quote": "Pz-N",
@@ -348,7 +348,7 @@
    "pol": null,
    "src": {
     "sha": "f85fb4e0c0c6d1fc3f67d160a85d1846842f8a3015289d17ef43c12cfa68f16f",
-    "file": "Modules/INPUT-PRE-AMPS/M490C/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490C/SCHEMATICS/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
     "page": 1
    },
    "quote": "EXt P2-12 OFF",
@@ -367,7 +367,7 @@
    "pol": null,
    "src": {
     "sha": "f85fb4e0c0c6d1fc3f67d160a85d1846842f8a3015289d17ef43c12cfa68f16f",
-    "file": "Modules/INPUT-PRE-AMPS/M490C/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490C/SCHEMATICS/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
     "page": 1
    },
    "quote": "P2-P Ch",
@@ -386,7 +386,7 @@
    "pol": null,
    "src": {
     "sha": "f85fb4e0c0c6d1fc3f67d160a85d1846842f8a3015289d17ef43c12cfa68f16f",
-    "file": "Modules/INPUT-PRE-AMPS/M490C/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490C/SCHEMATICS/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
     "page": 1
    },
    "quote": "P2 - 13 ch",
@@ -395,7 +395,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490C/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490C/SCHEMATICS/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
      "page": 1
     }
    ]
@@ -413,7 +413,7 @@
    "pol": null,
    "src": {
     "sha": "f85fb4e0c0c6d1fc3f67d160a85d1846842f8a3015289d17ef43c12cfa68f16f",
-    "file": "Modules/INPUT-PRE-AMPS/M490C/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490C/SCHEMATICS/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
     "page": 1
    },
    "quote": "P2-15",
@@ -432,7 +432,7 @@
    "pol": null,
    "src": {
     "sha": "f85fb4e0c0c6d1fc3f67d160a85d1846842f8a3015289d17ef43c12cfa68f16f",
-    "file": "Modules/INPUT-PRE-AMPS/M490C/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490C/SCHEMATICS/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
     "page": 1
    },
    "quote": "P2 - 17",
@@ -451,7 +451,7 @@
    "pol": null,
    "src": {
     "sha": "f85fb4e0c0c6d1fc3f67d160a85d1846842f8a3015289d17ef43c12cfa68f16f",
-    "file": "Modules/INPUT-PRE-AMPS/M490C/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490C/SCHEMATICS/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
     "page": 1
    },
    "quote": "Pz-V",
@@ -470,7 +470,7 @@
    "pol": null,
    "src": {
     "sha": "f85fb4e0c0c6d1fc3f67d160a85d1846842f8a3015289d17ef43c12cfa68f16f",
-    "file": "Modules/INPUT-PRE-AMPS/M490C/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490C/SCHEMATICS/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
     "page": 1
    },
    "quote": "Pz-18",
@@ -524,7 +524,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490C/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490C/SCHEMATICS/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
      "page": 1
     }
    ]
@@ -551,7 +551,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490C/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490C/SCHEMATICS/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
      "page": 1
     }
    ]
@@ -569,7 +569,7 @@
    "pol": null,
    "src": {
     "sha": "f85fb4e0c0c6d1fc3f67d160a85d1846842f8a3015289d17ef43c12cfa68f16f",
-    "file": "Modules/INPUT-PRE-AMPS/M490C/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490C/SCHEMATICS/1978 - M490C - 490-02-004 - ADDED CEB ENG.jpg",
     "page": 1
    },
    "quote": "Ce2i >P2-22,2 Cok 1r4003",

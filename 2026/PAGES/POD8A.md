@@ -81,3 +81,48 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 5. POD8A-FRONT&amp;REAR-XLR-SILK.cdr (JAN.14/16) is a later 19-inch rack set in live text. Its CAUTION line runs off the panel when converted. — `#POD #SERIES/POD8A - #Master/POD8A - #ARTWORK #DA #2016/POD8A-FRONT&REAR-XLR-SILK.cdr`
 6. That Jan 2016 XLR sheet is stored twice, byte for byte, in #ARTWORK and in BLACK RACK - #Mechanical. — `#POD #SERIES/POD8A - #Master/POD8A - BLACK RACK - #Mechanical #DA #2016/POD8A-FRONT&REAR-XLR-SILK.cdr`
 7. The QTP rear has one INPUT and four OUTPUT cut-outs; its pin table puts two A and two B outputs on each output connector. — `#POD #SERIES/POD8A - #Master/POD8A - #ARTWORK #DA #2016/POD8A-REAR-QTP & XLR-SILK (CURVE).cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD8A",
+ "name": "Analog Audio Distribution Amplifier",
+ "category": "PODS",
+ "year": 2015,
+ "documents": [
+  {
+   "file": "Products/PODS/POD8A/2015 - POD8A - 003B - POD8A QTP - Front Three Quarter.jpg",
+   "year": 2015,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD8A/2015 - POD8A - Information Sheet.jpg",
+   "year": 2015,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD8A/2015 - POD8A - MANUAL (2).docx",
+   "year": 2015,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD8A/2015 - POD8A - MANUAL.docx",
+   "year": 2015,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  }
+ ]
+}
+```

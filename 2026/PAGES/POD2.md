@@ -134,3 +134,141 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 3. On the rear, LEFT has a screw hole with a ring and RIGHT a plain hole, both beside the OUTPUT Phoenix cut-out. — `#POD #SERIES/POD2 - #Master/POD2 - #ARTWORK #DA #2016/POD2-FRONT&REAR-SILK (CURVE).cdr`
 4. Three screw holes on the front sit between SUM and 1, between 2 and 3, and between 5 and 6. — `#POD #SERIES/POD2 - #Master/POD2 - #ARTWORK #DA #2016/POD2-FRONT&REAR-SILK (CURVE).cdr`
 5. The CDR draws a drill crosshair at every hole on both the green and white plates; the real panels (Pics/ photos) carry no crosshairs, so the simulator shows them faint. — `#POD #SERIES/POD2 - #Master/POD2 - #ARTWORK #DA #2016/POD2-FRONT&REAR-SILK (CURVE).cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD2",
+ "name": "Stereo Audio Switcher",
+ "category": "PODS",
+ "year": 1997,
+ "connections": {
+  "from": "its own documents",
+  "inputs": [
+   "In Spare",
+   "+ Xpt2 Xpt4 In Mix"
+  ],
+  "outputs": [],
+  "power": [
+   "VDD"
+  ],
+  "control": [
+   "To Switch"
+  ]
+ },
+ "documents": [
+  {
+   "file": "Products/PODS/POD2/1997 - POD2 - #Schematic.pdf",
+   "year": 1997,
+   "pages": 2,
+   "holds": [
+    "connections",
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD2/1997 - POD2 - Front.jpg",
+   "year": 1997,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD2/1997 - POD2 - Information Sheet.jpg",
+   "year": 1997,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD2/1997 - POD2 - POD2 - NEWPROJ.CFG - DOCUMENT.docx",
+   "year": 1997,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD2/1997 - POD2 - POD2 - P2MASTER.CFG - DOCUMENT.docx",
+   "year": 1997,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD2/1997 - POD2 - POD2 - POD2.CFG - DOCUMENT.docx",
+   "year": 1997,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD2/1997 - POD2 - POD2 - POD2BACK - DOCUMENT.cdr",
+   "year": 1997,
+   "pages": null,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD2/1997 - POD2 - POD2 - POD2FRNT - DRAWING (DXF).dxf",
+   "year": 1997,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD2/1997 - POD2 - POD2 - POD2REAR - DRAWING (DXF).dxf",
+   "year": 1997,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD2/1997 - POD2 - POD2 - SPECIFICATIONS.wpd",
+   "year": 1997,
+   "pages": 1,
+   "holds": [
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD2/1997 - POD2 - POD2 - TEST - UNKNOWN.cdr",
+   "year": 1997,
+   "pages": null,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD2/1997 - POD2 - POD2_Manual.pdf",
+   "year": 1997,
+   "pages": 8,
+   "holds": [
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD2/1997 - POD2 - Rear.jpg",
+   "year": 1997,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD2/2004 - POD2 - POD2 - POD2 - DOCUMENT.pdf",
+   "year": 2004,
+   "pages": 2,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD2/2014 - POD2 - MANUAL (2).docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD2/2014 - POD2 - MANUAL.docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  }
+ ]
+}
+```

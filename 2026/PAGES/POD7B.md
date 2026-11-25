@@ -56,3 +56,24 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 3. A small circle sits over the slash of "115 VAC, 1/2 A.S.B." It is the PEM ground stud hole. inferred — `#POD #SERIES/POD7 - #Master/POD7 - #ARTWORK #DA #2016/POD7-FRONT&REAR-SILK ( CURVE).cdr`
 4. The file name has a stray space: "( CURVE)". — `#POD #SERIES/POD7 - #Master/POD7 - #ARTWORK #DA #2016/POD7-FRONT&REAR-SILK ( CURVE).cdr`
 5. POD7SILK.CDR (2 Nov 1998) is the first-issue silk. — `#POD #SERIES/POD7 - #Master/POD7 - #Engineering/POD7 - #SILK/POD7SILK.CDR`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD7B",
+ "name": "Universal Interface",
+ "category": "PODS",
+ "year": 1997,
+ "documents": [
+  {
+   "file": "Products/PODS/POD7B/1997 - POD7B - POD7 - SPECIFICATIONS (POD7B).wpd",
+   "year": 1997,
+   "pages": 1,
+   "holds": [
+    "sections"
+   ]
+  }
+ ]
+}
+```

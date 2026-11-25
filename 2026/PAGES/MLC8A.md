@@ -244,3 +244,54 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 10. **RD66-MLC8UsingAMS8E-1-iss5:** The M19 rear is stored twice as different files: the MLC copy is all curves; the AMS81 copy (Apr 2016) has three live-text objects but the same layout. — `AMS81 - #Master/AMS81 - #ARTWORK #DA #2016/AMS8-M19-REAR-SILK (CURVE) (MLC-8B).cdr`
 11. **RD66-MLC8UsingAMS8E-1-iss5:** The rear also has an AUX 2 DB25, an option-card slot and two round holes with a small rectangle at the top right, none used by this bench. — `#MLC - #SERIES/MLC6 & MLC8 - #ARTWORK #DA #2016/MLC8B-REAR-SILK(CURVE AMS8-M19).cdr`
 12. **RD66-MLC8UsingAMS8E-1-iss5:** The lens is the shared AMS8/MLC8 M6 part; the MLC8B uses only its left 3″ (CH1–CH8 scales, DD and ERR). — `AMS81 - #Master/AMS81 - #ARTWORK #DA #2016/AMS8-M6-SILK(MLC8-M3) (CURVE).cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "MLC8A",
+ "name": "Multi-Channel Level Control",
+ "category": "METERING",
+ "year": 2018,
+ "documents": [
+  {
+   "file": "Products/METERING/MLC8A/2018 - MLC8A - Front.jpg",
+   "year": 2018,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MLC8A/2018 - MLC8A - Information Sheet.jpg",
+   "year": 2018,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/METERING/MLC8A/2018 - MLC8A - MANUAL (2).docx",
+   "year": 2018,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/METERING/MLC8A/2018 - MLC8A - MANUAL.docx",
+   "year": 2018,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/METERING/MLC8D/2018 - MLC8D - Rear.jpg",
+   "year": 2018,
+   "pages": 1,
+   "holds": []
+  }
+ ]
+}
+```

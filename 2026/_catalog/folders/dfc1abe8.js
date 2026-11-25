@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/AMPLIFIERS/M8202/KICAD","f":[["M8202.kicad_sym",""]]};

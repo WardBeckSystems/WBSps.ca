@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/UNSORTED/M500","f":[["19xx - 500-02-001 - 500 PROG. AMP. SCHEMATIC - ISS 2 (traced).dxf",""],["19xx - 500-02-001 - 500 PROG. AMP. SCHEMATIC - ISS 2.png","4c15cc4c45a6eed93a17"]]};

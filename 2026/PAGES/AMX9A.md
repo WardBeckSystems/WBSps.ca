@@ -80,3 +80,54 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 4. The 2014 rear art leaves the IEC inlet box empty; the 2015 rear divides it into four. — `#AMX #SERIES/XXX - AMX9A - #Master #OBSOLETE/AMX9A - #ARTWORK #DA #2016/OLDER ISSUES/AMX9A-FRONT & REAR((FINAL CURVE).cdr`
 5. The #SILK folder holds a second copy of the Nov 2015 front-and-rear drawing, identical to the #ARTWORK one. — `#AMX #SERIES/XXX - AMX9A - #Master #OBSOLETE/AMX9A - #SILK/AMX9A-FRONT & REAR(CURVE).cdr`
 6. The 2015 rear silk says “100-240 VAC”; the manuals say 90-230 VAC. — `#AMX #SERIES/XXX - AMX9A - #Master #OBSOLETE/AMX9A - #ARTWORK #DA #2016/AMX9A-FRONT & REAR(CURVE).cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "AMX9A",
+ "name": "Audio Monitor System",
+ "category": "METERING",
+ "year": 2014,
+ "documents": [
+  {
+   "file": "Products/METERING/AMX9A/2014 - AMX9A - Front.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/AMX9A/2014 - AMX9A - Information Sheet.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/METERING/AMX9A/2014 - AMX9A - Manual_ (2).docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/METERING/AMX9A/2014 - AMX9A - Manual_.docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/METERING/AMX9A/2014 - AMX9A - Rear.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  }
+ ]
+}
+```

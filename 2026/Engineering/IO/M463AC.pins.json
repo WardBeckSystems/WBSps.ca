@@ -25,7 +25,7 @@
    "pol": null,
    "src": {
     "sha": "6c00091f7e5c82cd919c1f0f0f2c0dbf7d7795a2889feffc5bfd6baf6b96471b",
-    "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 1 of the drawing, left of the pin column",
@@ -44,7 +44,7 @@
    "pol": null,
    "src": {
     "sha": "6c00091f7e5c82cd919c1f0f0f2c0dbf7d7795a2889feffc5bfd6baf6b96471b",
-    "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 1 of the drawing, right of the pin column",
@@ -63,7 +63,7 @@
    "pol": null,
    "src": {
     "sha": "6c00091f7e5c82cd919c1f0f0f2c0dbf7d7795a2889feffc5bfd6baf6b96471b",
-    "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 2 of the drawing, left of the pin column",
@@ -82,7 +82,7 @@
    "pol": null,
    "src": {
     "sha": "6c00091f7e5c82cd919c1f0f0f2c0dbf7d7795a2889feffc5bfd6baf6b96471b",
-    "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 2 of the drawing, right of the pin column",
@@ -91,7 +91,7 @@
      "signal": "SHIELD",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+     "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
      "page": 1
     }
    ]
@@ -109,7 +109,7 @@
    "pol": null,
    "src": {
     "sha": "6c00091f7e5c82cd919c1f0f0f2c0dbf7d7795a2889feffc5bfd6baf6b96471b",
-    "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 3 of the drawing, right of the pin column",
@@ -118,7 +118,7 @@
      "signal": "PA OUT",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+     "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
      "page": 1
     }
    ]
@@ -136,7 +136,7 @@
    "pol": null,
    "src": {
     "sha": "6c00091f7e5c82cd919c1f0f0f2c0dbf7d7795a2889feffc5bfd6baf6b96471b",
-    "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 4 of the drawing, right of the pin column",
@@ -155,7 +155,7 @@
    "pol": null,
    "src": {
     "sha": "6c00091f7e5c82cd919c1f0f0f2c0dbf7d7795a2889feffc5bfd6baf6b96471b",
-    "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 5 of the drawing, right of the pin column",
@@ -164,7 +164,7 @@
      "signal": "FB OUT",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+     "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
      "page": 1
     }
    ]
@@ -182,7 +182,7 @@
    "pol": null,
    "src": {
     "sha": "6c00091f7e5c82cd919c1f0f0f2c0dbf7d7795a2889feffc5bfd6baf6b96471b",
-    "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 6 of the drawing, right of the pin column",
@@ -191,7 +191,7 @@
      "signal": "RS OUT",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+     "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
      "page": 1
     }
    ]
@@ -209,7 +209,7 @@
    "pol": null,
    "src": {
     "sha": "6c00091f7e5c82cd919c1f0f0f2c0dbf7d7795a2889feffc5bfd6baf6b96471b",
-    "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 7 of the drawing, right of the pin column",
@@ -218,7 +218,7 @@
      "signal": "RS OUT",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+     "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
      "page": 1
     }
    ]
@@ -236,7 +236,7 @@
    "pol": null,
    "src": {
     "sha": "6c00091f7e5c82cd919c1f0f0f2c0dbf7d7795a2889feffc5bfd6baf6b96471b",
-    "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 8 of the drawing, right of the pin column",
@@ -245,7 +245,7 @@
      "signal": "SOLO OUT",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+     "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
      "page": 1
     }
    ]
@@ -263,7 +263,7 @@
    "pol": null,
    "src": {
     "sha": "6c00091f7e5c82cd919c1f0f0f2c0dbf7d7795a2889feffc5bfd6baf6b96471b",
-    "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 9 of the drawing, right of the pin column",
@@ -272,7 +272,7 @@
      "signal": "FADER OUT",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+     "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
      "page": 1
     }
    ]
@@ -290,7 +290,7 @@
    "pol": null,
    "src": {
     "sha": "6c00091f7e5c82cd919c1f0f0f2c0dbf7d7795a2889feffc5bfd6baf6b96471b",
-    "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 10 of the drawing, left of the pin column",
@@ -309,7 +309,7 @@
    "pol": null,
    "src": {
     "sha": "6c00091f7e5c82cd919c1f0f0f2c0dbf7d7795a2889feffc5bfd6baf6b96471b",
-    "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 10 of the drawing, right of the pin column",
@@ -318,7 +318,7 @@
      "signal": "SHIELD",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+     "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
      "page": 1
     }
    ]
@@ -336,7 +336,7 @@
    "pol": null,
    "src": {
     "sha": "6c00091f7e5c82cd919c1f0f0f2c0dbf7d7795a2889feffc5bfd6baf6b96471b",
-    "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 13 of the drawing, right of the pin column",
@@ -355,7 +355,7 @@
    "pol": null,
    "src": {
     "sha": "6c00091f7e5c82cd919c1f0f0f2c0dbf7d7795a2889feffc5bfd6baf6b96471b",
-    "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 14 of the drawing, right of the pin column",
@@ -374,7 +374,7 @@
    "pol": null,
    "src": {
     "sha": "6c00091f7e5c82cd919c1f0f0f2c0dbf7d7795a2889feffc5bfd6baf6b96471b",
-    "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 15 of the drawing, right of the pin column",
@@ -393,7 +393,7 @@
    "pol": null,
    "src": {
     "sha": "6c00091f7e5c82cd919c1f0f0f2c0dbf7d7795a2889feffc5bfd6baf6b96471b",
-    "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 16 of the drawing, right of the pin column",
@@ -412,7 +412,7 @@
    "pol": null,
    "src": {
     "sha": "6c00091f7e5c82cd919c1f0f0f2c0dbf7d7795a2889feffc5bfd6baf6b96471b",
-    "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 17 of the drawing, right of the pin column",
@@ -431,7 +431,7 @@
    "pol": null,
    "src": {
     "sha": "6c00091f7e5c82cd919c1f0f0f2c0dbf7d7795a2889feffc5bfd6baf6b96471b",
-    "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 18 of the drawing, right of the pin column",
@@ -450,7 +450,7 @@
    "pol": null,
    "src": {
     "sha": "6c00091f7e5c82cd919c1f0f0f2c0dbf7d7795a2889feffc5bfd6baf6b96471b",
-    "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 19 of the drawing, right of the pin column",
@@ -469,7 +469,7 @@
    "pol": null,
    "src": {
     "sha": "6c00091f7e5c82cd919c1f0f0f2c0dbf7d7795a2889feffc5bfd6baf6b96471b",
-    "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 20 of the drawing, right of the pin column",
@@ -488,7 +488,7 @@
    "pol": null,
    "src": {
     "sha": "6c00091f7e5c82cd919c1f0f0f2c0dbf7d7795a2889feffc5bfd6baf6b96471b",
-    "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 21 of the drawing, right of the pin column",
@@ -507,7 +507,7 @@
    "pol": null,
    "src": {
     "sha": "6c00091f7e5c82cd919c1f0f0f2c0dbf7d7795a2889feffc5bfd6baf6b96471b",
-    "file": "Modules/SUMMING/M463AC/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
+    "file": "Modules/SUMMING/M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg",
     "page": 1
    },
    "quote": "row 22 of the drawing, right of the pin column",

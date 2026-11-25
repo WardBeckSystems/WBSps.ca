@@ -33,7 +33,7 @@ A wiki of the Ward-Beck Systems archive: **521** modules, products and console m
 
 | Folder | Contents |
 |---|---|
-| `Modules/<CATEGORY>/<code>/` | module files, named `YEAR - CODE - title`, each with a `.md` note |
+| `Modules/<CATEGORY>/<code>/` | module files, named `YEAR - CODE - title`, in kind folders (`SCHEMATICS/`, `MANUALS/`, `PHOTOS/` …); each `.md` note in `OCR/` |
 | `Products/<SERIES>/<model>/` | later product lines |
 | `Consoles/<decade>/<job> - <project>/` | console and project files by job number; `Consoles/Models/` for M-numbered console models |
 | `ADVERTISEMENTS/` | ads, brochures, press, NAB photos |

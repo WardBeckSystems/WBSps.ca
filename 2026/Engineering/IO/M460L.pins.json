@@ -37,7 +37,7 @@
    "pol": null,
    "src": {
     "sha": "b730b761b56e894f6be854b7be65e10ad26dabe6eff0c8080120db2f787b5356",
-    "file": "Modules/INPUT-PRE-AMPS/M460L/1974 - M460L - OCR - M460L - P007 - 2-3.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M460L/MANUALS/1974 - M460L - OCR - M460L - P007 - 2-3.jpg",
     "page": 1
    },
    "quote": "The output actively balanced and fed the \"insert point\" pins 22 and module connector P1 This feature allows the use insert jacks, permitting the insertion ancillary equipment into the main mixing signal patn.",
@@ -46,7 +46,7 @@
      "signal": "OUTPUT ACTIVELY BALANCED AND FED THE INSERT",
      "how": "prose",
      "conf": "medium",
-     "file": "Modules/INPUT-PRE-AMPS/M460L/1974 - M460L - OCR - M460L - P007 - 2-3.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M460L/MANUALS/1974 - M460L - OCR - M460L - P007 - 2-3.jpg",
      "page": 1
     }
    ]
@@ -292,7 +292,7 @@
    "pol": null,
    "src": {
     "sha": "dfb4cdacdfb8bb36950467814a6a7e782f01646c5d7e3c635b8fe46eb427d293",
-    "file": "Modules/INPUT-PRE-AMPS/M460L/1974 - M460L - Input Module.pdf",
+    "file": "Modules/INPUT-PRE-AMPS/M460L/MANUALS/1974 - M460L - Input Module.pdf",
     "page": 25
    },
    "quote": "Ov P2-2 + LAME",
@@ -311,7 +311,7 @@
    "pol": null,
    "src": {
     "sha": "a6e75d6a1d4c7d4d1de31ee7763d8698b123958470ef9472f95a17fda6da85b4",
-    "file": "Modules/INPUT-PRE-AMPS/M460L/1974 - M460L - Input Module (2).pdf",
+    "file": "Modules/INPUT-PRE-AMPS/M460L/MANUALS/1974 - M460L - Input Module (2).pdf",
     "page": 25
    },
    "quote": "PI                                                                                                                                                              ",
@@ -330,7 +330,7 @@
    "pol": null,
    "src": {
     "sha": "a6e75d6a1d4c7d4d1de31ee7763d8698b123958470ef9472f95a17fda6da85b4",
-    "file": "Modules/INPUT-PRE-AMPS/M460L/1974 - M460L - Input Module (2).pdf",
+    "file": "Modules/INPUT-PRE-AMPS/M460L/MANUALS/1974 - M460L - Input Module (2).pdf",
     "page": 25
    },
    "quote": "lE4               1\u00a39                             10 K.                                                                                                         ",
@@ -377,7 +377,7 @@
      "signal": "RIGHT OUT",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M460L/1974 - M460L - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M460L/MANUALS/1974 - M460L - Input Module.pdf",
      "page": 25
     }
    ]
@@ -404,7 +404,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M460L/1974 - M460L - Schematic.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M460L/SCHEMATICS/1974 - M460L - Schematic.jpg",
      "page": 1
     }
    ]
@@ -431,14 +431,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M460L/1974 - M460L - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M460L/MANUALS/1974 - M460L - Input Module.pdf",
      "page": 25
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M460L/1974 - M460L - Schematic.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M460L/SCHEMATICS/1974 - M460L - Schematic.jpg",
      "page": 1
     }
    ]
@@ -456,7 +456,7 @@
    "pol": null,
    "src": {
     "sha": "dfb4cdacdfb8bb36950467814a6a7e782f01646c5d7e3c635b8fe46eb427d293",
-    "file": "Modules/INPUT-PRE-AMPS/M460L/1974 - M460L - Input Module.pdf",
+    "file": "Modules/INPUT-PRE-AMPS/M460L/MANUALS/1974 - M460L - Input Module.pdf",
     "page": 25
    },
    "quote": "Ml ~E (P2 - -ONTROL Pz-17 =",
@@ -475,7 +475,7 @@
    "pol": null,
    "src": {
     "sha": "a6e75d6a1d4c7d4d1de31ee7763d8698b123958470ef9472f95a17fda6da85b4",
-    "file": "Modules/INPUT-PRE-AMPS/M460L/1974 - M460L - Input Module (2).pdf",
+    "file": "Modules/INPUT-PRE-AMPS/M460L/MANUALS/1974 - M460L - Input Module (2).pdf",
     "page": 25
    },
    "quote": "\"\"                                   )   P2 - V",
@@ -568,7 +568,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M460L/1974 - M460L - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M460L/MANUALS/1974 - M460L - Input Module (2).pdf",
      "page": 25
     }
    ]

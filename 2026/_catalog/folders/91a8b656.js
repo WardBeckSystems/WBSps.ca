@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/ROUTING/M568W/KICAD","f":[["19xx - 568-02-021 - HEADPHONE AMPLIFIER MODULE SCHEMATIC.kicad_sch",""],["19xx - M568W - 568-02-021.kicad_sch",""],["M568W.kicad_sym",""]]};

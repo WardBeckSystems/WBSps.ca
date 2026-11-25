@@ -58,9 +58,11 @@
 
   // what was read on a picture, from its note (<file>.md): its title block and the OCR text, spilled out under the reel
   const notes = new Map();
+  // beside the file, or <M>/OCR/<name>.md for a file in a module's kind folder (any upper-case folder: tools/module_layout.py KINDS, note_for)
+  const noteOf = p => p.replace(/^((?:.*\/)?Modules\/[^/]+\/[^/]+)\/(?!OCR\/)[A-Z][A-Z0-9_]*\/([^/]+)$/, '$1/OCR/$2') + '.md';
   const esc = t => t.replace(/[&<>]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]));
   const noteText = it => {
-    if (!notes.has(it.path)) notes.set(it.path, fetch(root + enc(it.path) + '.md').then(r => r.ok ? r.text() : '').then(md => {
+    if (!notes.has(it.path)) notes.set(it.path, fetch(root + enc(noteOf(it.path))).then(r => r.ok ? r.text() : '').then(md => {
       const tb = (md.match(/## Title block[^\n]*\n([\s\S]*?)(?=\n## |\n- \*\*Original)/) || [])[1] || '';
       const full = (md.match(/## (?:Full text|Text recovered by OCR)\n([\s\S]*?)(?=\n## |$)/) || [])[1] || '';
       const clean = full.replace(/```\w*\n?/g, '').replace(/^### (.*)$/gm, '\u0000$1\u0001').replace(/^> /gm, '').trim();

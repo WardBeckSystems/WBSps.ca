@@ -23,6 +23,6 @@
 - **Kind:** drawing
 - **Device:** M468 — wiki: [M468](../../2026/PAGES/M468.md)
 - **Original file:** `WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (108).jpg`
-- **Copy in 2026:** [`2026/Modules/ROUTING/M468/1976 - 468-03-036 - M468N ESCUTCHEON - DRN A-F - ISS 2.jpg`](../../2026/Modules/ROUTING/M468/1976%20-%20468-03-036%20-%20M468N%20ESCUTCHEON%20-%20DRN%20A-F%20-%20ISS%202.jpg)
+- **Copy in 2026:** [`2026/Modules/ROUTING/M468/MECHANICAL/1976 - 468-03-036 - M468N ESCUTCHEON - DRN A-F - ISS 2.jpg`](../../2026/Modules/ROUTING/M468/MECHANICAL/1976%20-%20468-03-036%20-%20M468N%20ESCUTCHEON%20-%20DRN%20A-F%20-%20ISS%202.jpg)
 - **SHA-256:** `38ad24d5e1cfaf421675e2d308f1a2a51327eb8f7f350611e13f50f75129a3e1`
 - **Read by:** title-block crop read by eye

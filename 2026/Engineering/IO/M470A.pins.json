@@ -107,7 +107,7 @@
    "pol": null,
    "src": {
     "sha": "de789b0c76b01252c60c952d3881a4f52b0cb969c522552a75d5b57ec345ddf2",
-    "file": "Modules/INPUT-PRE-AMPS/M470A/1977 - M470A - Input Module (2).pdf",
+    "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1977 - M470A - Input Module (2).pdf",
     "page": 19
    },
    "quote": "EQUALIZER INSERT P1-22",
@@ -116,7 +116,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470A/1977 - M470A - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1977 - M470A - Input Module.pdf",
      "page": 19
     }
    ]
@@ -162,7 +162,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470A/1979 - M470A - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1979 - M470A - Input Module.pdf",
      "page": 19
     }
    ]
@@ -180,7 +180,7 @@
    "pol": null,
    "src": {
     "sha": "de789b0c76b01252c60c952d3881a4f52b0cb969c522552a75d5b57ec345ddf2",
-    "file": "Modules/INPUT-PRE-AMPS/M470A/1977 - M470A - Input Module (2).pdf",
+    "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1977 - M470A - Input Module (2).pdf",
     "page": 19
    },
    "quote": "8yon 124v P2.Y A 223 220 Yaw 1+022 ChoN AMP P2-2 CRi 144002 P2-X R5S Zzok P?_ 24V",
@@ -189,7 +189,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470A/1977 - M470A - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1977 - M470A - Input Module.pdf",
      "page": 19
     }
    ]
@@ -235,14 +235,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470A/1977 - M470A - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1977 - M470A - Input Module (2).pdf",
      "page": 19
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470A/1977 - M470A - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1977 - M470A - Input Module.pdf",
      "page": 19
     }
    ]
@@ -269,21 +269,21 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470A/1977 - M470A - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1977 - M470A - Input Module (2).pdf",
      "page": 19
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470A/1977 - M470A - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1977 - M470A - Input Module.pdf",
      "page": 19
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470A/1979 - M470A - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1979 - M470A - Input Module.pdf",
      "page": 19
     }
    ]
@@ -367,7 +367,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470A/1979 - M470A - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1979 - M470A - Input Module.pdf",
      "page": 19
     }
    ]
@@ -413,7 +413,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470A/1979 - M470A - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1979 - M470A - Input Module.pdf",
      "page": 19
     }
    ]
@@ -440,7 +440,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470A/1979 - M470A - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1979 - M470A - Input Module.pdf",
      "page": 19
     }
    ]
@@ -458,7 +458,7 @@
    "pol": null,
    "src": {
     "sha": "0c81ae696da10d55997c874f4c6f6625ac1798cf34acbfc556f9a87ff476d774",
-    "file": "Modules/INPUT-PRE-AMPS/M470A/1979 - M470A - Input Module.pdf",
+    "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1979 - M470A - Input Module.pdf",
     "page": 19
    },
    "quote": "2 N 40 3 7                                                                                                                                                      ",
@@ -477,7 +477,7 @@
    "pol": null,
    "src": {
     "sha": "df9db2c0e05387e003157fe1b45af78766638bc20140fbd5e76d65e3023b836e",
-    "file": "Modules/INPUT-PRE-AMPS/M470A/1977 - M470A - P19 - Schematic.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M470A/SCHEMATICS/1977 - M470A - P19 - Schematic.jpg",
     "page": 1
    },
    "quote": "P2-11",
@@ -496,7 +496,7 @@
    "pol": null,
    "src": {
     "sha": "de789b0c76b01252c60c952d3881a4f52b0cb969c522552a75d5b57ec345ddf2",
-    "file": "Modules/INPUT-PRE-AMPS/M470A/1977 - M470A - Input Module (2).pdf",
+    "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1977 - M470A - Input Module (2).pdf",
     "page": 19
    },
    "quote": "CR9 P2-N N4oo?",
@@ -505,14 +505,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470A/1977 - M470A - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1977 - M470A - Input Module.pdf",
      "page": 19
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470A/1979 - M470A - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1979 - M470A - Input Module.pdf",
      "page": 19
     }
    ]
@@ -530,7 +530,7 @@
    "pol": null,
    "src": {
     "sha": "0c81ae696da10d55997c874f4c6f6625ac1798cf34acbfc556f9a87ff476d774",
-    "file": "Modules/INPUT-PRE-AMPS/M470A/1979 - M470A - Input Module.pdf",
+    "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1979 - M470A - Input Module.pdf",
     "page": 19
    },
    "quote": "P2 - 12       }        CONTROL",
@@ -549,7 +549,7 @@
    "pol": null,
    "src": {
     "sha": "de789b0c76b01252c60c952d3881a4f52b0cb969c522552a75d5b57ec345ddf2",
-    "file": "Modules/INPUT-PRE-AMPS/M470A/1977 - M470A - Input Module (2).pdf",
+    "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1977 - M470A - Input Module (2).pdf",
     "page": 19
    },
    "quote": "ACRBX Pz-P ivis RiC?,SK_IN4Qo3",
@@ -558,7 +558,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470A/1977 - M470A - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1977 - M470A - Input Module.pdf",
      "page": 19
     }
    ]
@@ -576,7 +576,7 @@
    "pol": null,
    "src": {
     "sha": "0c81ae696da10d55997c874f4c6f6625ac1798cf34acbfc556f9a87ff476d774",
-    "file": "Modules/INPUT-PRE-AMPS/M470A/1979 - M470A - Input Module.pdf",
+    "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1979 - M470A - Input Module.pdf",
     "page": 19
    },
    "quote": "P2- 13                 CONTROL",
@@ -595,7 +595,7 @@
    "pol": null,
    "src": {
     "sha": "de789b0c76b01252c60c952d3881a4f52b0cb969c522552a75d5b57ec345ddf2",
-    "file": "Modules/INPUT-PRE-AMPS/M470A/1977 - M470A - Input Module (2).pdf",
+    "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1977 - M470A - Input Module (2).pdf",
     "page": 19
    },
    "quote": "Ry CrI3 P2.i0 N4no3 P2-R",
@@ -604,14 +604,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470A/1977 - M470A - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1977 - M470A - Input Module.pdf",
      "page": 19
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470A/1979 - M470A - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1979 - M470A - Input Module.pdf",
      "page": 19
     }
    ]
@@ -629,7 +629,7 @@
    "pol": null,
    "src": {
     "sha": "de789b0c76b01252c60c952d3881a4f52b0cb969c522552a75d5b57ec345ddf2",
-    "file": "Modules/INPUT-PRE-AMPS/M470A/1977 - M470A - Input Module (2).pdf",
+    "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1977 - M470A - Input Module (2).pdf",
     "page": 19
    },
    "quote": "P2-14+",
@@ -638,7 +638,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470A/1977 - M470A - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1977 - M470A - Input Module.pdf",
      "page": 19
     }
    ]
@@ -656,7 +656,7 @@
    "pol": null,
    "src": {
     "sha": "0c81ae696da10d55997c874f4c6f6625ac1798cf34acbfc556f9a87ff476d774",
-    "file": "Modules/INPUT-PRE-AMPS/M470A/1979 - M470A - Input Module.pdf",
+    "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1979 - M470A - Input Module.pdf",
     "page": 19
    },
    "quote": "e<c                                                                                                                                                             ",
@@ -675,7 +675,7 @@
    "pol": null,
    "src": {
     "sha": "0c81ae696da10d55997c874f4c6f6625ac1798cf34acbfc556f9a87ff476d774",
-    "file": "Modules/INPUT-PRE-AMPS/M470A/1979 - M470A - Input Module.pdf",
+    "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1979 - M470A - Input Module.pdf",
     "page": 19
    },
    "quote": "MU T E CON TRo L             [ P2 - T             (   o",
@@ -694,7 +694,7 @@
    "pol": null,
    "src": {
     "sha": "de789b0c76b01252c60c952d3881a4f52b0cb969c522552a75d5b57ec345ddf2",
-    "file": "Modules/INPUT-PRE-AMPS/M470A/1977 - M470A - Input Module (2).pdf",
+    "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1977 - M470A - Input Module (2).pdf",
     "page": 19
    },
    "quote": "P2-17",
@@ -703,7 +703,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470A/1977 - M470A - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1977 - M470A - Input Module.pdf",
      "page": 19
     }
    ]
@@ -759,7 +759,7 @@
    "pol": null,
    "src": {
     "sha": "de789b0c76b01252c60c952d3881a4f52b0cb969c522552a75d5b57ec345ddf2",
-    "file": "Modules/INPUT-PRE-AMPS/M470A/1977 - M470A - Input Module (2).pdf",
+    "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1977 - M470A - Input Module (2).pdf",
     "page": 19
    },
    "quote": "8yon 124v P2.Y A 223 220 Yaw 1+022 ChoN AMP P2-2 CRi 144002 P2-X R5S Zzok P?_ 24V",
@@ -768,7 +768,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470A/1977 - M470A - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1977 - M470A - Input Module.pdf",
      "page": 19
     }
    ]
@@ -860,14 +860,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470A/1977 - M470A - Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1977 - M470A - Input Module (2).pdf",
      "page": 19
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M470A/1977 - M470A - Input Module.pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1977 - M470A - Input Module.pdf",
      "page": 19
     }
    ]

@@ -99,3 +99,54 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 3. The rear has four screw holes around the connector field (beside AES/EBU INPUTS and CONVERTER B) as well as the fixing holes at the panel ends. — `#POD #SERIES/POD13A - #Master/POD13A - #ARTWORK #DA #2016/POD13A-FRONT&REAR-SILK (CURVE).cdr`
 4. In this sheet the cut-out guides are drawn in the same black (#1B1918) as the ink, unlike the other 2016 POD sheets, which use pure black for the guides. — `#POD #SERIES/POD13A - #Master/POD13A - #ARTWORK #DA #2016/POD13A-FRONT&REAR-SILK (CURVE).cdr`
 5. The CDR draws a drill crosshair at every hole on both the green and white plates; the real panels (Pics/ photos) carry no crosshairs, so the simulator shows them faint. — `#POD #SERIES/POD13A - #Master/POD13A - #ARTWORK #DA #2016/POD13A-FRONT&REAR-SILK (CURVE).cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD13A",
+ "name": "Dual Digital-Analog Converter",
+ "category": "PODS",
+ "year": 2014,
+ "documents": [
+  {
+   "file": "Products/PODS/POD13A/2014 - POD13A - Front.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD13A/2014 - POD13A - Information Sheet.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD13A/2014 - POD13A - MANUAL (2).docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD13A/2014 - POD13A - MANUAL.docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD13A/2014 - POD13A - Rear.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  }
+ ]
+}
+```

@@ -31,7 +31,7 @@
    "pol": null,
    "src": {
     "sha": "4e40ce41064d7b82f9070551f13a3f1023b6a6eeb4f5cc3cb69d3e2fd0df9c11",
-    "file": "Modules/SUMMING/M463/1974 - M463 - Submaster Module.pdf",
+    "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module.pdf",
     "page": 35
    },
    "quote": "Sw25 Ri37 122k 7PZ:F 891USk >P1-1?2 Swig_R%z IEk 7Pt-N S0LOSIL 7PZ-V R93 M Ist  7Pi-9 Swio R34 I5k M ~Pi-k R95 I5k  M ~Pi-8 Swg Rx 15k ~Pi-J P97 ISk 7P1-7 Swb R",
@@ -40,7 +40,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - M463 - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module.pdf",
      "page": 36
     }
    ]
@@ -58,7 +58,7 @@
    "pol": null,
    "src": {
     "sha": "b0252a73dff1cc7c6af8a5e201c30284789fc646fa1c7518c889acba85c76a44",
-    "file": "Modules/SUMMING/M463/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
+    "file": "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
     "page": 1
    },
    "quote": "5 P1-F",
@@ -77,7 +77,7 @@
    "pol": null,
    "src": {
     "sha": "b0252a73dff1cc7c6af8a5e201c30284789fc646fa1c7518c889acba85c76a44",
-    "file": "Modules/SUMMING/M463/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
+    "file": "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
     "page": 1
    },
    "quote": "P1-7",
@@ -86,14 +86,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1972 - M463 - WAAD-BECK ZABM.jpg",
+     "file": "Modules/SUMMING/M463/MANUALS/1972 - M463 - WAAD-BECK ZABM.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
+     "file": "Modules/SUMMING/M463/SCHEMATICS/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
      "page": 1
     }
    ]
@@ -111,7 +111,7 @@
    "pol": null,
    "src": {
     "sha": "b0252a73dff1cc7c6af8a5e201c30284789fc646fa1c7518c889acba85c76a44",
-    "file": "Modules/SUMMING/M463/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
+    "file": "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
     "page": 1
    },
    "quote": "P2-5 M2 P-E RIGHT OUTPUTS P2-6 M4 P2-F >P1-12",
@@ -120,14 +120,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1972 - M463 - WAAD-BECK ZABM.jpg",
+     "file": "Modules/SUMMING/M463/MANUALS/1972 - M463 - WAAD-BECK ZABM.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
+     "file": "Modules/SUMMING/M463/SCHEMATICS/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
      "page": 1
     }
    ]
@@ -145,7 +145,7 @@
    "pol": null,
    "src": {
     "sha": "2659e84e1befc2054be97f16d30c1815366aedf0978da2ecf30701cde9907788",
-    "file": "Modules/SUMMING/M463/1974 - M463 - Submaster Module (2).pdf",
+    "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module (2).pdf",
     "page": 32
    },
    "quote": "P2- 1' +-~~L__q~~...JVIIV-I----",
@@ -164,7 +164,7 @@
    "pol": null,
    "src": {
     "sha": "205527ad2d6f411f6eec2b181f0f1d99db4f6098cc7377679afd69d6575c409e",
-    "file": "Modules/SUMMING/M463/1972 - M463 - WAAD-BECK ZABM.jpg",
+    "file": "Modules/SUMMING/M463/MANUALS/1972 - M463 - WAAD-BECK ZABM.jpg",
     "page": 1
    },
    "quote": "PZ-C P2-4",
@@ -173,21 +173,21 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
+     "file": "Modules/SUMMING/M463/SCHEMATICS/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - M463 - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module.pdf",
      "page": 35
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - M463 - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module.pdf",
      "page": 36
     }
    ]
@@ -205,7 +205,7 @@
    "pol": null,
    "src": {
     "sha": "b0252a73dff1cc7c6af8a5e201c30284789fc646fa1c7518c889acba85c76a44",
-    "file": "Modules/SUMMING/M463/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
+    "file": "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
     "page": 1
    },
    "quote": "DIRECT ~P2-12 OUTPUT +8-Bm P2-N NOMINAL P2-3 Mi PZ-\u20ac LEFT P2-4 OVTPUTS M3 Pz-D",
@@ -214,28 +214,28 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
+     "file": "Modules/SUMMING/M463/SCHEMATICS/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - M463 - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module.pdf",
      "page": 35
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - M463 - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module.pdf",
      "page": 36
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/M463 - P030 - LB463-02-001 04.jpg",
+     "file": "Modules/SUMMING/M463/MANUALS/M463 - P030 - LB463-02-001 04.jpg",
      "page": 1
     }
    ]
@@ -253,7 +253,7 @@
    "pol": null,
    "src": {
     "sha": "b0252a73dff1cc7c6af8a5e201c30284789fc646fa1c7518c889acba85c76a44",
-    "file": "Modules/SUMMING/M463/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
+    "file": "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
     "page": 1
    },
    "quote": "DIRECT ~P2-12 OUTPUT +8-Bm P2-N NOMINAL P2-3 Mi PZ-\u20ac LEFT P2-4 OVTPUTS M3 Pz-D",
@@ -262,28 +262,28 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1972 - M463 - WAAD-BECK ZABM.jpg",
+     "file": "Modules/SUMMING/M463/MANUALS/1972 - M463 - WAAD-BECK ZABM.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
+     "file": "Modules/SUMMING/M463/SCHEMATICS/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - M463 - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module.pdf",
      "page": 35
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - M463 - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module.pdf",
      "page": 36
     }
    ]
@@ -301,7 +301,7 @@
    "pol": null,
    "src": {
     "sha": "b0252a73dff1cc7c6af8a5e201c30284789fc646fa1c7518c889acba85c76a44",
-    "file": "Modules/SUMMING/M463/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
+    "file": "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
     "page": 1
    },
    "quote": "DIRECT ~P2-12 OUTPUT +8-Bm P2-N NOMINAL P2-3 Mi PZ-\u20ac LEFT P2-4 OVTPUTS M3 Pz-D",
@@ -310,28 +310,28 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1972 - M463 - WAAD-BECK ZABM.jpg",
+     "file": "Modules/SUMMING/M463/MANUALS/1972 - M463 - WAAD-BECK ZABM.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
+     "file": "Modules/SUMMING/M463/SCHEMATICS/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - M463 - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module.pdf",
      "page": 35
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - M463 - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module.pdf",
      "page": 36
     }
    ]
@@ -349,7 +349,7 @@
    "pol": null,
    "src": {
     "sha": "205527ad2d6f411f6eec2b181f0f1d99db4f6098cc7377679afd69d6575c409e",
-    "file": "Modules/SUMMING/M463/1972 - M463 - WAAD-BECK ZABM.jpg",
+    "file": "Modules/SUMMING/M463/MANUALS/1972 - M463 - WAAD-BECK ZABM.jpg",
     "page": 1
    },
    "quote": "PZ-E P2-6",
@@ -358,14 +358,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
+     "file": "Modules/SUMMING/M463/SCHEMATICS/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - M463 - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module.pdf",
      "page": 35
     }
    ]
@@ -383,7 +383,7 @@
    "pol": null,
    "src": {
     "sha": "b0252a73dff1cc7c6af8a5e201c30284789fc646fa1c7518c889acba85c76a44",
-    "file": "Modules/SUMMING/M463/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
+    "file": "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
     "page": 1
    },
    "quote": "P2-5 M2 P-E RIGHT OUTPUTS P2-6 M4 P2-F >P1-12",
@@ -392,14 +392,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1972 - M463 - WAAD-BECK ZABM.jpg",
+     "file": "Modules/SUMMING/M463/MANUALS/1972 - M463 - WAAD-BECK ZABM.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
+     "file": "Modules/SUMMING/M463/SCHEMATICS/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
      "page": 1
     }
    ]
@@ -417,7 +417,7 @@
    "pol": null,
    "src": {
     "sha": "b0252a73dff1cc7c6af8a5e201c30284789fc646fa1c7518c889acba85c76a44",
-    "file": "Modules/SUMMING/M463/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
+    "file": "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
     "page": 1
    },
    "quote": "P2-5 M2 P-E RIGHT OUTPUTS P2-6 M4 P2-F >P1-12",
@@ -426,14 +426,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1972 - M463 - WAAD-BECK ZABM.jpg",
+     "file": "Modules/SUMMING/M463/MANUALS/1972 - M463 - WAAD-BECK ZABM.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
+     "file": "Modules/SUMMING/M463/SCHEMATICS/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
      "page": 1
     }
    ]
@@ -451,7 +451,7 @@
    "pol": null,
    "src": {
     "sha": "b0252a73dff1cc7c6af8a5e201c30284789fc646fa1c7518c889acba85c76a44",
-    "file": "Modules/SUMMING/M463/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
+    "file": "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
     "page": 1
    },
    "quote": "P2-5 M2 P-E RIGHT OUTPUTS P2-6 M4 P2-F >P1-12",
@@ -460,21 +460,21 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1972 - M463 - WAAD-BECK ZABM.jpg",
+     "file": "Modules/SUMMING/M463/MANUALS/1972 - M463 - WAAD-BECK ZABM.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
+     "file": "Modules/SUMMING/M463/SCHEMATICS/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/M463 - P030 - LB463-02-001 04.jpg",
+     "file": "Modules/SUMMING/M463/MANUALS/M463 - P030 - LB463-02-001 04.jpg",
      "page": 1
     }
    ]
@@ -492,7 +492,7 @@
    "pol": null,
    "src": {
     "sha": "84d2ccda5e4f1eda778f218c3c21219022b758ec763c84d52655907f14c69c9c",
-    "file": "Modules/SUMMING/M463/1972 - M463 - P030 - LB463-02-001 03.jpg",
+    "file": "Modules/SUMMING/M463/MANUALS/1972 - M463 - P030 - LB463-02-001 03.jpg",
     "page": 1
    },
    "quote": "P2 -8",
@@ -511,7 +511,7 @@
    "pol": null,
    "src": {
     "sha": "4e40ce41064d7b82f9070551f13a3f1023b6a6eeb4f5cc3cb69d3e2fd0df9c11",
-    "file": "Modules/SUMMING/M463/1974 - M463 - Submaster Module.pdf",
+    "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module.pdf",
     "page": 36
    },
    "quote": "DIRECT 7P2-12 OUTPUT P2-N +BBm NOMINAL P2-3",
@@ -520,21 +520,21 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
+     "file": "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1972 - M463 - WAAD-BECK ZABM.jpg",
+     "file": "Modules/SUMMING/M463/MANUALS/1972 - M463 - WAAD-BECK ZABM.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
+     "file": "Modules/SUMMING/M463/SCHEMATICS/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
      "page": 1
     }
    ]
@@ -552,7 +552,7 @@
    "pol": null,
    "src": {
     "sha": "b0252a73dff1cc7c6af8a5e201c30284789fc646fa1c7518c889acba85c76a44",
-    "file": "Modules/SUMMING/M463/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
+    "file": "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
     "page": 1
    },
    "quote": "DIRECT ~P2-12 OUTPUT +8-Bm P2-N NOMINAL P2-3 Mi PZ-\u20ac LEFT P2-4 OVTPUTS M3 Pz-D",
@@ -561,21 +561,21 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1972 - M463 - WAAD-BECK ZABM.jpg",
+     "file": "Modules/SUMMING/M463/MANUALS/1972 - M463 - WAAD-BECK ZABM.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
+     "file": "Modules/SUMMING/M463/SCHEMATICS/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - M463 - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module.pdf",
      "page": 35
     }
    ]
@@ -593,7 +593,7 @@
    "pol": null,
    "src": {
     "sha": "b0252a73dff1cc7c6af8a5e201c30284789fc646fa1c7518c889acba85c76a44",
-    "file": "Modules/SUMMING/M463/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
+    "file": "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
     "page": 1
    },
    "quote": "5 PZ-T",
@@ -602,21 +602,21 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1972 - M463 - WAAD-BECK ZABM.jpg",
+     "file": "Modules/SUMMING/M463/MANUALS/1972 - M463 - WAAD-BECK ZABM.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
+     "file": "Modules/SUMMING/M463/SCHEMATICS/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - M463 - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module.pdf",
      "page": 36
     }
    ]
@@ -634,7 +634,7 @@
    "pol": null,
    "src": {
     "sha": "b0252a73dff1cc7c6af8a5e201c30284789fc646fa1c7518c889acba85c76a44",
-    "file": "Modules/SUMMING/M463/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
+    "file": "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
     "page": 1
    },
    "quote": "P2-V",
@@ -643,14 +643,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1972 - M463 - WAAD-BECK ZABM.jpg",
+     "file": "Modules/SUMMING/M463/MANUALS/1972 - M463 - WAAD-BECK ZABM.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
+     "file": "Modules/SUMMING/M463/SCHEMATICS/1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg",
      "page": 1
     }
    ]
@@ -668,7 +668,7 @@
    "pol": null,
    "src": {
     "sha": "b0252a73dff1cc7c6af8a5e201c30284789fc646fa1c7518c889acba85c76a44",
-    "file": "Modules/SUMMING/M463/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
+    "file": "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
     "page": 1
    },
    "quote": "P2-18 CTL COM",
@@ -677,21 +677,21 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1972 - M463 - P030 - LB463-02-001 03.jpg",
+     "file": "Modules/SUMMING/M463/MANUALS/1972 - M463 - P030 - LB463-02-001 03.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - M463 - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module.pdf",
      "page": 34
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/M463 - P030 - LB463-02-001 04.jpg",
+     "file": "Modules/SUMMING/M463/MANUALS/M463 - P030 - LB463-02-001 04.jpg",
      "page": 1
     }
    ]
@@ -709,7 +709,7 @@
    "pol": null,
    "src": {
     "sha": "4e40ce41064d7b82f9070551f13a3f1023b6a6eeb4f5cc3cb69d3e2fd0df9c11",
-    "file": "Modules/SUMMING/M463/1974 - M463 - Submaster Module.pdf",
+    "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module.pdf",
     "page": 32
    },
    "quote": "Ri2? _ c47 I5k 96 R5 PNBCAS 210/25 Q2 Pn3L4S Ri26 CR? 3.3 -25v P2-19 Tip308 1N400}",
@@ -728,7 +728,7 @@
    "pol": null,
    "src": {
     "sha": "45a486f2891416427339ea2ba6e5008749e9d3f580917efaf7fc63af927aaa19",
-    "file": "Modules/SUMMING/M463/1972 - M463 - P030 - LB463-02-001 01.jpg",
+    "file": "Modules/SUMMING/M463/MANUALS/1972 - M463 - P030 - LB463-02-001 01.jpg",
     "page": 1
    },
    "quote": "4QS 1N40O? PN3569 Tip29b1 Ri24 Q1 C46 |ezol2s Q5 33 PN3569 R12i ISk CR? C35 R33 22/25 4*k 1N40S 25VCOM P2-20 C36 CRA 22/25 1n4O03 Ri22  ISk 36 R125 C47 PNSCAS 3",
@@ -737,14 +737,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - M463 - Submaster Module (2).pdf",
+     "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module (2).pdf",
      "page": 32
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - M463 - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module.pdf",
      "page": 32
     }
    ]
@@ -762,7 +762,7 @@
    "pol": null,
    "src": {
     "sha": "84d2ccda5e4f1eda778f218c3c21219022b758ec763c84d52655907f14c69c9c",
-    "file": "Modules/SUMMING/M463/1972 - M463 - P030 - LB463-02-001 03.jpg",
+    "file": "Modules/SUMMING/M463/MANUALS/1972 - M463 - P030 - LB463-02-001 03.jpg",
     "page": 1
    },
    "quote": "Pz-Y",
@@ -771,14 +771,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - M463 - Submaster Module (2).pdf",
+     "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module (2).pdf",
      "page": 34
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - M463 - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module.pdf",
      "page": 34
     }
    ]
@@ -796,7 +796,7 @@
    "pol": null,
    "src": {
     "sha": "4e40ce41064d7b82f9070551f13a3f1023b6a6eeb4f5cc3cb69d3e2fd0df9c11",
-    "file": "Modules/SUMMING/M463/1974 - M463 - Submaster Module.pdf",
+    "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module.pdf",
     "page": 32
    },
    "quote": "+25v P2-21",
@@ -805,14 +805,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1972 - M463 - P030 - LB463-02-001 01.jpg",
+     "file": "Modules/SUMMING/M463/MANUALS/1972 - M463 - P030 - LB463-02-001 01.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - M463 - Submaster Module (2).pdf",
+     "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module (2).pdf",
      "page": 32
     }
    ]
@@ -830,7 +830,7 @@
    "pol": null,
    "src": {
     "sha": "45a486f2891416427339ea2ba6e5008749e9d3f580917efaf7fc63af927aaa19",
-    "file": "Modules/SUMMING/M463/1972 - M463 - P030 - LB463-02-001 01.jpg",
+    "file": "Modules/SUMMING/M463/MANUALS/1972 - M463 - P030 - LB463-02-001 01.jpg",
     "page": 1
    },
    "quote": "P2-22",
@@ -839,7 +839,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/SUMMING/M463/1974 - M463 - Submaster Module.pdf",
+     "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module.pdf",
      "page": 32
     }
    ]

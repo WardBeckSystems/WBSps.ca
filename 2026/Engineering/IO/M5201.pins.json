@@ -10,7 +10,7 @@
    "letters": true,
    "size": {
     "count": 37,
-    "file": "Modules/COMPUTERS/M5201/1986 - M5201 - p30.jpg",
+    "file": "Modules/COMPUTERS/M5201/MANUALS/1986 - M5201 - p30.jpg",
     "page": 1,
     "quote": "Connector, 37 Pin"
    }
@@ -30,7 +30,7 @@
    "pol": null,
    "src": {
     "sha": "cac96b29548f79c737f0cb0646f0d4344348e0d793bf0f859ec132629b1a8b62",
-    "file": "Modules/COMPUTERS/M5201/1986 - M5201 - p8.jpg",
+    "file": "Modules/COMPUTERS/M5201/MANUALS/1986 - M5201 - p8.jpg",
     "page": 1
    },
    "quote": "The outputs for these ports are isolated with dry contact relay closures Input and Output data ports are on 37 pin D ' fema connectors The M5200 interface connector and the input channel phanumeric displays (associated with the R58024 Routing Switcher) connector are 37 pin D ' male.",
@@ -39,21 +39,21 @@
      "signal": "OUTPUTS FOR THESE PORTS",
      "how": "prose",
      "conf": "medium",
-     "file": "Modules/COMPUTERS/M5201/1986 - M5201 - p8.jpg",
+     "file": "Modules/COMPUTERS/M5201/MANUALS/1986 - M5201 - p8.jpg",
      "page": 1
     },
     {
      "signal": "OUTPUTS FOR THESE PORTS",
      "how": "prose",
      "conf": "medium",
-     "file": "Modules/COMPUTERS/M5201/1986 - M5201 - p8.jpg",
+     "file": "Modules/COMPUTERS/M5201/MANUALS/1986 - M5201 - p8.jpg",
      "page": 1
     },
     {
      "signal": "OUTPUTS FOR THESE PORTS",
      "how": "prose",
      "conf": "medium",
-     "file": "Modules/COMPUTERS/M5201/1986 - M5201 - p8.jpg",
+     "file": "Modules/COMPUTERS/M5201/MANUALS/1986 - M5201 - p8.jpg",
      "page": 1
     }
    ]

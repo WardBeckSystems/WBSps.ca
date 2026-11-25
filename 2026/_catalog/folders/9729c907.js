@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/POWER/M625/MECHANICAL","f":[["19xx - M625 - DOC - wbsps - promo - mf6 mounting frame - back.jpg",""]]};

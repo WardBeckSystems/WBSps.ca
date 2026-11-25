@@ -25,7 +25,7 @@
    "pol": null,
    "src": {
     "sha": "8aaea8f0b0704da84b022ef1e03c7095f64d7e42f0fc6a071fe83a756f21cf76",
-    "file": "Modules/FILTERS/M472/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
+    "file": "Modules/FILTERS/M472/PINOUTS/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
     "page": 1
    },
    "quote": "row 1 of the drawing, right of the pin column",
@@ -44,7 +44,7 @@
    "pol": null,
    "src": {
     "sha": "02cebd6c8f27d99c3aa3e791707b8ec0835bf5384fe91b5ce7376c40a88fe34f",
-    "file": "Modules/FILTERS/M472/1977 - M472 - Equalizer (2).pdf",
+    "file": "Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer (2).pdf",
     "page": 12
    },
    "quote": null,
@@ -53,7 +53,7 @@
      "signal": "IC",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/FILTERS/M472/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
+     "file": "Modules/FILTERS/M472/PINOUTS/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
      "page": 1
     }
    ]
@@ -71,7 +71,7 @@
    "pol": null,
    "src": {
     "sha": "02cebd6c8f27d99c3aa3e791707b8ec0835bf5384fe91b5ce7376c40a88fe34f",
-    "file": "Modules/FILTERS/M472/1977 - M472 - Equalizer (2).pdf",
+    "file": "Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer (2).pdf",
     "page": 12
    },
    "quote": null,
@@ -80,7 +80,7 @@
      "signal": "SHIELD",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/FILTERS/M472/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
+     "file": "Modules/FILTERS/M472/PINOUTS/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
      "page": 1
     }
    ]
@@ -98,7 +98,7 @@
    "pol": null,
    "src": {
     "sha": "02cebd6c8f27d99c3aa3e791707b8ec0835bf5384fe91b5ce7376c40a88fe34f",
-    "file": "Modules/FILTERS/M472/1977 - M472 - Equalizer (2).pdf",
+    "file": "Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer (2).pdf",
     "page": 12
    },
    "quote": null,
@@ -114,7 +114,7 @@
      "signal": "INPUT",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/FILTERS/M472/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
+     "file": "Modules/FILTERS/M472/PINOUTS/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
      "page": 1
     }
    ]
@@ -132,7 +132,7 @@
    "pol": null,
    "src": {
     "sha": "02cebd6c8f27d99c3aa3e791707b8ec0835bf5384fe91b5ce7376c40a88fe34f",
-    "file": "Modules/FILTERS/M472/1977 - M472 - Equalizer (2).pdf",
+    "file": "Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer (2).pdf",
     "page": 12
    },
    "quote": null,
@@ -141,7 +141,7 @@
      "signal": "NC",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/FILTERS/M472/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
+     "file": "Modules/FILTERS/M472/PINOUTS/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
      "page": 1
     }
    ]
@@ -159,7 +159,7 @@
    "pol": null,
    "src": {
     "sha": "02cebd6c8f27d99c3aa3e791707b8ec0835bf5384fe91b5ce7376c40a88fe34f",
-    "file": "Modules/FILTERS/M472/1977 - M472 - Equalizer (2).pdf",
+    "file": "Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer (2).pdf",
     "page": 12
    },
    "quote": null,
@@ -175,7 +175,7 @@
      "signal": "OUTPUT",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/FILTERS/M472/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
+     "file": "Modules/FILTERS/M472/PINOUTS/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
      "page": 1
     }
    ]
@@ -193,7 +193,7 @@
    "pol": null,
    "src": {
     "sha": "02cebd6c8f27d99c3aa3e791707b8ec0835bf5384fe91b5ce7376c40a88fe34f",
-    "file": "Modules/FILTERS/M472/1977 - M472 - Equalizer (2).pdf",
+    "file": "Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer (2).pdf",
     "page": 12
    },
    "quote": null,
@@ -202,7 +202,7 @@
      "signal": "NC",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/FILTERS/M472/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
+     "file": "Modules/FILTERS/M472/PINOUTS/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
      "page": 1
     }
    ]
@@ -220,7 +220,7 @@
    "pol": null,
    "src": {
     "sha": "02cebd6c8f27d99c3aa3e791707b8ec0835bf5384fe91b5ce7376c40a88fe34f",
-    "file": "Modules/FILTERS/M472/1977 - M472 - Equalizer (2).pdf",
+    "file": "Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer (2).pdf",
     "page": 12
    },
    "quote": null,
@@ -229,7 +229,7 @@
      "signal": "NC",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/FILTERS/M472/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
+     "file": "Modules/FILTERS/M472/PINOUTS/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
      "page": 1
     }
    ]
@@ -247,7 +247,7 @@
    "pol": null,
    "src": {
     "sha": "02cebd6c8f27d99c3aa3e791707b8ec0835bf5384fe91b5ce7376c40a88fe34f",
-    "file": "Modules/FILTERS/M472/1977 - M472 - Equalizer (2).pdf",
+    "file": "Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer (2).pdf",
     "page": 12
    },
    "quote": null,
@@ -256,7 +256,7 @@
      "signal": "NC",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/FILTERS/M472/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
+     "file": "Modules/FILTERS/M472/PINOUTS/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
      "page": 1
     }
    ]
@@ -274,7 +274,7 @@
    "pol": null,
    "src": {
     "sha": "02cebd6c8f27d99c3aa3e791707b8ec0835bf5384fe91b5ce7376c40a88fe34f",
-    "file": "Modules/FILTERS/M472/1977 - M472 - Equalizer (2).pdf",
+    "file": "Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer (2).pdf",
     "page": 12
    },
    "quote": null,
@@ -293,7 +293,7 @@
    "pol": null,
    "src": {
     "sha": "02cebd6c8f27d99c3aa3e791707b8ec0835bf5384fe91b5ce7376c40a88fe34f",
-    "file": "Modules/FILTERS/M472/1977 - M472 - Equalizer (2).pdf",
+    "file": "Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer (2).pdf",
     "page": 12
    },
    "quote": null,
@@ -312,7 +312,7 @@
    "pol": null,
    "src": {
     "sha": "02cebd6c8f27d99c3aa3e791707b8ec0835bf5384fe91b5ce7376c40a88fe34f",
-    "file": "Modules/FILTERS/M472/1977 - M472 - Equalizer (2).pdf",
+    "file": "Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer (2).pdf",
     "page": 12
    },
    "quote": null,
@@ -321,7 +321,7 @@
      "signal": "NC",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/FILTERS/M472/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
+     "file": "Modules/FILTERS/M472/PINOUTS/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
      "page": 1
     }
    ]
@@ -339,7 +339,7 @@
    "pol": null,
    "src": {
     "sha": "02cebd6c8f27d99c3aa3e791707b8ec0835bf5384fe91b5ce7376c40a88fe34f",
-    "file": "Modules/FILTERS/M472/1977 - M472 - Equalizer (2).pdf",
+    "file": "Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer (2).pdf",
     "page": 12
    },
    "quote": null,
@@ -348,7 +348,7 @@
      "signal": "NC",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/FILTERS/M472/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
+     "file": "Modules/FILTERS/M472/PINOUTS/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
      "page": 1
     }
    ]
@@ -366,7 +366,7 @@
    "pol": null,
    "src": {
     "sha": "02cebd6c8f27d99c3aa3e791707b8ec0835bf5384fe91b5ce7376c40a88fe34f",
-    "file": "Modules/FILTERS/M472/1977 - M472 - Equalizer (2).pdf",
+    "file": "Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer (2).pdf",
     "page": 12
    },
    "quote": null,
@@ -375,7 +375,7 @@
      "signal": "NC",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/FILTERS/M472/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
+     "file": "Modules/FILTERS/M472/PINOUTS/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
      "page": 1
     }
    ]
@@ -393,7 +393,7 @@
    "pol": null,
    "src": {
     "sha": "02cebd6c8f27d99c3aa3e791707b8ec0835bf5384fe91b5ce7376c40a88fe34f",
-    "file": "Modules/FILTERS/M472/1977 - M472 - Equalizer (2).pdf",
+    "file": "Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer (2).pdf",
     "page": 12
    },
    "quote": null,
@@ -402,7 +402,7 @@
      "signal": "IC",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/FILTERS/M472/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
+     "file": "Modules/FILTERS/M472/PINOUTS/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
      "page": 1
     }
    ]
@@ -420,7 +420,7 @@
    "pol": null,
    "src": {
     "sha": "02cebd6c8f27d99c3aa3e791707b8ec0835bf5384fe91b5ce7376c40a88fe34f",
-    "file": "Modules/FILTERS/M472/1977 - M472 - Equalizer (2).pdf",
+    "file": "Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer (2).pdf",
     "page": 12
    },
    "quote": null,
@@ -429,7 +429,7 @@
      "signal": "IC",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/FILTERS/M472/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
+     "file": "Modules/FILTERS/M472/PINOUTS/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
      "page": 1
     }
    ]
@@ -447,7 +447,7 @@
    "pol": null,
    "src": {
     "sha": "02cebd6c8f27d99c3aa3e791707b8ec0835bf5384fe91b5ce7376c40a88fe34f",
-    "file": "Modules/FILTERS/M472/1977 - M472 - Equalizer (2).pdf",
+    "file": "Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer (2).pdf",
     "page": 12
    },
    "quote": null,
@@ -456,7 +456,7 @@
      "signal": "NC",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/FILTERS/M472/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
+     "file": "Modules/FILTERS/M472/PINOUTS/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
      "page": 1
     }
    ]
@@ -474,7 +474,7 @@
    "pol": null,
    "src": {
     "sha": "02cebd6c8f27d99c3aa3e791707b8ec0835bf5384fe91b5ce7376c40a88fe34f",
-    "file": "Modules/FILTERS/M472/1977 - M472 - Equalizer (2).pdf",
+    "file": "Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer (2).pdf",
     "page": 12
    },
    "quote": null,
@@ -483,7 +483,7 @@
      "signal": "NC",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/FILTERS/M472/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
+     "file": "Modules/FILTERS/M472/PINOUTS/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
      "page": 1
     }
    ]
@@ -501,7 +501,7 @@
    "pol": null,
    "src": {
     "sha": "02cebd6c8f27d99c3aa3e791707b8ec0835bf5384fe91b5ce7376c40a88fe34f",
-    "file": "Modules/FILTERS/M472/1977 - M472 - Equalizer (2).pdf",
+    "file": "Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer (2).pdf",
     "page": 12
    },
    "quote": null,
@@ -510,7 +510,7 @@
      "signal": "25V",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/FILTERS/M472/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
+     "file": "Modules/FILTERS/M472/PINOUTS/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
      "page": 1
     }
    ]
@@ -528,7 +528,7 @@
    "pol": null,
    "src": {
     "sha": "02cebd6c8f27d99c3aa3e791707b8ec0835bf5384fe91b5ce7376c40a88fe34f",
-    "file": "Modules/FILTERS/M472/1977 - M472 - Equalizer (2).pdf",
+    "file": "Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer (2).pdf",
     "page": 12
    },
    "quote": null,
@@ -537,7 +537,7 @@
      "signal": "25V COM",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/FILTERS/M472/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
+     "file": "Modules/FILTERS/M472/PINOUTS/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
      "page": 1
     }
    ]
@@ -555,7 +555,7 @@
    "pol": null,
    "src": {
     "sha": "02cebd6c8f27d99c3aa3e791707b8ec0835bf5384fe91b5ce7376c40a88fe34f",
-    "file": "Modules/FILTERS/M472/1977 - M472 - Equalizer (2).pdf",
+    "file": "Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer (2).pdf",
     "page": 12
    },
    "quote": null,
@@ -564,7 +564,7 @@
      "signal": "+25V",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/FILTERS/M472/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
+     "file": "Modules/FILTERS/M472/PINOUTS/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
      "page": 1
     }
    ]
@@ -582,7 +582,7 @@
    "pol": null,
    "src": {
     "sha": "02cebd6c8f27d99c3aa3e791707b8ec0835bf5384fe91b5ce7376c40a88fe34f",
-    "file": "Modules/FILTERS/M472/1977 - M472 - Equalizer (2).pdf",
+    "file": "Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer (2).pdf",
     "page": 12
    },
    "quote": null,
@@ -591,7 +591,7 @@
      "signal": "CHASSIS",
      "how": "drawing rows",
      "conf": "medium",
-     "file": "Modules/FILTERS/M472/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
+     "file": "Modules/FILTERS/M472/PINOUTS/1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg",
      "page": 1
     }
    ]

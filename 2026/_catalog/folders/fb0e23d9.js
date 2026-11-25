@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/POWER/M485B/PHOTOS","f":[["2021 - M485B - 1-117 regulator board - photo 1.jpg",""],["2021 - M485B - 1-117 regulator board - photo 2.jpg",""]]};

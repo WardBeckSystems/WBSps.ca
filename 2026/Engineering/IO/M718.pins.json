@@ -25,7 +25,7 @@
    "pol": null,
    "src": {
     "sha": "756347c755f74c0646729efff344d8968f5dc39ca703e7f833f89a210ddf1710",
-    "file": "Modules/COMMUNICATION/M718/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp",
+    "file": "Modules/COMMUNICATION/M718/SCHEMATICS/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "Power Supply The +10 to +25 volts dc applied at pin 1 of the edge connector is supplied to the switching regulator U9 through fuse F1, filtering capacitor C10 and protection circuitry CR23 and R51.",
@@ -44,7 +44,7 @@
    "pol": null,
    "src": {
     "sha": "756347c755f74c0646729efff344d8968f5dc39ca703e7f833f89a210ddf1710",
-    "file": "Modules/COMMUNICATION/M718/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp",
+    "file": "Modules/COMMUNICATION/M718/SCHEMATICS/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "The busy tally output on edge connector pin 33 is an open collector output capable of sinking 30 mA.",
@@ -63,7 +63,7 @@
    "pol": null,
    "src": {
     "sha": "756347c755f74c0646729efff344d8968f5dc39ca703e7f833f89a210ddf1710",
-    "file": "Modules/COMMUNICATION/M718/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp",
+    "file": "Modules/COMMUNICATION/M718/SCHEMATICS/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "The talkback address output is a four bit binary code with the LSB on edge connector pin 54 and the MSB on edge connector pin 48.",
@@ -82,7 +82,7 @@
    "pol": null,
    "src": {
     "sha": "756347c755f74c0646729efff344d8968f5dc39ca703e7f833f89a210ddf1710",
-    "file": "Modules/COMMUNICATION/M718/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp",
+    "file": "Modules/COMMUNICATION/M718/SCHEMATICS/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "The talkback address output is a four bit binary code with the LSB on edge connector pin 54 and the MSB on edge connector pin 48.",

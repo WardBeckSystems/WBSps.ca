@@ -29,7 +29,7 @@ tags: ["product", "metering", "2010s"]
 
 _What it is made of and what it is part of._
 
-<div class="wbs-conn"><div class="wbs-face"><div class="wbs-live" data-m="MP4" data-n="Classic Rackmount Analog Needle Meter" data-cat="METERING"></div><svg class="wbs-panel" data-m="MP4" data-n="Classic Rackmount Analog Needle Meter" data-cat="METERING" role="img" aria-label="MP4 front panel (drawn from the simulator's layout)"></svg></div><div class="wbs-main"><div class="wbs-spice"></div><script type="application/json" class="wbs-spice-data">{"code":"MP4","title":"Classic Rackmount Analog Needle Meter","rto":null,"parts":[],"parents":[{"label":"MP2","href":"MP2.html","note":"on 5 drawings with it"},{"label":"MP1","href":"MP1.html","note":"on 5 drawings with it: PPM/VU Meter"},{"label":"MP3","href":"MP3.html","note":"on 5 drawings with it"}]}</script></div></div><script src="wbs_spice.js"></script>
+<div class="wbs-conn"><div class="wbs-face"><div class="wbs-live" data-m="MP4" data-n="Classic Rackmount Analog Needle Meter" data-cat="METERING"></div><svg class="wbs-panel" data-m="MP4" data-n="Classic Rackmount Analog Needle Meter" data-cat="METERING" role="img" aria-label="MP4 front panel (drawn from the simulator's layout)"></svg></div><div class="wbs-main"><div class="wbs-spice"></div><script type="application/json" class="wbs-spice-data">{"code":"MP4","title":"Classic Rackmount Analog Needle Meter","rto":null,"parts":[],"parents":[{"label":"MP1","href":"MP1.html","note":"on 5 drawings with it: PPM/VU Meter"},{"label":"MP3","href":"MP3.html","note":"on 5 drawings with it"},{"label":"MP2","href":"MP2.html","note":"on 5 drawings with it"}]}</script></div></div><script src="wbs_spice.js"></script>
 
 <a id="software"></a>
 
@@ -94,3 +94,96 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 3. The rear legend states 115 VAC, 1A SB only; there is no 230 V marking. — `#MP (8100) #SERIES/8100 CHASSIS - #ARTWORK #DA #2016/8100MP-REAR-SILK (CURVE).CDR`
 4. The rear silk's guides put the four rack-ear holes at 0.17 in / 16.53 in across and 0.52 in / 2.78 in up on the 16.7 in × 3.27 in plate. — `#MP (8100) #SERIES/8100 CHASSIS - #ARTWORK #DA #2016/8100MP-REAR-SILK (CURVE).CDR`
 5. Both silk files are stored twice, in 8100 CHASSIS - #ARTWORK #DA #2016 and in SILKS. — `#MP (8100) #SERIES/SILKS/8100MP-REAR-SILK (CURVE).CDR`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "MP4",
+ "name": "Classic Rackmount Analog Needle Meter",
+ "category": "METERING",
+ "year": 2014,
+ "documents": [
+  {
+   "file": "Products/METERING/MP4/2014 - MP4 - $_57-1.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MP4/2014 - MP4 - $_57-2.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MP4/2014 - MP4 - $_57-3.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MP4/2014 - MP4 - $_57-4.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MP4/2014 - MP4 - $_57.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MP4/2014 - MP4 - (2P2V) Front.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MP4/2014 - MP4 - (PPM) Front.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MP4/2014 - MP4 - (VU) Front.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MP4/2014 - MP4 - MANUAL (2).docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/METERING/MP4/2014 - MP4 - MANUAL.docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/METERING/MP4/2014 - MP4 - Rear.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/MP4/19xx - MP4 - DOC - MP Series Information Sheet.jpg",
+   "year": null,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  }
+ ]
+}
+```

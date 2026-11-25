@@ -25,7 +25,7 @@
    "pol": null,
    "src": {
     "sha": "dec8071402c09cd1d4ea896e5280f8dc83006c1ff7f236a1bcbddb192356d80d",
-    "file": "Modules/AMPLIFIERS/M808C/1994 - M808C - M808C - 808-02-004 - COMPONENT LAYOUT.wp",
+    "file": "Modules/AMPLIFIERS/M808C/SCHEMATICS/1994 - M808C - M808C - 808-02-004 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "Latching Circuit K1 is energized by momentarily grounding the control terminal at pin 2.",
@@ -44,7 +44,7 @@
    "pol": null,
    "src": {
     "sha": "dec8071402c09cd1d4ea896e5280f8dc83006c1ff7f236a1bcbddb192356d80d",
-    "file": "Modules/AMPLIFIERS/M808C/1994 - M808C - M808C - 808-02-004 - COMPONENT LAYOUT.wp",
+    "file": "Modules/AMPLIFIERS/M808C/SCHEMATICS/1994 - M808C - M808C - 808-02-004 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "If many cards are to be tied together then, the cancel buss terminals (pin 6), must be tied together.",
@@ -63,7 +63,7 @@
    "pol": null,
    "src": {
     "sha": "dec8071402c09cd1d4ea896e5280f8dc83006c1ff7f236a1bcbddb192356d80d",
-    "file": "Modules/AMPLIFIERS/M808C/1994 - M808C - M808C - 808-02-004 - COMPONENT LAYOUT.wp",
+    "file": "Modules/AMPLIFIERS/M808C/SCHEMATICS/1994 - M808C - M808C - 808-02-004 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "Input Input One is applied through edge connector pins 15 and S.",
@@ -82,7 +82,7 @@
    "pol": null,
    "src": {
     "sha": "dec8071402c09cd1d4ea896e5280f8dc83006c1ff7f236a1bcbddb192356d80d",
-    "file": "Modules/AMPLIFIERS/M808C/1994 - M808C - M808C - 808-02-004 - COMPONENT LAYOUT.wp",
+    "file": "Modules/AMPLIFIERS/M808C/SCHEMATICS/1994 - M808C - M808C - 808-02-004 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "Input Input One is applied through edge connector pins 15 and S.",

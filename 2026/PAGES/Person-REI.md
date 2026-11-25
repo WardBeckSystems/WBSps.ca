@@ -22,5 +22,5 @@ tags: ["person"]
 
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
-| — | Summing Amp Schecti | [1975\|8](Year-1975.md) | [REI](Person-REI.md) | [RAL](Person-RAL.md) |  | [file](../Modules/SUMMING/M484/1975%20-%20M484%20-%20484-02-002%20-%20CKDSPA%20SUMMING%20AMP%20SCHE.jpg) |
-| 484-02-002 | Ckdspa Summing Amp Sche | [1975\|8](Year-1975.md) | [REI](Person-REI.md) |  |  | [file](../Modules/SUMMING/M484/1975%20-%20M484%20-%20484-02-002%20-%20CKDSPA%20SUMMING%20AMP%20SCHE.jpg) |
+| — | Summing Amp Schecti | [1975\|8](Year-1975.md) | [REI](Person-REI.md) | [RAL](Person-RAL.md) |  | [file](../Modules/SUMMING/M484/SCHEMATICS/1975%20-%20M484%20-%20484-02-002%20-%20CKDSPA%20SUMMING%20AMP%20SCHE.jpg) |
+| 484-02-002 | Ckdspa Summing Amp Sche | [1975\|8](Year-1975.md) | [REI](Person-REI.md) |  |  | [file](../Modules/SUMMING/M484/SCHEMATICS/1975%20-%20M484%20-%20484-02-002%20-%20CKDSPA%20SUMMING%20AMP%20SCHE.jpg) |

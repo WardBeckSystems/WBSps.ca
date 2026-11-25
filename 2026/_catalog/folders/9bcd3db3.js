@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/MONITORING/M451/PHOTOS","f":[["1977 - M451 - Slate and M452 Oscillator.jpg",""],["1977 - M451 - Slate and M452 Oscillator_small.jpg",""],["1977 - M451 - wbsps - module - m451 slate and m452 oscillator_small.jpg",""]]};

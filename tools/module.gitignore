@@ -1,0 +1,55 @@
+# Same rules as WBSps.ca: no media (PDFs, images, video, audio), no scans, no traced vectors
+*.[pP][dD][fF]
+*.[pP][nN][gG]
+*.[jJ][pP][gG]
+*.[jJ][pP][eE][gG]
+*.[jJ][pP][eE]
+*.[gG][iI][fF]
+*.[bB][mM][pP]
+*.[tT][iI][fF]
+*.[tT][iI][fF][fF]
+*.[wW][eE][bB][pP]
+*.[hH][eE][iI][cC]
+*.[hH][eE][iI][fF]
+*.[sS][vV][gG]
+*.[iI][cC][oO]
+*.[pP][sS][dD]
+*.[aA][iI]
+*.[eE][pP][sS]
+*.[cC][dD][rR]
+*.[rR][aA][wW]
+*.[cC][rR]2
+*.[nN][eE][fF]
+*.[dD][nN][gG]
+*.[mM][pP]4
+*.[mM][oO][vV]
+*.[mM]4[vV]
+*.[aA][vV][iI]
+*.[mM][kK][vV]
+*.[wW][eE][bB][mM]
+*.[wW][mM][vV]
+*.[fF][lL][vV]
+*.[mM][pP][gG]
+*.[mM][pP][eE][gG]
+*.3[gG][pP]
+*.[mM][pP]3
+*.[wW][aA][vV]
+*.[aA][iI][fF]
+*.[aA][iI][fF][fF]
+*.[fF][lL][aA][cC]
+*.[oO][gG][gG]
+*.[mM]4[aA]
+*.[aA][aA][cC]
+*.[wW][mM][aA]
+*.[pP][cC][tT]
+*.[pP][iI][cC][tT]
+*[sS][cC][aA][nN][sS]*/
+[sS][cC][aA][nN]/
+*(traced).dxf
+*([tT][rR][aA][cC][eE][dD]).*
+# …but these are the archive's own drawings, not scans: kept
+!*(EXTRACTED).svg
+!MECHANICAL/* - front panel.svg
+!PINOUTS/*.svg
+!PINOUTS/* - RTO-144 Connections.pdf
+!KICAD/**

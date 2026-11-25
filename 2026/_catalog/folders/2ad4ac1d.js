@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/COMMUNICATION/M771/KICAD","f":[["19xx - 771-01-001 - MATRIX LATCH MODULE FUNCTIONAL - ISS 1.kicad_sch",""],["19xx - 771-02-001 - MATRIX LATCH CARD SCHEMATIC - ISS 2.kicad_sch",""],["M771.kicad_sym",""]]};

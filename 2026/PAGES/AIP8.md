@@ -104,3 +104,31 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 4. The silk has only the control-area legends; the GREEN plate carries WARD-BECK SYSTEMS, AIP8-2A and the brackets over SOURCE / IN / OUT. — `AIP8-2A - #Master #Obsolete /AIP8-2A - #SILK/AIP8-2A-FRONTSILK-ISS3-curve.cdr`
 5. Every issue of the silk is stored twice, as a Backup_of_ copy beside the original. — `AIP8-2A - #Master #Obsolete /AIP8-2A - #SILK/Backup_of_AIP8-2A-FRONTSILK-ISS3-curve.cdr`
 6. No AIP8-2A rear silk exists in the folder, so the rear is the AMS8-M2 silk (inferred). — `AIP8-2A - #Master #Obsolete /AIP8-2A - #SILK/AIP8-2A-FRONTSILK-ISS3-curve.cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "AIP8",
+ "category": "METERING",
+ "year": 2015,
+ "documents": [
+  {
+   "file": "Products/METERING/AIP8/19xx - AIP8 - 2A Manual Updated (2).docx",
+   "year": null,
+   "pages": 1,
+   "holds": [
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/METERING/AIP8/19xx - AIP8 - 2A Manual Updated.docx",
+   "year": null,
+   "pages": 1,
+   "holds": [
+    "sections"
+   ]
+  }
+ ]
+}
+```

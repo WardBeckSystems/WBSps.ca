@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/POWER/M628/MANUALS","f":[["1975 - M628 - PRICE LIST - PRICE LIST.jpg",""],["1977 - M628 - PRICE LIST - 7000 series - price list.jpg",""],["1977 - M628 - PRICE LIST - price list.jpg",""]]};

@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/AMPLIFIERS/M845/MANUALS","f":[["1972 - M845 - DOC - COM COM NOTES COMPONENT CAYOUT SEE FOR.png",""],["1972 - M845 - DOC - WBSps.ca 20210320 - Scans.jpg",""]]};

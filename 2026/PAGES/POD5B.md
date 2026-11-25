@@ -52,3 +52,24 @@ The POD5B is not in the engineering [software listings](Software.md) (1998|31 �
 2. The file name says "FINAL CURVE" where every sister POD sheet says "SILK (CURVE)". — `#POD #SERIES/POD5 - #Master/POD5 - #ARTWORK #DA #2016/POD5-FRONT&REAR(FINAL CURVE).cdr`
 3. POD5SLK.CDR (18 Sep 2008) is the older silk. — `#POD #SERIES/POD5 - #Master/POD5 - #Engineering/POD5 - #ARTWORK/POD5SLK.CDR`
 4. The drill crosses in the jack and pot holes are on the sheet but not printed on the panel in the photo. inferred — `#POD #SERIES/POD5 - #Master/POD5 - #ARTWORK #DA #2016/Pics/POD5 Front.jpg`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD5B",
+ "name": "Dual Headset Amplifier",
+ "category": "PODS",
+ "year": 1995,
+ "documents": [
+  {
+   "file": "Products/PODS/POD5B/1995 - POD5B - POD5B - POD5B - SCHEMATIC (ORCAD).dsn",
+   "year": 1995,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  }
+ ]
+}
+```

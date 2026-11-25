@@ -43,7 +43,7 @@
    "pol": null,
    "src": {
     "sha": "8dd2c73ad78c06a51a8556fdeb04e49db9cd41df6f46fe6dd592c501ae93a4b4",
-    "file": "Modules/INPUT-PRE-AMPS/M490N/1985 - M490N - 490-02-014.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490N/SCHEMATICS/1985 - M490N - 490-02-014.jpg",
     "page": 1
    },
    "quote": "J2-1",
@@ -52,7 +52,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490N/1985 - M490N - Stereo Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M490N/MANUALS/1985 - M490N - Stereo Input Module (2).pdf",
      "page": 32
     }
    ]
@@ -70,7 +70,7 @@
    "pol": null,
    "src": {
     "sha": "8dd2c73ad78c06a51a8556fdeb04e49db9cd41df6f46fe6dd592c501ae93a4b4",
-    "file": "Modules/INPUT-PRE-AMPS/M490N/1985 - M490N - 490-02-014.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490N/SCHEMATICS/1985 - M490N - 490-02-014.jpg",
     "page": 1
    },
    "quote": "J2-8",
@@ -89,7 +89,7 @@
    "pol": null,
    "src": {
     "sha": "6d03beaef17644c664c1540b3a8a0f9347367f4dbadb0e7c85282fe2c4d7a7f6",
-    "file": "Modules/INPUT-PRE-AMPS/M490N/1985 - M490N - 490-02-014 - STEREO INPUT MODULE SCHEMATIC.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490N/SCHEMATICS/1985 - M490N - 490-02-014 - STEREO INPUT MODULE SCHEMATIC.jpg",
     "page": 1
    },
    "quote": "JZ-10",
@@ -108,7 +108,7 @@
    "pol": null,
    "src": {
     "sha": "a6a80e7610a4b6638a07d5ce9dc944ef4c28204ac1622e2f597f690322df5f94",
-    "file": "Modules/INPUT-PRE-AMPS/M490N/1985 - M490N - Stereo Input Module (2).pdf",
+    "file": "Modules/INPUT-PRE-AMPS/M490N/MANUALS/1985 - M490N - Stereo Input Module (2).pdf",
     "page": 32
    },
    "quote": "J3-1",
@@ -136,7 +136,7 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490N/1985 - M490N - 490-04-028.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490N/MECHANICAL/1985 - M490N - 490-04-028.jpg",
      "page": 1
     }
    ]
@@ -211,7 +211,7 @@
    "pol": null,
    "src": {
     "sha": "656a527c9c27a454ba71c89461352fb1dc39b57b09bed339acd9290ed5d7069a",
-    "file": "Modules/INPUT-PRE-AMPS/M490N/1985 - M490N - 490-04-028.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490N/MECHANICAL/1985 - M490N - 490-04-028.jpg",
     "page": 1
    },
    "quote": "P1-22",
@@ -258,14 +258,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490N/1985 - M490N - Stereo Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M490N/MANUALS/1985 - M490N - Stereo Input Module (2).pdf",
      "page": 32
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490N/1985 - M490N - Stereo Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M490N/MANUALS/1985 - M490N - Stereo Input Module (2).pdf",
      "page": 33
     }
    ]
@@ -462,7 +462,7 @@
    "pol": null,
    "src": {
     "sha": "656a527c9c27a454ba71c89461352fb1dc39b57b09bed339acd9290ed5d7069a",
-    "file": "Modules/INPUT-PRE-AMPS/M490N/1985 - M490N - 490-04-028.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490N/MECHANICAL/1985 - M490N - 490-04-028.jpg",
     "page": 1
    },
    "quote": "P2-22",

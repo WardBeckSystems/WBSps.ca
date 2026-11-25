@@ -127,3 +127,54 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 4. Both CorelDRAW sheets carry the panel geometry (holes, cut-outs) as a separate black hairline layer under the GREEN and WHITE ink plates. — `#DMS #SERIES/XXX - DMS1 - #Master #OBSOLETE/DMS1 - #Mechanical #DA #2016/Silks/DMS-1-FRONT-SILK (CURVE).cdr`
 5. The rear silk labels the DEMUX opening only by its neighbours; the DEMUX plate labels come from the photos, not the silk. — `#DMS #SERIES/XXX - DMS1 - #Master #OBSOLETE/DMS1 - #Mechanical #DA #2016/Silks/DMS-1-REAR-SILK (CURVE).cdr`
 6. The front silk meter scale reads −34 … +12, while the functional drawing says −27 … +12. — `#DMS #SERIES/XXX - DMS1 - #Master #OBSOLETE/DMS1 - #Mechanical #DA #2016/Silks/DMS-1-FRONT-SILK (CURVE).cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "DMS1",
+ "name": "Select Series Digital Monitoring System",
+ "category": "METERING",
+ "year": 2015,
+ "documents": [
+  {
+   "file": "Products/METERING/DMS1/2015 - DMS1 - Front.jpg",
+   "year": 2015,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/METERING/DMS1/2015 - DMS1 - Information Sheet.jpg",
+   "year": 2015,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/METERING/DMS1/2015 - DMS1 - Manual (2).docx",
+   "year": 2015,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/METERING/DMS1/2015 - DMS1 - Manual.docx",
+   "year": 2015,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/METERING/DMS1/2015 - DMS1 - Rear.jpg",
+   "year": 2015,
+   "pages": 1,
+   "holds": []
+  }
+ ]
+}
+```

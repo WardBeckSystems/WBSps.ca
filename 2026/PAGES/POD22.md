@@ -74,3 +74,22 @@ _No change note in the listing for: POD22V102._
 3. POD22-Silk-iss2.cdr (2006) already carries the 52 … +20 scale of the later POD22A. — `#POD #SERIES/XXX - POD22 - #Master # Obsolte/POD22 - #Engineering/SILK/POD22-Silk-iss2.cdr`
 4. The 2002 mechanical drawings call for silkscreen “#POD22A-FRONT&REAR-SILK”, a name from the later product. — `#POD #SERIES/POD22A - #Master/POD22A - #ARTWORK #DA #2016/POD22A-FRONT&REAR-SILK (CURVE).cdr`
 5. MANUAL/Backup_of_Pod22manu.pdf is a “POD 9 VIDEO SWITCHER” page. — `#POD #SERIES/XXX - POD22 - #Master # Obsolte/POD22 - #Engineering/MANUAL/Backup_of_Pod22manu.pdf`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD22",
+ "name": "Stereo Loudness Meter",
+ "category": "PODS",
+ "year": 2014,
+ "documents": [
+  {
+   "file": "Products/PODS/POD22/2014 - POD22 - pod22_front.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  }
+ ]
+}
+```

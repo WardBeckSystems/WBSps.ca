@@ -15,6 +15,9 @@ and 2026/search.html. Reads only 2026/; never the timeline database.
 """
 import hashlib, html, json, multiprocessing, os, re, subprocess, sys
 
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', '..', 'tools'))
+from module_layout import module_dir_of, note_for   # module files: note in <M>/OCR/, files in kind folders; elsewhere beside the file
+
 ROOT = os.path.abspath(sys.argv[1] if len(sys.argv) > 1 else '.')
 THUMBS = '--no-thumbs' not in sys.argv
 JOBS = int(sys.argv[sys.argv.index('--jobs') + 1]) if '--jobs' in sys.argv else 2
@@ -34,9 +37,11 @@ shard_of = lambda rel: int(hashlib.sha1(rel.encode()).hexdigest()[:4], 16) % TEX
 MODEL = re.compile(r'^(M\d{2,4}[A-Z]{0,3}|[A-Z]{1,4}\d{2,5}[A-Z]{0,3})$')
 
 
-def is_sidecar(name, names):
+def is_sidecar(name, names, folder=''):
     if name.endswith(' (traced).dxf'):   # the drawing tracer's CAD file beside its drawing
         return True
+    if name.endswith('.md') and os.path.basename(folder) == 'OCR' and module_dir_of(os.path.join(folder, name)) == os.path.dirname(folder).replace(os.sep, '/'):
+        return True   # a module's OCR/ folder: the notes of the files in its kind folders
     m = re.match(r'^(.+)\.(md|[a-z]+\.json)$', name)
     return bool(m and m.group(1) in names)
 
@@ -124,14 +129,15 @@ def main():
             continue
         names = set(fs)
         for f in sorted(fs):
-            if is_sidecar(f, names) or f.startswith('.') or f in ('index.html', 'search.html', 'status.html', 'viewer.html'):
+            if is_sidecar(f, names, r) or f.startswith('.') or f in ('index.html', 'search.html', 'status.html', 'viewer.html'):
                 continue
             p = os.path.join(r, f)
             rel = os.path.relpath(p, ROOT).replace(os.sep, '/')
             ext = os.path.splitext(f)[1].lower()
             kind = KIND.get(ext, 'other')
             section, category, model = classify(rel)
-            text, meta = note_text(p + '.md') if os.path.exists(p + '.md') else ('', {})
+            note = note_for(p)   # beside it, or <M>/OCR/<name>.md in a module's kind folder
+            text, meta = note_text(note) if os.path.exists(note) else ('', {})
             if not text and ext in READ_AS_TEXT:
                 with open(p, errors='replace') as fh:
                     text = re.sub(r'\s+', ' ', fh.read(TEXT_CAP * 2))[:TEXT_CAP]
@@ -143,11 +149,11 @@ def main():
                 year = m.group(1) if m else ''
             rec = {'p': rel, 'n': f, 'k': kind, 's': os.path.getsize(p), 'sec': section, 'cat': category or meta.get('Category', ''),
                    'm': model or meta.get('Module', ''), 'y': int(year) if year.isdigit() else None,
-                   'o': meta.get('Original file', '').strip('`'), 'note': rel + '.md' if os.path.exists(p + '.md') else '',
+                   'o': meta.get('Original file', '').strip('`'), 'note': os.path.relpath(note, ROOT).replace(os.sep, '/') if os.path.exists(note) else '',
                    't': '', 'x': text, 'v': previews.get(rel, '')}
             rec['mn'] = model_name.get(rec['m'], '')
             # the model's typed page: index.html in the folder holding this file, else PAGES/<code>.html
-            folder_page = os.path.join(r, 'index.html')
+            folder_page = os.path.join(module_dir_of(p) or r, 'index.html')   # a kind folder's file: the module's page
             rec['mp'] = (os.path.relpath(folder_page, ROOT).replace(os.sep, '/') if rec['m'] and os.path.exists(folder_page)
                          else f"PAGES/{rec['m']}.html" if rec['m'] and os.path.exists(os.path.join(ROOT, 'PAGES', rec['m'] + '.html')) else '')
             view = rec['v']

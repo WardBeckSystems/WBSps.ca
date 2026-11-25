@@ -107,7 +107,7 @@
    "pol": null,
    "src": {
     "sha": "a7ef5b31de3242963f6d8b6a4b0ec2b944da7d5a03028136ed0ea3826d3d36fb",
-    "file": "Modules/INPUT-PRE-AMPS/M490M/1988 - M490M - 490-04-026 - SWI DSI.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490M/MECHANICAL/1988 - M490M - 490-04-026 - SWI DSI.jpg",
     "page": 1
    },
    "quote": "P1-22",
@@ -154,14 +154,14 @@
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490M/1988 - M490M - 490-04-026 - SWI DSI.jpg",
+     "file": "Modules/INPUT-PRE-AMPS/M490M/MECHANICAL/1988 - M490M - 490-04-026 - SWI DSI.jpg",
      "page": 1
     },
     {
      "signal": "",
      "how": "schematic",
      "conf": "low",
-     "file": "Modules/INPUT-PRE-AMPS/M490M/1988 - M490M - Stereo Input Module (2).pdf",
+     "file": "Modules/INPUT-PRE-AMPS/M490M/MANUALS/1988 - M490M - Stereo Input Module (2).pdf",
      "page": 31
     }
    ]
@@ -179,7 +179,7 @@
    "pol": null,
    "src": {
     "sha": "813af599e6ad3146561db94e2bf7d9aafc9b957c443e216b4d1c47c53a52ac17",
-    "file": "Modules/INPUT-PRE-AMPS/M490M/1988 - M490M - Stereo Input Module (2).pdf",
+    "file": "Modules/INPUT-PRE-AMPS/M490M/MANUALS/1988 - M490M - Stereo Input Module (2).pdf",
     "page": 31
    },
    "quote": "P2 - 2 2",
@@ -377,7 +377,7 @@
    "pol": null,
    "src": {
     "sha": "a7ef5b31de3242963f6d8b6a4b0ec2b944da7d5a03028136ed0ea3826d3d36fb",
-    "file": "Modules/INPUT-PRE-AMPS/M490M/1988 - M490M - 490-04-026 - SWI DSI.jpg",
+    "file": "Modules/INPUT-PRE-AMPS/M490M/MECHANICAL/1988 - M490M - 490-04-026 - SWI DSI.jpg",
     "page": 1
    },
    "quote": "P2-22",

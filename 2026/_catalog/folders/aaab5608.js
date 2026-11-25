@@ -1,0 +1,1 @@
+window.WBS_FOLDER={"d":"Modules/UNSORTED/M568/MECHANICAL","f":[["1987 - 568-03-031 - EXTRUSION - DRN DS - ISS 2 (EXTRACTED).svg",""],["1987 - 568-03-031 - EXTRUSION - DRN DS - ISS 2 (traced).dxf",""],["1987 - 568-03-031 - EXTRUSION - DRN DS - ISS 2.jpg",""]]};

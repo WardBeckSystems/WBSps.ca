@@ -21,6 +21,6 @@
 - **Kind:** drawing
 - **Device:** M702 — wiki: [M702](../../2026/PAGES/M702.md)
 - **Original file:** `WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (15).jpg`
-- **Copy in 2026:** [`2026/Modules/COMMUNICATION/M702/19xx - 702-03-003 - M702D HEATSINK - DRN WS - ISS 1.jpg`](../../2026/Modules/COMMUNICATION/M702/19xx%20-%20702-03-003%20-%20M702D%20HEATSINK%20-%20DRN%20WS%20-%20ISS%201.jpg)
+- **Copy in 2026:** [`2026/Modules/COMMUNICATION/M702/MECHANICAL/19xx - 702-03-003 - M702D HEATSINK - DRN WS - ISS 1.jpg`](../../2026/Modules/COMMUNICATION/M702/MECHANICAL/19xx%20-%20702-03-003%20-%20M702D%20HEATSINK%20-%20DRN%20WS%20-%20ISS%201.jpg)
 - **SHA-256:** `59d609cabf9317d927d2fed6a264bfb715ab0aec69c6172ca3bd5d07adc71a9d`
 - **Read by:** title-block crop read by eye

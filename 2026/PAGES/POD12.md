@@ -50,3 +50,34 @@ The POD12 is not in the engineering [software listings](Software.md) (1998|31 �
 4. The 75/110 rear silk exists in three different saves: Jan 2014, May 2015 and Jun 2016. — `#POD #SERIES/POD12A - #Master/POD12A - #ARTWORK #DA #2016/POD12A-75-110-REAR SILK(FINAL CURVE).cdr`
 5. The rear's terminal block is legended “BALANCED IOS” and the mains line ends with a stray comma: “100-230 VAC, 50-60 Hz,”. — `#POD #SERIES/POD12A - #Master/POD12A - #ARTWORK #DA #2016/POD12A-FRONT&REAR-SILK (CURVE).cdr`
 6. The only original POD12 silk is POD12SLK.CDR (Mar 1998) in Obsolete; everything else in POD12 - #SILK is POD12A art. — `#POD #SERIES/XXX - POD12 - #Master #OBSOLETE/POD12 - #Engineering/POD12 - #SILK/Obsolete/POD12SLK.CDR`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD12",
+ "name": "Digital Audio Distribution Amplifier",
+ "category": "PODS",
+ "year": 2013,
+ "documents": [
+  {
+   "file": "Products/PODS/POD12/2014 - POD12 - Front.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD12/2014 - POD12 - Rear 110.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD12/2014 - POD12 - Rear 75.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  }
+ ]
+}
+```

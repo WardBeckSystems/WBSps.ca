@@ -103,3 +103,60 @@ _Each manual split into its sections. Text that is the same in many Ward-Beck ma
 2. The bar-graph scale numbers on the white plate are set rotated 90°. — `#POD #SERIES/POD11A - #Master/POD11A - #ARTWORK #DA #2016/POD11A-FRONT&REAR-SILK(CURVE).cdr`
 3. The rear power legend reads “90-230 VAC, 50-60 Hz, ½ A.S.B. DISCONNECT BEFORE SERVICING”, printed above the inlet rather than beside a warning triangle. — `#POD #SERIES/POD11A - #Master/POD11A - #ARTWORK #DA #2016/POD11A-FRONT&REAR-SILK(CURVE).cdr`
 4. An older silk, POD11A-Silk-iss2.cdr, dates from 2006|39 and is stored twice (here and in the obsolete POD11 folder). — `#POD #SERIES/POD11A - #Master/POD11A - #ARTWORK #DA #2016/POD11A-Silk-iss2.cdr`
+
+## Contents (JSON)
+
+```json
+{
+ "device": "POD11A",
+ "name": "Digital Stereo Loudness Meter",
+ "category": "PODS",
+ "year": 2014,
+ "documents": [
+  {
+   "file": "Products/PODS/POD11A/2014 - POD11A - Front.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD11A/2014 - POD11A - Information Sheet.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD11A/2014 - POD11A - MANUAL (2).docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD11A/2014 - POD11A - MANUAL.docx",
+   "year": 2014,
+   "pages": 1,
+   "holds": [
+    "dates",
+    "sections"
+   ]
+  },
+  {
+   "file": "Products/PODS/POD11A/2014 - POD11A - Rear 110.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  },
+  {
+   "file": "Products/PODS/POD11A/2014 - POD11A - Rear 75.jpg",
+   "year": 2014,
+   "pages": 1,
+   "holds": []
+  }
+ ]
+}
+```

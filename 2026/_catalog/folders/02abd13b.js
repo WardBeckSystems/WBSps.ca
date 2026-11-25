@@ -1,1 +1,1 @@
-window.WBS_FOLDER={"d":"Products/RAVENNA AES67/MLC8-N","f":[["2018 - MLC8-N - Information Sheet.jpg",""],["2018 - MLC8-N - Three Quarter.jpg",""]]};
+window.WBS_FOLDER={"d":"Products/RAVENNA AES67/MLC8-N","f":[["2018 - MLC8-N - Information Sheet.jpg","515a852902b5f73eb941"],["2018 - MLC8-N - Three Quarter.jpg","cbcb888b27277a0d9de6"]]};
