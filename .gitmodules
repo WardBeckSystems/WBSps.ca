@@ -953,3 +953,18 @@
 [submodule "2026/Modules/UNSORTED/M778"]
 	path = 2026/Modules/UNSORTED/M778
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M778.git
+[submodule "2026/Modules/UNSORTED/M780"]
+	path = 2026/Modules/UNSORTED/M780
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M780.git
+[submodule "2026/Modules/UNSORTED/M7810"]
+	path = 2026/Modules/UNSORTED/M7810
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M7810.git
+[submodule "2026/Modules/UNSORTED/M7820"]
+	path = 2026/Modules/UNSORTED/M7820
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M7820.git
+[submodule "2026/Modules/UNSORTED/M7830"]
+	path = 2026/Modules/UNSORTED/M7830
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M7830.git
+[submodule "2026/Modules/UNSORTED/M801"]
+	path = 2026/Modules/UNSORTED/M801
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M801.git
