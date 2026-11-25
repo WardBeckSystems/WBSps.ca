@@ -3,7 +3,7 @@
 	url = https://github.com/WardBeckSystems/XTM.WBSps.ca.git
 [submodule "Premote.WBSps.ca"]
 	path = 2026/Premo
-	url = https://github.com/LikeDotAudio/Premote.WBSps.ca.git
+	url = https://github.com/WardBeckSystems/Premote.WBSps.ca.git
 [submodule "Ward-Beck-Audio-Tap"]
 	path = Ward-Beck-Audio-Tap
 	url = https://github.com/WardBeckSystems/Ward-Beck-Audio-Tap.git
@@ -44,3 +44,93 @@
 [submodule "2026/Modules/ROUTING/M126"]
 	path = 2026/Modules/ROUTING/M126
 	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M126.git
+[submodule "2026/Modules/AMPLIFIERS/M481B"]
+	path = 2026/Modules/AMPLIFIERS/M481B
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M481B.git
+[submodule "2026/Modules/AMPLIFIERS/M600"]
+	path = 2026/Modules/AMPLIFIERS/M600
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M600.git
+[submodule "2026/Modules/AMPLIFIERS/M604"]
+	path = 2026/Modules/AMPLIFIERS/M604
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M604.git
+[submodule "2026/Modules/AMPLIFIERS/M605"]
+	path = 2026/Modules/AMPLIFIERS/M605
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M605.git
+[submodule "2026/Modules/AMPLIFIERS/M605C"]
+	path = 2026/Modules/AMPLIFIERS/M605C
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M605C.git
+[submodule "2026/Modules/AMPLIFIERS/M606"]
+	path = 2026/Modules/AMPLIFIERS/M606
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M606.git
+[submodule "2026/Modules/AMPLIFIERS/M608"]
+	path = 2026/Modules/AMPLIFIERS/M608
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M608.git
+[submodule "2026/Modules/AMPLIFIERS/M609"]
+	path = 2026/Modules/AMPLIFIERS/M609
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M609.git
+[submodule "2026/Modules/AMPLIFIERS/M610"]
+	path = 2026/Modules/AMPLIFIERS/M610
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M610.git
+[submodule "2026/Modules/AMPLIFIERS/M612"]
+	path = 2026/Modules/AMPLIFIERS/M612
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M612.git
+[submodule "2026/Modules/AMPLIFIERS/M612A"]
+	path = 2026/Modules/AMPLIFIERS/M612A
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M612A.git
+[submodule "2026/Modules/AMPLIFIERS/M621"]
+	path = 2026/Modules/AMPLIFIERS/M621
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M621.git
+[submodule "2026/Modules/AMPLIFIERS/M626"]
+	path = 2026/Modules/AMPLIFIERS/M626
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M626.git
+[submodule "2026/Modules/AMPLIFIERS/M629"]
+	path = 2026/Modules/AMPLIFIERS/M629
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M629.git
+[submodule "2026/Modules/AMPLIFIERS/M666"]
+	path = 2026/Modules/AMPLIFIERS/M666
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M666.git
+[submodule "2026/Modules/AMPLIFIERS/M802C"]
+	path = 2026/Modules/AMPLIFIERS/M802C
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M802C.git
+[submodule "2026/Modules/AMPLIFIERS/M805"]
+	path = 2026/Modules/AMPLIFIERS/M805
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M805.git
+[submodule "2026/Modules/AMPLIFIERS/M806A"]
+	path = 2026/Modules/AMPLIFIERS/M806A
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M806A.git
+[submodule "2026/Modules/AMPLIFIERS/M807"]
+	path = 2026/Modules/AMPLIFIERS/M807
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M807.git
+[submodule "2026/Modules/AMPLIFIERS/M808"]
+	path = 2026/Modules/AMPLIFIERS/M808
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M808.git
+[submodule "2026/Modules/AMPLIFIERS/M808A"]
+	path = 2026/Modules/AMPLIFIERS/M808A
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M808A.git
+[submodule "2026/Modules/AMPLIFIERS/M808B"]
+	path = 2026/Modules/AMPLIFIERS/M808B
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M808B.git
+[submodule "2026/Modules/AMPLIFIERS/M808C"]
+	path = 2026/Modules/AMPLIFIERS/M808C
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M808C.git
+[submodule "2026/Modules/AMPLIFIERS/M809C"]
+	path = 2026/Modules/AMPLIFIERS/M809C
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M809C.git
+[submodule "2026/Modules/AMPLIFIERS/M813"]
+	path = 2026/Modules/AMPLIFIERS/M813
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M813.git
+[submodule "2026/Modules/AMPLIFIERS/M815"]
+	path = 2026/Modules/AMPLIFIERS/M815
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M815.git
+[submodule "2026/Modules/AMPLIFIERS/M816"]
+	path = 2026/Modules/AMPLIFIERS/M816
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M816.git
+[submodule "2026/Modules/AMPLIFIERS/M8200"]
+	path = 2026/Modules/AMPLIFIERS/M8200
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M8200.git
+[submodule "2026/Modules/AMPLIFIERS/M8201"]
+	path = 2026/Modules/AMPLIFIERS/M8201
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M8201.git
+[submodule "2026/Modules/AMPLIFIERS/M8202"]
+	path = 2026/Modules/AMPLIFIERS/M8202
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M8202.git
