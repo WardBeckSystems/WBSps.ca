@@ -8,3 +8,39 @@
 	path = Ward-Beck-Audio-Tap
 	url = https://github.com/WardBeckSystems/Ward-Beck-Audio-Tap.git
 	branch = main
+[submodule "2026/Modules/LOGIC/M201"]
+	path = 2026/Modules/LOGIC/M201
+	url = https://github.com/WardBeckSystems/MODULES.LOGIC.M201.git
+[submodule "2026/Modules/AMPLIFIERS/M124"]
+	path = 2026/Modules/AMPLIFIERS/M124
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M124.git
+[submodule "2026/Modules/AMPLIFIERS/M166A"]
+	path = 2026/Modules/AMPLIFIERS/M166A
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M166A.git
+[submodule "2026/Modules/AMPLIFIERS/M411"]
+	path = 2026/Modules/AMPLIFIERS/M411
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M411.git
+[submodule "2026/Modules/AMPLIFIERS/M450"]
+	path = 2026/Modules/AMPLIFIERS/M450
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M450.git
+[submodule "2026/Modules/AMPLIFIERS/M450A"]
+	path = 2026/Modules/AMPLIFIERS/M450A
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M450A.git
+[submodule "2026/Modules/AMPLIFIERS/M450B"]
+	path = 2026/Modules/AMPLIFIERS/M450B
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M450B.git
+[submodule "2026/Modules/AMPLIFIERS/M453"]
+	path = 2026/Modules/AMPLIFIERS/M453
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M453.git
+[submodule "2026/Modules/AMPLIFIERS/M453A"]
+	path = 2026/Modules/AMPLIFIERS/M453A
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M453A.git
+[submodule "2026/Modules/AMPLIFIERS/M481"]
+	path = 2026/Modules/AMPLIFIERS/M481
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M481.git
+[submodule "2026/Modules/AMPLIFIERS/M605A"]
+	path = 2026/Modules/AMPLIFIERS/M605A
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M605A.git
+[submodule "2026/Modules/ROUTING/M126"]
+	path = 2026/Modules/ROUTING/M126
+	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M126.git
