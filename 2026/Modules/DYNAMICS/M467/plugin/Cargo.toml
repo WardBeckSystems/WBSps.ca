@@ -1,0 +1,39 @@
+# Copyright (c) 2026 Ward-Beck Systems (Ward-Beck.com - Ward-Beck.ca). All rights reserved.
+# M467 Noise Gate (1976) as a plugin. One crate, two uses:
+#   - the full VST3 / CLAP plugin with the M466 front panel (default feature "vst"):
+#       cargo xtask bundle wbs-m467 --release
+#   - the DSP alone for the Ward-Beck Audio Tap's inserts:
+#       wbs-m467 = { ..., default-features = false }
+[package]
+name = "wbs-m467"
+version = "0.1.0"
+edition = "2021"
+license = "LicenseRef-Ward-Beck"
+description = "Ward-Beck M467 Noise Gate: gate with attenuation, release and the edgewise VU"
+publish = false
+
+[workspace]
+members = ["xtask"]
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[features]
+default = ["vst"]
+vst = ["dep:nih_plug", "dep:wbs-panel"]
+# A window with the panel, no DAW needed (audio through JACK, or --backend dummy):
+#   cargo run --release --features standalone --bin wbs-m467-standalone
+standalone = ["vst", "nih_plug/standalone"]
+
+[[bin]]
+name = "wbs-m467-standalone"
+path = "src/bin/standalone.rs"
+required-features = ["standalone"]
+
+[dependencies]
+nih_plug = { git = "https://github.com/robbert-vdh/nih-plug.git", optional = true }
+wbs-panel = { git = "https://github.com/WardBeckSystems/Ward-Beck-Plugin-Core", optional = true }
+
+[profile.release]
+lto = "thin"
+strip = "symbols"

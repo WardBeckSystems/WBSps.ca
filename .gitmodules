@@ -167,3 +167,30 @@
 [submodule "2026/Modules/COMMUNICATION/M7012C"]
 	path = 2026/Modules/COMMUNICATION/M7012C
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M7012C.git
+[submodule "2026/Modules/COMMUNICATION/M701D"]
+	path = 2026/Modules/COMMUNICATION/M701D
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M701D.git
+[submodule "2026/Modules/COMMUNICATION/M702"]
+	path = 2026/Modules/COMMUNICATION/M702
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M702.git
+[submodule "2026/Modules/COMMUNICATION/M702D"]
+	path = 2026/Modules/COMMUNICATION/M702D
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M702D.git
+[submodule "2026/Modules/COMMUNICATION/M703"]
+	path = 2026/Modules/COMMUNICATION/M703
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M703.git
+[submodule "2026/Modules/COMMUNICATION/M703B"]
+	path = 2026/Modules/COMMUNICATION/M703B
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M703B.git
+[submodule "2026/Modules/COMMUNICATION/M703D"]
+	path = 2026/Modules/COMMUNICATION/M703D
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M703D.git
+[submodule "2026/Modules/COMMUNICATION/M712"]
+	path = 2026/Modules/COMMUNICATION/M712
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M712.git
+[submodule "2026/Modules/COMMUNICATION/M712B"]
+	path = 2026/Modules/COMMUNICATION/M712B
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M712B.git
+[submodule "2026/Modules/COMMUNICATION/M718"]
+	path = 2026/Modules/COMMUNICATION/M718
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M718.git
