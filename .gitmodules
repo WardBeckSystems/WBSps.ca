@@ -947,3 +947,9 @@
 [submodule "2026/Modules/UNSORTED/M773"]
 	path = 2026/Modules/UNSORTED/M773
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M773.git
+[submodule "2026/Modules/UNSORTED/M777"]
+	path = 2026/Modules/UNSORTED/M777
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M777.git
+[submodule "2026/Modules/UNSORTED/M778"]
+	path = 2026/Modules/UNSORTED/M778
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M778.git
