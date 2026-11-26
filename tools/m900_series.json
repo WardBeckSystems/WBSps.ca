@@ -646,7 +646,7 @@
   },
   "M909": {
    "module_folder": "Modules/UNSORTED/M909",
-   "function": "meter / mix-minus module (two 6-key banks: meter and mix-minus select)",
+   "function": "meter / mix-minus module (two 6-key selector banks; M909 functional: meters, mix-minus 1-3)",
    "consoles": [
     "940332 Rogers CFTR On Air - Renaissance MKI",
     "940333 Rogers CFTR Booth - Renaissance MKI",
