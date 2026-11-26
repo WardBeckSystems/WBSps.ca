@@ -106,3 +106,6 @@ site/
 /2026/extractors/rust_analyzer/
 .vscode/
 
+
+# local clones of every WardBeckSystems repo
+/WBSps.ca/Github.WardBeckSystems/
