@@ -1,6 +1,6 @@
 # WBSps.ca local deployment
 
-> **The archive online: https://likedotaudio.github.io/WBSps.ca/** (repository: https://github.com/LikeDotAudio/WBSps.ca)
+> **The archive online: https://wardbecksystems.github.io/WBSps.ca/** (repository: https://github.com/WardBeckSystems/WBSps.ca)
 
 The whole archive site served from this machine, with every image, scan, PDF and drawing included. The public GitHub Pages site (`../site`, built by `2026/timelines/make_site.py`) has only the pages and their meta links.
 

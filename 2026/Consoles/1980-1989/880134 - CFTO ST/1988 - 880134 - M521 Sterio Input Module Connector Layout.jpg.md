@@ -11,6 +11,18 @@ Wiki page: [Job-880134](../../../PAGES/Job-880134.md)
 - **Size:** 4,130,806 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** layout, size B (assumed) 305 × 432 mm, 1413 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 14–301 mm across, 42–424 mm up
+- **Outlines:** line 288 rings, 5,187 straight (8,170 mm) / 856 curved (1,140 mm); text 501 rings, 4,070 straight (4,788 mm) / 1,117 curved (1,583 mm); tb 8 rings, 77 straight (85.4 mm) / 19 curved (25.9 mm)
+- **Closed boxes:** 38; named: iJ; 10; 11; 15; 16; 17; 18; 19; 20; 21
+- **Dots (junctions):** 1
+- **Words (OCR):** 86 in 69 lines: Nov 02 04 · 12.13p · WARD BECK #fxons P: 1 · 416 · 335 5202 · LTD · Rev € Rse Ima6l · CONNECTOR LAYouT · fotTom UIeW · M521 STEREO iNPUt MODULE · P2 · INSERT
+- **Title block:** (88, 411)–(133, 432) mm
+
+Every curve, box, word and wire group: [1988 - 880134 - M521 Sterio Input Module Connector Layout (traced).json](1988%20-%20880134%20-%20M521%20Sterio%20Input%20Module%20Connector%20Layout%20%28traced%29.json) (the CAD file: `1988 - 880134 - M521 Sterio Input Module Connector Layout (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 3 words corrected)

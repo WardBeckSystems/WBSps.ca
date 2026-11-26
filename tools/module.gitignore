@@ -53,3 +53,4 @@
 !PINOUTS/*.svg
 !PINOUTS/* - RTO-144 Connections.pdf
 !KICAD/**
+!SOFTWARE/**/*.svg

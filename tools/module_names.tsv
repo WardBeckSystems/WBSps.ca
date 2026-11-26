@@ -1,0 +1,357 @@
+# module	function (what the repo, README and description are named after; from manuals, title blocks, promo/price lists)
+M020	Stereo Input Module
+M101	Modular Frame Hardware
+M107	Module Base
+M110	Universal Amplifier
+M117	Regulator Board
+M121	Remote Gain Amplifier
+M122	Amplifier Assembly
+M124	Line Amplifier
+M126	Transformer Card
+M128	Equalizer Amplifier Board
+M129	Equalizer Board
+M136	Regulator Card
+M144	Equalizer Board
+M146	Compressor Board
+M147	Compressor Board
+M150	Monitor Module Board
+M152	Amplifier Board
+M158	Amplifier Board
+M166	Active Summing Module
+M166A	Active Summing Module
+M168	Talkback Amplifier Board
+M171	10 Watt Amplifier Board
+M173	20 Watt Monitor Amplifier Board
+M174	Intercom Crosspoints
+M175	Slot Card
+M178	Amplifier Board
+M181	Pre-Amplifier Board
+M182	Booster Amplifier Board
+M201	Relay Module
+M202	Logic Latch Module
+M203	Turret Interface
+M207	Phantom Power Card
+M208	Attenuator Block
+M400	Test Jig
+M401	Noise Suppressor
+M402	Equalizer
+M402A	Equalizer
+M402B	Effects Equalizer
+M403	Dubber Amplifier
+M404	Equalizer
+M404A	Hi-Lo Pass Filter
+M405	Extended Range VU Meter
+M405C	Rack Mounted Extended Range VU Meter
+M405D	Extended Range VU Meter
+M405F	Test Meter
+M405M	Extended Range VU Monitoring System
+M405P	Extended Range VU Meter
+M405PSS	Extended Range VU Meter
+M406	Compressor Limiter
+M406A	Compressor
+M406B	Compressor Limiter
+M406C	Compressor
+M406M	Compressor
+M407	Turret
+M411	Transcription Preamplifier
+M412	Selectable Frequency Oscillator
+M413	Talkback Amplifier
+M414	6 Watt Utility Amplifier
+M415	Mic Line Amplifier with Compression
+M416	Cue Amplifier
+M420	Reverb Return
+M421	
+M422	
+M424	Jackfield
+M424S	Patch Bay
+M433	Peak Program Meter
+M435	VU Meter
+M436L	VU Meter
+M441	Input Module
+M441F	Input Module
+M441M	Channel Amplifier
+M445	Extended Range Meter
+M448	Power Supply
+M450	Program Summing Amplifier
+M450A	Program Summing Amplifier
+M450B	Program Summing Amplifier
+M451	Talkback Module
+M452	Oscillator Module
+M453	Cue Amplifier
+M453A	Cue Amplifier
+M454	Slate Assign Module
+M455	Auxiliary Module
+M456	Dual Mixdown Module
+M456B	Dual Mixdown Module
+M457	Pre-Mixer Module
+M457A	Pre-Mixer Master Module
+M458	Quad Peak Overload Indicator
+M459	Effects Switcher Module
+M460	Input Module
+M460A	Input Module
+M460B	Input Module
+M460C	Input Module
+M460D	Input Module
+M460E	Input Module
+M460F	Input Module
+M460K	Input Module
+M460L	Input Module
+M460LA	Input Module
+M460M	Input Module
+M460T	Input Module
+M461	Input Module
+M461AB	Input Module
+M461M	Input Module
+M462	Equalizer Module
+M462A	Equalizer Module
+M462B	Equalizer Module
+M462C	Stereo Equalizer Module
+M463	Submaster Module
+M463A	Submaster Module
+M463AB	Submaster Module
+M463AC	Master Module
+M463B	Submaster Module
+M463J	Submaster Module
+M463K	Submaster Module
+M463L	Submaster Module
+M463LA	Submaster Module
+M464	High Pass Low Pass Filter
+M465	Reverb Module
+M465A	Reverb Module
+M465B	Reverb Module
+M466	Limiter Compressor Module
+M466C	Limiter Compressor Module
+M466M	Compressor Meter Module
+M467	Noise Gate and Meter Module
+M468	8 Way Relay Switcher
+M468A	Switch Module
+M468AN	Routing Switcher Module
+M468M	Assign Module
+M469	Assignment Module
+M470	Input Module
+M470A	Input Module
+M470C	Input Module
+M470D	Input Module
+M470E	Input Module
+M471	Stereo Input Module
+M471A	Stereo Input Module
+M471C	Stereo Input Module
+M472	Equalizer Module
+M472A	Stereo Equalizer Module
+M473	Submaster Module
+M473A	Submaster Module
+M473B	Stereo Submaster Module
+M475	Stereo Monitor Module
+M475A	Stereo Monitor Module
+M477	Master Module
+M478	Assign Module
+M478H	Slate Assign Module
+M479	Dual Auxiliary Module
+M480	Input Module
+M480A	Input Module
+M480B	Input Module
+M480C	Input Module
+M481	Oscillator Cue Amplifier
+M481B	Cue Oscillator Re-entry Module
+M482B	Monitor Module
+M483	Monitor Module
+M484	Dual Summing Amplifier
+M485	25V Power Supply
+M485B	25V Power Supply
+M487	Dual Master Module
+M490	Stereo Input Module
+M490A	Mic Input Module
+M490B	Input Module
+M490C	Line Input Module
+M490D	Line Input Module
+M490E	Stereo Input Module
+M490F	Stereo Input Module
+M490G	Mic Input Module
+M490H	Line Input Module
+M490J	Mic Input Module
+M490K	Line Input Module
+M490L	Stereo Input Module
+M490M	Stereo Input Module
+M490N	Stereo Input Module
+M490T	Input Module
+M494	Remote Line Talkback Cue Module
+M495	Stereo Monitor Module
+M497	Dual Master Module
+M497A	Dual Master Module
+M497B	Dual Master Module
+M497C	Dual Master Module
+M497D	Dual Master Module
+M498	Stereo Selector
+M498A	10x1 Selector
+M499	Insertion Switcher
+M500	Program Amplifier
+M501	Preamplifier
+M503	Cue Amplifier
+M510	Monitor Amplifier
+M520	Mono Input Module
+M5200	Controller Module
+M5200A	Controller Module
+M5201	Machine Control Module
+M520A	Mono Input Module
+M520K	Stereo Input Module
+M521	Stereo Input Module
+M521A	Stereo Input Module
+M522	Equalizer Module
+M522B	Equalizer Module
+M522C	Equalizer Module
+M523	Stereo Submaster Module
+M524	24V Dual Lamp Relay Power Supply
+M524A	24V Dual Lamp Relay Power Supply
+M525	Stereo Monitor Module
+M526	
+M527	Master Module
+M528	Dual Auxiliary Module
+M529	Communications Module
+M530	Mono VCA Module
+M538	Stereo Switcher Module
+M538C	Stereo Switcher Module
+M559A	
+M562C	Stereo Equalizer Module
+M568	Assignment Module
+M568N	Assignment Module
+M568P	Assignment Module
+M568Q	Stereo Assignment Module
+M568W	Headphone Amplifier Module
+M600	Universal Amplifier
+M604	25 Hz Oscillator
+M605	Audio Distribution Amplifier
+M605A	Audio Distribution Amplifier
+M605C	Audio Distribution Amplifier
+M606	Monitor Amplifier
+M608	Audio Distribution Amplifier
+M609	Remote Sensitivity Distribution Amplifier
+M610	10 Watt Monitor Amplifier
+M611	Power Supply
+M612	Audio Distribution Amplifier
+M612A	Audio Distribution Amplifier
+M621	20 Watt Monitor Amplifier
+M624	24V Power Supply
+M625	Power Supply
+M625A	Power Supply
+M625B	Power Supply
+M626	Trickle Charger
+M628	Intercom Power Supply
+M629	Trickle Charger
+M632	Power Supply
+M648	Power Supply
+M666	100 Watt Monitor Amplifier
+M7000	7000 Series Intercom
+M701	Intercom Input Amplifier
+M7012C	Intercom Module
+M701D	Intercom Input Amplifier
+M702	Intercom Output Amplifier
+M702D	Intercom Output Amplifier
+M703	Intercom Input Output Amplifier
+M703B	Intercom Pre and Output Amplifier
+M703D	Intercom Preamplifier
+M704	Intercom Amplifier
+M705	Hybrid Network
+M706	Transformer Module
+M711	Relay Switcher Module
+M712	Intercom Matrix Switching Board
+M712B	Intercom Matrix Amplifier
+M718	Talkback Address Module
+M718A	Talkback Address Module
+M719	Intercom Module
+M724	Intercom Crosspoint
+M730	10V Power Supply
+M731	20V Power Supply
+M740	Lamp Driver
+M741	Register Module
+M742	Line Receiver and Register Entry Control
+M743	Intercom Encoder Card
+M745	5V Regulator
+M748	Memory Card
+M749	Status Control and Memory Cancel
+M750	Line Receiver Driver
+M751	Dual Memory Latch
+M751B	Dual Memory Latch
+M752	Strobe Generator
+M753	Memory Latch Lock Up Control
+M755	Lamp Driver Module
+M756	Encoder and Strobe Driver
+M757	BCD Encoder
+M770	Quad Buffer Amplifier Module
+M771	Matrix Latch Module
+M772	Data Transmit Receive Module
+M773	Intercom Module
+M774	Intercom Module
+M777	Status Monitor Module
+M778	Relay Module
+M780	Power Supply
+M7800	Communication Terminal
+M7810	Intercom Studio Terminal
+M7820	Secondary Terminal
+M7830	Secondary Terminal
+M7840	Intercom Keypad
+M7880	Intercom System
+M7880DA	Intercom Distribution Amplifier
+M7880G	Director Script Switcher
+M7880H	Intercom Module
+M7884	Intercom Keypad
+M7885A	Intercom Front Panel
+M801	Switcher Isolation Amplifier
+M802C	
+M804	8x1 Relay Switcher Module
+M805	
+M806A	
+M807	Fade Generator
+M808	8x1 Relay Switcher
+M808A	8x1 Relay Switcher Card
+M808B	8x1 Stereo Switcher
+M808C	Relay Switcher
+M809C	
+M812B	12x1 Audio Input Switcher
+M813	Relay Switcher Logic Card
+M815	Distribution Amplifier
+M816	Distribution Amplifier
+M8200	Microphone Preamplifier
+M8201	Announce Channel Control Module
+M8202	Remote Sensitivity Distribution Amplifier
+M8203	Oscillator Module
+M8204	Stereo Audio Distribution Amplifier
+M8205	Audio Distribution Amplifier
+M8206	Matrixing Audio Distribution Amplifier
+M8207	Audio Compressor Limiter
+M8208	Remote Level Distribution Amplifier
+M827	Power Supply
+M845	5 Volt Regulator
+M900	MK Series Hardware
+M901	Input Module
+M901A	Universal Input Module
+M901B	Mic Input Module
+M901BY	Custom Input Module
+M901C	Line Input Module
+M901CY	Custom Input Module
+M901D	Input Module
+M901NW	Input Module
+M905A	Control Room Monitor Module
+M905B	Studio Monitor Module
+M907	Master Module
+M908	Dual Stereo Line Selector
+M909	Custom Meter
+M920	
+M921	
+M922	Equalizer Module
+M923	
+M923A	
+M923B	
+M923C	
+M923D	
+M923E	
+M923F	
+M923H	
+M924	Power Supply
+M924A	Power Supply
+M926	
+M927	
+M999	Custom Subpanel
+RM401	Noise Suppressor
+RM405	Extended Range VU Meter
+RM424S	Shielded Prewired Jackfield
+RM650	Rack Mount
