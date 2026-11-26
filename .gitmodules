@@ -1157,3 +1157,6 @@
 [submodule "2026/Modules/SUMMING/M166"]
 	path = 2026/Modules/SUMMING/M166
 	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M166.git
+[submodule "YOU_TUBE"]
+	path = YOU_TUBE
+	url = https://github.com/WardBeckSystems/YOU_TUBE.git

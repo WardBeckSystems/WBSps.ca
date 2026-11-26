@@ -101,8 +101,6 @@ site/
 # Separate projects with their own git repos (not part of this repo's history)
 /microcom/
 /microcom-sim/
-/youtube-editor/
-/YOU_TUBE/
 /rust_image_data_suite/
 /2026/timelines/
 /2026/extractors/rust_analyzer/
