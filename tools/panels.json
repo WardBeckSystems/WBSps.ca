@@ -1,0 +1,1837 @@
+{
+ "_about": "Overrides for tools/make_panels.py, by module code. src: the 2026 path of the picture/drawing to use; box: [x0, y0, x1, y1] fractions of the upright sheet; rot: turn the picture (degrees, PIL counter-clockwise) instead of the archive's turn; quad: a photo's panel corners [TL, TR, BR, BL] as [x, y] fractions; cad + from: panel art already converted to SVG and the archive file it came from; none: the reason no panel can be drawn; skip: sources never to use.",
+ "M445": {
+  "cad": "siumulation-plugins/assets/m445-front-silk.svg",
+  "from": "#M400 #SERIES - Meter Panels/XXX - M445 - #OBSOLETE #Archive/MECHANIC/445SILK.DWG",
+  "colours": [
+   "#f2f2ee"
+  ]
+ },
+ "M405M": {
+  "cad": "siumulation-plugins/assets/m405m-front.svg",
+  "from": "#M400 #SERIES - Meter Panels/XXX - M405M - #OBSOLETE #Archive/M405M.DWG"
+ },
+ "M402": {
+  "src": "Modules/FILTERS/M402/MECHANICAL/1968 - M402 - 402-04-005 - QIN BEND RAD UNLESS.jpg",
+  "box": [
+   0.722,
+   0.0714,
+   0.844,
+   0.6751
+  ]
+ },
+ "M402B": {
+  "src": "Modules/FILTERS/M402B/MECHANICAL/1970 - M402B - B 402-04-005 - M402B - EQUALIZER MODULE - LAYOUT.gif",
+  "box": [
+   0.6903,
+   0.0755,
+   0.8307,
+   0.7459
+  ]
+ },
+ "M404": {
+  "src": "Modules/FILTERS/M404/MECHANICAL/1970 - 404-04-010 - M404A EQUALIZER OUTLINE DRAWING.jpg",
+  "box": [
+   0.2648,
+   0.2103,
+   0.5362,
+   0.3142
+  ]
+ },
+ "M405": {
+  "src": "Modules/METER/M405/MECHANICAL/1975 - M405 - 405-04-013 - PORTABLE EXTENDED RANGE.jpg",
+  "box": [
+   0.165,
+   0.09,
+   0.41,
+   0.56
+  ]
+ },
+ "M405C": {
+  "src": "Modules/METER/M405C/MECHANICAL/1975 - M405C - 405-04-006 - CCAIP MENT LAYOUT.jpg",
+  "box": [
+   0.6237,
+   0.3528,
+   0.922,
+   0.5654
+  ]
+ },
+ "M406": {
+  "src": "Modules/DYNAMICS/M406/MECHANICAL/1972 - 406-04-010 - M406B(C) COMPRESSOR MODULE LAYOUT - DRN MRW - ISS 2.jpg",
+  "box": [
+   0.712,
+   0.0875,
+   0.8334,
+   0.692
+  ]
+ },
+ "M411": {
+  "src": "Modules/AMPLIFIERS/M411/MECHANICAL/1970 - 411-03-001 - ESCUTCHEON (M411) - ISS 3.jpg",
+  "box": [
+   0.0667,
+   0.3169,
+   0.7839,
+   0.7181
+  ]
+ },
+ "M412": {
+  "src": "Modules/MONITORING/M412/MECHANICAL/1972 - 412-03-003 - ESCUTCHEON (M412 A) - DRN DPS - ISS 3.jpg",
+  "box": [
+   0.0303,
+   0.3871,
+   0.5829,
+   0.5673
+  ]
+ },
+ "M413": {
+  "src": "Modules/MONITORING/M413/MECHANICAL/1969 - 413-03-001 - ESCUTCHEON - ISS 5.jpg",
+  "box": [
+   0.1863,
+   0.3833,
+   0.5428,
+   0.6245
+  ]
+ },
+ "M416": {
+  "src": "Modules/UNSORTED/M416/MECHANICAL/1973 - 416-03-002 - ESCUTCHEON - DRN DPS - ISS 1 (2).jpg",
+  "box": [
+   0.0222,
+   0.4016,
+   0.5461,
+   0.5789
+  ]
+ },
+ "M420": {
+  "src": "Modules/UNSORTED/M420/MECHANICAL/19xx - 420-03-004 - ESCUTCHEON M420 - ISS 2.jpg",
+  "box": [
+   0.0493,
+   0.2635,
+   0.5669,
+   0.4504
+  ]
+ },
+ "M421": {
+  "src": "Modules/UNSORTED/M421/MECHANICAL/1969 - M421-03-001 - ESCUTCHEON M421 - ISS 3.png",
+  "box": [
+   0.11,
+   0.34,
+   0.71,
+   0.51
+  ]
+ },
+ "M424": {
+  "src": "Modules/UNSORTED/M424/MECHANICAL/1971 - 424-03-001 - ESCUTCHEON DRILLING DETAIL - DRN WWH - ISS 7.png",
+  "box": [
+   0.1415,
+   0.3588,
+   0.5452,
+   0.5939
+  ]
+ },
+ "M441": {
+  "src": "Modules/INPUT-PRE-AMPS/M441/MECHANICAL/1971 - 441-03-006 - ESCUTCHEON DRILLING DETAIL - DRN WWH - ISS 3.jpg",
+  "box": [
+   0.1395,
+   0.3291,
+   0.5416,
+   0.5649
+  ]
+ },
+ "M441F": {
+  "src": "Modules/INPUT-PRE-AMPS/M441F/MECHANICAL/1972 - M441F - 441-04-007.jpg",
+  "box": [
+   0.2254,
+   0.6993,
+   0.8276,
+   0.8219
+  ]
+ },
+ "M441M": {
+  "src": "Modules/INPUT-PRE-AMPS/M441M/MECHANICAL/1973 - M441M - 441-04-013 - WAAD-BECK BYSTEMS (2).jpg",
+  "box": [
+   0.725,
+   0.1821,
+   0.8367,
+   0.6136
+  ]
+ },
+ "M451": {
+  "src": "Modules/MONITORING/M451/MECHANICAL/1977 - M451 - P13 - Front Panel.jpg",
+  "box": [
+   0.3989,
+   0.2516,
+   0.5806,
+   0.7394
+  ]
+ },
+ "M452": {
+  "src": "Modules/MONITORING/M452/MECHANICAL/1971 - M452 - 452-04-003 - JABLE FOR EXERNA CANTROL CURDOSES.jpg",
+  "box": [
+   0.4049,
+   0.2599,
+   0.5742,
+   0.7041
+  ]
+ },
+ "M453": {
+  "src": "Modules/AMPLIFIERS/M453/MECHANICAL/1976 - M453 - 453-04-001.jpg",
+  "box": [
+   0.07,
+   0.26,
+   0.62,
+   0.39
+  ]
+ },
+ "M453A": {
+  "src": "Modules/AMPLIFIERS/M453A/MECHANICAL/1978 - M453A - 453-04-006 - MUTING SMITCH SWI NHEN DEPRESSED MUEES THE EAKER.jpg",
+  "box": [
+   0.3988,
+   0.2497,
+   0.569,
+   0.6945
+  ]
+ },
+ "M454": {
+  "src": "Modules/ROUTING/M454/MECHANICAL/1974 - M454 - 454-04-001 - PSSMOO CKO USD.jpg",
+  "box": [
+   0.0313,
+   0.0063,
+   0.348,
+   0.9325
+  ]
+ },
+ "M455": {
+  "src": "Modules/ROUTING/M455/MECHANICAL/1974 - 455-04-001 - AUXILIARY MODULE ASSEMBLY - DRN DM - ISS 3.jpg",
+  "box": [
+   0.2458,
+   0.0469,
+   0.3651,
+   0.6874
+  ]
+ },
+ "M456B": {
+  "src": "Modules/ROUTING/M456B/MECHANICAL/1975 - M456B - 456-04-009 - SWITCH SWI WHEN DEPRESSED ACTIVATES CHANNE OUTPUT CIRCUITS.jpg",
+  "box": [
+   0.4821,
+   0.0051,
+   0.643,
+   0.9904
+  ]
+ },
+ "M457": {
+  "src": "Modules/ROUTING/M457/MECHANICAL/1977 - 457-04-005 - 4X2 PREMIXER MODULE FRONT PANEL - DRN P. Mahoney - ISS 2.jpg",
+  "box": [
+   0.3592,
+   0.1403,
+   0.5423,
+   0.6918
+  ]
+ },
+ "M457A": {
+  "src": "Modules/ROUTING/M457A/MECHANICAL/1975 - M457A - 457-04-006 - ENG KUVBET PRE-MIXER MASTER MODULE.jpg",
+  "box": [
+   0.4182,
+   0.2636,
+   0.5844,
+   0.7494
+  ]
+ },
+ "M459": {
+  "src": "Modules/ROUTING/M459/MECHANICAL/1975 - 459-04-001 - ASSEMBLY - DRN DM (2).jpg",
+  "box": [
+   0.7271,
+   0.1211,
+   0.8497,
+   0.7616
+  ]
+ },
+ "M460A": {
+  "src": "Modules/INPUT-PRE-AMPS/M460A/MECHANICAL/1976 - M460A - 460-04-008 - XTERNA CONTROI FUNCTIONS NOTE THAT THE.jpg",
+  "box": [
+   0.3643,
+   0.0003,
+   0.483,
+   0.9963
+  ]
+ },
+ "M460B": {
+  "src": "Modules/INPUT-PRE-AMPS/M460B/MECHANICAL/1976 - M460B - 460-04-013 - IXI CONTROL FUNCT IONS- NOTE THAT THE.jpg",
+  "box": [
+   0.3581,
+   0.0,
+   0.476,
+   1.0
+  ]
+ },
+ "M460L": {
+  "src": "Modules/INPUT-PRE-AMPS/M460L/MECHANICAL/1974 - M460L - 460-04-023 - INPUT MODULE FRONT PANEL.jpg",
+  "box": [
+   0.2786,
+   0.0,
+   0.5316,
+   0.9941
+  ]
+ },
+ "M460M": {
+  "src": "Modules/INPUT-PRE-AMPS/M460M/MECHANICAL/1974 - M460M - 460-04-028 - INPUT MODULE FRONT PANEL (2).jpg",
+  "box": [
+   0.2817,
+   0.0,
+   0.5024,
+   0.9822
+  ]
+ },
+ "M461": {
+  "src": "Modules/INPUT-PRE-AMPS/M461/MECHANICAL/1975 - M461 - 461-04-008 - CONTROL FUNCTIONS NOTE THAT THE.jpg",
+  "box": [
+   0.4503,
+   0.1138,
+   0.5842,
+   0.836
+  ]
+ },
+ "M461M": {
+  "src": "Modules/INPUT-PRE-AMPS/M461M/MECHANICAL/1975 - M461M - 461-04-008 - INPUT MODULE ASSEMBLY.jpg",
+  "box": [
+   0.4224,
+   0.0705,
+   0.5219,
+   0.6166
+  ]
+ },
+ "M462": {
+  "src": "Modules/FILTERS/M462/MECHANICAL/1974 - M462 - P6 - Front Panel.jpg",
+  "box": [
+   0.4317,
+   0.2728,
+   0.5982,
+   0.7352
+  ]
+ },
+ "M462A": {
+  "src": "Modules/FILTERS/M462A/MECHANICAL/19xx - M462A - DOC - 462-04-006 - EQUALIZER MODULE FRONT PANEL ISSU.jpg",
+  "box": [
+   0.4444,
+   0.2622,
+   0.6116,
+   0.7064
+  ]
+ },
+ "M462C": {
+  "src": "Modules/FILTERS/M462C/MECHANICAL/1985 - M462C - 462-04-008 - STEREO EQUALIZER MODULE MODULE LAYOUT.jpg",
+  "box": [
+   0.4045,
+   0.2526,
+   0.5765,
+   0.7374
+  ]
+ },
+ "M463": {
+  "src": "Modules/SUMMING/M463/MECHANICAL/1972 - M463 - 463-04-020 - WHEN DEPRESSED THIS SWITCH INSERTS THE EQUALIZER SECTION.jpg",
+  "box": [
+   0.6277,
+   0.0155,
+   0.828,
+   0.9865
+  ]
+ },
+ "M463AB": {
+  "src": "Modules/SUMMING/M463AB/MECHANICAL/1986 - M463AB - 463-04-102 - PAN SOLO SWICN.jpg",
+  "box": [
+   0.4184,
+   0.2462,
+   0.5845,
+   0.7283
+  ]
+ },
+ "M463AC": {
+  "src": "Modules/SUMMING/M463AC/MECHANICAL/1986 - M463AC - 463-04-104 - HNEN AEPRESSCO CNE POSTFADE.jpg",
+  "box": [
+   0.4084,
+   0.2507,
+   0.5752,
+   0.7333
+  ]
+ },
+ "M463B": {
+  "src": "Modules/SUMMING/M463B/MECHANICAL/1972 - M463B - 463-04-022.jpg",
+  "box": [
+   0.0075,
+   0.467,
+   0.9256,
+   0.572
+  ]
+ },
+ "M463J": {
+  "src": "Modules/SUMMING/M463J/MECHANICAL/1972 - M463J - 463-04-010 - WHEN DEPRESSED THE POSTFADE SIGNA.jpg",
+  "box": [
+   0.4191,
+   0.2567,
+   0.5883,
+   0.7393
+  ]
+ },
+ "M463K": {
+  "src": "Modules/SUMMING/M463K/MECHANICAL/1974 - M463K - 463-04-015 - ENG SUBMA STER MODULE.jpg",
+  "box": [
+   0.4276,
+   0.0227,
+   0.6278,
+   0.9858
+  ]
+ },
+ "M463L": {
+  "src": "Modules/SUMMING/M463L/MECHANICAL/1974 - M463L - 463-04-023 - ENG SUBMA STER MODULE.jpg",
+  "box": [
+   0.4072,
+   0.0206,
+   0.6108,
+   0.9869
+  ]
+ },
+ "M463LA": {
+  "src": "Modules/SUMMING/M463LA/MECHANICAL/1974 - M463LA - 463-04-030 - ENG MEW SUBMASTER MODULE.jpg",
+  "box": [
+   0.4036,
+   0.0186,
+   0.6067,
+   0.9854
+  ]
+ },
+ "M464": {
+  "src": "Modules/FILTERS/M464/MECHANICAL/1976 - M464 - 464-04-003 - PASS-LO PASS FILTER.jpg",
+  "box": [
+   0.438,
+   0.2693,
+   0.6015,
+   0.7317
+  ]
+ },
+ "M465": {
+  "src": "Modules/DYNAMICS/M465/MECHANICAL/1974 - M465 - 465-04-004 - REVERB MODULE FRONT PANEL.jpg",
+  "box": [
+   0.4231,
+   0.2489,
+   0.5926,
+   0.7015
+  ]
+ },
+ "M465A": {
+  "src": "Modules/DYNAMICS/M465A/MECHANICAL/1977 - M465A - 465-04-005 - RETPRETURAS CHE OUTPUT NOTE THAT THE SOLO OUTPUT.jpg",
+  "box": [
+   0.4146,
+   0.2517,
+   0.5854,
+   0.7044
+  ]
+ },
+ "M465B": {
+  "src": "Modules/DYNAMICS/M465B/MECHANICAL/1982 - M465B - 465-04-007 - FRONT PANEL LAYOUT.jpg",
+  "box": [
+   0.715,
+   0.2,
+   0.815,
+   0.69
+  ]
+ },
+ "M466": {
+  "src": "Modules/DYNAMICS/M466/MECHANICAL/1976 - M466 - P45 - Front Panel.jpg",
+  "box": [
+   0.3955,
+   0.2479,
+   0.5762,
+   0.7421
+  ]
+ },
+ "M467": {
+  "src": "Modules/DYNAMICS/M467/MECHANICAL/1976 - M467 - 467-04-002 - COMP TIE COHPRESSOR STEREO TIE SWITCH.jpg",
+  "box": [
+   0.4121,
+   0.2586,
+   0.5762,
+   0.7439
+  ]
+ },
+ "M468": {
+  "src": "Modules/ROUTING/M468/MECHANICAL/1973 - 468-03-003 - ESCUTCHEON. (SCHADOW SWITCH) - DRN ALF - ISS 3.jpg",
+  "box": [
+   0.1948,
+   0.2394,
+   0.6233,
+   0.5051
+  ]
+ },
+ "M469": {
+  "src": "Modules/UNSORTED/M469/MECHANICAL/1985 - 469-03-007 - M469G ESCUTCHEON - DRN DRG - ENG PA - ISS 1.png",
+  "box": [
+   0.2048,
+   0.1267,
+   0.324,
+   0.8691
+  ]
+ },
+ "M470": {
+  "src": "Modules/INPUT-PRE-AMPS/M470/MECHANICAL/1977 - M470 - 470-04-003 - TNE FADER AND CHANNEL.jpg",
+  "box": [
+   0.4276,
+   0.0071,
+   0.5334,
+   0.9855
+  ]
+ },
+ "M470A": {
+  "src": "Modules/INPUT-PRE-AMPS/M470A/MECHANICAL/1977 - M470A - 470-04-006 - IGNA FOL OWING CHE FADER AND CRA SWITCH.jpg",
+  "box": [
+   0.3765,
+   0.0,
+   0.4931,
+   0.992
+  ]
+ },
+ "M470C": {
+  "src": "Modules/INPUT-PRE-AMPS/M470C/MECHANICAL/1977 - M470C - 470-04-010 - ADDI ONA EQUIPPED WITH CONTACTS.jpg",
+  "box": [
+   0.3719,
+   0.0,
+   0.4874,
+   0.9868
+  ]
+ },
+ "M470E": {
+  "src": "Modules/INPUT-PRE-AMPS/M470E/MECHANICAL/1984 - M470E - 470-04-014 - WHEN DEPRESSED ENABLES PAN CONTROL AUX PRE.jpg",
+  "box": [
+   0.6436,
+   0.0139,
+   0.8419,
+   0.9886
+  ]
+ },
+ "M471": {
+  "src": "Modules/INPUT-PRE-AMPS/M471/MECHANICAL/19xx - 471-04-004 - STEREO INPUT MODULE MODULE LAYOUT - ISS 1.jpg",
+  "box": [
+   0.5834,
+   0.0047,
+   0.704,
+   1.0
+  ]
+ },
+ "M471A": {
+  "src": "Modules/INPUT-PRE-AMPS/M471A/MECHANICAL/1985 - M471A - 471-04-006 - STEREO INPUT MODULE.jpg",
+  "box": [
+   0.22,
+   0.04,
+   0.42,
+   0.66
+  ]
+ },
+ "M471C": {
+  "src": "Modules/INPUT-PRE-AMPS/M471C/MECHANICAL/19xx - M471C - DOC - STEREO L SERIES - P015 - B471-04-004 R.jpg",
+  "box": [
+   0.28,
+   0.03,
+   0.45,
+   0.97
+  ]
+ },
+ "M472": {
+  "src": "Modules/FILTERS/M472/MECHANICAL/1977 - M472 - 472-04-003 - THE OUTPUT IOLZZ REDRAWN.jpg",
+  "box": [
+   0.4037,
+   0.2525,
+   0.581,
+   0.743
+  ]
+ },
+ "M473": {
+  "src": "Modules/SUMMING/M473/MECHANICAL/1984 - M473 - 473-04-004 - HEN DEPRESSED FEEDS GNA.jpg",
+  "box": [
+   0.4193,
+   0.2634,
+   0.5847,
+   0.7288
+  ]
+ },
+ "M473A": {
+  "src": "Modules/SUMMING/M473A/MECHANICAL/1977 - M473A - 473-04-006 - WHEN DEPRESSED FEEDS SUBHA STER.jpg",
+  "box": [
+   0.4116,
+   0.2598,
+   0.579,
+   0.7407
+  ]
+ },
+ "M473B": {
+  "src": "Modules/SUMMING/M473B/MECHANICAL/1984 - M473B - 473-04-007 - DEPRESSED FEEDS SUBMASTER OUPUT PUIPULS SUB.jpg",
+  "box": [
+   0.46,
+   0.15,
+   0.68,
+   0.82
+  ]
+ },
+ "M475": {
+  "src": "Modules/MONITORING/M475/MECHANICAL/1977 - M475 - P13 - Front Panel.jpg",
+  "box": [
+   0.3992,
+   0.2566,
+   0.5739,
+   0.7439
+  ]
+ },
+ "M475A": {
+  "src": "Modules/MONITORING/M475A/MECHANICAL/1986 - M475A - 475-04-004 - STEREO MONITOR MODULE MODULE LAYOUT.jpg",
+  "box": [
+   0.2824,
+   0.2607,
+   0.4585,
+   0.7443
+  ]
+ },
+ "M477": {
+  "src": "Modules/SUMMING/M477/MECHANICAL/1979 - M477 - P18 - Front Panel.jpg",
+  "box": [
+   0.4228,
+   0.2552,
+   0.5917,
+   0.7368
+  ]
+ },
+ "M479": {
+  "src": "Modules/SUMMING/M479/MECHANICAL/1978 - M479 - 479-04-003 - DUAL AUXILIARY MODULE FRONT PANEL.jpg",
+  "box": [
+   0.4017,
+   0.2599,
+   0.5758,
+   0.742
+  ]
+ },
+ "M480": {
+  "src": "Modules/INPUT-PRE-AMPS/M480/MECHANICAL/1975 - M480 - 480-04-002 - INPUT MODULE.jpg",
+  "box": [
+   0.7043,
+   0.1444,
+   0.7979,
+   0.7856
+  ]
+ },
+ "M480B": {
+  "src": "Modules/INPUT-PRE-AMPS/M480B/MECHANICAL/1980 - M480B - 480-04-002 - INPUT MODULE FRONT PANEL SCELE.jpg",
+  "box": [
+   0.7114,
+   0.1591,
+   0.8021,
+   0.8393
+  ]
+ },
+ "M480C": {
+  "src": "Modules/INPUT-PRE-AMPS/M480C/MECHANICAL/1982 - M480C - 480-04-006 - MABOC INPUT MODULE FRONT PANEL ISSE.jpg",
+  "box": [
+   0.3563,
+   0.0936,
+   0.569,
+   0.8247
+  ]
+ },
+ "M481B": {
+  "src": "Modules/AMPLIFIERS/M481B/MECHANICAL/1982 - M481B - 481-04-002 - AUX MASTER REF OSC.jpg",
+  "box": [
+   0.33,
+   0.02,
+   0.52,
+   0.81
+  ]
+ },
+ "M482B": {
+  "src": "Modules/MONITORING/M482B/MECHANICAL/1982 - M482B - 482-04-001 - MONITOR MODULE FRONT PANEL.jpg",
+  "box": [
+   0.438,
+   0.1454,
+   0.618,
+   0.8511
+  ]
+ },
+ "M490": {
+  "src": "Modules/INPUT-PRE-AMPS/M490/MECHANICAL/1978 - 490-04-011 - M490C LINE INPUT MODULE FRONT PANEL - DRN GEB - ENG GEB.jpg",
+  "box": [
+   0.0126,
+   0.4706,
+   0.9175,
+   0.5743
+  ]
+ },
+ "M490A": {
+  "src": "Modules/INPUT-PRE-AMPS/M490A/MECHANICAL/1978 - M490A - 490-04-009 - IGNA PURPOSES FROM REMOTE EMFOCST ION' RELATED.jpg",
+  "box": [
+   0.4544,
+   0.0,
+   0.5586,
+   0.9955
+  ]
+ },
+ "M490C": {
+  "src": "Modules/INPUT-PRE-AMPS/M490C/MECHANICAL/1978 - M490C - Front Panel.jpg",
+  "box": [
+   0.4743,
+   0.0954,
+   0.5742,
+   0.9696
+  ]
+ },
+ "M490D": {
+  "src": "Modules/INPUT-PRE-AMPS/M490D/MECHANICAL/1978 - M490D - 490-04-012 - LINE INPUT MODULE FRONT PANEL.jpg",
+  "box": [
+   0.4765,
+   0.0897,
+   0.5765,
+   0.9654
+  ]
+ },
+ "M490E": {
+  "src": "Modules/INPUT-PRE-AMPS/M490E/MECHANICAL/1978 - M490E - 90-04-013 - THE PROGRAM CHANNE TAICCBS THE BUILT-IN LAY.jpg",
+  "box": [
+   0.4735,
+   0.089,
+   0.5735,
+   0.964
+  ]
+ },
+ "M490F": {
+  "src": "Modules/INPUT-PRE-AMPS/M490F/MECHANICAL/1978 - M490F - 90-04-014 - STEREO INPUT MODULE FRONT PANEL.jpg",
+  "box": [
+   0.3826,
+   0.0,
+   0.4979,
+   0.98
+  ]
+ },
+ "M490G": {
+  "src": "Modules/INPUT-PRE-AMPS/M490G/MECHANICAL/1978 - M490G - 490-04-016 - SWII WIL SWITCH CHE CUE CHANNE TERNATELY.jpg",
+  "box": [
+   0.6182,
+   0.0008,
+   0.8212,
+   0.9802
+  ]
+ },
+ "M490H": {
+  "src": "Modules/INPUT-PRE-AMPS/M490H/MECHANICAL/1978 - M490H - 490-04-018 - MOVING THE SLIDE JTTENUATOR BEYOND THE INFINITE POSITION.jpg",
+  "box": [
+   0.64,
+   0.03,
+   0.8,
+   0.98
+  ]
+ },
+ "M490J": {
+  "src": "Modules/INPUT-PRE-AMPS/M490J/MECHANICAL/19xx - M490J - DOC - 90-04-020 - JIANI INDLLCANE ANLUS NIS SWITCH AISO IURN CUE.jpg",
+  "box": [
+   0.4482,
+   0.0183,
+   0.5496,
+   0.9778
+  ]
+ },
+ "M490K": {
+  "src": "Modules/INPUT-PRE-AMPS/M490K/MECHANICAL/1983 - M490K - 490-04-022 - WAIUR THLE LICH EII ALO IURN CUE OFP.jpg",
+  "box": [
+   0.56,
+   0.03,
+   0.71,
+   0.995
+  ]
+ },
+ "M490L": {
+  "src": "Modules/INPUT-PRE-AMPS/M490L/MECHANICAL/1983 - M490L - 490-04-024 - SMILCH SWI THIS SICH THE MOMENIARY JCION IDC.jpg",
+  "box": [
+   0.61,
+   0.03,
+   0.77,
+   0.995
+  ]
+ },
+ "M490M": {
+  "src": "Modules/INPUT-PRE-AMPS/M490M/MECHANICAL/1988 - M490M - 490-04-026 - STEREO INPUT MODULE MODULE LAYOUT (2).jpg",
+  "box": [
+   0.3556,
+   0.006,
+   0.5577,
+   0.9786
+  ]
+ },
+ "M490N": {
+  "src": "Modules/INPUT-PRE-AMPS/M490N/MECHANICAL/1985 - M490N - 490-04-028 - STEREO INPUT MODULE MODULE LAYOUT.jpg",
+  "box": [
+   0.3578,
+   0.0233,
+   0.5601,
+   0.9847
+  ]
+ },
+ "M490T": {
+  "src": "Modules/INPUT-PRE-AMPS/M490T/MECHANICAL/1978 - M490T - 490-04-026 - DSI MAY USED FOR IGNA PURPOSES FROM CMOTE.jpg",
+  "box": [
+   0.4289,
+   0.0104,
+   0.5321,
+   0.9154
+  ]
+ },
+ "M494": {
+  "src": "Modules/COMMUNICATION/M494/MECHANICAL/19xx - M494 - 494-04-003 - CONNECTED ACROSS BRCHEEM REMOTE INE AND THE GREEN.jpg",
+  "box": [
+   0.42,
+   0.25,
+   0.59,
+   0.75
+  ]
+ },
+ "M495": {
+  "src": "Modules/MONITORING/M495/MECHANICAL/1975 - M495 - 495-04-003 - THE ASSOC IATED LED WILL INDI- IGNA LEVE.jpg",
+  "box": [
+   0.4098,
+   0.2637,
+   0.5786,
+   0.7447
+  ]
+ },
+ "M497A": {
+  "src": "Modules/SUMMING/M497A/MECHANICAL/1978 - M497A - 497-04-004 - ENG DUAL MASTER MODULE.jpg",
+  "box": [
+   0.4222,
+   0.2733,
+   0.5925,
+   0.7532
+  ]
+ },
+ "M497B": {
+  "src": "Modules/SUMMING/M497B/MECHANICAL/1983 - M497B - 497-04-005 - DUAL MASTER MODULE.jpg",
+  "box": [
+   0.4115,
+   0.2583,
+   0.5779,
+   0.7367
+  ]
+ },
+ "M497C": {
+  "src": "Modules/SUMMING/M497C/MECHANICAL/1978 - M497C - 497-04-006 - DUAL MASTER MODULE FRONT PANEL.jpg",
+  "box": [
+   0.37,
+   0.24,
+   0.53,
+   0.73
+  ]
+ },
+ "M497D": {
+  "src": "Modules/SUMMING/M497D/MECHANICAL/1978 - M497D - 497-04-007 - SPACE FOR CHANNEL IDENTIFICATION DESIGNATION.jpg",
+  "box": [
+   0.4,
+   0.24,
+   0.56,
+   0.73
+  ]
+ },
+ "M498": {
+  "src": "Modules/ROUTING/M498/MECHANICAL/19xx - M498 - 498-04-003 - STEREO SWITCHER MODULE FRONT PANEL.jpg",
+  "box": [
+   0.4131,
+   0.2666,
+   0.5795,
+   0.7339
+  ]
+ },
+ "M520": {
+  "src": "Modules/INPUT-PRE-AMPS/M520/MECHANICAL/19xx - M520 - DOC - 520-04-001 - PGMI PEAK SENS.jpg",
+  "box": [
+   0.0,
+   0.0,
+   0.3424,
+   1.0
+  ]
+ },
+ "M5200": {
+  "src": "Modules/COMPUTERS/M5200/MECHANICAL/1985 - M5200 - B 5200-04-001 - M5200 - CONTROLLER MODULE - MODULE LAYOUT.jpg",
+  "box": [
+   0.113,
+   0.8015,
+   0.7286,
+   0.9222
+  ]
+ },
+ "M5200A": {
+  "src": "Modules/INPUT-PRE-AMPS/M5200A/MECHANICAL/1985 - M5200A - 5200-04-002 - CONTROLLER MODULE MODULE LAYOUT.jpg",
+  "box": [
+   0.1093,
+   0.7421,
+   0.7323,
+   0.8671
+  ]
+ },
+ "M5201": {
+  "src": "Modules/COMPUTERS/M5201/MECHANICAL/1986 - M5201 - 5201-04-001 - MACHINE CONTROL MODULE MODULE LAYOUT.jpg",
+  "box": [
+   0.1349,
+   0.79,
+   0.7017,
+   0.922
+  ]
+ },
+ "M521": {
+  "src": "Modules/INPUT-PRE-AMPS/M521/MECHANICAL/19xx - M521 - DOC - 521-04-001 - STEREO INPUT MODL.jpg",
+  "box": [
+   0.0,
+   0.0,
+   0.3311,
+   0.952
+  ]
+ },
+ "M521A": {
+  "src": "Modules/INPUT-PRE-AMPS/M521A/MECHANICAL/1982 - M521A - 521-04-002 - MODULE LAYOUT.jpg",
+  "box": [
+   0.6648,
+   0.0,
+   0.7682,
+   0.9809
+  ]
+ },
+ "M522": {
+  "src": "Modules/FILTERS/M522/MECHANICAL/19xx - M522 - 522-04-001 - EQUALIZER MODULES MODULE LAYOUT.jpg",
+  "box": [
+   0.33,
+   0.2572,
+   0.5011,
+   0.7388
+  ]
+ },
+ "M523": {
+  "src": "Modules/SUMMING/M523/MECHANICAL/19xx - M523 - DOC - 523-04-001 - STEREO SUB MODULE.jpg",
+  "box": [
+   0.0,
+   0.0,
+   0.33,
+   0.9842
+  ]
+ },
+ "M525": {
+  "src": "Modules/MONITORING/M525/MECHANICAL/19xx - M525 - DOC - 525-04-001 - EXT EXT EXT EXT AUX AUX AUX.jpg",
+  "box": [
+   0.018,
+   0.0,
+   0.3416,
+   0.993
+  ]
+ },
+ "M527": {
+  "src": "Modules/SUMMING/M527/MECHANICAL/19xx - M527 - DOC - 527-04-001 - FRONT PANEL LAYOUT.jpg",
+  "box": [
+   0.0,
+   0.0,
+   0.3037,
+   0.9557
+  ]
+ },
+ "M528": {
+  "src": "Modules/SUMMING/M528/MECHANICAL/19xx - M528 - DOC - 528-04-001 - FRONT PANEL LAYOUT ARP.jpg",
+  "box": [
+   0.32,
+   0.04,
+   0.69,
+   0.7
+  ]
+ },
+ "M529": {
+  "src": "Modules/COMMUNICATION/M529/MECHANICAL/19xx - M529 - DOC - 529-04-001 - COMMUNICA TIONS MODULE.jpg",
+  "box": [
+   0.05,
+   0.005,
+   0.29,
+   0.97
+  ]
+ },
+ "M538": {
+  "src": "Modules/ROUTING/M538/MECHANICAL/19xx - M538 - DOC - 538-04-001 - STEREO SWITCHER MOC.jpg",
+  "box": [
+   0.2369,
+   0.0842,
+   0.582,
+   0.5715
+  ]
+ },
+ "M562C": {
+  "src": "Modules/FILTERS/M562C/MECHANICAL/1985 - M562C - 462-04-008 - STEREO EQUALIZER MODULE MODULE LAYOUT.jpg",
+  "box": [
+   0.4045,
+   0.2526,
+   0.5765,
+   0.7374
+  ]
+ },
+ "M568N": {
+  "src": "Modules/ROUTING/M568N/MECHANICAL/19xx - 568-04-013 - ASSIGNMENT MODULE LAYOUT.jpg",
+  "box": [
+   0.7785,
+   0.1514,
+   0.8977,
+   0.8123
+  ]
+ },
+ "M568P": {
+  "src": "Modules/ROUTING/M568P/MECHANICAL/19xx - M568P - 568-04-014 - MONO ASSIGNMENT MODULE LAYOUT.jpg",
+  "box": [
+   0.758,
+   0.0215,
+   0.8882,
+   0.7939
+  ]
+ },
+ "M568Q": {
+  "src": "Modules/ROUTING/M568Q/MECHANICAL/19xx - M568Q - 568-04-015 - STEREO ASSIGNMENT MODULE LAYOUT.jpg",
+  "box": [
+   0.7797,
+   0.1607,
+   0.8982,
+   0.8216
+  ]
+ },
+ "M568W": {
+  "src": "Modules/ROUTING/M568W/MECHANICAL/19xx - M568W - 568-04-021 - MODULE FRONT PANEL SCNLE DISC.jpg",
+  "box": [
+   0.4481,
+   0.0635,
+   0.5521,
+   0.9892
+  ]
+ },
+ "M610": {
+  "src": "Modules/AMPLIFIERS/M610/MECHANICAL/19xx - M610 - 610-04-001 - MGIO FIINISH CRA.jpg",
+  "box": [
+   0.06,
+   0.43,
+   0.32,
+   0.62
+  ]
+ },
+ "M7800": {
+  "src": "Modules/COMMUNICATION/M7800/MECHANICAL/19xx - 7800-04-001 - M7800A COMMUNICATION TERMINAL FRONT & REAR LAYOUT - ISS 3.jpg",
+  "box": [
+   0.24,
+   0.3,
+   0.99,
+   0.5
+  ]
+ },
+ "M7820": {
+  "src": "Modules/UNSORTED/M7820/MECHANICAL/19xx - 7820-04-001 - SECONDARY TERMINAL FRONT & REAR LAYOUT - ISS 1.jpg",
+  "box": [
+   0.27,
+   0.26,
+   0.99,
+   0.46
+  ]
+ },
+ "M900": {
+  "src": "Modules/UNSORTED/M900/MECHANICAL/19xx - 900-03-035 - FRONT PANEL - DRN DRG - ISS 1.jpg",
+  "box": [
+   0.1794,
+   0.069,
+   0.3406,
+   0.7383
+  ]
+ },
+ "M924": {
+  "src": "Modules/UNSORTED/M924/MECHANICAL/19xx - 924-03-001 - M924A M924D POWER SUPPLY FRONT PANEL - DRN DRG - ISS 1.jpg",
+  "box": [
+   0.2473,
+   0.256,
+   0.7812,
+   0.5473
+  ]
+ },
+ "M202": {
+  "skip": [
+   "Modules/LOGIC/M202/MECHANICAL/1979 - M202 - 202-04-001 - LOGIC LATCH MODULE.jpg",
+   "Modules/LOGIC/M202/MECHANICAL/19xx - 202-04-001.jpg"
+  ]
+ },
+ "M207": {
+  "skip": [
+   "Modules/POWER/M207/MECHANICAL/19xx - M207 - DOC - 1202-04-007 - OSCILLATOR CUE-SOLO RE-ENTRY AND AUX LEVEL SCHEMATIC.jpg"
+  ]
+ },
+ "M481": {
+  "skip": [
+   "Modules/AMPLIFIERS/M481/MECHANICAL/1975 - M481 - 481-04-002 - EKD OSCILLATOR-CUE AMPLIFIER.jpg"
+  ]
+ },
+ "M484": {
+  "skip": [
+   "Modules/SUMMING/M484/MECHANICAL/1975 - M484 - 484-04-001 - DUAL SUMMING AMPLIFIER.jpg"
+  ]
+ },
+ "M485B": {
+  "skip": [
+   "Modules/POWER/M485B/MECHANICAL/19xx - M485B - DOC - 1202-04-007 - OSCILLATOR CUE-SOLO RE-ENTRY AND AUX LEVEL SCHEMATIC.jpg"
+  ]
+ },
+ "M487": {
+  "skip": [
+   "Modules/SUMMING/M487/MECHANICAL/19xx - M487 - DOC - 1202-04-007 - OSCILLATOR CUE-SOLO RE-ENTRY AND AUX LEVEL SCHEMATIC.jpg"
+  ]
+ },
+ "M524": {
+  "skip": [
+   "Modules/COMPUTERS/M524/MECHANICAL/1986 - 524-03-103 - M524A Front Panel Display Screens - DRN MRW - ENG MRW - ISS 1.jpg",
+   "Modules/COMPUTERS/M524/MECHANICAL/19xx - M524 - DOC - 524-03-006 - RCMOVE' ALL BURRS AND SHARP EDGES SILKSCREEN MATTE.jpg",
+   "Modules/COMPUTERS/M524/MECHANICAL/19xx - M524 - DOC - 524-03-008 - REMOVE ALL BURRS AND SHARP EDGES SILKSCREEN MATTE.jpg"
+  ]
+ },
+ "M524A": {
+  "src": "Modules/COMPUTERS/M524A/PHOTOS/1986 - M524A - IMG_3138.jpg",
+  "quad": [
+   [
+    0.355,
+    0.025
+   ],
+   [
+    0.72,
+    0.025
+   ],
+   [
+    0.78,
+    1
+   ],
+   [
+    0.31,
+    1
+   ]
+  ]
+ },
+ "M526": {
+  "src": "Modules/COMPUTERS/M526/PHOTOS/19xx - M526 - 2013-02-20 16_44_55.jpg",
+  "quad": [
+   [
+    0.263,
+    0.24
+   ],
+   [
+    0.78,
+    0.24
+   ],
+   [
+    0.78,
+    0.96
+   ],
+   [
+    0.263,
+    0.96
+   ]
+  ]
+ },
+ "M600": {
+  "skip": [
+   "Modules/AMPLIFIERS/M600/MECHANICAL/1970 - M600 - 600-04-010 - AUDIO AMPLIFIER PERSPECTIVE LAYOUT.jpg",
+   "Modules/AMPLIFIERS/M600/MECHANICAL/1970 - M600 - 600-04-010.jpg"
+  ]
+ },
+ "M608": {
+  "skip": [
+   "Modules/AMPLIFIERS/M608/MECHANICAL/1975 - M608 - 608-04-001 - AUDIO DISTRIBUTION AMPLIFIER.jpg",
+   "Modules/AMPLIFIERS/M608/MECHANICAL/1975 - M608 - 608-04-001 - CONNECT OUTPUT CAELE SHIELDS CHASSIS MODULE.jpg",
+   "Modules/AMPLIFIERS/M608/MECHANICAL/19xx - 608-04-001 (2).jpg",
+   "Modules/AMPLIFIERS/M608/MECHANICAL/19xx - 608-04-001.jpg"
+  ]
+ },
+ "M621": {
+  "skip": [
+   "Modules/AMPLIFIERS/M621/SCHEMATICS/1973 - M621 - 621-06-002 - HEAT SINK AND FRONT PANEL SHOWN SEPARATE FOR.jpg"
+  ]
+ },
+ "M703": {
+  "skip": [
+   "Modules/COMMUNICATION/M703/MECHANICAL/1977 - M703 - B 701-04-001 - M701 - COMPRESSOR - CHARACTERISTICS.jpg"
+  ]
+ },
+ "M402A": {
+  "src": "Modules/FILTERS/M402A/PHOTOS/1968 - M402A - wbsps - module - m402a equalizer 001.jpg",
+  "quad": [
+   [
+    0,
+    0
+   ],
+   [
+    0.92,
+    0
+   ],
+   [
+    0.92,
+    0.98
+   ],
+   [
+    0,
+    0.98
+   ]
+  ]
+ },
+ "M404A": {
+  "src": "Modules/FILTERS/M404A/PHOTOS/1968 - M404A - wbsps - module - m404a - HP LP filter.jpg",
+  "quad": [
+   [
+    0,
+    0
+   ],
+   [
+    0.97,
+    0
+   ],
+   [
+    0.97,
+    0.98
+   ],
+   [
+    0,
+    0.98
+   ]
+  ]
+ },
+ "M405D": {
+  "src": "Modules/METER/M405D/PHOTOS/1984 - M405D - 011 - Picture.jpg",
+  "quad": [
+   [
+    0.06,
+    0.37
+   ],
+   [
+    0.83,
+    0.53
+   ],
+   [
+    0.83,
+    0.76
+   ],
+   [
+    0.06,
+    0.54
+   ]
+  ]
+ },
+ "M405F": {
+  "src": "Modules/METER/M405F/PHOTOS/1984 - M405F - 019.jpg",
+  "quad": [
+   [
+    0.05,
+    0.37
+   ],
+   [
+    0.86,
+    0.41
+   ],
+   [
+    0.86,
+    0.69
+   ],
+   [
+    0.05,
+    0.63
+   ]
+  ]
+ },
+ "M406B": {
+  "src": "Modules/DYNAMICS/M406B/PHOTOS/1969 - M406B - wbsps - module - m406b compressors.jpg",
+  "quad": [
+   [
+    0,
+    0
+   ],
+   [
+    0.9,
+    0
+   ],
+   [
+    0.9,
+    0.98
+   ],
+   [
+    0,
+    0.98
+   ]
+  ]
+ },
+ "M406M": {
+  "src": "Modules/DYNAMICS/M406M/PHOTOS/1968 - M406M - Compressors.jpg",
+  "quad": [
+   [
+    0.03,
+    0.51
+   ],
+   [
+    0.25,
+    0.51
+   ],
+   [
+    0.25,
+    0.98
+   ],
+   [
+    0.03,
+    0.98
+   ]
+  ]
+ },
+ "M460E": {
+  "src": "Modules/INPUT-PRE-AMPS/M460E/PHOTOS/1974 - M460E - file.jpg",
+  "quad": [
+   [
+    0.18,
+    0
+   ],
+   [
+    0.54,
+    0
+   ],
+   [
+    0.54,
+    1
+   ],
+   [
+    0.18,
+    1
+   ]
+  ]
+ },
+ "M460LA": {
+  "src": "Modules/INPUT-PRE-AMPS/M460LA/PHOTOS/1974 - M460LA - wbsps - module - M460LA Preamp.jpg",
+  "quad": [
+   [
+    0.03,
+    0
+   ],
+   [
+    0.49,
+    0
+   ],
+   [
+    0.49,
+    1
+   ],
+   [
+    0.03,
+    1
+   ]
+  ]
+ },
+ "M462B": {
+  "src": "Modules/FILTERS/M462B/PHOTOS/1974 - M462B - file (2).jpg",
+  "quad": [
+   [
+    0,
+    0
+   ],
+   [
+    1,
+    0
+   ],
+   [
+    1,
+    1
+   ],
+   [
+    0,
+    1
+   ]
+  ]
+ },
+ "M466M": {
+  "src": "Modules/DYNAMICS/M466M/PHOTOS/1976 - M466M - Compressor Meter.jpg",
+  "quad": [
+   [
+    0.15,
+    0.01
+   ],
+   [
+    0.34,
+    0.01
+   ],
+   [
+    0.34,
+    0.995
+   ],
+   [
+    0.15,
+    0.995
+   ]
+  ]
+ },
+ "M470D": {
+  "src": "Modules/INPUT-PRE-AMPS/M470D/PHOTOS/1977 - M470D - Input Module 2.jpg",
+  "quad": [
+   [
+    0.01,
+    0.39
+   ],
+   [
+    0.99,
+    0.39
+   ],
+   [
+    0.99,
+    0.61
+   ],
+   [
+    0.01,
+    0.61
+   ]
+  ]
+ },
+ "M498A": {
+  "src": "Modules/ROUTING/M498A/PHOTOS/19xx - M498A - 10 X 1 - Switch module.jpg",
+  "quad": [
+   [
+    0.075,
+    0.005
+   ],
+   [
+    0.255,
+    0.005
+   ],
+   [
+    0.255,
+    0.99
+   ],
+   [
+    0.075,
+    0.99
+   ]
+  ]
+ },
+ "M520A": {
+  "src": "Modules/INPUT-PRE-AMPS/M520A/PHOTOS/1988 - M520A - IMG_3421 (2).jpg",
+  "quad": [
+   [
+    0.306,
+    0.17
+   ],
+   [
+    0.603,
+    0.17
+   ],
+   [
+    0.603,
+    1
+   ],
+   [
+    0.306,
+    1
+   ]
+  ]
+ },
+ "M520K": {
+  "src": "Modules/INPUT-PRE-AMPS/M520K/PHOTOS/1988 - M520K - 1 (2).jpg",
+  "quad": [
+   [
+    0.05,
+    0
+   ],
+   [
+    0.95,
+    0
+   ],
+   [
+    0.95,
+    1
+   ],
+   [
+    0.05,
+    1
+   ]
+  ]
+ },
+ "M522B": {
+  "src": "Modules/FILTERS/M522B/PHOTOS/19xx - M522B - wbsps - module - m522b equlizer 006.jpg",
+  "quad": [
+   [
+    0.34,
+    0.12
+   ],
+   [
+    0.57,
+    0.11
+   ],
+   [
+    0.59,
+    0.865
+   ],
+   [
+    0.34,
+    0.865
+   ]
+  ]
+ },
+ "M522C": {
+  "src": "Modules/FILTERS/M522C/PHOTOS/19xx - M522C - IMG_3073.jpg",
+  "quad": [
+   [
+    0.34,
+    0.15
+   ],
+   [
+    0.57,
+    0.15
+   ],
+   [
+    0.57,
+    0.84
+   ],
+   [
+    0.34,
+    0.84
+   ]
+  ]
+ },
+ "M559A": {
+  "src": "Modules/ROUTING/M559A/PHOTOS/19xx - M559A - IMG_3057.jpg",
+  "quad": [
+   [
+    0.364,
+    0.17
+   ],
+   [
+    0.576,
+    0.17
+   ],
+   [
+    0.576,
+    0.81
+   ],
+   [
+    0.342,
+    0.81
+   ]
+  ]
+ },
+ "M604": {
+  "src": "Modules/AMPLIFIERS/M604/PHOTOS/1967 - M604 - Power Supply.jpg",
+  "quad": [
+   [
+    0.146,
+    0.61
+   ],
+   [
+    0.889,
+    0.61
+   ],
+   [
+    0.889,
+    0.985
+   ],
+   [
+    0.146,
+    0.985
+   ]
+  ]
+ },
+ "M612": {
+  "src": "Modules/AMPLIFIERS/M612/PHOTOS/1977 - M612 - IMG_3290.jpg",
+  "quad": [
+   [
+    0.3,
+    0.27
+   ],
+   [
+    0.62,
+    0.28
+   ],
+   [
+    0.6,
+    0.79
+   ],
+   [
+    0.3,
+    0.73
+   ]
+  ]
+ },
+ "M625": {
+  "src": "Modules/POWER/M625/PHOTOS/1978 - M625 - Power supply.jpg",
+  "quad": [
+   [
+    0.125,
+    0.415
+   ],
+   [
+    0.834,
+    0.415
+   ],
+   [
+    0.834,
+    0.84
+   ],
+   [
+    0.125,
+    0.84
+   ]
+  ]
+ },
+ "M625B": {
+  "src": "Modules/POWER/M625B/PHOTOS/1978 - M625B - Power Supply.jpg",
+  "quad": [
+   [
+    0.147,
+    0.61
+   ],
+   [
+    0.855,
+    0.61
+   ],
+   [
+    0.855,
+    0.97
+   ],
+   [
+    0.147,
+    0.97
+   ]
+  ]
+ },
+ "M628": {
+  "src": "Modules/POWER/M628/PHOTOS/19xx - M628 - Lamp Power Supply.jpg",
+  "quad": [
+   [
+    0.2,
+    0.17
+   ],
+   [
+    0.9,
+    0.17
+   ],
+   [
+    0.9,
+    0.86
+   ],
+   [
+    0.2,
+    0.86
+   ]
+  ]
+ },
+ "M666": {
+  "src": "Modules/AMPLIFIERS/M666/PHOTOS/19xx - M666 - file.jpg",
+  "quad": [
+   [
+    0.095,
+    0.41
+   ],
+   [
+    0.905,
+    0.41
+   ],
+   [
+    0.905,
+    0.8
+   ],
+   [
+    0.095,
+    0.8
+   ]
+  ]
+ },
+ "M7880": {
+  "src": "Modules/COMMUNICATION/M7880/PHOTOS/1994 - M7880 - Screen Shot 2013-03-10 at 10.52.45 PM.png",
+  "quad": [
+   [
+    0.024,
+    0.59
+   ],
+   [
+    0.935,
+    0.59
+   ],
+   [
+    0.935,
+    0.88
+   ],
+   [
+    0.024,
+    0.88
+   ]
+  ]
+ },
+ "M806A": {
+  "src": "Modules/AMPLIFIERS/M806A/PHOTOS/19xx - M806A - l12beckadcon-02.jpg",
+  "quad": [
+   [
+    0.036,
+    0.13
+   ],
+   [
+    0.24,
+    0.13
+   ],
+   [
+    0.24,
+    0.9
+   ],
+   [
+    0.036,
+    0.9
+   ]
+  ]
+ },
+ "RM405": {
+  "src": "Modules/METER/RM405/PHOTOS/19xx - RM405 - $_57-2.jpg",
+  "quad": [
+   [
+    0,
+    0.02
+   ],
+   [
+    0.93,
+    0.02
+   ],
+   [
+    0.93,
+    0.93
+   ],
+   [
+    0,
+    0.93
+   ]
+  ]
+ },
+ "RM424S": {
+  "src": "Modules/UNSORTED/RM424S/PHOTOS/19xx - RM424S - wbspatch0.jpg",
+  "quad": [
+   [
+    0.004,
+    0.48
+   ],
+   [
+    0.986,
+    0.48
+   ],
+   [
+    0.986,
+    0.69
+   ],
+   [
+    0.004,
+    0.69
+   ]
+  ]
+ },
+ "M424S": {
+  "src": "Modules/UNSORTED/M424S/PHOTOS/1969 - M424S - wbsps - module - m424s patch bay 001.jpg",
+  "quad": [
+   [
+    0.004,
+    0.48
+   ],
+   [
+    0.986,
+    0.48
+   ],
+   [
+    0.986,
+    0.69
+   ],
+   [
+    0.004,
+    0.69
+   ]
+  ]
+ },
+ "M463A": {
+  "src": "Modules/SUMMING/M463A/PHOTOS/1972 - M463A - 001.jpg",
+  "quad": [
+   [
+    0.073,
+    0
+   ],
+   [
+    0.27,
+    0
+   ],
+   [
+    0.27,
+    0.97
+   ],
+   [
+    0.073,
+    0.97
+   ]
+  ]
+ },
+ "M7884": {
+  "src": "Modules/COMMUNICATION/M7884/PHOTOS/19xx - M7884 - 11589_wbs_m7884_01.jpg",
+  "quad": [
+   [
+    0.166,
+    0.63
+   ],
+   [
+    0.895,
+    0.69
+   ],
+   [
+    0.895,
+    0.97
+   ],
+   [
+    0.166,
+    0.845
+   ]
+  ]
+ },
+ "M901A": {
+  "src": "Modules/UNSORTED/M901A/MECHANICAL/19xx - 901-03-004 - UNIVERSAL INPUT MODULE - DRN DRG - ISS 3.jpg",
+  "box": [
+   0.46,
+   0.12,
+   0.53,
+   0.87
+  ]
+ },
+ "M901B": {
+  "src": "Modules/UNSORTED/M901B/MECHANICAL/19xx - 901-03-005 - M901E MIC INPUT MODULE - ISS 4 or 5 (handwritten, unclear).jpg",
+  "box": [
+   0.335,
+   0.12,
+   0.395,
+   0.89
+  ]
+ },
+ "M901C": {
+  "src": "Modules/UNSORTED/M901C/MECHANICAL/19xx - 901-03-006 - LINE INPUT MODULE - DRN DRG - ISS 3.jpg",
+  "box": [
+   0.44,
+   0.1,
+   0.5,
+   0.87
+  ]
+ },
+ "M905A": {
+  "src": "Modules/UNSORTED/M905A/MECHANICAL/19xx - 905-03-001 - CONTROLLER MONITOR MODULE - DRN DRG - ISS 6.jpg",
+  "box": [
+   0.445,
+   0.09,
+   0.512,
+   0.86
+  ]
+ },
+ "M907": {
+  "src": "Modules/UNSORTED/M907/MECHANICAL/19xx - 907-03-001 - MASTER MODULE - DRN DRG - ISS 2.jpg",
+  "box": [
+   0.452,
+   0.11,
+   0.508,
+   0.855
+  ]
+ },
+ "M922": {
+  "src": "Modules/FILTERS/M922/MECHANICAL/19xx - 922-03-001 - M922A STEREO EQUALIZER MODULE - DRN DRG - ISS 3.jpg",
+  "box": [
+   0.34,
+   0.26,
+   0.4,
+   0.69
+  ]
+ }
+}
