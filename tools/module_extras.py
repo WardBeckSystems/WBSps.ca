@@ -52,10 +52,19 @@ def link(src, dst):
 
 
 def traces_by_module(con):
-    """{module dir (relative to 2026): [(2026 path of the scan, page or None, traced svg)]}"""
+    """{module dir (relative to 2026): [(2026 path of the scan, page or None, traced svg)]}
+
+    A trace is kept by the scan's sha256 under the path it was traced at (traces.dest); every filed copy with the same
+    bytes (table files: a module's kind folders, other modules, moved files) gets it too."""
     out = {}
-    rows = [(d, None, i) for d, i in con.execute("SELECT dest, info FROM traces WHERE dest LIKE 'Modules/%'")]
-    rows += con.execute("SELECT dest, page, info FROM trace_pages WHERE dest LIKE 'Modules/%'").fetchall()
+    copies = {}
+    for dest, h in con.execute("SELECT dest, sha256 FROM files WHERE dest LIKE 'Modules/%'"):
+        copies.setdefault(h, []).append(dest)
+    rows = []
+    for h, d, i in con.execute("SELECT sha256, dest, info FROM traces WHERE made != ''"):
+        rows += [(c, None, i) for c in set(copies.get(h, [])) | ({d} if d.startswith('Modules/') else set())]
+    for h, p, d, i in con.execute("SELECT sha256, page, dest, info FROM trace_pages WHERE made != ''"):
+        rows += [(c, p, i) for c in set(copies.get(h, [])) | ({d} if d.startswith('Modules/') else set())]
     for dest, page, info in rows:
         try:
             svg = json.loads(info).get('out') or ''
