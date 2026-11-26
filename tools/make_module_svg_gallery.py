@@ -108,6 +108,53 @@ def card(m):
             f'<figure>{fig}</figure>{src}{drawings}</section>')
 
 
+ASSETS = os.path.join(ROOT, '2026', 'siumulation-plugins', 'assets')
+R2K = ['R201', 'R202', 'R203', 'R204', 'R205', 'R206', 'R206A', 'R207', 'R208', 'R209', 'R209A', 'R210', 'R221', 'R241',
+       'R248', 'R251', 'R252', 'R254', 'R257', 'METERBRIDGE']
+
+
+def natural(code):
+    return [int(t) if t.isdigit() else t for t in re.split(r'(\d+)', code)]
+
+
+def product_card(code, link, faces, note=''):
+    """A POD or R2K module: its faces (front, rear …) from the simulator art in siumulation-plugins/assets."""
+    imgs = []
+    for label, name in faces:
+        if os.path.exists(os.path.join(ASSETS, name)):
+            href = f'../siumulation-plugins/assets/{u(name)}'
+            imgs.append(f'<a href="{href}" title="{e(label)}"><img decoding="async" alt="{e(code)} {e(label)}" src="{href}"></a>'
+                        f'<small>{e(label)}</small>')
+    state = 'panel' if imgs else 'nopanel'
+    fig = ''.join(imgs) or '<div class="none">no panel SVG yet</div>'
+    head = f'<a href="{link}">{e(code)}</a>' if link else e(code)
+    return (f'<section class="mod prod {state}" data-name="{e(code.lower())} {e(note.lower())}">'
+            f'<h3>{head}</h3><figure class="faces">{fig}</figure></section>')
+
+
+def products():
+    """(section name, cards, count with art, total)"""
+    out = []
+    pod_dir = os.path.join(ROOT, '2026', 'Products', 'PODS')
+    folders = {d for d in os.listdir(pod_dir) if os.path.isdir(os.path.join(pod_dir, d))}
+    alias = {'POD14B': 'pod14b-unbalance-in', 'POD23A': 'pod23-a', 'POD29L': 'pod29l'}
+    art = {re.sub(r'-front.*', '', n) for n in os.listdir(ASSETS) if re.match(r'pod[^-]*(-a|-unbalance-in)?-front', n)}
+    codes = folders | {next((k for k, v in alias.items() if v == a), a.upper()) for a in art}
+    cards = []
+    for c in sorted(codes, key=natural):
+        b = alias.get(c, c.lower())
+        names = sorted(os.listdir(ASSETS))
+        front = next((n for n in (f'{b}-front.svg', f'{b}-front-white.svg', f'{b}-front-green.svg') if n in names), None)
+        rears = [n for n in names if re.fullmatch(re.escape(b) + r'-rear[^/]*\.svg', n) and '-ink' not in n]
+        faces = ([('front', front)] if front else []) + [(n[len(b) + 1:-4].replace('-', ' '), n) for n in rears]
+        link = f'../Products/PODS/{u(c)}/' if c in folders else ''
+        cards.append(product_card(c, link, faces, 'pods'))
+    out.append(('PODS', cards, sum('class="mod prod panel"' in c for c in cards), len(cards)))
+    cards = [product_card(c, '../Consoles/1990-1999/R2K/', [('front', f'consoles-r2k-{c.lower()}.svg')], 'r2k') for c in R2K]
+    out.append(('R2K', cards, sum('class="mod prod panel"' in c for c in cards), len(cards)))
+    return out
+
+
 def main():
     mods = [module(d.rstrip(os.sep)) for d in sorted(glob.glob(os.path.join(MODS, '*', '*', '')))]
     n_panel = sum(m['panel'] and not m['blank'] for m in mods)
@@ -119,7 +166,12 @@ def main():
         cats.setdefault(m['cat'], []).append(m)
     body = ''.join(f'<h2 id="{e(c)}">{e(c)} <small>{len(ms)}</small></h2><div class="grid">{"".join(card(m) for m in ms)}</div>'
                    for c, ms in sorted(cats.items()))
-    nav = ' '.join(f'<a href="#{e(c)}">{e(c)}</a>' for c in sorted(cats))
+    extra = products()
+    body += ''.join(f'<h2 id="{e(n)}">{e(n)} <small>{len(cs)}</small></h2><div class="grid wide">{"".join(cs)}</div>'
+                    for n, cs, _, _ in extra)
+    nav = ' '.join(f'<a href="#{e(c)}">{e(c)}</a>' for c in sorted(cats)) + ' ' + ' '.join(
+        f'<a href="#{e(n)}">{e(n)}</a>' for n, *_ in extra)
+    prod_line = ' · '.join(f'{n}: {k} of {t} drawn' for n, _, k, t in extra)
     page = f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Module SVGs · WBSps.ca Archive</title><link rel="icon" href="../WBS_Logo.svg">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&display=swap">
@@ -143,10 +195,12 @@ details summary{{cursor:pointer;font-size:13px}}.dw{{list-style:none;margin:6px 
 .dw li{{display:flex;flex-direction:column;gap:2px;font-size:11px;word-break:break-word;border-top:1px dotted var(--rule);padding-top:4px}}
 .dw img{{width:100%;max-height:160px;object-fit:contain;background:#f3f1ea}}.dw .none{{padding:6px}}
 details[open]{{grid-column:1/-1}}.mod:has(details[open]){{grid-column:1/-1}}.mod:has(details[open]) .dw{{grid-template-columns:repeat(auto-fill,minmax(200px,1fr))}}
+.grid.wide{{grid-template-columns:repeat(auto-fill,minmax(340px,1fr))}}
+.mod figure.faces{{height:auto;min-height:120px;flex-direction:column;gap:4px;padding:6px}}.mod figure.faces img{{height:auto;max-height:240px;width:100%}}
 .hide{{display:none}}.foot{{margin-top:30px;text-align:center;color:var(--faint);font-size:13px}}</style></head><body><article class="sheet">
 <div class="crumbs"><a href="../index.html">Index</a><a href="./">Modules</a><a href="svg.html">SVGs</a></div>
 <h1>Module SVGs</h1>
-<p><small>{len(mods)} modules · {n_panel} front panels drawn{f" · {n_blank} outline only (no panel art in the archive)" if n_blank else ""} · {n_tr} drawings traced, {n_un} not traced yet</small></p>
+<p><small>{len(mods)} modules · {n_panel} front panels drawn{f" · {n_blank} outline only (no panel art in the archive)" if n_blank else ""} · {n_tr} drawings traced, {n_un} not traced yet · {prod_line}</small></p>
 <div class="bar"><input id="q" type="search" placeholder="M460, FILTERS …" aria-label="Find a module">
 <select id="f" aria-label="Show"><option value="">every module</option><option value="panel">with a front panel</option>
 <option value="nopanel">no front panel yet</option><option value="untraced">drawings not traced yet</option></select></div>
