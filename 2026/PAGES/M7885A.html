@@ -28,9 +28,10 @@ blockquote { margin:6px 0; padding-left:12px; border-left:2px solid var(--rule);
 .sheet details.json pre { max-height:420px; overflow:auto; font-size:12px; background:#f1ede0; padding:8px; white-space:pre }
 .sheet details.json pre { max-height:420px; overflow:auto; font-size:12px; background:#f1ede0; padding:8px; white-space:pre }
 .wbs-conn { display:flex; gap:16px; align-items:flex-start } .wbs-conn .wbs-panel { flex:none; width:96px; height:auto; margin-top:6px }
-.wbs-face { flex:none; display:flex; flex-direction:column; gap:8px; align-items:center } .wbs-face .wbs-live:not(:empty) + .wbs-panel { display:none }
+.wbs-face { flex:none; display:flex; flex-direction:column; gap:8px; align-items:center } .wbs-face .wbs-live:not(:empty) + svg.wbs-panel { display:none }
 .wbs-face .flip { font-size:12px; cursor:pointer; color:var(--link); text-decoration:underline; background:none; border:0; font-family:inherit }
-.wbs-conn .wbs-main { flex:1; min-width:0 } svg.wbs-panel.solo { width:110px; height:auto; display:block; margin:6px 0 12px }
+.wbs-conn .wbs-main { flex:1; min-width:0 } .wbs-panel.solo { width:110px; height:auto; display:block; margin:6px 0 12px }
+img.wbs-panel { background:#fff; border:1px solid var(--rule) } .wbs-panel-a:hover { background:none }
 @media (max-width:600px) { .wbs-conn .wbs-panel { width:58px } .wbs-conn { gap:8px } }
 .foot { margin-top:36px; text-align:center; color:var(--faint) }
 .sheet details { border-left:3px solid var(--rule); padding:2px 0 2px 12px; margin:8px 0 2px } .sheet details summary { cursor:pointer; font-weight:700 }
@@ -95,7 +96,7 @@ blockquote { margin:6px 0; padding-left:12px; border-left:2px solid var(--rule);
 </table>
 <h2>Connections</h2>
 <p><em>What it is made of and what it is part of.</em></p>
-<div class="wbs-conn"><div class="wbs-face"><div class="wbs-live" data-m="M7885A" data-n="" data-cat="COMMUNICATION"></div><svg class="wbs-panel" data-m="M7885A" data-n="" data-cat="COMMUNICATION" role="img" aria-label="M7885A front panel (drawn from the simulator's layout)"></svg></div><div class="wbs-main"><div class="wbs-spice"></div><script type="application/json" class="wbs-spice-data">{"code":"M7885A","title":"","rto":null,"parts":[{"item":"SA14-218","title":"SA14-219 - ASSEMBLY - FRONT PANEL","label":"SA14-218 SA14-219 - ASSEMBLY - FRON","href":"Register-Circuit-boards-SA14-nnn.html#sa14-218","note":"Circuit boards (SA14-nnn)"},{"item":"SA14-219","title":"SA14-219 - ASSEMBLY - FRONT PANEL","label":"SA14-219 SA14-219 - ASSEMBLY - FRON","href":"Register-Circuit-boards-SA14-nnn.html#sa14-219","note":"Circuit boards (SA14-nnn)"}],"parents":[{"label":"960196","href":"Job-960196.html","note":"console / job"}]}</script></div></div>
+<div class="wbs-conn"><div class="wbs-face"><div class="wbs-live" data-m="M7885A" data-n="" data-cat="COMMUNICATION"></div><a class="wbs-panel-a" href="../viewer.html?f=Modules/COMMUNICATION/M7885A/MECHANICAL/M7885A%20-%20front%20panel.svg"><img class="wbs-panel" src="../Modules/COMMUNICATION/M7885A/MECHANICAL/M7885A%20-%20front%20panel.svg" alt="M7885A front panel" data-f="Modules/COMMUNICATION/M7885A/MECHANICAL/M7885A - front panel.svg" loading="lazy" onerror="wbsOff(this)"></a></div><div class="wbs-main"><div class="wbs-spice"></div><script type="application/json" class="wbs-spice-data">{"code":"M7885A","title":"","rto":null,"parts":[{"item":"SA14-218","title":"SA14-219 - ASSEMBLY - FRONT PANEL","label":"SA14-218 SA14-219 - ASSEMBLY - FRON","href":"Register-Circuit-boards-SA14-nnn.html#sa14-218","note":"Circuit boards (SA14-nnn)"},{"item":"SA14-219","title":"SA14-219 - ASSEMBLY - FRONT PANEL","label":"SA14-219 SA14-219 - ASSEMBLY - FRON","href":"Register-Circuit-boards-SA14-nnn.html#sa14-219","note":"Circuit boards (SA14-nnn)"}],"parents":[{"label":"960196","href":"Job-960196.html","note":"console / job"}]}</script></div></div>
 <script src="wbs_spice.js"></script>
 
 <h2>Pinout &amp; connections</h2>

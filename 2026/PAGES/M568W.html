@@ -28,9 +28,10 @@ blockquote { margin:6px 0; padding-left:12px; border-left:2px solid var(--rule);
 .sheet details.json pre { max-height:420px; overflow:auto; font-size:12px; background:#f1ede0; padding:8px; white-space:pre }
 .sheet details.json pre { max-height:420px; overflow:auto; font-size:12px; background:#f1ede0; padding:8px; white-space:pre }
 .wbs-conn { display:flex; gap:16px; align-items:flex-start } .wbs-conn .wbs-panel { flex:none; width:96px; height:auto; margin-top:6px }
-.wbs-face { flex:none; display:flex; flex-direction:column; gap:8px; align-items:center } .wbs-face .wbs-live:not(:empty) + .wbs-panel { display:none }
+.wbs-face { flex:none; display:flex; flex-direction:column; gap:8px; align-items:center } .wbs-face .wbs-live:not(:empty) + svg.wbs-panel { display:none }
 .wbs-face .flip { font-size:12px; cursor:pointer; color:var(--link); text-decoration:underline; background:none; border:0; font-family:inherit }
-.wbs-conn .wbs-main { flex:1; min-width:0 } svg.wbs-panel.solo { width:110px; height:auto; display:block; margin:6px 0 12px }
+.wbs-conn .wbs-main { flex:1; min-width:0 } .wbs-panel.solo { width:110px; height:auto; display:block; margin:6px 0 12px }
+img.wbs-panel { background:#fff; border:1px solid var(--rule) } .wbs-panel-a:hover { background:none }
 @media (max-width:600px) { .wbs-conn .wbs-panel { width:58px } .wbs-conn { gap:8px } }
 .foot { margin-top:36px; text-align:center; color:var(--faint) }
 .sheet details { border-left:3px solid var(--rule); padding:2px 0 2px 12px; margin:8px 0 2px } .sheet details summary { cursor:pointer; font-weight:700 }
@@ -86,7 +87,7 @@ blockquote { margin:6px 0; padding-left:12px; border-left:2px solid var(--rule);
 </tbody>
 </table><h2>Pictures</h2><div class="thumbs"><a href="../viewer.html?f=Modules/ROUTING/M568W/MECHANICAL/19xx%20-%20M568W%20-%20568-04-021%20-%20MODULE%20FRONT%20PANEL%20SCNLE%20DISC.jpg"><img loading="lazy" src="../Modules/ROUTING/M568W/MECHANICAL/19xx%20-%20M568W%20-%20568-04-021%20-%20MODULE%20FRONT%20PANEL%20SCNLE%20DISC.jpg" alt="" data-f="Modules/ROUTING/M568W/MECHANICAL/19xx - M568W - 568-04-021 - MODULE FRONT PANEL SCNLE DISC.jpg" data-size="320" onerror="wbsOff(this)" data-rot="90" onload="wbsTurn(this)">19xx - M568W - 568-04-021 - MODULE FRONT PANEL SCNLE DISC.jpg</a><a href="../viewer.html?f=Modules/ROUTING/M568W/SCHEMATICS/19xx%20-%20568-02-021%20-%20HEADPHONE%20AMPLIFIER%20MODULE%20SCHEMATIC.jpg"><img loading="lazy" src="../Modules/ROUTING/M568W/SCHEMATICS/19xx%20-%20568-02-021%20-%20HEADPHONE%20AMPLIFIER%20MODULE%20SCHEMATIC.jpg" alt="" data-f="Modules/ROUTING/M568W/SCHEMATICS/19xx - 568-02-021 - HEADPHONE AMPLIFIER MODULE SCHEMATIC.jpg" data-size="320" onerror="wbsOff(this)">19xx - 568-02-021 - HEADPHONE AMPLIFIER MODULE SCHEMATIC.jpg</a><a href="../viewer.html?f=Modules/ROUTING/M568W/SCHEMATICS/19xx%20-%20M568W%20-%20568-02-021.jpg"><img loading="lazy" src="../Modules/ROUTING/M568W/SCHEMATICS/19xx%20-%20M568W%20-%20568-02-021.jpg" alt="" data-f="Modules/ROUTING/M568W/SCHEMATICS/19xx - M568W - 568-02-021.jpg" data-size="320" onerror="wbsOff(this)">19xx - M568W - 568-02-021.jpg</a><a href="../viewer.html?f=Modules/ROUTING/M568W/SCHEMATICS/19xx%20-%20M568W%20-%20568-06-021.jpg"><img loading="lazy" src="../Modules/ROUTING/M568W/SCHEMATICS/19xx%20-%20M568W%20-%20568-06-021.jpg" alt="" data-f="Modules/ROUTING/M568W/SCHEMATICS/19xx - M568W - 568-06-021.jpg" data-size="320" onerror="wbsOff(this)">19xx - M568W - 568-06-021.jpg</a></div>
 <h2>Front panel</h2>
-<p><svg class="wbs-panel solo" data-m="M568W" data-n="" data-cat="ROUTING" role="img" aria-label="M568W front panel"></svg></p>
+<p><a class="wbs-panel-a" href="../viewer.html?f=Modules/ROUTING/M568W/MECHANICAL/M568W%20-%20front%20panel.svg"><img class="wbs-panel solo" src="../Modules/ROUTING/M568W/MECHANICAL/M568W%20-%20front%20panel.svg" alt="M568W front panel" data-f="Modules/ROUTING/M568W/MECHANICAL/M568W - front panel.svg" loading="lazy" onerror="wbsOff(this)"></a></p>
 <h2>Photos &amp; scans (4)</h2>
 <table>
 <thead>

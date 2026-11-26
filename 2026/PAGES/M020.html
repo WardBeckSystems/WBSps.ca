@@ -28,9 +28,10 @@ blockquote { margin:6px 0; padding-left:12px; border-left:2px solid var(--rule);
 .sheet details.json pre { max-height:420px; overflow:auto; font-size:12px; background:#f1ede0; padding:8px; white-space:pre }
 .sheet details.json pre { max-height:420px; overflow:auto; font-size:12px; background:#f1ede0; padding:8px; white-space:pre }
 .wbs-conn { display:flex; gap:16px; align-items:flex-start } .wbs-conn .wbs-panel { flex:none; width:96px; height:auto; margin-top:6px }
-.wbs-face { flex:none; display:flex; flex-direction:column; gap:8px; align-items:center } .wbs-face .wbs-live:not(:empty) + .wbs-panel { display:none }
+.wbs-face { flex:none; display:flex; flex-direction:column; gap:8px; align-items:center } .wbs-face .wbs-live:not(:empty) + svg.wbs-panel { display:none }
 .wbs-face .flip { font-size:12px; cursor:pointer; color:var(--link); text-decoration:underline; background:none; border:0; font-family:inherit }
-.wbs-conn .wbs-main { flex:1; min-width:0 } svg.wbs-panel.solo { width:110px; height:auto; display:block; margin:6px 0 12px }
+.wbs-conn .wbs-main { flex:1; min-width:0 } .wbs-panel.solo { width:110px; height:auto; display:block; margin:6px 0 12px }
+img.wbs-panel { background:#fff; border:1px solid var(--rule) } .wbs-panel-a:hover { background:none }
 @media (max-width:600px) { .wbs-conn .wbs-panel { width:58px } .wbs-conn { gap:8px } }
 .foot { margin-top:36px; text-align:center; color:var(--faint) }
 .sheet details { border-left:3px solid var(--rule); padding:2px 0 2px 12px; margin:8px 0 2px } .sheet details summary { cursor:pointer; font-weight:700 }
@@ -83,8 +84,8 @@ blockquote { margin:6px 0; padding-left:12px; border-left:2px solid var(--rule);
 </table>
 <h2>Connections</h2>
 <p><em>What it is made of and what it is part of.</em></p>
-<div class="wbs-conn"><div class="wbs-face"><div class="wbs-live" data-m="M020" data-n="" data-cat="UNSORTED"></div><svg class="wbs-panel" data-m="M020" data-n="" data-cat="UNSORTED" role="img" aria-label="M020 front panel (drawn from the simulator's layout)"></svg></div><div class="wbs-main"><div class="wbs-spice"></div><script type="application/json" class="wbs-spice-data">{"code":"M020","title":"","rto":null,"parts":[],"parents":[{"label":"M490E","href":"M490E.html","note":"on 1 drawing with it: Stereo Input Module"}]}</script></div></div>
-<script src="wbs_spice.js"></script><h2>Pictures</h2><div class="thumbs"><a href="../viewer.html?f=Modules/UNSORTED/M020/SCHEMATICS/19xx%20-%20020%20-%20M490EA%20...EO%20INPUT%20MODULE%20SCHEMATIC%20-%20ISS%201.jpg"><img loading="lazy" src="../Modules/UNSORTED/M020/SCHEMATICS/19xx%20-%20020%20-%20M490EA%20...EO%20INPUT%20MODULE%20SCHEMATIC%20-%20ISS%201.jpg" alt="" data-f="Modules/UNSORTED/M020/SCHEMATICS/19xx - 020 - M490EA ...EO INPUT MODULE SCHEMATIC - ISS 1.jpg" data-size="320" onerror="wbsOff(this)">19xx - 020 - M490EA ...EO INPUT MODULE SCHEMATIC - ISS 1.jpg</a></div>
+<div class="wbs-conn"><div class="wbs-face"><div class="wbs-live" data-m="M020" data-n="" data-cat="UNSORTED"></div><a class="wbs-panel-a" href="../viewer.html?f=Modules/UNSORTED/M020/MECHANICAL/M020%20-%20front%20panel.svg"><img class="wbs-panel" src="../Modules/UNSORTED/M020/MECHANICAL/M020%20-%20front%20panel.svg" alt="M020 front panel" data-f="Modules/UNSORTED/M020/MECHANICAL/M020 - front panel.svg" loading="lazy" onerror="wbsOff(this)"></a></div><div class="wbs-main"><div class="wbs-spice"></div><script type="application/json" class="wbs-spice-data">{"code":"M020","title":"","rto":null,"parts":[],"parents":[{"label":"M490E","href":"M490E.html","note":"on 1 drawing with it: Stereo Input Module"}]}</script></div></div>
+<script src="wbs_spice.js"></script><h2>Pictures</h2><div class="thumbs"><a href="../viewer.html?f=Modules/UNSORTED/M020/SCHEMATICS/19xx%20-%20020%20-%20M490EA%20...EO%20INPUT%20MODULE%20SCHEMATIC%20-%20ISS%201.jpg"><img loading="lazy" src="../Modules/UNSORTED/M020/SCHEMATICS/19xx%20-%20020%20-%20M490EA%20...EO%20INPUT%20MODULE%20SCHEMATIC%20-%20ISS%201.jpg" alt="" data-f="Modules/UNSORTED/M020/SCHEMATICS/19xx - 020 - M490EA ...EO INPUT MODULE SCHEMATIC - ISS 1.jpg" data-size="320" onerror="wbsOff(this)" data-rot="180" onload="wbsTurn(this)">19xx - 020 - M490EA ...EO INPUT MODULE SCHEMATIC - ISS 1.jpg</a></div>
 
 <h2>Photos &amp; scans (1)</h2>
 <table>

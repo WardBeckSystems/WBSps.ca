@@ -28,9 +28,10 @@ blockquote { margin:6px 0; padding-left:12px; border-left:2px solid var(--rule);
 .sheet details.json pre { max-height:420px; overflow:auto; font-size:12px; background:#f1ede0; padding:8px; white-space:pre }
 .sheet details.json pre { max-height:420px; overflow:auto; font-size:12px; background:#f1ede0; padding:8px; white-space:pre }
 .wbs-conn { display:flex; gap:16px; align-items:flex-start } .wbs-conn .wbs-panel { flex:none; width:96px; height:auto; margin-top:6px }
-.wbs-face { flex:none; display:flex; flex-direction:column; gap:8px; align-items:center } .wbs-face .wbs-live:not(:empty) + .wbs-panel { display:none }
+.wbs-face { flex:none; display:flex; flex-direction:column; gap:8px; align-items:center } .wbs-face .wbs-live:not(:empty) + svg.wbs-panel { display:none }
 .wbs-face .flip { font-size:12px; cursor:pointer; color:var(--link); text-decoration:underline; background:none; border:0; font-family:inherit }
-.wbs-conn .wbs-main { flex:1; min-width:0 } svg.wbs-panel.solo { width:110px; height:auto; display:block; margin:6px 0 12px }
+.wbs-conn .wbs-main { flex:1; min-width:0 } .wbs-panel.solo { width:110px; height:auto; display:block; margin:6px 0 12px }
+img.wbs-panel { background:#fff; border:1px solid var(--rule) } .wbs-panel-a:hover { background:none }
 @media (max-width:600px) { .wbs-conn .wbs-panel { width:58px } .wbs-conn { gap:8px } }
 .foot { margin-top:36px; text-align:center; color:var(--faint) }
 .sheet details { border-left:3px solid var(--rule); padding:2px 0 2px 12px; margin:8px 0 2px } .sheet details summary { cursor:pointer; font-weight:700 }
@@ -82,7 +83,7 @@ blockquote { margin:6px 0; padding-left:12px; border-left:2px solid var(--rule);
 </tbody>
 </table><h2>Pictures</h2><div class="thumbs"><a href="../viewer.html?f=Modules/UNSORTED/M158/SCHEMATICS/1969%20-%20158-06-003%20-%20COMPONENT%20LAYOUT%20M158%20-%20DRN%20DJG%20-%20ISS%206.jpg"><img loading="lazy" src="../Modules/UNSORTED/M158/SCHEMATICS/1969%20-%20158-06-003%20-%20COMPONENT%20LAYOUT%20M158%20-%20DRN%20DJG%20-%20ISS%206.jpg" alt="" data-f="Modules/UNSORTED/M158/SCHEMATICS/1969 - 158-06-003 - COMPONENT LAYOUT M158 - DRN DJG - ISS 6.jpg" data-size="320" onerror="wbsOff(this)" data-rot="90" onload="wbsTurn(this)">1969 - 158-06-003 - COMPONENT LAYOUT M158 - DRN DJG - ISS 6.jpg</a><a href="../viewer.html?f=Modules/AMPLIFIERS/M411/MANUALS/1969%20-%20M411%20-%20P13.jpg"><img loading="lazy" src="../Modules/AMPLIFIERS/M411/MANUALS/1969%20-%20M411%20-%20P13.jpg" alt="" data-f="Modules/AMPLIFIERS/M411/MANUALS/1969 - M411 - P13.jpg" data-size="320" onerror="wbsOff(this)">1969 - M411 - P13.jpg</a><a href="../viewer.html?f=Modules/AMPLIFIERS/M411/MANUALS/1969%20-%20M411%20-%20P3.jpg"><img loading="lazy" src="../Modules/AMPLIFIERS/M411/MANUALS/1969%20-%20M411%20-%20P3.jpg" alt="" data-f="Modules/AMPLIFIERS/M411/MANUALS/1969 - M411 - P3.jpg" data-size="320" onerror="wbsOff(this)">1969 - M411 - P3.jpg</a></div>
 <h2>Front panel</h2>
-<p><svg class="wbs-panel solo" data-m="M158" data-n="" data-cat="UNSORTED" role="img" aria-label="M158 front panel"></svg></p>
+<p><a class="wbs-panel-a" href="../viewer.html?f=Modules/UNSORTED/M158/MECHANICAL/M158%20-%20front%20panel.svg"><img class="wbs-panel solo" src="../Modules/UNSORTED/M158/MECHANICAL/M158%20-%20front%20panel.svg" alt="M158 front panel" data-f="Modules/UNSORTED/M158/MECHANICAL/M158 - front panel.svg" loading="lazy" onerror="wbsOff(this)"></a></p>
 <h2>Photos &amp; scans (1)</h2>
 <table>
 <thead>

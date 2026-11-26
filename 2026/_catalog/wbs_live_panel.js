@@ -78,10 +78,12 @@ font:700 9px/1.2 Arial,sans-serif;letter-spacing:.06em}.wl-screw{width:10px;heig
     if (!window.React || !window.Knob) { el.textContent = ''; return; }
     if (!document.getElementById('wl-css')) document.head.insertAdjacentHTML('beforeend', `<style id="wl-css">${css}</style>`);
     loadPresets().then(P => ReactDOM.createRoot(el).render(h(Panel, { m, P })));
-    const cad = el.nextElementSibling && el.nextElementSibling.matches('svg.wbs-panel') ? el.nextElementSibling : null;
-    if (cad) {   // live ⇄ the CAD line drawing
-      const b = Object.assign(document.createElement('button'), { className: 'flip', type: 'button', textContent: 'as a drawing' });
+    const nx = el.nextElementSibling, cad = !nx ? null : nx.matches('svg.wbs-panel') ? nx : nx.matches('.wbs-panel-a') ? nx : null;
+    if (cad) {   // live ⇄ the front panel (the module's own SVG shows first; a drawn layout gives way to the live one)
+      const own = cad.matches('.wbs-panel-a');
+      const b = Object.assign(document.createElement('button'), { className: 'flip', type: 'button', textContent: own ? 'live' : 'as a drawing' });
       cad.after(b);
+      if (own) el.style.display = 'none';
       b.onclick = () => { const live = el.style.display !== 'none'; el.style.display = live ? 'none' : ''; cad.style.display = live ? 'block' : 'none';
                           b.textContent = live ? 'live' : 'as a drawing'; };
     }

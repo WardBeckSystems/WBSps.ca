@@ -28,9 +28,10 @@ blockquote { margin:6px 0; padding-left:12px; border-left:2px solid var(--rule);
 .sheet details.json pre { max-height:420px; overflow:auto; font-size:12px; background:#f1ede0; padding:8px; white-space:pre }
 .sheet details.json pre { max-height:420px; overflow:auto; font-size:12px; background:#f1ede0; padding:8px; white-space:pre }
 .wbs-conn { display:flex; gap:16px; align-items:flex-start } .wbs-conn .wbs-panel { flex:none; width:96px; height:auto; margin-top:6px }
-.wbs-face { flex:none; display:flex; flex-direction:column; gap:8px; align-items:center } .wbs-face .wbs-live:not(:empty) + .wbs-panel { display:none }
+.wbs-face { flex:none; display:flex; flex-direction:column; gap:8px; align-items:center } .wbs-face .wbs-live:not(:empty) + svg.wbs-panel { display:none }
 .wbs-face .flip { font-size:12px; cursor:pointer; color:var(--link); text-decoration:underline; background:none; border:0; font-family:inherit }
-.wbs-conn .wbs-main { flex:1; min-width:0 } svg.wbs-panel.solo { width:110px; height:auto; display:block; margin:6px 0 12px }
+.wbs-conn .wbs-main { flex:1; min-width:0 } .wbs-panel.solo { width:110px; height:auto; display:block; margin:6px 0 12px }
+img.wbs-panel { background:#fff; border:1px solid var(--rule) } .wbs-panel-a:hover { background:none }
 @media (max-width:600px) { .wbs-conn .wbs-panel { width:58px } .wbs-conn { gap:8px } }
 .foot { margin-top:36px; text-align:center; color:var(--faint) }
 .sheet details { border-left:3px solid var(--rule); padding:2px 0 2px 12px; margin:8px 0 2px } .sheet details summary { cursor:pointer; font-weight:700 }
@@ -90,7 +91,7 @@ blockquote { margin:6px 0; padding-left:12px; border-left:2px solid var(--rule);
 </tbody>
 </table><h2>Pictures</h2><div class="thumbs"><a href="../viewer.html?f=DOCUMENTS/RECENT%20SCANS/WBSps.ca%2020210321%20-%20scans/1970%20-%20DOC%20-%202021-3-21-17-30-15.jpg"><img loading="lazy" src="../DOCUMENTS/RECENT%20SCANS/WBSps.ca%2020210321%20-%20scans/1970%20-%20DOC%20-%202021-3-21-17-30-15.jpg" alt="" data-f="DOCUMENTS/RECENT SCANS/WBSps.ca 20210321 - scans/1970 - DOC - 2021-3-21-17-30-15.jpg" data-size="320" onerror="wbsOff(this)">1970 - DOC - 2021-3-21-17-30-15.jpg</a><a href="../viewer.html?f=Modules/UNSORTED/M748/SCHEMATICS/1971%20-%20M748%20-%20M748%20MEMORY%20CARD%20SCHEMATIC%20-%20ISS%202.jpg"><img loading="lazy" src="../Modules/UNSORTED/M748/SCHEMATICS/1971%20-%20M748%20-%20M748%20MEMORY%20CARD%20SCHEMATIC%20-%20ISS%202.jpg" alt="" data-f="Modules/UNSORTED/M748/SCHEMATICS/1971 - M748 - M748 MEMORY CARD SCHEMATIC - ISS 2.jpg" data-size="320" onerror="wbsOff(this)">1971 - M748 - M748 MEMORY CARD SCHEMATIC - ISS 2.jpg</a></div>
 <h2>Front panel</h2>
-<p><svg class="wbs-panel solo" data-m="M748" data-n="" data-cat="COMMUNICATION" role="img" aria-label="M748 front panel"></svg></p>
+<p><a class="wbs-panel-a" href="../viewer.html?f=Modules/UNSORTED/M748/MECHANICAL/M748%20-%20front%20panel.svg"><img class="wbs-panel solo" src="../Modules/UNSORTED/M748/MECHANICAL/M748%20-%20front%20panel.svg" alt="M748 front panel" data-f="Modules/UNSORTED/M748/MECHANICAL/M748 - front panel.svg" loading="lazy" onerror="wbsOff(this)"></a></p>
 <h2>Dates found in the documents</h2>
 <table>
 <thead>
