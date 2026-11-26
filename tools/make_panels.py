@@ -14,7 +14,12 @@ Each panel comes from the best thing in the archive that shows the module's face
   none      nothing in the archive shows the panel: a plain outline, marked data-from="none", with a small note
 The crop is found by shape: two long parallel edges closed top and bottom, tall and narrow (a module), with the
 most drawn parts (knobs, keys, meters, lettering) inside. tools/panels.json overrides any module: a source file, a
-box (fractions of the upright sheet), four corners of a photo, panel art, or "none" with the reason.
+box (fractions of the upright sheet), four corners of a photo, panel art, or "none" with the reason; "long" draws
+a whole-console sheet larger so the one strip cut out of it keeps its detail, "note" is kept as data-note (a variant
+sharing another's panel, a strip of a console layout).
+Console modules (the M900 series, built into Renaissance consoles) are drawn under the console job's number, not the
+module's, so the console folders are searched too: 2026/Consoles drawings whose title names the module (console_drawings)
+and the "layouts" tools/m900_series.json lists for it.
 Every panel is portrait (tall, one module wide); a panel drawn sideways is stood up. <svg data-from="<2026 path>"
 data-kind="<kind>"> records where it came from. Never draws a control or legend that is not in the source.
 
@@ -38,6 +43,8 @@ OUT = os.path.join(Y2026, '_catalog', 'panels')
 DB = os.path.join(Y2026, 'timelines', 'wbs_timeline.db')
 TRACER = os.path.join(Y2026, 'timelines', 'trace_svg.cjs')
 CONF = os.path.join(ROOT, 'tools', 'panels.json')
+CONSOLES = os.path.join(Y2026, 'Consoles')
+SERIES = os.path.join(ROOT, 'tools', 'm900_series.json')   # console modules: code -> function, consoles, drawings
 LONG = 2000                     # the tracer's sheet: long side in px
 MIN_SCORE = 4                   # a crop with less in it (about one knob and a few marks) is not taken as a panel
 MIN_LAYOUT = 10                 # on a sheet not named for the front panel, a crop needs a few controls in it
@@ -47,6 +54,9 @@ SKIP_KINDS = {'OCR', 'KICAD', 'PINOUTS', 'SOFTWARE'}
 FRONT = re.compile(r'FRONT\s*PANEL|FRONT\s*PNL|ESCUTCHEON|FACE\s*PLATE|FACEPLATE|SILK|PANEL\s*LAYOU|FRONT\s*&\s*REAR\s*LAYOUT', re.I)
 NOT_FRONT = re.compile(r'REAR PANEL|DISPLAY SCREEN|LOCK LATCH|MTG PLATE|MOUNTING PLATE|SCHEMATIC|wbsps - (promo|module)', re.I)
 LAYOUT = re.compile(r'(?<![0-9])\d{2,4}-04-\d{3}')
+JOB_DRAWING = re.compile(r'(?<![0-9])\d{3,6}-0[34]-\d{3}')     # a console job's layout (-04-) or metalwork (-03-)
+NOT_FACE = re.compile(r'TOP PLATE|BOTTOM PLATE|BACKPLANE|COVER|BRACKET|BOARD|COMPONENT LAYOUT|CONNECTOR', re.I)
+CODE_OCR = re.compile(r'\bM([0-9IGQ])([0-9OIL])([0-9OILSBG])([A-Z]{0,3})\b')
 
 
 # ---------------------------------------------------------------- sources
@@ -88,6 +98,65 @@ def candidates(dirs):
     return sorted(out)
 
 
+def ocr_code(s):
+    """The module codes a drawing title names, with the scanner's misreadings put right (MIOINW -> M901NW, MIOSNW ->
+    M905NW, M9O1CY -> M901CY): {code}."""
+    first, second, third = str.maketrans('IGQ', '999'), str.maketrans('OIL', '011'), str.maketrans('OILSBG', '011589')
+    return {f'M{a.translate(first)}{b.translate(second)}{c.translate(third)}{x}'
+            for a, b, c, x in CODE_OCR.findall(s.upper())}
+
+
+_console = None
+
+
+def console_drawings():
+    """{code: [path]}: the console folders' drawings of one module's face. A console job draws its modules under the
+    job number, not the module's (940238-04-003 M901NW STEREO LINE INPUT MODULE LAYOUT, 940444-03-006 M901BY/CY
+    CUSTOM INPUT MODULES), so a module folder never holds them. Taken: a -04- layout or a -03- module drawing whose
+    title (file name, else the title block in its .md note) names one module, or two sharing the sheet (BY/CY); and
+    every drawing tools/m900_series.json lists as a module's "layouts". A whole-console layout (one strip per module,
+    many codes) is not taken here: tools/panels.json crops a strip out of it by hand."""
+    global _console
+    if _console is not None:
+        return _console
+    _console = {}
+    for root, dirs, files in os.walk(CONSOLES):
+        dirs[:] = [d for d in dirs if not d.startswith(('.', '_'))]
+        for f in files:
+            if not f.lower().endswith(PICS) or '_small' in f or not JOB_DRAWING.search(f):
+                continue
+            p = os.path.join(root, f)
+            title = f
+            md = p + '.md'
+            if os.path.exists(md):
+                m = re.search(r'"title_block":\[(.*?)\]', open(md, encoding='utf-8', errors='ignore').read())
+                title += ' ' + (m.group(1) if m else '')
+            if not (re.search(r'LAYOUT|MODULE', title, re.I) or FRONT.search(title)) or NOT_FRONT.search(f) or \
+                    NOT_FACE.search(title):
+                continue
+            title = re.sub(r'\b(M\w+)/([A-Z]{1,2})\b', r'\1 \1/\2', title.upper())    # M901BY/CY: both
+            codes = ocr_code(title)
+            codes |= {re.sub(r'[A-Z]+$', '', c) + s for c in codes for s in re.findall(r'/([A-Z]{1,2})\b', title)}
+            if 1 <= len(codes) <= 2:
+                for c in codes:
+                    _console.setdefault(c, []).append(p)
+    try:
+        series = json.load(open(SERIES, encoding='utf-8')).get('modules', {})
+    except (OSError, ValueError):
+        series = {}
+    for code, m in series.items():
+        for s in m.get('drawings', {}).get('layouts', []):
+            p = os.path.join(Y2026, s)
+            if os.path.exists(p) and p not in _console.get(code, []):
+                _console.setdefault(code, []).append(p)
+    return _console
+
+
+def console_candidates(code):
+    """The console drawings of one module, as candidates(): a layout (-04-) ranks with a module's own layouts."""
+    return sorted((1 if extracted(p) else 3, p) for p in console_drawings().get(code, []))
+
+
 # ---------------------------------------------------------------- sheets
 
 _rot = None
@@ -107,17 +176,19 @@ def rotation(p):
     return _rot.get(rel(p)) or 0
 
 
-def picture(p, deg=None):
-    """The picture upright, long side LONG, as an RGB PIL image."""
+def picture(p, deg=None, long=None):
+    """The picture upright, long side LONG (or long: a whole console sheet, where one module is a narrow strip), as an
+    RGB PIL image."""
     from PIL import Image, ImageOps
     Image.MAX_IMAGE_PIXELS = None
+    long = long or LONG
     im = Image.open(p)
-    im.draft('RGB', (LONG * 2, LONG * 2))
+    im.draft('RGB', (long * 2, long * 2))
     im = ImageOps.exif_transpose(im).convert('RGB')
     deg = rotation(p) if deg is None else deg
     if deg:
         im = im.rotate(deg, expand=True, fillcolor='white')
-    s = LONG / max(im.size)
+    s = long / max(im.size)
     return im.resize((round(im.width * s), round(im.height * s)), Image.LANCZOS)
 
 
@@ -327,8 +398,8 @@ def trace_ink(ink):
     return ''.join(re.findall(r'<path class="[a-z]+" d="([^"]+)"', t))
 
 
-def from_picture(p, box=None, deg=None):
-    im = picture(p, deg)
+def from_picture(p, box=None, deg=None, long=None):
+    im = picture(p, deg, long)
     ink = ink_of(im)
     H, W = ink.shape
     if box is None:
@@ -410,19 +481,20 @@ def make(code, dirs, conf):
         if 'quad' in c:
             body, w, h = from_photo(p, c['quad'], c.get('rot'), c.get('invert'))
             kind = 'photo'
-        elif extracted(p) and c.get('rot') is None:
+        elif extracted(p) and c.get('rot') is None and not c.get('long'):
             body, w, h, _ = from_trace(extracted(p), c.get('box'))
             kind = c.get('kind', 'traced' if FRONT.search(os.path.basename(p)) else 'layout')
         else:
-            r = from_picture(p, c.get('box'), c.get('rot'))
+            r = from_picture(p, c.get('box'), c.get('rot'), c.get('long'))
             if not r:
                 raise RuntimeError(f'{code}: no panel found in {c["src"]}')
             body, w, h, _ = r
             kind = c.get('kind', 'drawing')
-        return wrap(body, w, h, rel(p), kind), kind, rel(p)
+        note = f' data-note="{escape(c["note"])}"' if c.get('note') else ''
+        return wrap(body, w, h, rel(p), kind, note), kind, rel(p)
     skip = set(c.get('skip', []))
     found = []
-    for rank, p in candidates(dirs):
+    for rank, p in sorted(candidates(dirs) + console_candidates(code)):
         if rel(p) in skip:
             continue
         ex = extracted(p)
@@ -481,7 +553,7 @@ def propose(codes, mods, out):
     from PIL import Image, ImageDraw
     cells, table = [], {}
     for code in codes:
-        for i, (rank, p) in enumerate(candidates(mods[code])[:8]):
+        for i, (rank, p) in enumerate(sorted(candidates(mods[code]) + console_candidates(code))[:8]):
             letter = 'abcdefgh'[i]
             ex = extracted(p)
             try:
@@ -541,7 +613,7 @@ def main():
         return
     if '--list' in args:
         for code in codes or mods:
-            for rank, p in candidates(mods[code]):
+            for rank, p in sorted(candidates(mods[code]) + console_candidates(code)):
                 print(code, rank, rel(p))
         return
     os.makedirs(OUT, exist_ok=True)

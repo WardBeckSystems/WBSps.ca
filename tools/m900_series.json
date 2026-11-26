@@ -1,0 +1,918 @@
+{
+ "_about": "The M900 series: Ward-Beck console modules, almost all for the Renaissance radio console (MKI/MKII/MKIII, 1993-97; M920-M927 for the REN TV console). Code -> function, the consoles (job numbers) whose drawings show it, the drawing its front panel is drawn from (tools/panels.json holds the crop) and its other drawings (2026 paths). Console jobs draw a module under the job number (940238-04-003, 940444-03-006), and their OCR garbles codes (MIOINW = M901NW, MIOSNW = M905NW, M9O1CY = M901CY). tools/make_panels.py reads \"drawings.layouts\" as front-panel candidates. Built 2026-11-25|59 from the console folders, title blocks, OCR notes and the AutoCAD files.",
+ "consoles": {
+  "930351": "SABC - Renaissance MKII",
+  "940153": "Renaissance MKI (standard)",
+  "940238": "CKNW Radio, Vancouver - Renaissance MKII/MKIII",
+  "940332": "Rogers CFTR On Air - Renaissance MKI",
+  "940333": "Rogers CFTR Booth - Renaissance MKI",
+  "940334": "CHFI Radio - Renaissance MKII",
+  "940335": "Rogers CHFI Production - Renaissance MKII",
+  "940350": "CBC Charlottetown - Renaissance MKII",
+  "940351": "Telemedia Network Radio - custom Renaissance MKII",
+  "940356": "CBC Gander - Renaissance MKII",
+  "940376": "CKWX Vancouver - Renaissance MKII",
+  "940410": "CJIB Vernon - Renaissance MKII",
+  "940444": "WBZ Boston News Air Studio - Renaissance MKI",
+  "940446": "WBZ Boston News Edit Booth - Renaissance MKI",
+  "940447": "WBZ Boston Control Room - Renaissance MKII",
+  "940448": "WBZ Boston Tape Ops - Renaissance MKII",
+  "94054": "Renaissance (job 94054)",
+  "94064": "WBZ Boston Tape Ops (functional) - Renaissance MKII",
+  "950144": "Renaissance (job 950144)",
+  "95015": "Canadian Chinese Radio - Renaissance MKII",
+  "950190": "CKRA-FM Edmonton - Renaissance MKII",
+  "950224": "Fanshawe College - Renaissance MKII",
+  "950225": "YBC Holdings - Renaissance MKII",
+  "950278": "Renaissance (job 950278)",
+  "950361": "Rogers Broadcasting - Renaissance MKI",
+  "96002": "CFNY - master control room",
+  "960077": "CFNY Radio - custom Renaissance MKII",
+  "960208": "CHIQ Radio - Renaissance MKII",
+  "960243": "WODS Boston - Renaissance MKIII",
+  "960296": "CBC Regina - central electronics"
+ },
+ "modules": {
+  "M900": {
+   "module_folder": "Modules/UNSORTED/M900",
+   "function": "Renaissance console frame and metalwork (900-03-xxx: MK series tub, meter bridge, bottom pans, connector panels, SAS APC-88 panel); not a plug-in module",
+   "consoles": [
+    "all Renaissance consoles"
+   ],
+   "front_panel": {
+    "src": "Modules/UNSORTED/M900/MECHANICAL/19xx - 900-03-035 - FRONT PANEL - DRN DRG - ISS 1.jpg",
+    "kind": "drawing",
+    "note": "900-03-035 FRONT PANEL (console metalwork), already in tools/panels.json"
+   },
+   "drawings": {}
+  },
+  "M901": {
+   "module_folder": "Modules/UNSORTED/M901",
+   "function": "Renaissance input module (family code; the variants A/B/C/D/BY/CY/NW/NX are the built versions)",
+   "consoles": [
+    "940238 CKNW Radio, Vancouver - Renaissance MKII/MKIII",
+    "940334 CHFI Radio - Renaissance MKII",
+    "940448 WBZ Boston Tape Ops - Renaissance MKII"
+   ],
+   "front_panel": {
+    "src": "Consoles/1990-1999/940448/1994 - 940448 - DOC - 940448-04-002 - ODULES ARE WIRED BUT NOT SUPPLIIED INITIALLY FUTURE.jpg",
+    "kind": "layout",
+    "note": "the first of the five strips labelled M901 (FUTURE inputs) on the WBZ Tape Ops console layout, drawn like the M901CY strips beside them"
+   },
+   "drawings": {
+    "documents": [
+     "Consoles/1990-1999/940238 - CKNW/1994 - 940238 - DOC - 2021-3-16-21-57-4.jpg",
+     "Consoles/1990-1999/960243/1996 - 960243 - DOC - 2021-3-17-0-1-35.jpg"
+    ],
+    "functional": [
+     "Consoles/1990-1999/940334/1994 - 940334 - DOC - 940334-01-001 - ARE INTEGRATED INTO CONSOLE TORPEY TIME CLOCK COMPLETE.jpg"
+    ],
+    "console_layouts": [
+     "Consoles/1990-1999/940448/1994 - 940448 - DOC - 940448-04-002 - ODULES ARE WIRED BUT NOT SUPPLIIED INITIALLY FUTURE.jpg"
+    ]
+   }
+  },
+  "M901A": {
+   "module_folder": "Modules/UNSORTED/M901A",
+   "function": "universal (mic/line) input module, stereo",
+   "consoles": [
+    "940332 Rogers CFTR On Air - Renaissance MKI",
+    "940333 Rogers CFTR Booth - Renaissance MKI",
+    "940334 CHFI Radio - Renaissance MKII",
+    "940335 Rogers CHFI Production - Renaissance MKII",
+    "940376 CKWX Vancouver - Renaissance MKII",
+    "940410 CJIB Vernon - Renaissance MKII",
+    "940446 WBZ Boston News Edit Booth - Renaissance MKI",
+    "95015 Canadian Chinese Radio - Renaissance MKII",
+    "950224 Fanshawe College - Renaissance MKII",
+    "950225 YBC Holdings - Renaissance MKII",
+    "950278 Renaissance (job 950278)",
+    "96002 CFNY - master control room",
+    "960077 CFNY Radio - custom Renaissance MKII"
+   ],
+   "front_panel": {
+    "src": "Modules/UNSORTED/M901A/MECHANICAL/19xx - 901-03-004 - UNIVERSAL INPUT MODULE - DRN DRG - ISS 3.jpg",
+    "kind": "drawing",
+    "note": "901-03-004 module drawing (kept)"
+   },
+   "drawings": {
+    "console_layouts": [
+     "Consoles/1990-1999/940332/1994 - 940332 - DOC - 940332-04-001 - OTHERS AND ARE INTEGRATED INTO THE CONSOLE.jpg",
+     "Consoles/1990-1999/940333 - CFTR/1994 - 940333 - DOC - 940333-04-001 - OTHERS AND ARE INTEGRATED INTO THE CONSOLE.jpg",
+     "Consoles/1990-1999/940334/1994 - 940334 - DOC - 940334-04-001 - OTHERS AND ARE INTEGRATED INTO THE CONSOLE.jpg",
+     "Consoles/1990-1999/940335 - CHFI/1994 - 940335 - DOC - 940335-04-001 - OTHERS AND ARE INTEGRA TED INTO THE CONSOLE.jpg",
+     "Consoles/1990-1999/940376 - CKWX Radio/1994 - 940376 - DOC - 940376-04-001 - LES ARE FULLY WIRED BUT NOT SUPPLIED INITIALLY.jpg",
+     "Consoles/1990-1999/940410/1994 - 940410 - DOC - 940410-04-001 - FUTURE MODULES ARE FULLY WRED BUT NOT SUPPLIED.jpg",
+     "Consoles/1990-1999/940446/1994 - 940446 - DOC - 940446-04-001 - OTHERS ELECTRICALLY AND MECHANICALLY INTEGRATED INTO CONSOLE.jpg",
+     "Consoles/1990-1999/95015/1995 - 95015 - DOC - 95015-04-002 - CANADIAN CHINESE RADIO ENG RENAISSANCE MKII.jpg",
+     "Consoles/1990-1999/950224/1995 - 950224 - DOC - 950224-04-001 - HCADPHONE MUIE HOM STUDIO HUE TABTEKCOR HOHMOR.jpg",
+     "Consoles/1990-1999/950224/1995 - 950224 - DOC - 950224-04-001 - OPTIONAL IISSUE REVSION.jpg",
+     "Consoles/1990-1999/950225/1995 - 950225 - DOC - 950225-04-001 - HEADPKONE UME HUTE STUDIO TOTACOO VONITOR.jpg",
+     "Consoles/1990-1999/950278/1995 - 950278 - DOC - 950278-04-001 - HEADPHONE MUNE DON STUDIO HUTE TAKBUSICER KORNOR.jpg",
+     "Consoles/1990-1999/96002 - CFNY/1996 - 96002 - DOC - 96002-04-004 - CFNY ENG MASTER CONTROL ROOM.jpg",
+     "Consoles/1990-1999/960077/1996 - 960077 - DOC - 960077-04-001 - MASTER CONTROL ROOM.jpg"
+    ],
+    "functional": [
+     "Consoles/1990-1999/940335 - CHFI/1994 - 940335 - DOC - 940335-01-001 - NEL ARE INTEGRATED INTO CONSOLE TORPEY TIME CLOCK.jpg",
+     "Consoles/1990-1999/940376 - CKWX Radio/1994 - 940376 - DOC - 940376-01-001 - STUDIO MONITOR LINE SELECTOR.jpg",
+     "Consoles/1990-1999/940376 - CKWX Radio/1994 - 940376-01-001 - CKWX RADIO RENAISSANCE MK II FUNCTIONAL - DRN SM - ENG SM - ISS 2.jpg"
+    ]
+   }
+  },
+  "M901B": {
+   "module_folder": "Modules/UNSORTED/M901B",
+   "function": "mono mic input module (pan, aux 1/2, A/B source keys)",
+   "consoles": [
+    "950190 CKRA-FM Edmonton - Renaissance MKII",
+    "960208 CHIQ Radio - Renaissance MKII"
+   ],
+   "front_panel": {
+    "src": "Modules/UNSORTED/M901B/MECHANICAL/19xx - 901-03-005 - M901E MIC INPUT MODULE - ISS 4 or 5 (handwritten, unclear).jpg",
+    "kind": "drawing",
+    "note": "901-03-005 module drawing (kept); matches the M901B strips on the 950190 / 960208 console layouts"
+   },
+   "drawings": {
+    "console_layouts": [
+     "Consoles/1990-1999/950190/1995 - 950190 - DOC - 950190-04-001 - NOIE FUTURE MODULES ARE WIRED BUT NOT SUPPLIED.jpg",
+     "Consoles/1990-1999/960208/1996 - 960208 - DOC - 960208-04-001 - HEADPHONE HOM STUDIO MUE TNROTIKO LONIIOK.jpg",
+     "Consoles/1990-1999/960208/1996 - 960208 - DOC - 960208-04-001 - LAADEODE MUTE STUDIO TAMOURKERO VOHNCA.jpg"
+    ]
+   }
+  },
+  "M901BY": {
+   "module_folder": "Modules/UNSORTED/M901BY",
+   "function": "WBZ custom mic input module (B/A, P1/P2, fader, Q, CH ON)",
+   "consoles": [
+    "940444 WBZ Boston News Air Studio - Renaissance MKI",
+    "940447 WBZ Boston Control Room - Renaissance MKII",
+    "940448 WBZ Boston Tape Ops - Renaissance MKII",
+    "94064 WBZ Boston Tape Ops (functional) - Renaissance MKII"
+   ],
+   "front_panel": {
+    "src": "Consoles/1990-1999/940444/1994 - 940444-03-006 - M901BY CY CUSTOM INPUT MODULES - DRN DRG - ISS 1.jpg",
+    "kind": "drawing",
+    "note": "940444-03-006-1 (M901BY) panel elevation"
+   },
+   "drawings": {
+    "console_layouts": [
+     "Consoles/1990-1999/940444 - WBZ/1994 - 940444 - DOC - 940444-04-001 - OTHERS ELECTRICALLY AND MECHANICALLY INTEGRATED INTO CONSOLE.jpg",
+     "Consoles/1990-1999/940447/1994 - 940447 - DOC - 940447-04-002 - OTHERS ELECTRICALLY AND MECHANICALLY INTEGRATED INTO CONSOLE.jpg",
+     "Consoles/1990-1999/940448/1994 - 940448 - DOC - 940448-04-002 - ODULES ARE WIRED BUT NOT SUPPLIIED INITIALLY FUTURE.jpg"
+    ],
+    "metalwork": [
+     "Consoles/1990-1999/940444 - WBZ/1994 - 940444 - DOC - 940444-03-006 - LOVG FULL RAD SLOT SEE NOTE DOR ENTATIONS.jpg",
+     "Consoles/1990-1999/940444/1994 - 940444-03-006 - M901BY CY CUSTOM INPUT MODULES - DRN DRG - ISS 1.jpg"
+    ],
+    "functional": [
+     "Consoles/1990-1999/940444 - WBZ/1994 - 940444-01-001 - WBZ NEWS AIR STUDIO RENAISSANCE MK I FUNCTIONAL - DRN PAS - ENG SM - ISS 1.jpg",
+     "Consoles/1990-1999/94064 - WBZ Boston/1994 - 94064 - DOC - 94064-01-001 - ROUTING SWTCHER ARE INTEGRATED INTO CONSOLE.jpg",
+     "Consoles/1990-1999/94064 - WBZ Boston/1994 - 94064 - DOC - 94064-01-006 - DUAL STEREO LINE SELECTOR WHICH ARE PROVIDED.jpg",
+     "Consoles/1990-1999/94064 - WBZ/1994 - 94064-01-006 - WBZ TAPE OPS RENAISSANCE MK II FUNCTIONAL - DRN SM - ENG SM - ISS 1.jpg"
+    ],
+    "documents": [
+     "Consoles/1990-1999/940444 - WBZ/1994 - 940444 - DOC - Scan_20210323 (2).jpg",
+     "Consoles/1990-1999/960243/1996 - 960243 - DOC - 2021-3-17-0-1-35.jpg"
+    ],
+    "component_layouts": [
+     "Consoles/1990-1999/940444/1994 - 940444-06-100 - M901BY LINE INPUT MODULE COMPONENT LAYOUT - ISS 3.jpg"
+    ]
+   }
+  },
+  "M901C": {
+   "module_folder": "Modules/UNSORTED/M901C",
+   "function": "stereo line input module (balance, mode L/R, aux 1/2)",
+   "consoles": [
+    "950144 Renaissance (job 950144)",
+    "950190 CKRA-FM Edmonton - Renaissance MKII",
+    "960077 CFNY Radio - custom Renaissance MKII",
+    "960208 CHIQ Radio - Renaissance MKII"
+   ],
+   "front_panel": {
+    "src": "Modules/UNSORTED/M901C/MECHANICAL/19xx - 901-03-006 - LINE INPUT MODULE - DRN DRG - ISS 3.jpg",
+    "kind": "drawing",
+    "note": "901-03-006 module drawing (kept)"
+   },
+   "drawings": {
+    "console_layouts": [
+     "Consoles/1990-1999/950144/1995 - 950144 - DOC - 950144-04-001 - NOFTGTURE MODULES ARE WIRED INTO THE FRAME BUT.jpg",
+     "Consoles/1990-1999/950190/1995 - 950190 - DOC - 950190-04-001 - NOIE FUTURE MODULES ARE WIRED BUT NOT SUPPLIED.jpg",
+     "Consoles/1990-1999/960077/1996 - 960077 - DOC - 960077-04-001 - MASTER CONTROL ROOM.jpg",
+     "Consoles/1990-1999/960208/1996 - 960208 - DOC - 960208-04-001 - HEADPHONE HOM STUDIO MUE TNROTIKO LONIIOK.jpg",
+     "Consoles/1990-1999/960208/1996 - 960208 - DOC - 960208-04-001 - LAADEODE MUTE STUDIO TAMOURKERO VOHNCA.jpg"
+    ],
+    "documents": [
+     "Consoles/1990-1999/940350/1994 - 940350 - DOC - Scan_20210323.jpg"
+    ]
+   }
+  },
+  "M901CY": {
+   "module_folder": "Modules/UNSORTED/M901CY",
+   "function": "WBZ custom stereo line input module",
+   "consoles": [
+    "940444 WBZ Boston News Air Studio - Renaissance MKI",
+    "940447 WBZ Boston Control Room - Renaissance MKII",
+    "940448 WBZ Boston Tape Ops - Renaissance MKII"
+   ],
+   "front_panel": {
+    "src": "Consoles/1990-1999/940444/1994 - 940444-03-006 - M901BY CY CUSTOM INPUT MODULES - DRN DRG - ISS 1.jpg",
+    "kind": "drawing",
+    "note": "940444-03-006-2 (M901CY) panel elevation"
+   },
+   "drawings": {
+    "console_layouts": [
+     "Consoles/1990-1999/940444 - WBZ/1994 - 940444 - DOC - 940444-04-001 - OTHERS ELECTRICALLY AND MECHANICALLY INTEGRATED INTO CONSOLE.jpg",
+     "Consoles/1990-1999/940447/1994 - 940447 - DOC - 940447-04-002 - OTHERS ELECTRICALLY AND MECHANICALLY INTEGRATED INTO CONSOLE.jpg",
+     "Consoles/1990-1999/940448/1994 - 940448 - DOC - 940448-04-002 - ODULES ARE WIRED BUT NOT SUPPLIIED INITIALLY FUTURE.jpg"
+    ],
+    "metalwork": [
+     "Consoles/1990-1999/940444 - WBZ/1994 - 940444 - DOC - 940444-03-006 - LOVG FULL RAD SLOT SEE NOTE DOR ENTATIONS.jpg",
+     "Consoles/1990-1999/940444/1994 - 940444-03-006 - M901BY CY CUSTOM INPUT MODULES - DRN DRG - ISS 1.jpg"
+    ],
+    "documents": [
+     "Consoles/1990-1999/940444 - WBZ/1994 - 940444 - DOC - Scan_20210323.jpg",
+     "Consoles/1990-1999/960243/1996 - 960243 - DOC - 2021-3-17-0-1-35.jpg"
+    ],
+    "schematics": [
+     "Consoles/1990-1999/940444/1994 - 940444-02-200 - M901CY LINE INPUT MODULE SCHEMATIC - ISS 2.jpg"
+    ],
+    "component_layouts": [
+     "Consoles/1990-1999/940444/1994 - 940444-06-200 - M901CY LINE INPUT MODULE COMPONENT LAYOUT - ISS 4.jpg"
+    ]
+   }
+  },
+  "M901D": {
+   "module_folder": "Modules/UNSORTED/M901D",
+   "function": "input module with MIX MINUS key (Rogers 950361)",
+   "consoles": [
+    "950361 Rogers Broadcasting - Renaissance MKI"
+   ],
+   "front_panel": {
+    "src": "Consoles/1990-1999/950361/1995 - 950361 - DOC - 950361-04-001 - HEADPHONE HUTE STUDIO HUTE TKBUAKOQ HONTOR.jpg",
+    "kind": "layout",
+    "note": "CH 1 strip of the 950361 console layout (scan turned 2.6 degrees level)"
+   },
+   "drawings": {
+    "console_layouts": [
+     "Consoles/1990-1999/950361/1995 - 950361 - DOC - 950361-04-001 - HEADPHONE HUTE STUDIO HUTE TKBUAKOQ HONTOR.jpg"
+    ],
+    "documents": [
+     "Consoles/1990-1999/950361/1995 - 950361 - DOC - Scan_20210323.jpg"
+    ]
+   }
+  },
+  "M901NW": {
+   "module_folder": "Modules/UNSORTED/M901NW",
+   "function": "CKNW stereo line input module (layout title; the 940238-03-004 metalwork drawing calls it MIC INPUT MODULE)",
+   "consoles": [
+    "940238 CKNW Radio, Vancouver - Renaissance MKII/MKIII"
+   ],
+   "front_panel": {
+    "src": "Consoles/1990-1999/Renaisance/1994 - Renaisance - 940238-04-003 - MIOINW STEREO LINE INPUT MODULE LAYOUT.jpg",
+    "kind": "layout",
+    "note": "B 940238-04-003 ISS 3 module layout (OCR file name MIOINW = M901NW)"
+   },
+   "drawings": {
+    "layouts": [
+     "Consoles/1990-1999/Renaisance/1994 - Renaisance - 940238-04-003 - MIOINW STEREO LINE INPUT MODULE LAYOUT.jpg"
+    ],
+    "metalwork": [
+     "Consoles/1990-1999/940238 - CKNW/1994 - 940238 - DOC - 940238-03-004 - LONG FULL RAD SLOT SEE DEUAIL NOTE.jpg",
+     "Consoles/1990-1999/940238/1994 - 940238-03-004 - M901NW MIC INPUT MODULE - DRN DRG - ISS 1.jpg"
+    ],
+    "documents": [
+     "Consoles/1990-1999/940238 - CKNW/1994 - 940238 - DOC - Scan_20210323 (2).jpg"
+    ]
+   }
+  },
+  "M901NX": {
+   "module_folder": null,
+   "function": "CKNW mic input module (no module folder)",
+   "consoles": [
+    "940238 CKNW Radio, Vancouver - Renaissance MKII/MKIII"
+   ],
+   "front_panel": {
+    "src": "Consoles/1990-1999/940238/1994 - 940238-03-011 - M901NX MIC INPUT MODULE - DRN DRG - ISS 1.jpg",
+    "kind": "drawing",
+    "note": "no module folder: not drawn"
+   },
+   "drawings": {
+    "metalwork": [
+     "Consoles/1990-1999/940238/1994 - 940238-03-011 - M901NX MIC INPUT MODULE - DRN DRG - ISS 1.jpg"
+    ],
+    "documents": [
+     "Consoles/1990-1999/940238 - CKNW/1994 - 940238 - DOC - 2021-3-16-21-57-4.jpg",
+     "Consoles/1990-1999/940238 - CKNW/1994 - 940238 - DOC - Scan_20210323 (4).jpg"
+    ]
+   }
+  },
+  "M905A": {
+   "module_folder": "Modules/UNSORTED/M905A",
+   "function": "control room (CR MON) monitor module: 10-key source selector, mode L/R, auto cue, cue, bass, treble, EQ INS, headphone, mute, dim, monitor",
+   "consoles": [
+    "940332 Rogers CFTR On Air - Renaissance MKI",
+    "940333 Rogers CFTR Booth - Renaissance MKI",
+    "940334 CHFI Radio - Renaissance MKII",
+    "940335 Rogers CHFI Production - Renaissance MKII",
+    "940351 Telemedia Network Radio - custom Renaissance MKII",
+    "940376 CKWX Vancouver - Renaissance MKII",
+    "940410 CJIB Vernon - Renaissance MKII",
+    "940444 WBZ Boston News Air Studio - Renaissance MKI",
+    "940446 WBZ Boston News Edit Booth - Renaissance MKI",
+    "940447 WBZ Boston Control Room - Renaissance MKII",
+    "940448 WBZ Boston Tape Ops - Renaissance MKII",
+    "94054 Renaissance (job 94054)",
+    "94064 WBZ Boston Tape Ops (functional) - Renaissance MKII",
+    "950144 Renaissance (job 950144)",
+    "95015 Canadian Chinese Radio - Renaissance MKII",
+    "950190 CKRA-FM Edmonton - Renaissance MKII",
+    "950224 Fanshawe College - Renaissance MKII",
+    "950225 YBC Holdings - Renaissance MKII",
+    "950278 Renaissance (job 950278)",
+    "950361 Rogers Broadcasting - Renaissance MKI",
+    "96002 CFNY - master control room",
+    "960077 CFNY Radio - custom Renaissance MKII",
+    "960208 CHIQ Radio - Renaissance MKII"
+   ],
+   "front_panel": {
+    "src": "Modules/UNSORTED/M905A/MECHANICAL/19xx - 905-03-001 - CONTROLLER MONITOR MODULE - DRN DRG - ISS 6.jpg",
+    "kind": "drawing",
+    "note": "905-03-001 module drawing (kept)"
+   },
+   "drawings": {
+    "console_layouts": [
+     "Consoles/1990-1999/940332/1994 - 940332 - DOC - 940332-04-001 - OTHERS AND ARE INTEGRATED INTO THE CONSOLE.jpg",
+     "Consoles/1990-1999/940333 - CFTR/1994 - 940333 - DOC - 940333-04-001 - OTHERS AND ARE INTEGRATED INTO THE CONSOLE.jpg",
+     "Consoles/1990-1999/940334/1994 - 940334 - DOC - 940334-04-001 - OTHERS AND ARE INTEGRATED INTO THE CONSOLE.jpg",
+     "Consoles/1990-1999/940335 - CHFI/1994 - 940335 - DOC - 940335-04-001 - OTHERS AND ARE INTEGRA TED INTO THE CONSOLE.jpg",
+     "Consoles/1990-1999/940351 - Telemedia Network Radio/1994 - 940351-04-001 - TELEMEDIA NETWORK RADIO CUSTOM RENAISSANCE MKII LAYOUT - DRN SM - ENG SM - ISS 1.jpg",
+     "Consoles/1990-1999/940376 - CKWX Radio/1994 - 940376 - DOC - 940376-04-001 - LES ARE FULLY WIRED BUT NOT SUPPLIED INITIALLY.jpg",
+     "Consoles/1990-1999/940410/1994 - 940410 - DOC - 940410-04-001 - FUTURE MODULES ARE FULLY WRED BUT NOT SUPPLIED.jpg",
+     "Consoles/1990-1999/940444 - WBZ/1994 - 940444 - DOC - 940444-04-001 - OTHERS ELECTRICALLY AND MECHANICALLY INTEGRATED INTO CONSOLE.jpg",
+     "Consoles/1990-1999/940446/1994 - 940446 - DOC - 940446-04-001 - OTHERS ELECTRICALLY AND MECHANICALLY INTEGRATED INTO CONSOLE.jpg",
+     "Consoles/1990-1999/940447/1994 - 940447 - DOC - 940447-04-002 - OTHERS ELECTRICALLY AND MECHANICALLY INTEGRATED INTO CONSOLE.jpg",
+     "Consoles/1990-1999/940448/1994 - 940448 - DOC - 940448-04-002 - ODULES ARE WIRED BUT NOT SUPPLIIED INITIALLY FUTURE.jpg",
+     "Consoles/1990-1999/94054/1994 - 94054 - DOC - 94054-04-001 - CHNOM KOP TCNALI SSUEI REVSION.jpg",
+     "Consoles/1990-1999/950144/1995 - 950144 - DOC - 950144-04-001 - NOFTGTURE MODULES ARE WIRED INTO THE FRAME BUT.jpg",
+     "Consoles/1990-1999/95015/1995 - 95015 - DOC - 95015-04-002 - CANADIAN CHINESE RADIO ENG RENAISSANCE MKII.jpg",
+     "Consoles/1990-1999/950190/1995 - 950190 - DOC - 950190-04-001 - NOIE FUTURE MODULES ARE WIRED BUT NOT SUPPLIED.jpg",
+     "Consoles/1990-1999/950224/1995 - 950224 - DOC - 950224-04-001 - HCADPHONE MUIE HOM STUDIO HUE TABTEKCOR HOHMOR.jpg",
+     "Consoles/1990-1999/950224/1995 - 950224 - DOC - 950224-04-001 - OPTIONAL IISSUE REVSION.jpg",
+     "Consoles/1990-1999/950225/1995 - 950225 - DOC - 950225-04-001 - HEADPKONE UME HUTE STUDIO TOTACOO VONITOR.jpg",
+     "Consoles/1990-1999/950278/1995 - 950278 - DOC - 950278-04-001 - HEADPHONE MUNE DON STUDIO HUTE TAKBUSICER KORNOR.jpg",
+     "Consoles/1990-1999/950361/1995 - 950361 - DOC - 950361-04-001 - HEADPHONE HUTE STUDIO HUTE TKBUAKOQ HONTOR.jpg",
+     "Consoles/1990-1999/96002 - CFNY/1996 - 96002 - DOC - 96002-04-004 - CFNY ENG MASTER CONTROL ROOM.jpg",
+     "Consoles/1990-1999/960077/1996 - 960077 - DOC - 960077-04-001 - MASTER CONTROL ROOM.jpg",
+     "Consoles/1990-1999/960208/1996 - 960208 - DOC - 960208-04-001 - HEADPHONE HOM STUDIO MUE TNROTIKO LONIIOK.jpg",
+     "Consoles/1990-1999/960208/1996 - 960208 - DOC - 960208-04-001 - LAADEODE MUTE STUDIO TAMOURKERO VOHNCA.jpg"
+    ],
+    "documents": [
+     "Consoles/1990-1999/960243/1996 - 960243 - DOC - 2021-3-17-0-1-35.jpg"
+    ],
+    "functional": [
+     "Consoles/1990-1999/940332/1994 - 940332 - DOC - 940332-01-001 - TORPEY TIME CLOCK COMPLETE.jpg",
+     "Consoles/1990-1999/940335 - CHFI/1994 - 940335 - DOC - 940335-01-001 - NEL ARE INTEGRATED INTO CONSOLE TORPEY TIME CLOCK.jpg",
+     "Consoles/1990-1999/940335 - CHFI/1994 - 940335-01-001 - CHFI PRODUCTION RENAISSANCE MK II FUNCTIONAL - DRN SM - ENG SM - ISS 2.jpg",
+     "Consoles/1990-1999/94064 - WBZ Boston/1994 - 94064 - DOC - 94064-01-001 - ROUTING SWTCHER ARE INTEGRATED INTO CONSOLE.jpg"
+    ]
+   }
+  },
+  "M905B": {
+   "module_folder": "Modules/UNSORTED/M905B",
+   "function": "studio monitor (STD MON) module: 10x1 stereo selector (SA14-273), studio 1/2 headphones (annc, guest, mute, mon), talkback to announcer 1/2",
+   "consoles": [
+    "940332 Rogers CFTR On Air - Renaissance MKI",
+    "940333 Rogers CFTR Booth - Renaissance MKI",
+    "940334 CHFI Radio - Renaissance MKII",
+    "940335 Rogers CHFI Production - Renaissance MKII",
+    "940376 CKWX Vancouver - Renaissance MKII",
+    "940410 CJIB Vernon - Renaissance MKII",
+    "940444 WBZ Boston News Air Studio - Renaissance MKI",
+    "940446 WBZ Boston News Edit Booth - Renaissance MKI",
+    "940447 WBZ Boston Control Room - Renaissance MKII",
+    "940448 WBZ Boston Tape Ops - Renaissance MKII",
+    "94054 Renaissance (job 94054)",
+    "94064 WBZ Boston Tape Ops (functional) - Renaissance MKII",
+    "950144 Renaissance (job 950144)",
+    "950190 CKRA-FM Edmonton - Renaissance MKII",
+    "950224 Fanshawe College - Renaissance MKII",
+    "950225 YBC Holdings - Renaissance MKII",
+    "950278 Renaissance (job 950278)",
+    "950361 Rogers Broadcasting - Renaissance MKI",
+    "960208 CHIQ Radio - Renaissance MKII"
+   ],
+   "front_panel": {
+    "src": "Consoles/1990-1999/950190/1995 - 950190 - DOC - 950190-04-001 - NOIE FUTURE MODULES ARE WIRED BUT NOT SUPPLIED.jpg",
+    "kind": "layout",
+    "note": "STD MON strip of the CKRA-FM 950190 console layout"
+   },
+   "drawings": {
+    "console_layouts": [
+     "Consoles/1990-1999/940332/1994 - 940332 - DOC - 940332-04-001 - OTHERS AND ARE INTEGRATED INTO THE CONSOLE.jpg",
+     "Consoles/1990-1999/940333 - CFTR/1994 - 940333 - DOC - 940333-04-001 - OTHERS AND ARE INTEGRATED INTO THE CONSOLE.jpg",
+     "Consoles/1990-1999/940334/1994 - 940334 - DOC - 940334-04-001 - OTHERS AND ARE INTEGRATED INTO THE CONSOLE.jpg",
+     "Consoles/1990-1999/940335 - CHFI/1994 - 940335 - DOC - 940335-04-001 - OTHERS AND ARE INTEGRA TED INTO THE CONSOLE.jpg",
+     "Consoles/1990-1999/940376 - CKWX Radio/1994 - 940376 - DOC - 940376-04-001 - LES ARE FULLY WIRED BUT NOT SUPPLIED INITIALLY.jpg",
+     "Consoles/1990-1999/940410/1994 - 940410 - DOC - 940410-04-001 - FUTURE MODULES ARE FULLY WRED BUT NOT SUPPLIED.jpg",
+     "Consoles/1990-1999/940446/1994 - 940446 - DOC - 940446-04-001 - OTHERS ELECTRICALLY AND MECHANICALLY INTEGRATED INTO CONSOLE.jpg",
+     "Consoles/1990-1999/940447/1994 - 940447 - DOC - 940447-04-002 - OTHERS ELECTRICALLY AND MECHANICALLY INTEGRATED INTO CONSOLE.jpg",
+     "Consoles/1990-1999/940448/1994 - 940448 - DOC - 940448-04-002 - ODULES ARE WIRED BUT NOT SUPPLIIED INITIALLY FUTURE.jpg",
+     "Consoles/1990-1999/94054/1994 - 94054 - DOC - 94054-04-001 - CHNOM KOP TCNALI SSUEI REVSION.jpg",
+     "Consoles/1990-1999/950144/1995 - 950144 - DOC - 950144-04-001 - NOFTGTURE MODULES ARE WIRED INTO THE FRAME BUT.jpg",
+     "Consoles/1990-1999/950190/1995 - 950190 - DOC - 950190-04-001 - NOIE FUTURE MODULES ARE WIRED BUT NOT SUPPLIED.jpg",
+     "Consoles/1990-1999/950224/1995 - 950224 - DOC - 950224-04-001 - HCADPHONE MUIE HOM STUDIO HUE TABTEKCOR HOHMOR.jpg",
+     "Consoles/1990-1999/950224/1995 - 950224 - DOC - 950224-04-001 - OPTIONAL IISSUE REVSION.jpg",
+     "Consoles/1990-1999/950225/1995 - 950225 - DOC - 950225-04-001 - HEADPKONE UME HUTE STUDIO TOTACOO VONITOR.jpg",
+     "Consoles/1990-1999/950278/1995 - 950278 - DOC - 950278-04-001 - HEADPHONE MUNE DON STUDIO HUTE TAKBUSICER KORNOR.jpg",
+     "Consoles/1990-1999/950361/1995 - 950361 - DOC - 950361-04-001 - HEADPHONE HUTE STUDIO HUTE TKBUAKOQ HONTOR.jpg",
+     "Consoles/1990-1999/960208/1996 - 960208 - DOC - 960208-04-001 - HEADPHONE HOM STUDIO MUE TNROTIKO LONIIOK.jpg",
+     "Consoles/1990-1999/960208/1996 - 960208 - DOC - 960208-04-001 - LAADEODE MUTE STUDIO TAMOURKERO VOHNCA.jpg"
+    ],
+    "functional": [
+     "Consoles/1990-1999/940333 - CFTR/1994 - 940333 - DOC - 940333-01-001 - METER MNUS MODULE ISSUEI REMSION.jpg",
+     "Consoles/1990-1999/940333 - CFTR/1994 - 940333-01-001 - CFTR BOOTH RENAISSANCE MKI FUNCTIONAL - DRN SM - ENG SM - ISS 2.jpg",
+     "Consoles/1990-1999/940334/1994 - 940334 - DOC - 940334-01-001 - ARE INTEGRATED INTO CONSOLE TORPEY TIME CLOCK COMPLETE.jpg",
+     "Consoles/1990-1999/940335 - CHFI/1994 - 940335-01-001 - CHFI PRODUCTION RENAISSANCE MK II FUNCTIONAL - DRN SM - ENG SM - ISS 2.jpg",
+     "Consoles/1990-1999/940376 - CKWX Radio/1994 - 940376 - DOC - 940376-01-001 - STUDIO MONITOR LINE SELECTOR.jpg",
+     "Consoles/1990-1999/940376 - CKWX Radio/1994 - 940376-01-001 - CKWX RADIO RENAISSANCE MK II FUNCTIONAL - DRN SM - ENG SM - ISS 2.jpg",
+     "Consoles/1990-1999/94064 - WBZ Boston/1994 - 94064 - DOC - 94064-01-001 - ROUTING SWTCHER ARE INTEGRATED INTO CONSOLE.jpg",
+     "Consoles/1990-1999/94064 - WBZ Boston/1994 - 94064 - DOC - 94064-01-006 - DUAL STEREO LINE SELECTOR WHICH ARE PROVIDED.jpg",
+     "Consoles/1990-1999/94064 - WBZ/1994 - 94064-01-006 - WBZ TAPE OPS RENAISSANCE MK II FUNCTIONAL - DRN SM - ENG SM - ISS 1.jpg"
+    ],
+    "documents": [
+     "Consoles/1990-1999/940410/1994 - 940410 - DOC - 2021-3-16-22-57-52.jpg",
+     "Consoles/1990-1999/960243/1996 - 960243 - DOC - 2021-3-17-0-1-35.jpg"
+    ],
+    "schematics": [
+     "Consoles/1990-1999/940444/1994 - 940444-02-022 - M905B STUDIO MONITOR MODULE SCHEMATIC - ISS 1.jpg"
+    ],
+    "component_layouts": [
+     "Consoles/1990-1999/940444/1994 - 940444-06-302 - M905B STUDIO MONITOR MODULE COMPONENT LAYOUT - ISS 1.jpg"
+    ]
+   }
+  },
+  "M905NW": {
+   "module_folder": null,
+   "function": "CKNW controller (control room) monitor module (no module folder)",
+   "consoles": [
+    "940238 CKNW Radio, Vancouver - Renaissance MKII/MKIII"
+   ],
+   "front_panel": {
+    "src": "Consoles/1990-1999/Renaisance/1994 - Renaisance - 940238-04-004 - MIOSNW CONTROL ROOM MONITOR MODULE LAYOUT.jpg",
+    "kind": "layout",
+    "note": "no module folder: not drawn"
+   },
+   "drawings": {
+    "layouts": [
+     "Consoles/1990-1999/Renaisance/1994 - Renaisance - 940238-04-004 - MIOSNW CONTROL ROOM MONITOR MODULE LAYOUT (2).jpg",
+     "Consoles/1990-1999/Renaisance/1994 - Renaisance - 940238-04-004 - MIOSNW CONTROL ROOM MONITOR MODULE LAYOUT.jpg"
+    ],
+    "schematics": [
+     "Consoles/1990-1999/Renaisance/1994 - Renaisance - 940238-02-070 - MIOSNW CONTROL ROOM MONITOR MODULE SCHEMATIC (2).jpg",
+     "Consoles/1990-1999/Renaisance/1994 - Renaisance - 940238-02-070 - MIOSNW CONTROL ROOM MONITOR MODULE SCHEMATIC.jpg"
+    ],
+    "metalwork": [
+     "Consoles/1990-1999/940238 - CKNW/1994 - 940238 - DOC - 940238-03-005 - HODE HEAD PHONE MODE HEAO PHONE.jpg",
+     "Consoles/1990-1999/940238/1994 - 940238-03-005 - M905NW CONTROLLER MONITOR MODULE - ISS 1.jpg"
+    ],
+    "documents": [
+     "Consoles/1990-1999/940238 - CKNW/1994 - 940238 - DOC - Scan_20210323.jpg"
+    ]
+   }
+  },
+  "M907": {
+   "module_folder": "Modules/UNSORTED/M907",
+   "function": "summing / output (master) module; a blank face in the console layouts",
+   "consoles": [
+    "940332 Rogers CFTR On Air - Renaissance MKI",
+    "940333 Rogers CFTR Booth - Renaissance MKI",
+    "940334 CHFI Radio - Renaissance MKII",
+    "940335 Rogers CHFI Production - Renaissance MKII",
+    "940350 CBC Charlottetown - Renaissance MKII",
+    "940351 Telemedia Network Radio - custom Renaissance MKII",
+    "940376 CKWX Vancouver - Renaissance MKII",
+    "940410 CJIB Vernon - Renaissance MKII",
+    "940444 WBZ Boston News Air Studio - Renaissance MKI",
+    "940446 WBZ Boston News Edit Booth - Renaissance MKI",
+    "940447 WBZ Boston Control Room - Renaissance MKII",
+    "940448 WBZ Boston Tape Ops - Renaissance MKII",
+    "94054 Renaissance (job 94054)",
+    "94064 WBZ Boston Tape Ops (functional) - Renaissance MKII",
+    "950144 Renaissance (job 950144)",
+    "95015 Canadian Chinese Radio - Renaissance MKII",
+    "950190 CKRA-FM Edmonton - Renaissance MKII",
+    "950224 Fanshawe College - Renaissance MKII",
+    "950225 YBC Holdings - Renaissance MKII",
+    "950278 Renaissance (job 950278)",
+    "950361 Rogers Broadcasting - Renaissance MKI",
+    "96002 CFNY - master control room",
+    "960077 CFNY Radio - custom Renaissance MKII",
+    "960208 CHIQ Radio - Renaissance MKII"
+   ],
+   "front_panel": {
+    "src": "Modules/UNSORTED/M907/MECHANICAL/19xx - 907-03-001 - MASTER MODULE - DRN DRG - ISS 2.jpg",
+    "kind": "drawing",
+    "note": "907-03-001 MASTER MODULE (kept): screw holes only, as every console layout draws it"
+   },
+   "drawings": {
+    "console_layouts": [
+     "Consoles/1990-1999/940332/1994 - 940332 - DOC - 940332-04-001 - OTHERS AND ARE INTEGRATED INTO THE CONSOLE.jpg",
+     "Consoles/1990-1999/940333 - CFTR/1994 - 940333 - DOC - 940333-04-001 - OTHERS AND ARE INTEGRATED INTO THE CONSOLE.jpg",
+     "Consoles/1990-1999/940334/1994 - 940334 - DOC - 940334-04-001 - OTHERS AND ARE INTEGRATED INTO THE CONSOLE.jpg",
+     "Consoles/1990-1999/940335 - CHFI/1994 - 940335 - DOC - 940335-04-001 - OTHERS AND ARE INTEGRA TED INTO THE CONSOLE.jpg",
+     "Consoles/1990-1999/940351 - Telemedia Network Radio/1994 - 940351 - DOC - 940351-04-001 - DRNA TELEMEDIA RADIO ENG CUSTOIORK.jpg",
+     "Consoles/1990-1999/940351 - Telemedia Network Radio/1994 - 940351-04-001 - TELEMEDIA NETWORK RADIO CUSTOM RENAISSANCE MKII LAYOUT - DRN SM - ENG SM - ISS 1.jpg",
+     "Consoles/1990-1999/940376 - CKWX Radio/1994 - 940376 - DOC - 940376-04-001 - LES ARE FULLY WIRED BUT NOT SUPPLIED INITIALLY.jpg",
+     "Consoles/1990-1999/940410/1994 - 940410 - DOC - 940410-04-001 - FUTURE MODULES ARE FULLY WRED BUT NOT SUPPLIED.jpg",
+     "Consoles/1990-1999/940444 - WBZ/1994 - 940444 - DOC - 940444-04-001 - OTHERS ELECTRICALLY AND MECHANICALLY INTEGRATED INTO CONSOLE.jpg",
+     "Consoles/1990-1999/940446/1994 - 940446 - DOC - 940446-04-001 - OTHERS ELECTRICALLY AND MECHANICALLY INTEGRATED INTO CONSOLE.jpg",
+     "Consoles/1990-1999/940447/1994 - 940447 - DOC - 940447-04-002 - OTHERS ELECTRICALLY AND MECHANICALLY INTEGRATED INTO CONSOLE.jpg",
+     "Consoles/1990-1999/940448/1994 - 940448 - DOC - 940448-04-002 - ODULES ARE WIRED BUT NOT SUPPLIIED INITIALLY FUTURE.jpg",
+     "Consoles/1990-1999/94054/1994 - 94054 - DOC - 94054-04-001 - CHNOM KOP TCNALI SSUEI REVSION.jpg",
+     "Consoles/1990-1999/950144/1995 - 950144 - DOC - 950144-04-001 - NOFTGTURE MODULES ARE WIRED INTO THE FRAME BUT.jpg",
+     "Consoles/1990-1999/95015/1995 - 95015 - DOC - 95015-04-002 - CANADIAN CHINESE RADIO ENG RENAISSANCE MKII.jpg",
+     "Consoles/1990-1999/950190/1995 - 950190 - DOC - 950190-04-001 - NOIE FUTURE MODULES ARE WIRED BUT NOT SUPPLIED.jpg",
+     "Consoles/1990-1999/950224/1995 - 950224 - DOC - 950224-04-001 - HCADPHONE MUIE HOM STUDIO HUE TABTEKCOR HOHMOR.jpg",
+     "Consoles/1990-1999/950224/1995 - 950224 - DOC - 950224-04-001 - OPTIONAL IISSUE REVSION.jpg",
+     "Consoles/1990-1999/950225/1995 - 950225 - DOC - 950225-04-001 - HEADPKONE UME HUTE STUDIO TOTACOO VONITOR.jpg",
+     "Consoles/1990-1999/950278/1995 - 950278 - DOC - 950278-04-001 - HEADPHONE MUNE DON STUDIO HUTE TAKBUSICER KORNOR.jpg",
+     "Consoles/1990-1999/950361/1995 - 950361 - DOC - 950361-04-001 - HEADPHONE HUTE STUDIO HUTE TKBUAKOQ HONTOR.jpg",
+     "Consoles/1990-1999/96002 - CFNY/1996 - 96002 - DOC - 96002-04-004 - CFNY ENG MASTER CONTROL ROOM.jpg",
+     "Consoles/1990-1999/960077/1996 - 960077 - DOC - 960077-04-001 - MASTER CONTROL ROOM.jpg",
+     "Consoles/1990-1999/960208/1996 - 960208 - DOC - 960208-04-001 - HEADPHONE HOM STUDIO MUE TNROTIKO LONIIOK.jpg",
+     "Consoles/1990-1999/960208/1996 - 960208 - DOC - 960208-04-001 - LAADEODE MUTE STUDIO TAMOURKERO VOHNCA.jpg"
+    ],
+    "functional": [
+     "Consoles/1990-1999/940335 - CHFI/1994 - 940335 - DOC - 940335-01-001 - NEL ARE INTEGRATED INTO CONSOLE TORPEY TIME CLOCK.jpg",
+     "Consoles/1990-1999/940444 - WBZ/1994 - 940444-01-001 - WBZ NEWS AIR STUDIO RENAISSANCE MK I FUNCTIONAL - DRN PAS - ENG SM - ISS 1.jpg",
+     "Consoles/1990-1999/940446/1994 - 940446 - DOC - 940446-01-001 - CALLY INTEGRATED INTO THE CONSOLE.jpg",
+     "Consoles/1990-1999/94064 - WBZ Boston/1994 - 94064 - DOC - 94064-01-001 - ROUTING SWTCHER ARE INTEGRATED INTO CONSOLE.jpg",
+     "Consoles/1990-1999/94064 - WBZ Boston/1994 - 94064 - DOC - 94064-01-006 - DUAL STEREO LINE SELECTOR WHICH ARE PROVIDED.jpg"
+    ],
+    "documents": [
+     "Consoles/1990-1999/940238 - CKNW/1994 - 940238 - DOC - 907-08-001 - ENG CUSTOM MODULE TOP PLATE.jpg",
+     "Consoles/1990-1999/940410/1994 - 940410 - DOC - 2021-3-16-22-57-52.jpg",
+     "Consoles/1990-1999/960243/1996 - 960243 - DOC - 2021-3-17-0-1-35.jpg"
+    ],
+    "metalwork": [
+     "Consoles/1990-1999/940350/1994 - 940350 - DOC - 940350-03-001 - INSERT FROV OTHER SIDE.jpg",
+     "Consoles/1990-1999/940350/1994 - 940350 - DOC - 940350-03-002 - CUSTOM MODULE TOP PLATE.jpg",
+     "Consoles/1990-1999/940350/1994 - 940350-03-001 - M907 CUSTOM MODULE BOTTOM PLATE - DRN DRG - ISS 1.jpg",
+     "Consoles/1990-1999/940350/1994 - 940350-03-002 - M907 CUSTOM MODULE TOP PLATE - DRN DRG - ISS 1.jpg"
+    ]
+   }
+  },
+  "M908": {
+   "module_folder": "Modules/UNSORTED/M908",
+   "function": "dual stereo line selector (two 10-key banks)",
+   "consoles": [
+    "940332 Rogers CFTR On Air - Renaissance MKI",
+    "940333 Rogers CFTR Booth - Renaissance MKI",
+    "940334 CHFI Radio - Renaissance MKII",
+    "940335 Rogers CHFI Production - Renaissance MKII",
+    "940351 Telemedia Network Radio - custom Renaissance MKII",
+    "940376 CKWX Vancouver - Renaissance MKII",
+    "940410 CJIB Vernon - Renaissance MKII",
+    "940444 WBZ Boston News Air Studio - Renaissance MKI",
+    "940446 WBZ Boston News Edit Booth - Renaissance MKI",
+    "940447 WBZ Boston Control Room - Renaissance MKII",
+    "940448 WBZ Boston Tape Ops - Renaissance MKII",
+    "94054 Renaissance (job 94054)",
+    "94064 WBZ Boston Tape Ops (functional) - Renaissance MKII",
+    "950144 Renaissance (job 950144)",
+    "95015 Canadian Chinese Radio - Renaissance MKII",
+    "950190 CKRA-FM Edmonton - Renaissance MKII",
+    "950224 Fanshawe College - Renaissance MKII",
+    "950225 YBC Holdings - Renaissance MKII",
+    "950278 Renaissance (job 950278)",
+    "950361 Rogers Broadcasting - Renaissance MKI",
+    "96002 CFNY - master control room",
+    "960077 CFNY Radio - custom Renaissance MKII",
+    "960208 CHIQ Radio - Renaissance MKII"
+   ],
+   "front_panel": {
+    "src": "Consoles/1990-1999/950190/1995 - 950190 - DOC - 950190-04-001 - NOIE FUTURE MODULES ARE WIRED BUT NOT SUPPLIED.jpg",
+    "kind": "layout",
+    "note": "M908 strip of the 950190 console layout"
+   },
+   "drawings": {
+    "console_layouts": [
+     "Consoles/1990-1999/940351 - Telemedia Network Radio/1994 - 940351-04-001 - TELEMEDIA NETWORK RADIO CUSTOM RENAISSANCE MKII LAYOUT - DRN SM - ENG SM - ISS 1.jpg",
+     "Consoles/1990-1999/940376 - CKWX Radio/1994 - 940376 - DOC - 940376-04-001 - LES ARE FULLY WIRED BUT NOT SUPPLIED INITIALLY.jpg",
+     "Consoles/1990-1999/940410/1994 - 940410 - DOC - 940410-04-001 - FUTURE MODULES ARE FULLY WRED BUT NOT SUPPLIED.jpg",
+     "Consoles/1990-1999/940444 - WBZ/1994 - 940444 - DOC - 940444-04-001 - OTHERS ELECTRICALLY AND MECHANICALLY INTEGRATED INTO CONSOLE.jpg",
+     "Consoles/1990-1999/940446/1994 - 940446 - DOC - 940446-04-001 - OTHERS ELECTRICALLY AND MECHANICALLY INTEGRATED INTO CONSOLE.jpg",
+     "Consoles/1990-1999/940447/1994 - 940447 - DOC - 940447-04-002 - OTHERS ELECTRICALLY AND MECHANICALLY INTEGRATED INTO CONSOLE.jpg",
+     "Consoles/1990-1999/940448/1994 - 940448 - DOC - 940448-04-002 - ODULES ARE WIRED BUT NOT SUPPLIIED INITIALLY FUTURE.jpg",
+     "Consoles/1990-1999/94054/1994 - 94054 - DOC - 94054-04-001 - CHNOM KOP TCNALI SSUEI REVSION.jpg",
+     "Consoles/1990-1999/950144/1995 - 950144 - DOC - 950144-04-001 - NOFTGTURE MODULES ARE WIRED INTO THE FRAME BUT.jpg",
+     "Consoles/1990-1999/95015/1995 - 95015 - DOC - 95015-04-002 - CANADIAN CHINESE RADIO ENG RENAISSANCE MKII.jpg",
+     "Consoles/1990-1999/950190/1995 - 950190 - DOC - 950190-04-001 - NOIE FUTURE MODULES ARE WIRED BUT NOT SUPPLIED.jpg",
+     "Consoles/1990-1999/950224/1995 - 950224 - DOC - 950224-04-001 - HCADPHONE MUIE HOM STUDIO HUE TABTEKCOR HOHMOR.jpg",
+     "Consoles/1990-1999/950224/1995 - 950224 - DOC - 950224-04-001 - OPTIONAL IISSUE REVSION.jpg",
+     "Consoles/1990-1999/950225/1995 - 950225 - DOC - 950225-04-001 - HEADPKONE UME HUTE STUDIO TOTACOO VONITOR.jpg",
+     "Consoles/1990-1999/950278/1995 - 950278 - DOC - 950278-04-001 - HEADPHONE MUNE DON STUDIO HUTE TAKBUSICER KORNOR.jpg",
+     "Consoles/1990-1999/950361/1995 - 950361 - DOC - 950361-04-001 - HEADPHONE HUTE STUDIO HUTE TKBUAKOQ HONTOR.jpg",
+     "Consoles/1990-1999/96002 - CFNY/1996 - 96002 - DOC - 96002-04-004 - CFNY ENG MASTER CONTROL ROOM.jpg",
+     "Consoles/1990-1999/960077/1996 - 960077 - DOC - 960077-04-001 - MASTER CONTROL ROOM.jpg",
+     "Consoles/1990-1999/960208/1996 - 960208 - DOC - 960208-04-001 - HEADPHONE HOM STUDIO MUE TNROTIKO LONIIOK.jpg",
+     "Consoles/1990-1999/960208/1996 - 960208 - DOC - 960208-04-001 - LAADEODE MUTE STUDIO TAMOURKERO VOHNCA.jpg"
+    ],
+    "functional": [
+     "Consoles/1990-1999/940332/1994 - 940332 - DOC - 940332-01-001 - TORPEY TIME CLOCK COMPLETE.jpg",
+     "Consoles/1990-1999/940333 - CFTR/1994 - 940333 - DOC - 940333-01-001 - METER MNUS MODULE ISSUEI REMSION.jpg",
+     "Consoles/1990-1999/940333 - CFTR/1994 - 940333-01-001 - CFTR BOOTH RENAISSANCE MKI FUNCTIONAL - DRN SM - ENG SM - ISS 2.jpg",
+     "Consoles/1990-1999/940334/1994 - 940334 - DOC - 940334-01-001 - ARE INTEGRATED INTO CONSOLE TORPEY TIME CLOCK COMPLETE.jpg",
+     "Consoles/1990-1999/940335 - CHFI/1994 - 940335 - DOC - 940335-01-001 - NEL ARE INTEGRATED INTO CONSOLE TORPEY TIME CLOCK.jpg",
+     "Consoles/1990-1999/940335 - CHFI/1994 - 940335-01-001 - CHFI PRODUCTION RENAISSANCE MK II FUNCTIONAL - DRN SM - ENG SM - ISS 2.jpg",
+     "Consoles/1990-1999/940376 - CKWX Radio/1994 - 940376-01-001 - CKWX RADIO RENAISSANCE MK II FUNCTIONAL - DRN SM - ENG SM - ISS 2.jpg",
+     "Consoles/1990-1999/940444 - WBZ/1994 - 940444-01-001 - WBZ NEWS AIR STUDIO RENAISSANCE MK I FUNCTIONAL - DRN PAS - ENG SM - ISS 1.jpg",
+     "Consoles/1990-1999/940446/1994 - 940446 - DOC - 940446-01-001 - CALLY INTEGRATED INTO THE CONSOLE.jpg",
+     "Consoles/1990-1999/94064 - WBZ Boston/1994 - 94064 - DOC - 94064-01-001 - ROUTING SWTCHER ARE INTEGRATED INTO CONSOLE.jpg",
+     "Consoles/1990-1999/94064 - WBZ Boston/1994 - 94064 - DOC - 94064-01-006 - DUAL STEREO LINE SELECTOR WHICH ARE PROVIDED.jpg",
+     "Consoles/1990-1999/94064 - WBZ/1994 - 94064-01-006 - WBZ TAPE OPS RENAISSANCE MK II FUNCTIONAL - DRN SM - ENG SM - ISS 1.jpg"
+    ],
+    "documents": [
+     "Consoles/1990-1999/930351/1993 - 930351 - DOC - Scan_20210323.jpg",
+     "Consoles/1990-1999/940350/1994 - 940350 - DOC - Scan_20210323.jpg",
+     "Consoles/1990-1999/940356 - CBC/1994 - 940356 - DOC - Scan_20210323.jpg",
+     "Consoles/1990-1999/940410/1994 - 940410 - DOC - 2021-3-16-22-57-52.jpg",
+     "Consoles/1990-1999/960243/1996 - 960243 - DOC - 2021-3-17-0-1-35.jpg"
+    ],
+    "metalwork": [
+     "Consoles/1990-1999/960077/1996 - 960077 - DOC - 960077-03-006 - DIA ISSUEL REVSICN NOTEMOVE BURRS.jpg",
+     "Consoles/1990-1999/960077/1996 - 960077-03-006 - CUSTOM PUNCHING (CUSTOMER SUPPLIED PANEL) - DRN DRG - ISS 1.jpg"
+    ]
+   }
+  },
+  "M909": {
+   "module_folder": "Modules/UNSORTED/M909",
+   "function": "meter / mix-minus module (two 6-key banks: meter and mix-minus select)",
+   "consoles": [
+    "940332 Rogers CFTR On Air - Renaissance MKI",
+    "940333 Rogers CFTR Booth - Renaissance MKI",
+    "940334 CHFI Radio - Renaissance MKII",
+    "940335 Rogers CHFI Production - Renaissance MKII",
+    "940351 Telemedia Network Radio - custom Renaissance MKII",
+    "940376 CKWX Vancouver - Renaissance MKII",
+    "940410 CJIB Vernon - Renaissance MKII",
+    "940444 WBZ Boston News Air Studio - Renaissance MKI",
+    "940446 WBZ Boston News Edit Booth - Renaissance MKI",
+    "940447 WBZ Boston Control Room - Renaissance MKII",
+    "940448 WBZ Boston Tape Ops - Renaissance MKII",
+    "94054 Renaissance (job 94054)",
+    "94064 WBZ Boston Tape Ops (functional) - Renaissance MKII",
+    "950144 Renaissance (job 950144)",
+    "95015 Canadian Chinese Radio - Renaissance MKII",
+    "950190 CKRA-FM Edmonton - Renaissance MKII",
+    "950224 Fanshawe College - Renaissance MKII",
+    "950225 YBC Holdings - Renaissance MKII",
+    "950278 Renaissance (job 950278)",
+    "950361 Rogers Broadcasting - Renaissance MKI",
+    "96002 CFNY - master control room",
+    "960077 CFNY Radio - custom Renaissance MKII",
+    "960208 CHIQ Radio - Renaissance MKII"
+   ],
+   "front_panel": {
+    "src": "Consoles/1990-1999/950190/1995 - 950190 - DOC - 950190-04-001 - NOIE FUTURE MODULES ARE WIRED BUT NOT SUPPLIED.jpg",
+    "kind": "layout",
+    "note": "METER strip of the 950190 console layout"
+   },
+   "drawings": {
+    "console_layouts": [
+     "Consoles/1990-1999/940332/1994 - 940332 - DOC - 940332-04-001 - OTHERS AND ARE INTEGRATED INTO THE CONSOLE.jpg",
+     "Consoles/1990-1999/940333 - CFTR/1994 - 940333 - DOC - 940333-04-001 - OTHERS AND ARE INTEGRATED INTO THE CONSOLE.jpg",
+     "Consoles/1990-1999/940334/1994 - 940334 - DOC - 940334-04-001 - OTHERS AND ARE INTEGRATED INTO THE CONSOLE.jpg",
+     "Consoles/1990-1999/940335 - CHFI/1994 - 940335 - DOC - 940335-04-001 - OTHERS AND ARE INTEGRA TED INTO THE CONSOLE.jpg",
+     "Consoles/1990-1999/940351 - Telemedia Network Radio/1994 - 940351 - DOC - 940351-04-001 - DRNA TELEMEDIA RADIO ENG CUSTOIORK.jpg",
+     "Consoles/1990-1999/940351 - Telemedia Network Radio/1994 - 940351-04-001 - TELEMEDIA NETWORK RADIO CUSTOM RENAISSANCE MKII LAYOUT - DRN SM - ENG SM - ISS 1.jpg",
+     "Consoles/1990-1999/940376 - CKWX Radio/1994 - 940376 - DOC - 940376-04-001 - LES ARE FULLY WIRED BUT NOT SUPPLIED INITIALLY.jpg",
+     "Consoles/1990-1999/940410/1994 - 940410 - DOC - 940410-04-001 - FUTURE MODULES ARE FULLY WRED BUT NOT SUPPLIED.jpg",
+     "Consoles/1990-1999/940444 - WBZ/1994 - 940444 - DOC - 940444-04-001 - OTHERS ELECTRICALLY AND MECHANICALLY INTEGRATED INTO CONSOLE.jpg",
+     "Consoles/1990-1999/940446/1994 - 940446 - DOC - 940446-04-001 - OTHERS ELECTRICALLY AND MECHANICALLY INTEGRATED INTO CONSOLE.jpg",
+     "Consoles/1990-1999/940447/1994 - 940447 - DOC - 940447-04-002 - OTHERS ELECTRICALLY AND MECHANICALLY INTEGRATED INTO CONSOLE.jpg",
+     "Consoles/1990-1999/940448/1994 - 940448 - DOC - 940448-04-002 - ODULES ARE WIRED BUT NOT SUPPLIIED INITIALLY FUTURE.jpg",
+     "Consoles/1990-1999/94054/1994 - 94054 - DOC - 94054-04-001 - CHNOM KOP TCNALI SSUEI REVSION.jpg",
+     "Consoles/1990-1999/950144/1995 - 950144 - DOC - 950144-04-001 - NOFTGTURE MODULES ARE WIRED INTO THE FRAME BUT.jpg",
+     "Consoles/1990-1999/95015/1995 - 95015 - DOC - 95015-04-002 - CANADIAN CHINESE RADIO ENG RENAISSANCE MKII.jpg",
+     "Consoles/1990-1999/950190/1995 - 950190 - DOC - 950190-04-001 - NOIE FUTURE MODULES ARE WIRED BUT NOT SUPPLIED.jpg",
+     "Consoles/1990-1999/950224/1995 - 950224 - DOC - 950224-04-001 - HCADPHONE MUIE HOM STUDIO HUE TABTEKCOR HOHMOR.jpg",
+     "Consoles/1990-1999/950224/1995 - 950224 - DOC - 950224-04-001 - OPTIONAL IISSUE REVSION.jpg",
+     "Consoles/1990-1999/950225/1995 - 950225 - DOC - 950225-04-001 - HEADPKONE UME HUTE STUDIO TOTACOO VONITOR.jpg",
+     "Consoles/1990-1999/950278/1995 - 950278 - DOC - 950278-04-001 - HEADPHONE MUNE DON STUDIO HUTE TAKBUSICER KORNOR.jpg",
+     "Consoles/1990-1999/950361/1995 - 950361 - DOC - 950361-04-001 - HEADPHONE HUTE STUDIO HUTE TKBUAKOQ HONTOR.jpg",
+     "Consoles/1990-1999/96002 - CFNY/1996 - 96002 - DOC - 96002-04-004 - CFNY ENG MASTER CONTROL ROOM.jpg",
+     "Consoles/1990-1999/960077/1996 - 960077 - DOC - 960077-04-001 - MASTER CONTROL ROOM.jpg",
+     "Consoles/1990-1999/960208/1996 - 960208 - DOC - 960208-04-001 - HEADPHONE HOM STUDIO MUE TNROTIKO LONIIOK.jpg",
+     "Consoles/1990-1999/960208/1996 - 960208 - DOC - 960208-04-001 - LAADEODE MUTE STUDIO TAMOURKERO VOHNCA.jpg"
+    ],
+    "functional": [
+     "Consoles/1990-1999/940332/1994 - 940332 - DOC - 940332-01-001 - TORPEY TIME CLOCK COMPLETE.jpg",
+     "Consoles/1990-1999/940335 - CHFI/1994 - 940335 - DOC - 940335-01-001 - NEL ARE INTEGRATED INTO CONSOLE TORPEY TIME CLOCK.jpg",
+     "Consoles/1990-1999/940376 - CKWX Radio/1994 - 940376 - DOC - 940376-01-001 - STUDIO MONITOR LINE SELECTOR.jpg",
+     "Consoles/1990-1999/940376 - CKWX Radio/1994 - 940376-01-001 - CKWX RADIO RENAISSANCE MK II FUNCTIONAL - DRN SM - ENG SM - ISS 2.jpg",
+     "Consoles/1990-1999/940444 - WBZ/1994 - 940444-01-001 - WBZ NEWS AIR STUDIO RENAISSANCE MK I FUNCTIONAL - DRN PAS - ENG SM - ISS 1.jpg",
+     "Consoles/1990-1999/940446/1994 - 940446 - DOC - 940446-01-001 - CALLY INTEGRATED INTO THE CONSOLE.jpg",
+     "Consoles/1990-1999/94064 - WBZ Boston/1994 - 94064 - DOC - 94064-01-006 - DUAL STEREO LINE SELECTOR WHICH ARE PROVIDED.jpg"
+    ],
+    "documents": [
+     "Consoles/1990-1999/940238 - CKNW/1994 - 940238 - DOC - Scan_20210323 (3).jpg",
+     "Consoles/1990-1999/960243/1996 - 960243 - DOC - 2021-3-17-0-1-35.jpg"
+    ]
+   }
+  },
+  "M909NW": {
+   "module_folder": null,
+   "function": "CKNW meter / mix-minus module: one 6-key utility meter selector (no module folder)",
+   "consoles": [
+    "940238 CKNW Radio, Vancouver - Renaissance MKII/MKIII"
+   ],
+   "front_panel": {
+    "src": "Consoles/1990-1999/Renaisance/1994 - Renaisance - 940238-04-005.jpg",
+    "kind": "layout",
+    "note": "B 940238-04-005 ISS 3 (title only legible on the scan); no module folder: not drawn"
+   },
+   "drawings": {
+    "schematics": [
+     "Consoles/1990-1999/940238/1994 - 940238-02-080 - M909NW METER MIX-MINUS MODULE SCHEMATIC - ISS 1.jpg",
+     "Consoles/1990-1999/Renaisance/1994 - Renaisance - 940238-02-080 - MIOINW METER-MIX-MINUS MODULE SCHEMATIC.jpg"
+    ],
+    "documents": [
+     "Consoles/1990-1999/940238 - CKNW/1994 - 940238 - DOC - Scan_20210323 (3).jpg"
+    ],
+    "layouts": [
+     "Consoles/1990-1999/Renaisance/1994 - Renaisance - 940238-04-005.jpg"
+    ]
+   }
+  },
+  "M920": {
+   "module_folder": "Modules/UNSORTED/M920",
+   "function": "REN TV console input module (M920-F1 / FM920: INPUT MODULE AUDIO FUNCTIONAL; P1/P2 PCB layouts)",
+   "consoles": [
+    "REN TV Console (Renaissance TV), 1996-97"
+   ],
+   "front_panel": null,
+   "none": "only AutoCAD functional diagrams (M920-F1, FM920) and PCB layouts (M920P1, P1, M920P2): no front-panel drawing"
+  },
+  "M921": {
+   "module_folder": "Modules/UNSORTED/M921",
+   "function": "REN TV console input module (M921-F1: INPUT MODULE AUDIO FUNCTIONAL)",
+   "consoles": [
+    "REN TV Console (Renaissance TV), 1996-97"
+   ],
+   "front_panel": null,
+   "none": "only the AutoCAD functional diagram M921-F1: no front-panel drawing"
+  },
+  "M922": {
+   "module_folder": "Modules/FILTERS/M922",
+   "function": "stereo equalizer module (M922A: HF/MF/LF, HP, EQ in); Renaissance and REN TV",
+   "front_panel": {
+    "src": "Modules/FILTERS/M922/MECHANICAL/19xx - 922-03-001 - M922A STEREO EQUALIZER MODULE - DRN DRG - ISS 3.jpg",
+    "kind": "drawing",
+    "note": "922-03-001 module drawing (kept); photos in PHOTOS/ and Consoles/1990-1999/WBS renaisance console"
+   }
+  },
+  "M923": {
+   "module_folder": "Modules/UNSORTED/M923",
+   "function": "REN TV console master / submaster module (FM923 functional; M923P1-P3 connector / PCB layouts)",
+   "consoles": [
+    "REN TV Console (Renaissance TV), 1996-97"
+   ],
+   "front_panel": null,
+   "none": "only AutoCAD functional (FM923, M923-F1) and connector/PCB layouts: no front-panel drawing"
+  },
+  "M923A": {
+   "module_folder": "Modules/UNSORTED/M923A",
+   "function": "M923 master/submaster variant (only an Altium .SCH preview in MANUALS)",
+   "consoles": [
+    "REN TV Console (Renaissance TV), 1996-97"
+   ],
+   "front_panel": null,
+   "none": "only a schematic preview: no front-panel drawing"
+  },
+  "M923B": {
+   "module_folder": "Modules/UNSORTED/M923B",
+   "function": "M923 master/submaster variant (only an Altium .SCH preview in MANUALS)",
+   "consoles": [
+    "REN TV Console (Renaissance TV), 1996-97"
+   ],
+   "front_panel": null,
+   "none": "only a schematic preview: no front-panel drawing"
+  },
+  "M923C": {
+   "module_folder": "Modules/UNSORTED/M923C",
+   "function": "M923 master/submaster variant (only an Altium .SCH preview in MANUALS)",
+   "consoles": [
+    "REN TV Console (Renaissance TV), 1996-97"
+   ],
+   "front_panel": null,
+   "none": "only a schematic preview: no front-panel drawing"
+  },
+  "M923D": {
+   "module_folder": "Modules/UNSORTED/M923D",
+   "function": "M923 master/submaster variant (only an Altium .SCH preview in MANUALS)",
+   "consoles": [
+    "REN TV Console (Renaissance TV), 1996-97"
+   ],
+   "front_panel": null,
+   "none": "only a schematic preview: no front-panel drawing"
+  },
+  "M923E": {
+   "module_folder": "Modules/UNSORTED/M923E",
+   "function": "M923 master/submaster variant (only an Altium .SCH preview in MANUALS)",
+   "consoles": [
+    "REN TV Console (Renaissance TV), 1996-97"
+   ],
+   "front_panel": null,
+   "none": "only a schematic preview: no front-panel drawing"
+  },
+  "M923F": {
+   "module_folder": "Modules/UNSORTED/M923F",
+   "function": "M923 master/submaster variant (only an Altium .SCH preview in MANUALS)",
+   "consoles": [
+    "REN TV Console (Renaissance TV), 1996-97"
+   ],
+   "front_panel": null,
+   "none": "only a schematic preview: no front-panel drawing"
+  },
+  "M923H": {
+   "module_folder": "Modules/UNSORTED/M923H",
+   "function": "M923 master/submaster variant (only an Altium .SCH preview in MANUALS)",
+   "consoles": [
+    "REN TV Console (Renaissance TV), 1996-97"
+   ],
+   "front_panel": null,
+   "none": "only a schematic preview: no front-panel drawing"
+  },
+  "M924": {
+   "module_folder": "Modules/UNSORTED/M924",
+   "function": "Renaissance console power supply (rack): M924, M924A, M924B, M924D",
+   "consoles": [
+    "940332 Rogers CFTR On Air - Renaissance MKI",
+    "940333 Rogers CFTR Booth - Renaissance MKI",
+    "940444 WBZ Boston News Air Studio - Renaissance MKI",
+    "940446 WBZ Boston News Edit Booth - Renaissance MKI",
+    "94064 WBZ Boston Tape Ops (functional) - Renaissance MKII",
+    "960296 CBC Regina - central electronics"
+   ],
+   "front_panel": {
+    "src": "Modules/UNSORTED/M924/MECHANICAL/19xx - 924-03-001 - M924A M924D POWER SUPPLY FRONT PANEL - DRN DRG - ISS 1.jpg",
+    "kind": "drawing",
+    "note": "924-03-001 M924/M924A/M924D POWER SUPPLY FRONT PANEL (kept); M924B has its own 924-03-005"
+   },
+   "drawings": {
+    "functional": [
+     "Consoles/1990-1999/940332/1994 - 940332 - DOC - 940332-01-001 - TORPEY TIME CLOCK COMPLETE.jpg",
+     "Consoles/1990-1999/940333 - CFTR/1994 - 940333 - DOC - 940333-01-001 - METER MNUS MODULE ISSUEI REMSION.jpg",
+     "Consoles/1990-1999/940333 - CFTR/1994 - 940333-01-001 - CFTR BOOTH RENAISSANCE MKI FUNCTIONAL - DRN SM - ENG SM - ISS 2.jpg",
+     "Consoles/1990-1999/940444 - WBZ/1994 - 940444-01-001 - WBZ NEWS AIR STUDIO RENAISSANCE MK I FUNCTIONAL - DRN PAS - ENG SM - ISS 1.jpg",
+     "Consoles/1990-1999/940446/1994 - 940446 - DOC - 940446-01-001 - CALLY INTEGRATED INTO THE CONSOLE.jpg",
+     "Consoles/1990-1999/94064 - WBZ Boston/1994 - 94064 - DOC - 94064-01-001 - ROUTING SWTCHER ARE INTEGRATED INTO CONSOLE.jpg",
+     "Consoles/1990-1999/94064 - WBZ Boston/1994 - 94064 - DOC - 94064-01-006 - DUAL STEREO LINE SELECTOR WHICH ARE PROVIDED.jpg",
+     "Consoles/1990-1999/94064 - WBZ/1994 - 94064-01-006 - WBZ TAPE OPS RENAISSANCE MK II FUNCTIONAL - DRN SM - ENG SM - ISS 1.jpg"
+    ],
+    "documents": [
+     "Consoles/1990-1999/940410/1994 - 940410 - DOC - 2021-3-16-22-57-52.jpg",
+     "Consoles/1990-1999/Renaisance Console/1994 - Renaisance Console - Screen shot 2010-03-25 at 9.20.56 AM.png"
+    ],
+    "console_layouts": [
+     "Consoles/1990-1999/960296 - CBC REGINA/1996 - 960296 - DOC - 960296-04-001 - RACTRG JOKER VOULLS V-ADJ V-ADJ CAUTION DISCCNNECT PORER.jpg",
+     "Consoles/1990-1999/960296 - CBC REGINA/1996 - 960296-04-001 - CBC REGINA CENTRAL ELECTRONICS LAYOUT - DRN DRG - ISS 1.jpg"
+    ]
+   }
+  },
+  "M924A": {
+   "module_folder": "Modules/UNSORTED/M924A",
+   "function": "power supply (M924 family)",
+   "front_panel": {
+    "src": "Modules/UNSORTED/M924/MECHANICAL/19xx - 924-03-001 - M924A M924D POWER SUPPLY FRONT PANEL - DRN DRG - ISS 1.jpg",
+    "kind": "drawing",
+    "note": "shares M924: the 924-03-001 title block reads M924/M924A/M924D POWER SUPPLY FRONT PANEL"
+   }
+  },
+  "M926": {
+   "module_folder": "Modules/UNSORTED/M926",
+   "function": "REN TV console module (TVFUNC-2 functional, 14323P1 PCB layout: groups 1-2, automation remote, EXT CH ON)",
+   "consoles": [
+    "REN TV Console (Renaissance TV), 1996-97"
+   ],
+   "front_panel": null,
+   "none": "only the TVFUNC-2 functional and the 14323P1 PCB layout: no front-panel drawing"
+  },
+  "M927": {
+   "module_folder": "Modules/UNSORTED/M927",
+   "function": "REN TV console module (M927-F1 functional; the DWG does not convert)",
+   "consoles": [
+    "REN TV Console (Renaissance TV), 1997"
+   ],
+   "front_panel": null,
+   "none": "only the AutoCAD functional M927-F1: no front-panel drawing",
+   "drawings": {}
+  },
+  "M999": {
+   "module_folder": "Modules/UNSORTED/M999",
+   "function": "custom subpanel (999-03-001: blank sheet-metal subpanel with mounting tabs and shims)",
+   "front_panel": null,
+   "none": "999-03-001 is the metalwork of a blank custom subpanel (mounting tabs, no controls or legends)"
+  }
+ }
+}

@@ -1,5 +1,5 @@
 {
- "_about": "Overrides for tools/make_panels.py, by module code. src: the 2026 path of the picture/drawing to use; box: [x0, y0, x1, y1] fractions of the upright sheet; rot: turn the picture (degrees, PIL counter-clockwise) instead of the archive's turn; quad: a photo's panel corners [TL, TR, BR, BL] as [x, y] fractions; cad + from: panel art already converted to SVG and the archive file it came from; none: the reason no panel can be drawn; skip: sources never to use.",
+ "_about": "Overrides for tools/make_panels.py, by module code. src: the 2026 path of the picture/drawing to use; box: [x0, y0, x1, y1] fractions of the upright sheet; rot: turn the picture (degrees, PIL counter-clockwise) instead of the archive's turn; quad: a photo's panel corners [TL, TR, BR, BL] as [x, y] fractions; cad + from: panel art already converted to SVG and the archive file it came from; none: the reason no panel can be drawn; skip: sources never to use. long: draw a whole-console sheet at this long side (px) so one module strip keeps its detail; note: kept as data-note (a strip of a console layout, a variant sharing another's panel).",
  "M445": {
   "cad": "siumulation-plugins/assets/m445-front-silk.svg",
   "from": "#M400 #SERIES - Meter Panels/XXX - M445 - #OBSOLETE #Archive/MECHANIC/445SILK.DWG",
@@ -1040,10 +1040,10 @@
  "M924": {
   "src": "Modules/UNSORTED/M924/MECHANICAL/19xx - 924-03-001 - M924A M924D POWER SUPPLY FRONT PANEL - DRN DRG - ISS 1.jpg",
   "box": [
-   0.2473,
-   0.256,
-   0.7812,
-   0.5473
+   0.255,
+   0.355,
+   0.772,
+   0.528
   ]
  },
  "M202": {
@@ -1833,5 +1833,149 @@
    0.4,
    0.69
   ]
+ },
+ "M901": {
+  "src": "Consoles/1990-1999/940448/1994 - 940448 - DOC - 940448-04-002 - ODULES ARE WIRED BUT NOT SUPPLIIED INITIALLY FUTURE.jpg",
+  "box": [
+   0.3622,
+   0.246,
+   0.4018,
+   0.711
+  ],
+  "long": 3000,
+  "kind": "layout",
+  "note": "strip labelled M901 (FUTURE input) on the WBZ Tape Ops Renaissance MKII layout 940448-04-002"
+ },
+ "M901BY": {
+  "src": "Consoles/1990-1999/940444/1994 - 940444-03-006 - M901BY CY CUSTOM INPUT MODULES - DRN DRG - ISS 1.jpg",
+  "box": [
+   0.383,
+   0.135,
+   0.433,
+   0.881
+  ],
+  "long": 3000,
+  "note": "940444-03-006-1 (M901BY) panel elevation"
+ },
+ "M901CY": {
+  "src": "Consoles/1990-1999/940444/1994 - 940444-03-006 - M901BY CY CUSTOM INPUT MODULES - DRN DRG - ISS 1.jpg",
+  "box": [
+   0.536,
+   0.135,
+   0.585,
+   0.881
+  ],
+  "long": 3000,
+  "note": "940444-03-006-2 (M901CY) panel elevation"
+ },
+ "M901D": {
+  "src": "Consoles/1990-1999/950361/1995 - 950361 - DOC - 950361-04-001 - HEADPHONE HUTE STUDIO HUTE TKBUAKOQ HONTOR.jpg",
+  "box": [
+   0.3932,
+   0.324,
+   0.4305,
+   0.815
+  ],
+  "rot": -2.6,
+  "long": 5000,
+  "kind": "layout",
+  "note": "CH 1 strip of the Rogers Broadcasting Renaissance MKI layout 950361-04-001"
+ },
+ "M901NW": {
+  "src": "Consoles/1990-1999/Renaisance/1994 - Renaisance - 940238-04-003 - MIOINW STEREO LINE INPUT MODULE LAYOUT.jpg",
+  "box": [
+   0.487,
+   0.0,
+   0.626,
+   0.995
+  ],
+  "rot": 180,
+  "kind": "layout",
+  "note": "B 940238-04-003 M901NW STEREO LINE INPUT MODULE LAYOUT (CKNW)"
+ },
+ "M905B": {
+  "src": "Consoles/1990-1999/950190/1995 - 950190 - DOC - 950190-04-001 - NOIE FUTURE MODULES ARE WIRED BUT NOT SUPPLIED.jpg",
+  "box": [
+   0.8618,
+   0.225,
+   0.898,
+   0.703
+  ],
+  "long": 5000,
+  "kind": "layout",
+  "note": "STD MON strip of the CKRA-FM Renaissance MKII layout 950190-04-001"
+ },
+ "M908": {
+  "src": "Consoles/1990-1999/950190/1995 - 950190 - DOC - 950190-04-001 - NOIE FUTURE MODULES ARE WIRED BUT NOT SUPPLIED.jpg",
+  "box": [
+   0.1402,
+   0.225,
+   0.176,
+   0.703
+  ],
+  "long": 5000,
+  "kind": "layout",
+  "note": "M908 strip of the CKRA-FM Renaissance MKII layout 950190-04-001"
+ },
+ "M909": {
+  "src": "Consoles/1990-1999/950190/1995 - 950190 - DOC - 950190-04-001 - NOIE FUTURE MODULES ARE WIRED BUT NOT SUPPLIED.jpg",
+  "box": [
+   0.1028,
+   0.225,
+   0.1414,
+   0.703
+  ],
+  "long": 5000,
+  "kind": "layout",
+  "note": "METER strip of the CKRA-FM Renaissance MKII layout 950190-04-001"
+ },
+ "M924A": {
+  "src": "Modules/UNSORTED/M924/MECHANICAL/19xx - 924-03-001 - M924A M924D POWER SUPPLY FRONT PANEL - DRN DRG - ISS 1.jpg",
+  "box": [
+   0.255,
+   0.355,
+   0.772,
+   0.528
+  ],
+  "note": "shares M924: 924-03-001 is the M924/M924A/M924D POWER SUPPLY FRONT PANEL"
+ },
+ "M920": {
+  "none": "only AutoCAD functional diagrams (M920-F1, FM920) and PCB layouts (M920P1, P1, M920P2): no front-panel drawing"
+ },
+ "M921": {
+  "none": "only the AutoCAD functional diagram M921-F1: no front-panel drawing"
+ },
+ "M923": {
+  "none": "only AutoCAD functional (FM923, M923-F1) and connector/PCB layouts: no front-panel drawing"
+ },
+ "M923A": {
+  "none": "only a schematic preview: no front-panel drawing"
+ },
+ "M923B": {
+  "none": "only a schematic preview: no front-panel drawing"
+ },
+ "M923C": {
+  "none": "only a schematic preview: no front-panel drawing"
+ },
+ "M923D": {
+  "none": "only a schematic preview: no front-panel drawing"
+ },
+ "M923E": {
+  "none": "only a schematic preview: no front-panel drawing"
+ },
+ "M923F": {
+  "none": "only a schematic preview: no front-panel drawing"
+ },
+ "M923H": {
+  "none": "only a schematic preview: no front-panel drawing"
+ },
+ "M926": {
+  "none": "only the TVFUNC-2 functional and the 14323P1 PCB layout: no front-panel drawing"
+ },
+ "M927": {
+  "none": "only the AutoCAD functional M927-F1: no front-panel drawing"
+ },
+ "M999": {
+  "none": "999-03-001 is the metalwork of a blank custom subpanel (mounting tabs, no controls or legends)"
  }
 }
