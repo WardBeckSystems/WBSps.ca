@@ -73,7 +73,7 @@ def card(m):
     base = f"{m['cat']}/{m['code']}"
     state = 'blank' if m['blank'] else 'panel' if m['panel'] else 'nopanel'
     if m['panel']:
-        fig = (f'<a href="{u(base)}/MECHANICAL/{u(m["code"])}%20-%20front%20panel.svg"><img loading="lazy" alt="{e(m["code"])} '
+        fig = (f'<a href="{u(base)}/MECHANICAL/{u(m["code"])}%20-%20front%20panel.svg"><img decoding="async" alt="{e(m["code"])} '
                f'front panel" src="{u(base)}/MECHANICAL/{u(m["code"])}%20-%20front%20panel.svg"></a>')
     elif m['traced']:
         k, n = best_drawing(m['traced'])
@@ -132,9 +132,9 @@ h2{{font-size:15px;margin:28px 0 8px;text-transform:uppercase;text-decoration:un
 .bar{{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;margin:10px 0 4px}}.bar input,.bar select{{font:inherit;padding:3px 6px;border:1px solid var(--rule);background:#fff}}
 .nav{{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:13px}}
 .grid{{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:12px}}
-.mod{{border:1px solid var(--rule);background:#fff;padding:8px;display:flex;flex-direction:column;gap:4px;min-width:0}}
-.mod h3{{margin:0;font-size:15px}}.mod figure{{margin:0;height:300px;display:flex;align-items:center;justify-content:center;background:#f3f1ea}}
-.mod figure img{{max-height:296px;max-width:100%;display:block}}
+.mod{{border:1px solid var(--rule);background:#fbfaf4;color:#1f1e1c;padding:8px;display:flex;flex-direction:column;gap:4px;min-width:0}}
+.mod h3{{margin:0;font-size:15px}}.mod a{{color:#1f3f6b!important}}.mod small,.mod summary{{color:#6d6a63}}.mod figure{{margin:0;height:300px;display:flex;align-items:center;justify-content:center;background:#f3f1ea}}
+.mod figure img{{height:296px;width:auto;max-width:100%;object-fit:contain;display:block}}
 .stand-in{{position:relative;display:flex;align-items:center;justify-content:center;width:100%;height:100%;text-decoration:none}}
 .stand-in img{{opacity:.45}}.stand-in span{{position:absolute;left:0;right:0;bottom:0;font-size:11px;color:var(--faint);background:rgba(251,250,244,.9);padding:2px 4px;text-align:center}}.mod.blank figure{{opacity:.55}}
 .none{{color:var(--faint);font-size:12px;text-align:center;padding:12px;border:1px dashed var(--rule)}}
