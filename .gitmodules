@@ -968,3 +968,192 @@
 [submodule "2026/Modules/UNSORTED/M801"]
 	path = 2026/Modules/UNSORTED/M801
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M801.git
+[submodule "2026/Modules/UNSORTED/M804"]
+	path = 2026/Modules/UNSORTED/M804
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M804.git
+[submodule "2026/Modules/UNSORTED/M807"]
+	path = 2026/Modules/UNSORTED/M807
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M807.git
+[submodule "2026/Modules/UNSORTED/M813"]
+	path = 2026/Modules/UNSORTED/M813
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M813.git
+[submodule "2026/Modules/UNSORTED/M815"]
+	path = 2026/Modules/UNSORTED/M815
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M815.git
+[submodule "2026/Modules/UNSORTED/M816"]
+	path = 2026/Modules/UNSORTED/M816
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M816.git
+[submodule "2026/Modules/UNSORTED/M827"]
+	path = 2026/Modules/UNSORTED/M827
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M827.git
+[submodule "2026/Modules/UNSORTED/M845"]
+	path = 2026/Modules/UNSORTED/M845
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M845.git
+[submodule "2026/Modules/UNSORTED/M900"]
+	path = 2026/Modules/UNSORTED/M900
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M900.git
+[submodule "2026/Modules/UNSORTED/M901"]
+	path = 2026/Modules/UNSORTED/M901
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M901.git
+[submodule "2026/Modules/UNSORTED/M901A"]
+	path = 2026/Modules/UNSORTED/M901A
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M901A.git
+[submodule "2026/Modules/UNSORTED/M901B"]
+	path = 2026/Modules/UNSORTED/M901B
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M901B.git
+[submodule "2026/Modules/UNSORTED/M901BY"]
+	path = 2026/Modules/UNSORTED/M901BY
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M901BY.git
+[submodule "2026/Modules/UNSORTED/M901C"]
+	path = 2026/Modules/UNSORTED/M901C
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M901C.git
+[submodule "2026/Modules/UNSORTED/M901CY"]
+	path = 2026/Modules/UNSORTED/M901CY
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M901CY.git
+[submodule "2026/Modules/UNSORTED/M901D"]
+	path = 2026/Modules/UNSORTED/M901D
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M901D.git
+[submodule "2026/Modules/UNSORTED/M901NW"]
+	path = 2026/Modules/UNSORTED/M901NW
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M901NW.git
+[submodule "2026/Modules/UNSORTED/M905A"]
+	path = 2026/Modules/UNSORTED/M905A
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M905A.git
+[submodule "2026/Modules/UNSORTED/M905B"]
+	path = 2026/Modules/UNSORTED/M905B
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M905B.git
+[submodule "2026/Modules/UNSORTED/M907"]
+	path = 2026/Modules/UNSORTED/M907
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M907.git
+[submodule "2026/Modules/UNSORTED/M908"]
+	path = 2026/Modules/UNSORTED/M908
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M908.git
+[submodule "2026/Modules/UNSORTED/M909"]
+	path = 2026/Modules/UNSORTED/M909
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M909.git
+[submodule "2026/Modules/UNSORTED/M920"]
+	path = 2026/Modules/UNSORTED/M920
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M920.git
+[submodule "2026/Modules/UNSORTED/M921"]
+	path = 2026/Modules/UNSORTED/M921
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M921.git
+[submodule "2026/Modules/UNSORTED/M923"]
+	path = 2026/Modules/UNSORTED/M923
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M923.git
+[submodule "2026/Modules/UNSORTED/M923A"]
+	path = 2026/Modules/UNSORTED/M923A
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M923A.git
+[submodule "2026/Modules/UNSORTED/M923B"]
+	path = 2026/Modules/UNSORTED/M923B
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M923B.git
+[submodule "2026/Modules/UNSORTED/M923C"]
+	path = 2026/Modules/UNSORTED/M923C
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M923C.git
+[submodule "2026/Modules/UNSORTED/M923D"]
+	path = 2026/Modules/UNSORTED/M923D
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M923D.git
+[submodule "2026/Modules/UNSORTED/M923E"]
+	path = 2026/Modules/UNSORTED/M923E
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M923E.git
+[submodule "2026/Modules/UNSORTED/M923F"]
+	path = 2026/Modules/UNSORTED/M923F
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M923F.git
+[submodule "2026/Modules/UNSORTED/M923H"]
+	path = 2026/Modules/UNSORTED/M923H
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M923H.git
+[submodule "2026/Modules/UNSORTED/M924"]
+	path = 2026/Modules/UNSORTED/M924
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M924.git
+[submodule "2026/Modules/UNSORTED/M924A"]
+	path = 2026/Modules/UNSORTED/M924A
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M924A.git
+[submodule "2026/Modules/UNSORTED/M926"]
+	path = 2026/Modules/UNSORTED/M926
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M926.git
+[submodule "2026/Modules/UNSORTED/M927"]
+	path = 2026/Modules/UNSORTED/M927
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M927.git
+[submodule "2026/Modules/UNSORTED/M999"]
+	path = 2026/Modules/UNSORTED/M999
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M999.git
+[submodule "2026/Modules/UNSORTED/RM424S"]
+	path = 2026/Modules/UNSORTED/RM424S
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.RM424S.git
+[submodule "2026/Modules/UNSORTED/RM650"]
+	path = 2026/Modules/UNSORTED/RM650
+	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.RM650.git
+[submodule "2026/Modules/POWER/M485"]
+	path = 2026/Modules/POWER/M485
+	url = https://github.com/WardBeckSystems/MODULES.POWER.M485.git
+[submodule "2026/Modules/POWER/M611"]
+	path = 2026/Modules/POWER/M611
+	url = https://github.com/WardBeckSystems/MODULES.POWER.M611.git
+[submodule "2026/Modules/POWER/M624"]
+	path = 2026/Modules/POWER/M624
+	url = https://github.com/WardBeckSystems/MODULES.POWER.M624.git
+[submodule "2026/Modules/POWER/M625A"]
+	path = 2026/Modules/POWER/M625A
+	url = https://github.com/WardBeckSystems/MODULES.POWER.M625A.git
+[submodule "2026/Modules/POWER/M625B"]
+	path = 2026/Modules/POWER/M625B
+	url = https://github.com/WardBeckSystems/MODULES.POWER.M625B.git
+[submodule "2026/Modules/POWER/M628"]
+	path = 2026/Modules/POWER/M628
+	url = https://github.com/WardBeckSystems/MODULES.POWER.M628.git
+[submodule "2026/Modules/POWER/M632"]
+	path = 2026/Modules/POWER/M632
+	url = https://github.com/WardBeckSystems/MODULES.POWER.M632.git
+[submodule "2026/Modules/ROUTING/M454"]
+	path = 2026/Modules/ROUTING/M454
+	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M454.git
+[submodule "2026/Modules/ROUTING/M455"]
+	path = 2026/Modules/ROUTING/M455
+	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M455.git
+[submodule "2026/Modules/ROUTING/M456"]
+	path = 2026/Modules/ROUTING/M456
+	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M456.git
+[submodule "2026/Modules/ROUTING/M456B"]
+	path = 2026/Modules/ROUTING/M456B
+	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M456B.git
+[submodule "2026/Modules/ROUTING/M457"]
+	path = 2026/Modules/ROUTING/M457
+	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M457.git
+[submodule "2026/Modules/ROUTING/M457A"]
+	path = 2026/Modules/ROUTING/M457A
+	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M457A.git
+[submodule "2026/Modules/ROUTING/M459"]
+	path = 2026/Modules/ROUTING/M459
+	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M459.git
+[submodule "2026/Modules/ROUTING/M468"]
+	path = 2026/Modules/ROUTING/M468
+	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M468.git
+[submodule "2026/Modules/ROUTING/M468A"]
+	path = 2026/Modules/ROUTING/M468A
+	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M468A.git
+[submodule "2026/Modules/ROUTING/M468AN"]
+	path = 2026/Modules/ROUTING/M468AN
+	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M468AN.git
+[submodule "2026/Modules/ROUTING/M468M"]
+	path = 2026/Modules/ROUTING/M468M
+	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M468M.git
+[submodule "2026/Modules/ROUTING/M498A"]
+	path = 2026/Modules/ROUTING/M498A
+	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M498A.git
+[submodule "2026/Modules/ROUTING/M538"]
+	path = 2026/Modules/ROUTING/M538
+	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M538.git
+[submodule "2026/Modules/ROUTING/M538C"]
+	path = 2026/Modules/ROUTING/M538C
+	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M538C.git
+[submodule "2026/Modules/ROUTING/M559A"]
+	path = 2026/Modules/ROUTING/M559A
+	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M559A.git
+[submodule "2026/Modules/ROUTING/M568P"]
+	path = 2026/Modules/ROUTING/M568P
+	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M568P.git
+[submodule "2026/Modules/ROUTING/M568W"]
+	path = 2026/Modules/ROUTING/M568W
+	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M568W.git
+[submodule "2026/Modules/SUMMING/M166"]
+	path = 2026/Modules/SUMMING/M166
+	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M166.git

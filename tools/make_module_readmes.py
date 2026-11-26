@@ -13,6 +13,7 @@ import sys
 from urllib.parse import quote
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import module_repo_names
 from module_layout import KINDS, module_files  # noqa: E402
 from sort_module_folders import ABOUT  # noqa: E402
 
@@ -106,7 +107,7 @@ def readme(moddir, drive):
     _, cat, mod = rel.split(os.sep)
     files = module_files(moddir)
     years = sorted({n[:4] for _, n, _ in files if re.match(r'^\d{4} - ', n)})
-    out = [f'# {mod} · {cat.title().replace("-", " ")}', '']
+    out = [f'# {module_repo_names.title(mod)} · {cat.title().replace("-", " ")}', '']
     out.append(f'Ward-Beck Systems {mod}' + (f', {year_tag(years[0])}' if years else '') +
                f'. Wiki page: [{mod} on WBSps.ca]({SITE}/PAGES/{quote(mod)}.html)')
     out += ['', '| Folder | What is in it | Files |', '|---|---|---|']
