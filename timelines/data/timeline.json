@@ -17,9 +17,9 @@
     "73050"
    ],
    "files": 42,
-   "folder": "Modules/UNSORTED/M416",
+   "folder": "Modules/UNSORTED/M416/MECHANICAL",
    "ads": [],
-   "page": "Modules/UNSORTED/M416/index.html"
+   "page": "Modules/UNSORTED/M416/MECHANICAL/index.html"
   },
   {
    "id": "M436L",
@@ -36,9 +36,9 @@
    ],
    "jobs": [],
    "files": 2,
-   "folder": "Modules/METER/M436L",
+   "folder": "Modules/METER/M436L/MANUALS",
    "ads": [],
-   "page": "Modules/METER/M436L/index.html"
+   "page": "Modules/METER/M436L/MANUALS/index.html"
   },
   {
    "id": "POD3A",
@@ -97,9 +97,9 @@
    "years": [],
    "jobs": [],
    "files": 2,
-   "folder": "Modules/DYNAMICS/M406M",
+   "folder": "Modules/DYNAMICS/M406M/PHOTOS",
    "ads": [],
-   "page": "Modules/DYNAMICS/M406M/index.html"
+   "page": "Modules/DYNAMICS/M406M/PHOTOS/index.html"
   },
   {
    "id": "M405F",
@@ -116,9 +116,9 @@
    ],
    "jobs": [],
    "files": 10,
-   "folder": "Modules/METER/M405F",
+   "folder": "Modules/METER/M405F/PHOTOS",
    "ads": [],
-   "page": "Modules/METER/M405F/index.html"
+   "page": "Modules/METER/M405F/PHOTOS/index.html"
   },
   {
    "id": "M455",
@@ -138,9 +138,9 @@
     "76045"
    ],
    "files": 53,
-   "folder": "Modules/ROUTING/M455",
+   "folder": "Modules/ROUTING/M455/MANUALS",
    "ads": [],
-   "page": "Modules/ROUTING/M455/index.html"
+   "page": "Modules/ROUTING/M455/MANUALS/index.html"
   },
   {
    "id": "M201",
@@ -159,9 +159,9 @@
     "WBSStSeriesStereoConsole"
    ],
    "files": 38,
-   "folder": "Modules/LOGIC/M201",
+   "folder": "Modules/LOGIC/M201/MANUALS",
    "ads": [],
-   "page": "Modules/LOGIC/M201/index.html"
+   "page": "Modules/LOGIC/M201/MANUALS/index.html"
   },
   {
    "id": "M152",
@@ -178,9 +178,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M152",
+   "folder": "Modules/UNSORTED/M152/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M152/index.html"
+   "page": "Modules/UNSORTED/M152/SCHEMATICS/index.html"
   },
   {
    "id": "M1204A",
@@ -216,9 +216,9 @@
    ],
    "jobs": [],
    "files": 2,
-   "folder": "Modules/ROUTING/M126",
+   "folder": "Modules/ROUTING/M126/PHOTOS",
    "ads": [],
-   "page": "Modules/ROUTING/M126/index.html"
+   "page": "Modules/ROUTING/M126/PHOTOS/index.html"
   },
   {
    "id": "M490L",
@@ -235,9 +235,9 @@
    ],
    "jobs": [],
    "files": 46,
-   "folder": "Modules/INPUT-PRE-AMPS/M490L",
+   "folder": "Modules/INPUT-PRE-AMPS/M490L/MANUALS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M490L/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M490L/MANUALS/index.html"
   },
   {
    "id": "AMS8-1",
@@ -277,9 +277,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M448",
+   "folder": "Modules/UNSORTED/M448/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M448/index.html"
+   "page": "Modules/UNSORTED/M448/SCHEMATICS/index.html"
   },
   {
    "id": "M625A",
@@ -304,9 +304,9 @@
     "Rseriesinstallguide"
    ],
    "files": 56,
-   "folder": "Modules/POWER/M625A",
+   "folder": "Modules/POWER/M625A/SCHEMATICS",
    "ads": [],
-   "page": "Modules/POWER/M625A/index.html"
+   "page": "Modules/POWER/M625A/SCHEMATICS/index.html"
   },
   {
    "id": "M908",
@@ -330,9 +330,9 @@
     "Renaisance"
    ],
    "files": 133,
-   "folder": "Modules/UNSORTED/M908",
+   "folder": "Modules/UNSORTED/M908/MECHANICAL",
    "ads": [],
-   "page": "Modules/UNSORTED/M908/index.html"
+   "page": "Modules/UNSORTED/M908/MECHANICAL/index.html"
   },
   {
    "id": "M445",
@@ -349,9 +349,9 @@
    ],
    "jobs": [],
    "files": 98,
-   "folder": "Modules/METER/M445",
+   "folder": "Modules/METER/M445/MANUALS",
    "ads": [],
-   "page": "Modules/METER/M445/index.html",
+   "page": "Modules/METER/M445/MANUALS/index.html",
    "sims": [
     "m445"
    ]
@@ -372,9 +372,9 @@
     "R1400-R2400-sales"
    ],
    "files": 2,
-   "folder": "Modules/INPUT-PRE-AMPS/M490B",
+   "folder": "Modules/INPUT-PRE-AMPS/M490B/MANUALS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M490B/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M490B/MANUALS/index.html"
   },
   {
    "id": "M460B",
@@ -392,9 +392,9 @@
    ],
    "jobs": [],
    "files": 62,
-   "folder": "Modules/INPUT-PRE-AMPS/M460B",
+   "folder": "Modules/INPUT-PRE-AMPS/M460B/MANUALS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M460B/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M460B/MANUALS/index.html"
   },
   {
    "id": "M525",
@@ -422,21 +422,21 @@
     "WBSStSeriesStereoConsole"
    ],
    "files": 30,
-   "folder": "Modules/MONITORING/M525",
+   "folder": "Modules/MONITORING/M525/MECHANICAL",
    "ads": [
-    "Modules/COMPUTERS/M5200/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M5201/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M524/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M526/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/FILTERS/M522/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M520/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M521/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/MONITORING/M525/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M523/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M527/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M528/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
+    "Modules/COMPUTERS/M5200/MANUALS/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M5201/MANUALS/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M524/MANUALS/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M526/MANUALS/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/FILTERS/M522/MANUALS/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M520/MANUALS/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M521/MANUALS/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/MONITORING/M525/MANUALS/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M523/MANUALS/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M527/MANUALS/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M528/MANUALS/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
    ],
-   "page": "Modules/MONITORING/M525/index.html"
+   "page": "Modules/MONITORING/M525/MECHANICAL/index.html"
   },
   {
    "id": "M901C",
@@ -456,9 +456,9 @@
     "Renaisance"
    ],
    "files": 3,
-   "folder": "Modules/UNSORTED/M901C",
+   "folder": "Modules/UNSORTED/M901C/MANUALS",
    "ads": [],
-   "page": "Modules/UNSORTED/M901C/index.html"
+   "page": "Modules/UNSORTED/M901C/MANUALS/index.html"
   },
   {
    "id": "M7884",
@@ -475,9 +475,9 @@
    ],
    "jobs": [],
    "files": 7,
-   "folder": "Modules/COMMUNICATION/M7884",
+   "folder": "Modules/COMMUNICATION/M7884/PHOTOS",
    "ads": [],
-   "page": "Modules/COMMUNICATION/M7884/index.html"
+   "page": "Modules/COMMUNICATION/M7884/PHOTOS/index.html"
   },
   {
    "id": "M503",
@@ -494,9 +494,9 @@
    ],
    "jobs": [],
    "files": 4,
-   "folder": "Modules/UNSORTED/M503",
+   "folder": "Modules/UNSORTED/M503/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M503/index.html"
+   "page": "Modules/UNSORTED/M503/SCHEMATICS/index.html"
   },
   {
    "id": "M158",
@@ -513,9 +513,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M158",
+   "folder": "Modules/UNSORTED/M158/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M158/index.html"
+   "page": "Modules/UNSORTED/M158/SCHEMATICS/index.html"
   },
   {
    "id": "M457",
@@ -535,9 +535,9 @@
     "WBSL2642"
    ],
    "files": 138,
-   "folder": "Modules/ROUTING/M457",
+   "folder": "Modules/ROUTING/M457/MANUALS",
    "ads": [],
-   "page": "Modules/ROUTING/M457/index.html"
+   "page": "Modules/ROUTING/M457/MANUALS/index.html"
   },
   {
    "id": "M460K",
@@ -552,9 +552,9 @@
    "years": [],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/INPUT-PRE-AMPS/M460K",
+   "folder": "Modules/INPUT-PRE-AMPS/M460K/SCHEMATICS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M460K/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M460K/SCHEMATICS/index.html"
   },
   {
    "id": "M8205B",
@@ -629,9 +629,9 @@
    "years": [],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M923F",
+   "folder": "Modules/UNSORTED/M923F/MANUALS",
    "ads": [],
-   "page": "Modules/UNSORTED/M923F/index.html"
+   "page": "Modules/UNSORTED/M923F/MANUALS/index.html"
   },
   {
    "id": "M923A",
@@ -646,9 +646,9 @@
    "years": [],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M923A",
+   "folder": "Modules/UNSORTED/M923A/MANUALS",
    "ads": [],
-   "page": "Modules/UNSORTED/M923A/index.html"
+   "page": "Modules/UNSORTED/M923A/MANUALS/index.html"
   },
   {
    "id": "M144",
@@ -665,9 +665,9 @@
    ],
    "jobs": [],
    "files": 2,
-   "folder": "Modules/UNSORTED/M144",
+   "folder": "Modules/UNSORTED/M144/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M144/index.html"
+   "page": "Modules/UNSORTED/M144/SCHEMATICS/index.html"
   },
   {
    "id": "M424S",
@@ -682,9 +682,9 @@
    "years": [],
    "jobs": [],
    "files": 12,
-   "folder": "Modules/UNSORTED/M424S",
+   "folder": "Modules/UNSORTED/M424S/PHOTOS",
    "ads": [],
-   "page": "Modules/UNSORTED/M424S/index.html"
+   "page": "Modules/UNSORTED/M424S/PHOTOS/index.html"
   },
   {
    "id": "M923B",
@@ -699,9 +699,9 @@
    "years": [],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M923B",
+   "folder": "Modules/UNSORTED/M923B/MANUALS",
    "ads": [],
-   "page": "Modules/UNSORTED/M923B/index.html"
+   "page": "Modules/UNSORTED/M923B/MANUALS/index.html"
   },
   {
    "id": "M901CY",
@@ -722,9 +722,9 @@
     "940444"
    ],
    "files": 10,
-   "folder": "Modules/UNSORTED/M901CY",
+   "folder": "Modules/UNSORTED/M901CY/PINOUTS",
    "ads": [],
-   "page": "Modules/UNSORTED/M901CY/index.html"
+   "page": "Modules/UNSORTED/M901CY/PINOUTS/index.html"
   },
   {
    "id": "M7880DA",
@@ -739,9 +739,9 @@
    "years": [],
    "jobs": [],
    "files": 3,
-   "folder": "Modules/COMMUNICATION/M7880DA",
+   "folder": "Modules/COMMUNICATION/M7880DA/PHOTOS",
    "ads": [],
-   "page": "Modules/COMMUNICATION/M7880DA/index.html"
+   "page": "Modules/COMMUNICATION/M7880DA/PHOTOS/index.html"
   },
   {
    "id": "M460",
@@ -758,9 +758,9 @@
    ],
    "jobs": [],
    "files": 42,
-   "folder": "Modules/INPUT-PRE-AMPS/M460",
+   "folder": "Modules/INPUT-PRE-AMPS/M460/PHOTOS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M460/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M460/PHOTOS/index.html"
   },
   {
    "id": "POD10A",
@@ -802,9 +802,9 @@
     "Archived-Done-L1202AConsole"
    ],
    "files": 10,
-   "folder": "Modules/AMPLIFIERS/M481",
+   "folder": "Modules/AMPLIFIERS/M481/MANUALS",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M481/index.html"
+   "page": "Modules/AMPLIFIERS/M481/MANUALS/index.html"
   },
   {
    "id": "AMS4",
@@ -845,9 +845,9 @@
    ],
    "jobs": [],
    "files": 14,
-   "folder": "Modules/ROUTING/M568N",
+   "folder": "Modules/ROUTING/M568N/MECHANICAL",
    "ads": [],
-   "page": "Modules/ROUTING/M568N/index.html"
+   "page": "Modules/ROUTING/M568N/MECHANICAL/index.html"
   },
   {
    "id": "M666",
@@ -868,17 +868,17 @@
     "Rseriesinstallguide"
    ],
    "files": 62,
-   "folder": "Modules/AMPLIFIERS/M666",
+   "folder": "Modules/AMPLIFIERS/M666/MANUALS",
    "ads": [
-    "Modules/AMPLIFIERS/M605/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M610/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M612/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M621/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M666/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M624/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M648/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
+    "Modules/AMPLIFIERS/M605/MANUALS/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M612/MANUALS/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M621/MANUALS/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M666/MANUALS/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M624/MANUALS/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M648/MANUALS/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
    ],
-   "page": "Modules/AMPLIFIERS/M666/index.html"
+   "page": "Modules/AMPLIFIERS/M666/MANUALS/index.html"
   },
   {
    "id": "M528",
@@ -905,21 +905,21 @@
     "WBSStSeriesStereoConsole"
    ],
    "files": 57,
-   "folder": "Modules/SUMMING/M528",
+   "folder": "Modules/SUMMING/M528/SCHEMATICS",
    "ads": [
-    "Modules/COMPUTERS/M5200/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M5201/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M524/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M526/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/FILTERS/M522/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M520/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M521/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/MONITORING/M525/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M523/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M527/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M528/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
+    "Modules/COMPUTERS/M5200/MANUALS/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M5201/MANUALS/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M524/MANUALS/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M526/MANUALS/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/FILTERS/M522/MANUALS/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M520/MANUALS/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M521/MANUALS/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/MONITORING/M525/MANUALS/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M523/MANUALS/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M527/MANUALS/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M528/MANUALS/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
    ],
-   "page": "Modules/SUMMING/M528/index.html"
+   "page": "Modules/SUMMING/M528/SCHEMATICS/index.html"
   },
   {
    "id": "POD25",
@@ -962,9 +962,9 @@
    ],
    "jobs": [],
    "files": 18,
-   "folder": "Modules/UNSORTED/M920",
+   "folder": "Modules/UNSORTED/M920/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M920/index.html"
+   "page": "Modules/UNSORTED/M920/SCHEMATICS/index.html"
   },
   {
    "id": "M702D",
@@ -983,9 +983,9 @@
     "960296"
    ],
    "files": 2,
-   "folder": "Modules/COMMUNICATION/M702D",
+   "folder": "Modules/COMMUNICATION/M702D/SCHEMATICS",
    "ads": [],
-   "page": "Modules/COMMUNICATION/M702D/index.html"
+   "page": "Modules/COMMUNICATION/M702D/SCHEMATICS/index.html"
   },
   {
    "id": "M808C",
@@ -1004,9 +1004,9 @@
     "96002"
    ],
    "files": 1,
-   "folder": "Modules/AMPLIFIERS/M808C",
+   "folder": "Modules/AMPLIFIERS/M808C/MANUALS",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M808C/index.html"
+   "page": "Modules/AMPLIFIERS/M808C/MANUALS/index.html"
   },
   {
    "id": "M8208",
@@ -1026,9 +1026,9 @@
     "960296"
    ],
    "files": 17,
-   "folder": "Modules/AMPLIFIERS/M8208",
+   "folder": "Modules/AMPLIFIERS/M8208/MANUALS",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M8208/index.html",
+   "page": "Modules/AMPLIFIERS/M8208/MANUALS/index.html",
    "sims": [
     "m8208"
    ]
@@ -1048,9 +1048,9 @@
    ],
    "jobs": [],
    "files": 2,
-   "folder": "Modules/UNSORTED/M7810",
+   "folder": "Modules/UNSORTED/M7810/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M7810/index.html"
+   "page": "Modules/UNSORTED/M7810/SCHEMATICS/index.html"
   },
   {
    "id": "M812B",
@@ -1067,9 +1067,9 @@
    ],
    "jobs": [],
    "files": 5,
-   "folder": "Modules/COMMUNICATION/M812B",
+   "folder": "Modules/COMMUNICATION/M812B/PHOTOS",
    "ads": [],
-   "page": "Modules/COMMUNICATION/M812B/index.html"
+   "page": "Modules/COMMUNICATION/M812B/PHOTOS/index.html"
   },
   {
    "id": "M490F",
@@ -1089,9 +1089,9 @@
     "R1400-R2400-sales"
    ],
    "files": 67,
-   "folder": "Modules/INPUT-PRE-AMPS/M490F",
+   "folder": "Modules/INPUT-PRE-AMPS/M490F/MANUALS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M490F/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/index.html"
   },
   {
    "id": "M752",
@@ -1109,9 +1109,9 @@
    ],
    "jobs": [],
    "files": 4,
-   "folder": "Modules/UNSORTED/M752",
+   "folder": "Modules/UNSORTED/M752/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M752/index.html"
+   "page": "Modules/UNSORTED/M752/SCHEMATICS/index.html"
   },
   {
    "id": "RM424S",
@@ -1129,9 +1129,9 @@
    ],
    "jobs": [],
    "files": 40,
-   "folder": "Modules/UNSORTED/RM424S",
+   "folder": "Modules/UNSORTED/RM424S/MANUALS",
    "ads": [],
-   "page": "Modules/UNSORTED/RM424S/index.html"
+   "page": "Modules/UNSORTED/RM424S/MANUALS/index.html"
   },
   {
    "id": "POD34",
@@ -1170,9 +1170,9 @@
    ],
    "jobs": [],
    "files": 7,
-   "folder": "Modules/METER/M401",
+   "folder": "Modules/METER/M401/MECHANICAL",
    "ads": [],
-   "page": "Modules/METER/M401/index.html"
+   "page": "Modules/METER/M401/MECHANICAL/index.html"
   },
   {
    "id": "MLC8C",
@@ -1209,11 +1209,11 @@
    ],
    "jobs": [],
    "files": 120,
-   "folder": "Modules/METER/M405",
+   "folder": "Modules/METER/M405/MANUALS",
    "ads": [
-    "Modules/METER/M405/19xx - M405 - AD - wbsps - ad - made to measure.jpg"
+    "Modules/METER/M405/MANUALS/19xx - M405 - AD - wbsps - ad - made to measure.jpg"
    ],
-   "page": "Modules/METER/M405/index.html"
+   "page": "Modules/METER/M405/MANUALS/index.html"
   },
   {
    "id": "M101",
@@ -1234,9 +1234,9 @@
     "Renaisance"
    ],
    "files": 4,
-   "folder": "Modules/UNSORTED/M101",
+   "folder": "Modules/UNSORTED/M101/MECHANICAL",
    "ads": [],
-   "page": "Modules/UNSORTED/M101/index.html"
+   "page": "Modules/UNSORTED/M101/MECHANICAL/index.html"
   },
   {
    "id": "M470A",
@@ -1261,9 +1261,9 @@
     "WBSL3242Afullsize"
    ],
    "files": 72,
-   "folder": "Modules/INPUT-PRE-AMPS/M470A",
+   "folder": "Modules/INPUT-PRE-AMPS/M470A/MANUALS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M470A/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/index.html"
   },
   {
    "id": "M472",
@@ -1288,9 +1288,9 @@
     "WBSL2642"
    ],
    "files": 85,
-   "folder": "Modules/FILTERS/M472",
+   "folder": "Modules/FILTERS/M472/MANUALS",
    "ads": [],
-   "page": "Modules/FILTERS/M472/index.html"
+   "page": "Modules/FILTERS/M472/MANUALS/index.html"
   },
   {
    "id": "M480C",
@@ -1312,9 +1312,9 @@
     "T1202"
    ],
    "files": 61,
-   "folder": "Modules/INPUT-PRE-AMPS/M480C",
+   "folder": "Modules/INPUT-PRE-AMPS/M480C/SCHEMATICS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M480C/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M480C/SCHEMATICS/index.html"
   },
   {
    "id": "M497D",
@@ -1329,9 +1329,9 @@
    "years": [],
    "jobs": [],
    "files": 31,
-   "folder": "Modules/SUMMING/M497D",
+   "folder": "Modules/SUMMING/M497D/MANUALS",
    "ads": [],
-   "page": "Modules/SUMMING/M497D/index.html"
+   "page": "Modules/SUMMING/M497D/MANUALS/index.html"
   },
   {
    "id": "M712B",
@@ -1350,9 +1350,9 @@
     "960296"
    ],
    "files": 50,
-   "folder": "Modules/COMMUNICATION/M712B",
+   "folder": "Modules/COMMUNICATION/M712B/MANUALS",
    "ads": [],
-   "page": "Modules/COMMUNICATION/M712B/index.html"
+   "page": "Modules/COMMUNICATION/M712B/MANUALS/index.html"
   },
   {
    "id": "M809C",
@@ -1369,9 +1369,9 @@
    ],
    "jobs": [],
    "files": 2,
-   "folder": "Modules/AMPLIFIERS/M809C",
+   "folder": "Modules/AMPLIFIERS/M809C/MECHANICAL",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M809C/index.html"
+   "page": "Modules/AMPLIFIERS/M809C/MECHANICAL/index.html"
   },
   {
    "id": "AA6201A",
@@ -1410,9 +1410,9 @@
    ],
    "jobs": [],
    "files": 6,
-   "folder": "Modules/UNSORTED/M7830",
+   "folder": "Modules/UNSORTED/M7830/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M7830/index.html"
+   "page": "Modules/UNSORTED/M7830/SCHEMATICS/index.html"
   },
   {
    "id": "M529",
@@ -1436,9 +1436,9 @@
     "WBSStSeriesStereoConsole"
    ],
    "files": 68,
-   "folder": "Modules/COMMUNICATION/M529",
+   "folder": "Modules/COMMUNICATION/M529/MANUALS",
    "ads": [],
-   "page": "Modules/COMMUNICATION/M529/index.html"
+   "page": "Modules/COMMUNICATION/M529/MANUALS/index.html"
   },
   {
    "id": "M923C",
@@ -1453,9 +1453,9 @@
    "years": [],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M923C",
+   "folder": "Modules/UNSORTED/M923C/MANUALS",
    "ads": [],
-   "page": "Modules/UNSORTED/M923C/index.html"
+   "page": "Modules/UNSORTED/M923C/MANUALS/index.html"
   },
   {
    "id": "M568P",
@@ -1472,9 +1472,9 @@
    ],
    "jobs": [],
    "files": 24,
-   "folder": "Modules/ROUTING/M568P",
+   "folder": "Modules/ROUTING/M568P/PHOTOS",
    "ads": [],
-   "page": "Modules/ROUTING/M568P/index.html"
+   "page": "Modules/ROUTING/M568P/PHOTOS/index.html"
   },
   {
    "id": "M805",
@@ -1492,9 +1492,9 @@
    ],
    "jobs": [],
    "files": 25,
-   "folder": "Modules/AMPLIFIERS/M805",
+   "folder": "Modules/AMPLIFIERS/M805/MECHANICAL",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M805/index.html"
+   "page": "Modules/AMPLIFIERS/M805/MECHANICAL/index.html"
   },
   {
    "id": "M742",
@@ -1511,9 +1511,9 @@
    ],
    "jobs": [],
    "files": 3,
-   "folder": "Modules/UNSORTED/M742",
+   "folder": "Modules/UNSORTED/M742/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M742/index.html"
+   "page": "Modules/UNSORTED/M742/SCHEMATICS/index.html"
   },
   {
    "id": "M460A",
@@ -1533,9 +1533,9 @@
    ],
    "jobs": [],
    "files": 131,
-   "folder": "Modules/INPUT-PRE-AMPS/M460A",
+   "folder": "Modules/INPUT-PRE-AMPS/M460A/MANUALS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M460A/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M460A/MANUALS/index.html"
   },
   {
    "id": "microCOM",
@@ -1559,7 +1559,7 @@
    "files": 250,
    "folder": "Products/MICRO SERIES/microCOM",
    "ads": [
-    "Modules/COMMUNICATION/M7880/19xx - M7880 - AD - WBSPS - AD - Microcom II 0012.jpg",
+    "Modules/COMMUNICATION/M7880/MANUALS/19xx - M7880 - AD - WBSPS - AD - Microcom II 0012.jpg",
     "Products/MICRO SERIES/microCOM II/19xx - microCOM II - AD - WBSPS - AD - Microcom II 0012.jpg",
     "Products/MICRO SERIES/microCOM II/19xx - microCOM II - AD - WBSPS - AD - Microcom II 003.jpg",
     "Products/MICRO SERIES/microCOM/19xx - microCOM - AD - 20170522_121429_002.jpg",
@@ -1596,9 +1596,9 @@
     "940444"
    ],
    "files": 13,
-   "folder": "Modules/UNSORTED/M901BY",
+   "folder": "Modules/UNSORTED/M901BY/MANUALS",
    "ads": [],
-   "page": "Modules/UNSORTED/M901BY/index.html"
+   "page": "Modules/UNSORTED/M901BY/MANUALS/index.html"
   },
   {
    "id": "M751B",
@@ -1615,9 +1615,9 @@
    ],
    "jobs": [],
    "files": 4,
-   "folder": "Modules/COMMUNICATION/M751B",
+   "folder": "Modules/COMMUNICATION/M751B/PHOTOS",
    "ads": [],
-   "page": "Modules/COMMUNICATION/M751B/index.html"
+   "page": "Modules/COMMUNICATION/M751B/PHOTOS/index.html"
   },
   {
    "id": "M923E",
@@ -1632,9 +1632,9 @@
    "years": [],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M923E",
+   "folder": "Modules/UNSORTED/M923E/MANUALS",
    "ads": [],
-   "page": "Modules/UNSORTED/M923E/index.html"
+   "page": "Modules/UNSORTED/M923E/MANUALS/index.html"
   },
   {
    "id": "M538",
@@ -1656,9 +1656,9 @@
     "WBSStSeriesStereoConsole"
    ],
    "files": 68,
-   "folder": "Modules/ROUTING/M538",
+   "folder": "Modules/ROUTING/M538/MANUALS",
    "ads": [],
-   "page": "Modules/ROUTING/M538/index.html"
+   "page": "Modules/ROUTING/M538/MANUALS/index.html"
   },
   {
    "id": "AMS8-1CA",
@@ -1697,9 +1697,9 @@
     "880651"
    ],
    "files": 39,
-   "folder": "Modules/POWER/M207",
+   "folder": "Modules/POWER/M207/MANUALS",
    "ads": [],
-   "page": "Modules/POWER/M207/index.html"
+   "page": "Modules/POWER/M207/MANUALS/index.html"
   },
   {
    "id": "AMS2-N",
@@ -1754,9 +1754,9 @@
    ],
    "jobs": [],
    "files": 14,
-   "folder": "Modules/UNSORTED/M420",
+   "folder": "Modules/UNSORTED/M420/PHOTOS",
    "ads": [],
-   "page": "Modules/UNSORTED/M420/index.html"
+   "page": "Modules/UNSORTED/M420/PHOTOS/index.html"
   },
   {
    "id": "M407",
@@ -1773,9 +1773,9 @@
    ],
    "jobs": [],
    "files": 3,
-   "folder": "Modules/UNSORTED/M407",
+   "folder": "Modules/UNSORTED/M407/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M407/index.html"
+   "page": "Modules/UNSORTED/M407/SCHEMATICS/index.html"
   },
   {
    "id": "M2406",
@@ -1813,9 +1813,9 @@
     "T1202"
    ],
    "files": 36,
-   "folder": "Modules/MONITORING/M482B",
+   "folder": "Modules/MONITORING/M482B/MANUALS",
    "ads": [],
-   "page": "Modules/MONITORING/M482B/index.html"
+   "page": "Modules/MONITORING/M482B/MANUALS/index.html"
   },
   {
    "id": "M730",
@@ -1832,9 +1832,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M730",
+   "folder": "Modules/UNSORTED/M730/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M730/index.html"
+   "page": "Modules/UNSORTED/M730/SCHEMATICS/index.html"
   },
   {
    "id": "M412",
@@ -1853,9 +1853,9 @@
    ],
    "jobs": [],
    "files": 103,
-   "folder": "Modules/MONITORING/M412",
+   "folder": "Modules/MONITORING/M412/MANUALS",
    "ads": [],
-   "page": "Modules/MONITORING/M412/index.html"
+   "page": "Modules/MONITORING/M412/MANUALS/index.html"
   },
   {
    "id": "AMS8-1AA",
@@ -1893,9 +1893,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M208",
+   "folder": "Modules/UNSORTED/M208/MECHANICAL",
    "ads": [],
-   "page": "Modules/UNSORTED/M208/index.html"
+   "page": "Modules/UNSORTED/M208/MECHANICAL/index.html"
   },
   {
    "id": "M901NW",
@@ -1914,9 +1914,9 @@
     "940238"
    ],
    "files": 4,
-   "folder": "Modules/UNSORTED/M901NW",
+   "folder": "Modules/UNSORTED/M901NW/MANUALS",
    "ads": [],
-   "page": "Modules/UNSORTED/M901NW/index.html"
+   "page": "Modules/UNSORTED/M901NW/MANUALS/index.html"
   },
   {
    "id": "M490J",
@@ -1933,9 +1933,9 @@
    ],
    "jobs": [],
    "files": 36,
-   "folder": "Modules/INPUT-PRE-AMPS/M490J",
+   "folder": "Modules/INPUT-PRE-AMPS/M490J/MANUALS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M490J/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M490J/MANUALS/index.html"
   },
   {
    "id": "M413",
@@ -1955,9 +1955,9 @@
     "77012"
    ],
    "files": 31,
-   "folder": "Modules/MONITORING/M413",
+   "folder": "Modules/MONITORING/M413/PHOTOS",
    "ads": [],
-   "page": "Modules/MONITORING/M413/index.html"
+   "page": "Modules/MONITORING/M413/PHOTOS/index.html"
   },
   {
    "id": "M568W",
@@ -1974,9 +1974,9 @@
    ],
    "jobs": [],
    "files": 4,
-   "folder": "Modules/ROUTING/M568W",
+   "folder": "Modules/ROUTING/M568W/SCHEMATICS",
    "ads": [],
-   "page": "Modules/ROUTING/M568W/index.html"
+   "page": "Modules/ROUTING/M568W/SCHEMATICS/index.html"
   },
   {
    "id": "M182",
@@ -1993,9 +1993,9 @@
    ],
    "jobs": [],
    "files": 2,
-   "folder": "Modules/UNSORTED/M182",
+   "folder": "Modules/UNSORTED/M182/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M182/index.html"
+   "page": "Modules/UNSORTED/M182/SCHEMATICS/index.html"
   },
   {
    "id": "POD12A",
@@ -2061,9 +2061,9 @@
     "840300"
    ],
    "files": 81,
-   "folder": "Modules/MONITORING/M475",
+   "folder": "Modules/MONITORING/M475/MANUALS",
    "ads": [],
-   "page": "Modules/MONITORING/M475/index.html"
+   "page": "Modules/MONITORING/M475/MANUALS/index.html"
   },
   {
    "id": "M605C",
@@ -2078,9 +2078,9 @@
    "years": [],
    "jobs": [],
    "files": 24,
-   "folder": "Modules/AMPLIFIERS/M605C",
+   "folder": "Modules/AMPLIFIERS/M605C/SCHEMATICS",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M605C/index.html"
+   "page": "Modules/AMPLIFIERS/M605C/SCHEMATICS/index.html"
   },
   {
    "id": "M923D",
@@ -2095,9 +2095,9 @@
    "years": [],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M923D",
+   "folder": "Modules/UNSORTED/M923D/MANUALS",
    "ads": [],
-   "page": "Modules/UNSORTED/M923D/index.html"
+   "page": "Modules/UNSORTED/M923D/MANUALS/index.html"
   },
   {
    "id": "RM650",
@@ -2114,9 +2114,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/RM650",
+   "folder": "Modules/UNSORTED/RM650/MANUALS",
    "ads": [],
-   "page": "Modules/UNSORTED/RM650/index.html"
+   "page": "Modules/UNSORTED/RM650/MANUALS/index.html"
   },
   {
    "id": "D6207A",
@@ -2165,9 +2165,9 @@
     "WBSStSeriesStereoConsole"
    ],
    "files": 100,
-   "folder": "Modules/FILTERS/M462A",
+   "folder": "Modules/FILTERS/M462A/MANUALS",
    "ads": [],
-   "page": "Modules/FILTERS/M462A/index.html"
+   "page": "Modules/FILTERS/M462A/MANUALS/index.html"
   },
   {
    "id": "POD7A",
@@ -2225,9 +2225,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M7820",
+   "folder": "Modules/UNSORTED/M7820/MECHANICAL",
    "ads": [],
-   "page": "Modules/UNSORTED/M7820/index.html"
+   "page": "Modules/UNSORTED/M7820/MECHANICAL/index.html"
   },
   {
    "id": "M712",
@@ -2246,9 +2246,9 @@
    ],
    "jobs": [],
    "files": 113,
-   "folder": "Modules/COMMUNICATION/M712",
+   "folder": "Modules/COMMUNICATION/M712/PHOTOS",
    "ads": [],
-   "page": "Modules/COMMUNICATION/M712/index.html"
+   "page": "Modules/COMMUNICATION/M712/PHOTOS/index.html"
   },
   {
    "id": "AMS16-2AE",
@@ -2310,9 +2310,9 @@
     "R1400-R2400-sales"
    ],
    "files": 49,
-   "folder": "Modules/INPUT-PRE-AMPS/M490N",
+   "folder": "Modules/INPUT-PRE-AMPS/M490N/MANUALS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M490N/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M490N/MANUALS/index.html"
   },
   {
    "id": "M453",
@@ -2332,9 +2332,9 @@
     "920063"
    ],
    "files": 42,
-   "folder": "Modules/AMPLIFIERS/M453",
+   "folder": "Modules/AMPLIFIERS/M453/SCHEMATICS",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M453/index.html"
+   "page": "Modules/AMPLIFIERS/M453/SCHEMATICS/index.html"
   },
   {
    "id": "M8206",
@@ -2355,9 +2355,9 @@
    ],
    "jobs": [],
    "files": 37,
-   "folder": "Modules/AMPLIFIERS/M8206",
+   "folder": "Modules/AMPLIFIERS/M8206/MANUALS",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M8206/index.html",
+   "page": "Modules/AMPLIFIERS/M8206/MANUALS/index.html",
    "sims": [
     "m8206"
    ]
@@ -2398,9 +2398,9 @@
     "73050"
    ],
    "files": 85,
-   "folder": "Modules/INPUT-PRE-AMPS/M441M",
+   "folder": "Modules/INPUT-PRE-AMPS/M441M/MANUALS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M441M/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M441M/MANUALS/index.html"
   },
   {
    "id": "M523",
@@ -2426,21 +2426,21 @@
     "WBSStSeriesStereoConsole"
    ],
    "files": 88,
-   "folder": "Modules/SUMMING/M523",
+   "folder": "Modules/SUMMING/M523/SCHEMATICS",
    "ads": [
-    "Modules/COMPUTERS/M5200/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M5201/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M524/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M526/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/FILTERS/M522/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M520/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M521/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/MONITORING/M525/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M523/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M527/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M528/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
+    "Modules/COMPUTERS/M5200/MANUALS/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M5201/MANUALS/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M524/MANUALS/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M526/MANUALS/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/FILTERS/M522/MANUALS/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M520/MANUALS/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M521/MANUALS/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/MONITORING/M525/MANUALS/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M523/MANUALS/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M527/MANUALS/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M528/MANUALS/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
    ],
-   "page": "Modules/SUMMING/M523/index.html"
+   "page": "Modules/SUMMING/M523/SCHEMATICS/index.html"
   },
   {
    "id": "ABB1",
@@ -2518,9 +2518,9 @@
    "years": [],
    "jobs": [],
    "files": 36,
-   "folder": "Modules/INPUT-PRE-AMPS/M490H",
+   "folder": "Modules/INPUT-PRE-AMPS/M490H/MANUALS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M490H/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M490H/MANUALS/index.html"
   },
   {
    "id": "M020",
@@ -2537,9 +2537,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M020",
+   "folder": "Modules/UNSORTED/M020/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M020/index.html"
+   "page": "Modules/UNSORTED/M020/SCHEMATICS/index.html"
   },
   {
    "id": "M604",
@@ -2558,9 +2558,9 @@
    ],
    "jobs": [],
    "files": 52,
-   "folder": "Modules/AMPLIFIERS/M604",
+   "folder": "Modules/AMPLIFIERS/M604/MANUALS",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M604/index.html"
+   "page": "Modules/AMPLIFIERS/M604/MANUALS/index.html"
   },
   {
    "id": "M753",
@@ -2577,9 +2577,9 @@
    ],
    "jobs": [],
    "files": 6,
-   "folder": "Modules/UNSORTED/M753",
+   "folder": "Modules/UNSORTED/M753/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M753/index.html"
+   "page": "Modules/UNSORTED/M753/SCHEMATICS/index.html"
   },
   {
    "id": "M136",
@@ -2598,9 +2598,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M136",
+   "folder": "Modules/UNSORTED/M136/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M136/index.html"
+   "page": "Modules/UNSORTED/M136/SCHEMATICS/index.html"
   },
   {
    "id": "M8202A",
@@ -2642,9 +2642,9 @@
     "93047"
    ],
    "files": 21,
-   "folder": "Modules/COMMUNICATION/M7840",
+   "folder": "Modules/COMMUNICATION/M7840/PHOTOS",
    "ads": [],
-   "page": "Modules/COMMUNICATION/M7840/index.html"
+   "page": "Modules/COMMUNICATION/M7840/PHOTOS/index.html"
   },
   {
    "id": "M6202AE",
@@ -2686,9 +2686,9 @@
     "790236"
    ],
    "files": 60,
-   "folder": "Modules/DYNAMICS/M415",
+   "folder": "Modules/DYNAMICS/M415/SCHEMATICS",
    "ads": [],
-   "page": "Modules/DYNAMICS/M415/index.html"
+   "page": "Modules/DYNAMICS/M415/SCHEMATICS/index.html"
   },
   {
    "id": "POD8A",
@@ -2753,9 +2753,9 @@
     "Rseriesinstallguide"
    ],
    "files": 104,
-   "folder": "Modules/MONITORING/M495",
+   "folder": "Modules/MONITORING/M495/MANUALS",
    "ads": [],
-   "page": "Modules/MONITORING/M495/index.html"
+   "page": "Modules/MONITORING/M495/MANUALS/index.html"
   },
   {
    "id": "M463L",
@@ -2774,9 +2774,9 @@
    ],
    "jobs": [],
    "files": 80,
-   "folder": "Modules/SUMMING/M463L",
+   "folder": "Modules/SUMMING/M463L/MANUALS",
    "ads": [],
-   "page": "Modules/SUMMING/M463L/index.html"
+   "page": "Modules/SUMMING/M463L/MANUALS/index.html"
   },
   {
    "id": "D6201B",
@@ -2815,9 +2815,9 @@
    ],
    "jobs": [],
    "files": 4,
-   "folder": "Modules/UNSORTED/M181",
+   "folder": "Modules/UNSORTED/M181/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M181/index.html"
+   "page": "Modules/UNSORTED/M181/SCHEMATICS/index.html"
   },
   {
    "id": "M8204A",
@@ -2854,9 +2854,9 @@
    "years": [],
    "jobs": [],
    "files": 2,
-   "folder": "Modules/AMPLIFIERS/M808B",
+   "folder": "Modules/AMPLIFIERS/M808B/PINOUTS",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M808B/index.html"
+   "page": "Modules/AMPLIFIERS/M808B/PINOUTS/index.html"
   },
   {
    "id": "M456B",
@@ -2874,9 +2874,9 @@
    ],
    "jobs": [],
    "files": 63,
-   "folder": "Modules/ROUTING/M456B",
+   "folder": "Modules/ROUTING/M456B/MANUALS",
    "ads": [],
-   "page": "Modules/ROUTING/M456B/index.html"
+   "page": "Modules/ROUTING/M456B/MANUALS/index.html"
   },
   {
    "id": "D8212",
@@ -2896,8 +2896,8 @@
    "files": 100,
    "folder": "Products/8200 SERIES/D8212",
    "ads": [
-    "Modules/AMPLIFIERS/M8200/19xx - M8200 - AD - Screen Shot 2016-03-06 at 12.54.58 AM.png",
-    "Modules/AMPLIFIERS/M8200/19xx - M8200 - AD - Screen Shot 2016-03-06 at 12.55.00 AM.png",
+    "Modules/AMPLIFIERS/M8200/MANUALS/19xx - M8200 - AD - Screen Shot 2016-03-06 at 12.54.58 AM.png",
+    "Modules/AMPLIFIERS/M8200/MANUALS/19xx - M8200 - AD - Screen Shot 2016-03-06 at 12.55.00 AM.png",
     "Products/8200 SERIES/D8212/19xx - D8212 - AD - Screen Shot 2016-03-06 at 12.51.49 AM (2).png",
     "Products/8200 SERIES/D8212/19xx - D8212 - AD - Screen Shot 2016-03-06 at 12.51.49 AM.png",
     "Products/8200 SERIES/D8212/19xx - D8212 - AD - Screen Shot 2016-03-06 at 12.52.00 AM.png",
@@ -2926,9 +2926,9 @@
    ],
    "jobs": [],
    "files": 57,
-   "folder": "Modules/SUMMING/M497A",
+   "folder": "Modules/SUMMING/M497A/MANUALS",
    "ads": [],
-   "page": "Modules/SUMMING/M497A/index.html"
+   "page": "Modules/SUMMING/M497A/MANUALS/index.html"
   },
   {
    "id": "M457A",
@@ -2948,9 +2948,9 @@
     "WBSL2642"
    ],
    "files": 24,
-   "folder": "Modules/ROUTING/M457A",
+   "folder": "Modules/ROUTING/M457A/MANUALS",
    "ads": [],
-   "page": "Modules/ROUTING/M457A/index.html"
+   "page": "Modules/ROUTING/M457A/MANUALS/index.html"
   },
   {
    "id": "MP1",
@@ -2986,9 +2986,9 @@
    ],
    "jobs": [],
    "files": 24,
-   "folder": "Modules/SUMMING/M484",
+   "folder": "Modules/SUMMING/M484/MANUALS",
    "ads": [],
-   "page": "Modules/SUMMING/M484/index.html"
+   "page": "Modules/SUMMING/M484/MANUALS/index.html"
   },
   {
    "id": "M527",
@@ -3014,21 +3014,21 @@
     "WBSStSeriesStereoConsole"
    ],
    "files": 62,
-   "folder": "Modules/SUMMING/M527",
+   "folder": "Modules/SUMMING/M527/SCHEMATICS",
    "ads": [
-    "Modules/COMPUTERS/M5200/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M5201/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M524/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M526/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/FILTERS/M522/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M520/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M521/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/MONITORING/M525/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M523/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M527/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M528/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
+    "Modules/COMPUTERS/M5200/MANUALS/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M5201/MANUALS/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M524/MANUALS/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M526/MANUALS/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/FILTERS/M522/MANUALS/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M520/MANUALS/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M521/MANUALS/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/MONITORING/M525/MANUALS/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M523/MANUALS/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M527/MANUALS/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M528/MANUALS/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
    ],
-   "page": "Modules/SUMMING/M527/index.html"
+   "page": "Modules/SUMMING/M527/SCHEMATICS/index.html"
   },
   {
    "id": "M524A",
@@ -3052,9 +3052,9 @@
     "WBSStSeriesStereoConsole"
    ],
    "files": 65,
-   "folder": "Modules/COMPUTERS/M524A",
+   "folder": "Modules/COMPUTERS/M524A/PHOTOS",
    "ads": [],
-   "page": "Modules/COMPUTERS/M524A/index.html"
+   "page": "Modules/COMPUTERS/M524A/PHOTOS/index.html"
   },
   {
    "id": "M490",
@@ -3076,9 +3076,9 @@
     "Rseriesinstallguide"
    ],
    "files": 61,
-   "folder": "Modules/INPUT-PRE-AMPS/M490",
+   "folder": "Modules/INPUT-PRE-AMPS/M490/SCHEMATICS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M490/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M490/SCHEMATICS/index.html"
   },
   {
    "id": "M465A",
@@ -3095,9 +3095,9 @@
    ],
    "jobs": [],
    "files": 13,
-   "folder": "Modules/DYNAMICS/M465A",
+   "folder": "Modules/DYNAMICS/M465A/MANUALS",
    "ads": [],
-   "page": "Modules/DYNAMICS/M465A/index.html"
+   "page": "Modules/DYNAMICS/M465A/MANUALS/index.html"
   },
   {
    "id": "M611",
@@ -3119,9 +3119,9 @@
     "WBSStSeriesStereoConsole"
    ],
    "files": 20,
-   "folder": "Modules/POWER/M611",
+   "folder": "Modules/POWER/M611/SCHEMATICS",
    "ads": [],
-   "page": "Modules/POWER/M611/index.html"
+   "page": "Modules/POWER/M611/SCHEMATICS/index.html"
   },
   {
    "id": "M121",
@@ -3140,9 +3140,9 @@
     "73050"
    ],
    "files": 23,
-   "folder": "Modules/UNSORTED/M121",
+   "folder": "Modules/UNSORTED/M121/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M121/index.html"
+   "page": "Modules/UNSORTED/M121/SCHEMATICS/index.html"
   },
   {
    "id": "M1025",
@@ -3216,9 +3216,9 @@
    ],
    "jobs": [],
    "files": 35,
-   "folder": "Modules/INPUT-PRE-AMPS/M490K",
+   "folder": "Modules/INPUT-PRE-AMPS/M490K/MANUALS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M490K/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M490K/MANUALS/index.html"
   },
   {
    "id": "MLC8",
@@ -3254,9 +3254,9 @@
    "years": [],
    "jobs": [],
    "files": 5,
-   "folder": "Modules/DYNAMICS/M406C",
+   "folder": "Modules/DYNAMICS/M406C/SCHEMATICS",
    "ads": [],
-   "page": "Modules/DYNAMICS/M406C/index.html"
+   "page": "Modules/DYNAMICS/M406C/SCHEMATICS/index.html"
   },
   {
    "id": "XTM4",
@@ -3296,21 +3296,21 @@
    ],
    "jobs": [],
    "files": 78,
-   "folder": "Modules/COMPUTERS/M5201",
+   "folder": "Modules/COMPUTERS/M5201/MECHANICAL",
    "ads": [
-    "Modules/COMPUTERS/M5200/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M5201/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M524/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M526/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/FILTERS/M522/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M520/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M521/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/MONITORING/M525/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M523/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M527/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M528/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
+    "Modules/COMPUTERS/M5200/MANUALS/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M5201/MANUALS/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M524/MANUALS/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M526/MANUALS/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/FILTERS/M522/MANUALS/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M520/MANUALS/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M521/MANUALS/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/MONITORING/M525/MANUALS/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M523/MANUALS/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M527/MANUALS/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M528/MANUALS/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
    ],
-   "page": "Modules/COMPUTERS/M5201/index.html"
+   "page": "Modules/COMPUTERS/M5201/MECHANICAL/index.html"
   },
   {
    "id": "M485",
@@ -3328,9 +3328,9 @@
    ],
    "jobs": [],
    "files": 7,
-   "folder": "Modules/UNSORTED/M485",
+   "folder": "Modules/UNSORTED/M485/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M485/index.html"
+   "page": "Modules/UNSORTED/M485/SCHEMATICS/index.html"
   },
   {
    "id": "M648",
@@ -3355,17 +3355,17 @@
     "WBSStSeriesStereoConsole"
    ],
    "files": 158,
-   "folder": "Modules/POWER/M648",
+   "folder": "Modules/POWER/M648/MANUALS",
    "ads": [
-    "Modules/AMPLIFIERS/M605/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M610/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M612/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M621/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M666/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M624/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M648/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
+    "Modules/AMPLIFIERS/M605/MANUALS/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M612/MANUALS/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M621/MANUALS/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M666/MANUALS/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M624/MANUALS/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M648/MANUALS/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
    ],
-   "page": "Modules/POWER/M648/index.html"
+   "page": "Modules/POWER/M648/MANUALS/index.html"
   },
   {
    "id": "M466C",
@@ -3384,9 +3384,9 @@
    ],
    "jobs": [],
    "files": 10,
-   "folder": "Modules/DYNAMICS/M466C",
+   "folder": "Modules/DYNAMICS/M466C/PHOTOS",
    "ads": [],
-   "page": "Modules/DYNAMICS/M466C/index.html"
+   "page": "Modules/DYNAMICS/M466C/PHOTOS/index.html"
   },
   {
    "id": "D8204A",
@@ -3444,9 +3444,9 @@
    ],
    "jobs": [],
    "files": 38,
-   "folder": "Modules/AMPLIFIERS/M605A",
+   "folder": "Modules/AMPLIFIERS/M605A/MANUALS",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M605A/index.html"
+   "page": "Modules/AMPLIFIERS/M605A/MANUALS/index.html"
   },
   {
    "id": "M6203A-3G",
@@ -3482,9 +3482,9 @@
    ],
    "jobs": [],
    "files": 11,
-   "folder": "Modules/AMPLIFIERS/M806A",
+   "folder": "Modules/AMPLIFIERS/M806A/MANUALS",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M806A/index.html"
+   "page": "Modules/AMPLIFIERS/M806A/MANUALS/index.html"
   },
   {
    "id": "M520A",
@@ -3501,9 +3501,9 @@
    ],
    "jobs": [],
    "files": 117,
-   "folder": "Modules/INPUT-PRE-AMPS/M520A",
+   "folder": "Modules/INPUT-PRE-AMPS/M520A/PHOTOS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M520A/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M520A/PHOTOS/index.html"
   },
   {
    "id": "AMS8-1A",
@@ -3541,9 +3541,9 @@
    ],
    "jobs": [],
    "files": 3,
-   "folder": "Modules/COMMUNICATION/M719",
+   "folder": "Modules/COMMUNICATION/M719/SOFTWARE",
    "ads": [],
-   "page": "Modules/COMMUNICATION/M719/index.html"
+   "page": "Modules/COMMUNICATION/M719/SOFTWARE/index.html"
   },
   {
    "id": "M743",
@@ -3560,9 +3560,9 @@
    ],
    "jobs": [],
    "files": 3,
-   "folder": "Modules/UNSORTED/M743",
+   "folder": "Modules/UNSORTED/M743/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M743/index.html"
+   "page": "Modules/UNSORTED/M743/SCHEMATICS/index.html"
   },
   {
    "id": "AMX9A",
@@ -3599,9 +3599,9 @@
    "years": [],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/INPUT-PRE-AMPS/M460D",
+   "folder": "Modules/INPUT-PRE-AMPS/M460D/SCHEMATICS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M460D/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M460D/SCHEMATICS/index.html"
   },
   {
    "id": "M626",
@@ -3618,9 +3618,9 @@
    ],
    "jobs": [],
    "files": 6,
-   "folder": "Modules/UNSORTED/M626",
+   "folder": "Modules/UNSORTED/M626/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M626/index.html"
+   "page": "Modules/UNSORTED/M626/SCHEMATICS/index.html"
   },
   {
    "id": "M460C",
@@ -3635,9 +3635,9 @@
    "years": [],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/INPUT-PRE-AMPS/M460C",
+   "folder": "Modules/INPUT-PRE-AMPS/M460C/SCHEMATICS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M460C/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M460C/SCHEMATICS/index.html"
   },
   {
    "id": "M751",
@@ -3655,9 +3655,9 @@
    ],
    "jobs": [],
    "files": 8,
-   "folder": "Modules/UNSORTED/M751",
+   "folder": "Modules/UNSORTED/M751/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M751/index.html"
+   "page": "Modules/UNSORTED/M751/SCHEMATICS/index.html"
   },
   {
    "id": "M802",
@@ -3696,9 +3696,9 @@
     "790236"
    ],
    "files": 40,
-   "folder": "Modules/ROUTING/M459",
+   "folder": "Modules/ROUTING/M459/SCHEMATICS",
    "ads": [],
-   "page": "Modules/ROUTING/M459/index.html"
+   "page": "Modules/ROUTING/M459/SCHEMATICS/index.html"
   },
   {
    "id": "MLC8A",
@@ -3737,9 +3737,9 @@
    ],
    "jobs": [],
    "files": 12,
-   "folder": "Modules/COMMUNICATION/M718",
+   "folder": "Modules/COMMUNICATION/M718/MANUALS",
    "ads": [],
-   "page": "Modules/COMMUNICATION/M718/index.html"
+   "page": "Modules/COMMUNICATION/M718/MANUALS/index.html"
   },
   {
    "id": "M462C",
@@ -3757,9 +3757,9 @@
    ],
    "jobs": [],
    "files": 45,
-   "folder": "Modules/FILTERS/M462C",
+   "folder": "Modules/FILTERS/M462C/MANUALS",
    "ads": [],
-   "page": "Modules/FILTERS/M462C/index.html"
+   "page": "Modules/FILTERS/M462C/MANUALS/index.html"
   },
   {
    "id": "ST3642",
@@ -3817,9 +3817,9 @@
    ],
    "jobs": [],
    "files": 4,
-   "folder": "Modules/DYNAMICS/M8207",
+   "folder": "Modules/DYNAMICS/M8207/MANUALS",
    "ads": [],
-   "page": "Modules/DYNAMICS/M8207/index.html",
+   "page": "Modules/DYNAMICS/M8207/MANUALS/index.html",
    "sims": [
     "m8207"
    ]
@@ -3860,9 +3860,9 @@
     "WBS880134-STConsole"
    ],
    "files": 27,
-   "folder": "Modules/METER/M433",
+   "folder": "Modules/METER/M433/MANUALS",
    "ads": [],
-   "page": "Modules/METER/M433/index.html"
+   "page": "Modules/METER/M433/MANUALS/index.html"
   },
   {
    "id": "M463J",
@@ -3877,9 +3877,9 @@
    "years": [],
    "jobs": [],
    "files": 34,
-   "folder": "Modules/SUMMING/M463J",
+   "folder": "Modules/SUMMING/M463J/MANUALS",
    "ads": [],
-   "page": "Modules/SUMMING/M463J/index.html"
+   "page": "Modules/SUMMING/M463J/MANUALS/index.html"
   },
   {
    "id": "M521",
@@ -3904,21 +3904,21 @@
     "WBSStSeriesStereoConsole"
    ],
    "files": 125,
-   "folder": "Modules/INPUT-PRE-AMPS/M521",
+   "folder": "Modules/INPUT-PRE-AMPS/M521/MANUALS",
    "ads": [
-    "Modules/COMPUTERS/M5200/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M5201/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M524/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M526/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/FILTERS/M522/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M520/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M521/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/MONITORING/M525/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M523/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M527/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M528/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
+    "Modules/COMPUTERS/M5200/MANUALS/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M5201/MANUALS/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M524/MANUALS/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M526/MANUALS/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/FILTERS/M522/MANUALS/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M520/MANUALS/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M521/MANUALS/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/MONITORING/M525/MANUALS/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M523/MANUALS/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M527/MANUALS/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M528/MANUALS/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
    ],
-   "page": "Modules/INPUT-PRE-AMPS/M521/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M521/MANUALS/index.html"
   },
   {
    "id": "ST2442",
@@ -3960,9 +3960,9 @@
     "Rseriesinstallguide"
    ],
    "files": 35,
-   "folder": "Modules/INPUT-PRE-AMPS/M490A",
+   "folder": "Modules/INPUT-PRE-AMPS/M490A/MANUALS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M490A/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M490A/MANUALS/index.html"
   },
   {
    "id": "M478H",
@@ -3979,9 +3979,9 @@
    ],
    "jobs": [],
    "files": 11,
-   "folder": "Modules/UNSORTED/M478H",
+   "folder": "Modules/UNSORTED/M478H/MANUALS",
    "ads": [],
-   "page": "Modules/UNSORTED/M478H/index.html"
+   "page": "Modules/UNSORTED/M478H/MANUALS/index.html"
   },
   {
    "id": "D8204B",
@@ -4041,9 +4041,9 @@
    ],
    "jobs": [],
    "files": 7,
-   "folder": "Modules/SUMMING/M463B",
+   "folder": "Modules/SUMMING/M463B/SCHEMATICS",
    "ads": [],
-   "page": "Modules/SUMMING/M463B/index.html"
+   "page": "Modules/SUMMING/M463B/SCHEMATICS/index.html"
   },
   {
    "id": "M520K",
@@ -4058,9 +4058,9 @@
    "years": [],
    "jobs": [],
    "files": 12,
-   "folder": "Modules/INPUT-PRE-AMPS/M520K",
+   "folder": "Modules/INPUT-PRE-AMPS/M520K/PHOTOS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M520K/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M520K/PHOTOS/index.html"
   },
   {
    "id": "M471A",
@@ -4077,9 +4077,9 @@
    ],
    "jobs": [],
    "files": 30,
-   "folder": "Modules/INPUT-PRE-AMPS/M471A",
+   "folder": "Modules/INPUT-PRE-AMPS/M471A/MANUALS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M471A/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M471A/MANUALS/index.html"
   },
   {
    "id": "M166",
@@ -4099,9 +4099,9 @@
     "73050"
    ],
    "files": 22,
-   "folder": "Modules/SUMMING/M166",
+   "folder": "Modules/SUMMING/M166/SCHEMATICS",
    "ads": [],
-   "page": "Modules/SUMMING/M166/index.html"
+   "page": "Modules/SUMMING/M166/SCHEMATICS/index.html"
   },
   {
    "id": "M559A",
@@ -4118,9 +4118,9 @@
    ],
    "jobs": [],
    "files": 18,
-   "folder": "Modules/ROUTING/M559A",
+   "folder": "Modules/ROUTING/M559A/PHOTOS",
    "ads": [],
-   "page": "Modules/ROUTING/M559A/index.html"
+   "page": "Modules/ROUTING/M559A/PHOTOS/index.html"
   },
   {
    "id": "M562C",
@@ -4138,9 +4138,9 @@
    ],
    "jobs": [],
    "files": 53,
-   "folder": "Modules/FILTERS/M562C",
+   "folder": "Modules/FILTERS/M562C/MANUALS",
    "ads": [],
-   "page": "Modules/FILTERS/M562C/index.html"
+   "page": "Modules/FILTERS/M562C/MANUALS/index.html"
   },
   {
    "id": "M475A",
@@ -4160,9 +4160,9 @@
     "880651"
    ],
    "files": 49,
-   "folder": "Modules/MONITORING/M475A",
+   "folder": "Modules/MONITORING/M475A/MANUALS",
    "ads": [],
-   "page": "Modules/MONITORING/M475A/index.html"
+   "page": "Modules/MONITORING/M475A/MANUALS/index.html"
   },
   {
    "id": "MP2",
@@ -4201,13 +4201,13 @@
    ],
    "jobs": [],
    "files": 104,
-   "folder": "Modules/AMPLIFIERS/M612A",
+   "folder": "Modules/AMPLIFIERS/M612A/MANUALS",
    "ads": [
-    "Modules/AMPLIFIERS/M608/19xx - M608 - AD - WBSPS - AD - for the engineer who has everything.jpg",
-    "Modules/AMPLIFIERS/M609/19xx - M609 - AD - WBSPS - AD - for the engineer who has everything.jpg",
-    "Modules/AMPLIFIERS/M612A/19xx - M612A - AD - WBSPS - AD - for the engineer who has everything.jpg"
+    "Modules/AMPLIFIERS/M608/MANUALS/19xx - M608 - AD - WBSPS - AD - for the engineer who has everything.jpg",
+    "Modules/AMPLIFIERS/M609/MANUALS/19xx - M609 - AD - WBSPS - AD - for the engineer who has everything.jpg",
+    "Modules/AMPLIFIERS/M612A/MANUALS/19xx - M612A - AD - WBSPS - AD - for the engineer who has everything.jpg"
    ],
-   "page": "Modules/AMPLIFIERS/M612A/index.html"
+   "page": "Modules/AMPLIFIERS/M612A/MANUALS/index.html"
   },
   {
    "id": "M406A",
@@ -4222,9 +4222,9 @@
    "years": [],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/DYNAMICS/M406A",
+   "folder": "Modules/DYNAMICS/M406A/MANUALS",
    "ads": [],
-   "page": "Modules/DYNAMICS/M406A/index.html"
+   "page": "Modules/DYNAMICS/M406A/MANUALS/index.html"
   },
   {
    "id": "M711",
@@ -4241,9 +4241,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M711",
+   "folder": "Modules/UNSORTED/M711/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M711/index.html"
+   "page": "Modules/UNSORTED/M711/SCHEMATICS/index.html"
   },
   {
    "id": "POD27",
@@ -4282,9 +4282,9 @@
    ],
    "jobs": [],
    "files": 29,
-   "folder": "Modules/INPUT-PRE-AMPS/M470E",
+   "folder": "Modules/INPUT-PRE-AMPS/M470E/MANUALS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M470E/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M470E/MANUALS/index.html"
   },
   {
    "id": "M479",
@@ -4305,9 +4305,9 @@
     "920477"
    ],
    "files": 91,
-   "folder": "Modules/SUMMING/M479",
+   "folder": "Modules/SUMMING/M479/MANUALS",
    "ads": [],
-   "page": "Modules/SUMMING/M479/index.html"
+   "page": "Modules/SUMMING/M479/MANUALS/index.html"
   },
   {
    "id": "M466",
@@ -4334,9 +4334,9 @@
     "WBSStSeriesStereoConsole"
    ],
    "files": 213,
-   "folder": "Modules/DYNAMICS/M466",
+   "folder": "Modules/DYNAMICS/M466/MANUALS",
    "ads": [],
-   "page": "Modules/DYNAMICS/M466/index.html"
+   "page": "Modules/DYNAMICS/M466/MANUALS/index.html"
   },
   {
    "id": "M605",
@@ -4353,17 +4353,17 @@
    ],
    "jobs": [],
    "files": 84,
-   "folder": "Modules/AMPLIFIERS/M605",
+   "folder": "Modules/AMPLIFIERS/M605/MANUALS",
    "ads": [
-    "Modules/AMPLIFIERS/M605/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M610/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M612/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M621/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M666/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M624/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M648/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
+    "Modules/AMPLIFIERS/M605/MANUALS/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M612/MANUALS/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M621/MANUALS/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M666/MANUALS/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M624/MANUALS/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M648/MANUALS/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
    ],
-   "page": "Modules/AMPLIFIERS/M605/index.html"
+   "page": "Modules/AMPLIFIERS/M605/MANUALS/index.html"
   },
   {
    "id": "32ME-AES",
@@ -4399,9 +4399,9 @@
    ],
    "jobs": [],
    "files": 3,
-   "folder": "Modules/UNSORTED/M629",
+   "folder": "Modules/UNSORTED/M629/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M629/index.html"
+   "page": "Modules/UNSORTED/M629/SCHEMATICS/index.html"
   },
   {
    "id": "D8201",
@@ -4437,9 +4437,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/COMMUNICATION/M701D",
+   "folder": "Modules/COMMUNICATION/M701D/SCHEMATICS",
    "ads": [],
-   "page": "Modules/COMMUNICATION/M701D/index.html"
+   "page": "Modules/COMMUNICATION/M701D/SCHEMATICS/index.html"
   },
   {
    "id": "M8204",
@@ -4461,9 +4461,9 @@
     "93047"
    ],
    "files": 34,
-   "folder": "Modules/AMPLIFIERS/M8204",
+   "folder": "Modules/AMPLIFIERS/M8204/SCHEMATICS",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M8204/index.html",
+   "page": "Modules/AMPLIFIERS/M8204/SCHEMATICS/index.html",
    "sims": [
     "m8204"
    ]
@@ -4483,9 +4483,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M178",
+   "folder": "Modules/UNSORTED/M178/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M178/index.html"
+   "page": "Modules/UNSORTED/M178/SCHEMATICS/index.html"
   },
   {
    "id": "AMS8-1AAM",
@@ -4523,9 +4523,9 @@
     "73050"
    ],
    "files": 93,
-   "folder": "Modules/AMPLIFIERS/M124",
+   "folder": "Modules/AMPLIFIERS/M124/PHOTOS",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M124/index.html"
+   "page": "Modules/AMPLIFIERS/M124/PHOTOS/index.html"
   },
   {
    "id": "M808",
@@ -4543,9 +4543,9 @@
    ],
    "jobs": [],
    "files": 20,
-   "folder": "Modules/AMPLIFIERS/M808",
+   "folder": "Modules/AMPLIFIERS/M808/SCHEMATICS",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M808/index.html"
+   "page": "Modules/AMPLIFIERS/M808/SCHEMATICS/index.html"
   },
   {
    "id": "RA24",
@@ -4584,9 +4584,9 @@
    ],
    "jobs": [],
    "files": 6,
-   "folder": "Modules/UNSORTED/M501",
+   "folder": "Modules/UNSORTED/M501/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M501/index.html"
+   "page": "Modules/UNSORTED/M501/SCHEMATICS/index.html"
   },
   {
    "id": "M701",
@@ -4609,9 +4609,9 @@
    ],
    "jobs": [],
    "files": 63,
-   "folder": "Modules/UNSORTED/M701",
+   "folder": "Modules/UNSORTED/M701/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M701/index.html"
+   "page": "Modules/UNSORTED/M701/SCHEMATICS/index.html"
   },
   {
    "id": "M1022",
@@ -4648,9 +4648,9 @@
    ],
    "jobs": [],
    "files": 76,
-   "folder": "Modules/INPUT-PRE-AMPS/M471C",
+   "folder": "Modules/INPUT-PRE-AMPS/M471C/MANUALS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M471C/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M471C/MANUALS/index.html"
   },
   {
    "id": "M8200",
@@ -4672,15 +4672,15 @@
     "WBSStSeriesStereoConsole"
    ],
    "files": 80,
-   "folder": "Modules/AMPLIFIERS/M8200",
+   "folder": "Modules/AMPLIFIERS/M8200/MANUALS",
    "ads": [
-    "Modules/AMPLIFIERS/M8200/19xx - M8200 - AD - Screen Shot 2016-03-06 at 12.54.58 AM.png",
-    "Modules/AMPLIFIERS/M8200/19xx - M8200 - AD - Screen Shot 2016-03-06 at 12.55.00 AM.png",
-    "Modules/AMPLIFIERS/M8200/19xx - M8200 - AD - Screen Shot 2016-03-06 at 12.55.01 AM.png",
+    "Modules/AMPLIFIERS/M8200/MANUALS/19xx - M8200 - AD - Screen Shot 2016-03-06 at 12.54.58 AM.png",
+    "Modules/AMPLIFIERS/M8200/MANUALS/19xx - M8200 - AD - Screen Shot 2016-03-06 at 12.55.00 AM.png",
+    "Modules/AMPLIFIERS/M8200/MANUALS/19xx - M8200 - AD - Screen Shot 2016-03-06 at 12.55.01 AM.png",
     "Products/8200 SERIES/D8212/19xx - D8212 - AD - Screen Shot 2016-03-06 at 12.54.58 AM.png",
     "Products/8200 SERIES/D8212/19xx - D8212 - AD - Screen Shot 2016-03-06 at 12.55.00 AM.png"
    ],
-   "page": "Modules/AMPLIFIERS/M8200/index.html",
+   "page": "Modules/AMPLIFIERS/M8200/MANUALS/index.html",
    "sims": [
     "m8200-terminations",
     "m8200-extender-handle"
@@ -4704,9 +4704,9 @@
    ],
    "jobs": [],
    "files": 15,
-   "folder": "Modules/AMPLIFIERS/M8202",
+   "folder": "Modules/AMPLIFIERS/M8202/PHOTOS",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M8202/index.html"
+   "page": "Modules/AMPLIFIERS/M8202/PHOTOS/index.html"
   },
   {
    "id": "M6203A",
@@ -4766,9 +4766,9 @@
    "years": [],
    "jobs": [],
    "files": 60,
-   "folder": "Modules/FILTERS/M402A",
+   "folder": "Modules/FILTERS/M402A/MANUALS",
    "ads": [],
-   "page": "Modules/FILTERS/M402A/index.html"
+   "page": "Modules/FILTERS/M402A/MANUALS/index.html"
   },
   {
    "id": "M468M",
@@ -4787,9 +4787,9 @@
     "76045"
    ],
    "files": 5,
-   "folder": "Modules/ROUTING/M468M",
+   "folder": "Modules/ROUTING/M468M/PHOTOS",
    "ads": [],
-   "page": "Modules/ROUTING/M468M/index.html"
+   "page": "Modules/ROUTING/M468M/PHOTOS/index.html"
   },
   {
    "id": "M8209A",
@@ -4832,21 +4832,21 @@
     "WBSStSeriesStereoConsole"
    ],
    "files": 109,
-   "folder": "Modules/INPUT-PRE-AMPS/M520",
+   "folder": "Modules/INPUT-PRE-AMPS/M520/PHOTOS",
    "ads": [
-    "Modules/COMPUTERS/M5200/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M5201/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M524/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M526/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/FILTERS/M522/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M520/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M521/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/MONITORING/M525/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M523/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M527/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M528/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
+    "Modules/COMPUTERS/M5200/MANUALS/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M5201/MANUALS/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M524/MANUALS/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M526/MANUALS/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/FILTERS/M522/MANUALS/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M520/MANUALS/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M521/MANUALS/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/MONITORING/M525/MANUALS/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M523/MANUALS/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M527/MANUALS/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M528/MANUALS/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
    ],
-   "page": "Modules/INPUT-PRE-AMPS/M520/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M520/PHOTOS/index.html"
   },
   {
    "id": "M7880G",
@@ -4863,9 +4863,9 @@
    ],
    "jobs": [],
    "files": 24,
-   "folder": "Modules/COMMUNICATION/M7880G",
+   "folder": "Modules/COMMUNICATION/M7880G/MECHANICAL",
    "ads": [],
-   "page": "Modules/COMMUNICATION/M7880G/index.html"
+   "page": "Modules/COMMUNICATION/M7880G/MECHANICAL/index.html"
   },
   {
    "id": "M522B",
@@ -4883,9 +4883,9 @@
    ],
    "jobs": [],
    "files": 40,
-   "folder": "Modules/FILTERS/M522B",
+   "folder": "Modules/FILTERS/M522B/MANUALS",
    "ads": [],
-   "page": "Modules/FILTERS/M522B/index.html"
+   "page": "Modules/FILTERS/M522B/MANUALS/index.html"
   },
   {
    "id": "AMS16-2AM",
@@ -4965,9 +4965,9 @@
    ],
    "jobs": [],
    "files": 5,
-   "folder": "Modules/UNSORTED/M175",
+   "folder": "Modules/UNSORTED/M175/PHOTOS",
    "ads": [],
-   "page": "Modules/UNSORTED/M175/index.html"
+   "page": "Modules/UNSORTED/M175/PHOTOS/index.html"
   },
   {
    "id": "POD30",
@@ -5006,9 +5006,9 @@
     "73050"
    ],
    "files": 2,
-   "folder": "Modules/ROUTING/M468A",
+   "folder": "Modules/ROUTING/M468A/PHOTOS",
    "ads": [],
-   "page": "Modules/ROUTING/M468A/index.html"
+   "page": "Modules/ROUTING/M468A/PHOTOS/index.html"
   },
   {
    "id": "M469",
@@ -5028,9 +5028,9 @@
    ],
    "jobs": [],
    "files": 9,
-   "folder": "Modules/UNSORTED/M469",
+   "folder": "Modules/UNSORTED/M469/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M469/index.html"
+   "page": "Modules/UNSORTED/M469/SCHEMATICS/index.html"
   },
   {
    "id": "M463AB",
@@ -5047,9 +5047,9 @@
    ],
    "jobs": [],
    "files": 38,
-   "folder": "Modules/SUMMING/M463AB",
+   "folder": "Modules/SUMMING/M463AB/MANUALS",
    "ads": [],
-   "page": "Modules/SUMMING/M463AB/index.html"
+   "page": "Modules/SUMMING/M463AB/MANUALS/index.html"
   },
   {
    "id": "M460LA",
@@ -5064,9 +5064,9 @@
    "years": [],
    "jobs": [],
    "files": 2,
-   "folder": "Modules/INPUT-PRE-AMPS/M460LA",
+   "folder": "Modules/INPUT-PRE-AMPS/M460LA/PHOTOS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M460LA/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M460LA/PHOTOS/index.html"
   },
   {
    "id": "AMS8-2AEM",
@@ -5104,9 +5104,9 @@
     "WBSStSeriesStereoConsole"
    ],
    "files": 40,
-   "folder": "Modules/LOGIC/M202",
+   "folder": "Modules/LOGIC/M202/MANUALS",
    "ads": [],
-   "page": "Modules/LOGIC/M202/index.html"
+   "page": "Modules/LOGIC/M202/MANUALS/index.html"
   },
   {
    "id": "AMS8-2AAEM",
@@ -5144,9 +5144,9 @@
    ],
    "jobs": [],
    "files": 66,
-   "folder": "Modules/SUMMING/M463K",
+   "folder": "Modules/SUMMING/M463K/MANUALS",
    "ads": [],
-   "page": "Modules/SUMMING/M463K/index.html"
+   "page": "Modules/SUMMING/M463K/MANUALS/index.html"
   },
   {
    "id": "M922",
@@ -5167,9 +5167,9 @@
     "WBSStSeriesStereoConsole"
    ],
    "files": 24,
-   "folder": "Modules/FILTERS/M922",
+   "folder": "Modules/FILTERS/M922/SCHEMATICS",
    "ads": [],
-   "page": "Modules/FILTERS/M922/index.html"
+   "page": "Modules/FILTERS/M922/SCHEMATICS/index.html"
   },
   {
    "id": "M7885A",
@@ -5188,9 +5188,9 @@
     "960196"
    ],
    "files": 4,
-   "folder": "Modules/COMMUNICATION/M7885A",
+   "folder": "Modules/COMMUNICATION/M7885A/MANUALS",
    "ads": [],
-   "page": "Modules/COMMUNICATION/M7885A/index.html"
+   "page": "Modules/COMMUNICATION/M7885A/MANUALS/index.html"
   },
   {
    "id": "POD31",
@@ -5230,9 +5230,9 @@
    ],
    "jobs": [],
    "files": 14,
-   "folder": "Modules/SUMMING/M473B",
+   "folder": "Modules/SUMMING/M473B/MANUALS",
    "ads": [],
-   "page": "Modules/SUMMING/M473B/index.html"
+   "page": "Modules/SUMMING/M473B/MANUALS/index.html"
   },
   {
    "id": "M8204B",
@@ -5289,9 +5289,9 @@
    ],
    "jobs": [],
    "files": 5,
-   "folder": "Modules/UNSORTED/M845",
+   "folder": "Modules/UNSORTED/M845/MECHANICAL",
    "ads": [],
-   "page": "Modules/UNSORTED/M845/index.html"
+   "page": "Modules/UNSORTED/M845/MECHANICAL/index.html"
   },
   {
    "id": "M703B",
@@ -5310,9 +5310,9 @@
     "3116-01-004"
    ],
    "files": 55,
-   "folder": "Modules/COMMUNICATION/M703B",
+   "folder": "Modules/COMMUNICATION/M703B/MANUALS",
    "ads": [],
-   "page": "Modules/COMMUNICATION/M703B/index.html"
+   "page": "Modules/COMMUNICATION/M703B/MANUALS/index.html"
   },
   {
    "id": "M624",
@@ -5334,17 +5334,17 @@
     "790236"
    ],
    "files": 86,
-   "folder": "Modules/POWER/M624",
+   "folder": "Modules/POWER/M624/MANUALS",
    "ads": [
-    "Modules/AMPLIFIERS/M605/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M610/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M612/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M621/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M666/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M624/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M648/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
+    "Modules/AMPLIFIERS/M605/MANUALS/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M612/MANUALS/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M621/MANUALS/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M666/MANUALS/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M624/MANUALS/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M648/MANUALS/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
    ],
-   "page": "Modules/POWER/M624/index.html"
+   "page": "Modules/POWER/M624/MANUALS/index.html"
   },
   {
    "id": "M750",
@@ -5362,9 +5362,9 @@
    ],
    "jobs": [],
    "files": 5,
-   "folder": "Modules/UNSORTED/M750",
+   "folder": "Modules/UNSORTED/M750/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M750/index.html"
+   "page": "Modules/UNSORTED/M750/SCHEMATICS/index.html"
   },
   {
    "id": "microCOM II",
@@ -5406,7 +5406,7 @@
    "files": 80,
    "folder": "Products/MICRO SERIES/microCOM II",
    "ads": [
-    "Modules/COMMUNICATION/M7880/19xx - M7880 - AD - WBSPS - AD - Microcom II 0012.jpg",
+    "Modules/COMMUNICATION/M7880/MANUALS/19xx - M7880 - AD - WBSPS - AD - Microcom II 0012.jpg",
     "Products/MICRO SERIES/microCOM II/19xx - microCOM II - AD - WBSPS - AD - Microcom II 001.jpg",
     "Products/MICRO SERIES/microCOM II/19xx - microCOM II - AD - WBSPS - AD - Microcom II 0012.jpg",
     "Products/MICRO SERIES/microCOM II/19xx - microCOM II - AD - WBSPS - AD - Microcom II 003.jpg",
@@ -5435,9 +5435,9 @@
     "T1202"
    ],
    "files": 49,
-   "folder": "Modules/AMPLIFIERS/M481B",
+   "folder": "Modules/AMPLIFIERS/M481B/MANUALS",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M481B/index.html"
+   "page": "Modules/AMPLIFIERS/M481B/MANUALS/index.html"
   },
   {
    "id": "POD12",
@@ -5479,9 +5479,9 @@
     "76045"
    ],
    "files": 11,
-   "folder": "Modules/INPUT-PRE-AMPS/M461M",
+   "folder": "Modules/INPUT-PRE-AMPS/M461M/SCHEMATICS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M461M/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M461M/SCHEMATICS/index.html"
   },
   {
    "id": "M901",
@@ -5503,9 +5503,9 @@
     "Renaisance"
    ],
    "files": 17,
-   "folder": "Modules/UNSORTED/M901",
+   "folder": "Modules/UNSORTED/M901/MECHANICAL",
    "ads": [],
-   "page": "Modules/UNSORTED/M901/index.html"
+   "page": "Modules/UNSORTED/M901/MECHANICAL/index.html"
   },
   {
    "id": "M405PSS",
@@ -5520,9 +5520,9 @@
    "years": [],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/METER/M405PSS",
+   "folder": "Modules/METER/M405PSS/MECHANICAL",
    "ads": [],
-   "page": "Modules/METER/M405PSS/index.html"
+   "page": "Modules/METER/M405PSS/MECHANICAL/index.html"
   },
   {
    "id": "M478",
@@ -5541,9 +5541,9 @@
     "840300"
    ],
    "files": 12,
-   "folder": "Modules/UNSORTED/M478",
+   "folder": "Modules/UNSORTED/M478/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M478/index.html"
+   "page": "Modules/UNSORTED/M478/SCHEMATICS/index.html"
   },
   {
    "id": "M5200A",
@@ -5568,9 +5568,9 @@
     "WBSStSeriesStereoConsole"
    ],
    "files": 159,
-   "folder": "Modules/INPUT-PRE-AMPS/M5200A",
+   "folder": "Modules/INPUT-PRE-AMPS/M5200A/SCHEMATICS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M5200A/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M5200A/SCHEMATICS/index.html"
   },
   {
    "id": "POD18",
@@ -5611,9 +5611,9 @@
     "3116-01-004"
    ],
    "files": 76,
-   "folder": "Modules/COMMUNICATION/M702",
+   "folder": "Modules/COMMUNICATION/M702/MECHANICAL",
    "ads": [],
-   "page": "Modules/COMMUNICATION/M702/index.html"
+   "page": "Modules/COMMUNICATION/M702/MECHANICAL/index.html"
   },
   {
    "id": "AMS8-1AE",
@@ -5649,9 +5649,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M530",
+   "folder": "Modules/UNSORTED/M530/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M530/index.html"
+   "page": "Modules/UNSORTED/M530/SCHEMATICS/index.html"
   },
   {
    "id": "M621",
@@ -5673,17 +5673,17 @@
     "Rseriesinstallguide"
    ],
    "files": 151,
-   "folder": "Modules/AMPLIFIERS/M621",
+   "folder": "Modules/AMPLIFIERS/M621/MANUALS",
    "ads": [
-    "Modules/AMPLIFIERS/M605/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M610/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M612/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M621/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M666/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M624/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M648/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
+    "Modules/AMPLIFIERS/M605/MANUALS/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M612/MANUALS/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M621/MANUALS/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M666/MANUALS/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M624/MANUALS/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M648/MANUALS/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
    ],
-   "page": "Modules/AMPLIFIERS/M621/index.html"
+   "page": "Modules/AMPLIFIERS/M621/MANUALS/index.html"
   },
   {
    "id": "M500",
@@ -5700,9 +5700,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M500",
+   "folder": "Modules/UNSORTED/M500/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M500/index.html"
+   "page": "Modules/UNSORTED/M500/SCHEMATICS/index.html"
   },
   {
    "id": "M905B",
@@ -5724,9 +5724,9 @@
     "Renaisance"
    ],
    "files": 5,
-   "folder": "Modules/UNSORTED/M905B",
+   "folder": "Modules/UNSORTED/M905B/MECHANICAL",
    "ads": [],
-   "page": "Modules/UNSORTED/M905B/index.html"
+   "page": "Modules/UNSORTED/M905B/MECHANICAL/index.html"
   },
   {
    "id": "M610",
@@ -5744,17 +5744,17 @@
    ],
    "jobs": [],
    "files": 80,
-   "folder": "Modules/AMPLIFIERS/M610",
+   "folder": "Modules/AMPLIFIERS/M610/MANUALS",
    "ads": [
-    "Modules/AMPLIFIERS/M605/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M610/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M612/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M621/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M666/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M624/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M648/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
+    "Modules/AMPLIFIERS/M605/MANUALS/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M612/MANUALS/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M621/MANUALS/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M666/MANUALS/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M624/MANUALS/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M648/MANUALS/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
    ],
-   "page": "Modules/AMPLIFIERS/M610/index.html"
+   "page": "Modules/AMPLIFIERS/M610/MANUALS/index.html"
   },
   {
    "id": "M703D",
@@ -5772,9 +5772,9 @@
    ],
    "jobs": [],
    "files": 5,
-   "folder": "Modules/COMMUNICATION/M703D",
+   "folder": "Modules/COMMUNICATION/M703D/MECHANICAL",
    "ads": [],
-   "page": "Modules/COMMUNICATION/M703D/index.html"
+   "page": "Modules/COMMUNICATION/M703D/MECHANICAL/index.html"
   },
   {
    "id": "M405P",
@@ -5793,9 +5793,9 @@
    ],
    "jobs": [],
    "files": 15,
-   "folder": "Modules/METER/M405P",
+   "folder": "Modules/METER/M405P/PHOTOS",
    "ads": [],
-   "page": "Modules/METER/M405P/index.html"
+   "page": "Modules/METER/M405P/PHOTOS/index.html"
   },
   {
    "id": "M6202A",
@@ -5855,9 +5855,9 @@
    ],
    "jobs": [],
    "files": 4,
-   "folder": "Modules/UNSORTED/M780",
+   "folder": "Modules/UNSORTED/M780/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M780/index.html"
+   "page": "Modules/UNSORTED/M780/SCHEMATICS/index.html"
   },
   {
    "id": "POD22",
@@ -5901,9 +5901,9 @@
     "BIGCFTOTVdone"
    ],
    "files": 17,
-   "folder": "Modules/ROUTING/M538C",
+   "folder": "Modules/ROUTING/M538C/PHOTOS",
    "ads": [],
-   "page": "Modules/ROUTING/M538C/index.html"
+   "page": "Modules/ROUTING/M538C/PHOTOS/index.html"
   },
   {
    "id": "M808A",
@@ -5920,9 +5920,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/AMPLIFIERS/M808A",
+   "folder": "Modules/AMPLIFIERS/M808A/PINOUTS",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M808A/index.html"
+   "page": "Modules/AMPLIFIERS/M808A/PINOUTS/index.html"
   },
   {
    "id": "AMS8-1AAE",
@@ -5960,13 +5960,13 @@
    ],
    "jobs": [],
    "files": 65,
-   "folder": "Modules/AMPLIFIERS/M609",
+   "folder": "Modules/AMPLIFIERS/M609/MANUALS",
    "ads": [
-    "Modules/AMPLIFIERS/M608/19xx - M608 - AD - WBSPS - AD - for the engineer who has everything.jpg",
-    "Modules/AMPLIFIERS/M609/19xx - M609 - AD - WBSPS - AD - for the engineer who has everything.jpg",
-    "Modules/AMPLIFIERS/M612A/19xx - M612A - AD - WBSPS - AD - for the engineer who has everything.jpg"
+    "Modules/AMPLIFIERS/M608/MANUALS/19xx - M608 - AD - WBSPS - AD - for the engineer who has everything.jpg",
+    "Modules/AMPLIFIERS/M609/MANUALS/19xx - M609 - AD - WBSPS - AD - for the engineer who has everything.jpg",
+    "Modules/AMPLIFIERS/M612A/MANUALS/19xx - M612A - AD - WBSPS - AD - for the engineer who has everything.jpg"
    ],
-   "page": "Modules/AMPLIFIERS/M609/index.html"
+   "page": "Modules/AMPLIFIERS/M609/MANUALS/index.html"
   },
   {
    "id": "M406",
@@ -5986,9 +5986,9 @@
    ],
    "jobs": [],
    "files": 48,
-   "folder": "Modules/DYNAMICS/M406",
+   "folder": "Modules/DYNAMICS/M406/MANUALS",
    "ads": [],
-   "page": "Modules/DYNAMICS/M406/index.html"
+   "page": "Modules/DYNAMICS/M406/MANUALS/index.html"
   },
   {
    "id": "M770",
@@ -6007,9 +6007,9 @@
    ],
    "jobs": [],
    "files": 5,
-   "folder": "Modules/COMMUNICATION/M770",
+   "folder": "Modules/COMMUNICATION/M770/SCHEMATICS",
    "ads": [],
-   "page": "Modules/COMMUNICATION/M770/index.html"
+   "page": "Modules/COMMUNICATION/M770/SCHEMATICS/index.html"
   },
   {
    "id": "POD14B",
@@ -6048,9 +6048,9 @@
    ],
    "jobs": [],
    "files": 15,
-   "folder": "Modules/AMPLIFIERS/M166A",
+   "folder": "Modules/AMPLIFIERS/M166A/PHOTOS",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M166A/index.html"
+   "page": "Modules/AMPLIFIERS/M166A/PHOTOS/index.html"
   },
   {
    "id": "M600",
@@ -6070,9 +6070,9 @@
     "920306"
    ],
    "files": 126,
-   "folder": "Modules/AMPLIFIERS/M600",
+   "folder": "Modules/AMPLIFIERS/M600/MANUALS",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M600/index.html"
+   "page": "Modules/AMPLIFIERS/M600/MANUALS/index.html"
   },
   {
    "id": "POD28",
@@ -6111,9 +6111,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M801",
+   "folder": "Modules/UNSORTED/M801/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M801/index.html"
+   "page": "Modules/UNSORTED/M801/SCHEMATICS/index.html"
   },
   {
    "id": "M456",
@@ -6135,9 +6135,9 @@
     "76045"
    ],
    "files": 17,
-   "folder": "Modules/ROUTING/M456",
+   "folder": "Modules/ROUTING/M456/SCHEMATICS",
    "ads": [],
-   "page": "Modules/ROUTING/M456/index.html"
+   "page": "Modules/ROUTING/M456/SCHEMATICS/index.html"
   },
   {
    "id": "M773",
@@ -6154,9 +6154,9 @@
    ],
    "jobs": [],
    "files": 3,
-   "folder": "Modules/UNSORTED/M773",
+   "folder": "Modules/UNSORTED/M773/MECHANICAL",
    "ads": [],
-   "page": "Modules/UNSORTED/M773/index.html"
+   "page": "Modules/UNSORTED/M773/MECHANICAL/index.html"
   },
   {
    "id": "M497B",
@@ -6173,9 +6173,9 @@
    ],
    "jobs": [],
    "files": 31,
-   "folder": "Modules/SUMMING/M497B",
+   "folder": "Modules/SUMMING/M497B/MANUALS",
    "ads": [],
-   "page": "Modules/SUMMING/M497B/index.html"
+   "page": "Modules/SUMMING/M497B/MANUALS/index.html"
   },
   {
    "id": "M402",
@@ -6192,12 +6192,12 @@
    ],
    "jobs": [],
    "files": 50,
-   "folder": "Modules/FILTERS/M402",
+   "folder": "Modules/FILTERS/M402/MANUALS",
    "ads": [
-    "Modules/FILTERS/M402/19xx - M402 - AD - 20170522_122029_020.jpg",
-    "Modules/FILTERS/M404/19xx - M404 - AD - 20170522_122029_020.jpg"
+    "Modules/FILTERS/M402/MANUALS/19xx - M402 - AD - 20170522_122029_020.jpg",
+    "Modules/FILTERS/M404/MANUALS/19xx - M404 - AD - 20170522_122029_020.jpg"
    ],
-   "page": "Modules/FILTERS/M402/index.html"
+   "page": "Modules/FILTERS/M402/MANUALS/index.html"
   },
   {
    "id": "POD22A",
@@ -6236,9 +6236,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M107",
+   "folder": "Modules/UNSORTED/M107/MECHANICAL",
    "ads": [],
-   "page": "Modules/UNSORTED/M107/index.html"
+   "page": "Modules/UNSORTED/M107/MECHANICAL/index.html"
   },
   {
    "id": "AMS8-1AN",
@@ -6272,9 +6272,9 @@
    ],
    "jobs": [],
    "files": 3,
-   "folder": "Modules/INPUT-PRE-AMPS/M441F",
+   "folder": "Modules/INPUT-PRE-AMPS/M441F/SCHEMATICS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M441F/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M441F/SCHEMATICS/index.html"
   },
   {
    "id": "M460F",
@@ -6289,9 +6289,9 @@
    "years": [],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/INPUT-PRE-AMPS/M460F",
+   "folder": "Modules/INPUT-PRE-AMPS/M460F/SCHEMATICS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M460F/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M460F/SCHEMATICS/index.html"
   },
   {
    "id": "M628",
@@ -6309,9 +6309,9 @@
    ],
    "jobs": [],
    "files": 49,
-   "folder": "Modules/POWER/M628",
+   "folder": "Modules/POWER/M628/PHOTOS",
    "ads": [],
-   "page": "Modules/POWER/M628/index.html"
+   "page": "Modules/POWER/M628/PHOTOS/index.html"
   },
   {
    "id": "M203",
@@ -6328,9 +6328,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M203",
+   "folder": "Modules/UNSORTED/M203/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M203/index.html"
+   "page": "Modules/UNSORTED/M203/SCHEMATICS/index.html"
   },
   {
    "id": "M740",
@@ -6347,9 +6347,9 @@
    ],
    "jobs": [],
    "files": 3,
-   "folder": "Modules/UNSORTED/M740",
+   "folder": "Modules/UNSORTED/M740/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M740/index.html"
+   "page": "Modules/UNSORTED/M740/SCHEMATICS/index.html"
   },
   {
    "id": "D8212E",
@@ -6389,9 +6389,9 @@
     "93021"
    ],
    "files": 39,
-   "folder": "Modules/AMPLIFIERS/M8205",
+   "folder": "Modules/AMPLIFIERS/M8205/MECHANICAL",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M8205/index.html",
+   "page": "Modules/AMPLIFIERS/M8205/MECHANICAL/index.html",
    "sims": [
     "m8205"
    ]
@@ -6413,9 +6413,9 @@
     "930188"
    ],
    "files": 56,
-   "folder": "Modules/SUMMING/M497C",
+   "folder": "Modules/SUMMING/M497C/MANUALS",
    "ads": [],
-   "page": "Modules/SUMMING/M497C/index.html"
+   "page": "Modules/SUMMING/M497C/MANUALS/index.html"
   },
   {
    "id": "M741",
@@ -6432,9 +6432,9 @@
    ],
    "jobs": [],
    "files": 2,
-   "folder": "Modules/UNSORTED/M741",
+   "folder": "Modules/UNSORTED/M741/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M741/index.html"
+   "page": "Modules/UNSORTED/M741/SCHEMATICS/index.html"
   },
   {
    "id": "RM405",
@@ -6451,9 +6451,9 @@
    ],
    "jobs": [],
    "files": 2,
-   "folder": "Modules/METER/RM405",
+   "folder": "Modules/METER/RM405/PHOTOS",
    "ads": [],
-   "page": "Modules/METER/RM405/index.html"
+   "page": "Modules/METER/RM405/PHOTOS/index.html"
   },
   {
    "id": "M731",
@@ -6470,9 +6470,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M731",
+   "folder": "Modules/UNSORTED/M731/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M731/index.html"
+   "page": "Modules/UNSORTED/M731/SCHEMATICS/index.html"
   },
   {
    "id": "M462",
@@ -6503,9 +6503,9 @@
     "WBSStSeriesStereoConsole"
    ],
    "files": 248,
-   "folder": "Modules/FILTERS/M462",
+   "folder": "Modules/FILTERS/M462/MANUALS",
    "ads": [],
-   "page": "Modules/FILTERS/M462/index.html"
+   "page": "Modules/FILTERS/M462/MANUALS/index.html"
   },
   {
    "id": "M7880",
@@ -6523,13 +6523,13 @@
    ],
    "jobs": [],
    "files": 72,
-   "folder": "Modules/COMMUNICATION/M7880",
+   "folder": "Modules/COMMUNICATION/M7880/MECHANICAL",
    "ads": [
-    "Modules/COMMUNICATION/M7880/19xx - M7880 - AD - WBSPS - AD - Microcom II 0012.jpg",
+    "Modules/COMMUNICATION/M7880/MANUALS/19xx - M7880 - AD - WBSPS - AD - Microcom II 0012.jpg",
     "Products/MICRO SERIES/microCOM II/19xx - microCOM II - AD - WBSPS - AD - Microcom II 0012.jpg",
     "Products/MICRO SERIES/microCOM/19xx - microCOM - AD - WBSPS - AD - Microcom II 0012.jpg"
    ],
-   "page": "Modules/COMMUNICATION/M7880/index.html"
+   "page": "Modules/COMMUNICATION/M7880/MECHANICAL/index.html"
   },
   {
    "id": "M463",
@@ -6552,9 +6552,9 @@
     "76045"
    ],
    "files": 96,
-   "folder": "Modules/SUMMING/M463",
+   "folder": "Modules/SUMMING/M463/MANUALS",
    "ads": [],
-   "page": "Modules/SUMMING/M463/index.html"
+   "page": "Modules/SUMMING/M463/MANUALS/index.html"
   },
   {
    "id": "M804",
@@ -6571,9 +6571,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M804",
+   "folder": "Modules/UNSORTED/M804/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M804/index.html"
+   "page": "Modules/UNSORTED/M804/SCHEMATICS/index.html"
   },
   {
    "id": "M718A",
@@ -6590,9 +6590,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/COMMUNICATION/M718A",
+   "folder": "Modules/COMMUNICATION/M718A/SCHEMATICS",
    "ads": [],
-   "page": "Modules/COMMUNICATION/M718A/index.html"
+   "page": "Modules/COMMUNICATION/M718A/SCHEMATICS/index.html"
   },
   {
    "id": "M6205A-3G",
@@ -6651,9 +6651,9 @@
    ],
    "jobs": [],
    "files": 11,
-   "folder": "Modules/POWER/M128",
+   "folder": "Modules/POWER/M128/PHOTOS",
    "ads": [],
-   "page": "Modules/POWER/M128/index.html"
+   "page": "Modules/POWER/M128/PHOTOS/index.html"
   },
   {
    "id": "M490G",
@@ -6668,9 +6668,9 @@
    "years": [],
    "jobs": [],
    "files": 33,
-   "folder": "Modules/INPUT-PRE-AMPS/M490G",
+   "folder": "Modules/INPUT-PRE-AMPS/M490G/MANUALS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M490G/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M490G/MANUALS/index.html"
   },
   {
    "id": "D8202",
@@ -6709,9 +6709,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M117",
+   "folder": "Modules/UNSORTED/M117/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M117/index.html"
+   "page": "Modules/UNSORTED/M117/SCHEMATICS/index.html"
   },
   {
    "id": "M802C",
@@ -6728,9 +6728,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/AMPLIFIERS/M802C",
+   "folder": "Modules/AMPLIFIERS/M802C/MECHANICAL",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M802C/index.html"
+   "page": "Modules/AMPLIFIERS/M802C/MECHANICAL/index.html"
   },
   {
    "id": "POD5B",
@@ -6767,9 +6767,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M999",
+   "folder": "Modules/UNSORTED/M999/MECHANICAL",
    "ads": [],
-   "page": "Modules/UNSORTED/M999/index.html"
+   "page": "Modules/UNSORTED/M999/MECHANICAL/index.html"
   },
   {
    "id": "M472A",
@@ -6788,9 +6788,9 @@
     "77012"
    ],
    "files": 35,
-   "folder": "Modules/FILTERS/M472A",
+   "folder": "Modules/FILTERS/M472A/SCHEMATICS",
    "ads": [],
-   "page": "Modules/FILTERS/M472A/index.html"
+   "page": "Modules/FILTERS/M472A/SCHEMATICS/index.html"
   },
   {
    "id": "M435",
@@ -6811,9 +6811,9 @@
     "WBSStSeriesStereoConsole"
    ],
    "files": 22,
-   "folder": "Modules/METER/M435",
+   "folder": "Modules/METER/M435/MANUALS",
    "ads": [],
-   "page": "Modules/METER/M435/index.html"
+   "page": "Modules/METER/M435/MANUALS/index.html"
   },
   {
    "id": "R1400",
@@ -6904,9 +6904,9 @@
     "Renaisance"
    ],
    "files": 17,
-   "folder": "Modules/UNSORTED/M905A",
+   "folder": "Modules/UNSORTED/M905A/MECHANICAL",
    "ads": [],
-   "page": "Modules/UNSORTED/M905A/index.html"
+   "page": "Modules/UNSORTED/M905A/MECHANICAL/index.html"
   },
   {
    "id": "POD11A",
@@ -6945,9 +6945,9 @@
    ],
    "jobs": [],
    "files": 3,
-   "folder": "Modules/UNSORTED/M815",
+   "folder": "Modules/UNSORTED/M815/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M815/index.html"
+   "page": "Modules/UNSORTED/M815/SCHEMATICS/index.html"
   },
   {
    "id": "M497",
@@ -6967,9 +6967,9 @@
     "900438"
    ],
    "files": 42,
-   "folder": "Modules/SUMMING/M497",
+   "folder": "Modules/SUMMING/M497/MANUALS",
    "ads": [],
-   "page": "Modules/SUMMING/M497/index.html"
+   "page": "Modules/SUMMING/M497/MANUALS/index.html"
   },
   {
    "id": "M909",
@@ -6990,9 +6990,9 @@
     "Renaisance"
    ],
    "files": 38,
-   "folder": "Modules/UNSORTED/M909",
+   "folder": "Modules/UNSORTED/M909/MECHANICAL",
    "ads": [],
-   "page": "Modules/UNSORTED/M909/index.html"
+   "page": "Modules/UNSORTED/M909/MECHANICAL/index.html"
   },
   {
    "id": "POD15A",
@@ -7036,11 +7036,11 @@
     "Renaisance"
    ],
    "files": 130,
-   "folder": "Modules/UNSORTED/M907",
+   "folder": "Modules/UNSORTED/M907/MECHANICAL",
    "ads": [
-    "Modules/UNSORTED/M907/19xx - M907 - AD - Renaissance console 006.jpg"
+    "Modules/UNSORTED/M907/MANUALS/19xx - M907 - AD - Renaissance console 006.jpg"
    ],
-   "page": "Modules/UNSORTED/M907/index.html"
+   "page": "Modules/UNSORTED/M907/MECHANICAL/index.html"
   },
   {
    "id": "M122",
@@ -7057,9 +7057,9 @@
    ],
    "jobs": [],
    "files": 22,
-   "folder": "Modules/UNSORTED/M122",
+   "folder": "Modules/UNSORTED/M122/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M122/index.html"
+   "page": "Modules/UNSORTED/M122/SCHEMATICS/index.html"
   },
   {
    "id": "M772",
@@ -7076,9 +7076,9 @@
    ],
    "jobs": [],
    "files": 5,
-   "folder": "Modules/UNSORTED/M772",
+   "folder": "Modules/UNSORTED/M772/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M772/index.html"
+   "page": "Modules/UNSORTED/M772/SCHEMATICS/index.html"
   },
   {
    "id": "M900",
@@ -7097,9 +7097,9 @@
    ],
    "jobs": [],
    "files": 25,
-   "folder": "Modules/UNSORTED/M900",
+   "folder": "Modules/UNSORTED/M900/MECHANICAL",
    "ads": [],
-   "page": "Modules/UNSORTED/M900/index.html"
+   "page": "Modules/UNSORTED/M900/MECHANICAL/index.html"
   },
   {
    "id": "M463A",
@@ -7114,9 +7114,9 @@
    "years": [],
    "jobs": [],
    "files": 12,
-   "folder": "Modules/SUMMING/M463A",
+   "folder": "Modules/SUMMING/M463A/PHOTOS",
    "ads": [],
-   "page": "Modules/SUMMING/M463A/index.html"
+   "page": "Modules/SUMMING/M463A/PHOTOS/index.html"
   },
   {
    "id": "M490M",
@@ -7136,9 +7136,9 @@
     "R1400-R2400-sales"
    ],
    "files": 48,
-   "folder": "Modules/INPUT-PRE-AMPS/M490M",
+   "folder": "Modules/INPUT-PRE-AMPS/M490M/MANUALS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M490M/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M490M/MANUALS/index.html"
   },
   {
    "id": "M745",
@@ -7155,9 +7155,9 @@
    ],
    "jobs": [],
    "files": 9,
-   "folder": "Modules/UNSORTED/M745",
+   "folder": "Modules/UNSORTED/M745/MECHANICAL",
    "ads": [],
-   "page": "Modules/UNSORTED/M745/index.html"
+   "page": "Modules/UNSORTED/M745/MECHANICAL/index.html"
   },
   {
    "id": "M470",
@@ -7178,11 +7178,11 @@
     "790236"
    ],
    "files": 112,
-   "folder": "Modules/INPUT-PRE-AMPS/M470",
+   "folder": "Modules/INPUT-PRE-AMPS/M470/MANUALS",
    "ads": [
-    "Modules/INPUT-PRE-AMPS/M470/19xx - M470 - AD - wbsps - ad - l3242.jpg"
+    "Modules/INPUT-PRE-AMPS/M470/MANUALS/19xx - M470 - AD - wbsps - ad - l3242.jpg"
    ],
-   "page": "Modules/INPUT-PRE-AMPS/M470/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M470/MANUALS/index.html"
   },
   {
    "id": "M129",
@@ -7199,9 +7199,9 @@
    ],
    "jobs": [],
    "files": 3,
-   "folder": "Modules/UNSORTED/M129",
+   "folder": "Modules/UNSORTED/M129/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M129/index.html"
+   "page": "Modules/UNSORTED/M129/SCHEMATICS/index.html"
   },
   {
    "id": "M706",
@@ -7218,9 +7218,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M706",
+   "folder": "Modules/UNSORTED/M706/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M706/index.html"
+   "page": "Modules/UNSORTED/M706/SCHEMATICS/index.html"
   },
   {
    "id": "M168",
@@ -7237,9 +7237,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M168",
+   "folder": "Modules/UNSORTED/M168/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M168/index.html"
+   "page": "Modules/UNSORTED/M168/SCHEMATICS/index.html"
   },
   {
    "id": "M749",
@@ -7256,9 +7256,9 @@
    ],
    "jobs": [],
    "files": 6,
-   "folder": "Modules/UNSORTED/M749",
+   "folder": "Modules/UNSORTED/M749/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M749/index.html"
+   "page": "Modules/UNSORTED/M749/SCHEMATICS/index.html"
   },
   {
    "id": "M411",
@@ -7275,9 +7275,9 @@
    ],
    "jobs": [],
    "files": 42,
-   "folder": "Modules/AMPLIFIERS/M411",
+   "folder": "Modules/AMPLIFIERS/M411/MANUALS",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M411/index.html"
+   "page": "Modules/AMPLIFIERS/M411/MANUALS/index.html"
   },
   {
    "id": "M816",
@@ -7294,9 +7294,9 @@
    ],
    "jobs": [],
    "files": 3,
-   "folder": "Modules/UNSORTED/M816",
+   "folder": "Modules/UNSORTED/M816/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M816/index.html"
+   "page": "Modules/UNSORTED/M816/SCHEMATICS/index.html"
   },
   {
    "id": "M460L",
@@ -7314,9 +7314,9 @@
    ],
    "jobs": [],
    "files": 39,
-   "folder": "Modules/INPUT-PRE-AMPS/M460L",
+   "folder": "Modules/INPUT-PRE-AMPS/M460L/MANUALS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M460L/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M460L/MANUALS/index.html"
   },
   {
    "id": "MLC8-N",
@@ -7353,9 +7353,9 @@
    ],
    "jobs": [],
    "files": 2,
-   "folder": "Modules/UNSORTED/M755",
+   "folder": "Modules/UNSORTED/M755/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M755/index.html"
+   "page": "Modules/UNSORTED/M755/SCHEMATICS/index.html"
   },
   {
    "id": "M450",
@@ -7377,9 +7377,9 @@
     "790236"
    ],
    "files": 45,
-   "folder": "Modules/AMPLIFIERS/M450",
+   "folder": "Modules/AMPLIFIERS/M450/MANUALS",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M450/index.html"
+   "page": "Modules/AMPLIFIERS/M450/MANUALS/index.html"
   },
   {
    "id": "M463LA",
@@ -7399,9 +7399,9 @@
    ],
    "jobs": [],
    "files": 73,
-   "folder": "Modules/SUMMING/M463LA",
+   "folder": "Modules/SUMMING/M463LA/MANUALS",
    "ads": [],
-   "page": "Modules/SUMMING/M463LA/index.html"
+   "page": "Modules/SUMMING/M463LA/MANUALS/index.html"
   },
   {
    "id": "AMS4-1AA",
@@ -7441,9 +7441,9 @@
     "Renaisance"
    ],
    "files": 3,
-   "folder": "Modules/UNSORTED/M901A",
+   "folder": "Modules/UNSORTED/M901A/MECHANICAL",
    "ads": [],
-   "page": "Modules/UNSORTED/M901A/index.html"
+   "page": "Modules/UNSORTED/M901A/MECHANICAL/index.html"
   },
   {
    "id": "M460T",
@@ -7458,9 +7458,9 @@
    "years": [],
    "jobs": [],
    "files": 4,
-   "folder": "Modules/INPUT-PRE-AMPS/M460T",
+   "folder": "Modules/INPUT-PRE-AMPS/M460T/PINOUTS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M460T/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M460T/PINOUTS/index.html"
   },
   {
    "id": "AV6202A",
@@ -7540,9 +7540,9 @@
     "Renaisance"
    ],
    "files": 4,
-   "folder": "Modules/UNSORTED/M924A",
+   "folder": "Modules/UNSORTED/M924A/MANUALS",
    "ads": [],
-   "page": "Modules/UNSORTED/M924A/index.html"
+   "page": "Modules/UNSORTED/M924A/MANUALS/index.html"
   },
   {
    "id": "AMS222",
@@ -7641,9 +7641,9 @@
     "Renaisance"
    ],
    "files": 3,
-   "folder": "Modules/UNSORTED/M901D",
+   "folder": "Modules/UNSORTED/M901D/MANUALS",
    "ads": [],
-   "page": "Modules/UNSORTED/M901D/index.html"
+   "page": "Modules/UNSORTED/M901D/MANUALS/index.html"
   },
   {
    "id": "M921",
@@ -7661,9 +7661,9 @@
    ],
    "jobs": [],
    "files": 5,
-   "folder": "Modules/UNSORTED/M921",
+   "folder": "Modules/UNSORTED/M921/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M921/index.html"
+   "page": "Modules/UNSORTED/M921/SCHEMATICS/index.html"
   },
   {
    "id": "AMS8-2AE",
@@ -7701,8 +7701,8 @@
    "files": 58,
    "folder": "PHOTOS/Photos",
    "ads": [
-    "Modules/FILTERS/M402/19xx - M402 - AD - 20170522_122029_020.jpg",
-    "Modules/FILTERS/M404/19xx - M404 - AD - 20170522_122029_020.jpg"
+    "Modules/FILTERS/M402/MANUALS/19xx - M402 - AD - 20170522_122029_020.jpg",
+    "Modules/FILTERS/M404/MANUALS/19xx - M404 - AD - 20170522_122029_020.jpg"
    ],
    "page": "PHOTOS/Photos/index.html"
   },
@@ -7729,9 +7729,9 @@
     "WBSStSeriesStereoConsole"
    ],
    "files": 164,
-   "folder": "Modules/FILTERS/M464",
+   "folder": "Modules/FILTERS/M464/MANUALS",
    "ads": [],
-   "page": "Modules/FILTERS/M464/index.html"
+   "page": "Modules/FILTERS/M464/MANUALS/index.html"
   },
   {
    "id": "M470D",
@@ -7746,9 +7746,9 @@
    "years": [],
    "jobs": [],
    "files": 10,
-   "folder": "Modules/INPUT-PRE-AMPS/M470D",
+   "folder": "Modules/INPUT-PRE-AMPS/M470D/PHOTOS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M470D/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M470D/PHOTOS/index.html"
   },
   {
    "id": "POD5",
@@ -7841,21 +7841,21 @@
     "BIGCFTOTVdone"
    ],
    "files": 71,
-   "folder": "Modules/COMPUTERS/M526",
+   "folder": "Modules/COMPUTERS/M526/MECHANICAL",
    "ads": [
-    "Modules/COMPUTERS/M5200/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M5201/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M524/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M526/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/FILTERS/M522/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M520/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M521/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/MONITORING/M525/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M523/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M527/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M528/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
+    "Modules/COMPUTERS/M5200/MANUALS/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M5201/MANUALS/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M524/MANUALS/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M526/MANUALS/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/FILTERS/M522/MANUALS/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M520/MANUALS/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M521/MANUALS/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/MONITORING/M525/MANUALS/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M523/MANUALS/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M527/MANUALS/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M528/MANUALS/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
    ],
-   "page": "Modules/COMPUTERS/M526/index.html"
+   "page": "Modules/COMPUTERS/M526/MECHANICAL/index.html"
   },
   {
    "id": "M1026",
@@ -7904,9 +7904,9 @@
     "880651"
    ],
    "files": 101,
-   "folder": "Modules/INPUT-PRE-AMPS/M461",
+   "folder": "Modules/INPUT-PRE-AMPS/M461/SCHEMATICS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M461/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M461/SCHEMATICS/index.html"
   },
   {
    "id": "M498",
@@ -7948,9 +7948,9 @@
     "WBSL3242Afullsize"
    ],
    "files": 103,
-   "folder": "Modules/ROUTING/M498",
+   "folder": "Modules/ROUTING/M498/MANUALS",
    "ads": [],
-   "page": "Modules/ROUTING/M498/index.html"
+   "page": "Modules/ROUTING/M498/MANUALS/index.html"
   },
   {
    "id": "M524",
@@ -7969,21 +7969,21 @@
     "WBS880134-STConsole"
    ],
    "files": 55,
-   "folder": "Modules/COMPUTERS/M524",
+   "folder": "Modules/COMPUTERS/M524/MECHANICAL",
    "ads": [
-    "Modules/COMPUTERS/M5200/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M5201/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M524/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M526/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/FILTERS/M522/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M520/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M521/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/MONITORING/M525/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M523/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M527/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M528/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
+    "Modules/COMPUTERS/M5200/MANUALS/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M5201/MANUALS/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M524/MANUALS/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M526/MANUALS/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/FILTERS/M522/MANUALS/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M520/MANUALS/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M521/MANUALS/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/MONITORING/M525/MANUALS/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M523/MANUALS/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M527/MANUALS/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M528/MANUALS/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
    ],
-   "page": "Modules/COMPUTERS/M524/index.html"
+   "page": "Modules/COMPUTERS/M524/MECHANICAL/index.html"
   },
   {
    "id": "preMO-221",
@@ -8048,9 +8048,9 @@
     "840300"
    ],
    "files": 6,
-   "folder": "Modules/ROUTING/M498A",
+   "folder": "Modules/ROUTING/M498A/PHOTOS",
    "ads": [],
-   "page": "Modules/ROUTING/M498A/index.html"
+   "page": "Modules/ROUTING/M498A/PHOTOS/index.html"
   },
   {
    "id": "M406B",
@@ -8067,9 +8067,9 @@
    ],
    "jobs": [],
    "files": 75,
-   "folder": "Modules/DYNAMICS/M406B",
+   "folder": "Modules/DYNAMICS/M406B/MANUALS",
    "ads": [],
-   "page": "Modules/DYNAMICS/M406B/index.html"
+   "page": "Modules/DYNAMICS/M406B/MANUALS/index.html"
   },
   {
    "id": "M468AN",
@@ -8084,9 +8084,9 @@
    "years": [],
    "jobs": [],
    "files": 3,
-   "folder": "Modules/ROUTING/M468AN",
+   "folder": "Modules/ROUTING/M468AN/PHOTOS",
    "ads": [],
-   "page": "Modules/ROUTING/M468AN/index.html"
+   "page": "Modules/ROUTING/M468AN/PHOTOS/index.html"
   },
   {
    "id": "M471",
@@ -8107,9 +8107,9 @@
     "77012"
    ],
    "files": 19,
-   "folder": "Modules/INPUT-PRE-AMPS/M471",
+   "folder": "Modules/INPUT-PRE-AMPS/M471/PHOTOS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M471/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M471/PHOTOS/index.html"
   },
   {
    "id": "M405C",
@@ -8126,9 +8126,9 @@
    ],
    "jobs": [],
    "files": 67,
-   "folder": "Modules/METER/M405C",
+   "folder": "Modules/METER/M405C/SCHEMATICS",
    "ads": [],
-   "page": "Modules/METER/M405C/index.html"
+   "page": "Modules/METER/M405C/SCHEMATICS/index.html"
   },
   {
    "id": "M424",
@@ -8145,9 +8145,9 @@
    ],
    "jobs": [],
    "files": 2,
-   "folder": "Modules/UNSORTED/M424",
+   "folder": "Modules/UNSORTED/M424/MECHANICAL",
    "ads": [],
-   "page": "Modules/UNSORTED/M424/index.html"
+   "page": "Modules/UNSORTED/M424/MECHANICAL/index.html"
   },
   {
    "id": "AMS8-1CAM",
@@ -8202,9 +8202,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M171",
+   "folder": "Modules/UNSORTED/M171/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M171/index.html"
+   "page": "Modules/UNSORTED/M171/SCHEMATICS/index.html"
   },
   {
    "id": "AMS2",
@@ -8278,9 +8278,9 @@
     "930188"
    ],
    "files": 114,
-   "folder": "Modules/MONITORING/M451",
+   "folder": "Modules/MONITORING/M451/MANUALS",
    "ads": [],
-   "page": "Modules/MONITORING/M451/index.html"
+   "page": "Modules/MONITORING/M451/MANUALS/index.html"
   },
   {
    "id": "M173",
@@ -8297,9 +8297,9 @@
    ],
    "jobs": [],
    "files": 2,
-   "folder": "Modules/UNSORTED/M173",
+   "folder": "Modules/UNSORTED/M173/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M173/index.html"
+   "page": "Modules/UNSORTED/M173/SCHEMATICS/index.html"
   },
   {
    "id": "M1002",
@@ -8336,9 +8336,9 @@
    ],
    "jobs": [],
    "files": 3,
-   "folder": "Modules/COMMUNICATION/M771",
+   "folder": "Modules/COMMUNICATION/M771/SCHEMATICS",
    "ads": [],
-   "page": "Modules/COMMUNICATION/M771/index.html"
+   "page": "Modules/COMMUNICATION/M771/SCHEMATICS/index.html"
   },
   {
    "id": "RM401",
@@ -8355,9 +8355,9 @@
    ],
    "jobs": [],
    "files": 20,
-   "folder": "Modules/METER/RM401",
+   "folder": "Modules/METER/RM401/SCHEMATICS",
    "ads": [],
-   "page": "Modules/METER/RM401/index.html"
+   "page": "Modules/METER/RM401/SCHEMATICS/index.html"
   },
   {
    "id": "M400",
@@ -8376,9 +8376,9 @@
     "900438"
    ],
    "files": 11,
-   "folder": "Modules/UNSORTED/M400",
+   "folder": "Modules/UNSORTED/M400/MECHANICAL",
    "ads": [],
-   "page": "Modules/UNSORTED/M400/index.html"
+   "page": "Modules/UNSORTED/M400/MECHANICAL/index.html"
   },
   {
    "id": "M724",
@@ -8399,9 +8399,9 @@
    ],
    "jobs": [],
    "files": 56,
-   "folder": "Modules/COMMUNICATION/M724",
+   "folder": "Modules/COMMUNICATION/M724/SCHEMATICS",
    "ads": [],
-   "page": "Modules/COMMUNICATION/M724/index.html"
+   "page": "Modules/COMMUNICATION/M724/SCHEMATICS/index.html"
   },
   {
    "id": "D8201A",
@@ -8437,9 +8437,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/COMMUNICATION/M7012C",
+   "folder": "Modules/COMMUNICATION/M7012C/SCHEMATICS",
    "ads": [],
-   "page": "Modules/COMMUNICATION/M7012C/index.html"
+   "page": "Modules/COMMUNICATION/M7012C/SCHEMATICS/index.html"
   },
   {
    "id": "M147",
@@ -8457,9 +8457,9 @@
    ],
    "jobs": [],
    "files": 3,
-   "folder": "Modules/UNSORTED/M147",
+   "folder": "Modules/UNSORTED/M147/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M147/index.html"
+   "page": "Modules/UNSORTED/M147/SCHEMATICS/index.html"
   },
   {
    "id": "32ME",
@@ -8498,9 +8498,9 @@
    ],
    "jobs": [],
    "files": 28,
-   "folder": "Modules/MONITORING/M8203",
+   "folder": "Modules/MONITORING/M8203/MANUALS",
    "ads": [],
-   "page": "Modules/MONITORING/M8203/index.html",
+   "page": "Modules/MONITORING/M8203/MANUALS/index.html",
    "sims": [
     "m8203"
    ]
@@ -8539,9 +8539,9 @@
    ],
    "jobs": [],
    "files": 3,
-   "folder": "Modules/UNSORTED/M807",
+   "folder": "Modules/UNSORTED/M807/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M807/index.html"
+   "page": "Modules/UNSORTED/M807/SCHEMATICS/index.html"
   },
   {
    "id": "L2042",
@@ -8580,9 +8580,9 @@
    ],
    "jobs": [],
    "files": 42,
-   "folder": "Modules/COMMUNICATION/M494",
+   "folder": "Modules/COMMUNICATION/M494/MANUALS",
    "ads": [],
-   "page": "Modules/COMMUNICATION/M494/index.html"
+   "page": "Modules/COMMUNICATION/M494/MANUALS/index.html"
   },
   {
    "id": "M510",
@@ -8599,9 +8599,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M510",
+   "folder": "Modules/UNSORTED/M510/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M510/index.html"
+   "page": "Modules/UNSORTED/M510/SCHEMATICS/index.html"
   },
   {
    "id": "M452",
@@ -8629,9 +8629,9 @@
     "900438"
    ],
    "files": 87,
-   "folder": "Modules/MONITORING/M452",
+   "folder": "Modules/MONITORING/M452/MANUALS",
    "ads": [],
-   "page": "Modules/MONITORING/M452/index.html"
+   "page": "Modules/MONITORING/M452/MANUALS/index.html"
   },
   {
    "id": "AMS8-2AA",
@@ -8690,9 +8690,9 @@
    ],
    "jobs": [],
    "files": 152,
-   "folder": "Modules/INPUT-PRE-AMPS/M460M",
+   "folder": "Modules/INPUT-PRE-AMPS/M460M/MANUALS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M460M/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M460M/MANUALS/index.html"
   },
   {
    "id": "M1204B",
@@ -8745,9 +8745,9 @@
    "years": [],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M923H",
+   "folder": "Modules/UNSORTED/M923H/MANUALS",
    "ads": [],
-   "page": "Modules/UNSORTED/M923H/index.html"
+   "page": "Modules/UNSORTED/M923H/MANUALS/index.html"
   },
   {
    "id": "M480A",
@@ -8764,9 +8764,9 @@
    ],
    "jobs": [],
    "files": 9,
-   "folder": "Modules/INPUT-PRE-AMPS/M480A",
+   "folder": "Modules/INPUT-PRE-AMPS/M480A/SCHEMATICS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M480A/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M480A/SCHEMATICS/index.html"
   },
   {
    "id": "M405D",
@@ -8783,9 +8783,9 @@
    ],
    "jobs": [],
    "files": 11,
-   "folder": "Modules/METER/M405D",
+   "folder": "Modules/METER/M405D/MANUALS",
    "ads": [],
-   "page": "Modules/METER/M405D/index.html"
+   "page": "Modules/METER/M405D/MANUALS/index.html"
   },
   {
    "id": "MP3",
@@ -8834,9 +8834,9 @@
     "WBSStSeriesStereoConsole"
    ],
    "files": 88,
-   "folder": "Modules/POWER/M625B",
+   "folder": "Modules/POWER/M625B/SCHEMATICS",
    "ads": [],
-   "page": "Modules/POWER/M625B/index.html"
+   "page": "Modules/POWER/M625B/SCHEMATICS/index.html"
   },
   {
    "id": "M926",
@@ -8856,9 +8856,9 @@
    ],
    "jobs": [],
    "files": 15,
-   "folder": "Modules/UNSORTED/M926",
+   "folder": "Modules/UNSORTED/M926/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M926/index.html"
+   "page": "Modules/UNSORTED/M926/SCHEMATICS/index.html"
   },
   {
    "id": "M748",
@@ -8875,9 +8875,9 @@
    ],
    "jobs": [],
    "files": 3,
-   "folder": "Modules/UNSORTED/M748",
+   "folder": "Modules/UNSORTED/M748/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M748/index.html"
+   "page": "Modules/UNSORTED/M748/SCHEMATICS/index.html"
   },
   {
    "id": "M465B",
@@ -8894,9 +8894,9 @@
    ],
    "jobs": [],
    "files": 17,
-   "folder": "Modules/DYNAMICS/M465B",
+   "folder": "Modules/DYNAMICS/M465B/MANUALS",
    "ads": [],
-   "page": "Modules/DYNAMICS/M465B/index.html"
+   "page": "Modules/DYNAMICS/M465B/MANUALS/index.html"
   },
   {
    "id": "M490E",
@@ -8919,9 +8919,9 @@
     "R1400-R2400-sales"
    ],
    "files": 9,
-   "folder": "Modules/INPUT-PRE-AMPS/M490E",
+   "folder": "Modules/INPUT-PRE-AMPS/M490E/MANUALS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M490E/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M490E/MANUALS/index.html"
   },
   {
    "id": "POD3",
@@ -8984,9 +8984,9 @@
    ],
    "jobs": [],
    "files": 48,
-   "folder": "Modules/POWER/M485B",
+   "folder": "Modules/POWER/M485B/MANUALS",
    "ads": [],
-   "page": "Modules/POWER/M485B/index.html"
+   "page": "Modules/POWER/M485B/MANUALS/index.html"
   },
   {
    "id": "POD6C",
@@ -9068,9 +9068,9 @@
     "790236"
    ],
    "files": 57,
-   "folder": "Modules/SUMMING/M473",
+   "folder": "Modules/SUMMING/M473/MANUALS",
    "ads": [],
-   "page": "Modules/SUMMING/M473/index.html"
+   "page": "Modules/SUMMING/M473/MANUALS/index.html"
   },
   {
    "id": "D8204",
@@ -9130,9 +9130,9 @@
    ],
    "jobs": [],
    "files": 7,
-   "folder": "Modules/UNSORTED/M774",
+   "folder": "Modules/UNSORTED/M774/MECHANICAL",
    "ads": [],
-   "page": "Modules/UNSORTED/M774/index.html"
+   "page": "Modules/UNSORTED/M774/MECHANICAL/index.html"
   },
   {
    "id": "M422",
@@ -9149,9 +9149,9 @@
    ],
    "jobs": [],
    "files": 3,
-   "folder": "Modules/UNSORTED/M422",
+   "folder": "Modules/UNSORTED/M422/MECHANICAL",
    "ads": [],
-   "page": "Modules/UNSORTED/M422/index.html"
+   "page": "Modules/UNSORTED/M422/MECHANICAL/index.html"
   },
   {
    "id": "M463AC",
@@ -9168,9 +9168,9 @@
    ],
    "jobs": [],
    "files": 36,
-   "folder": "Modules/SUMMING/M463AC",
+   "folder": "Modules/SUMMING/M463AC/MANUALS",
    "ads": [],
-   "page": "Modules/SUMMING/M463AC/index.html"
+   "page": "Modules/SUMMING/M463AC/MANUALS/index.html"
   },
   {
    "id": "AMS16-2A",
@@ -9227,9 +9227,9 @@
    ],
    "jobs": [],
    "files": 27,
-   "folder": "Modules/UNSORTED/M757",
+   "folder": "Modules/UNSORTED/M757/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M757/index.html"
+   "page": "Modules/UNSORTED/M757/SCHEMATICS/index.html"
   },
   {
    "id": "POD5A",
@@ -9266,9 +9266,9 @@
    ],
    "jobs": [],
    "files": 28,
-   "folder": "Modules/COMMUNICATION/M7000",
+   "folder": "Modules/COMMUNICATION/M7000/MECHANICAL",
    "ads": [],
-   "page": "Modules/COMMUNICATION/M7000/index.html"
+   "page": "Modules/COMMUNICATION/M7000/MECHANICAL/index.html"
   },
   {
    "id": "microAMP",
@@ -9306,9 +9306,9 @@
     "73050"
    ],
    "files": 59,
-   "folder": "Modules/INPUT-PRE-AMPS/M441",
+   "folder": "Modules/INPUT-PRE-AMPS/M441/PHOTOS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M441/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M441/PHOTOS/index.html"
   },
   {
    "id": "POD17",
@@ -9366,9 +9366,9 @@
    ],
    "jobs": [],
    "files": 5,
-   "folder": "Modules/UNSORTED/M414",
+   "folder": "Modules/UNSORTED/M414/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M414/index.html"
+   "page": "Modules/UNSORTED/M414/SCHEMATICS/index.html"
   },
   {
    "id": "M756",
@@ -9385,9 +9385,9 @@
    ],
    "jobs": [],
    "files": 2,
-   "folder": "Modules/UNSORTED/M756",
+   "folder": "Modules/UNSORTED/M756/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M756/index.html"
+   "page": "Modules/UNSORTED/M756/SCHEMATICS/index.html"
   },
   {
    "id": "M473A",
@@ -9411,9 +9411,9 @@
     "840300"
    ],
    "files": 43,
-   "folder": "Modules/SUMMING/M473A",
+   "folder": "Modules/SUMMING/M473A/MANUALS",
    "ads": [],
-   "page": "Modules/SUMMING/M473A/index.html"
+   "page": "Modules/SUMMING/M473A/MANUALS/index.html"
   },
   {
    "id": "AMX6",
@@ -9452,9 +9452,9 @@
    ],
    "jobs": [],
    "files": 2,
-   "folder": "Modules/UNSORTED/M110",
+   "folder": "Modules/UNSORTED/M110/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M110/index.html"
+   "page": "Modules/UNSORTED/M110/SCHEMATICS/index.html"
   },
   {
    "id": "M466M",
@@ -9474,9 +9474,9 @@
     "WBSStSeriesStereoConsole"
    ],
    "files": 50,
-   "folder": "Modules/DYNAMICS/M466M",
+   "folder": "Modules/DYNAMICS/M466M/MANUALS",
    "ads": [],
-   "page": "Modules/DYNAMICS/M466M/index.html"
+   "page": "Modules/DYNAMICS/M466M/MANUALS/index.html"
   },
   {
    "id": "M777",
@@ -9494,9 +9494,9 @@
    ],
    "jobs": [],
    "files": 7,
-   "folder": "Modules/UNSORTED/M777",
+   "folder": "Modules/UNSORTED/M777/MECHANICAL",
    "ads": [],
-   "page": "Modules/UNSORTED/M777/index.html"
+   "page": "Modules/UNSORTED/M777/MECHANICAL/index.html"
   },
   {
    "id": "AMS8-1CAEM",
@@ -9532,9 +9532,9 @@
    ],
    "jobs": [],
    "files": 8,
-   "folder": "Modules/AMPLIFIERS/M606",
+   "folder": "Modules/AMPLIFIERS/M606/MANUALS",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M606/index.html"
+   "page": "Modules/AMPLIFIERS/M606/MANUALS/index.html"
   },
   {
    "id": "D6202B",
@@ -9579,9 +9579,9 @@
     "WBSStSeriesStereoConsole"
    ],
    "files": 6,
-   "folder": "Modules/UNSORTED/M568",
+   "folder": "Modules/UNSORTED/M568/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M568/index.html"
+   "page": "Modules/UNSORTED/M568/SCHEMATICS/index.html"
   },
   {
    "id": "POD33",
@@ -9620,9 +9620,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M403",
+   "folder": "Modules/UNSORTED/M403/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M403/index.html"
+   "page": "Modules/UNSORTED/M403/SCHEMATICS/index.html"
   },
   {
    "id": "M490D",
@@ -9641,9 +9641,9 @@
     "R1400-R2400-sales"
    ],
    "files": 7,
-   "folder": "Modules/INPUT-PRE-AMPS/M490D",
+   "folder": "Modules/INPUT-PRE-AMPS/M490D/MANUALS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M490D/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M490D/MANUALS/index.html"
   },
   {
    "id": "M1121",
@@ -9748,9 +9748,9 @@
     "Renaisance"
    ],
    "files": 3,
-   "folder": "Modules/UNSORTED/M901B",
+   "folder": "Modules/UNSORTED/M901B/MANUALS",
    "ads": [],
-   "page": "Modules/UNSORTED/M901B/index.html"
+   "page": "Modules/UNSORTED/M901B/MANUALS/index.html"
   },
   {
    "id": "M480",
@@ -9769,9 +9769,9 @@
     "T1202"
    ],
    "files": 28,
-   "folder": "Modules/INPUT-PRE-AMPS/M480",
+   "folder": "Modules/INPUT-PRE-AMPS/M480/PHOTOS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M480/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M480/PHOTOS/index.html"
   },
   {
    "id": "M608",
@@ -9789,13 +9789,13 @@
    ],
    "jobs": [],
    "files": 77,
-   "folder": "Modules/AMPLIFIERS/M608",
+   "folder": "Modules/AMPLIFIERS/M608/MANUALS",
    "ads": [
-    "Modules/AMPLIFIERS/M608/19xx - M608 - AD - WBSPS - AD - for the engineer who has everything.jpg",
-    "Modules/AMPLIFIERS/M609/19xx - M609 - AD - WBSPS - AD - for the engineer who has everything.jpg",
-    "Modules/AMPLIFIERS/M612A/19xx - M612A - AD - WBSPS - AD - for the engineer who has everything.jpg"
+    "Modules/AMPLIFIERS/M608/MANUALS/19xx - M608 - AD - WBSPS - AD - for the engineer who has everything.jpg",
+    "Modules/AMPLIFIERS/M609/MANUALS/19xx - M609 - AD - WBSPS - AD - for the engineer who has everything.jpg",
+    "Modules/AMPLIFIERS/M612A/MANUALS/19xx - M612A - AD - WBSPS - AD - for the engineer who has everything.jpg"
    ],
-   "page": "Modules/AMPLIFIERS/M608/index.html"
+   "page": "Modules/AMPLIFIERS/M608/MANUALS/index.html"
   },
   {
    "id": "AMS16",
@@ -9837,9 +9837,9 @@
    ],
    "jobs": [],
    "files": 10,
-   "folder": "Modules/FILTERS/M522C",
+   "folder": "Modules/FILTERS/M522C/PHOTOS",
    "ads": [],
-   "page": "Modules/FILTERS/M522C/index.html"
+   "page": "Modules/FILTERS/M522C/PHOTOS/index.html"
   },
   {
    "id": "M465",
@@ -9861,9 +9861,9 @@
     "74076"
    ],
    "files": 76,
-   "folder": "Modules/DYNAMICS/M465",
+   "folder": "Modules/DYNAMICS/M465/MANUALS",
    "ads": [],
-   "page": "Modules/DYNAMICS/M465/index.html"
+   "page": "Modules/DYNAMICS/M465/MANUALS/index.html"
   },
   {
    "id": "M704",
@@ -9880,9 +9880,9 @@
    ],
    "jobs": [],
    "files": 2,
-   "folder": "Modules/UNSORTED/M704",
+   "folder": "Modules/UNSORTED/M704/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M704/index.html"
+   "page": "Modules/UNSORTED/M704/SCHEMATICS/index.html"
   },
   {
    "id": "M827",
@@ -9899,9 +9899,9 @@
    ],
    "jobs": [],
    "files": 3,
-   "folder": "Modules/UNSORTED/M827",
+   "folder": "Modules/UNSORTED/M827/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M827/index.html"
+   "page": "Modules/UNSORTED/M827/SCHEMATICS/index.html"
   },
   {
    "id": "M483",
@@ -9918,9 +9918,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M483",
+   "folder": "Modules/UNSORTED/M483/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M483/index.html"
+   "page": "Modules/UNSORTED/M483/SCHEMATICS/index.html"
   },
   {
    "id": "M632",
@@ -9943,9 +9943,9 @@
     "94033"
    ],
    "files": 17,
-   "folder": "Modules/POWER/M632",
+   "folder": "Modules/POWER/M632/MANUALS",
    "ads": [],
-   "page": "Modules/POWER/M632/index.html"
+   "page": "Modules/POWER/M632/MANUALS/index.html"
   },
   {
    "id": "M146",
@@ -9963,9 +9963,9 @@
    ],
    "jobs": [],
    "files": 6,
-   "folder": "Modules/UNSORTED/M146",
+   "folder": "Modules/UNSORTED/M146/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M146/index.html"
+   "page": "Modules/UNSORTED/M146/SCHEMATICS/index.html"
   },
   {
    "id": "L1202A",
@@ -10027,9 +10027,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M778",
+   "folder": "Modules/UNSORTED/M778/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M778/index.html"
+   "page": "Modules/UNSORTED/M778/SCHEMATICS/index.html"
   },
   {
    "id": "M460E",
@@ -10044,9 +10044,9 @@
    "years": [],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/INPUT-PRE-AMPS/M460E",
+   "folder": "Modules/INPUT-PRE-AMPS/M460E/PHOTOS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M460E/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M460E/PHOTOS/index.html"
   },
   {
    "id": "M462B",
@@ -10068,9 +10068,9 @@
     "WBSStSeriesStereoConsole"
    ],
    "files": 116,
-   "folder": "Modules/FILTERS/M462B",
+   "folder": "Modules/FILTERS/M462B/MANUALS",
    "ads": [],
-   "page": "Modules/FILTERS/M462B/index.html"
+   "page": "Modules/FILTERS/M462B/MANUALS/index.html"
   },
   {
    "id": "M6204A",
@@ -10110,9 +10110,9 @@
    ],
    "jobs": [],
    "files": 6,
-   "folder": "Modules/UNSORTED/M813",
+   "folder": "Modules/UNSORTED/M813/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M813/index.html"
+   "page": "Modules/UNSORTED/M813/SCHEMATICS/index.html"
   },
   {
    "id": "M521A",
@@ -10134,9 +10134,9 @@
     "WBS880134-STConsole"
    ],
    "files": 39,
-   "folder": "Modules/INPUT-PRE-AMPS/M521A",
+   "folder": "Modules/INPUT-PRE-AMPS/M521A/SCHEMATICS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M521A/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M521A/SCHEMATICS/index.html"
   },
   {
    "id": "M927",
@@ -10153,9 +10153,9 @@
    ],
    "jobs": [],
    "files": 3,
-   "folder": "Modules/UNSORTED/M927",
+   "folder": "Modules/UNSORTED/M927/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M927/index.html"
+   "page": "Modules/UNSORTED/M927/SCHEMATICS/index.html"
   },
   {
    "id": "D6201A",
@@ -10194,9 +10194,9 @@
    ],
    "jobs": [],
    "files": 4,
-   "folder": "Modules/METER/M405M",
+   "folder": "Modules/METER/M405M/MANUALS",
    "ads": [],
-   "page": "Modules/METER/M405M/index.html",
+   "page": "Modules/METER/M405M/MANUALS/index.html",
    "sims": [
     "m405m"
    ]
@@ -10216,9 +10216,9 @@
    ],
    "jobs": [],
    "files": 57,
-   "folder": "Modules/INPUT-PRE-AMPS/M480B",
+   "folder": "Modules/INPUT-PRE-AMPS/M480B/PHOTOS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M480B/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M480B/PHOTOS/index.html"
   },
   {
    "id": "M454",
@@ -10235,9 +10235,9 @@
    ],
    "jobs": [],
    "files": 16,
-   "folder": "Modules/ROUTING/M454",
+   "folder": "Modules/ROUTING/M454/MANUALS",
    "ads": [],
-   "page": "Modules/ROUTING/M454/index.html"
+   "page": "Modules/ROUTING/M454/MANUALS/index.html"
   },
   {
    "id": "M150",
@@ -10256,9 +10256,9 @@
     "880651"
    ],
    "files": 4,
-   "folder": "Modules/UNSORTED/M150",
+   "folder": "Modules/UNSORTED/M150/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M150/index.html"
+   "page": "Modules/UNSORTED/M150/SCHEMATICS/index.html"
   },
   {
    "id": "M453A",
@@ -10283,9 +10283,9 @@
     "Rseriesinstallguide"
    ],
    "files": 66,
-   "folder": "Modules/AMPLIFIERS/M453A",
+   "folder": "Modules/AMPLIFIERS/M453A/MANUALS",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M453A/index.html"
+   "page": "Modules/AMPLIFIERS/M453A/MANUALS/index.html"
   },
   {
    "id": "RM450",
@@ -10392,9 +10392,9 @@
     "Renaisance"
    ],
    "files": 43,
-   "folder": "Modules/UNSORTED/M924",
+   "folder": "Modules/UNSORTED/M924/MANUALS",
    "ads": [],
-   "page": "Modules/UNSORTED/M924/index.html"
+   "page": "Modules/UNSORTED/M924/MANUALS/index.html"
   },
   {
    "id": "M612",
@@ -10413,17 +10413,17 @@
    ],
    "jobs": [],
    "files": 169,
-   "folder": "Modules/AMPLIFIERS/M612",
+   "folder": "Modules/AMPLIFIERS/M612/MANUALS",
    "ads": [
-    "Modules/AMPLIFIERS/M605/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M610/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M612/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M621/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/AMPLIFIERS/M666/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M624/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
-    "Modules/POWER/M648/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
+    "Modules/AMPLIFIERS/M605/MANUALS/19xx - M605 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M612/MANUALS/19xx - M612 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M621/MANUALS/19xx - M621 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/AMPLIFIERS/M666/MANUALS/19xx - M666 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M624/MANUALS/19xx - M624 - AD - wbsps - ad - 600 series.jpg",
+    "Modules/POWER/M648/MANUALS/19xx - M648 - AD - wbsps - ad - 600 series.jpg"
    ],
-   "page": "Modules/AMPLIFIERS/M612/index.html"
+   "page": "Modules/AMPLIFIERS/M612/MANUALS/index.html"
   },
   {
    "id": "M421",
@@ -10440,9 +10440,9 @@
    ],
    "jobs": [],
    "files": 4,
-   "folder": "Modules/UNSORTED/M421",
+   "folder": "Modules/UNSORTED/M421/MECHANICAL",
    "ads": [],
-   "page": "Modules/UNSORTED/M421/index.html"
+   "page": "Modules/UNSORTED/M421/MECHANICAL/index.html"
   },
   {
    "id": "M404A",
@@ -10459,9 +10459,9 @@
    ],
    "jobs": [],
    "files": 81,
-   "folder": "Modules/FILTERS/M404A",
+   "folder": "Modules/FILTERS/M404A/MANUALS",
    "ads": [],
-   "page": "Modules/FILTERS/M404A/index.html"
+   "page": "Modules/FILTERS/M404A/MANUALS/index.html"
   },
   {
    "id": "M7880H",
@@ -10478,9 +10478,9 @@
    ],
    "jobs": [],
    "files": 4,
-   "folder": "Modules/COMMUNICATION/M7880H",
+   "folder": "Modules/COMMUNICATION/M7880H/MANUALS",
    "ads": [],
-   "page": "Modules/COMMUNICATION/M7880H/index.html"
+   "page": "Modules/COMMUNICATION/M7880H/MANUALS/index.html"
   },
   {
    "id": "M522",
@@ -10509,21 +10509,21 @@
     "WBSStSeriesStereoConsole"
    ],
    "files": 136,
-   "folder": "Modules/FILTERS/M522",
+   "folder": "Modules/FILTERS/M522/MANUALS",
    "ads": [
-    "Modules/COMPUTERS/M5200/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M5201/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M524/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M526/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/FILTERS/M522/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M520/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M521/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/MONITORING/M525/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M523/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M527/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M528/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
+    "Modules/COMPUTERS/M5200/MANUALS/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M5201/MANUALS/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M524/MANUALS/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M526/MANUALS/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/FILTERS/M522/MANUALS/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M520/MANUALS/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M521/MANUALS/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/MONITORING/M525/MANUALS/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M523/MANUALS/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M527/MANUALS/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M528/MANUALS/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
    ],
-   "page": "Modules/FILTERS/M522/index.html"
+   "page": "Modules/FILTERS/M522/MANUALS/index.html"
   },
   {
    "id": "M458",
@@ -10541,9 +10541,9 @@
    ],
    "jobs": [],
    "files": 6,
-   "folder": "Modules/UNSORTED/M458",
+   "folder": "Modules/UNSORTED/M458/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M458/index.html"
+   "page": "Modules/UNSORTED/M458/SCHEMATICS/index.html"
   },
   {
    "id": "M468",
@@ -10567,9 +10567,9 @@
     "76045"
    ],
    "files": 53,
-   "folder": "Modules/ROUTING/M468",
+   "folder": "Modules/ROUTING/M468/MANUALS",
    "ads": [],
-   "page": "Modules/ROUTING/M468/index.html"
+   "page": "Modules/ROUTING/M468/MANUALS/index.html"
   },
   {
    "id": "M8205W",
@@ -10607,9 +10607,9 @@
     "920477"
    ],
    "files": 40,
-   "folder": "Modules/UNSORTED/M499",
+   "folder": "Modules/UNSORTED/M499/PHOTOS",
    "ads": [],
-   "page": "Modules/UNSORTED/M499/index.html"
+   "page": "Modules/UNSORTED/M499/PHOTOS/index.html"
   },
   {
    "id": "M705",
@@ -10629,9 +10629,9 @@
     "76045"
    ],
    "files": 1,
-   "folder": "Modules/UNSORTED/M705",
+   "folder": "Modules/UNSORTED/M705/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M705/index.html"
+   "page": "Modules/UNSORTED/M705/SCHEMATICS/index.html"
   },
   {
    "id": "MLC8D",
@@ -10665,9 +10665,9 @@
    "years": [],
    "jobs": [],
    "files": 21,
-   "folder": "Modules/INPUT-PRE-AMPS/M470C",
+   "folder": "Modules/INPUT-PRE-AMPS/M470C/MANUALS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M470C/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M470C/MANUALS/index.html"
   },
   {
    "id": "M174",
@@ -10685,9 +10685,9 @@
    ],
    "jobs": [],
    "files": 1,
-   "folder": "Modules/UNSORTED/M174",
+   "folder": "Modules/UNSORTED/M174/SCHEMATICS",
    "ads": [],
-   "page": "Modules/UNSORTED/M174/index.html"
+   "page": "Modules/UNSORTED/M174/SCHEMATICS/index.html"
   },
   {
    "id": "POD1",
@@ -10754,9 +10754,9 @@
     "960296"
    ],
    "files": 26,
-   "folder": "Modules/AMPLIFIERS/M8201",
+   "folder": "Modules/AMPLIFIERS/M8201/PHOTOS",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M8201/index.html",
+   "page": "Modules/AMPLIFIERS/M8201/PHOTOS/index.html",
    "sims": [
     "m8201"
    ]
@@ -10774,9 +10774,9 @@
    "years": [],
    "jobs": [],
    "files": 3,
-   "folder": "Modules/INPUT-PRE-AMPS/M490T",
+   "folder": "Modules/INPUT-PRE-AMPS/M490T/MECHANICAL",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M490T/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M490T/MECHANICAL/index.html"
   },
   {
    "id": "POD8",
@@ -10906,9 +10906,9 @@
    ],
    "jobs": [],
    "files": 16,
-   "folder": "Modules/AMPLIFIERS/M450A",
+   "folder": "Modules/AMPLIFIERS/M450A/MANUALS",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M450A/index.html"
+   "page": "Modules/AMPLIFIERS/M450A/MANUALS/index.html"
   },
   {
    "id": "M625",
@@ -10927,9 +10927,9 @@
     "76045"
    ],
    "files": 25,
-   "folder": "Modules/POWER/M625",
+   "folder": "Modules/POWER/M625/MANUALS",
    "ads": [],
-   "page": "Modules/POWER/M625/index.html"
+   "page": "Modules/POWER/M625/MANUALS/index.html"
   },
   {
    "id": "M467",
@@ -10957,9 +10957,9 @@
     "WBSStSeriesStereoConsole"
    ],
    "files": 148,
-   "folder": "Modules/DYNAMICS/M467",
+   "folder": "Modules/DYNAMICS/M467/MANUALS",
    "ads": [],
-   "page": "Modules/DYNAMICS/M467/index.html"
+   "page": "Modules/DYNAMICS/M467/MANUALS/index.html"
   },
   {
    "id": "M487",
@@ -10979,9 +10979,9 @@
     "T1202"
    ],
    "files": 64,
-   "folder": "Modules/SUMMING/M487",
+   "folder": "Modules/SUMMING/M487/MANUALS",
    "ads": [],
-   "page": "Modules/SUMMING/M487/index.html"
+   "page": "Modules/SUMMING/M487/MANUALS/index.html"
   },
   {
    "id": "M450B",
@@ -11001,9 +11001,9 @@
     "880651"
    ],
    "files": 24,
-   "folder": "Modules/AMPLIFIERS/M450B",
+   "folder": "Modules/AMPLIFIERS/M450B/MANUALS",
    "ads": [],
-   "page": "Modules/AMPLIFIERS/M450B/index.html"
+   "page": "Modules/AMPLIFIERS/M450B/MANUALS/index.html"
   },
   {
    "id": "M703",
@@ -11023,9 +11023,9 @@
     "94021"
    ],
    "files": 139,
-   "folder": "Modules/COMMUNICATION/M703",
+   "folder": "Modules/COMMUNICATION/M703/PHOTOS",
    "ads": [],
-   "page": "Modules/COMMUNICATION/M703/index.html"
+   "page": "Modules/COMMUNICATION/M703/PHOTOS/index.html"
   },
   {
    "id": "M402B",
@@ -11043,9 +11043,9 @@
    ],
    "jobs": [],
    "files": 69,
-   "folder": "Modules/FILTERS/M402B",
+   "folder": "Modules/FILTERS/M402B/MANUALS",
    "ads": [],
-   "page": "Modules/FILTERS/M402B/index.html"
+   "page": "Modules/FILTERS/M402B/MANUALS/index.html"
   },
   {
    "id": "M7800",
@@ -11063,9 +11063,9 @@
    ],
    "jobs": [],
    "files": 5,
-   "folder": "Modules/COMMUNICATION/M7800",
+   "folder": "Modules/COMMUNICATION/M7800/PHOTOS",
    "ads": [],
-   "page": "Modules/COMMUNICATION/M7800/index.html"
+   "page": "Modules/COMMUNICATION/M7800/PHOTOS/index.html"
   },
   {
    "id": "M490C",
@@ -11084,9 +11084,9 @@
     "R1400-R2400-sales"
    ],
    "files": 23,
-   "folder": "Modules/INPUT-PRE-AMPS/M490C",
+   "folder": "Modules/INPUT-PRE-AMPS/M490C/MANUALS",
    "ads": [],
-   "page": "Modules/INPUT-PRE-AMPS/M490C/index.html"
+   "page": "Modules/INPUT-PRE-AMPS/M490C/MANUALS/index.html"
   },
   {
    "id": "M477",
@@ -11110,9 +11110,9 @@
     "840300"
    ],
    "files": 75,
-   "folder": "Modules/SUMMING/M477",
+   "folder": "Modules/SUMMING/M477/MANUALS",
    "ads": [],
-   "page": "Modules/SUMMING/M477/index.html"
+   "page": "Modules/SUMMING/M477/MANUALS/index.html"
   },
   {
    "id": "M5200",
@@ -11130,21 +11130,21 @@
    ],
    "jobs": [],
    "files": 66,
-   "folder": "Modules/COMPUTERS/M5200",
+   "folder": "Modules/COMPUTERS/M5200/SCHEMATICS",
    "ads": [
-    "Modules/COMPUTERS/M5200/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M5201/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M524/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/COMPUTERS/M526/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/FILTERS/M522/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M520/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/INPUT-PRE-AMPS/M521/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/MONITORING/M525/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M523/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M527/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
-    "Modules/SUMMING/M528/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
+    "Modules/COMPUTERS/M5200/MANUALS/19xx - M5200 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M5201/MANUALS/19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M524/MANUALS/19xx - M524 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/COMPUTERS/M526/MANUALS/19xx - M526 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/FILTERS/M522/MANUALS/19xx - M522 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M520/MANUALS/19xx - M520 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/INPUT-PRE-AMPS/M521/MANUALS/19xx - M521 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/MONITORING/M525/MANUALS/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M523/MANUALS/19xx - M523 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M527/MANUALS/19xx - M527 - AD - WBSPS - AD - LS series 003.jpg",
+    "Modules/SUMMING/M528/MANUALS/19xx - M528 - AD - WBSPS - AD - LS series 003.jpg"
    ],
-   "page": "Modules/COMPUTERS/M5200/index.html"
+   "page": "Modules/COMPUTERS/M5200/SCHEMATICS/index.html"
   },
   {
    "id": "M568Q",
@@ -11161,9 +11161,9 @@
    ],
    "jobs": [],
    "files": 16,
-   "folder": "Modules/ROUTING/M568Q",
+   "folder": "Modules/ROUTING/M568Q/SCHEMATICS",
    "ads": [],
-   "page": "Modules/ROUTING/M568Q/index.html"
+   "page": "Modules/ROUTING/M568Q/SCHEMATICS/index.html"
   },
   {
    "id": "M923",
@@ -11182,9 +11182,9 @@
    ],
    "jobs": [],
    "files": 14,
-   "folder": "Modules/UNSORTED/M923",
+   "folder": "Modules/UNSORTED/M923/SOFTWARE",
    "ads": [],
-   "page": "Modules/UNSORTED/M923/index.html"
+   "page": "Modules/UNSORTED/M923/SOFTWARE/index.html"
   },
   {
    "id": "78035",

@@ -1910,7 +1910,7 @@
   "job": null,
   "year": 1970,
   "year_source": "title block date",
-  "in2026": "Modules/SUMMING/M166/19xx - M166 - 166-02-001.jpg",
+  "in2026": "Modules/SUMMING/M166/SCHEMATICS/19xx - M166 - 166-02-001.jpg",
   "read": {
    "index": "0049",
    "file": "166-02-001.jpg",
@@ -43637,7 +43637,7 @@
   "job": null,
   "year": null,
   "year_source": null,
-  "in2026": "Modules/INPUT-PRE-AMPS/M5200A/1985 - M5200A - 002.jpg",
+  "in2026": "Modules/INPUT-PRE-AMPS/M5200A/MANUALS/1985 - M5200A - 002.jpg",
   "read": {
    "index": "1190",
    "file": "M5200A - 002.jpg",
@@ -43664,7 +43664,7 @@
   "job": null,
   "year": null,
   "year_source": null,
-  "in2026": "Modules/INPUT-PRE-AMPS/M5200A/1985 - M5200A - 008.jpg",
+  "in2026": "Modules/INPUT-PRE-AMPS/M5200A/MANUALS/1985 - M5200A - 008.jpg",
   "read": {
    "index": "1191",
    "file": "M5200A - 008.jpg",
@@ -43788,7 +43788,7 @@
   "job": null,
   "year": null,
   "year_source": null,
-  "in2026": "Modules/INPUT-PRE-AMPS/M5200A/1985 - M5200A - 012.jpg",
+  "in2026": "Modules/INPUT-PRE-AMPS/M5200A/MANUALS/1985 - M5200A - 012.jpg",
   "read": {
    "index": "1195",
    "file": "M5200A - 012(1).jpg",
@@ -43890,7 +43890,7 @@
   "job": null,
   "year": null,
   "year_source": null,
-  "in2026": "Modules/INPUT-PRE-AMPS/M5200A/1985 - M5200A - 025.jpg",
+  "in2026": "Modules/INPUT-PRE-AMPS/M5200A/MANUALS/1985 - M5200A - 025.jpg",
   "read": {
    "index": "1198",
    "file": "M5200A - 025.jpg",
@@ -43929,7 +43929,7 @@
   "job": null,
   "year": null,
   "year_source": null,
-  "in2026": "Modules/INPUT-PRE-AMPS/M5200A/1985 - M5200A - 026.jpg",
+  "in2026": "Modules/INPUT-PRE-AMPS/M5200A/MANUALS/1985 - M5200A - 026.jpg",
   "read": {
    "index": "1199",
    "file": "M5200A - 026(1).jpg",
@@ -43993,7 +43993,7 @@
   "job": null,
   "year": null,
   "year_source": null,
-  "in2026": "Modules/INPUT-PRE-AMPS/M5200A/1985 - M5200A - 030.jpg",
+  "in2026": "Modules/INPUT-PRE-AMPS/M5200A/MANUALS/1985 - M5200A - 030.jpg",
   "read": {
    "index": "1201",
    "file": "M5200A - 030.jpg",
@@ -44025,7 +44025,7 @@
   "job": null,
   "year": null,
   "year_source": null,
-  "in2026": "Modules/INPUT-PRE-AMPS/M5200A/1985 - M5200A - 040.jpg",
+  "in2026": "Modules/INPUT-PRE-AMPS/M5200A/MANUALS/1985 - M5200A - 040.jpg",
   "read": {
    "index": "1202",
    "file": "M5200A - 040.jpg",
@@ -44064,7 +44064,7 @@
   "job": null,
   "year": null,
   "year_source": null,
-  "in2026": "Modules/INPUT-PRE-AMPS/M5200A/1985 - M5200A - 041.jpg",
+  "in2026": "Modules/INPUT-PRE-AMPS/M5200A/MANUALS/1985 - M5200A - 041.jpg",
   "read": {
    "index": "1203",
    "file": "M5200A - 041.jpg",
@@ -44457,7 +44457,7 @@
   "job": null,
   "year": null,
   "year_source": null,
-  "in2026": "Modules/COMMUNICATION/M529/1985 - M529 - 019.jpg",
+  "in2026": "Modules/COMMUNICATION/M529/MANUALS/1985 - M529 - 019.jpg",
   "read": {
    "index": "1215",
    "file": "M529 - 019.jpg",
@@ -44490,7 +44490,7 @@
   "job": null,
   "year": null,
   "year_source": null,
-  "in2026": "Modules/COMMUNICATION/M529/1985 - M529 - 027.jpg",
+  "in2026": "Modules/COMMUNICATION/M529/MANUALS/1985 - M529 - 027.jpg",
   "read": {
    "index": "1216",
    "file": "M529 - 027(1).jpg",
@@ -74828,7 +74828,7 @@
   "job": null,
   "year": null,
   "year_source": null,
-  "in2026": "Modules/AMPLIFIERS/M606/19xx - M606 - wbsps - module - m606 monitor amp - back.jpg",
+  "in2026": "Modules/AMPLIFIERS/M606/MANUALS/19xx - M606 - wbsps - module - m606 monitor amp - back.jpg",
   "read": {
    "index": "2051",
    "file": "wbsps - module - m606 monitor amp - back.jpg",
@@ -74855,7 +74855,7 @@
   "job": null,
   "year": null,
   "year_source": null,
-  "in2026": "Modules/AMPLIFIERS/M610/19xx - M610 - wbsps - module - m610 10w amp - back.jpg",
+  "in2026": "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - wbsps - module - m610 10w amp - back.jpg",
   "read": {
    "index": "2052",
    "file": "wbsps - module - m610 10w amp - back.jpg",
@@ -74882,7 +74882,7 @@
   "job": null,
   "year": null,
   "year_source": null,
-  "in2026": "Modules/AMPLIFIERS/M612/1977 - M612 - wbsps - module - m612 da - back.jpg",
+  "in2026": "Modules/AMPLIFIERS/M612/MANUALS/1977 - M612 - wbsps - module - m612 da - back.jpg",
   "read": {
    "index": "2053",
    "file": "wbsps - module - m612 da - back.jpg",
@@ -74963,7 +74963,7 @@
   "job": null,
   "year": null,
   "year_source": null,
-  "in2026": "Modules/UNSORTED/RM424S/19xx - RM424S - wbsps - module - rm424s patch bay - back.jpg",
+  "in2026": "Modules/UNSORTED/RM424S/PHOTOS/19xx - RM424S - wbsps - module - rm424s patch bay - back.jpg",
   "read": {
    "index": "2056",
    "file": "wbsps - module - rm424s patch bay - back.jpg",

@@ -1,13 +1,13 @@
 board,device,ref,part,value,manufacturer,mpn,source
-02-001,76045 - CFTO,M415,COMPRESSOR AMPLIFIER,,,,Modules/DYNAMICS/M415/1971 - M415 - M415 - 8415-02-001 - MICROPHONE INPUT 88 DB MAX. (TRANSDUCER) - COMPONENT LAYOUT.pdf
-02-001,76045 - CFTO,R23,330 ohms,,,,Modules/DYNAMICS/M415/1971 - M415 - M415 - 8415-02-001 - MICROPHONE INPUT 88 DB MAX. (TRANSDUCER) - COMPONENT LAYOUT.pdf
-02-001,76045 - CFTO,R25,20K Pot(output level),Bourns,3059W - 1- 203,,Modules/DYNAMICS/M415/1971 - M415 - M415 - 8415-02-001 - MICROPHONE INPUT 88 DB MAX. (TRANSDUCER) - COMPONENT LAYOUT.pdf
-02-001,76045 - CFTO,R26,lK ohms,,,,Modules/DYNAMICS/M415/1971 - M415 - M415 - 8415-02-001 - MICROPHONE INPUT 88 DB MAX. (TRANSDUCER) - COMPONENT LAYOUT.pdf
-02-001,76045 - CFTO,R39,toK,,,,Modules/DYNAMICS/M415/1971 - M415 - M415 - 8415-02-001 - MICROPHONE INPUT 88 DB MAX. (TRANSDUCER) - COMPONENT LAYOUT.pdf
-02-001,76045 - CFTO,R70,20K Pot (threshold),Bourns,3059W - 1- 20 3K,,Modules/DYNAMICS/M415/1971 - M415 - M415 - 8415-02-001 - MICROPHONE INPUT 88 DB MAX. (TRANSDUCER) - COMPONENT LAYOUT.pdf
-02-001,76045 - CFTO,R71,1OOK ohms,Philips or,All resistors,w 5%,Modules/DYNAMICS/M415/1971 - M415 - M415 - 8415-02-001 - MICROPHONE INPUT 88 DB MAX. (TRANSDUCER) - COMPONENT LAYOUT.pdf
-02-001,76045 - CFTO,R74,1 meg. ohms,,,,Modules/DYNAMICS/M415/1971 - M415 - M415 - 8415-02-001 - MICROPHONE INPUT 88 DB MAX. (TRANSDUCER) - COMPONENT LAYOUT.pdf
-02-001,76045 - CFTO,R75,22K ohms,,,,Modules/DYNAMICS/M415/1971 - M415 - M415 - 8415-02-001 - MICROPHONE INPUT 88 DB MAX. (TRANSDUCER) - COMPONENT LAYOUT.pdf
+02-001,76045 - CFTO,M415,COMPRESSOR AMPLIFIER,,,,Modules/DYNAMICS/M415/SCHEMATICS/1971 - M415 - M415 - 8415-02-001 - MICROPHONE INPUT 88 DB MAX. (TRANSDUCER) - COMPONENT LAYOUT.pdf
+02-001,76045 - CFTO,R23,330 ohms,,,,Modules/DYNAMICS/M415/SCHEMATICS/1971 - M415 - M415 - 8415-02-001 - MICROPHONE INPUT 88 DB MAX. (TRANSDUCER) - COMPONENT LAYOUT.pdf
+02-001,76045 - CFTO,R25,20K Pot(output level),Bourns,3059W - 1- 203,,Modules/DYNAMICS/M415/SCHEMATICS/1971 - M415 - M415 - 8415-02-001 - MICROPHONE INPUT 88 DB MAX. (TRANSDUCER) - COMPONENT LAYOUT.pdf
+02-001,76045 - CFTO,R26,lK ohms,,,,Modules/DYNAMICS/M415/SCHEMATICS/1971 - M415 - M415 - 8415-02-001 - MICROPHONE INPUT 88 DB MAX. (TRANSDUCER) - COMPONENT LAYOUT.pdf
+02-001,76045 - CFTO,R39,toK,,,,Modules/DYNAMICS/M415/SCHEMATICS/1971 - M415 - M415 - 8415-02-001 - MICROPHONE INPUT 88 DB MAX. (TRANSDUCER) - COMPONENT LAYOUT.pdf
+02-001,76045 - CFTO,R70,20K Pot (threshold),Bourns,3059W - 1- 20 3K,,Modules/DYNAMICS/M415/SCHEMATICS/1971 - M415 - M415 - 8415-02-001 - MICROPHONE INPUT 88 DB MAX. (TRANSDUCER) - COMPONENT LAYOUT.pdf
+02-001,76045 - CFTO,R71,1OOK ohms,Philips or,All resistors,w 5%,Modules/DYNAMICS/M415/SCHEMATICS/1971 - M415 - M415 - 8415-02-001 - MICROPHONE INPUT 88 DB MAX. (TRANSDUCER) - COMPONENT LAYOUT.pdf
+02-001,76045 - CFTO,R74,1 meg. ohms,,,,Modules/DYNAMICS/M415/SCHEMATICS/1971 - M415 - M415 - 8415-02-001 - MICROPHONE INPUT 88 DB MAX. (TRANSDUCER) - COMPONENT LAYOUT.pdf
+02-001,76045 - CFTO,R75,22K ohms,,,,Modules/DYNAMICS/M415/SCHEMATICS/1971 - M415 - M415 - 8415-02-001 - MICROPHONE INPUT 88 DB MAX. (TRANSDUCER) - COMPONENT LAYOUT.pdf
 14-152B,M922,C1,Capacitor,4.7 uF/10 V,ITT,4.7M10,WBSps Engineering from H drive/WBSps - Word Perfect Manuals/14-152BC.WP
 14-152B,M922,C60,Capacitor,0.1 uF/100 V,Sprague,K104K20X7RFVBWN,WBSps Engineering from H drive/WBSps - Word Perfect Manuals/14-152BC.WP
 14-152B,M922,P1,Connector,20 Pin Bergstik,Berg,65645-120,WBSps Engineering from H drive/WBSps - Word Perfect Manuals/14-152BC.WP
@@ -159,219 +159,219 @@ board,device,ref,part,value,manufacturer,mpn,source
 14-307A,,DS4,LED Light Bar,HP,HLMP-2450,,WBSps Engineering from H drive-20261018T013433Z-1-001/WBSps Engineering from H drive/WBSps - Word Perfect Manuals/14-307A - 2.WP
 14-307A,,R1,Resistor 1/2W 5%,390,Phillips,SFR25HJ,WBSps Engineering from H drive-20261018T013433Z-1-001/WBSps Engineering from H drive/WBSps - Word Perfect Manuals/14-307A - 2.WP
 14-307A,,R2,Resistor 1/2W 5%,390,Phillips,SFR25HJ,WBSps Engineering from H drive-20261018T013433Z-1-001/WBSps Engineering from H drive/WBSps - Word Perfect Manuals/14-307A - 2.WP
-1970 - M468 - 8X1 High level Switcher (2),M468,CR2,Diode,I.R.,lN4003,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,CR3,Diode,I.R.,IN4003,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,CR4,Diode,I.R.,IN4003,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,CR5,Diode,I.R.,lN4003,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,CR6,Diode,I.R.,IN4003,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,CR7,Diode,I.R.,IN4003,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,CR8,Diode,I.R.,lN4003,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,CR9,Diode,I.R.,IN4003,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,CR12,Diode,I.R.,IN4003,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,CR13,Diode,I.R.,lN4003,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,CR14,Diode,I.R.,IN4003,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,CR15,Diode,"I .a,",IN4003,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,CR16,Diode,I.R.,IN4003,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,CR17,Zener Diode 3.3 V,I.R.,IN746A,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,CR18,Diode,I.R.,IN4003,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,DS2,Lamp 28V 40 rna,C.M.,387,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,DS3,Lamp 28V 40 rna,C.M.,387,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,DS4,Lamp 28V 40 rna,CoM.,387,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,DS5,Lamp 28V 40 rna,C.M.,387,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,DS6,Lamp 28V 40 rna,C.M.,387,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,DS7,Lamp 28V 40 rna,CoM.,387,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,DS8,Lamp 28V 40 rna,C.M.,387,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,K2,Relay 4C,24v 40 rna,ITT,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,K5,Relay 4C,24V 40 rna,ITT,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,K6,Relay 4C 24V 40 rna,ITT,PZ-4/A2610,II,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,K7,Relay 4C 24V 40 rna,ITT,,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,K8,Relay 4C 24V 40 rna,ITT,,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,R1,10K All resistors 1/4W,Philips,,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,R2,10K S% unless specified,,,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,R3,10K otherwise,,,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,R1S,lSK,,,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,SW1,Momentary,Pushbutton switch,Pendar,SlS0-116-1F4,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,SW6,Momentary Pushbutton switch,Pendar,SlS0-116-1F4,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,XSW1,"Lens Cap S/S"" X S/S"" white",Pendar,C14S-0A-WW,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,XSW2,Lens Cap,,,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,XSW3,Lens Cap,,,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,XSW4,Lens Cap,,,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,XSW6,"Lens CapS/S"" X S/S"" white",Pendar,C14S-0A-WW,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1970 - M468 - 8X1 High level Switcher (2),M468,XSW7,Lens Cap,,,,Modules/ROUTING/M468/1970 - M468 - 8X1 High level Switcher (2).pdf
-1972 - M463J - Submaster Module (2),M463J,Q3,Transistor,Nationa l,PN364 5,,Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1972 - M463J - Submaster Module (2),M463J,QI3,National,PN3569,,,Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1972 - M463J - Submaster Module (2),M463J,R6,Tri m pot,2K,Pi her,PT 10v 2K,Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1972 - M463J - Submaster Module (2),M463J,R8,Resisto r ~W 5% 22K,Philips,,,Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1972 - M463J - Submaster Module (2),M463J,R21,Resistor \W 5%,47K,Philips,,Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1972 - M463J - Submaster Module (2),M463J,R33,Resistor !.oW 5%,1K8,Philips,,Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1972 - M463J - Submaster Module (2),M463J,R43,Resistor !.oW 5%,75,Philips,,Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1972 - M463J - Submaster Module (2),M463J,C1,Capacitor,33 uF/lO V,Kemet,T390D336M010AS,Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1972 - M463J - Submaster Module (2),M463J,C17,delete,,,,Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1972 - M463J - Submaster Module (2),M463J,CR1,Diode,Fairchild,1N4148,,Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1972 - M463J - Submaster Module (2),M463J,R1,Resistor \W 5%,47K,Phil ips,,Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1972 - M463J - Submaster Module (2),M463J,R4,Resistor J..iW 5%,6K2,Philips,,Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1972 - M463J - Submaster Module (2),M463J,R15,delete,,,,Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1972 - M463J - Submaster Module (2),M463J,R20,470 nom.,factory,,,Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1972 - M463J - Submaster Module (2),M463J,R27,470 nom.,factory,,,Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1972 - M463J - Submaster Module (2),M463J,R30,Resistor W 5%,6.8,,,Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1972 - M463J - Submaster Module (2),M463J,R34,Resistor !;oW 5% 5.6,,,,Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1972 - M463J - Submaster Module (2),M463J,C6,Capacitor,4.7 pF,Philips,2222-638-09478,Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1972 - M463J - Submaster Module (2),M463J,R3,Resistor,(deleted),,,Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1972 - M463J - Submaster Module (2),M463J,R5,Resistor '4W 5% 30K,Philips,,,Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1972 - M463J - Submaster Module (2),M463J,R15,Resistor '4W 5%,9K1,Philips,,Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1972 - M463J - Submaster Module (2),M463J,C6,Capacitor 4.7 pF,Philips,2222-638-09478,,Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1972 - M463J - Submaster Module (2),M463J,RI5,Resistor '4W 5% 240,,,,Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1972 - M463J - Submaster Module (2),M463J,C6,Capacitor,4.7 pF,Philips,2222-638-09478 ',Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1972 - M463J - Submaster Module (2),M463J,C6,Capa~itor,4 .7 pF,Ph~lips,2222-638-09478,Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1972 - M463J - Submaster Module (2),M463J,RI5,Resistor '4W 5%,910,,,Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1972 - M463J - Submaster Module (2),M463J,R15,Resistor ~W 5%,510,,,Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1972 - M463J - Submaster Module (2),M463J,R15,Resistor ~W 5%,2K4,,,Modules/SUMMING/M463J/1972 - M463J - Submaster Module (2).pdf
-1974 - M463 - Submaster Module (2),M463,C31,de lete,,,,Modules/SUMMING/M463/1974 - M463 - Submaster Module (2).pdf
-1974 - M463 - Submaster Module (2),M463,C32,Capacitor,6.8 uF/ 6 V,Kelllet,T3908685MOO6A5,Modules/SUMMING/M463/1974 - M463 - Submaster Module (2).pdf
-1974 - M463 - Submaster Module (2),M463,C33,del e~e,,,,Modules/SUMMING/M463/1974 - M463 - Submaster Module (2).pdf
-1974 - M463L - Submaster Module (2),M463L,C6,Cap acitor,4.7 pF,Phil i ps,2222-638-09478,Modules/SUMMING/M463L/1974 - M463L - Submaster Module (2).pdf
-1974 - M463L - Submaster Module (2),M463L,R5,Re s i stor 1/ 4W 5% 30 K,P h i li p s,,,Modules/SUMMING/M463L/1974 - M463L - Submaster Module (2).pdf
-1974 - M463L - Submaster Module (2),M463L,R15,Res is tor 1/4W 5% 9K l,P h i l ips,,,Modules/SUMMING/M463L/1974 - M463L - Submaster Module (2).pdf
-1974 - M463L - Submaster Module (2),M463L,C6,Capac i t or,4 .7 p F,Ph il i ps,2222- 638 -09478,Modules/SUMMING/M463L/1974 - M463L - Submaster Module (2).pdf
-1974 - M463L - Submaster Module (2),M463L,R15,Res i s t or 1/ 4 W 5% 240,,,,Modules/SUMMING/M463L/1974 - M463L - Submaster Module (2).pdf
-1974 - M463LA - Submaster Module (2),M463LA,C6,Cap acitor,4.7 pF,Phil i ps,2222-638-09478,Modules/SUMMING/M463LA/1974 - M463LA - Submaster Module (2).pdf
-1974 - M463LA - Submaster Module (2),M463LA,R5,Re s i stor 1/ 4W 5% 30 K,P h i li p s,,,Modules/SUMMING/M463LA/1974 - M463LA - Submaster Module (2).pdf
-1974 - M463LA - Submaster Module (2),M463LA,R15,Res is tor 1/4W 5% 9K l,P h i l ips,,,Modules/SUMMING/M463LA/1974 - M463LA - Submaster Module (2).pdf
-1974 - M463LA - Submaster Module (2),M463LA,C6,Capac i t or,4 .7 p F,Ph il i ps,2222- 638 -09478,Modules/SUMMING/M463LA/1974 - M463LA - Submaster Module (2).pdf
-1974 - M463LA - Submaster Module (2),M463LA,R15,Res i s t or 1/ 4 W 5% 240,,,,Modules/SUMMING/M463LA/1974 - M463LA - Submaster Module (2).pdf
-1975 - M456B - Dual Mixdown Module (2),M456B,H4568,Fun ct i o nal,8456-0 1-003,,,Modules/ROUTING/M456B/1975 - M456B - Dual Mixdown Module (2).pdf
-1975 - M456B - Dual Mixdown Module (2),M456B,H4568,COlllp o ne n t Lilyout,8456-06-00 1,,,Modules/ROUTING/M456B/1975 - M456B - Dual Mixdown Module (2).pdf
-1975 - M456B - Dual Mixdown Module (2),M456B,M4568,Connector La yo u t,8456 -04 -006,,,Modules/ROUTING/M456B/1975 - M456B - Dual Mixdown Module (2).pdf
-1975 - M456B - Dual Mixdown Module (2),M456B,R9,Re s 1 ~ tor 'lo W 51,,,,Modules/ROUTING/M456B/1975 - M456B - Dual Mixdown Module (2).pdf
-1975 - M456B - Dual Mixdown Module (2),M456B,R29,"Resf~tor J""W 51",,,,Modules/ROUTING/M456B/1975 - M456B - Dual Mixdown Module (2).pdf
-1975 - M456B - Dual Mixdown Module (2),M456B,R31,"Resl~tor "" II 51",,,,Modules/ROUTING/M456B/1975 - M456B - Dual Mixdown Module (2).pdf
-1975 - M456B - Dual Mixdown Module (2),M456B,R35,lOOK,,,,Modules/ROUTING/M456B/1975 - M456B - Dual Mixdown Module (2).pdf
-1975 - M456B - Dual Mixdown Module (2),M456B,RI13,Re s i ~ tor,~W,S1;,15K Ph ~ 1 t ps,Modules/ROUTING/M456B/1975 - M456B - Dual Mixdown Module (2).pdf
-1975 - M456B - Dual Mixdown Module (2),M456B,R134,Re s i ~tor,~W,51;,4K7,Modules/ROUTING/M456B/1975 - M456B - Dual Mixdown Module (2).pdf
-1975 - M456B - Dual Mixdown Module (2),M456B,RU6,Resi~tor,!:ill 51;,lOOK,,Modules/ROUTING/M456B/1975 - M456B - Dual Mixdown Module (2).pdf
-1975 - M495 - Stereo Monitor Module (2),M495,R31,Resistor loW 5% 10K,Ph~lips,,,Modules/MONITORING/M495/1975 - M495 - Stereo Monitor Module (2).pdf
-1975 - M495 - Stereo Monitor Module (2),M495,R50,Resistor loW 5% 330,,,,Modules/MONITORING/M495/1975 - M495 - Stereo Monitor Module (2).pdf
-1975 - M495 - Stereo Monitor Module (2),M495,R51,Resistor loW 5% 22K,,,,Modules/MONITORING/M495/1975 - M495 - Stereo Monitor Module (2).pdf
-1975 - M495 - Stereo Monitor Module (2),M495,R36,Resistor loW 5% 15K,Philips,,,Modules/MONITORING/M495/1975 - M495 - Stereo Monitor Module (2).pdf
-1975 - M495 - Stereo Monitor Module (2),M495,R49,Resistor lzW 5% 180,,,,Modules/MONITORING/M495/1975 - M495 - Stereo Monitor Module (2).pdf
-1976 - M466 - Compressor - Limiter (2),M466,CRI3,Diode,",","1"" 414",,Modules/DYNAMICS/M466/1976 - M466 - Compressor - Limiter (2).pdf
-1976 - M466 - Compressor - Limiter (2),M466,CR16,H D. yell ow,,,,Modules/DYNAMICS/M466/1976 - M466 - Compressor - Limiter (2).pdf
-1976 - M466 - Compressor - Limiter (2),M466,Q5,del e t e,,,,Modules/DYNAMICS/M466/1976 - M466 - Compressor - Limiter (2).pdf
-1976 - M466 - Compressor - Limiter (2),M466,Q6,Transisto r,Te xa s,T1P 298,,Modules/DYNAMICS/M466/1976 - M466 - Compressor - Limiter (2).pdf
-1977 - M450A - Program Amplifer,M450A,H450A,PROGRAH AHPLIFIER,,,,Modules/AMPLIFIERS/M450A/1977 - M450A - Program Amplifer.pdf
-1977 - M450A - Program Amplifer,M450A,R35,Res1stor %W 51,15K,Philips,,Modules/AMPLIFIERS/M450A/1977 - M450A - Program Amplifer.pdf
-1977 - M450A - Program Amplifer,M450A,R47,Res 1 ~ to r 3 . 75W 51,22,Da!e,C~2B,Modules/AMPLIFIERS/M450A/1977 - M450A - Program Amplifer.pdf
-1977 - M457A - Pre Mixer Master Module,M457A,C44,Del ete,,,,Modules/ROUTING/M457A/1977 - M457A - Pre Mixer Master Module.pdf
-1977 - M457A - Pre Mixer Master Module,M457A,C45,capa~ H or 150,~F /6,V,Ke~et T390E 15~M006AS,Modules/ROUTING/M457A/1977 - M457A - Pre Mixer Master Module.pdf
-1977 - M457A - Pre Mixer Master Module,M457A,R1J,Oelet e,,,,Modules/ROUTING/M457A/1977 - M457A - Pre Mixer Master Module.pdf
-1977 - M470C - Input Module (2),M470C,R5,lOOK,,,,Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf
-1977 - M470C - Input Module (2),M470C,R6,lOOK,,,,Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf
-1977 - M470C - Input Module (2),M470C,R27,Res 1 ~ tor laW SI,m,Ph!1ips,,Modules/INPUT-PRE-AMPS/M470C/1977 - M470C - Input Module (2).pdf
-1977 - M472 - Equalizer (2),M472,M472,EOUAlIZER MOD ULE,,,,Modules/FILTERS/M472/1977 - M472 - Equalizer (2).pdf
-1977 - M472 - Equalizer (2),M472,R22,Potentlo.eter,"'""",AI',VBS 10 - 0 0 8,Modules/FILTERS/M472/1977 - M472 - Equalizer (2).pdf
-1977 - M472 - Equalizer (2),M472,R23,RUf~tor,'-II 51,m,Ph!lfps,Modules/FILTERS/M472/1977 - M472 - Equalizer (2).pdf
-1977 - M472 - Equalizer (2),M472,R28,Po te n t i ome te r,AI',VBS 10-025,,Modules/FILTERS/M472/1977 - M472 - Equalizer (2).pdf
-1978 - M451 - Talkback Module,M451,R60,Resistor,33,,,Modules/MONITORING/M451/1978 - M451 - Talkback Module.pdf
-1978 - M451 - Talkback Module,M451,R64,Resistor ~ w,5~,m,"""",Modules/MONITORING/M451/1978 - M451 - Talkback Module.pdf
-1978 - M451 - Talkback Module,M451,R69,Resistor,ss,,,Modules/MONITORING/M451/1978 - M451 - Talkback Module.pdf
-1978 - M451 - Talkback Module,M451,R71,Resis tor ~ w 51:,750,"""",,Modules/MONITORING/M451/1978 - M451 - Talkback Module.pdf
-1978 - M451 - Talkback Module (2),M451,R60,Resistor,33,,,Modules/MONITORING/M451/1978 - M451 - Talkback Module (2).pdf
-1978 - M451 - Talkback Module (2),M451,R64,Resistor ~ w,5~,m,"""",Modules/MONITORING/M451/1978 - M451 - Talkback Module (2).pdf
-1978 - M451 - Talkback Module (2),M451,R69,Resistor,ss,,,Modules/MONITORING/M451/1978 - M451 - Talkback Module (2).pdf
-1978 - M451 - Talkback Module (2),M451,R71,Resis tor ~ w 51:,750,"""",,Modules/MONITORING/M451/1978 - M451 - Talkback Module (2).pdf
-1978 - M462 - M562 - Equalizer,M462,C7,41 uFn5 V,"K@:, e t",T39 0£ 416M02 5AS,,Modules/FILTERS/M462/1978 - M462 - M562 - Equalizer.pdf
-1978 - M462 - M562 - Equalizer,M462,C8,33 uFIlO V,Tl9 0D336MOI0AS,,,Modules/FILTERS/M462/1978 - M462 - M562 - Equalizer.pdf
-1978 - M462 - M562 - Equalizer,M462,C30,delete,,,,Modules/FILTERS/M462/1978 - M462 - M562 - Equalizer.pdf
-1978 - M462 - M562 - Equalizer,M462,C32,delete,,,,Modules/FILTERS/M462/1978 - M462 - M562 - Equalizer.pdf
-1978 - M497 - Dual-Master-Module (2),M497,C6,Ca p ac i tor,4.7 pF,Phi lips,2222-638-09478,Modules/SUMMING/M497/1978 - M497 - Dual-Master-Module (2).pdf
-1978 - M497 - Dual-Master-Module (2),M497,R5,Re si stor,1/4W 5% 30K,Ph i lips,,Modules/SUMMING/M497/1978 - M497 - Dual-Master-Module (2).pdf
-1978 - M497A - Dual Master Module (2),M497A,Q4,Te xas,TIP30B,,,Modules/SUMMING/M497A/1978 - M497A - Dual Master Module (2).pdf
-1978 - M497A - Dual Master Module (2),M497A,Q5,National,PN36 45,,,Modules/SUMMING/M497A/1978 - M497A - Dual Master Module (2).pdf
-1978 - M497A - Dual Master Module (2),M497A,R1,Resistor ~ W 5% 15K,Philips,,,Modules/SUMMING/M497A/1978 - M497A - Dual Master Module (2).pdf
-1978 - M497A - Dual Master Module (2),M497A,R17,Tr im pot,Piher,PT 10V 2K,,Modules/SUMMING/M497A/1978 - M497A - Dual Master Module (2).pdf
-1978 - M497A - Dual Master Module (2),M497A,R18,Resistor '4W 5% 11K,Phili ps,,,Modules/SUMMING/M497A/1978 - M497A - Dual Master Module (2).pdf
-1978 - M497A - Dual Master Module (2),M497A,R19,Trim pot,Piher,PT 10V 2K,,Modules/SUMMING/M497A/1978 - M497A - Dual Master Module (2).pdf
-1978 - M497A - Dual Master Module (2),M497A,R20,Resisto r ~ W 5% 11K,Philips,,,Modules/SUMMING/M497A/1978 - M497A - Dual Master Module (2).pdf
-1978 - M497A - Dual Master Module (2),M497A,C6,Cap acitor,4.7 pF,Phil i ps,2222-638-09478,Modules/SUMMING/M497A/1978 - M497A - Dual Master Module (2).pdf
-1978 - M497A - Dual Master Module (2),M497A,R5,Re s i stor 1/ 4W 5% 30 K,P h i li p s,,,Modules/SUMMING/M497A/1978 - M497A - Dual Master Module (2).pdf
-1978 - M497A - Dual Master Module (2),M497A,R15,Res is tor 1/4W 5% 9K l,P h i l ips,,,Modules/SUMMING/M497A/1978 - M497A - Dual Master Module (2).pdf
-1978 - M497A - Dual Master Module (2),M497A,C6,Capac i t or,4 .7 p F,Ph il i ps,2222- 638 -09478,Modules/SUMMING/M497A/1978 - M497A - Dual Master Module (2).pdf
-1978 - M497A - Dual Master Module (2),M497A,R15,Res i s t or 1/ 4 W 5% 240,,,,Modules/SUMMING/M497A/1978 - M497A - Dual Master Module (2).pdf
-1978 - M497C - Dual Master Module (2),M497C,C6,Cap acitor,4.7 pF,Phil i ps,2222-638-09478,Modules/SUMMING/M497C/1978 - M497C - Dual Master Module (2).pdf
-1978 - M497C - Dual Master Module (2),M497C,R5,Re s i stor 1/ 4W 5% 30 K,P h i li p s,,,Modules/SUMMING/M497C/1978 - M497C - Dual Master Module (2).pdf
-1978 - M497C - Dual Master Module (2),M497C,R15,Res is tor 1/4W 5% 9K l,P h i l ips,,,Modules/SUMMING/M497C/1978 - M497C - Dual Master Module (2).pdf
-1978 - M497C - Dual Master Module (2),M497C,C6,Capac i t or,4 .7 p F,Ph il i ps,2222- 638 -09478,Modules/SUMMING/M497C/1978 - M497C - Dual Master Module (2).pdf
-1978 - M497C - Dual Master Module (2),M497C,R15,Res i s t or 1/ 4 W 5% 240,,,,Modules/SUMMING/M497C/1978 - M497C - Dual Master Module (2).pdf
-1978 - M497D - Dual Master Module (2),M497D,C6,Cap acitor,4.7 pF,Phil i ps,2222-638-09478,Modules/SUMMING/M497D/1978 - M497D - Dual Master Module (2).pdf
-1978 - M497D - Dual Master Module (2),M497D,R5,Re s i stor 1/ 4W 5% 30 K,P h i li p s,,,Modules/SUMMING/M497D/1978 - M497D - Dual Master Module (2).pdf
-1978 - M497D - Dual Master Module (2),M497D,R15,Res is tor 1/4W 5% 9K l,P h i l ips,,,Modules/SUMMING/M497D/1978 - M497D - Dual Master Module (2).pdf
-1978 - M497D - Dual Master Module (2),M497D,C6,Capac i t or,4 .7 p F,Ph il i ps,2222- 638 -09478,Modules/SUMMING/M497D/1978 - M497D - Dual Master Module (2).pdf
-1978 - M497D - Dual Master Module (2),M497D,R15,Res i s t or 1/ 4 W 5% 240,,,,Modules/SUMMING/M497D/1978 - M497D - Dual Master Module (2).pdf
-1978 - M612 - Audio DA,M612,CR13,Br idge Rec tifi er,EOI,PD4D·7636,,Modules/AMPLIFIERS/M612/1978 - M612 - Audio DA.pdf
-1978 - M612 - Audio DA,M612,D51,Ne on Lamp,Alco,BNF-2,,Modules/AMPLIFIERS/M612/1978 - M612 - Audio DA.pdf
-1978 - M612 - Audio DA,M612,Q9,Fa fr chfld,2N3569,,,Modules/AMPLIFIERS/M612/1978 - M612 - Audio DA.pdf
-1978 - M612 - Audio DA,M612,Q12,Fa 1rchfl d,1N3645,,,Modules/AMPLIFIERS/M612/1978 - M612 - Audio DA.pdf
-1979 - M460A - Input Module,M460A,R33,Res i ~ t or %W 51 4 70 k,Ph I! 1 ps,,,Modules/INPUT-PRE-AMPS/M460A/1979 - M460A - Input Module.pdf
-1979 - M460A - Input Module,M460A,R43,Resisto r 1/8'1 51 620,,,,Modules/INPUT-PRE-AMPS/M460A/1979 - M460A - Input Module.pdf
-1979 - M460A - Input Module,M460A,RA5,(Delete),,,,Modules/INPUT-PRE-AMPS/M460A/1979 - M460A - Input Module.pdf
-1979 - M460A - Input Module,M460A,R54,( Oelete),,,,Modules/INPUT-PRE-AMPS/M460A/1979 - M460A - Input Module.pdf
-1979 - M477 - Master Module (2),M477,R1,Resisto r,W 51,15K,Ph fT ips,Modules/SUMMING/M477/1979 - M477 - Master Module (2).pdf
-1979 - M477 - Master Module (2),M477,R8,Res is to r '<lW 5%,,,,Modules/SUMMING/M477/1979 - M477 - Master Module (2).pdf
-1979 - M477 - Master Module (2),M477,R42,del e t e,,,,Modules/SUMMING/M477/1979 - M477 - Master Module (2).pdf
-1983 - M460M - Input Module,M460M,C1,C lp l~l tor,6 .8 uF/6V,Keaet,"13 90 86 85""006A5",Modules/INPUT-PRE-AMPS/M460M/1983 - M460M - Input Module.pdf
-1983 - M460M - Input Module,M460M,C3,delete,,,,Modules/INPUT-PRE-AMPS/M460M/1983 - M460M - Input Module.pdf
-1983 - M460M - Input Module,M460M,C17,delete,,,,Modules/INPUT-PRE-AMPS/M460M/1983 - M460M - Input Module.pdf
-1983 - M460M - Input Module,M460M,C21,Cap a~ i to r,6.8 uF/6 V,Kelllet,T390B685H 006A5,Modules/INPUT-PRE-AMPS/M460M/1983 - M460M - Input Module.pdf
-1983 - M460M - Input Module,M460M,C36,delete,,,,Modules/INPUT-PRE-AMPS/M460M/1983 - M460M - Input Module.pdf
-1983 - M460M - Input Module,M460M,C37,Clp a~ i tor,6.8 uF/6 y,xeee t,T390 B685H006A5,Modules/INPUT-PRE-AMPS/M460M/1983 - M460M - Input Module.pdf
-1983 - M460M - Input Module,M460M,C39,delete,,,,Modules/INPUT-PRE-AMPS/M460M/1983 - M460M - Input Module.pdf
-1983 - M460M - Input Module,M460M,C45,Capaclt o r,68 uF/ 6 V,Kemet,TJ 900686MOO 6A5,Modules/INPUT-PRE-AMPS/M460M/1983 - M460M - Input Module.pdf
-1983 - M460M - Input Module,M460M,C48,delete,,,,Modules/INPUT-PRE-AMPS/M460M/1983 - M460M - Input Module.pdf
-1983 - M460M - Input Module,M460M,C49,Capa~ lt o r,1 u~/3S V,K e~et,T39081 O~ M O J 5 A5,Modules/INPUT-PRE-AMPS/M460M/1983 - M460M - Input Module.pdf
-1983 - M460M - Input Module,M460M,R22,dele te,,,,Modules/INPUT-PRE-AMPS/M460M/1983 - M460M - Input Module.pdf
-1983 - M460M - Input Module,M460M,R23,Resisto~ ~W,5%,6K2,,Modules/INPUT-PRE-AMPS/M460M/1983 - M460M - Input Module.pdf
-1983 - M460M - Input Module,M460M,R25,delete,,,,Modules/INPUT-PRE-AMPS/M460M/1983 - M460M - Input Module.pdf
-1983 - M460M - Input Module,M460M,R37,delete,,,,Modules/INPUT-PRE-AMPS/M460M/1983 - M460M - Input Module.pdf
-1983 - M460M - Input Module,M460M,R38,"Res isto~ ~ w 5""",10K,Phi!ips,,Modules/INPUT-PRE-AMPS/M460M/1983 - M460M - Input Module.pdf
-1983 - M460M - Input Module,M460M,R43,eac,,,,Modules/INPUT-PRE-AMPS/M460M/1983 - M460M - Input Module.pdf
-1983 - M460M - Input Module,M460M,R46,delete,,,,Modules/INPUT-PRE-AMPS/M460M/1983 - M460M - Input Module.pdf
-1983 - M490F - Stereo Input Module,M490F,C36,C apa~ I tor,1 ufl3S V,Kemet,T3 90BI OSM0 3 5AS,Modules/INPUT-PRE-AMPS/M490F/1983 - M490F - Stereo Input Module.pdf
-1983 - M490F - Stereo Input Module,M490F,C45,delete,,,,Modules/INPUT-PRE-AMPS/M490F/1983 - M490F - Stereo Input Module.pdf
-1983 - M490F - Stereo Input Module,M490F,CR5,Falrc hfld,1N4 14 8,,,Modules/INPUT-PRE-AMPS/M490F/1983 - M490F - Stereo Input Module.pdf
-1983 - M490F - Stereo Input Module,M490F,CR9,delete,,,,Modules/INPUT-PRE-AMPS/M490F/1983 - M490F - Stereo Input Module.pdf
-1983 - M490F - Stereo Input Module,M490F,CR15,Mot orola,1N40 0 3,,,Modules/INPUT-PRE-AMPS/M490F/1983 - M490F - Stereo Input Module.pdf
-1983 - M490F - Stereo Input Module,M490F,M490F,STEREO INPUT MO DULE,,,,Modules/INPUT-PRE-AMPS/M490F/1983 - M490F - Stereo Input Module.pdf
-1983 - M490F - Stereo Input Module,M490F,R87,l OOK,,,,Modules/INPUT-PRE-AMPS/M490F/1983 - M490F - Stereo Input Module.pdf
-1983 - M490F - Stereo Input Module,M490F,R116,l OOK,,,,Modules/INPUT-PRE-AMPS/M490F/1983 - M490F - Stereo Input Module.pdf
-1983 - M497B - Dual Master Module (2),M497B,C6,Cap acitor,4.7 pF,Phil i ps,2222-638-09478,Modules/SUMMING/M497B/1983 - M497B - Dual Master Module (2).pdf
-1983 - M497B - Dual Master Module (2),M497B,R5,Re s i stor 1/ 4W 5% 30 K,P h i li p s,,,Modules/SUMMING/M497B/1983 - M497B - Dual Master Module (2).pdf
-1983 - M497B - Dual Master Module (2),M497B,R15,Res is tor 1/4W 5% 9K l,P h i l ips,,,Modules/SUMMING/M497B/1983 - M497B - Dual Master Module (2).pdf
-1983 - M497B - Dual Master Module (2),M497B,C6,Capac i t or,4 .7 p F,Ph il i ps,2222- 638 -09478,Modules/SUMMING/M497B/1983 - M497B - Dual Master Module (2).pdf
-1983 - M497B - Dual Master Module (2),M497B,R15,Res i s t or 1/ 4 W 5% 240,,,,Modules/SUMMING/M497B/1983 - M497B - Dual Master Module (2).pdf
-1984 - M473B - Stereo Submaster (2),M473B,R1,Re sistor 1/4W 5%,620,Ph i l ips,,Modules/SUMMING/M473B/1984 - M473B - Stereo Submaster (2).pdf
-1984 - M473B - Stereo Submaster (2),M473B,R7,Res i stor 1/ 4W 5%,390,Ph il i ps,,Modules/SUMMING/M473B/1984 - M473B - Stereo Submaster (2).pdf
-1984 - M473B - Stereo Submaster (2),M473B,R12,dele te,,,,Modules/SUMMING/M473B/1984 - M473B - Stereo Submaster (2).pdf
-1984 - M473B - Stereo Submaster (2),M473B,SW2,WBS 11- 0 11,,,,Modules/SUMMING/M473B/1984 - M473B - Stereo Submaster (2).pdf
-1984 - M473B - Stereo Submaster (2),M473B,SW2,"P.B.Cap,",Black,FG-BLACK,,Modules/SUMMING/M473B/1984 - M473B - Stereo Submaster (2).pdf
-1984 - M473B - Stereo Submaster (2),M473B,SW3,Barndoor,,,,Modules/SUMMING/M473B/1984 - M473B - Stereo Submaster (2).pdf
-1984 - M473B - Stereo Submaster (2),M473B,SW4,Barndoor,,,,Modules/SUMMING/M473B/1984 - M473B - Stereo Submaster (2).pdf
-1984 - M473B - Stereo Submaster (2),M473B,SW5,"P.B. Cap,",Red,FG-RED,,Modules/SUMMING/M473B/1984 - M473B - Stereo Submaster (2).pdf
-1986 - M463AB - Submaster Module (2),M463AB,R6,Res istor 1/4W 5% 6K2,Ph il ips,,,Modules/SUMMING/M463AB/1986 - M463AB - Submaster Module (2).pdf
-1986 - M463AB - Submaster Module (2),M463AB,R15,delete,,,,Modules/SUMMING/M463AB/1986 - M463AB - Submaster Module (2).pdf
-1986 - M463AB - Submaster Module (2),M463AB,R27,470 nom.,factory selected,,,Modules/SUMMING/M463AB/1986 - M463AB - Submaster Module (2).pdf
-1986 - M463AB - Submaster Module (2),M463AB,R30,Res is tor 1/2W 5% 6.8,It,,,Modules/SUMMING/M463AB/1986 - M463AB - Submaster Module (2).pdf
-1986 - M463AB - Submaster Module (2),M463AB,R38,delete,,,,Modules/SUMMING/M463AB/1986 - M463AB - Submaster Module (2).pdf
-1986 - M463AB - Submaster Module (2),M463AB,C6,Capa c i tor,4 .7 pF,Ph ilips,222 2- 6 38 - 09478,Modules/SUMMING/M463AB/1986 - M463AB - Submaster Module (2).pdf
-1986 - M463AB - Submaster Module (2),M463AB,R5,Resistor 1/4W 5% 30K,Ph il ips,,,Modules/SUMMING/M463AB/1986 - M463AB - Submaster Module (2).pdf
-1986 - M463AB - Submaster Module (2),M463AB,R15,Res istor 1/4W 5% 9Kl,Phi l ips,,,Modules/SUMMING/M463AB/1986 - M463AB - Submaster Module (2).pdf
-1986 - M463AB - Submaster Module (2),M463AB,C6,Capac i t or,4 . 7 pF,Ph il ips,2222 - 63 8- 094 78,Modules/SUMMING/M463AB/1986 - M463AB - Submaster Module (2).pdf
-1986 - M463AB - Submaster Module (2),M463AB,C6,Capacitor,4.7 pF,Philips,2222-638-09478,Modules/SUMMING/M463AB/1986 - M463AB - Submaster Module (2).pdf
-1986 - M463AB - Submaster Module (2),M463AB,R5,Resistor 1/4W 5% 4K7,Philips,,,Modules/SUMMING/M463AB/1986 - M463AB - Submaster Module (2).pdf
-1986 - M463AC - Master Module (2),M463AC,C6,Cap acitor,4.7 pF,Phil i ps,2222-638-09478,Modules/SUMMING/M463AC/1986 - M463AC - Master Module (2).pdf
-1986 - M463AC - Master Module (2),M463AC,R5,Re s i stor 1/ 4W 5% 30 K,P h i li p s,,,Modules/SUMMING/M463AC/1986 - M463AC - Master Module (2).pdf
-1986 - M463AC - Master Module (2),M463AC,R15,Res is tor 1/4W 5% 9K l,P h i l ips,,,Modules/SUMMING/M463AC/1986 - M463AC - Master Module (2).pdf
-1986 - M463AC - Master Module (2),M463AC,C6,Capac i t or,4 .7 p F,Ph il i ps,2222- 638 -09478,Modules/SUMMING/M463AC/1986 - M463AC - Master Module (2).pdf
-1986 - M463AC - Master Module (2),M463AC,R15,Res i s t or 1/ 4 W 5% 240,,,,Modules/SUMMING/M463AC/1986 - M463AC - Master Module (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,CR2,Diode,I.R.,lN4003,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,CR3,Diode,I.R.,IN4003,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,CR4,Diode,I.R.,IN4003,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,CR5,Diode,I.R.,lN4003,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,CR6,Diode,I.R.,IN4003,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,CR7,Diode,I.R.,IN4003,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,CR8,Diode,I.R.,lN4003,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,CR9,Diode,I.R.,IN4003,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,CR12,Diode,I.R.,IN4003,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,CR13,Diode,I.R.,lN4003,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,CR14,Diode,I.R.,IN4003,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,CR15,Diode,"I .a,",IN4003,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,CR16,Diode,I.R.,IN4003,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,CR17,Zener Diode 3.3 V,I.R.,IN746A,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,CR18,Diode,I.R.,IN4003,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,DS2,Lamp 28V 40 rna,C.M.,387,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,DS3,Lamp 28V 40 rna,C.M.,387,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,DS4,Lamp 28V 40 rna,CoM.,387,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,DS5,Lamp 28V 40 rna,C.M.,387,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,DS6,Lamp 28V 40 rna,C.M.,387,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,DS7,Lamp 28V 40 rna,CoM.,387,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,DS8,Lamp 28V 40 rna,C.M.,387,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,K2,Relay 4C,24v 40 rna,ITT,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,K5,Relay 4C,24V 40 rna,ITT,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,K6,Relay 4C 24V 40 rna,ITT,PZ-4/A2610,II,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,K7,Relay 4C 24V 40 rna,ITT,,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,K8,Relay 4C 24V 40 rna,ITT,,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,R1,10K All resistors 1/4W,Philips,,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,R2,10K S% unless specified,,,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,R3,10K otherwise,,,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,R1S,lSK,,,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,SW1,Momentary,Pushbutton switch,Pendar,SlS0-116-1F4,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,SW6,Momentary Pushbutton switch,Pendar,SlS0-116-1F4,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,XSW1,"Lens Cap S/S"" X S/S"" white",Pendar,C14S-0A-WW,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,XSW2,Lens Cap,,,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,XSW3,Lens Cap,,,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,XSW4,Lens Cap,,,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,XSW6,"Lens CapS/S"" X S/S"" white",Pendar,C14S-0A-WW,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1970 - M468 - 8X1 High level Switcher (2),M468,XSW7,Lens Cap,,,,Modules/ROUTING/M468/MANUALS/1970 - M468 - 8X1 High level Switcher (2).pdf
+1972 - M463J - Submaster Module (2),M463J,Q3,Transistor,Nationa l,PN364 5,,Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1972 - M463J - Submaster Module (2),M463J,QI3,National,PN3569,,,Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1972 - M463J - Submaster Module (2),M463J,R6,Tri m pot,2K,Pi her,PT 10v 2K,Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1972 - M463J - Submaster Module (2),M463J,R8,Resisto r ~W 5% 22K,Philips,,,Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1972 - M463J - Submaster Module (2),M463J,R21,Resistor \W 5%,47K,Philips,,Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1972 - M463J - Submaster Module (2),M463J,R33,Resistor !.oW 5%,1K8,Philips,,Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1972 - M463J - Submaster Module (2),M463J,R43,Resistor !.oW 5%,75,Philips,,Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1972 - M463J - Submaster Module (2),M463J,C1,Capacitor,33 uF/lO V,Kemet,T390D336M010AS,Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1972 - M463J - Submaster Module (2),M463J,C17,delete,,,,Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1972 - M463J - Submaster Module (2),M463J,CR1,Diode,Fairchild,1N4148,,Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1972 - M463J - Submaster Module (2),M463J,R1,Resistor \W 5%,47K,Phil ips,,Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1972 - M463J - Submaster Module (2),M463J,R4,Resistor J..iW 5%,6K2,Philips,,Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1972 - M463J - Submaster Module (2),M463J,R15,delete,,,,Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1972 - M463J - Submaster Module (2),M463J,R20,470 nom.,factory,,,Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1972 - M463J - Submaster Module (2),M463J,R27,470 nom.,factory,,,Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1972 - M463J - Submaster Module (2),M463J,R30,Resistor W 5%,6.8,,,Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1972 - M463J - Submaster Module (2),M463J,R34,Resistor !;oW 5% 5.6,,,,Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1972 - M463J - Submaster Module (2),M463J,C6,Capacitor,4.7 pF,Philips,2222-638-09478,Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1972 - M463J - Submaster Module (2),M463J,R3,Resistor,(deleted),,,Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1972 - M463J - Submaster Module (2),M463J,R5,Resistor '4W 5% 30K,Philips,,,Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1972 - M463J - Submaster Module (2),M463J,R15,Resistor '4W 5%,9K1,Philips,,Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1972 - M463J - Submaster Module (2),M463J,C6,Capacitor 4.7 pF,Philips,2222-638-09478,,Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1972 - M463J - Submaster Module (2),M463J,RI5,Resistor '4W 5% 240,,,,Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1972 - M463J - Submaster Module (2),M463J,C6,Capacitor,4.7 pF,Philips,2222-638-09478 ',Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1972 - M463J - Submaster Module (2),M463J,C6,Capa~itor,4 .7 pF,Ph~lips,2222-638-09478,Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1972 - M463J - Submaster Module (2),M463J,RI5,Resistor '4W 5%,910,,,Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1972 - M463J - Submaster Module (2),M463J,R15,Resistor ~W 5%,510,,,Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1972 - M463J - Submaster Module (2),M463J,R15,Resistor ~W 5%,2K4,,,Modules/SUMMING/M463J/MANUALS/1972 - M463J - Submaster Module (2).pdf
+1974 - M463 - Submaster Module (2),M463,C31,de lete,,,,Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module (2).pdf
+1974 - M463 - Submaster Module (2),M463,C32,Capacitor,6.8 uF/ 6 V,Kelllet,T3908685MOO6A5,Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module (2).pdf
+1974 - M463 - Submaster Module (2),M463,C33,del e~e,,,,Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module (2).pdf
+1974 - M463L - Submaster Module (2),M463L,C6,Cap acitor,4.7 pF,Phil i ps,2222-638-09478,Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module (2).pdf
+1974 - M463L - Submaster Module (2),M463L,R5,Re s i stor 1/ 4W 5% 30 K,P h i li p s,,,Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module (2).pdf
+1974 - M463L - Submaster Module (2),M463L,R15,Res is tor 1/4W 5% 9K l,P h i l ips,,,Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module (2).pdf
+1974 - M463L - Submaster Module (2),M463L,C6,Capac i t or,4 .7 p F,Ph il i ps,2222- 638 -09478,Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module (2).pdf
+1974 - M463L - Submaster Module (2),M463L,R15,Res i s t or 1/ 4 W 5% 240,,,,Modules/SUMMING/M463L/MANUALS/1974 - M463L - Submaster Module (2).pdf
+1974 - M463LA - Submaster Module (2),M463LA,C6,Cap acitor,4.7 pF,Phil i ps,2222-638-09478,Modules/SUMMING/M463LA/MANUALS/1974 - M463LA - Submaster Module (2).pdf
+1974 - M463LA - Submaster Module (2),M463LA,R5,Re s i stor 1/ 4W 5% 30 K,P h i li p s,,,Modules/SUMMING/M463LA/MANUALS/1974 - M463LA - Submaster Module (2).pdf
+1974 - M463LA - Submaster Module (2),M463LA,R15,Res is tor 1/4W 5% 9K l,P h i l ips,,,Modules/SUMMING/M463LA/MANUALS/1974 - M463LA - Submaster Module (2).pdf
+1974 - M463LA - Submaster Module (2),M463LA,C6,Capac i t or,4 .7 p F,Ph il i ps,2222- 638 -09478,Modules/SUMMING/M463LA/MANUALS/1974 - M463LA - Submaster Module (2).pdf
+1974 - M463LA - Submaster Module (2),M463LA,R15,Res i s t or 1/ 4 W 5% 240,,,,Modules/SUMMING/M463LA/MANUALS/1974 - M463LA - Submaster Module (2).pdf
+1975 - M456B - Dual Mixdown Module (2),M456B,H4568,Fun ct i o nal,8456-0 1-003,,,Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module (2).pdf
+1975 - M456B - Dual Mixdown Module (2),M456B,H4568,COlllp o ne n t Lilyout,8456-06-00 1,,,Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module (2).pdf
+1975 - M456B - Dual Mixdown Module (2),M456B,M4568,Connector La yo u t,8456 -04 -006,,,Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module (2).pdf
+1975 - M456B - Dual Mixdown Module (2),M456B,R9,Re s 1 ~ tor 'lo W 51,,,,Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module (2).pdf
+1975 - M456B - Dual Mixdown Module (2),M456B,R29,"Resf~tor J""W 51",,,,Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module (2).pdf
+1975 - M456B - Dual Mixdown Module (2),M456B,R31,"Resl~tor "" II 51",,,,Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module (2).pdf
+1975 - M456B - Dual Mixdown Module (2),M456B,R35,lOOK,,,,Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module (2).pdf
+1975 - M456B - Dual Mixdown Module (2),M456B,RI13,Re s i ~ tor,~W,S1;,15K Ph ~ 1 t ps,Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module (2).pdf
+1975 - M456B - Dual Mixdown Module (2),M456B,R134,Re s i ~tor,~W,51;,4K7,Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module (2).pdf
+1975 - M456B - Dual Mixdown Module (2),M456B,RU6,Resi~tor,!:ill 51;,lOOK,,Modules/ROUTING/M456B/MANUALS/1975 - M456B - Dual Mixdown Module (2).pdf
+1975 - M495 - Stereo Monitor Module (2),M495,R31,Resistor loW 5% 10K,Ph~lips,,,Modules/MONITORING/M495/MANUALS/1975 - M495 - Stereo Monitor Module (2).pdf
+1975 - M495 - Stereo Monitor Module (2),M495,R50,Resistor loW 5% 330,,,,Modules/MONITORING/M495/MANUALS/1975 - M495 - Stereo Monitor Module (2).pdf
+1975 - M495 - Stereo Monitor Module (2),M495,R51,Resistor loW 5% 22K,,,,Modules/MONITORING/M495/MANUALS/1975 - M495 - Stereo Monitor Module (2).pdf
+1975 - M495 - Stereo Monitor Module (2),M495,R36,Resistor loW 5% 15K,Philips,,,Modules/MONITORING/M495/MANUALS/1975 - M495 - Stereo Monitor Module (2).pdf
+1975 - M495 - Stereo Monitor Module (2),M495,R49,Resistor lzW 5% 180,,,,Modules/MONITORING/M495/MANUALS/1975 - M495 - Stereo Monitor Module (2).pdf
+1976 - M466 - Compressor - Limiter (2),M466,CRI3,Diode,",","1"" 414",,Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf
+1976 - M466 - Compressor - Limiter (2),M466,CR16,H D. yell ow,,,,Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf
+1976 - M466 - Compressor - Limiter (2),M466,Q5,del e t e,,,,Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf
+1976 - M466 - Compressor - Limiter (2),M466,Q6,Transisto r,Te xa s,T1P 298,,Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf
+1977 - M450A - Program Amplifer,M450A,H450A,PROGRAH AHPLIFIER,,,,Modules/AMPLIFIERS/M450A/MANUALS/1977 - M450A - Program Amplifer.pdf
+1977 - M450A - Program Amplifer,M450A,R35,Res1stor %W 51,15K,Philips,,Modules/AMPLIFIERS/M450A/MANUALS/1977 - M450A - Program Amplifer.pdf
+1977 - M450A - Program Amplifer,M450A,R47,Res 1 ~ to r 3 . 75W 51,22,Da!e,C~2B,Modules/AMPLIFIERS/M450A/MANUALS/1977 - M450A - Program Amplifer.pdf
+1977 - M457A - Pre Mixer Master Module,M457A,C44,Del ete,,,,Modules/ROUTING/M457A/MANUALS/1977 - M457A - Pre Mixer Master Module.pdf
+1977 - M457A - Pre Mixer Master Module,M457A,C45,capa~ H or 150,~F /6,V,Ke~et T390E 15~M006AS,Modules/ROUTING/M457A/MANUALS/1977 - M457A - Pre Mixer Master Module.pdf
+1977 - M457A - Pre Mixer Master Module,M457A,R1J,Oelet e,,,,Modules/ROUTING/M457A/MANUALS/1977 - M457A - Pre Mixer Master Module.pdf
+1977 - M470C - Input Module (2),M470C,R5,lOOK,,,,Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf
+1977 - M470C - Input Module (2),M470C,R6,lOOK,,,,Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf
+1977 - M470C - Input Module (2),M470C,R27,Res 1 ~ tor laW SI,m,Ph!1ips,,Modules/INPUT-PRE-AMPS/M470C/MANUALS/1977 - M470C - Input Module (2).pdf
+1977 - M472 - Equalizer (2),M472,M472,EOUAlIZER MOD ULE,,,,Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer (2).pdf
+1977 - M472 - Equalizer (2),M472,R22,Potentlo.eter,"'""",AI',VBS 10 - 0 0 8,Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer (2).pdf
+1977 - M472 - Equalizer (2),M472,R23,RUf~tor,'-II 51,m,Ph!lfps,Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer (2).pdf
+1977 - M472 - Equalizer (2),M472,R28,Po te n t i ome te r,AI',VBS 10-025,,Modules/FILTERS/M472/MANUALS/1977 - M472 - Equalizer (2).pdf
+1978 - M451 - Talkback Module,M451,R60,Resistor,33,,,Modules/MONITORING/M451/MANUALS/1978 - M451 - Talkback Module.pdf
+1978 - M451 - Talkback Module,M451,R64,Resistor ~ w,5~,m,"""",Modules/MONITORING/M451/MANUALS/1978 - M451 - Talkback Module.pdf
+1978 - M451 - Talkback Module,M451,R69,Resistor,ss,,,Modules/MONITORING/M451/MANUALS/1978 - M451 - Talkback Module.pdf
+1978 - M451 - Talkback Module,M451,R71,Resis tor ~ w 51:,750,"""",,Modules/MONITORING/M451/MANUALS/1978 - M451 - Talkback Module.pdf
+1978 - M451 - Talkback Module (2),M451,R60,Resistor,33,,,Modules/MONITORING/M451/MANUALS/1978 - M451 - Talkback Module (2).pdf
+1978 - M451 - Talkback Module (2),M451,R64,Resistor ~ w,5~,m,"""",Modules/MONITORING/M451/MANUALS/1978 - M451 - Talkback Module (2).pdf
+1978 - M451 - Talkback Module (2),M451,R69,Resistor,ss,,,Modules/MONITORING/M451/MANUALS/1978 - M451 - Talkback Module (2).pdf
+1978 - M451 - Talkback Module (2),M451,R71,Resis tor ~ w 51:,750,"""",,Modules/MONITORING/M451/MANUALS/1978 - M451 - Talkback Module (2).pdf
+1978 - M462 - M562 - Equalizer,M462,C7,41 uFn5 V,"K@:, e t",T39 0£ 416M02 5AS,,Modules/FILTERS/M462/MANUALS/1978 - M462 - M562 - Equalizer.pdf
+1978 - M462 - M562 - Equalizer,M462,C8,33 uFIlO V,Tl9 0D336MOI0AS,,,Modules/FILTERS/M462/MANUALS/1978 - M462 - M562 - Equalizer.pdf
+1978 - M462 - M562 - Equalizer,M462,C30,delete,,,,Modules/FILTERS/M462/MANUALS/1978 - M462 - M562 - Equalizer.pdf
+1978 - M462 - M562 - Equalizer,M462,C32,delete,,,,Modules/FILTERS/M462/MANUALS/1978 - M462 - M562 - Equalizer.pdf
+1978 - M497 - Dual-Master-Module (2),M497,C6,Ca p ac i tor,4.7 pF,Phi lips,2222-638-09478,Modules/SUMMING/M497/MANUALS/1978 - M497 - Dual-Master-Module (2).pdf
+1978 - M497 - Dual-Master-Module (2),M497,R5,Re si stor,1/4W 5% 30K,Ph i lips,,Modules/SUMMING/M497/MANUALS/1978 - M497 - Dual-Master-Module (2).pdf
+1978 - M497A - Dual Master Module (2),M497A,Q4,Te xas,TIP30B,,,Modules/SUMMING/M497A/MANUALS/1978 - M497A - Dual Master Module (2).pdf
+1978 - M497A - Dual Master Module (2),M497A,Q5,National,PN36 45,,,Modules/SUMMING/M497A/MANUALS/1978 - M497A - Dual Master Module (2).pdf
+1978 - M497A - Dual Master Module (2),M497A,R1,Resistor ~ W 5% 15K,Philips,,,Modules/SUMMING/M497A/MANUALS/1978 - M497A - Dual Master Module (2).pdf
+1978 - M497A - Dual Master Module (2),M497A,R17,Tr im pot,Piher,PT 10V 2K,,Modules/SUMMING/M497A/MANUALS/1978 - M497A - Dual Master Module (2).pdf
+1978 - M497A - Dual Master Module (2),M497A,R18,Resistor '4W 5% 11K,Phili ps,,,Modules/SUMMING/M497A/MANUALS/1978 - M497A - Dual Master Module (2).pdf
+1978 - M497A - Dual Master Module (2),M497A,R19,Trim pot,Piher,PT 10V 2K,,Modules/SUMMING/M497A/MANUALS/1978 - M497A - Dual Master Module (2).pdf
+1978 - M497A - Dual Master Module (2),M497A,R20,Resisto r ~ W 5% 11K,Philips,,,Modules/SUMMING/M497A/MANUALS/1978 - M497A - Dual Master Module (2).pdf
+1978 - M497A - Dual Master Module (2),M497A,C6,Cap acitor,4.7 pF,Phil i ps,2222-638-09478,Modules/SUMMING/M497A/MANUALS/1978 - M497A - Dual Master Module (2).pdf
+1978 - M497A - Dual Master Module (2),M497A,R5,Re s i stor 1/ 4W 5% 30 K,P h i li p s,,,Modules/SUMMING/M497A/MANUALS/1978 - M497A - Dual Master Module (2).pdf
+1978 - M497A - Dual Master Module (2),M497A,R15,Res is tor 1/4W 5% 9K l,P h i l ips,,,Modules/SUMMING/M497A/MANUALS/1978 - M497A - Dual Master Module (2).pdf
+1978 - M497A - Dual Master Module (2),M497A,C6,Capac i t or,4 .7 p F,Ph il i ps,2222- 638 -09478,Modules/SUMMING/M497A/MANUALS/1978 - M497A - Dual Master Module (2).pdf
+1978 - M497A - Dual Master Module (2),M497A,R15,Res i s t or 1/ 4 W 5% 240,,,,Modules/SUMMING/M497A/MANUALS/1978 - M497A - Dual Master Module (2).pdf
+1978 - M497C - Dual Master Module (2),M497C,C6,Cap acitor,4.7 pF,Phil i ps,2222-638-09478,Modules/SUMMING/M497C/MANUALS/1978 - M497C - Dual Master Module (2).pdf
+1978 - M497C - Dual Master Module (2),M497C,R5,Re s i stor 1/ 4W 5% 30 K,P h i li p s,,,Modules/SUMMING/M497C/MANUALS/1978 - M497C - Dual Master Module (2).pdf
+1978 - M497C - Dual Master Module (2),M497C,R15,Res is tor 1/4W 5% 9K l,P h i l ips,,,Modules/SUMMING/M497C/MANUALS/1978 - M497C - Dual Master Module (2).pdf
+1978 - M497C - Dual Master Module (2),M497C,C6,Capac i t or,4 .7 p F,Ph il i ps,2222- 638 -09478,Modules/SUMMING/M497C/MANUALS/1978 - M497C - Dual Master Module (2).pdf
+1978 - M497C - Dual Master Module (2),M497C,R15,Res i s t or 1/ 4 W 5% 240,,,,Modules/SUMMING/M497C/MANUALS/1978 - M497C - Dual Master Module (2).pdf
+1978 - M497D - Dual Master Module (2),M497D,C6,Cap acitor,4.7 pF,Phil i ps,2222-638-09478,Modules/SUMMING/M497D/MANUALS/1978 - M497D - Dual Master Module (2).pdf
+1978 - M497D - Dual Master Module (2),M497D,R5,Re s i stor 1/ 4W 5% 30 K,P h i li p s,,,Modules/SUMMING/M497D/MANUALS/1978 - M497D - Dual Master Module (2).pdf
+1978 - M497D - Dual Master Module (2),M497D,R15,Res is tor 1/4W 5% 9K l,P h i l ips,,,Modules/SUMMING/M497D/MANUALS/1978 - M497D - Dual Master Module (2).pdf
+1978 - M497D - Dual Master Module (2),M497D,C6,Capac i t or,4 .7 p F,Ph il i ps,2222- 638 -09478,Modules/SUMMING/M497D/MANUALS/1978 - M497D - Dual Master Module (2).pdf
+1978 - M497D - Dual Master Module (2),M497D,R15,Res i s t or 1/ 4 W 5% 240,,,,Modules/SUMMING/M497D/MANUALS/1978 - M497D - Dual Master Module (2).pdf
+1978 - M612 - Audio DA,M612,CR13,Br idge Rec tifi er,EOI,PD4D·7636,,Modules/AMPLIFIERS/M612/MANUALS/1978 - M612 - Audio DA.pdf
+1978 - M612 - Audio DA,M612,D51,Ne on Lamp,Alco,BNF-2,,Modules/AMPLIFIERS/M612/MANUALS/1978 - M612 - Audio DA.pdf
+1978 - M612 - Audio DA,M612,Q9,Fa fr chfld,2N3569,,,Modules/AMPLIFIERS/M612/MANUALS/1978 - M612 - Audio DA.pdf
+1978 - M612 - Audio DA,M612,Q12,Fa 1rchfl d,1N3645,,,Modules/AMPLIFIERS/M612/MANUALS/1978 - M612 - Audio DA.pdf
+1979 - M460A - Input Module,M460A,R33,Res i ~ t or %W 51 4 70 k,Ph I! 1 ps,,,Modules/INPUT-PRE-AMPS/M460A/MANUALS/1979 - M460A - Input Module.pdf
+1979 - M460A - Input Module,M460A,R43,Resisto r 1/8'1 51 620,,,,Modules/INPUT-PRE-AMPS/M460A/MANUALS/1979 - M460A - Input Module.pdf
+1979 - M460A - Input Module,M460A,RA5,(Delete),,,,Modules/INPUT-PRE-AMPS/M460A/MANUALS/1979 - M460A - Input Module.pdf
+1979 - M460A - Input Module,M460A,R54,( Oelete),,,,Modules/INPUT-PRE-AMPS/M460A/MANUALS/1979 - M460A - Input Module.pdf
+1979 - M477 - Master Module (2),M477,R1,Resisto r,W 51,15K,Ph fT ips,Modules/SUMMING/M477/MANUALS/1979 - M477 - Master Module (2).pdf
+1979 - M477 - Master Module (2),M477,R8,Res is to r '<lW 5%,,,,Modules/SUMMING/M477/MANUALS/1979 - M477 - Master Module (2).pdf
+1979 - M477 - Master Module (2),M477,R42,del e t e,,,,Modules/SUMMING/M477/MANUALS/1979 - M477 - Master Module (2).pdf
+1983 - M460M - Input Module,M460M,C1,C lp l~l tor,6 .8 uF/6V,Keaet,"13 90 86 85""006A5",Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf
+1983 - M460M - Input Module,M460M,C3,delete,,,,Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf
+1983 - M460M - Input Module,M460M,C17,delete,,,,Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf
+1983 - M460M - Input Module,M460M,C21,Cap a~ i to r,6.8 uF/6 V,Kelllet,T390B685H 006A5,Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf
+1983 - M460M - Input Module,M460M,C36,delete,,,,Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf
+1983 - M460M - Input Module,M460M,C37,Clp a~ i tor,6.8 uF/6 y,xeee t,T390 B685H006A5,Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf
+1983 - M460M - Input Module,M460M,C39,delete,,,,Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf
+1983 - M460M - Input Module,M460M,C45,Capaclt o r,68 uF/ 6 V,Kemet,TJ 900686MOO 6A5,Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf
+1983 - M460M - Input Module,M460M,C48,delete,,,,Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf
+1983 - M460M - Input Module,M460M,C49,Capa~ lt o r,1 u~/3S V,K e~et,T39081 O~ M O J 5 A5,Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf
+1983 - M460M - Input Module,M460M,R22,dele te,,,,Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf
+1983 - M460M - Input Module,M460M,R23,Resisto~ ~W,5%,6K2,,Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf
+1983 - M460M - Input Module,M460M,R25,delete,,,,Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf
+1983 - M460M - Input Module,M460M,R37,delete,,,,Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf
+1983 - M460M - Input Module,M460M,R38,"Res isto~ ~ w 5""",10K,Phi!ips,,Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf
+1983 - M460M - Input Module,M460M,R43,eac,,,,Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf
+1983 - M460M - Input Module,M460M,R46,delete,,,,Modules/INPUT-PRE-AMPS/M460M/MANUALS/1983 - M460M - Input Module.pdf
+1983 - M490F - Stereo Input Module,M490F,C36,C apa~ I tor,1 ufl3S V,Kemet,T3 90BI OSM0 3 5AS,Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf
+1983 - M490F - Stereo Input Module,M490F,C45,delete,,,,Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf
+1983 - M490F - Stereo Input Module,M490F,CR5,Falrc hfld,1N4 14 8,,,Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf
+1983 - M490F - Stereo Input Module,M490F,CR9,delete,,,,Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf
+1983 - M490F - Stereo Input Module,M490F,CR15,Mot orola,1N40 0 3,,,Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf
+1983 - M490F - Stereo Input Module,M490F,M490F,STEREO INPUT MO DULE,,,,Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf
+1983 - M490F - Stereo Input Module,M490F,R87,l OOK,,,,Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf
+1983 - M490F - Stereo Input Module,M490F,R116,l OOK,,,,Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf
+1983 - M497B - Dual Master Module (2),M497B,C6,Cap acitor,4.7 pF,Phil i ps,2222-638-09478,Modules/SUMMING/M497B/MANUALS/1983 - M497B - Dual Master Module (2).pdf
+1983 - M497B - Dual Master Module (2),M497B,R5,Re s i stor 1/ 4W 5% 30 K,P h i li p s,,,Modules/SUMMING/M497B/MANUALS/1983 - M497B - Dual Master Module (2).pdf
+1983 - M497B - Dual Master Module (2),M497B,R15,Res is tor 1/4W 5% 9K l,P h i l ips,,,Modules/SUMMING/M497B/MANUALS/1983 - M497B - Dual Master Module (2).pdf
+1983 - M497B - Dual Master Module (2),M497B,C6,Capac i t or,4 .7 p F,Ph il i ps,2222- 638 -09478,Modules/SUMMING/M497B/MANUALS/1983 - M497B - Dual Master Module (2).pdf
+1983 - M497B - Dual Master Module (2),M497B,R15,Res i s t or 1/ 4 W 5% 240,,,,Modules/SUMMING/M497B/MANUALS/1983 - M497B - Dual Master Module (2).pdf
+1984 - M473B - Stereo Submaster (2),M473B,R1,Re sistor 1/4W 5%,620,Ph i l ips,,Modules/SUMMING/M473B/MANUALS/1984 - M473B - Stereo Submaster (2).pdf
+1984 - M473B - Stereo Submaster (2),M473B,R7,Res i stor 1/ 4W 5%,390,Ph il i ps,,Modules/SUMMING/M473B/MANUALS/1984 - M473B - Stereo Submaster (2).pdf
+1984 - M473B - Stereo Submaster (2),M473B,R12,dele te,,,,Modules/SUMMING/M473B/MANUALS/1984 - M473B - Stereo Submaster (2).pdf
+1984 - M473B - Stereo Submaster (2),M473B,SW2,WBS 11- 0 11,,,,Modules/SUMMING/M473B/MANUALS/1984 - M473B - Stereo Submaster (2).pdf
+1984 - M473B - Stereo Submaster (2),M473B,SW2,"P.B.Cap,",Black,FG-BLACK,,Modules/SUMMING/M473B/MANUALS/1984 - M473B - Stereo Submaster (2).pdf
+1984 - M473B - Stereo Submaster (2),M473B,SW3,Barndoor,,,,Modules/SUMMING/M473B/MANUALS/1984 - M473B - Stereo Submaster (2).pdf
+1984 - M473B - Stereo Submaster (2),M473B,SW4,Barndoor,,,,Modules/SUMMING/M473B/MANUALS/1984 - M473B - Stereo Submaster (2).pdf
+1984 - M473B - Stereo Submaster (2),M473B,SW5,"P.B. Cap,",Red,FG-RED,,Modules/SUMMING/M473B/MANUALS/1984 - M473B - Stereo Submaster (2).pdf
+1986 - M463AB - Submaster Module (2),M463AB,R6,Res istor 1/4W 5% 6K2,Ph il ips,,,Modules/SUMMING/M463AB/MANUALS/1986 - M463AB - Submaster Module (2).pdf
+1986 - M463AB - Submaster Module (2),M463AB,R15,delete,,,,Modules/SUMMING/M463AB/MANUALS/1986 - M463AB - Submaster Module (2).pdf
+1986 - M463AB - Submaster Module (2),M463AB,R27,470 nom.,factory selected,,,Modules/SUMMING/M463AB/MANUALS/1986 - M463AB - Submaster Module (2).pdf
+1986 - M463AB - Submaster Module (2),M463AB,R30,Res is tor 1/2W 5% 6.8,It,,,Modules/SUMMING/M463AB/MANUALS/1986 - M463AB - Submaster Module (2).pdf
+1986 - M463AB - Submaster Module (2),M463AB,R38,delete,,,,Modules/SUMMING/M463AB/MANUALS/1986 - M463AB - Submaster Module (2).pdf
+1986 - M463AB - Submaster Module (2),M463AB,C6,Capa c i tor,4 .7 pF,Ph ilips,222 2- 6 38 - 09478,Modules/SUMMING/M463AB/MANUALS/1986 - M463AB - Submaster Module (2).pdf
+1986 - M463AB - Submaster Module (2),M463AB,R5,Resistor 1/4W 5% 30K,Ph il ips,,,Modules/SUMMING/M463AB/MANUALS/1986 - M463AB - Submaster Module (2).pdf
+1986 - M463AB - Submaster Module (2),M463AB,R15,Res istor 1/4W 5% 9Kl,Phi l ips,,,Modules/SUMMING/M463AB/MANUALS/1986 - M463AB - Submaster Module (2).pdf
+1986 - M463AB - Submaster Module (2),M463AB,C6,Capac i t or,4 . 7 pF,Ph il ips,2222 - 63 8- 094 78,Modules/SUMMING/M463AB/MANUALS/1986 - M463AB - Submaster Module (2).pdf
+1986 - M463AB - Submaster Module (2),M463AB,C6,Capacitor,4.7 pF,Philips,2222-638-09478,Modules/SUMMING/M463AB/MANUALS/1986 - M463AB - Submaster Module (2).pdf
+1986 - M463AB - Submaster Module (2),M463AB,R5,Resistor 1/4W 5% 4K7,Philips,,,Modules/SUMMING/M463AB/MANUALS/1986 - M463AB - Submaster Module (2).pdf
+1986 - M463AC - Master Module (2),M463AC,C6,Cap acitor,4.7 pF,Phil i ps,2222-638-09478,Modules/SUMMING/M463AC/MANUALS/1986 - M463AC - Master Module (2).pdf
+1986 - M463AC - Master Module (2),M463AC,R5,Re s i stor 1/ 4W 5% 30 K,P h i li p s,,,Modules/SUMMING/M463AC/MANUALS/1986 - M463AC - Master Module (2).pdf
+1986 - M463AC - Master Module (2),M463AC,R15,Res is tor 1/4W 5% 9K l,P h i l ips,,,Modules/SUMMING/M463AC/MANUALS/1986 - M463AC - Master Module (2).pdf
+1986 - M463AC - Master Module (2),M463AC,C6,Capac i t or,4 .7 p F,Ph il i ps,2222- 638 -09478,Modules/SUMMING/M463AC/MANUALS/1986 - M463AC - Master Module (2).pdf
+1986 - M463AC - Master Module (2),M463AC,R15,Res i s t or 1/ 4 W 5% 240,,,,Modules/SUMMING/M463AC/MANUALS/1986 - M463AC - Master Module (2).pdf
 3-102,M416,C2,pEd 10v Ceramic Philips 2222 638,6 . 8,,09688,c5c1af4bca590dd051bf16af82672eda5993307bed7fd39a617bb3f52e51668e#1
 3-102,M416,C3,mfd 20V Tantalum Dickson D47GSC 20M,47,,,c5c1af4bca590dd051bf16af82672eda5993307bed7fd39a617bb3f52e51668e#1
 3-102,M416,C4,6.8 pfd 10Ov Ceramic Philips 638,2222,,09688,c5c1af4bca590dd051bf16af82672eda5993307bed7fd39a617bb3f52e51668e#1
