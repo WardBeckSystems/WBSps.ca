@@ -1,0 +1,158 @@
+---
+type: "console series"
+title: "Renaissance"
+category: "CONSOLE"
+year: 1994
+tags: ["console series", "console", "radio"]
+---
+
+# Renaissance — Stereo Radio Audio Console
+
+[← Consoles & jobs](Consoles.md)
+
+|  |  |
+|---|---|
+| Type | console series |
+| Maker | Ward-Beck Systems Ltd., 841 Progress Avenue, Scarborough, Ontario |
+| Dated evidence | [1994\|27](Year-1994.md), [1997\|30](Year-1997.md), [2010\|43](Year-2010.md) |
+| After it | [R2K](Series-R2K.md) |
+| Folder | [Renaisance](../2026/Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/) |
+| Folder | [Renaisance Console](../2026/Consoles/Models/R%20series%20%28Renaissance%29/Renaisance%20Console/) |
+| Folder | [WBS renaisance console](../2026/Consoles/Models/R%20series%20%28Renaissance%29/WBS%20renaisance%20console/) |
+| Files | 51 |
+
+## The series
+
+The Renaissance is Ward-Beck Systems' standard stereo radio audio console of the 1990s, built from the M900 series of modules in a desk-top frame with a meter bridge. It came in three standard sizes, MKI, MKII and MKIII, each with its own control panel (CPMK I, II, III); each standard console shipped with a test result, a module list, the product manuals of its modules and its system drawings.
+
+Its mixing buses (from the console summing-bus drawing): MUSIC and VOICE program, MIX, CUE, AUX, with inserts and metering. Custom consoles were drawn from it under job numbers 940238 and 940444 (1994).
+
+It was followed by the [R2K](Series-R2K.md) (the "Renaissance R2K Audio Console") and the [R2K Cool Grey](Series-R2K-Cool-Grey.md). The earlier R series of 1990 (R1400, R2200, R2400) is on the [R1400](R1400.md) page.
+
+## Dated evidence
+
+| Year | Evidence |
+|---|---|
+| [1994\|27](Year-1994.md) | drawing numbers 940238-02-070, 940238-02-080, 940444-02-100, 940444-02-200: the Renaissance module schematics (job numbers, first two digits the year) |
+| [1997\|30](Year-1997.md) | MKI, MKII and MKIII manuals: every system drawing (MKIL03 … MKIIIL33) issue 1/97 |
+| [2010\|43](Year-2010.md) | screen shots of the Renaissance console, 2010-03-25 |
+
+_File names in the archive start with 1994 for the whole R series folder; the dates above are read from the files themselves._
+
+## Sizes
+
+| Mark | Width | Desk cutout width | Control panel |
+|---|---|---|---|
+| MKI | 25.75 in (654 mm) | 24-5/8 in | CPMK I |
+| MKII | 37.75 in (959 mm) | 36-5/8 in | CPMK II |
+| MKIII | 49.75 in (1264 mm) | 48-5/8 in | CPMK III |
+
+All three: 7.50 in (190 mm) above the desk, 17.20 in (437 mm) total height, 24.85 in (631 mm) deep; desk cutout 22-3/16 in deep (tolerance −0.0 / +1/16 in).
+
+## Modules
+
+_From the "List of separately supplied standard product manuals" in the MKI and MKIII manuals._
+
+| Module | What it is |
+|---|---|
+| [M901A](M901A.md) | Input Module |
+| [M901B](M901B.md) | Mic Input Module |
+| [M901C](M901C.md) | Stereo Line Input Module |
+| [M901D](M901D.md) | Stereo Input Module |
+| M901E | Stereo Input Module |
+| [M905A](M905A.md) | Control Room Monitor Module |
+| [M905B](M905B.md) | Studio Monitor Module |
+| [M907](M907.md) | Summing / Program Output Amplifier Module |
+| [M908](M908.md) | Dual 10×1 Stereo Selector Module |
+| [M909](M909.md) | Meter Mix / Minus Module |
+| [M922](M922.md) | Stereo Equalizer Module |
+| M922A | Mono Equalizer Module |
+| M924B | Power Supply |
+| TMR-IR | Timer |
+| CLK-IR | Clock |
+| CPMK | Control Panel (CPMK I / II / III) |
+
+## Specifications
+
+_"Renaissance Stereo Radio Consoles — Technical Specifications", MKI manual pp. 59–60._
+
+|  |  |
+|---|---|
+| Mic inputs | 150 Ω source; input impedance greater than 1500 Ω balanced; sensitivity −60 to −30 dBm, continuously variable; 23 dB headroom |
+| Line inputs | 600 Ω or less source; input impedance greater than 20 kΩ balanced; sensitivity −10 to +10 dBu, continuously variable; 23 dB headroom |
+| Program outputs | 60 Ω balanced, into 600 Ω or greater; +4 dBu nominal, +27 dBm maximum |
+| Monitor outputs | 60 Ω balanced, into 600 Ω or greater; +20 dBu maximum |
+| Frequency response | ±0.25 dB 30 Hz – 15 kHz; ±0.5 dB 20 Hz – 20 kHz |
+| Distortion (THD) | line channels less than 0.07 %, mic channels less than 0.2 %, 20 Hz – 20 kHz at +14 dBu |
+| Noise | mic EIN lower than −125 dBm; high level S/N greater than 85 dB below +14 dBu, 20 Hz – 20 kHz |
+| Crosstalk / separation | greater than 75 dB / left-right greater than 60 dB |
+| Power | 85–264 V ac, 47–63 Hz |
+
+## Photos (14)
+
+<div class="thumbs">
+<a href="https://drive.google.com/file/d/0B0yR0b5T78SKNTJOUjZ6cUtNOVk/view?resourcekey=0-fGaVDUCdBh79_zh71Jq09g"><img loading="lazy" src="https://drive.google.com/thumbnail?sz=w480&amp;id=0B0yR0b5T78SKNTJOUjZ6cUtNOVk&amp;resourcekey=0-fGaVDUCdBh79_zh71Jq09g" alt="Screen shot 2010-03-25 at 9.20.22 AM" data-f="Consoles/Models/R series (Renaissance)/Renaisance Console/1994 - Renaisance Console - Screen shot 2010-03-25 at 9.20.22 AM.png" data-size="320" onerror="wbsOff(this)">Screen shot 2010-03-25 at 9.20.22 AM</a>
+<a href="https://drive.google.com/file/d/0B0yR0b5T78SKWDB6Y090SzgzRzA/view?resourcekey=0-QVQfw0L-aPYaujY9cOx_QQ"><img loading="lazy" src="https://drive.google.com/thumbnail?sz=w480&amp;id=0B0yR0b5T78SKWDB6Y090SzgzRzA&amp;resourcekey=0-QVQfw0L-aPYaujY9cOx_QQ" alt="Screen shot 2010-03-25 at 9.20.30 AM" data-f="Consoles/Models/R series (Renaissance)/Renaisance Console/1994 - Renaisance Console - Screen shot 2010-03-25 at 9.20.30 AM.png" data-size="320" onerror="wbsOff(this)">Screen shot 2010-03-25 at 9.20.30 AM</a>
+<a href="https://drive.google.com/file/d/0B0yR0b5T78SKaXFITmxERTFTYTA/view?resourcekey=0-EKy7LPITMFIjrKPhzehmOQ"><img loading="lazy" src="https://drive.google.com/thumbnail?sz=w480&amp;id=0B0yR0b5T78SKaXFITmxERTFTYTA&amp;resourcekey=0-EKy7LPITMFIjrKPhzehmOQ" alt="Screen shot 2010-03-25 at 9.20.41 AM" data-f="Consoles/Models/R series (Renaissance)/Renaisance Console/1994 - Renaisance Console - Screen shot 2010-03-25 at 9.20.41 AM.png" data-size="320" onerror="wbsOff(this)">Screen shot 2010-03-25 at 9.20.41 AM</a>
+<a href="https://drive.google.com/file/d/0B0yR0b5T78SKN000S0p0MDdjTzQ/view?resourcekey=0-a_r4qKLfb8xI9rIyVwOn9Q"><img loading="lazy" src="https://drive.google.com/thumbnail?sz=w480&amp;id=0B0yR0b5T78SKN000S0p0MDdjTzQ&amp;resourcekey=0-a_r4qKLfb8xI9rIyVwOn9Q" alt="Screen shot 2010-03-25 at 9.20.48 AM" data-f="Consoles/Models/R series (Renaissance)/Renaisance Console/1994 - Renaisance Console - Screen shot 2010-03-25 at 9.20.48 AM.png" data-size="320" onerror="wbsOff(this)">Screen shot 2010-03-25 at 9.20.48 AM</a>
+<a href="https://drive.google.com/file/d/0B0yR0b5T78SKamtQdVlZUlJJRWs/view?resourcekey=0-h6Y5pFP5sHyQWhRW1GkicQ"><img loading="lazy" src="https://drive.google.com/thumbnail?sz=w480&amp;id=0B0yR0b5T78SKamtQdVlZUlJJRWs&amp;resourcekey=0-h6Y5pFP5sHyQWhRW1GkicQ" alt="Screen shot 2010-03-25 at 9.20.56 AM" data-f="Consoles/Models/R series (Renaissance)/Renaisance Console/1994 - Renaisance Console - Screen shot 2010-03-25 at 9.20.56 AM.png" data-size="320" onerror="wbsOff(this)">Screen shot 2010-03-25 at 9.20.56 AM</a>
+<a href="https://drive.google.com/file/d/0B0yR0b5T78SKSFdtSll5bkh6N2s/view?resourcekey=0-JhBeTUhjW0wZKN_oVPAwgQ"><img loading="lazy" src="https://drive.google.com/thumbnail?sz=w480&amp;id=0B0yR0b5T78SKSFdtSll5bkh6N2s&amp;resourcekey=0-JhBeTUhjW0wZKN_oVPAwgQ" alt="Picture 1" data-f="Consoles/Models/R series (Renaissance)/WBS renaisance console/1994 - WBS renaisance console - Picture 1.png" data-size="320" onerror="wbsOff(this)">Picture 1</a>
+<a href="https://drive.google.com/file/d/0B0yR0b5T78SKdVpsX3NJaENLQkE/view?resourcekey=0-WVBZl_B2BZ1Lm6ryLpBUaw"><img loading="lazy" src="https://drive.google.com/thumbnail?sz=w480&amp;id=0B0yR0b5T78SKdVpsX3NJaENLQkE&amp;resourcekey=0-WVBZl_B2BZ1Lm6ryLpBUaw" alt="Picture 2" data-f="Consoles/Models/R series (Renaissance)/WBS renaisance console/1994 - WBS renaisance console - Picture 2.png" data-size="320" onerror="wbsOff(this)">Picture 2</a>
+<a href="https://drive.google.com/file/d/0B0yR0b5T78SKQjUwQTJkZGJrM1k/view?resourcekey=0-zS0yK8s3HNVY_qNuonCArw"><img loading="lazy" src="https://drive.google.com/thumbnail?sz=w480&amp;id=0B0yR0b5T78SKQjUwQTJkZGJrM1k&amp;resourcekey=0-zS0yK8s3HNVY_qNuonCArw" alt="Picture 3" data-f="Consoles/Models/R series (Renaissance)/WBS renaisance console/1994 - WBS renaisance console - Picture 3.png" data-size="320" onerror="wbsOff(this)">Picture 3</a>
+<a href="https://drive.google.com/file/d/0B0yR0b5T78SKVEF6aXdTX3RibDQ/view?resourcekey=0-QBvGJDzV8oE3Bxhp0MuLpw"><img loading="lazy" src="https://drive.google.com/thumbnail?sz=w480&amp;id=0B0yR0b5T78SKVEF6aXdTX3RibDQ&amp;resourcekey=0-QBvGJDzV8oE3Bxhp0MuLpw" alt="Picture 4" data-f="Consoles/Models/R series (Renaissance)/WBS renaisance console/1994 - WBS renaisance console - Picture 4.png" data-size="320" onerror="wbsOff(this)">Picture 4</a>
+<a href="https://drive.google.com/file/d/0B0yR0b5T78SKa3BrUXRKZFRVY0E/view?resourcekey=0-qx_2uwA9yTJXddAdCRbfdw"><img loading="lazy" src="https://drive.google.com/thumbnail?sz=w480&amp;id=0B0yR0b5T78SKa3BrUXRKZFRVY0E&amp;resourcekey=0-qx_2uwA9yTJXddAdCRbfdw" alt="Picture 5" data-f="Consoles/Models/R series (Renaissance)/WBS renaisance console/1994 - WBS renaisance console - Picture 5.png" data-size="320" onerror="wbsOff(this)">Picture 5</a>
+<a href="https://drive.google.com/file/d/0B0yR0b5T78SKWGZwLVkzaTVhYlE/view?resourcekey=0-XzSNVXG50T3-OzGrWDy7vQ"><img loading="lazy" src="https://drive.google.com/thumbnail?sz=w480&amp;id=0B0yR0b5T78SKWGZwLVkzaTVhYlE&amp;resourcekey=0-XzSNVXG50T3-OzGrWDy7vQ" alt="Picture 6" data-f="Consoles/Models/R series (Renaissance)/WBS renaisance console/1994 - WBS renaisance console - Picture 6.png" data-size="320" onerror="wbsOff(this)">Picture 6</a>
+<a href="https://drive.google.com/file/d/0B0yR0b5T78SKQkI3ZjNpOUVWZ2c/view?resourcekey=0-TPzenZFcNzP1s0tYf--O8Q"><img loading="lazy" src="https://drive.google.com/thumbnail?sz=w480&amp;id=0B0yR0b5T78SKQkI3ZjNpOUVWZ2c&amp;resourcekey=0-TPzenZFcNzP1s0tYf--O8Q" alt="Picture 7" data-f="Consoles/Models/R series (Renaissance)/WBS renaisance console/1994 - WBS renaisance console - Picture 7.png" data-size="320" onerror="wbsOff(this)">Picture 7</a>
+<a href="https://drive.google.com/file/d/0B0yR0b5T78SKNjVQYTMzWmpRaEk/view?resourcekey=0-pFtkZf1OE5QgAKhTFLEMUw"><img loading="lazy" src="https://drive.google.com/thumbnail?sz=w480&amp;id=0B0yR0b5T78SKNjVQYTMzWmpRaEk&amp;resourcekey=0-pFtkZf1OE5QgAKhTFLEMUw" alt="Picture 8" data-f="Consoles/Models/R series (Renaissance)/WBS renaisance console/1994 - WBS renaisance console - Picture 8.png" data-size="320" onerror="wbsOff(this)">Picture 8</a>
+<a href="https://drive.google.com/file/d/0B0yR0b5T78SKZk5DZTlXc1A3OVE/view?resourcekey=0-1M0BveD2Za9rOHvecgPYYQ"><img loading="lazy" src="https://drive.google.com/thumbnail?sz=w480&amp;id=0B0yR0b5T78SKZk5DZTlXc1A3OVE&amp;resourcekey=0-1M0BveD2Za9rOHvecgPYYQ" alt="Picture 9" data-f="Consoles/Models/R series (Renaissance)/WBS renaisance console/1994 - WBS renaisance console - Picture 9.png" data-size="320" onerror="wbsOff(this)">Picture 9</a>
+</div>
+
+## Manuals and documents (3)
+
+| File | Google Drive | Note |
+|---|---|---|
+| [MKI](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20MKI.pdf) | [open](https://drive.google.com/file/d/1MDRNsebWOAFBzRwLN5aT6z6hKpjmY0mp/view) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20MKI.pdf.md) |
+| [MKII](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20MKII.pdf) | [open](https://drive.google.com/file/d/1OYVLCxpJtvD9ZHqhPGo2s2Xj5CqbFgV7/view) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20MKII.pdf.md) |
+| [MKIII](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20MKIII.pdf) | [open](https://drive.google.com/file/d/1PjCoUyvKuTA5ra3ewh80iV8IPyEFbhzu/view) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20MKIII.pdf.md) |
+
+## Drawings (34)
+
+| File | Google Drive | Note |
+|---|---|---|
+| [14-268-02-001 - METERILLUMINA TION ASSEMBLY SCHEMATIC](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%2014-268-02-001%20-%20METERILLUMINA%20TION%20ASSEMBLY%20SCHEMATIC.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKSVozcUJ0S3lKREk/view?resourcekey=0-Ob5tLY1B6TmqFhOYxllMGg) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%2014-268-02-001%20-%20METERILLUMINA%20TION%20ASSEMBLY%20SCHEMATIC.jpg.md) |
+| [14-295-02-001 - OPTO-ISOLATOR ASSEMBLY SCHEMA TIC](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%2014-295-02-001%20-%20OPTO-ISOLATOR%20ASSEMBLY%20SCHEMA%20TIC.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKUzR0Y1VNV0tjaTA/view?resourcekey=0-5EQGcRHaF4kxinHsL_aI5A) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%2014-295-02-001%20-%20OPTO-ISOLATOR%20ASSEMBLY%20SCHEMA%20TIC.jpg.md) |
+| [14-295-06-001 - OPTO-ISOLATOR ASSEMBLY COMPONENT LAYOUT](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%2014-295-06-001%20-%20OPTO-ISOLATOR%20ASSEMBLY%20COMPONENT%20LAYOUT.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKZVlGOUIyZ3RPVXc/view?resourcekey=0-eS2jdD5FVaaCAUCsiu9K0Q) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%2014-295-06-001%20-%20OPTO-ISOLATOR%20ASSEMBLY%20COMPONENT%20LAYOUT.jpg.md) |
+| [8905-02-001 - CONTROL ROOM MONITOR MODULE SCHEMATIC](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%208905-02-001%20-%20CONTROL%20ROOM%20MONITOR%20MODULE%20SCHEMATIC.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKZExfYklyM1d4Z2c/view?resourcekey=0-IhkwwVHw_Srwz8kh5uYTmQ) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%208905-02-001%20-%20CONTROL%20ROOM%20MONITOR%20MODULE%20SCHEMATIC.jpg.md) |
+| [906-02-001 - CONTROL ROOM MONITOR MODULE SCHEMATIC](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20906-02-001%20-%20CONTROL%20ROOM%20MONITOR%20MODULE%20SCHEMATIC.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKbzh6aEl0VFpCS00/view?resourcekey=0-8P46RjOvBbUwsi4d_gdlhg) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20906-02-001%20-%20CONTROL%20ROOM%20MONITOR%20MODULE%20SCHEMATIC.jpg.md) |
+| [940238-02-070 - CONTROL ROOM MONITOR MODULE SCHEMA TIC](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940238-02-070%20-%20CONTROL%20ROOM%20MONITOR%20MODULE%20SCHEMA%20TIC.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKVVBwd2NrNFhIcEk/view?resourcekey=0-1nGHRsK12ilBIBnm9CKj0g) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940238-02-070%20-%20CONTROL%20ROOM%20MONITOR%20MODULE%20SCHEMA%20TIC.jpg.md) |
+| [940238-02-070 - CONTROL ROOM MONITOR MODULE SCHEMATIC (2)](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940238-02-070%20-%20CONTROL%20ROOM%20MONITOR%20MODULE%20SCHEMATIC%20%282%29.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKNFdWV3YzaGthQ3c/view?resourcekey=0-w0ORMVdoBRZFygJQjjAjfg) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940238-02-070%20-%20CONTROL%20ROOM%20MONITOR%20MODULE%20SCHEMATIC%20%282%29.jpg.md) |
+| [940238-02-070 - CONTROL ROOM MONITOR MODULE SCHEMATIC](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940238-02-070%20-%20CONTROL%20ROOM%20MONITOR%20MODULE%20SCHEMATIC.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKbEk1MHRBVFZ3Um8/view?resourcekey=0-UbbguyG4ogN0Om4sWaiXyw) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940238-02-070%20-%20CONTROL%20ROOM%20MONITOR%20MODULE%20SCHEMATIC.jpg.md) |
+| [940238-02-070 - MIOSNW CONTROL ROOM MONITOR MODULE SCHEMATIC (2)](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940238-02-070%20-%20MIOSNW%20CONTROL%20ROOM%20MONITOR%20MODULE%20SCHEMATIC%20%282%29.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKNVlUZHkza0Jhb1E/view?resourcekey=0--uOXmWwFIdhUqGpazXe83Q) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940238-02-070%20-%20MIOSNW%20CONTROL%20ROOM%20MONITOR%20MODULE%20SCHEMATIC%20%282%29.jpg.md) |
+| [940238-02-070 - MIOSNW CONTROL ROOM MONITOR MODULE SCHEMATIC](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940238-02-070%20-%20MIOSNW%20CONTROL%20ROOM%20MONITOR%20MODULE%20SCHEMATIC.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKYnJ6eGM5RFV2WjQ/view?resourcekey=0-DzxKyqDuooKZNFnexX3wKw) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940238-02-070%20-%20MIOSNW%20CONTROL%20ROOM%20MONITOR%20MODULE%20SCHEMATIC.jpg.md) |
+| [940238-02-080 - METER-MIX MINUS MODULE SCHEMATIC](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940238-02-080%20-%20METER-MIX%20MINUS%20MODULE%20SCHEMATIC.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKMkd3b05zQjlXOFE/view?resourcekey=0-mN3D4lW1ECz_NboljPMyGw) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940238-02-080%20-%20METER-MIX%20MINUS%20MODULE%20SCHEMATIC.jpg.md) |
+| [940238-02-080 - METER-MIX-MINUS MODULE](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940238-02-080%20-%20METER-MIX-MINUS%20MODULE.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKTS1tZE52M2NXOWs/view?resourcekey=0-IIz9uIkzp_WM9QuJNcjC7A) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940238-02-080%20-%20METER-MIX-MINUS%20MODULE.jpg.md) |
+| [940238-02-080 - MIOINW METER-MIX-MINUS MODULE SCHEMATIC](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940238-02-080%20-%20MIOINW%20METER-MIX-MINUS%20MODULE%20SCHEMATIC.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKcjY2YUtNc0p4NU0/view?resourcekey=0-awumTtTDxkVzqPOuDmUyaA) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940238-02-080%20-%20MIOINW%20METER-MIX-MINUS%20MODULE%20SCHEMATIC.jpg.md) |
+| [940238-04-003 - MIOINW STEREO LINE INPUT MODULE LAYOUT](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940238-04-003%20-%20MIOINW%20STEREO%20LINE%20INPUT%20MODULE%20LAYOUT.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKNy10X1VZWmJwY0k/view?resourcekey=0-47fAojneaXbOPpd77iTlsA) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940238-04-003%20-%20MIOINW%20STEREO%20LINE%20INPUT%20MODULE%20LAYOUT.jpg.md) |
+| [940238-04-004 - MIOSNW CONTROL ROOM MONITOR MODULE LAYOUT (2)](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940238-04-004%20-%20MIOSNW%20CONTROL%20ROOM%20MONITOR%20MODULE%20LAYOUT%20%282%29.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKQ29mWnZNZG5MOE0/view?resourcekey=0-B6EwW0Ric7NqUyo-bBv8XA) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940238-04-004%20-%20MIOSNW%20CONTROL%20ROOM%20MONITOR%20MODULE%20LAYOUT%20%282%29.jpg.md) |
+| [940238-04-004 - MIOSNW CONTROL ROOM MONITOR MODULE LAYOUT](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940238-04-004%20-%20MIOSNW%20CONTROL%20ROOM%20MONITOR%20MODULE%20LAYOUT.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKSmlwZUpFVXdYdTA/view?resourcekey=0-5rKqvFf_pmjlf9FXbKA9pA) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940238-04-004%20-%20MIOSNW%20CONTROL%20ROOM%20MONITOR%20MODULE%20LAYOUT.jpg.md) |
+| [940238-04-005 - JJAW AITIO](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940238-04-005%20-%20JJAW%20AITIO.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKcWF0OFNEbldsUEE/view?resourcekey=0-oLc1WQnY-bkLXP7yXngCDA) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940238-04-005%20-%20JJAW%20AITIO.jpg.md) |
+| [940238-04-005](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940238-04-005.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKanJmSkVVR0NVZTg/view?resourcekey=0-l1_7xzLUEfWjyFzUVdRdvQ) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940238-04-005.jpg.md) |
+| [940444-02-022 - STUDIO MONITOR MODULE SCHEMATIC](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-02-022%20-%20STUDIO%20MONITOR%20MODULE%20SCHEMATIC.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKRjhuXzB4UVowQmM/view?resourcekey=0-Bswr-PHreeKYzSBPnwdHaw) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-02-022%20-%20STUDIO%20MONITOR%20MODULE%20SCHEMATIC.jpg.md) |
+| [940444-02-022 - STUDIO MONITOR MODULE](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-02-022%20-%20STUDIO%20MONITOR%20MODULE.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKWVhNM3cyNGpHOU0/view?resourcekey=0-MqE3sogNCucpf0LSV8jtwQ) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-02-022%20-%20STUDIO%20MONITOR%20MODULE.jpg.md) |
+| [940444-02-023 - CONTROL ROOM MONITOR MODULE SCHEMATIC (2)](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-02-023%20-%20CONTROL%20ROOM%20MONITOR%20MODULE%20SCHEMATIC%20%282%29.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKSkU3bnh0NkJwTGs/view?resourcekey=0-AceT4W_x8vaUVjN23-xuQA) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-02-023%20-%20CONTROL%20ROOM%20MONITOR%20MODULE%20SCHEMATIC%20%282%29.jpg.md) |
+| [940444-02-023 - CONTROL ROOM MONITOR MODULE SCHEMATIC](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-02-023%20-%20CONTROL%20ROOM%20MONITOR%20MODULE%20SCHEMATIC.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKWmhVeElVRXdNblE/view?resourcekey=0-jsgDTRJeTdZLe6r8io8I7A) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-02-023%20-%20CONTROL%20ROOM%20MONITOR%20MODULE%20SCHEMATIC.jpg.md) |
+| [940444-02-100 - FROU DRAMNG MIC INPUT MODULE](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-02-100%20-%20FROU%20DRAMNG%20MIC%20INPUT%20MODULE.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKTENQTTM4UG1FZFE/view?resourcekey=0-P9VpsU1o6BflaPobWEHBQg) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-02-100%20-%20FROU%20DRAMNG%20MIC%20INPUT%20MODULE.jpg.md) |
+| [940444-02-100 - MIC INPUT MODULE SCHEMA TIC](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-02-100%20-%20MIC%20INPUT%20MODULE%20SCHEMA%20TIC.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKcU0tQUlfYzJaQ0U/view?resourcekey=0-ibHrVQUgSTh6uAUQEyldJg) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-02-100%20-%20MIC%20INPUT%20MODULE%20SCHEMA%20TIC.jpg.md) |
+| [940444-02-100](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-02-100.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKSkRPRE1PTkxjWWM/view?resourcekey=0-0oEy_GkwOI27WUOVXud7bA) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-02-100.jpg.md) |
+| [940444-02-200 - LINE INPUT MODULE SCHEMA TIC](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-02-200%20-%20LINE%20INPUT%20MODULE%20SCHEMA%20TIC.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKOEk2NEw3MEhVVm8/view?resourcekey=0-YMN0TL41EinCfAy1P-tOsw) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-02-200%20-%20LINE%20INPUT%20MODULE%20SCHEMA%20TIC.jpg.md) |
+| [940444-02-200 - LINE INPUT MODULE SCHEMATIC](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-02-200%20-%20LINE%20INPUT%20MODULE%20SCHEMATIC.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKMmlMY3k0SG91QmM/view?resourcekey=0-8Dt9wmNo4nEZTZmAJOc3Tg) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-02-200%20-%20LINE%20INPUT%20MODULE%20SCHEMATIC.jpg.md) |
+| [940444-02-200](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-02-200.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKbW9OdUZxTkdPczA/view?resourcekey=0-OME4jX_AomjrZW1UeVQuZg) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-02-200.jpg.md) |
+| [940444-06-100 - LYJ MOOL LOLD](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-06-100%20-%20LYJ%20MOOL%20LOLD.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKS3draV9JSUJyS0U/view?resourcekey=0-Gf4mdgZAjmK0VH2n1shyQA) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-06-100%20-%20LYJ%20MOOL%20LOLD.jpg.md) |
+| [940444-06-200 - SZ-OLXZ IEA](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-06-200%20-%20SZ-OLXZ%20IEA.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKTzAxWHpieU51X3M/view?resourcekey=0-D68FLjfhJTTDHRkzMncBiQ) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-06-200%20-%20SZ-OLXZ%20IEA.jpg.md) |
+| [940444-06-301 - EED ELZD NEC LACD](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-06-301%20-%20EED%20ELZD%20NEC%20LACD.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKMEMwZjNzcFhkNHM/view?resourcekey=0-hSeVP10Ip51aRCpeHENKWA) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-06-301%20-%20EED%20ELZD%20NEC%20LACD.jpg.md) |
+| [940444-06-302 - STUDIO MONITOR MODULE COMPONENT LAYOUT](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-06-302%20-%20STUDIO%20MONITOR%20MODULE%20COMPONENT%20LAYOUT.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKcUVXdm05NUhiekk/view?resourcekey=0-L9fNUyp2rGuM1SrFuTbA2Q) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940444-06-302%20-%20STUDIO%20MONITOR%20MODULE%20COMPONENT%20LAYOUT.jpg.md) |
+| [940446-02-003](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940446-02-003.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKNXphX0NWbk52bFk/view?resourcekey=0-hisfK84lnA9WV9wu-NYOvA) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940446-02-003.jpg.md) |
+| [940446-06-001 - COSIX SZ-OL ZSZU](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940446-06-001%20-%20COSIX%20SZ-OL%20ZSZU.jpg) | [open](https://drive.google.com/file/d/0B0yR0b5T78SKUUpGVk1UWTcxZ3M/view?resourcekey=0-WlguAfM7DkFQWiFdMTm_eg) | [note](../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/Renaisance/1994%20-%20Renaisance%20-%20940446-06-001%20-%20COSIX%20SZ-OL%20ZSZU.jpg.md) |
+
+---
+Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)

@@ -360,6 +360,14 @@ _Console folders with no job number in their path, dated by their files._
 - [Renaisance](Project-Renaisance.md) — 1994–1994, 55 files
 - [L1202A Console](Project-L1202A-Console.md) — 2001–2001, 92 files
 
+## Console series
+
+| Series | What it is | Files |
+|---|---|---|
+| [Renaissance](Series-Renaissance.md) | Stereo Radio Audio Console | 51 |
+| [R2K](Series-R2K.md) | Renaissance R2K Audio Console | 89 |
+| [R2K Cool Grey](Series-R2K-Cool-Grey.md) | Radio Audio Console | 21 |
+
 ## Console models
 
 | Code | Name | Earliest evidence | Confidence | Files |

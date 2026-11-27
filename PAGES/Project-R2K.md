@@ -9,6 +9,8 @@ tags: ["project", "1990s"]
 
 [← Consoles & projects](Consoles.md)
 
+Console series: [R2K](Series-R2K.md) · [R2K Cool Grey](Series-R2K-Cool-Grey.md)
+
 |  |  |
 |---|---|
 | Years | 1994 (from the dated files in this project) |

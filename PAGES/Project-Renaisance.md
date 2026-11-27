@@ -9,6 +9,8 @@ tags: ["project", "1990s"]
 
 [← Consoles & projects](Consoles.md)
 
+Console series: [Renaissance](Series-Renaissance.md)
+
 |  |  |
 |---|---|
 | Years | 1994 (from the dated files in this project) |

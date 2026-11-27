@@ -1,0 +1,296 @@
+<!doctype html><html data-skin="wiki" lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>R2K Cool Grey — Radio Audio Console</title><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&display=swap"><script src="../_catalog/drive_lookup.js"></script><style>
+:root { --desk:#2b2a27; --paper:#fbfaf4; --ink:#1f1e1c; --faint:#6d6a63; --rule:#cfcabc; --link:#1f3f6b; --hl:#efe9d2; }
+* { box-sizing:border-box }
+html { background:var(--desk) }
+body { margin:0; padding:28px 16px 60px; color:var(--ink); font:15px/1.55 "Courier Prime","Courier New",Courier,monospace }
+.sheet { position:relative; max-width:8.5in; margin:0 auto; background:var(--paper);
+  padding:clamp(24px,6vw,64px) clamp(18px,7vw,72px) 56px clamp(30px,9vw,92px);
+  box-shadow:0 1px 0 #d8d4c6, 0 18px 40px rgba(0,0,0,.5) }
+.sheet::before { content:""; position:absolute; left:clamp(10px,2.6vw,28px); top:10%; bottom:10%; width:16px;
+  background:radial-gradient(circle, var(--desk) 7px, rgba(0,0,0,.18) 8px, transparent 9px) 0 0/16px 33.3% repeat-y }
+.top { display:flex; flex-wrap:wrap; gap:4px 16px; margin-bottom:18px; color:var(--faint) }
+a { color:var(--link); text-underline-offset:3px; text-decoration-thickness:1px } a:hover { background:var(--hl) }
+h1 { font-size:20px; margin:0 0 14px; text-transform:uppercase; letter-spacing:.04em; text-decoration:underline; text-underline-offset:5px }
+h2 { font-size:16px; margin:26px 0 8px; text-transform:uppercase; text-decoration:underline; text-underline-offset:4px }
+h3 { font-size:15px; margin:18px 0 6px }
+table { border-collapse:collapse; width:100%; margin:6px 0 12px; font-size:14px }
+th, td { text-align:left; vertical-align:top; padding:3px 10px 3px 0; border-bottom:1px dotted var(--rule) }
+th { color:var(--faint); font-weight:400; text-decoration:underline }
+code { font:inherit; background:#f1ede0; padding:0 3px }
+blockquote { margin:6px 0; padding-left:12px; border-left:2px solid var(--rule); color:var(--faint) }
+.thumbs { display:grid; grid-template-columns:repeat(auto-fill,minmax(130px,1fr)); gap:12px; margin:10px 0 18px }
+.thumbs a { display:block; text-decoration:none; color:var(--ink); font-size:11px; line-height:1.3; word-break:break-word }
+.sheet .offline { display:inline-block; border:1px dashed var(--rule); color:var(--faint); font-size:12px; padding:30px 18px; margin:4px 8px 4px 0 }
+.thumbs .offline { display:grid; place-items:center; height:110px; border:1px dashed var(--rule); color:var(--faint); font-size:12px; text-align:center; padding:6px }
+.thumbs canvas { max-width:100%; max-height:110px; width:auto; height:auto; margin:0 auto; background:#fff; border:1px solid var(--rule); display:block }
+.sheet p canvas { max-width:100%; max-height:320px; border:1px solid var(--rule); background:#fff; margin:4px 8px 4px 0 }
+.thumbs img { width:100%; height:110px; object-fit:contain; background:#fff; border:1px solid var(--rule); display:block; margin-bottom:4px }
+.sheet details.json pre { max-height:420px; overflow:auto; font-size:12px; background:#f1ede0; padding:8px; white-space:pre }
+.sheet details.json pre { max-height:420px; overflow:auto; font-size:12px; background:#f1ede0; padding:8px; white-space:pre }
+.wbs-conn { display:flex; gap:16px; align-items:flex-start } .wbs-conn .wbs-panel { flex:none; width:96px; height:auto; margin-top:6px }
+.wbs-face { flex:none; display:flex; flex-direction:column; gap:8px; align-items:center } .wbs-face .wbs-live:not(:empty) + .wbs-panel { display:none }
+.wbs-face .flip { font-size:12px; cursor:pointer; color:var(--link); text-decoration:underline; background:none; border:0; font-family:inherit }
+.wbs-conn .wbs-main { flex:1; min-width:0 } svg.wbs-panel.solo { width:110px; height:auto; display:block; margin:6px 0 12px }
+@media (max-width:600px) { .wbs-conn .wbs-panel { width:58px } .wbs-conn { gap:8px } }
+.foot { margin-top:36px; text-align:center; color:var(--faint) }
+.sheet details { border-left:3px solid var(--rule); padding:2px 0 2px 12px; margin:8px 0 2px } .sheet details summary { cursor:pointer; font-weight:700 }
+.sheet details p { white-space:normal; font-size:13.5px; max-width:80ch } .sheet details .bp { color:var(--faint); font-size:12.5px }
+.sheet p img { max-width:100%; height:auto; max-height:320px; border:1px solid var(--rule); background:#fff; margin:4px 8px 4px 0;
+  vertical-align:top; box-shadow:0 2px 6px rgba(0,0,0,.12) }
+@media (max-width:600px) { .sheet::before { display:none } table { font-size:12.5px } }
+</style><link rel="stylesheet" href="../_catalog/wbs_skin.css?v=a167fc3f" data-wbs-skin></head><body><article class="sheet"><div class="top"><a href="../index.html">Index</a><a href="../Home.html">Wiki home</a><a href="../PAGES/Timeline.html">Timeline</a><a href="../search.html">Search</a><a href="../status.html">Status</a></div><h1>R2K Cool Grey — Radio Audio Console</h1>
+<p><a href="Consoles.html">← Consoles &amp; jobs</a></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Type</td>
+<td>console series</td>
+</tr>
+<tr>
+<td>Maker</td>
+<td>Ward-Beck Systems Ltd., 841 Progress Avenue, Scarborough, Ontario</td>
+</tr>
+<tr>
+<td>Dated evidence</td>
+<td><a href="Year-2003.html">2003|36</a>, <a href="Year-2005.html">2005|38</a></td>
+</tr>
+<tr>
+<td>Before it</td>
+<td><a href="Series-R2K.html">R2K</a></td>
+</tr>
+<tr>
+<td>Folder</td>
+<td><a href="../2026/Consoles/Models/R%20series%20%28Renaissance%29/R2K/">R2K</a></td>
+</tr>
+<tr>
+<td>Files</td>
+<td>21</td>
+</tr>
+</tbody>
+</table>
+<h2>The series</h2>
+<p>The Cool Grey is the R2K in its later form: the same console layout and manual (turret, Torpey clock, console drawings) with the R240 / R250 modules. The R241 Stereo Input Module is "the basic input channel module for the Cool Grey radio audio console series"; the R242 adds individual level controls on the two mono sends; the R243 and R244 are the R241 and R242 with a SAS CD8 router control head in place of the A / B / MONO input selector, taking one stereo input from the SAS router.</p>
+<p>Except for the four right-hand positions, any input module fits any slot. Inserts come before the FADER and CHANNEL ON; the signal goes to any of four stereo program or two mono send buses, all balanced, with a stereo DIRECT output after the fader. Each input has four programmable control inputs and four outputs (eight modes), can drive the MUTE A, B, C, AUTO CUE or TIMER RESET buses, and has an RS485 serial port so some functions can be under serial control.</p>
+<h2>Dated evidence</h2>
+<table>
+<thead>
+<tr>
+<th>Year</th>
+<th>Evidence</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="Year-2003.html">2003|36</a></td>
+<td>Cool Grey manual: the Torpey clock section in its fifth edition, March 2003</td>
+</tr>
+<tr>
+<td><a href="Year-2005.html">2005|38</a></td>
+<td>R241 input module drawings, issues 5 and 6, to Dec 2005</td>
+</tr>
+</tbody>
+</table>
+<p><em>File names in the archive start with 1994 for the whole R series folder; the dates above are read from the files themselves.</em></p>
+<h2>Modules</h2>
+<p><em>From the section titles of the Cool Grey manual and the Input Modules manual.</em></p>
+<table>
+<thead>
+<tr>
+<th>Module</th>
+<th>What it is</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="R241.html">R241</a></td>
+<td>Stereo Input Module (A / B / MONO)</td>
+</tr>
+<tr>
+<td>R242</td>
+<td>Stereo Input Module with mono send levels</td>
+</tr>
+<tr>
+<td><a href="R243.html">R243</a></td>
+<td>Stereo Input Module with SAS CD8 router control head</td>
+</tr>
+<tr>
+<td>R244</td>
+<td>R242 with SAS CD8 router control head</td>
+</tr>
+<tr>
+<td>R245</td>
+<td>Stereo Output Module</td>
+</tr>
+<tr>
+<td>R246</td>
+<td>Control Room Monitor Module</td>
+</tr>
+<tr>
+<td>R247</td>
+<td>Studio Monitor Module</td>
+</tr>
+<tr>
+<td><a href="R248.html">R248</a></td>
+<td>Utility Module</td>
+</tr>
+<tr>
+<td>R249</td>
+<td>manual section 6</td>
+</tr>
+<tr>
+<td>R250</td>
+<td>Studio Monitor Module (studio I/O board)</td>
+</tr>
+<tr>
+<td>R258</td>
+<td>Clean Feed Module</td>
+</tr>
+<tr>
+<td>R259</td>
+<td>Equalizer Module</td>
+</tr>
+<tr>
+<td>Turret</td>
+<td>Guest turret</td>
+</tr>
+<tr>
+<td>Torpey</td>
+<td>Torpey clock</td>
+</tr>
+</tbody>
+</table>
+<h2>Manuals and documents (2)</h2>
+<table>
+<thead>
+<tr>
+<th>File</th>
+<th>Google Drive</th>
+<th>Note</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20Cool%20Grey%20Manualpdf%20%281%29.pdf">Cool Grey Manualpdf (1)</a></td>
+<td><a href="https://drive.google.com/file/d/1SG8R3_uBeS1YxWZ49Dhfou5qgwMWfwGX/view">open</a></td>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20Cool%20Grey%20Manualpdf%20%281%29.pdf.md">note</a></td>
+</tr>
+<tr>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20INPUT%20MODULES%20MANUAL.pdf">INPUT MODULES MANUAL</a></td>
+<td><a href="https://drive.google.com/file/d/1dTszW69pEUzbAz6XWBWZkBnoju2_X6Dx/view">open</a></td>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20INPUT%20MODULES%20MANUAL.pdf.md">note</a></td>
+</tr>
+</tbody>
+</table>
+<h2>Drawings (19)</h2>
+<table>
+<thead>
+<tr>
+<th>File</th>
+<th>Google Drive</th>
+<th>Note</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241%20pg1%20%281%29.pdf">R241 pg1 (1)</a></td>
+<td><a href="https://drive.google.com/file/d/1Oca81VuNM10ZcbY2y7pWs6bcexYJ__Qb/view">open</a></td>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241%20pg1%20%281%29.pdf.md">note</a></td>
+</tr>
+<tr>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241%20pg1%20ISS5%20%281%29.pdf">R241 pg1 ISS5 (1)</a></td>
+<td><a href="https://drive.google.com/file/d/13KBE4uUITmIAPKo2el_Nx6FERBxfGTRf/view">open</a></td>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241%20pg1%20ISS5%20%281%29.pdf.md">note</a></td>
+</tr>
+<tr>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241%20pg2%20ISS5%20%281%29.pdf">R241 pg2 ISS5 (1)</a></td>
+<td><a href="https://drive.google.com/file/d/18T876_mtbLk_eeyKOZmp0FXkMTrg8rQE/view">open</a></td>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241%20pg2%20ISS5%20%281%29.pdf.md">note</a></td>
+</tr>
+<tr>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241%20pg2.pdf">R241 pg2</a></td>
+<td><a href="https://drive.google.com/file/d/1YacQ99K4w9Cyr0OAcPB_FSsvfQnfDtMb/view">open</a></td>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241%20pg2.pdf.md">note</a></td>
+</tr>
+<tr>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241%20pg3%20%281%29.pdf">R241 pg3 (1)</a></td>
+<td><a href="https://drive.google.com/file/d/1LLfj4yr29DxSd5ianU9uwNv-NvL9qUmV/view">open</a></td>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241%20pg3%20%281%29.pdf.md">note</a></td>
+</tr>
+<tr>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241%20pg3%20ISS5.pdf">R241 pg3 ISS5</a></td>
+<td><a href="https://drive.google.com/file/d/1auGOrdU7ETWJKINkkTNso6omYFoGrssR/view">open</a></td>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241%20pg3%20ISS5.pdf.md">note</a></td>
+</tr>
+<tr>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241%20pg4%20ISS5%20%281%29.pdf">R241 pg4 ISS5 (1)</a></td>
+<td><a href="https://drive.google.com/file/d/1x4P9dlwHaD_jgXU6JoezkoI8SPl2kafJ/view">open</a></td>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241%20pg4%20ISS5%20%281%29.pdf.md">note</a></td>
+</tr>
+<tr>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241%20pg4.pdf">R241 pg4</a></td>
+<td><a href="https://drive.google.com/file/d/1GKgCR-Xu0RYkzVP459yK3dELhQQbPOgp/view">open</a></td>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241%20pg4.pdf.md">note</a></td>
+</tr>
+<tr>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241%20pg5%20%281%29.pdf">R241 pg5 (1)</a></td>
+<td><a href="https://drive.google.com/file/d/10RZumllNz4eEWHBhUWPm0-vrlw8vjr_O/view">open</a></td>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241%20pg5%20%281%29.pdf.md">note</a></td>
+</tr>
+<tr>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241%20pg5%20ISS5%20%281%29.pdf">R241 pg5 ISS5 (1)</a></td>
+<td><a href="https://drive.google.com/file/d/1phIsWHZ_g11r85HR4uUxGZWbhelfjh2d/view">open</a></td>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241%20pg5%20ISS5%20%281%29.pdf.md">note</a></td>
+</tr>
+<tr>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241%20pg6%20ISS5%20%281%29.pdf">R241 pg6 ISS5 (1)</a></td>
+<td><a href="https://drive.google.com/file/d/1QHO-H8e6BkvLnn3Bmw4EWtj_PmVz9qLp/view">open</a></td>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241%20pg6%20ISS5%20%281%29.pdf.md">note</a></td>
+</tr>
+<tr>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241%20pg6.pdf">R241 pg6</a></td>
+<td><a href="https://drive.google.com/file/d/1_FIh7NpdZY0wPgEQxfycaTF5JBUZpESB/view">open</a></td>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241%20pg6.pdf.md">note</a></td>
+</tr>
+<tr>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241-ISS6-pg1.pdf">R241-ISS6-pg1</a></td>
+<td><a href="https://drive.google.com/file/d/1ffYjwO3QbSHVjHgQjdHTslrLKsSZFI4v/view">open</a></td>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241-ISS6-pg1.pdf.md">note</a></td>
+</tr>
+<tr>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241-ISS6-pg2.pdf">R241-ISS6-pg2</a></td>
+<td><a href="https://drive.google.com/file/d/1CvDEj21vPjbfGEiZH80Lbvgmvo9wViRu/view">open</a></td>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241-ISS6-pg2.pdf.md">note</a></td>
+</tr>
+<tr>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241-ISS6-pg3%20%281%29.pdf">R241-ISS6-pg3 (1)</a></td>
+<td><a href="https://drive.google.com/file/d/1Ar-rsWPnaIG61OJF7SsZx_G7PUYsnA7F/view">open</a></td>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241-ISS6-pg3%20%281%29.pdf.md">note</a></td>
+</tr>
+<tr>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241-ISS6-pg4.pdf">R241-ISS6-pg4</a></td>
+<td><a href="https://drive.google.com/file/d/1BKmpOT-L4zh-7C4TOrbnNgaPeBLmxynS/view">open</a></td>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241-ISS6-pg4.pdf.md">note</a></td>
+</tr>
+<tr>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241-ISS6-pg5.pdf">R241-ISS6-pg5</a></td>
+<td><a href="https://drive.google.com/file/d/1cwVvUrzFBWjg86_SyZAJa6AEw306aoPi/view">open</a></td>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241-ISS6-pg5.pdf.md">note</a></td>
+</tr>
+<tr>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241-ISS6-pg6%20%281%29.pdf">R241-ISS6-pg6 (1)</a></td>
+<td><a href="https://drive.google.com/file/d/1NLzbVCSzo0WJT1LPH-6SSmWpxcg6VAF-/view">open</a></td>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R241-ISS6-pg6%20%281%29.pdf.md">note</a></td>
+</tr>
+<tr>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R250%20Board%20Studio%20IO%20%281%29.pdf">R250 Board Studio IO (1)</a></td>
+<td><a href="https://drive.google.com/file/d/1U8jwfEymGGAsr41otGX6Tm7vBSDDkTOd/view">open</a></td>
+<td><a href="../2026/viewer.html?f=Consoles/Models/R%20series%20%28Renaissance%29/R2K/1994%20-%20R2K%20-%20R250%20Board%20Studio%20IO%20%281%29.pdf.md">note</a></td>
+</tr>
+</tbody>
+</table><div class="foot">An archive by Anthony Peter Kuzub · <a href="https://wbsps.kuzub.com">WBSps.Kuzub.com</a> · <a href="https://wbsps.ca">WBSps.ca</a><br><small>generated from Series-R2K-Cool-Grey.md</small></div></article><script src="../_catalog/wbs_scan.js?v=7792b3a7"></script></body></html>
