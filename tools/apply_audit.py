@@ -84,8 +84,8 @@ def main():
             continue
         rm, add = set(), set()
         for act, loser, winner, kind in ops:
-            if not os.path.isfile(loser):
-                continue
+            if not os.path.isfile(loser) or not os.path.isfile(winner):
+                continue        # moved or gone since the audit (the runs keep moving files): leave it for the next audit
             ln = note_of(loser)
             if act == 'drop':
                 wn = note_of(winner)
@@ -102,9 +102,16 @@ def main():
                         add.add(new)
             else:
                 new = os.path.splitext(loser)[0] + os.path.splitext(winner)[1].lower()
-                os.remove(loser)              # unlink first: it may be a hard link to the archive's copy
+                tmp = new + '.part'
+                try:
+                    shutil.copy2(winner, tmp)     # the winner first: nothing is removed if it cannot be copied
+                except OSError as e:
+                    print(f'  skip {loser}: {e}')
+                    os.path.exists(tmp) and os.remove(tmp)
+                    continue
+                os.remove(loser)              # unlink: it may be a hard link to the archive's copy
                 rm.add(loser)
-                shutil.copy2(winner, new)
+                os.replace(tmp, new)
                 add.add(new)
                 rm.discard(new)
                 if ln and new != loser:

@@ -38,6 +38,7 @@ __pycache__/
 *.o
 *.obj
 *.tmp
+SOFTWARE/plugin/target/
 """
 LFS_BYTES = 100 * 1024 * 1024
 BATCH_BYTES = 1500 * 1024 * 1024
@@ -57,7 +58,7 @@ COMPRESSED = {'.zip', '.7z', '.rar', '.gz', '.tgz', '.bz2', '.xz', '.dmg', '.iso
 
 
 def is_clutter(rel):
-    return any(p in JUNK_NAMES or p == '.git' for p in rel.split('/')) or rel.endswith('.pyc')
+    return is_build(rel) or any(p in JUNK_NAMES or p == '.git' for p in rel.split('/')) or rel.endswith('.pyc')
 
 
 def zip_big(src, rel):
@@ -75,7 +76,15 @@ def zip_big(src, rel):
     return rel + '.zip'
 
 
+def is_build(rel):
+    """Rust/cargo build output of a plugin crate (SOFTWARE/plugin/target/)."""
+    parts = rel.split('/')
+    return any(parts[i] == 'target' and i and parts[i - 1] == 'plugin' for i in range(len(parts)))
+
+
 def is_junk(rel):
+    if is_build(rel):
+        return True
     parts = rel.split('/')
     if any(p in JUNK_NAMES or p == '.git' for p in parts):
         return True
