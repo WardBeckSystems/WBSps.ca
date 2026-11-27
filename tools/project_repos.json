@@ -1,0 +1,135 @@
+{
+ "CONSOLE.710023-CBC-Montreal": {
+  "files": 2,
+  "folders": [
+   "1970-1979/71023 - CBC Montreal"
+  ],
+  "job": "710023",
+  "kind": "console",
+  "sha": "3b96fadec156e61af5e554b1213baed9861456ff",
+  "title": "710023 - CBC Montreal",
+  "year": "1971"
+ },
+ "CONSOLE.710032-CKEY-Radio-Toronto": {
+  "files": 2,
+  "folders": [
+   "1970-1979/71032 - CKEY Radio, Toronto"
+  ],
+  "job": "710032",
+  "kind": "console",
+  "sha": "2b03acc944cc7376c62fc13c4e149804622cf58d",
+  "title": "710032 - CKEY Radio, Toronto",
+  "year": "1971"
+ },
+ "CONSOLE.710036-CFTO-TV-Toronto": {
+  "files": 2,
+  "folders": [
+   "1970-1979/71036 - CFTO TV, Toronto"
+  ],
+  "job": "710036",
+  "kind": "console",
+  "sha": "4cc55bd764a3829e448158f3617fe2c26931218c",
+  "title": "710036 - CFTO TV, Toronto",
+  "year": "1971"
+ },
+ "CONSOLE.710050-WWL-TV-New-Orleans": {
+  "files": 2,
+  "folders": [
+   "1970-1979/71050 - WWL TV, New Orleans"
+  ],
+  "job": "710050",
+  "kind": "console",
+  "sha": "9cc14bbf369ec3af01a38d14ec8db31c19de9150",
+  "title": "710050 - WWL TV, New Orleans",
+  "year": "1971"
+ },
+ "CONSOLE.720012-CHAN-TV-Vancouver": {
+  "files": 2,
+  "folders": [
+   "1970-1979/72012 - CHAN TV, Vancouver"
+  ],
+  "job": "720012",
+  "kind": "console",
+  "sha": "e92df2574f02b2191c4e13630e69e52ea1b8d457",
+  "title": "720012 - CHAN TV, Vancouver",
+  "year": "1972"
+ },
+ "CONSOLE.720028-Boston-title-block-cut-off-in-the-ad": {
+  "files": 2,
+  "folders": [
+   "1970-1979/72028 - Boston (title block cut off in the ad)"
+  ],
+  "job": "720028",
+  "kind": "console",
+  "sha": "21a473b07256bfb2a11176feb579f6511b39112d",
+  "title": "720028 - Boston (title block cut off in the ad)",
+  "year": "1972"
+ },
+ "CONSOLE.720032-CHCH-TV-Hamilton": {
+  "files": 10,
+  "folders": [
+   "1970-1979/72032 - CHCH TV, Hamilton",
+   "1970-1979/72032 - Typical Input System Audio Schematic.jpg"
+  ],
+  "job": "720032",
+  "kind": "console",
+  "sha": "44ff3bfd6028e8e739210031b29ba831dd083a89",
+  "title": "720032 - CHCH TV, Hamilton",
+  "year": "1972"
+ },
+ "CONSOLE.730001-ABC-WLS-TV-Chicago": {
+  "files": 2,
+  "folders": [
+   "1970-1979/73001 - ABC WLS TV, Chicago"
+  ],
+  "job": "730001",
+  "kind": "console",
+  "sha": "5e11f7080e16ba63cb08cad1c2119f243951581b",
+  "title": "730001 - ABC WLS TV, Chicago",
+  "year": "1973"
+ },
+ "CONSOLE.730028-CKWX-Vancouver": {
+  "files": 2,
+  "folders": [
+   "1970-1979/73028 - CKWX, Vancouver"
+  ],
+  "job": "730028",
+  "kind": "console",
+  "sha": "0f89ca9cd7d829151c324e7bb1d00593c8f970ac",
+  "title": "730028 - CKWX, Vancouver",
+  "year": "1973"
+ },
+ "CONSOLE.730030": {
+  "files": 4,
+  "folders": [
+   "1970-1979/73030"
+  ],
+  "job": "730030",
+  "kind": "console",
+  "sha": "1c6d1debc98e3cc926a0a46429a0a9626b28885d",
+  "title": "730030",
+  "year": "1973"
+ },
+ "CONSOLE.730034-WBEN-Buffalo-NY": {
+  "files": 2,
+  "folders": [
+   "1970-1979/73034 - WBEN, Buffalo NY"
+  ],
+  "job": "730034",
+  "kind": "console",
+  "sha": "0110eeba7bb941583ccd567a75e1bce4e2ea8340",
+  "title": "730034 - WBEN, Buffalo NY",
+  "year": "1973"
+ },
+ "CONSOLE.730035-CJOH-TV-Ottawa": {
+  "files": 2,
+  "folders": [
+   "1970-1979/73035 - CJOH TV, Ottawa"
+  ],
+  "job": "730035",
+  "kind": "console",
+  "sha": "66716101f4577691c4bc731999a4e2e309abbaee",
+  "title": "730035 - CJOH TV, Ottawa",
+  "year": "1973"
+ }
+}
