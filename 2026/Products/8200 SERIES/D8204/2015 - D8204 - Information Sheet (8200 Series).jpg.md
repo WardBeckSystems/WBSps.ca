@@ -21,7 +21,7 @@ Ward-Beck Systems Inc. First By Design
 D8204 AESIEBU RecockinG DiSTrIBUTIon Ampuifler 75 OHm
 082848 4553 WARD BECK SiSIbu5
 Product Description The D8204 six-output digital audio distribution amplifier designed specifically for use in 75 Ohm unbalanced coaxial cable installations. The D8204 is part of Ward-Beck'$ 8200 Series and uses the BNCI rear termination module_ Features such as cable equalization and data reclocking allow the D8204 to reliably recover the incoming digital  signal: Lock, Confidence, No Lock and equalization LED indicators are all visible from the front edge of the card. Located at the top edge of the card is the EQ insert switch_ which automatically activates the cable equalization without having to set any jumpers.
-Want compact; affordable and high-quality solutions for your broadcast problems? Contact Ward-Beck Systems nowl Email sales@ward-beck com or call 416-335-5999 for more information;
+Want compact; affordable and high-quality solutions for your broadcast problems? Contact Ward-Beck Systems nowl Email [e-mail removed] or call 416-335-5999 for more information;
 BNC1
 Rear Termination Module
 ORDER INFORMATION [08204] AES/EBU Reclocking Distribution Amplifier 75 Ohm [08204+RM] AES/EBU Reclocking Distribution Amp lifier 75 Ohm BNCI Rear Termination [BNC1] Rear termination module for D8Z04
@@ -38,7 +38,7 @@ Ward-Beck Systems Inc. First By Design
 D8204 AESIEBU RecockinG DiSTrIBUTIon Ampuifler 75 OHm
 082848 4553 WARD BECK SiSIbu5
 Propuct Description The D8204 six-output digital audio distribution amplifier designed specifically for use in 75 Ohm unbalanced coaxial cable installations. The D8204 is part of Ward-Beck'$ 8200 Series and uses the BNCI rear termination module_ Features such as cable equalization and data reclocking allow the D8204 to reliably recover the incoming digital  signal: Lock, Confidence, No Lock and equalization LED indicators are all visible from the front edge of the card. Located at the top edge of the card is the EQ insert switch_ which automatically activates the cable equalization without having to set any jumpers.
-Want compact; affordable and high-quality solutions for your broadcast problems? Contact Ward-Beck Systems nowl Email sales@ward-beck com or call 416-335-5999 for more information;
+Want compact; affordable and high-quality solutions for your broadcast problems? Contact Ward-Beck Systems nowl Email [e-mail removed] or call 416-335-5999 for more information;
 BNC1
 Rear Termination Module
 ORDER INFORMATION [08204] AES/EBU Reclocking Distribution Amplifier 75 Ohm [08204+RM] AES/EBU Reclocking Distribution Amp lifier 75 Ohm BNCI Rear Termination [BNC1] Rear termination module for D8Z04

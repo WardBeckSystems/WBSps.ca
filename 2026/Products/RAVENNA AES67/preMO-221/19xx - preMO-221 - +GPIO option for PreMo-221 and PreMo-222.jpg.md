@@ -34,7 +34,7 @@ Media Actanceing A E567 audio
 RAVENNA Wotunth STzniol
 AIMS OCA Member 4ES7o..4dio
 2110
-WARD-BECK SYSTEMS INC FIRST BY DESIGN 9-945 Middlefield Road, Toronto, ON, MIV SE1, Canada WWW,ward-beck com sales@ward-beck com 416 335 5999
+WARD-BECK SYSTEMS INC FIRST BY DESIGN 9-945 Middlefield Road, Toronto, ON, MIV SE1, Canada WWW,ward-beck com [e-mail removed] 416 335 5999
 WBS
 ```
 
@@ -59,7 +59,7 @@ Media Actanceing A E567 audio
 RAVENNA Wotunth STzniol
 AIMS OCA Member 4ES7o..4dio
 2110
-WARD-BECK SYSTEMS INC FIRST BY DESIGN 9-945 Middlefield Road, Toronto, ON, MIV SE1, Canada WWW,ward-beck com sales@ward-beck com 416 335 5999
+WARD-BECK SYSTEMS INC FIRST BY DESIGN 9-945 Middlefield Road, Toronto, ON, MIV SE1, Canada WWW,ward-beck com [e-mail removed] 416 335 5999
 WBS
 ```
 

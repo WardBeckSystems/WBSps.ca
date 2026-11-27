@@ -27,7 +27,7 @@ Sno Eoa ~oro Yn POd-154 ViDEO DISTRIBUTION AMPLIFIER
 Qup
 L
 Product Description PODISA is one-by-six analog video distribution amplifier with differential input; Common mode rejection ratio is greater than 60dB at 60Hz trim control allows level adjustments of 3 dB. An adjustable equalizer is included, allowing for equalization of cable runs up to 10Om seventh output split is provided on the front panel: PODISA may be used in conjunction with an analog video switcher (POD9), or digital audio switcher (PODIO), if source selection required: All inputs and outputs are made on BNC connectors_ The input is high impedance looping input while the outputs are 75 Ohm:
-Ward-Beck PODs can be rack-mounted singly; or in pairs, allowing for flexibility in your studio design. Want compact, affordable and high quality solutions  for your broadcast problems? Contact Ward-Beck   Systems   nowl Email sales@ward-beck com or call 416-335-5999 for more information_
+Ward-Beck PODs can be rack-mounted singly; or in pairs, allowing for flexibility in your studio design. Want compact, affordable and high quality solutions  for your broadcast problems? Contact Ward-Beck   Systems   nowl Email [e-mail removed] or call 416-335-5999 for more information_
 PODS
 Sod ~DCOdERELeeee
 Product SPecifications Input Impedance Hiz looping GENERAL Input Level: IVp-p, nomina Power Requirements: 100-240 VAC,SOHz-6OHz Input Return Loss: 46 dB Typical, @ 3.58M Dimensions: 69 in wide x 1.73 in. high x 7.0 in. decp Output Impedance (6+1 splits): 75 Ohm (ZZ1mm 44mm 178 mm) Output level: IVp-P, terminated Weight: 1.37 kg (3.01 Ibs) Response: better than 0.05 dB @ 3.58M Differential Gain better than 0.15% @ 58M Differential phase better than 0.15 deg 3.58M SIN: better than 6OdB, SMHz B.W:
@@ -49,7 +49,7 @@ Sno Eoa ~oro Yn POd-154 ViDEO DISTRIBUTION AMPUIFIER
 Qup
 L
 Propuct Description PODISA is one-by-six analog video distribution amplifier with differential input; Common mode rejection ratio is greater than 60dB at 60Hz trim control allows level adjustments of 3 dB. An adjustable equalizer is included, allowing for equalization of cable runs up to 10Om seventh output split is provided on the front panel: PODISA may be used in conjunction with an analog video switcher (POD9), or digital audio switcher (PODIO), if source selection required: All inputs and outputs are made on BNC connectors_ The input is high impedance looping input while the outputs are 75 Ohm:
-Ward-Beck PODs can be rack-mounted singly; or in pairs, allowing for flexibility in your studio design. Want compact, affordable and high quality solutions  for your broadcast problems? Contact Ward-Beck   Systems   nowl Email sales@ward-beck com or call 416-335-5999 for more information_
+Ward-Beck PODs can be rack-mounted singly; or in pairs, allowing for flexibility in your studio design. Want compact, affordable and high quality solutions  for your broadcast problems? Contact Ward-Beck   Systems   nowl Email [e-mail removed] or call 416-335-5999 for more information_
 PODS
 Sod ~DCOdERELeeee
 Propuct SPecifications Input Impedance Hiz looping GENERAL Input Level: IVp-p, nomina Power Requirements: 100-240 VAC,SOHz-6OHz Input Return Loss: 46 dB Typical, @ 3.58M Dimensions: 69 in wide x 1.73 in. high x 7.0 in. decp Output Impedance (6+1 splits): 75 Ohm (ZZ1mm 44mm 178 mm) Output level: IVp-P, terminated Weight: 1.37 kg (3.01 Ibs) Response: better than 0.05 dB @ 3.58M Differential Gain better than 0.15% @ 58M Differential phase better than 0.15 deg 3.58M SIN: better than 6OdB, SMHz B.W:

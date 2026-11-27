@@ -22,7 +22,7 @@ D6201b opengearm Dual 1X4 AESIEBU Reclocking DiSTrIBuTIon Amplifier WITH SRC 75 
 Hn:
 ForonGcar
 Product Description gpenGear The D6201B is dual 1 x 4 AES distribution amplifier designed for use in 75 Ohm unbalanced installations can provide four copies of each incoming signal when used with T6301A rear assembly: It may also be used as a 1 x 8 AES distribution amplifier with SRC to provide to eight outputs that are sample rate converted_ For  high density applications, when used with the OuTt-1 Ouz ' T6401A, up to twenty x 4 AES DA'$ with SRC can be provided in single two rack unit frame_ The D62OB supports audio sampling frequencies from 30kHz CUT1-2 OUTZ-2 to 192 kHz. Cable equalization and reclocking techniques enable the D62O1B to CUnZ OUT2 ] recover the incoming digital audio signal reliably: The D62O1B is housed in the openGear OG3-FR-C series frames_ OUl  OuT? 4
-Email sales@ward-beck com or call 416-335-5999 for more information
+Email [e-mail removed] or call 416-335-5999 for more information
 T6301A
 ORDER INFORMATION [D62O1B] openGearTM Dual 1x4 AES/EBU Reclocking DA with SRC 75 Ohm [D6ZO1B+RM] openGearTM Dual 1x4 AES/EBU Reclocking DA with SRC 75 Ohm complete with T63014 Rear Terminal Module [T6301A] Rear termination module for D6201B
 Rear Termination Module
@@ -40,7 +40,7 @@ D6201b opengearm Dual 1X4 AESIEBU Reclocking DiSTrIBuTIon Ampuifier WITH SRC 75 
 Hn:
 ForonGcar
 Propuct Description gpenGear The D6201B is dual 1 x 4 AES distribution amplifier designed for use in 75 Ohm unbalanced installations can provide four copies of each incoming signal when used with T6301A rear assembly: It may also be used as a 1 x 8 AES distribution amplifier with SRC to provide to eight outputs that are sample rate converted_ For  high density applications, when used with the OuTt-1 Ouz ' T6401A, up to twenty x 4 AES DA'$ with SRC can be provided in single two rack unit frame_ The D62OB supports audio sampling frequencies from 30kHz CUT1-2 OUTZ-2 to 192 kHz. Cable equalization and reclocking techniques enable the D62O1B to CUnZ OUT2 ] recover the incoming digital audio signal reliably: The D62O1B is housed in the openGear OG3-FR-C series frames_ OUl  OuT? 4
-Email sales@ward-beck com or call 416-335-5999 for more information
+Email [e-mail removed] or call 416-335-5999 for more information
 T6301A
 ORDER INFORMATION [D62O1B] openGearTM Dual 1x4 AES/EBU Reclocking DA with SRC 75 Ohm [D6ZO1B+RM] openGearTM Dual 1x4 AES/EBU Reclocking DA with SRC 75 Ohm complete with T63014 Rear Terminal Module [T6301A] Rear termination modulc for D6201B
 Rear Termination Module

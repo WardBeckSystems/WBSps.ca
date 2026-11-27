@@ -28,7 +28,7 @@ Wa
 CONa
 Product Description
 PODIOA is a eight bV one or dual four by one digital audio switcher for use in 110 Ohm installations (PODIOA/11O) and 75 Ohm installations (POD1OA/75). Connections to PODIOA are on the rear panel via pluggable screw termina blocks (PODIOA/11O) BNC type connectors (POD1OA/7S): The inputs and outputs are transformer balanced When used as dual four-by-one; each switcher performs independently: PODIOA may be used in conjunction with POD1ZA to provide multiple outputs of the switcher selected input;
-Ward-Beck PODs can be rack-mounted singly, or in pairs, allowing for flexibility in your installations_ Want compact, affordable and high-quality solutions for your broadcast problems? Contact Ward-Beck Systems now_ Email sales@ward-beck com or call 416-335-5999 for more information_ PODS
+Ward-Beck PODs can be rack-mounted singly, or in pairs, allowing for flexibility in your installations_ Want compact, affordable and high-quality solutions for your broadcast problems? Contact Ward-Beck Systems now_ Email [e-mail removed] or call 416-335-5999 for more information_ PODS
 Pdo Ion cO GGHcR
 Product Specifications Iuul Level 0,7-7vp p Input Impedance: 110 Ohm balanced (PODIOAYI1O} = 05 74 Onm balanced- POD1O4/75) Qutaut Level 3"PF Oupul Impedance; IJ0 Ohm balanced (PODIQA{I1OI 75 Orm balanced POD1O4/75, Powe Requirements; 115 VAC; GOH  IZvA 230 VAC, 50Hz, GVA Dimensions; ?21mm wide 44n high 179 m Meice migh * 7,0" deep Weight; 1.37kR /3.01 Ibs)
 ordering Information [POO10A/110] Dual 4x1 AES/ERU D gltal Judlo * Ultcher 110 Ohm Version [PODIOA/ /5] Dual 4*1 8x1 AESYEBU Dlgita Luqio Sarcher Ohmn Version
@@ -53,7 +53,7 @@ Wa
 CONa
 Propuct Description
 PODIOA is a eight bV one or dual four by one digita audio switcher for use in 110 Ohm installations (PODIOA/11O) and 75 Ohm installations (POD1OA/75). Connections to PODIOA are on the rear panel via pluggable screw termina blocks (PODIOA/11O) BNC type connectors (POD1OA/7S): The inputs and outputs are transformer balanced When used as dual four-by-one; each switcher performs independently: PODIOA may be used in conjunction with POD1ZA to provide multiple outputs of the switcher selected input;
-Ward-Beck PODs can be rack-mounted singly, or in pairs, allowing for flexibility in your installations_ Want compact, affordable and high-quality solutions for your broadcast problems? Contact Ward-Beck Systems now_ Email sales@ward-beck com or call 416-335-5999 for more information_ PODS
+Ward-Beck PODs can be rack-mounted singly, or in pairs, allowing for flexibility in your installations_ Want compact, affordable and high-quality solutions for your broadcast problems? Contact Ward-Beck Systems now_ Email [e-mail removed] or call 416-335-5999 for more information_ PODS
 Pdo Ion cO GGHcR
 Propuct Specifications Iuul Level 0,7-7vp p Unput Impedance: 110 Ohm palanced (PODIOAYI1O} = 05 74 Onm aalanced- POD1O4/75) Qutaut Level 3"PF Oupul Impedance; IJ0 Ohm balanced (PODIQA{I1OI 75 Orm balanced POD1O4/75, Powe Requirements; 115 VAC; GOH  IZvA 230 VAC, 50Hz, GVA Dlmenslons; ?21mm wide 44n hlgh 179 m Meice migh * 7,0" deepl Weignt; 1.37kR /3.01 Ibs)
 orering Information [POO10A/110] Dual 4x1 AES/ERU D gltal Judlo * Ultcher 110 Ohm Version [PODIOA/ /5] Dual 4*1 8x1 AESYEBU Dlgita Luqio Sarcher Ohmn Vercion

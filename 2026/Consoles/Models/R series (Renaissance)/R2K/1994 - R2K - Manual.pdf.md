@@ -4896,7 +4896,7 @@ In no event shall Ward-Beck Systems Ltd. be liable for consequential damages. Wa
 Ward-Beck Systems Ltd  reserves the right, at ay time and without notice, to make changes in its equipment, components, specifications or designs, as may be warranted by progress in state-of-the-art technology: Ward-Beck Systems Ltd: reserves the right to make design changes, additions to, and improvements in its products, without obligation to install such revisions in products previously manufactured.
 The warranty set forth herein is in lieu of all other warranties expressed or implied;, including the warranties of merchantability and fitness.
 WARD-BECK SYSTEMS LTD:
-455 Milner Avenue, Unit 10, Toronto, Ontario MIB 2K4 V 416 335 5999 F 416 335 5202 Toll-Free 800 771 2556 Website: WWw ward-beckcom E-Mail: sales@ward-beck com
+455 Milner Avenue, Unit 10, Toronto, Ontario MIB 2K4 V 416 335 5999 F 416 335 5202 Toll-Free 800 771 2556 Website: WWw ward-beckcom E-Mail: [e-mail removed]
 ```
 
 ### Page 116 (OCR)
@@ -4910,7 +4910,7 @@ SECTION 12 TORPEY CLOCK
 
 ```text
 TORPEY TIME CPU-7BIDSP-17 (WBS) REMOTE TIME DISPLAY TECHNICAL INSTRUCTION MANUAL First issue: Feb 15, 1999_ Second Edition: Oct  12, 1999 Third Edition: Dec 2, 1999 Fourth Edition: Oct. 2001 Fifth Edition: March 2003
-Torpey Controls Engineering Limited 98-2220 Midland Ave Scarborough, ON, Canada M1P 3E6 Tel: (416) 298-7788 Fax: (416) 298-7789 Toll-Free: 1-800-387-6141 E-mail: sales@torpeytime.com Internet: wwwtorpeytime.com
+Torpey Controls Engineering Limited 98-2220 Midland Ave Scarborough, ON, Canada M1P 3E6 Tel: (416) 298-7788 Fax: (416) 298-7789 Toll-Free: 1-800-387-6141 E-mail: [e-mail removed] Internet: wwwtorpeytime.com
 ```
 
 ### Page 118 (OCR)

@@ -29,7 +29,7 @@ AIMS Member
 Ho pre
 WBS RarO RECX Spsteae OCA AE 570,Jud|0
 2110
-WARD-BECK SYSTEMS INC. FIRST BY DESIGN 9 945 Middlefield Road, Toronto, ON, MIV SE1_ Canada WWW ward-beckcom sales@ward-beck com 416 335 5999
+WARD-BECK SYSTEMS INC. FIRST BY DESIGN 9 945 Middlefield Road, Toronto, ON, MIV SE1_ Canada WWW ward-beckcom [e-mail removed] 416 335 5999
 WBS
 ```
 
@@ -49,7 +49,7 @@ AIMS Member
 Ho pre
 WBS RarO RECX Spsteae OCA AE 570,Jud|0
 2110
-WARD-BECK SYSTEMS INC. FIRST BY DESIGN 9 945 Middlefield Road, Toronto, ON, MIV SE1_ Canada WWW ward-beckcom sales@ward-beck com 416 335 5999
+WARD-BECK SYSTEMS INC. FIRST BY DESIGN 9 945 Middlefield Road, Toronto, ON, MIV SE1_ Canada WWW ward-beckcom [e-mail removed] 416 335 5999
 WBS
 ```
 

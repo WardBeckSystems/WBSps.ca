@@ -21,7 +21,7 @@ Ward-Beck Systems Inc. First By Design
 D8202 AESIEBU DiGIal-TO-AnaLoG converter 110 OHm
 08282 ISSUES Ward Bech5is1buS
 Product Description The D8202 is an AES/EBU digital-to analog audio converter in Ward-Beck's 8200 Series and uses either the TB8ZOSP or TB82OSP/75 rear termination modules: The D8202 utilizes the latest in 24-bit conversion technology, and its on-board cable equalization and data reclocking allow the unit to reliably recover the incoming   digital   signal: The D8202 can programmed provide three stereo analog outputs or two stereo and two mono sum (L+R) outputs: Lock, Confidence_ No Lock and EQ LED indicators are all visible from the front edge of the card_ Located at the top edge of the card is the EQ insert switch_ which automatically activates the cable equalization without having to set any jumpers_
-Want compact, affordable and high-quality solutions for your broadcast problems? Contact Ward-Beck Systems nowl Email sales@ward-beck com or call 416-335-5999 for more information.
+Want compact, affordable and high-quality solutions for your broadcast problems? Contact Ward-Beck Systems nowl Email [e-mail removed] or call 416-335-5999 for more information.
 TB8ZOSP
 Rear Termination Module
 ORDER INFORMATION [08202] AES/EBU Digital-to-Analog Converter 110 Ohm [08202+RM] AES/EBU Digital-to-Analog Converter 110 Ohm TB8205P rear termination [TB8205PE Rear termination module for 08202
@@ -38,7 +38,7 @@ Ward-Beck Systems Inc. First By Design
 D8202 AESIEBU DiGIal-TO-AnaLoG converter 110 OHm
 08282 ISSUES Ward Bech5is1buS
 Propuct Description The D8202 is an AES/EBU digital-to analog audio converter in Ward-Beck's 8200 Series and uses either the TB8ZOSP or TB82OSP/75 rear termination modules: The D8202 utilizes the latest in 24-bit conversion technologv, and its on-board cable equalization and data reclocking allow the unit to reliably recover the incoming   digital   signal: The D8202 can programmed provide three stereo analog outputs or two stereo and two mono sum (L+R) outputs: Lock, Confidence_ No Lock and EQ LED indicators are all visible from the front edge of the card_ Located at the top edge of the card is the EQ insert switch_ which automatically activates the cable equalization without having to set any jumpers_
-Want compact, affordable and high-quality solutions for your broadcast problems? Contact Ward-Beck Systems nowl Email sales@ward-beck com or call 416-335-5999 for more information.
+Want compact, affordable and high-quality solutions for your broadcast problems? Contact Ward-Beck Systems nowl Email [e-mail removed] or call 416-335-5999 for more information.
 TB8ZOSP
 Rear Termination Module
 ORDER INFORMATION [08202] AES/EBU Digital-to-Analog Converter 110 Ohm [08202+RM] AES/EBU Digital-to-Analog Converter 110 Ohm TB8205P rear termination [TB8205PE Rear termination module for 08202

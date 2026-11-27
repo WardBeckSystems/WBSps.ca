@@ -29,7 +29,7 @@ RAVENNA Now with STzn10l
 OCA AE $ 70,udi0
 AIMS Member
 (SMpTea
-WARD-BECK SYSTEMS INC FIRST BY DESIGN 9-945 Middlefield Road, Toronto, ON, MIV SE1, Canada WWW,ward-beck com sales@ward-beck com 416 335 5999
+WARD-BECK SYSTEMS INC FIRST BY DESIGN 9-945 Middlefield Road, Toronto, ON, MIV SE1, Canada WWW,ward-beck com [e-mail removed] 416 335 5999
 WBS
 ```
 
@@ -49,7 +49,7 @@ RAVENNA Now with STzn10l
 OCA AE $ 70,udi0
 AIMS Member
 (SMpTea
-WARD-BECK SYSTEMS INC FIRST BY DESIGN 9-945 Middlefield Road, Toronto, ON, MIV SE1, Canada WWW,ward-beck com sales@ward-beck com 416 335 5999
+WARD-BECK SYSTEMS INC FIRST BY DESIGN 9-945 Middlefield Road, Toronto, ON, MIV SE1, Canada WWW,ward-beck com [e-mail removed] 416 335 5999
 WBS
 ```
 

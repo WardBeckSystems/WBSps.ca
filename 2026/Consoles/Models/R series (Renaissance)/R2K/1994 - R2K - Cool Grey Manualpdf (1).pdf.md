@@ -4594,7 +4594,7 @@ In no event shall Ward-Beck Systems Ltd. be Liable for consequential damages_ Wa
 Ward-Beck Systems Ltd. reserves the right to make design changes, additions to, and improvements in its products, without obligation to install such revisions in products previously manufactured:
 The warranty set forth herein is in lieu of all other warranties expressed or implied, including the warranties of merchantability and fitness_
 WARD-BECK SYSTEMS LTD.
-455 Milner Avenue, Unit 10, Toronto, Ontario MIB 2K4 V 416 335 5999 F 416 335 5202 Toll-Free 800 771 2556 Website: Ww ward-beckcom E-Mail: sales@ward-beck.com
+455 Milner Avenue, Unit 10, Toronto, Ontario MIB 2K4 V 416 335 5999 F 416 335 5202 Toll-Free 800 771 2556 Website: Ww ward-beckcom E-Mail: [e-mail removed]
 ```
 
 <details><summary>As read by the OCR</summary>
@@ -4614,7 +4614,7 @@ In no event shall Ward-Beck Systems Ltd. be Iiable for consequential damages_ Wa
 Ward-Beck Systems Ltd. reserves the right to make design changes, additions to, and improvements in its products, without obligation to install such revisions in products previously manufactured:
 The warranty set forth herein is in lieu of all other warranties expressed or implied, including the warranties of merchantability and fitness_
 WARD-BECK SYSTEMS LTD.
-455 Milner Avenue, Unit 10, Toronto, Ontario MIB 2K4 V 416 335 5999 F 416 335 5202 Toll-Free 800 771 2556 Website: Ww ward-beckcom E-Mail: sales@ward-beck.com
+455 Milner Avenue, Unit 10, Toronto, Ontario MIB 2K4 V 416 335 5999 F 416 335 5202 Toll-Free 800 771 2556 Website: Ww ward-beckcom E-Mail: [e-mail removed]
 ```
 
 </details>
@@ -4643,7 +4643,7 @@ Torpey Clock
 
 ```text
 TORPEY TIME CPU-ZBIDSP-17 (WBS) REMOTE TIME DISPLAY TECHNICAL INSTRUCTION MANUAL First issue: Feb 15_ 999 Second Edition: Oct. 12, 999 Third Edition: Dec_ 999 Fourth Edition: Oct 2001 Fifth Edition: March 2003
-Torpey Controls & Engineering Limited 98-2220 Midland Ave_ Scarborough, ON; Canada MIP 3E6 Tel. (416) 298-7788 Fax: (416) 298-7789 Toll-Free: 1-800-387-6141 E-mail: sales@torpeytime.com Internet: ww.torpeytime.com
+Torpey Controls & Engineering Limited 98-2220 Midland Ave_ Scarborough, ON; Canada MIP 3E6 Tel. (416) 298-7788 Fax: (416) 298-7789 Toll-Free: 1-800-387-6141 E-mail: [e-mail removed] Internet: ww.torpeytime.com
 ```
 
 ### Page 124 (OCR)

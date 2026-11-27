@@ -25,7 +25,7 @@ GHA
 Orul
 D8204A ISSULJ WARD BECKSISIENS
 Product Description The D8204A four-output  digital audio   distribution  amplifier;  designed specifically for use 75 Ohm unbalanced coaxial cable installations It uses BNC2 rear termination modules. With an onboard digital-to-analog converter; the D8204A also provides two stereo analog audio outputs Features such as cable equalization and data reclocking allow the unit to reliably recover the incoming digital   signal. Lock; Confidence_ No Lock and equalization LED indicators are all visible from the front edge of the card Located at the top edge of the card is the EQ insert switch which automatically activates the cable equalization without having to set any jumpers
-Want compact, affordable and high-quality solutions for your broadcast problems? Contact Ward Beck Systems nowl Email sales@ward-beck com or call 416-335-5999 for more information_
+Want compact, affordable and high-quality solutions for your broadcast problems? Contact Ward Beck Systems nowl Email [e-mail removed] or call 416-335-5999 for more information_
 BNCZ
 Rear Termination Module
 ORDER INFORMATION [D8204A] 1x4 AES/EBU Reclocking Distribution Amplifier with Analog Outputs - 75 Ohm Version [D8204A+RM] 1x4 AES/EBU Reclocking Distribution Amplifier w/ Analog Out 75 Ohm Version BNC2 Rear Termination [BNC2] Rear termination module for D8204
@@ -46,7 +46,7 @@ GHA
 Orul
 D8204A ISSULJ WARD BECKSISIENS
 Propuct Description The D8204A four-output  digital audio   distribution  amplifier;  designed specifically for use 75 Ohm unbalanced coaxial cable installations It uses BNC2 rear termination modules. With an onboard digital-to-analog converter; the D8204A also provides two stereo analog audio outputs Features such as cable equalization and data reclocking allow the unit to reliably recover the incoming digital   signal. Lock; Confidence_ No Lock and equalization LED indicators are all visible from the front edge of the card Located at the top edge of the card is the EQ insert switch which automatically activates the cable equalization without having t0 set any jumpers
-Want compact, affordable and high-quality solutions for your broadcast problems? Contact Ward Beck Systems nowl Email sales@ward-beck com or call 416-335-5999 for more information_
+Want compact, affordable and high-quality solutions for your broadcast problems? Contact Ward Beck Systems nowl Email [e-mail removed] or call 416-335-5999 for more information_
 BNCZ
 Rear Termination Module
 ORDER INFORMATION [D8204A] 1x4 AES/EBU Reclocking Distribution Amplifier with Analog Outputs - 75 Ohm Version [D8204A+RM] 1x4 AES/EBU Reclocking Distribution Amplifier w/ Analog Out 75 Ohm Version BNC2 Rear Termination [BNC2] Rear termination module for D8204

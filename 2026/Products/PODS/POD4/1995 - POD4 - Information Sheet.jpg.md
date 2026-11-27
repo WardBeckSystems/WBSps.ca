@@ -30,7 +30,7 @@ EnicheDE
 Vie
 Ie
 Product Description POD4 is low noise dual microphone preamplifier Two preamplifiers_ Mic and Mic B, each provide direct and switched output: A sum or mix output of Mic A and Mic is also provided_ The mix output is derived from the switched preamplifier outputs_ Front panel controls and tallies include phantom power switch and indicator; mute indicator; peak indicator and screwdriver trim gain control for each preamplifier: The mix output has front panel volume control and peak indicator: Peak indicators are set light approximately +19dBu_ Connections to POD4 are the rear panel: Microphone inputs are via XLR-3F connectors, while outputs and external mute controls are on screw terminal blocks_ External mute control requires closure to ground:
-Ward-Beck PODs can be rack-mounted singly, or in pairs, allowing for flexibility in vour installations Want compact, affordable and high-quality solutions for vour broadcast problems? Contact Ward-Beck Systems now! Email sales@ward-beck com or call 416-335-5999 for more information:
+Ward-Beck PODs can be rack-mounted singly, or in pairs, allowing for flexibility in vour installations Want compact, affordable and high-quality solutions for vour broadcast problems? Contact Ward-Beck Systems now! Email [e-mail removed] or call 416-335-5999 for more information:
 Product SPecifications
 Gain Rorc. 70dB Max Output Levei: 28dBu Frequenc Resdonse;+0 ZdB Z0Hz 20kHz Noise 124dB EIN (ZOHz ZurAi THD Voices better than0.1X 2OHz ZOkHz InpuriMoecanco 12 kOhms Source Impedance: 150 Ohms Lontro nputs DC max Camn Kode Rejection: hette than 60d3 60hz PCIve Requirements 115 VAC JUHZ (available upon request) 230 VAC, SOHz Dimensions Wide high * 70 in deep 221mm 44mm * 178mmi Weight: 1.37 KE (3.01 Ibs)
 INBS
@@ -56,7 +56,7 @@ EnicheDE
 Vle
 Ie
 Propuct Description POD4 is low noise dual microphone preamplifier Two preamplifiers_ Mic and Mic B, each provide direct and switched output: A sum or mix output of Mic A and Mic is also provided_ The mix output is derived from the switched preamplifier outputs_ Front panel controls and tallies include phantom power switch and indicator; mute indicator; peak indicator and screwdriver trim gain control for each preamplifier: The mix output has front panel volume control and peak indicator: Peak indicators are set light approximately +19dBu_ Connections to POD4 are the rear panel: Microphone inputs are via XLR-3F connectors, while outputs and external mute controls are on screw terminal blocks_ External mute control requires closure to ground:
-Ward-Beck PODs can be rack-mounted singly, or in pairs, allowing for flexibility in vour installations Want compact, affordable and high-quality solutions for vour broadcast problems? Contact Ward-Beck Systems now! Email sales@ward-beck com or call 416-335-5999 for more information:
+Ward-Beck PODs can be rack-mounted singly, or in pairs, allowing for flexibility in vour installations Want compact, affordable and high-quality solutions for vour broadcast problems? Contact Ward-Beck Systems now! Email [e-mail removed] or call 416-335-5999 for more information:
 Propuct SPecifications
 Gain Rorc. 70dB Max Output Levei: 28dBu Frequenc Resdonse;+0 ZdB Z0Hz 20kHz Noise 124dB EIN (ZOHz ZurAi THD Voises better than0.1X 2OHz ZOkHz InpuriMoecanco 12 kOhms Source Impedance: 150 Ohms Lontro nputs DC max Camn Kode Rejecticn: hette than 60d3 60hz PCIve Requirements 115 VAC JUHZ (available upon request) 230 VAC, SOHz Dimenyions Wride high * 70 in deep 221mm 44mm * 178mmi Weight: 1.37 KE (3.01 Ibs)
 INBS
