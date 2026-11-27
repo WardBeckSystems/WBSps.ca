@@ -1,0 +1,77 @@
+# 1996 - 960191 - DOC - 960191-04-001 - INT LOGIC DECOOER OUTPUTS CAUMON DISCCNNECT POKEF BEFCRE.jpg
+Wiki page: [Documents](../../../../PAGES/Documents.md)
+
+
+- **Year:** 1996 (job number 960191)
+- **Type:** document scan
+- **About:** 960191
+
+## Text recovered by OCR
+
+> CAUTION OISCONNECT Ac POWER BEFORE SERVICING POW"ER LOCIC INPUTS INTERCOY MATRIX AudiO AND CONTROL JG (IN12) Jz(INT1) Je(INTO) J9(IN9) J1O(INB) Jit(in7) Ji2(in6) JI3(INS) JiA(IN4) Jis(INJ) J16(IN2) JI7(INT) LOGIC DECOOER OUTPUTS CAUMON disccnNect POKEF BEFCRE REFLACING 1,54 5B-115/250v CORD ISSUEI REVISION WBS DRN: DRG(JUN96) ENG: CKD; WARD-BECK SYSTEMS CBC TORONTO GLEN GOULD STUDIO 12X12 MATRIX LAYOUT SCALE DISC NO: Syso1 SSUE 960191-04-001 CODE: 96191L01
+- **Original file:** `WBSps.env/PUBLIC/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/2021-3-17-0-2-8.jpg`
+- **SHA-256:** `19f84db7cea4502ae0625ec4c4b65f19fdb11d791565a30e09305772f69b8f7d`
+- **Size:** 19,078,058 bytes
+- **Pages:** 1
+
+## Vectors (traced)
+
+- **Sheet:** layout 960191-04-001, size B (assumed) 432 × 271 mm, 2000 × 1257 px traced (0.216 mm/px)
+- **Ink extent:** 69–411 mm across, 11–224 mm up
+- **Outlines:** line 1,715 rings, 9,235 straight (24,156 mm) / 1,846 curved (2,470 mm); text 128 rings, 730 straight (726 mm) / 232 curved (314 mm); tb 15 rings, 165 straight (179 mm) / 18 curved (19.0 mm)
+- **Circles and arcs:** 9 circles, 0 arcs; largest r 3.1 @ (274.5, 191.6), r 2.5 @ (274.5, 191.6), r 1.6 @ (106.6, 213.1), r 1.5 @ (158.4, 213.1)
+- **Closed boxes:** 123 (3 in the title block); named: LCCC DECCDER CuIPUTS; LCCC DECCDER CuIPUTS; LCCC DECCDER CuIPUTS; LCCC DECCDER CuIPUTS; CBC TORONTO_ GOULD STUDIO_ GLEN 12X12 MA; 960191 04-001
+- **Words (OCR):** 10 in 9 lines: LCCC DECCDER CuIPUTS · REMSID · WARD-BECK SYSTEMS · WBS · CBC TORONTO_ · GLEN · GOULD STUDIO_ · 12X12 MATRIX LAYOUT · 960191 04-001
+- **Title block:** (334, 26)–(417, 42) mm: REMSID · WARD-BECK SYSTEMS · WBS · CBC TORONTO_
+
+Every curve, box, word and wire group: [1996 - 960191 - DOC - 960191-04-001 - INT LOGIC DECOOER OUTPUTS CAUMON DISCCNNECT POKEF BEFCRE (traced).json](1996%20-%20960191%20-%20DOC%20-%20960191-04-001%20-%20INT%20LOGIC%20DECOOER%20OUTPUTS%20CAUMON%20DISCCNNECT%20POKEF%20BEFCRE%20%28traced%29.json) (the CAD file: `1996 - 960191 - DOC - 960191-04-001 - INT LOGIC DECOOER OUTPUTS CAUMON DISCCNNECT POKEF BEFCRE (traced).dxf`).
+
+## Full text
+
+### Page 1 (OCR, spell-checked: 8 words corrected)
+
+```text
+CAUTION
+DISCONNECT Ac POWER BEFORE SERVICING
+POW"ER
+LOGIC INPUTS
+INTERCOM MATRIX AudiO AND CONTROL JG (IN12) Jz(INT1) Je(INTO) J9(IN9) J1O(INB) Jit(in7) Ji2(in6) JI3(INS) JiA(IN4) Jis(INJ) J16(IN2) JI7(INT)
+LOGIC DECODER  OUTPUTS
+CAUMON disconnect POKEF BEFORE REPLACING
+1,54 5B-115/250v
+CORD
+ISSUEL
+REVISION
+WBS DRN: DRG(JUN96) ENG: CKD;
+WARD-BECK SYSTEMS
+CBC TORONTO
+GLEN GOULD STUDIO 12X12 MATRIX LAYOUT SCALE DISC NO: Syso1 SSUE 960191-04-001 CODE: 96191L01
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+CAUTION
+OISCONNECT Ac POWER BEFORE SERVICING
+POW"ER
+LOCIC INPUTS
+INTERCOY MATRIX AudiO AND CONTROL JG (IN12) Jz(INT1) Je(INTO) J9(IN9) J1O(INB) Jit(in7) Ji2(in6) JI3(INS) JiA(IN4) Jis(INJ) J16(IN2) JI7(INT)
+LOGIC DECOOER  OUTPUTS
+CAUMON disccnNect POKEF BEFCRE REFLACING
+1,54 5B-115/250v
+CORD
+ISSUEI
+REVISION
+WBS DRN: DRG(JUN96) ENG: CKD;
+WARD-BECK SYSTEMS
+CBC TORONTO
+GLEN GOULD STUDIO 12X12 MATRIX LAYOUT SCALE DISC NO: Syso1 SSUE 960191-04-001 CODE: 96191L01
+```
+
+</details>
+
+## Contents (JSON)
+
+```json
+{"file":"Consoles/1990-1999/960191/1996 - 960191 - DOC - 960191-04-001 - INT LOGIC DECOOER OUTPUTS CAUMON DISCCNNECT POKEF BEFCRE.jpg","sha256":"19f84db7cea4502ae0625ec4c4b65f19fdb11d791565a30e09305772f69b8f7d","kind":"doc","models":["960191"],"year":1996,"pages":1,"order":[{"page":1,"title_block":[{"number":"960191-04-001","type":"layout / outline","title":"Int Logic Decooer Outputs Caumon Disccnnect Pokef Befcre","drawn":"DRG","issue":"I"}],"text":["5","LCCC DECCDER CuIPUTS","REMSID ","WBS WARD-BECK SYSTEMS","CBC TORONTO_","GLEN GOULD STUDIO_","12X12 MATRIX LAYOUT","960191 04-001"]}],"drawing":{"svg":"_traces/19f84db7cea4502a.svg","viewBox":[2000,1257],"rotate":0,"number":"960191-04-001","title":"Int Logic Decooer Outputs Caumon Disccnnect Pokef Befcre","dtype":"04","outlines":"see _traces/19f84db7cea4502a.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","words":[[595,830,"LCCC DECCDER CuIPUTS"],[1748,1078,"REMSID"],[1586,1112,"WBS"],[1691,1109,"WARD-BECK SYSTEMS"],[1714,1146,"CBC TORONTO_"],[1689,1159,"GLEN"],[1739,1161,"GOULD STUDIO_"],[1681,1174,"12X12 MATRIX LAYOUT"],[1729,1202,"960191"],[1796,1202,"04-001"]]}}
+```

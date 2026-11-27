@@ -1,0 +1,104 @@
+# 1995 - 95033 - DOC - 95033-01-002 - CUTPUTS FUMURF OUTPUTS IFB CUTPUTS SSUE REVSION.jpg
+Wiki page: [Documents](../../../../PAGES/Documents.md)
+
+
+- **Year:** 1995 (job number 95033)
+- **Type:** document scan
+- **About:** 95033
+
+## Text recovered by OCR
+
+> FRura SouNd IFUTS FUTURE LEGEND: Inpars CROSSPOINT CROSSPOINT NORMALLY OFF, SWITCHED NORMALLY ON; SWITCHED OFF M3548 MATRIX AMPLIFIER (48 INPUTS X OUTPUTS) 48512 BUFFER AMPLIFIER (12 SECTIONS) Uatrin PPUTS NOTES: FUTURE SLOTS ARE 'MRED Modules ARE Not PROMDED. SPARES ARE PROMDED_ Vc MATRIX MAY BE CALIBRATED OPERATE AT +8 @dbt M7890 AND MONITOR CARDS SHOWN ARE OPTIONAL 08si? V85481 717-Y42.74Y4277,742,77.74777.7 194494% MaTRIX QUTPUTS 47boo TERMINAL FUTURE VC CUTPUTS FUMURF OUTPUTS IFB CUTPUTS SSUE REVSION APP_ (CPTONAL) WBS WARD-BECK SYSTEMS DRN: DRG(NOv95 ENG. CKD; CBC VANCOUVER STUDIO 41 INTERCOM FUNCTIONAL SCALE DISC NO: SysoI ISSUE 95033-01-002 CODE: 95033F02
+- **Original file:** `WBSps.env/PUBLIC/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/2021-3-16-23-1-32.jpg`
+- **SHA-256:** `6e7a1df4f3be14118c9e93e27df17166abfdf56187afb44fb367e95a4bfe3402`
+- **Size:** 21,378,512 bytes
+- **Pages:** 1
+
+## Vectors (traced)
+
+- **Sheet:** functional 95033-01-002, size B (assumed) 432 × 304 mm, 2000 × 1410 px traced (0.216 mm/px); scale Idisc NDi Stsdi
+- **Ink extent:** 0–421 mm across, 15–304 mm up
+- **Outlines:** line 3,110 rings, 23,507 straight (28,276 mm) / 5,087 curved (9,097 mm); text 167 rings, 1,013 straight (1,029 mm) / 301 curved (391 mm); tb 49 rings, 295 straight (310 mm) / 70 curved (85.3 mm)
+- **Centre lines:** 34,745 paths (155 closed); straight 25,734 mm, curved 61.3 mm; horizontal 10,026 mm, vertical 10,026 mm, diagonal 5,682 mm
+- **Circles and arcs:** 1030 circles, 24 arcs; largest r 1.8 @ (141.1, 202.8), r 1.8 @ (151.2, 202.8), r 1.8 @ (110.6, 223.4), r 1.8 @ (171.3, 135.1)
+- **Closed boxes:** 149 (10 in the title block)
+- **Dots (junctions):** 1
+- **Words (OCR):** 17 in 14 lines: 20 · UATRIX · AMPUFIER · NOTES · UODULES ARE Kot PRCMDEC · CR OcBri · WBS · WARD-BECK SYSTEMS · CBC VANCOUVER · STUDIO · INTERCOM  FUNCTIONAL · SCALE Idisc NDi Stsdi
+- **Title block:** (333, 12)–(426, 49) mm: WBS · WARD-BECK SYSTEMS · CBC VANCOUVER · STUDIO · INTERCOM  FUNCTIONAL · SCALE Idisc NDi Stsdi · CCDE_ 95053702 · 95033-01-002
+- **Wiring (first pass):** 158 connected wire groups from 5,783 runs; labelled ends: 107 mm → 20; 39 mm → 20; 12 mm → 20; 9 mm → 20; 6 mm → 20
+
+Every curve, box, word and wire group: [1995 - 95033 - DOC - 95033-01-002 - CUTPUTS FUMURF OUTPUTS IFB CUTPUTS SSUE REVSION (traced).json](1995%20-%2095033%20-%20DOC%20-%2095033-01-002%20-%20CUTPUTS%20FUMURF%20OUTPUTS%20IFB%20CUTPUTS%20SSUE%20REVSION%20%28traced%29.json) (the CAD file: `1995 - 95033 - DOC - 95033-01-002 - CUTPUTS FUMURF OUTPUTS IFB CUTPUTS SSUE REVSION (traced).dxf`).
+
+## Full text
+
+### Page 1 (OCR, spell-checked: 5 words corrected)
+
+```text
+FRura SouNd IFUTS
+FUTURE
+LEGEND:
+Inpars
+CROSSPOINT CROSSPOINT
+NORMALLY OFF, SWITCHED NORMALLY ON; SWITCHED OFF
+M3548 MATRIX AMPLIFIER (48 INPUTS X OUTPUTS)
+48512 BUFFER AMPLIFIER (12  SECTIONS)
+Uatrin PUTS
+NOTES: FUTURE SLOTS ARE 'MRED Modules ARE Not PROMDED. SPARES ARE PROMDED_ Vc MATRIX MAY BE CALIBRATED OPERATE AT +8 @dbt M7890 AND MONITOR CARDS SHOWN ARE OPTIONAL
+08si?
+V85481
+717-Y42.74Y4277,742,77.74777.7 194494% MaTRIX OUTPUTS
+47boo
+TERMINAL
+FUTURE VC OUTPUTS
+FUMURF
+OUTPUTS
+IFB OUTPUTS
+SSUE
+REVISION
+APP_
+(CPTONAL)
+WBS
+WARD-BECK SYSTEMS
+DRN: DRG(NOv95 ENG. CKD;
+CBC VANCOUVER STUDIO 41 INTERCOM FUNCTIONAL SCALE DISC NO: SysoI ISSUE 95033-01-002 CODE: 95033F02
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+FRura SouNd IFUTS
+FUTURE
+LEGEND:
+Inpars
+CROSSPOINT CROSSPOINT
+NORMALLY OFF, SWITCHED NORMALLY ON; SWITCHED OFF
+M3548 MATRIX AMPLIFIER (48 INPUTS X OUTPUTS)
+48512 BUFFER AMPLIFIER (12  SECTIONS)
+Uatrin PPUTS
+NOTES: FUTURE SLOTS ARE 'MRED Modules ARE Not PROMDED. SPARES ARE PROMDED_ Vc MATRIX MAY BE CALIBRATED OPERATE AT +8 @dbt M7890 AND MONITOR CARDS SHOWN ARE OPTIONAL
+08si?
+V85481
+717-Y42.74Y4277,742,77.74777.7 194494% MaTRIX QUTPUTS
+47boo
+TERMINAL
+FUTURE VC CUTPUTS
+FUMURF
+OUTPUTS
+IFB CUTPUTS
+SSUE
+REVSION
+APP_
+(CPTONAL)
+WBS
+WARD-BECK SYSTEMS
+DRN: DRG(NOv95 ENG. CKD;
+CBC VANCOUVER STUDIO 41 INTERCOM FUNCTIONAL SCALE DISC NO: SysoI ISSUE 95033-01-002 CODE: 95033F02
+```
+
+</details>
+
+## Contents (JSON)
+
+```json
+{"file":"Consoles/1990-1999/95033/1995 - 95033 - DOC - 95033-01-002 - CUTPUTS FUMURF OUTPUTS IFB CUTPUTS SSUE REVSION.jpg","sha256":"6e7a1df4f3be14118c9e93e27df17166abfdf56187afb44fb367e95a4bfe3402","kind":"doc","models":["95033"],"year":1995,"pages":1,"order":[{"page":1,"title_block":[{"number":"95033-01-002","type":"functional / block diagram","title":"Cutputs Fumurf Outputs Ifb Cutputs Ssue Revsion","drawn":"DRG","checked":"CBC"}],"text":["20","UATRIX","AMPUFIER","NOTES","UODULES ARE Kot PRCMDEC","CR OcBri","WBS WARD-BECK SYSTEMS","CBC VANCOUVER","STUDIO","INTERCOM  FUNCTIONAL","SCALE Idisc NDi Stsdi 95033-01-002","CCDE_ 95053702"]}],"drawing":{"svg":"_traces/6e7a1df4f3be1411.svg","viewBox":[2000,1410],"rotate":0,"number":"95033-01-002","title":"Cutputs Fumurf Outputs Ifb Cutputs Ssue Revsion","dtype":"01","outlines":"see _traces/6e7a1df4f3be1411.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","centre_lines":"see _traces/6e7a1df4f3be1411.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","blocks":[[1576,1308,45,32]],"words":[[1425,620,"UATRIX"],[1469,739,"AMPUFIER"],[1348,960,"NOTES"],[1360,988,"UODULES ARE Kot PRCMDEC"],[1484,1024,"CR OcBri"],[1599,1236,"WBS"],[1716,1234,"WARD-BECK SYSTEMS"],[1726,1271,"CBC"],[1771,1271,"VANCOUVER"],[1754,1289,"STUDIO"],[1699,1309,"INTERCOM  FUNCTIONAL"],[1581,1326,"SCALE Idisc NDi"],[1672,1322,"Stsdi"],[1622,1338,"CCDE_"],[1655,1338,"95053702"],[1754,1336,"95033-01-002"],[266,575,"20"]]}}
+```

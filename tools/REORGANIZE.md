@@ -63,6 +63,16 @@ Duplicates (user, 2026-11-27): when two documents are the same, the newest / bes
 highest resolution, then sharpest, as audit_images.py) and the old ones go to the desktop Trash
 (`gio trash`, restorable), never `rm`. Every sweep is listed in tools/trash_log.csv.
 
+## Finding (2026-11-27): the 2026 pipeline must change first
+
+`2026/timelines/run_all.sh` treats 2026/ as the master copy: build.py re-sorts 2026/{Modules,Products,Consoles,
+ADVERTISEMENTS,DOCUMENTS,PHOTOS} from WBSps.env every run (old trees moved aside as _old_*), and make_site.py copies
+the result to the root. Since the media went to the repos, the repos are the master. So before anything leaves
+2026/: the page generators run with ROOT = the WBSps.ca root (writing in place, the root folders are already
+make_site's copy of the same layout), the sorting stages (archive_store view / build.py --apply / make_site copy)
+are retired, and 26 tools that say '2026' get one path constant (tools/paths.py). Phase 6 therefore runs as
+phase 2; the module move follows it.
+
 ## Order (each phase ends with the site working, audit_site.py clean, pushed)
 
 1. Console + Intercom submodules -> `Products/` (git mv); `Products/Consoles` retired after

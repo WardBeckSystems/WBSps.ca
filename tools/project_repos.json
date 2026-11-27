@@ -1,4 +1,15 @@
 {
+ "CONSOLE.1968-Little-Green-Giant-LGG-baby-Beck": {
+  "files": 424,
+  "folders": [
+   "1960-1969/1967-1969/1968 - Little Green Giant (LGG, baby Beck)"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "dc3345907933d11f00995f43c16d02f1f2e9f7aa",
+  "title": "1968 - Little Green Giant (LGG, baby Beck)",
+  "year": ""
+ },
  "CONSOLE.710023-CBC-Montreal": {
   "files": 2,
   "folders": [
@@ -726,6 +737,1623 @@
   "title": "870860 - KDKA RADIO - R1000 NEWS PRODUCTION CONSOLE",
   "year": "1987"
  },
+ "CONSOLE.870936-WKIS-R1000-EXPANDER-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/870936 - WKIS - R1000 EXPANDER RADIO CONSOLE"
+  ],
+  "job": "870936",
+  "kind": "console",
+  "sha": "5182d2d6140cfe79dee92584236e47b0bb411cde",
+  "title": "870936 - WKIS - R1000 EXPANDER RADIO CONSOLE",
+  "year": "1987"
+ },
+ "CONSOLE.870952-WBZ-RADIO-STUDIO-B-CONSOLE": {
+  "files": 6,
+  "folders": [
+   "1980-1989/870952 - WBZ RADIO - STUDIO B CONSOLE"
+  ],
+  "job": "870952",
+  "kind": "console",
+  "sha": "58f18da3d0b9ab3aa628735ae37720ae48d167e6",
+  "title": "870952 - WBZ RADIO - STUDIO B CONSOLE",
+  "year": "1987"
+ },
+ "CONSOLE.880000": {
+  "files": 4,
+  "folders": [
+   "1980-1989/88000"
+  ],
+  "job": "880000",
+  "kind": "console",
+  "sha": "c972076ad1f8b6ea0001345097d5b6ba8c47d7ae",
+  "title": "880000",
+  "year": "1988"
+ },
+ "CONSOLE.880042-WSIX-AM-NASHVILLE-CUSTOM-RADIO-RADIO-CONSOLE": {
+  "files": 14,
+  "folders": [
+   "1980-1989/880042 - WSIX AM NASHVILLE - CUSTOM RADIO RADIO CONSOLE"
+  ],
+  "job": "880042",
+  "kind": "console",
+  "sha": "47dc230536cb5ed1c4bc05600b4e0c21a8cd2efa",
+  "title": "880042 - WSIX AM NASHVILLE - CUSTOM RADIO RADIO CONSOLE",
+  "year": "1988"
+ },
+ "CONSOLE.880063-CKTY-2TK-CUSTOM-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/880063 - CKTY 2TK - CUSTOM RADIO CONSOLE"
+  ],
+  "job": "880063",
+  "kind": "console",
+  "sha": "67cca3ca0f0dbbee73afc10ec9e5ebcf0dd22322",
+  "title": "880063 - CKTY 2TK - CUSTOM RADIO CONSOLE",
+  "year": "1988"
+ },
+ "CONSOLE.880079-CHNS-CHFX-R2200-PRODUCTION-1-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/880079 - CHNS-CHFX - R2200 PRODUCTION 1 RADIO CONSOLE"
+  ],
+  "job": "880079",
+  "kind": "console",
+  "sha": "0081ece58a4e0f67e2cade08b2cd76d96875a050",
+  "title": "880079 - CHNS-CHFX - R2200 PRODUCTION 1 RADIO CONSOLE",
+  "year": "1988"
+ },
+ "CONSOLE.880096-CHXL-R1000-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/880096 - CHXL - R1000 RADIO CONSOLE"
+  ],
+  "job": "880096",
+  "kind": "console",
+  "sha": "6f3fbae060cebef8c3a599b1d7788f5d499e04da",
+  "title": "880096 - CHXL - R1000 RADIO CONSOLE",
+  "year": "1988"
+ },
+ "CONSOLE.880097-SENECA-COLLEGE-R1000-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/880097 - SENECA COLLEGE - R1000 RADIO CONSOLE"
+  ],
+  "job": "880097",
+  "kind": "console",
+  "sha": "67e635b478f73f23c759ed0a19c21b96d420ac5d",
+  "title": "880097 - SENECA COLLEGE - R1000 RADIO CONSOLE",
+  "year": "1988"
+ },
+ "CONSOLE.880134-CFTO-ST": {
+  "files": 1080,
+  "folders": [
+   "1980-1989/880134 - CFTO ST",
+   "1980-1989/88134",
+   "1980-1989/WBS880134 - ST Console"
+  ],
+  "job": "880134",
+  "kind": "console",
+  "sha": "e0de25769504c2de7761cc61fdf299ac1b2e7ac6",
+  "title": "880134 - CFTO ST",
+  "year": "1988"
+ },
+ "CONSOLE.880238-VIDEO-TELECOM-INTERNATIONAL-R1400-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/880238 - VIDEO TELECOM INTERNATIONAL - R1400 RADIO CONSOLE"
+  ],
+  "job": "880238",
+  "kind": "console",
+  "sha": "152cd8137f14ff93258ff4b6f638678ebb6a5882",
+  "title": "880238 - VIDEO TELECOM INTERNATIONAL - R1400 RADIO CONSOLE",
+  "year": "1988"
+ },
+ "CONSOLE.880273-WXEL-FM-CUSTOM-R1400-18-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/880273 - WXEL-FM - CUSTOM R1400-18 RADIO CONSOLE"
+  ],
+  "job": "880273",
+  "kind": "console",
+  "sha": "db598bbff0d616009ab2b0fb94ceb2a8f6a61c14",
+  "title": "880273 - WXEL-FM - CUSTOM R1400-18 RADIO CONSOLE",
+  "year": "1988"
+ },
+ "CONSOLE.880391-2-DAY-FM-SYDNEY-R2200-RADIO-CONSOLES": {
+  "files": 4,
+  "folders": [
+   "1980-1989/880391 - 2 DAY-FM SYDNEY - R2200 RADIO CONSOLES"
+  ],
+  "job": "880391",
+  "kind": "console",
+  "sha": "6d6a7a41e373bafd84ddeac8a751e9f51cbfc1d3",
+  "title": "880391 - 2 DAY-FM SYDNEY - R2200 RADIO CONSOLES",
+  "year": "1988"
+ },
+ "CONSOLE.880400": {
+  "files": 4,
+  "folders": [
+   "1980-1989/88400"
+  ],
+  "job": "880400",
+  "kind": "console",
+  "sha": "243c0788d516deb90c895b8917c4213f349c8862",
+  "title": "880400",
+  "year": "1988"
+ },
+ "CONSOLE.880651-TVO-M1204B": {
+  "files": 370,
+  "folders": [
+   "1980-1989/880651 - TVO M1204B"
+  ],
+  "job": "880651",
+  "kind": "console",
+  "sha": "49016cf7a4fe54acbc90da60720aa2893e5032ff",
+  "title": "880651 - TVO M1204B",
+  "year": "1988"
+ },
+ "CONSOLE.890220-TELEMEDIA-R1600-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/890220 - TELEMEDIA - R1600 RADIO CONSOLE"
+  ],
+  "job": "890220",
+  "kind": "console",
+  "sha": "2210b5b2b83e29eb0963545c9aed6c273e60e590",
+  "title": "890220 - TELEMEDIA - R1600 RADIO CONSOLE",
+  "year": "1989"
+ },
+ "CONSOLE.890354": {
+  "files": 4,
+  "folders": [
+   "1980-1989/890354 - _ _ _._. - _ _ _"
+  ],
+  "job": "890354",
+  "kind": "console",
+  "sha": "0f87c314d056e9828540114438b10dc689c6d7d8",
+  "title": "890354",
+  "year": "1989"
+ },
+ "CONSOLE.890371-WMAQ-RADIO-ON-AIR-_M_-CUSTOM-R1000-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/890371 - WMAQ RADIO ON AIR _M_ - CUSTOM R1000 RADIO CONSOLE"
+  ],
+  "job": "890371",
+  "kind": "console",
+  "sha": "e88290e59ee2c453bd61fe78a53f47a1a77f779e",
+  "title": "890371 - WMAQ RADIO ON AIR _M_ - CUSTOM R1000 RADIO CONSOLE",
+  "year": "1989"
+ },
+ "CONSOLE.890372-WMAQ-RADIO-ON-AIR-STUDIO-A-R1000-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/890372 - WMAQ RADIO ON AIR STUDIO A - R1000 RADIO CONSOLE"
+  ],
+  "job": "890372",
+  "kind": "console",
+  "sha": "8386a66b98cb64cae7bdf253963b6457782c84c1",
+  "title": "890372 - WMAQ RADIO ON AIR STUDIO A - R1000 RADIO CONSOLE",
+  "year": "1989"
+ },
+ "CONSOLE.890373-WMAQ-RADIO-ON-AIR-STUDIO-Q-R1000-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/890373 - WMAQ RADIO ON AIR STUDIO Q - R1000 RADIO CONSOLE"
+  ],
+  "job": "890373",
+  "kind": "console",
+  "sha": "cd023c942a6b63751a64a97b7db37ed884df4815",
+  "title": "890373 - WMAQ RADIO ON AIR STUDIO Q - R1000 RADIO CONSOLE",
+  "year": "1989"
+ },
+ "CONSOLE.890374-WMAQ-EDIT-BOOTH-_1-CUSTOM-R1000-RADIO-CONSOLE": {
+  "files": 10,
+  "folders": [
+   "1980-1989/890374 - WMAQ - EDIT BOOTH _1 CUSTOM R1000 RADIO CONSOLE"
+  ],
+  "job": "890374",
+  "kind": "console",
+  "sha": "d43489aa73f4186b5221588504d21f12d1607f35",
+  "title": "890374 - WMAQ - EDIT BOOTH _1 CUSTOM R1000 RADIO CONSOLE",
+  "year": "1989"
+ },
+ "CONSOLE.890376-WMAQ-EDIT-BOOTH-_4-CUSTOM-R1000-RADIO-CONSOLE": {
+  "files": 10,
+  "folders": [
+   "1980-1989/890376 - WMAQ - EDIT BOOTH _4 CUSTOM R1000 RADIO CONSOLE"
+  ],
+  "job": "890376",
+  "kind": "console",
+  "sha": "a14dbf5e1942db1a3a0de6a872980ab9a9718a60",
+  "title": "890376 - WMAQ - EDIT BOOTH _4 CUSTOM R1000 RADIO CONSOLE",
+  "year": "1989"
+ },
+ "CONSOLE.890378-WMAQ-RADIO-NPA-NORTH-CUSTOM-R600-RADIO-CONSOLE": {
+  "files": 8,
+  "folders": [
+   "1980-1989/890378 - WMAQ RADIO NPA NORTH - CUSTOM R600 RADIO CONSOLE"
+  ],
+  "job": "890378",
+  "kind": "console",
+  "sha": "5768a765cd0f059a014b7ac3d12ff5c8a6f80f65",
+  "title": "890378 - WMAQ RADIO NPA NORTH - CUSTOM R600 RADIO CONSOLE",
+  "year": "1989"
+ },
+ "CONSOLE.890379-WMAQ-RADIO-NPA-SOUTH-CUSTOM-R600-RADIO-CONSOLE": {
+  "files": 8,
+  "folders": [
+   "1980-1989/890379 - WMAQ RADIO NPA SOUTH - CUSTOM R600 RADIO CONSOLE"
+  ],
+  "job": "890379",
+  "kind": "console",
+  "sha": "e82f13af532ed36c0415a147678bbbd3b97dcc84",
+  "title": "890379 - WMAQ RADIO NPA SOUTH - CUSTOM R600 RADIO CONSOLE",
+  "year": "1989"
+ },
+ "CONSOLE.890380-WMAQ-RADIO-PRODUCTION-STUDIO-_W_-CUSTOM-R2200-RADIO-CONSOLE": {
+  "files": 2,
+  "folders": [
+   "1980-1989/890380 - WMAQ RADIO PRODUCTION STUDIO _W_ - CUSTOM R2200 RADIO CONSOLE"
+  ],
+  "job": "890380",
+  "kind": "console",
+  "sha": "2d72fa199bc78df327353d61326cef27e07a7ea9",
+  "title": "890380 - WMAQ RADIO PRODUCTION STUDIO _W_ - CUSTOM R2200 RADIO CONSOLE",
+  "year": "1989"
+ },
+ "CONSOLE.890381-WMAQ-RADIO-CUSTOM-PRODUCTION-TURRET": {
+  "files": 4,
+  "folders": [
+   "1980-1989/890381 - WMAQ RADIO - CUSTOM PRODUCTION TURRET"
+  ],
+  "job": "890381",
+  "kind": "console",
+  "sha": "d776245ffd48e7e7bd1f715bb632f501fb9019d0",
+  "title": "890381 - WMAQ RADIO - CUSTOM PRODUCTION TURRET",
+  "year": "1989"
+ },
+ "CONSOLE.890393-CKCW-MONCTON-R1400-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/890393 - CKCW MONCTON - R1400 RADIO CONSOLE"
+  ],
+  "job": "890393",
+  "kind": "console",
+  "sha": "37cffeffd2b21098736c9eb0abf55cbb645c4aac",
+  "title": "890393 - CKCW MONCTON - R1400 RADIO CONSOLE",
+  "year": "1989"
+ },
+ "CONSOLE.890640-3MMM-RADIO-MELBOURNE-R1000-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/890640 - 3MMM RADIO MELBOURNE - R1000 RADIO CONSOLE"
+  ],
+  "job": "890640",
+  "kind": "console",
+  "sha": "45500246c508b41156050addb0eb2cecc91fb4fd",
+  "title": "890640 - 3MMM RADIO MELBOURNE - R1000 RADIO CONSOLE",
+  "year": "1989"
+ },
+ "CONSOLE.890641-KQZY-R1000-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/890641 - KQZY - R1000 RADIO CONSOLE"
+  ],
+  "job": "890641",
+  "kind": "console",
+  "sha": "0fa27a3cb3b79049091dda5835275ca2083ef766",
+  "title": "890641 - KQZY - R1000 RADIO CONSOLE",
+  "year": "1989"
+ },
+ "CONSOLE.890679-CKBC-R1600-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/890679 - CKBC - R1600 RADIO CONSOLE"
+  ],
+  "job": "890679",
+  "kind": "console",
+  "sha": "b6ac1c2d953870c1f5dbb6222dade6b5111b2066",
+  "title": "890679 - CKBC - R1600 RADIO CONSOLE",
+  "year": "1989"
+ },
+ "CONSOLE.890680-CKBC-R1600-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/890680 - CKBC - R1600 RADIO CONSOLE"
+  ],
+  "job": "890680",
+  "kind": "console",
+  "sha": "efcd58ff14f702e6fbd0dea2e793e78dd1fa5cad",
+  "title": "890680 - CKBC - R1600 RADIO CONSOLE",
+  "year": "1989"
+ },
+ "CONSOLE.890801-3MMM-RADIO-MELBOURNE-R2200-RADIO-CONSOLES": {
+  "files": 4,
+  "folders": [
+   "1980-1989/890801 - 3MMM RADIO MELBOURNE - R2200 RADIO CONSOLES"
+  ],
+  "job": "890801",
+  "kind": "console",
+  "sha": "5230d54ddfc714fdf650b28faf99269dd25fdb59",
+  "title": "890801 - 3MMM RADIO MELBOURNE - R2200 RADIO CONSOLES",
+  "year": "1989"
+ },
+ "CONSOLE.893047": {
+  "files": 4,
+  "folders": [
+   "1980-1989/893047"
+  ],
+  "job": "893047",
+  "kind": "console",
+  "sha": "9bf1e6b54d7c3501a1ee623c11f0c8096fd97968",
+  "title": "893047",
+  "year": "1989"
+ },
+ "CONSOLE.900052-WMAQ-RADIO-CUSTOM-SWR-PGM-MIXER": {
+  "files": 4,
+  "folders": [
+   "1990-1999/900052 - WMAQ RADIO - CUSTOM SWR-PGM MIXER"
+  ],
+  "job": "900052",
+  "kind": "console",
+  "sha": "346bdef7836cb48795af633740b90f3fbc50cb93",
+  "title": "900052 - WMAQ RADIO - CUSTOM SWR-PGM MIXER",
+  "year": "1990"
+ },
+ "CONSOLE.900180-WBZ-RADIO-R1000-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1990-1999/900180 - WBZ RADIO - R1000 RADIO CONSOLE"
+  ],
+  "job": "900180",
+  "kind": "console",
+  "sha": "eed54606ae2ab93a4c95bf48b610e0e35417d298",
+  "title": "900180 - WBZ RADIO - R1000 RADIO CONSOLE",
+  "year": "1990"
+ },
+ "CONSOLE.900310-CUSTOM-R600-RADIO-CONSOLE": {
+  "files": 8,
+  "folders": [
+   "1990-1999/900310 - CUSTOM R600 RADIO CONSOLE"
+  ],
+  "job": "900310",
+  "kind": "console",
+  "sha": "c721312d8d00d4797802d6215df45b0f6f7ec8f2",
+  "title": "900310 - CUSTOM R600 RADIO CONSOLE",
+  "year": "1990"
+ },
+ "CONSOLE.900416-KFBK-KAER": {
+  "files": 8,
+  "folders": [
+   "1990-1999/900416 - KFBK-KAER"
+  ],
+  "job": "900416",
+  "kind": "console",
+  "sha": "7089ef9c6463f6eab03495e1aed34db4c9399dd1",
+  "title": "900416 - KFBK-KAER",
+  "year": "1990"
+ },
+ "CONSOLE.900438-CHIN-Radio": {
+  "files": 348,
+  "folders": [
+   "1990-1999/900438 - CHIN Radio"
+  ],
+  "job": "900438",
+  "kind": "console",
+  "sha": "087da5bd6b91304091fb9d53754c60682ca084eb",
+  "title": "900438 - CHIN Radio",
+  "year": "1990"
+ },
+ "CONSOLE.900573": {
+  "files": 8,
+  "folders": [
+   "1990-1999/900573"
+  ],
+  "job": "900573",
+  "kind": "console",
+  "sha": "502c7ee239e19402e9b1be086c1c31486cce4612",
+  "title": "900573",
+  "year": "1990"
+ },
+ "CONSOLE.910034-CJCL-CUSTOM-R600-RADIO-CONSOLE": {
+  "files": 10,
+  "folders": [
+   "1990-1999/910034 - CJCL - CUSTOM R600 RADIO CONSOLE"
+  ],
+  "job": "910034",
+  "kind": "console",
+  "sha": "0952c2a6bfecd83c25fdea9e98b586e87f07a403",
+  "title": "910034 - CJCL - CUSTOM R600 RADIO CONSOLE",
+  "year": "1991"
+ },
+ "CONSOLE.910044-NBC": {
+  "files": 4,
+  "folders": [
+   "1990-1999/910044 - NBC"
+  ],
+  "job": "910044",
+  "kind": "console",
+  "sha": "8a4566abb56094dff8e790f1ea87aa0654002ce2",
+  "title": "910044 - NBC",
+  "year": "1991"
+ },
+ "CONSOLE.910071-CKNX-RADIO-R1600-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1990-1999/910071 - CKNX RADIO - R1600 RADIO CONSOLE"
+  ],
+  "job": "910071",
+  "kind": "console",
+  "sha": "2e3731def4479c1d6a5f90c4f5ec4a3f5fb559cf",
+  "title": "910071 - CKNX RADIO - R1600 RADIO CONSOLE",
+  "year": "1991"
+ },
+ "CONSOLE.910199-WCAL-RADIO-R600-RADIO-CONSOLE": {
+  "files": 10,
+  "folders": [
+   "1990-1999/910199 - WCAL RADIO - R600 RADIO CONSOLE"
+  ],
+  "job": "910199",
+  "kind": "console",
+  "sha": "9e11664ce2349634e5314fa62c4ef38f490b09c0",
+  "title": "910199 - WCAL RADIO - R600 RADIO CONSOLE",
+  "year": "1991"
+ },
+ "CONSOLE.910481-CHTZ-RADIO-R2200-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1990-1999/910481 - CHTZ RADIO - R2200 RADIO CONSOLE"
+  ],
+  "job": "910481",
+  "kind": "console",
+  "sha": "4c1a98fe59365491ee6623e1c71c3b4da5f0473a",
+  "title": "910481 - CHTZ RADIO - R2200 RADIO CONSOLE",
+  "year": "1991"
+ },
+ "CONSOLE.920004": {
+  "files": 12,
+  "folders": [
+   "1990-1999/920004"
+  ],
+  "job": "920004",
+  "kind": "console",
+  "sha": "3f1ee44b0190e8db739301063dc81aee22ff89a6",
+  "title": "920004",
+  "year": "1992"
+ },
+ "CONSOLE.920005": {
+  "files": 4,
+  "folders": [
+   "1990-1999/920005"
+  ],
+  "job": "920005",
+  "kind": "console",
+  "sha": "d6b1a7bc0dc755b2a00e459844f502d86516291d",
+  "title": "920005",
+  "year": "1992"
+ },
+ "CONSOLE.920006": {
+  "files": 4,
+  "folders": [
+   "1990-1999/920006"
+  ],
+  "job": "920006",
+  "kind": "console",
+  "sha": "1620b80959e1c52789fbc01b501fd2e954e1a6ad",
+  "title": "920006",
+  "year": "1992"
+ },
+ "CONSOLE.920009": {
+  "files": 4,
+  "folders": [
+   "1990-1999/920009"
+  ],
+  "job": "920009",
+  "kind": "console",
+  "sha": "d60a3b92f77cd5f18dd64232d6f5a7749b58075b",
+  "title": "920009",
+  "year": "1992"
+ },
+ "CONSOLE.920010": {
+  "files": 2,
+  "folders": [
+   "1990-1999/920010"
+  ],
+  "job": "920010",
+  "kind": "console",
+  "sha": "83ee75b2d31e9009c4a5a1069a7ebc0fac3b6819",
+  "title": "920010",
+  "year": "1992"
+ },
+ "CONSOLE.920063-KRSR-Radio": {
+  "files": 16,
+  "folders": [
+   "1990-1999/920063 - KRSR Radio"
+  ],
+  "job": "920063",
+  "kind": "console",
+  "sha": "047b9049d6c1b816075175f4f6454e24e17665c5",
+  "title": "920063 - KRSR Radio",
+  "year": "1992"
+ },
+ "CONSOLE.920150-WLYF-WMRZ": {
+  "files": 14,
+  "folders": [
+   "1990-1999/920150 - WLYF-WMRZ"
+  ],
+  "job": "920150",
+  "kind": "console",
+  "sha": "a50b2f56c8b6176dd4ccaa68022a99c98ff31609",
+  "title": "920150 - WLYF-WMRZ",
+  "year": "1992"
+ },
+ "CONSOLE.920170-CHYM-CKGL": {
+  "files": 10,
+  "folders": [
+   "1990-1999/920170 - CHYM-CKGL"
+  ],
+  "job": "920170",
+  "kind": "console",
+  "sha": "0934209a06319b3e88f129a20ebaca93c1690810",
+  "title": "920170 - CHYM-CKGL",
+  "year": "1992"
+ },
+ "CONSOLE.920216": {
+  "files": 2,
+  "folders": [
+   "1990-1999/920216"
+  ],
+  "job": "920216",
+  "kind": "console",
+  "sha": "6cd3fe53acd524558721eb951c478f53b06d5fe9",
+  "title": "920216",
+  "year": "1992"
+ },
+ "CONSOLE.920306-CJMJ-FM": {
+  "files": 12,
+  "folders": [
+   "1990-1999/920306 - CJMJ-FM"
+  ],
+  "job": "920306",
+  "kind": "console",
+  "sha": "afd814ed3ab04c953f02e8193a31fd49f94cde1d",
+  "title": "920306 - CJMJ-FM",
+  "year": "1992"
+ },
+ "CONSOLE.920383-WOWF": {
+  "files": 12,
+  "folders": [
+   "1990-1999/920383 - WOWF"
+  ],
+  "job": "920383",
+  "kind": "console",
+  "sha": "35b785e141c1772283604cd358ea39a212cce4fe",
+  "title": "920383 - WOWF",
+  "year": "1992"
+ },
+ "CONSOLE.920384": {
+  "files": 12,
+  "folders": [
+   "1990-1999/920384"
+  ],
+  "job": "920384",
+  "kind": "console",
+  "sha": "05d73bbd04138214b364fcb1961731b2bb1d3c34",
+  "title": "920384",
+  "year": "1992"
+ },
+ "CONSOLE.920477-Telemedia": {
+  "files": 16,
+  "folders": [
+   "1990-1999/920477",
+   "1990-1999/920477 - Telemedia"
+  ],
+  "job": "920477",
+  "kind": "console",
+  "sha": "c61eb490e5c4c1eb3bf1dd19121ff5ddcbacd563",
+  "title": "920477 - Telemedia",
+  "year": "1992"
+ },
+ "CONSOLE.930021-TTC": {
+  "files": 4,
+  "folders": [
+   "1990-1999/93021 - TTC"
+  ],
+  "job": "930021",
+  "kind": "console",
+  "sha": "d899362800ce71a793e32657260565d83814f5d5",
+  "title": "930021 - TTC",
+  "year": "1993"
+ },
+ "CONSOLE.930031": {
+  "files": 4,
+  "folders": [
+   "1990-1999/93031"
+  ],
+  "job": "930031",
+  "kind": "console",
+  "sha": "8308ee7f1cac01af895d77e7d9ff71439b58975d",
+  "title": "930031",
+  "year": "1993"
+ },
+ "CONSOLE.930038": {
+  "files": 4,
+  "folders": [
+   "1990-1999/93038"
+  ],
+  "job": "930038",
+  "kind": "console",
+  "sha": "3f0591d7ddd2e734db687bc7f74ddfd027556b62",
+  "title": "930038",
+  "year": "1993"
+ },
+ "CONSOLE.930039-CBC": {
+  "files": 16,
+  "folders": [
+   "1990-1999/93039 - CBC"
+  ],
+  "job": "930039",
+  "kind": "console",
+  "sha": "099245e2e24aa19bfa333f970227c97655365702",
+  "title": "930039 - CBC",
+  "year": "1993"
+ },
+ "CONSOLE.930047-MOVING-PICTURES-TVNZ": {
+  "files": 8,
+  "folders": [
+   "1990-1999/93047 - MOVING PICTURES - TVNZ"
+  ],
+  "job": "930047",
+  "kind": "console",
+  "sha": "ba473f16c47f2b2bbe151dd522ea92eb79be6091",
+  "title": "930047 - MOVING PICTURES - TVNZ",
+  "year": "1993"
+ },
+ "CONSOLE.930049": {
+  "files": 4,
+  "folders": [
+   "1990-1999/93049"
+  ],
+  "job": "930049",
+  "kind": "console",
+  "sha": "7d0724b3de8dd16ff0cd03977456dc2438882995",
+  "title": "930049",
+  "year": "1993"
+ },
+ "CONSOLE.930177-TORONTO-BROADCAST-CENTRE": {
+  "files": 8,
+  "folders": [
+   "1990-1999/930177 - TORONTO BROADCAST CENTRE"
+  ],
+  "job": "930177",
+  "kind": "console",
+  "sha": "7b1fa46ce43b7fcfc519d503ff1e51a6e90593ac",
+  "title": "930177 - TORONTO BROADCAST CENTRE",
+  "year": "1993"
+ },
+ "CONSOLE.930188-ST.-OLAF-COLLEGE": {
+  "files": 12,
+  "folders": [
+   "1990-1999/930188 - ST. OLAF COLLEGE"
+  ],
+  "job": "930188",
+  "kind": "console",
+  "sha": "887e18549e8b6c3804f93d81f1ac21e298f70517",
+  "title": "930188 - ST. OLAF COLLEGE",
+  "year": "1993"
+ },
+ "CONSOLE.930233": {
+  "files": 10,
+  "folders": [
+   "1990-1999/930233"
+  ],
+  "job": "930233",
+  "kind": "console",
+  "sha": "d72a799459c4394e5ed54194d2e043c0ce1b1598",
+  "title": "930233",
+  "year": "1993"
+ },
+ "CONSOLE.930351": {
+  "files": 16,
+  "folders": [
+   "1990-1999/930351"
+  ],
+  "job": "930351",
+  "kind": "console",
+  "sha": "2c0a24e7fb9f8f11e18d49133437f61b6ba145df",
+  "title": "930351",
+  "year": "1993"
+ },
+ "CONSOLE.940021-GLEN-GOULD-STUDIO": {
+  "files": 44,
+  "folders": [
+   "1990-1999/94021 - GLEN GOULD STUDIO",
+   "1990-1999/94021 - Glen Gould Studio",
+   "1990-1999/94021 - Glenn Gould Studio"
+  ],
+  "job": "940021",
+  "kind": "console",
+  "sha": "6dbf0890e54250ab91ba9f4eae07f45397b2dd15",
+  "title": "940021 - GLEN GOULD STUDIO",
+  "year": "1994"
+ },
+ "CONSOLE.940031-CENTENNIAL-COLLEGE": {
+  "files": 16,
+  "folders": [
+   "1990-1999/94031 - CENTENNIAL COLLEGE"
+  ],
+  "job": "940031",
+  "kind": "console",
+  "sha": "a527623cd010553ac1e0ac88d2c61863b47ce82b",
+  "title": "940031 - CENTENNIAL COLLEGE",
+  "year": "1994"
+ },
+ "CONSOLE.940038": {
+  "files": 4,
+  "folders": [
+   "1990-1999/94038"
+  ],
+  "job": "940038",
+  "kind": "console",
+  "sha": "6f52af92b8b091e5f92186026c3a8692a65543fd",
+  "title": "940038",
+  "year": "1994"
+ },
+ "CONSOLE.940052": {
+  "files": 2,
+  "folders": [
+   "1990-1999/94052"
+  ],
+  "job": "940052",
+  "kind": "console",
+  "sha": "ca318cc4737335ce8f9ce4eca3834ae4e647f719",
+  "title": "940052",
+  "year": "1994"
+ },
+ "CONSOLE.940054": {
+  "files": 8,
+  "folders": [
+   "1990-1999/94054"
+  ],
+  "job": "940054",
+  "kind": "console",
+  "sha": "197996e154a7d9c529e2145050c1123b379a1fa4",
+  "title": "940054",
+  "year": "1994"
+ },
+ "CONSOLE.940063-CBC-REGINA": {
+  "files": 16,
+  "folders": [
+   "1990-1999/94063 - CBC REGINA"
+  ],
+  "job": "940063",
+  "kind": "console",
+  "sha": "83d888bd1d9431b5fbf6a682fca12c3aa34bb8dd",
+  "title": "940063 - CBC REGINA",
+  "year": "1994"
+ },
+ "CONSOLE.940064-WBZ-Boston": {
+  "files": 32,
+  "folders": [
+   "1990-1999/94064 - WBZ",
+   "1990-1999/94064 - WBZ Boston"
+  ],
+  "job": "940064",
+  "kind": "console",
+  "sha": "2e72314228957a8f4212cd7bb3c96bf04de23f07",
+  "title": "940064 - WBZ Boston",
+  "year": "1994"
+ },
+ "CONSOLE.940068": {
+  "files": 4,
+  "folders": [
+   "1990-1999/94068"
+  ],
+  "job": "940068",
+  "kind": "console",
+  "sha": "22cc7b89605dd7993268f5340607578c68342dd7",
+  "title": "940068",
+  "year": "1994"
+ },
+ "CONSOLE.940114": {
+  "files": 8,
+  "folders": [
+   "1990-1999/940114"
+  ],
+  "job": "940114",
+  "kind": "console",
+  "sha": "3e42f14b55bdd8a0896d9c875214f311eb40584e",
+  "title": "940114",
+  "year": "1994"
+ },
+ "CONSOLE.940117": {
+  "files": 24,
+  "folders": [
+   "1990-1999/940117"
+  ],
+  "job": "940117",
+  "kind": "console",
+  "sha": "0e09437ed20363626379b932fe6b04f1defbd15d",
+  "title": "940117",
+  "year": "1994"
+ },
+ "CONSOLE.940145": {
+  "files": 36,
+  "folders": [
+   "1990-1999/940145"
+  ],
+  "job": "940145",
+  "kind": "console",
+  "sha": "f5ebd4b3b2a2c666cbc04b3bbc5b09cb48c51936",
+  "title": "940145",
+  "year": "1994"
+ },
+ "CONSOLE.940153-RENAISSANCE-MKI-STEREO-AUDIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1990-1999/940153 - RENAISSANCE MKI STEREO AUDIO CONSOLE"
+  ],
+  "job": "940153",
+  "kind": "console",
+  "sha": "1a08db6d196bcd87bb7f7e998b02eeb9833d5d57",
+  "title": "940153 - RENAISSANCE MKI STEREO AUDIO CONSOLE",
+  "year": "1994"
+ },
+ "CONSOLE.940177": {
+  "files": 4,
+  "folders": [
+   "1990-1999/940177"
+  ],
+  "job": "940177",
+  "kind": "console",
+  "sha": "f52efbabcee459ca2d4674a62d07f9e93d513457",
+  "title": "940177",
+  "year": "1994"
+ },
+ "CONSOLE.940184-GLENN-GOULD-STUDIO": {
+  "files": 58,
+  "folders": [
+   "1990-1999/940184",
+   "1990-1999/940184 - GLENN GOULD STUDIO",
+   "1990-1999/940184 - Glenn Gould Studio"
+  ],
+  "job": "940184",
+  "kind": "console",
+  "sha": "60aea5bae6bcb59c3eb30488b4c5132ac0e2651d",
+  "title": "940184 - GLENN GOULD STUDIO",
+  "year": "1994"
+ },
+ "CONSOLE.940224": {
+  "files": 4,
+  "folders": [
+   "1990-1999/940224"
+  ],
+  "job": "940224",
+  "kind": "console",
+  "sha": "5a03b2884e87b08bb13278dd8ee1b67e9bd5dce2",
+  "title": "940224",
+  "year": "1994"
+ },
+ "CONSOLE.940238-CKNW": {
+  "files": 84,
+  "folders": [
+   "1990-1999/940238",
+   "1990-1999/940238 - CKNW",
+   "1990-1999/94238"
+  ],
+  "job": "940238",
+  "kind": "console",
+  "sha": "214aa9ad189eb5dffb671077e695fe3d7f82c1eb",
+  "title": "940238 - CKNW",
+  "year": "1994"
+ },
+ "CONSOLE.940248-CENTENNIAL-COLLEGE": {
+  "files": 20,
+  "folders": [
+   "1990-1999/940248 - CENTENNIAL COLLEGE",
+   "1990-1999/940248 - Centennial College"
+  ],
+  "job": "940248",
+  "kind": "console",
+  "sha": "53171c083a03723a7102b8a38cabb1173db79a94",
+  "title": "940248 - CENTENNIAL COLLEGE",
+  "year": "1994"
+ },
+ "CONSOLE.940305-Telemedia-Sudbury": {
+  "files": 8,
+  "folders": [
+   "1990-1999/940305 - Telemedia Sudbury"
+  ],
+  "job": "940305",
+  "kind": "console",
+  "sha": "d1ad00b467148ba61dc85a9dad9530b851b80bef",
+  "title": "940305 - Telemedia Sudbury",
+  "year": "1994"
+ },
+ "CONSOLE.940332": {
+  "files": 26,
+  "folders": [
+   "1990-1999/940332"
+  ],
+  "job": "940332",
+  "kind": "console",
+  "sha": "f3350ffc40de38f7a88da4f1424e6684d1ef9827",
+  "title": "940332",
+  "year": "1994"
+ },
+ "CONSOLE.940333-CFTR": {
+  "files": 20,
+  "folders": [
+   "1990-1999/940333 - CFTR"
+  ],
+  "job": "940333",
+  "kind": "console",
+  "sha": "c52764e39a33879735a13690a7ef1c27720cc80f",
+  "title": "940333 - CFTR",
+  "year": "1994"
+ },
+ "CONSOLE.940334": {
+  "files": 20,
+  "folders": [
+   "1990-1999/940334"
+  ],
+  "job": "940334",
+  "kind": "console",
+  "sha": "e1d1a9608b5d9c06d5952715eac6f8845185dbc8",
+  "title": "940334",
+  "year": "1994"
+ },
+ "CONSOLE.940335-CHFI": {
+  "files": 32,
+  "folders": [
+   "1990-1999/940335",
+   "1990-1999/940335 - CHFI"
+  ],
+  "job": "940335",
+  "kind": "console",
+  "sha": "180ff4859b386004a324d05280287b006d505d2f",
+  "title": "940335 - CHFI",
+  "year": "1994"
+ },
+ "CONSOLE.940350": {
+  "files": 36,
+  "folders": [
+   "1990-1999/940350"
+  ],
+  "job": "940350",
+  "kind": "console",
+  "sha": "7a8eb86710dd2830cb534b7d51454e71e32baa3f",
+  "title": "940350",
+  "year": "1994"
+ },
+ "CONSOLE.940351-Telemedia-Network-Radio": {
+  "files": 24,
+  "folders": [
+   "1990-1999/940351",
+   "1990-1999/940351 - Telemedia Network Radio"
+  ],
+  "job": "940351",
+  "kind": "console",
+  "sha": "65d18bd04f039694b0358649311a19825af395f5",
+  "title": "940351 - Telemedia Network Radio",
+  "year": "1994"
+ },
+ "CONSOLE.940356-CBC": {
+  "files": 32,
+  "folders": [
+   "1990-1999/940356",
+   "1990-1999/940356 - CBC"
+  ],
+  "job": "940356",
+  "kind": "console",
+  "sha": "ddc7f0f85d5c172d311c4139f9351f9fd789a40b",
+  "title": "940356 - CBC",
+  "year": "1994"
+ },
+ "CONSOLE.940376-CKWX-Radio": {
+  "files": 16,
+  "folders": [
+   "1990-1999/940376 - CKWX Radio"
+  ],
+  "job": "940376",
+  "kind": "console",
+  "sha": "5f0f6e03885b89acb89d8fc92afa87511c8eace6",
+  "title": "940376 - CKWX Radio",
+  "year": "1994"
+ },
+ "CONSOLE.940410": {
+  "files": 10,
+  "folders": [
+   "1990-1999/940410"
+  ],
+  "job": "940410",
+  "kind": "console",
+  "sha": "b1c4d306e999976bcc34e2af90afbfa664c3c0c0",
+  "title": "940410",
+  "year": "1994"
+ },
+ "CONSOLE.940444-WBZ-Boston": {
+  "files": 136,
+  "folders": [
+   "1990-1999/940444",
+   "1990-1999/940444 - WBZ",
+   "1990-1999/940444 - WBZ Boston"
+  ],
+  "job": "940444",
+  "kind": "console",
+  "sha": "dd4d280ea6df3326587f3d40130f615868eeaedb",
+  "title": "940444 - WBZ Boston",
+  "year": "1994"
+ },
+ "CONSOLE.940446": {
+  "files": 24,
+  "folders": [
+   "1990-1999/940446"
+  ],
+  "job": "940446",
+  "kind": "console",
+  "sha": "d2b7c7624685e1418320a4c3c24fbf18aa7777e2",
+  "title": "940446",
+  "year": "1994"
+ },
+ "CONSOLE.940447": {
+  "files": 18,
+  "folders": [
+   "1990-1999/940447"
+  ],
+  "job": "940447",
+  "kind": "console",
+  "sha": "6d465d516c409607a5d048af4e510c43660288bf",
+  "title": "940447",
+  "year": "1994"
+ },
+ "CONSOLE.940448": {
+  "files": 12,
+  "folders": [
+   "1990-1999/940448"
+  ],
+  "job": "940448",
+  "kind": "console",
+  "sha": "c7009ac99ff89e1fb304d69154c95a22a48f3d14",
+  "title": "940448",
+  "year": "1994"
+ },
+ "CONSOLE.940449-WBZ-Boston-Radio-Control-Turrets-Project-No": {
+  "files": 32,
+  "folders": [
+   "1990-1999/940449",
+   "1990-1999/940449 - WBZ Boston Radio Control Turrets Project No"
+  ],
+  "job": "940449",
+  "kind": "console",
+  "sha": "60d6b3417549ac3f5a12a4dc46ae245bba1f4633",
+  "title": "940449 - WBZ Boston Radio Control Turrets Project No",
+  "year": "1994"
+ },
+ "CONSOLE.950009-CBC-RENAISSANCE-MKII-STEREO-AUDIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1990-1999/950009 - CBC - RENAISSANCE MKII STEREO AUDIO CONSOLE"
+  ],
+  "job": "950009",
+  "kind": "console",
+  "sha": "f450bdabd5eb17ca4bee6e70ceffcec77efd523a",
+  "title": "950009 - CBC - RENAISSANCE MKII STEREO AUDIO CONSOLE",
+  "year": "1995"
+ },
+ "CONSOLE.950012": {
+  "files": 4,
+  "folders": [
+   "1990-1999/95012"
+  ],
+  "job": "950012",
+  "kind": "console",
+  "sha": "5657e27ab3ccd8983d44a819e0a64385a3c3eded",
+  "title": "950012",
+  "year": "1995"
+ },
+ "CONSOLE.950015": {
+  "files": 4,
+  "folders": [
+   "1990-1999/95015"
+  ],
+  "job": "950015",
+  "kind": "console",
+  "sha": "8e9e3b1359e577f1302bb298e37bfda9a41c0f62",
+  "title": "950015",
+  "year": "1995"
+ },
+ "CONSOLE.950023-CJAD": {
+  "files": 8,
+  "folders": [
+   "1990-1999/95023 - CJAD"
+  ],
+  "job": "950023",
+  "kind": "console",
+  "sha": "0b5b5b82b4e1083a801ec47f64f36841593def1c",
+  "title": "950023 - CJAD",
+  "year": "1995"
+ },
+ "CONSOLE.950024": {
+  "files": 8,
+  "folders": [
+   "1990-1999/95024"
+  ],
+  "job": "950024",
+  "kind": "console",
+  "sha": "968a7ecdfa56d33b83c9977e87e0f08b75c8b4d0",
+  "title": "950024",
+  "year": "1995"
+ },
+ "CONSOLE.950033": {
+  "files": 16,
+  "folders": [
+   "1990-1999/95033"
+  ],
+  "job": "950033",
+  "kind": "console",
+  "sha": "6b1e880f6464fbe88a5f02e44c8d1a7f6c8de772",
+  "title": "950033",
+  "year": "1995"
+ },
+ "CONSOLE.950069-CBc-Toronto-Machine-and-Logo-Control-Panel": {
+  "files": 8,
+  "folders": [
+   "1990-1999/950069",
+   "1990-1999/950069 - CBc Toronto Machine and Logo Control Panel"
+  ],
+  "job": "950069",
+  "kind": "console",
+  "sha": "40afa9463cfb45a6726c96176a872c28c8c02565",
+  "title": "950069 - CBc Toronto Machine and Logo Control Panel",
+  "year": "1995"
+ },
+ "CONSOLE.950089-SHAW-RADIO-RENAISSANCE-MKII-STEREO-AUDIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1990-1999/950089 - SHAW RADIO - RENAISSANCE MKII STEREO AUDIO CONSOLE"
+  ],
+  "job": "950089",
+  "kind": "console",
+  "sha": "8620cbe7fff58c78fa457952670aefbcca079285",
+  "title": "950089 - SHAW RADIO - RENAISSANCE MKII STEREO AUDIO CONSOLE",
+  "year": "1995"
+ },
+ "CONSOLE.950144": {
+  "files": 8,
+  "folders": [
+   "1990-1999/950144"
+  ],
+  "job": "950144",
+  "kind": "console",
+  "sha": "0b15cb76dbba98119017fec7a3129d061f3cc0cd",
+  "title": "950144",
+  "year": "1995"
+ },
+ "CONSOLE.950177": {
+  "files": 12,
+  "folders": [
+   "1990-1999/950177"
+  ],
+  "job": "950177",
+  "kind": "console",
+  "sha": "50bd8409a1a8636b1302320d58aea8d7c460f60e",
+  "title": "950177",
+  "year": "1995"
+ },
+ "CONSOLE.950190": {
+  "files": 16,
+  "folders": [
+   "1990-1999/950190"
+  ],
+  "job": "950190",
+  "kind": "console",
+  "sha": "68478a6cda64a3320a23cdea711afb5ce3c1d657",
+  "title": "950190",
+  "year": "1995"
+ },
+ "CONSOLE.950208": {
+  "files": 4,
+  "folders": [
+   "1990-1999/950208"
+  ],
+  "job": "950208",
+  "kind": "console",
+  "sha": "811a015774e72b4f6938f8aae38f4cc3e49b443d",
+  "title": "950208",
+  "year": "1995"
+ },
+ "CONSOLE.950224": {
+  "files": 16,
+  "folders": [
+   "1990-1999/950224"
+  ],
+  "job": "950224",
+  "kind": "console",
+  "sha": "309298b93745fb442acda6569d001ac0b6302d83",
+  "title": "950224",
+  "year": "1995"
+ },
+ "CONSOLE.950225": {
+  "files": 8,
+  "folders": [
+   "1990-1999/950225"
+  ],
+  "job": "950225",
+  "kind": "console",
+  "sha": "d756ccacb736ac2342ed027815566b2b631095dd",
+  "title": "950225",
+  "year": "1995"
+ },
+ "CONSOLE.950250": {
+  "files": 12,
+  "folders": [
+   "1990-1999/950250"
+  ],
+  "job": "950250",
+  "kind": "console",
+  "sha": "e2d6d14d19f4ac2fcfcd7b529ee99a1f49e5cce6",
+  "title": "950250",
+  "year": "1995"
+ },
+ "CONSOLE.950272-TTC": {
+  "files": 12,
+  "folders": [
+   "1990-1999/950272 - TTC"
+  ],
+  "job": "950272",
+  "kind": "console",
+  "sha": "1c305b11dbf7b46e99ca66891b9411ea8ff34dd5",
+  "title": "950272 - TTC",
+  "year": "1995"
+ },
+ "CONSOLE.950351": {
+  "files": 12,
+  "folders": [
+   "1990-1999/950351"
+  ],
+  "job": "950351",
+  "kind": "console",
+  "sha": "9eef562ca1e952ff0cffafb7abf177719aae97c2",
+  "title": "950351",
+  "year": "1995"
+ },
+ "CONSOLE.950361": {
+  "files": 10,
+  "folders": [
+   "1990-1999/950361"
+  ],
+  "job": "950361",
+  "kind": "console",
+  "sha": "2d05d78a4333b3c18f210e5e2194a10fb6123174",
+  "title": "950361",
+  "year": "1995"
+ },
+ "CONSOLE.950362": {
+  "files": 16,
+  "folders": [
+   "1990-1999/950362"
+  ],
+  "job": "950362",
+  "kind": "console",
+  "sha": "7a31281b172b4a013c7d2af23e2c2a8c77d86bd7",
+  "title": "950362",
+  "year": "1995"
+ },
+ "CONSOLE.950410-CBC-MONTREAL-CUSTOM-UTILITY-AMPLIFIER": {
+  "files": 8,
+  "folders": [
+   "1990-1999/950410",
+   "1990-1999/950410 - , CBC MONTREAL CUSTOM UTILITY AMPLIFIER"
+  ],
+  "job": "950410",
+  "kind": "console",
+  "sha": "a793bbd7485a3cfa118d58685c157d44d20798e0",
+  "title": "950410 - CBC MONTREAL CUSTOM UTILITY AMPLIFIER",
+  "year": "1995"
+ },
+ "CONSOLE.960002-CFNY": {
+  "files": 22,
+  "folders": [
+   "1990-1999/96002 - CFNY"
+  ],
+  "job": "960002",
+  "kind": "console",
+  "sha": "82bba8db3d6b6f9418e871cae8239b013a2138bb",
+  "title": "960002 - CFNY",
+  "year": "1996"
+ },
+ "CONSOLE.960004": {
+  "files": 4,
+  "folders": [
+   "1990-1999/96004"
+  ],
+  "job": "960004",
+  "kind": "console",
+  "sha": "564e1df9ab115c4f764f25de3a548f749f4492a0",
+  "title": "960004",
+  "year": "1996"
+ },
+ "CONSOLE.960010": {
+  "files": 8,
+  "folders": [
+   "1990-1999/96010"
+  ],
+  "job": "960010",
+  "kind": "console",
+  "sha": "292fba438ee28a8c297275effa0c2286b6873f98",
+  "title": "960010",
+  "year": "1996"
+ },
+ "CONSOLE.960017": {
+  "files": 6,
+  "folders": [
+   "1990-1999/96017"
+  ],
+  "job": "960017",
+  "kind": "console",
+  "sha": "7c7c13c2f929e8d80b452d337acc69608b982524",
+  "title": "960017",
+  "year": "1996"
+ },
+ "CONSOLE.960019": {
+  "files": 4,
+  "folders": [
+   "1990-1999/96019"
+  ],
+  "job": "960019",
+  "kind": "console",
+  "sha": "68dfbe79cf3caae50bebd9305de82254a5c557c6",
+  "title": "960019",
+  "year": "1996"
+ },
+ "CONSOLE.960043": {
+  "files": 4,
+  "folders": [
+   "1990-1999/960043 - _w_ _ - _ _"
+  ],
+  "job": "960043",
+  "kind": "console",
+  "sha": "1572fca513b1a7b39c8b44cd8113f98be759a137",
+  "title": "960043",
+  "year": "1996"
+ },
+ "CONSOLE.960077": {
+  "files": 38,
+  "folders": [
+   "1990-1999/960077"
+  ],
+  "job": "960077",
+  "kind": "console",
+  "sha": "e4390026d2ae79d654a6b80696b3b477d7fd6fe0",
+  "title": "960077",
+  "year": "1996"
+ },
+ "CONSOLE.960121": {
+  "files": 2,
+  "folders": [
+   "1990-1999/960121"
+  ],
+  "job": "960121",
+  "kind": "console",
+  "sha": "9c4afd357ba8fd153d184748610445800591d89f",
+  "title": "960121",
+  "year": "1996"
+ },
+ "CONSOLE.960140": {
+  "files": 4,
+  "folders": [
+   "1990-1999/960140"
+  ],
+  "job": "960140",
+  "kind": "console",
+  "sha": "ae5ae2f81f4ef2a77a41c50685ea8fead2d82d6f",
+  "title": "960140",
+  "year": "1996"
+ },
+ "CONSOLE.960162-CJCB-RADIO-RENAISSANCE-MKII-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1990-1999/960162 - CJCB RADIO - RENAISSANCE MKII RADIO CONSOLE"
+  ],
+  "job": "960162",
+  "kind": "console",
+  "sha": "0b7bb3c002466c57ba690b8a655322181c2362d6",
+  "title": "960162 - CJCB RADIO - RENAISSANCE MKII RADIO CONSOLE",
+  "year": "1996"
+ },
+ "CONSOLE.960188-CIMF-RADIO-RENAISSANCE-MKIII-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1990-1999/960188 - CIMF RADIO - RENAISSANCE MKIII RADIO CONSOLE"
+  ],
+  "job": "960188",
+  "kind": "console",
+  "sha": "c05315b4b3a7a74db16b5b480723095e0ed7e901",
+  "title": "960188 - CIMF RADIO - RENAISSANCE MKIII RADIO CONSOLE",
+  "year": "1996"
+ },
+ "CONSOLE.960191": {
+  "files": 12,
+  "folders": [
+   "1990-1999/960191"
+  ],
+  "job": "960191",
+  "kind": "console",
+  "sha": "f557ed4e192ea672af45881ee8794e361fd69036",
+  "title": "960191",
+  "year": "1996"
+ },
+ "CONSOLE.960195-CBC": {
+  "files": 16,
+  "folders": [
+   "1990-1999/960195",
+   "1990-1999/960195 - CBC"
+  ],
+  "job": "960195",
+  "kind": "console",
+  "sha": "d3383737939d37444ae97e745cc16ff0e35e5cd5",
+  "title": "960195 - CBC",
+  "year": "1996"
+ },
+ "CONSOLE.960196": {
+  "files": 6,
+  "folders": [
+   "1990-1999/960196"
+  ],
+  "job": "960196",
+  "kind": "console",
+  "sha": "3de042b0c993154f759c44b67139ab477902187e",
+  "title": "960196",
+  "year": "1996"
+ },
+ "CONSOLE.960208": {
+  "files": 12,
+  "folders": [
+   "1990-1999/960208"
+  ],
+  "job": "960208",
+  "kind": "console",
+  "sha": "61d959a89d3d77692cd2692a3b8ad5ad67f0e429",
+  "title": "960208",
+  "year": "1996"
+ },
+ "CONSOLE.960243": {
+  "files": 30,
+  "folders": [
+   "1990-1999/960243"
+  ],
+  "job": "960243",
+  "kind": "console",
+  "sha": "d38f1a89aefaf3d2afa9d95d078c991b0d09e4d2",
+  "title": "960243",
+  "year": "1996"
+ },
+ "CONSOLE.960244": {
+  "files": 18,
+  "folders": [
+   "1990-1999/960244"
+  ],
+  "job": "960244",
+  "kind": "console",
+  "sha": "79a502634c13f46c422d7cc0f03817e9163ba3b7",
+  "title": "960244",
+  "year": "1996"
+ },
+ "CONSOLE.960296-CBC-REGINA": {
+  "files": 66,
+  "folders": [
+   "1990-1999/960296",
+   "1990-1999/960296 - CBC REGINA"
+  ],
+  "job": "960296",
+  "kind": "console",
+  "sha": "6a91c6f222716a4c801f98900ce60bebb12b59a2",
+  "title": "960296 - CBC REGINA",
+  "year": "1996"
+ },
+ "CONSOLE.960366": {
+  "files": 4,
+  "folders": [
+   "1990-1999/960366"
+  ],
+  "job": "960366",
+  "kind": "console",
+  "sha": "a99806744571c8be7584eab28432d665f2ae4ade",
+  "title": "960366",
+  "year": "1996"
+ },
+ "CONSOLE.960370-TORONTO-CHINESE-RADIO-RENAISSANCE-MKII-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1990-1999/960370 - TORONTO CHINESE RADIO - RENAISSANCE MKII RADIO CONSOLE"
+  ],
+  "job": "960370",
+  "kind": "console",
+  "sha": "040dbf829dd207645c3ccf5d4b3f7832515cc2a2",
+  "title": "960370 - TORONTO CHINESE RADIO - RENAISSANCE MKII RADIO CONSOLE",
+  "year": "1996"
+ },
+ "CONSOLE.960525": {
+  "files": 4,
+  "folders": [
+   "1990-1999/960525"
+  ],
+  "job": "960525",
+  "kind": "console",
+  "sha": "2f7e938955937376b2f4a5bca19977ab60d6b1a0",
+  "title": "960525",
+  "year": "1996"
+ },
+ "CONSOLE.970004-NEW-ZEALAND-PUBLIC-RADIO-RNZI-A-RENAISSANCE-MKII-STEREO-AUDIO-CONSOLE": {
+  "files": 10,
+  "folders": [
+   "1990-1999/970004 - NEW ZEALAND PUBLIC RADIO RNZI 'A' - RENAISSANCE MKII STEREO AUDIO CONSOLE"
+  ],
+  "job": "970004",
+  "kind": "console",
+  "sha": "04551ba439b594658df082cc2d8f8d2a2f5f45c4",
+  "title": "970004 - NEW ZEALAND PUBLIC RADIO RNZI 'A' - RENAISSANCE MKII STEREO AUDIO CONSOLE",
+  "year": "1997"
+ },
+ "CONSOLE.970029-ONTARIO-JOCKEY-CLUB-CUSTOM-CONTROL-PANEL": {
+  "files": 8,
+  "folders": [
+   "1990-1999/970029",
+   "1990-1999/970029 - , ONTARIO JOCKEY CLUB CUSTOM CONTROL PANEL"
+  ],
+  "job": "970029",
+  "kind": "console",
+  "sha": "11ea621c8b76f429c0646960a103ec968f4730e9",
+  "title": "970029 - ONTARIO JOCKEY CLUB CUSTOM CONTROL PANEL",
+  "year": "1997"
+ },
+ "CONSOLE.970177-CBC": {
+  "files": 8,
+  "folders": [
+   "1990-1999/970177 - CBC"
+  ],
+  "job": "970177",
+  "kind": "console",
+  "sha": "ec8861e9f07fef8f93fdbbb1b3fdf0927fb06c33",
+  "title": "970177 - CBC",
+  "year": "1997"
+ },
+ "CONSOLE.970245": {
+  "files": 8,
+  "folders": [
+   "1990-1999/970245"
+  ],
+  "job": "970245",
+  "kind": "console",
+  "sha": "5a25c29fe08ce9a96fea216cc3bb97b5de7a1195",
+  "title": "970245",
+  "year": "1997"
+ },
+ "CONSOLE.980032-12-channel-monitor-mixer": {
+  "files": 42,
+  "folders": [
+   "1990-1999/980032 - 12-channel-monitor-mixer"
+  ],
+  "job": "980032",
+  "kind": "console",
+  "sha": "b8f7810b93f662e901b122627eece4f2386d070f",
+  "title": "980032 - 12-channel-monitor-mixer",
+  "year": "1998"
+ },
+ "CONSOLE.Ash-and-Wood-console": {
+  "files": 4,
+  "folders": [
+   "1960-1969/1967-1969/Ash and Wood console"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "f8d3ce7d57ba32dd6f1a565797d5f6b17c6e1aee",
+  "title": "Ash and Wood console",
+  "year": ""
+ },
  "CONSOLE.EuroConsole": {
   "files": 0,
   "folders": [],
@@ -734,6 +2362,28 @@
   "sha": "",
   "title": "EuroConsole",
   "year": "2026"
+ },
+ "CONSOLE.Film-consoles": {
+  "files": 4,
+  "folders": [
+   "1960-1969/1967-1969/Film consoles"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "ad14f2b720850a7a276897e05130ea365b81cb26",
+  "title": "Film consoles",
+  "year": ""
+ },
+ "CONSOLE.KWWL-New-Orleans": {
+  "files": 2,
+  "folders": [
+   "1960-1969/1967-1969/KWWL New Orleans"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "8b039ccf1f9f309547fd348432757c733be0f380",
+  "title": "KWWL New Orleans",
+  "year": ""
  },
  "INTERCOM.860485-CFTM-TELEVISION-CUSTOM-INTERCOM-MATRIX": {
   "files": 4,
@@ -822,5 +2472,811 @@
   "sha": "aa6f1143fdc6942e49fcff2f3ad9b6b1d8502e89",
   "title": "870439 - TCN 9 SYDNEY - CUSTOM INTERCOM",
   "year": "1987"
+ },
+ "INTERCOM.880323-WCCO-RADIO-CUSTOM-INTERCOM-MATRIX": {
+  "files": 14,
+  "folders": [
+   "1980-1989/880323 - WCCO RADIO - CUSTOM INTERCOM MATRIX"
+  ],
+  "job": "880323",
+  "kind": "intercom",
+  "sha": "d94e41c93f385583ce02c2912fedf9ad58a9b43b",
+  "title": "880323 - WCCO RADIO - CUSTOM INTERCOM MATRIX",
+  "year": "1988"
+ },
+ "INTERCOM.880478-TCN-9-SYDNEY-CUSTOM-MicroCOM-II-SYSTEM": {
+  "files": 10,
+  "folders": [
+   "1980-1989/880478 - TCN-9 SYDNEY - CUSTOM MicroCOM II SYSTEM"
+  ],
+  "job": "880478",
+  "kind": "intercom",
+  "sha": "93597d976909832dab7812233105fc967615f3c6",
+  "title": "880478 - TCN-9 SYDNEY - CUSTOM MicroCOM II SYSTEM",
+  "year": "1988"
+ },
+ "INTERCOM.880545-COMMUNICATIONS-ENGINEERING-48x48-MicroCOM-SYSTEM": {
+  "files": 10,
+  "folders": [
+   "1980-1989/880545 - COMMUNICATIONS ENGINEERING - 48x48 MicroCOM SYSTEM"
+  ],
+  "job": "880545",
+  "kind": "intercom",
+  "sha": "c11d28124fce3278d48b7864c7ef765eeab34fc0",
+  "title": "880545 - COMMUNICATIONS ENGINEERING - 48x48 MicroCOM SYSTEM",
+  "year": "1988"
+ },
+ "INTERCOM.880675-ATLANTIC-TV-SYSTEM-LIMITED-CUSTOM-IFB": {
+  "files": 10,
+  "folders": [
+   "1980-1989/880675 - ATLANTIC TV SYSTEM LIMITED - CUSTOM IFB"
+  ],
+  "job": "880675",
+  "kind": "intercom",
+  "sha": "8cafe66f358f44a1dd93739b1571176febeefa18",
+  "title": "880675 - ATLANTIC TV SYSTEM LIMITED - CUSTOM IFB",
+  "year": "1988"
+ },
+ "INTERCOM.880851-TV-3-NETWORK-PLANT-96-X-144-MICROCOM-II-SYSTEM-BOOK-1": {
+  "files": 10,
+  "folders": [
+   "1980-1989/880851 - TV-3 NETWORK - PLANT 96 X 144 MICROCOM II SYSTEM - BOOK 1"
+  ],
+  "job": "880851",
+  "kind": "intercom",
+  "sha": "e6099be943859e18391c6eb01d32d5ea6c43385d",
+  "title": "880851 - TV-3 NETWORK - PLANT 96 X 144 MICROCOM II SYSTEM - BOOK 1",
+  "year": "1988"
+ },
+ "INTERCOM.880855-TV-3-NETWORK-WELLINGTON-MINICOM": {
+  "files": 8,
+  "folders": [
+   "1980-1989/880855 - TV-3 NETWORK WELLINGTON - MINICOM"
+  ],
+  "job": "880855",
+  "kind": "intercom",
+  "sha": "e6b55104f6d661be7f0b62268949f54a9bd0fec1",
+  "title": "880855 - TV-3 NETWORK WELLINGTON - MINICOM",
+  "year": "1988"
+ },
+ "INTERCOM.880857": {
+  "files": 10,
+  "folders": [
+   "1980-1989/880857 - _-_ _ - _._. _ _"
+  ],
+  "job": "880857",
+  "kind": "intercom",
+  "sha": "b962e92dc125cb9d1ec3afac2e2f90b7fd64dccb",
+  "title": "880857",
+  "year": "1988"
+ },
+ "INTERCOM.890009-CBC-EDMONTON-MICROCOM-II-SYSTEM": {
+  "files": 10,
+  "folders": [
+   "1980-1989/890009 - CBC EDMONTON - MICROCOM II SYSTEM"
+  ],
+  "job": "890009",
+  "kind": "intercom",
+  "sha": "3845dce60ac881f4cf3df1716474b77f30c4e0fb",
+  "title": "890009 - CBC EDMONTON - MICROCOM II SYSTEM",
+  "year": "1989"
+ },
+ "INTERCOM.890068-CBC-STUDIO-1-12x12-INTERCOM-MATRIX": {
+  "files": 10,
+  "folders": [
+   "1980-1989/890068 - CBC - STUDIO 1 12x12 INTERCOM MATRIX"
+  ],
+  "job": "890068",
+  "kind": "intercom",
+  "sha": "bb71f50df33923eebce405b03c198a04b2a427a3",
+  "title": "890068 - CBC - STUDIO 1 12x12 INTERCOM MATRIX",
+  "year": "1989"
+ },
+ "INTERCOM.890276-CKVR-TELEVISION-48-x-48-MicroCOM-II-SYSTEM": {
+  "files": 10,
+  "folders": [
+   "1980-1989/890276 - CKVR TELEVISION - 48 x 48 MicroCOM II SYSTEM"
+  ],
+  "job": "890276",
+  "kind": "intercom",
+  "sha": "f37ab9f5747057c9721801317781744387591cf2",
+  "title": "890276 - CKVR TELEVISION - 48 x 48 MicroCOM II SYSTEM",
+  "year": "1989"
+ },
+ "INTERCOM.890291-COMPLETE-POST-PRODUCTION-48x48-MicroCOM-II-System": {
+  "files": 10,
+  "folders": [
+   "1980-1989/890291 - COMPLETE POST PRODUCTION - 48x48 MicroCOM II System"
+  ],
+  "job": "890291",
+  "kind": "intercom",
+  "sha": "fdfd74e4ae06fe6d43a9461311627b927d69de0b",
+  "title": "890291 - COMPLETE POST PRODUCTION - 48x48 MicroCOM II System",
+  "year": "1989"
+ },
+ "INTERCOM.890300-MODERN-VIDEOFILM-MiniCom": {
+  "files": 8,
+  "folders": [
+   "1980-1989/890300 - MODERN VIDEOFILM - MiniCom"
+  ],
+  "job": "890300",
+  "kind": "intercom",
+  "sha": "40c4b7effad4a0f999c58c72232cf547a5a65793",
+  "title": "890300 - MODERN VIDEOFILM - MiniCom",
+  "year": "1989"
+ },
+ "INTERCOM.890349-WTBS-TELEVISION-MICROCOM-II-SYSTEM": {
+  "files": 20,
+  "folders": [
+   "1980-1989/890349 - WTBS TELEVISION - MICROCOM II SYSTEM"
+  ],
+  "job": "890349",
+  "kind": "intercom",
+  "sha": "ad7099ddfe7d316edb1a569fb3765b96a3fa2ba5",
+  "title": "890349 - WTBS TELEVISION - MICROCOM II SYSTEM",
+  "year": "1989"
+ },
+ "INTERCOM.890391-MINICOM": {
+  "files": 10,
+  "folders": [
+   "1980-1989/890391 - MINICOM"
+  ],
+  "job": "890391",
+  "kind": "intercom",
+  "sha": "c85a9669183aa1d939864f7ea121811aed93138c",
+  "title": "890391 - MINICOM",
+  "year": "1989"
+ },
+ "INTERCOM.890416-GRC-PRODUCTIONS-MINICOM": {
+  "files": 8,
+  "folders": [
+   "1980-1989/890416 - GRC PRODUCTIONS - MINICOM"
+  ],
+  "job": "890416",
+  "kind": "intercom",
+  "sha": "bb3084bdba794ceb095133f1970252f1525627c3",
+  "title": "890416 - GRC PRODUCTIONS - MINICOM",
+  "year": "1989"
+ },
+ "INTERCOM.890422-TV-3-NETWORK-CHRISTCHURCH-MINICOM": {
+  "files": 8,
+  "folders": [
+   "1980-1989/890422 - TV-3 NETWORK CHRISTCHURCH - MINICOM"
+  ],
+  "job": "890422",
+  "kind": "intercom",
+  "sha": "38016ab1f9cf7d110a155e18c0c15e329a9a60b0",
+  "title": "890422 - TV-3 NETWORK CHRISTCHURCH - MINICOM",
+  "year": "1989"
+ },
+ "INTERCOM.890423-TV-3-NETWORK-PARLIAMENT-MINICOM": {
+  "files": 10,
+  "folders": [
+   "1980-1989/890423 - TV-3 NETWORK - PARLIAMENT MINICOM"
+  ],
+  "job": "890423",
+  "kind": "intercom",
+  "sha": "a019928bbfd95c4ea1e6370bbddd9a05a050e09f",
+  "title": "890423 - TV-3 NETWORK - PARLIAMENT MINICOM",
+  "year": "1989"
+ },
+ "INTERCOM.890799-GROUP-W-NEWS-FEED-MINICOM": {
+  "files": 10,
+  "folders": [
+   "1980-1989/890799 - GROUP W NEWS FEED - MINICOM"
+  ],
+  "job": "890799",
+  "kind": "intercom",
+  "sha": "348b1881d04cf6f76d05a6da982f23d3b31cb0e1",
+  "title": "890799 - GROUP W NEWS FEED - MINICOM",
+  "year": "1989"
+ },
+ "INTERCOM.890834-CBC-OTTAWA-MINICOM": {
+  "files": 10,
+  "folders": [
+   "1980-1989/890834 - CBC OTTAWA - MINICOM"
+  ],
+  "job": "890834",
+  "kind": "intercom",
+  "sha": "e8a98a3af516368859508d4f900d6d3a8d09aba5",
+  "title": "890834 - CBC OTTAWA - MINICOM",
+  "year": "1989"
+ },
+ "INTERCOM.900170-TV-JOVEM-PAN-LTDA-CUSTOM-MiniCOM": {
+  "files": 12,
+  "folders": [
+   "1990-1999/900170 - TV JOVEM PAN LTDA - CUSTOM MiniCOM"
+  ],
+  "job": "900170",
+  "kind": "intercom",
+  "sha": "165de9c50d44035e6a1262bee2678014008c7292",
+  "title": "900170 - TV JOVEM PAN LTDA - CUSTOM MiniCOM",
+  "year": "1990"
+ },
+ "INTERCOM.900172-TV-JOVEM-PAN-LTDA-7012B-INTERCOM-MATRIX": {
+  "files": 4,
+  "folders": [
+   "1990-1999/900172 - TV JOVEM PAN LTDA - 7012B INTERCOM MATRIX"
+  ],
+  "job": "900172",
+  "kind": "intercom",
+  "sha": "cea49bc8c1d898b53631b51120fdf99c0fd7f9fc",
+  "title": "900172 - TV JOVEM PAN LTDA - 7012B INTERCOM MATRIX",
+  "year": "1990"
+ },
+ "INTERCOM.900186-TV-JOVEM-PAN-LTDA-7012B-INTERCOM-MATRIX": {
+  "files": 4,
+  "folders": [
+   "1990-1999/900186 - TV JOVEM PAN LTDA - 7012B INTERCOM MATRIX"
+  ],
+  "job": "900186",
+  "kind": "intercom",
+  "sha": "6a79ace091c0de69c8aaecb6c07e9a7a99a90c94",
+  "title": "900186 - TV JOVEM PAN LTDA - 7012B INTERCOM MATRIX",
+  "year": "1990"
+ },
+ "INTERCOM.900359-GRC-PRODUCTIONS-48-x-48-MicroCOM-II-SYSTEM": {
+  "files": 10,
+  "folders": [
+   "1990-1999/900359 - GRC PRODUCTIONS - 48 x 48 MicroCOM II SYSTEM"
+  ],
+  "job": "900359",
+  "kind": "intercom",
+  "sha": "5527fe95de4f6ce8f4b3afcb20dd919043240bb3",
+  "title": "900359 - GRC PRODUCTIONS - 48 x 48 MicroCOM II SYSTEM",
+  "year": "1990"
+ },
+ "INTERCOM.900436-TV-ONTARIO-MINICOM-SYSTEM": {
+  "files": 8,
+  "folders": [
+   "1990-1999/900436 - TV ONTARIO - MINICOM SYSTEM"
+  ],
+  "job": "900436",
+  "kind": "intercom",
+  "sha": "0663db76cd81a0bd87d9755ec3ec095470d98571",
+  "title": "900436 - TV ONTARIO - MINICOM SYSTEM",
+  "year": "1990"
+ },
+ "INTERCOM.910055": {
+  "files": 14,
+  "folders": [
+   "1990-1999/910055 - _ & _ _ _ - _ _ _"
+  ],
+  "job": "910055",
+  "kind": "intercom",
+  "sha": "cbf1631e23f7eddcd090a5f0a0a05f99da91e1bd",
+  "title": "910055",
+  "year": "1991"
+ },
+ "INTERCOM.910233-TV-ONTARIO-MiniCOM-SYSTEM": {
+  "files": 8,
+  "folders": [
+   "1990-1999/910233 - TV ONTARIO - MiniCOM SYSTEM"
+  ],
+  "job": "910233",
+  "kind": "intercom",
+  "sha": "46678e80da37c4f2d502a076b47238f6bfd56e40",
+  "title": "910233 - TV ONTARIO - MiniCOM SYSTEM",
+  "year": "1991"
+ },
+ "INTERCOM.910251-CTV-TELEVISION-NETWORK-LTD-48-x-48-MicroCOM-II-INTERCOM-SYSTEM": {
+  "files": 4,
+  "folders": [
+   "1990-1999/910251 - CTV TELEVISION NETWORK LTD - 48 x 48 MicroCOM II INTERCOM SYSTEM"
+  ],
+  "job": "910251",
+  "kind": "intercom",
+  "sha": "49edc502a829cb796d7184e7913e6a247fa16c08",
+  "title": "910251 - CTV TELEVISION NETWORK LTD - 48 x 48 MicroCOM II INTERCOM SYSTEM",
+  "year": "1991"
+ },
+ "INTERCOM.910277-UNITEL-MOBILE-VIDEO-CUSTOM-INTERCOM": {
+  "files": 10,
+  "folders": [
+   "1990-1999/910277 - UNITEL MOBILE VIDEO - CUSTOM INTERCOM"
+  ],
+  "job": "910277",
+  "kind": "intercom",
+  "sha": "6ea6e583fceb87e98a4cdcaa7f51883e36d1e95e",
+  "title": "910277 - UNITEL MOBILE VIDEO - CUSTOM INTERCOM",
+  "year": "1991"
+ },
+ "INTERCOM.910320": {
+  "files": 10,
+  "folders": [
+   "1990-1999/910320 - _w_ _w_ - _ _ _ _ _ _ _"
+  ],
+  "job": "910320",
+  "kind": "intercom",
+  "sha": "5d2069d477a7f1099465303975384e9d4a32581c",
+  "title": "910320",
+  "year": "1991"
+ },
+ "INTERCOM.920001": {
+  "files": 4,
+  "folders": [
+   "1990-1999/920001"
+  ],
+  "job": "920001",
+  "kind": "intercom",
+  "sha": "3b81a52e64ccb5acf7736af10fedb7f905ee941f",
+  "title": "920001",
+  "year": "1992"
+ },
+ "INTERCOM.920002": {
+  "files": 20,
+  "folders": [
+   "1990-1999/920002"
+  ],
+  "job": "920002",
+  "kind": "intercom",
+  "sha": "3fbc5994d8f4b59c56767894e12afb8ee14b939a",
+  "title": "920002",
+  "year": "1992"
+ },
+ "INTERCOM.920003-CBC-TORONTO-BROADCAST-CENTRE-STUDIO-A-B1-96-X-96-MicroCOM-II-COMMUNICATIONS-SY": {
+  "files": 4,
+  "folders": [
+   "1990-1999/920003 - CBC TORONTO BROADCAST CENTRE - STUDIO A-B1 96 X 96 MicroCOM II COMMUNICATIONS SY"
+  ],
+  "job": "920003",
+  "kind": "intercom",
+  "sha": "4de788dca18c503b64fd0ca216948d25d52fa36e",
+  "title": "920003 - CBC TORONTO BROADCAST CENTRE - STUDIO A-B1 96 X 96 MicroCOM II COMMUNICATIONS SY",
+  "year": "1992"
+ },
+ "INTERCOM.920007": {
+  "files": 4,
+  "folders": [
+   "1990-1999/920007"
+  ],
+  "job": "920007",
+  "kind": "intercom",
+  "sha": "e93a442780c6ea695d4b6172a74373f7a00a74d5",
+  "title": "920007",
+  "year": "1992"
+ },
+ "INTERCOM.920008": {
+  "files": 4,
+  "folders": [
+   "1990-1999/920008"
+  ],
+  "job": "920008",
+  "kind": "intercom",
+  "sha": "94c4eae56380cfafd76c40ca321ab17b7dcd660c",
+  "title": "920008",
+  "year": "1992"
+ },
+ "INTERCOM.920018": {
+  "files": 16,
+  "folders": [
+   "1990-1999/920018"
+  ],
+  "job": "920018",
+  "kind": "intercom",
+  "sha": "c99e52ff303e4190823311d8a4f0163700385785",
+  "title": "920018",
+  "year": "1992"
+ },
+ "INTERCOM.920256-CROSSPOINT-TV-CULTURA-96-X-96-MicroCOM-II-COMMUNICATIONS-SYSTEM": {
+  "files": 18,
+  "folders": [
+   "1990-1999/920256 - CROSSPOINT-TV CULTURA - 96 X 96 MicroCOM II COMMUNICATIONS SYSTEM"
+  ],
+  "job": "920256",
+  "kind": "intercom",
+  "sha": "32e2f2648a46313a6932fcc81d6521c5ce339195",
+  "title": "920256 - CROSSPOINT-TV CULTURA - 96 X 96 MicroCOM II COMMUNICATIONS SYSTEM",
+  "year": "1992"
+ },
+ "INTERCOM.920342-Motorolla-Central-Switch-Project-No.-1of4": {
+  "files": 14,
+  "folders": [
+   "1990-1999/920342 - Motorolla Central Switch Project No. (1of4)"
+  ],
+  "job": "920342",
+  "kind": "intercom",
+  "sha": "77ce91f9eff88436d43ad183029dcefbfb7a8bec",
+  "title": "920342 - Motorolla Central Switch Project No. (1of4)",
+  "year": "1992"
+ },
+ "INTERCOM.920380-TCN9-96-X-96-MicroCOM-II-COMMUNICATIONS-SYSTEM": {
+  "files": 10,
+  "folders": [
+   "1990-1999/920380 - TCN9 - 96 X 96 MicroCOM II COMMUNICATIONS SYSTEM"
+  ],
+  "job": "920380",
+  "kind": "intercom",
+  "sha": "85c2b895619aa2ee765a974ed73aabe175c09d5a",
+  "title": "920380 - TCN9 - 96 X 96 MicroCOM II COMMUNICATIONS SYSTEM",
+  "year": "1992"
+ },
+ "INTERCOM.930007-CICI-TV-CKNC-TV-SUDBURY": {
+  "files": 18,
+  "folders": [
+   "1990-1999/930007 - CICI-TV-CKNC-TV SUDBURY"
+  ],
+  "job": "930007",
+  "kind": "intercom",
+  "sha": "b19b10599e65fe3ac344fe62e1e4a72800f367ca",
+  "title": "930007 - CICI-TV-CKNC-TV SUDBURY",
+  "year": "1993"
+ },
+ "INTERCOM.930010": {
+  "files": 4,
+  "folders": [
+   "1990-1999/93010"
+  ],
+  "job": "930010",
+  "kind": "intercom",
+  "sha": "1b49fc5a8caea0be9a28f4b0e3b831c9d22e32f0",
+  "title": "930010",
+  "year": "1993"
+ },
+ "INTERCOM.930018": {
+  "files": 4,
+  "folders": [
+   "1990-1999/93018"
+  ],
+  "job": "930018",
+  "kind": "intercom",
+  "sha": "62cadf974c86ee66839af1528b3d49886156eb3a",
+  "title": "930018",
+  "year": "1993"
+ },
+ "INTERCOM.930032-CTS": {
+  "files": 28,
+  "folders": [
+   "1990-1999/93032 - CTS"
+  ],
+  "job": "930032",
+  "kind": "intercom",
+  "sha": "0b6e4d8f735d83fd9535eb48f9b3d0d8387ff32c",
+  "title": "930032 - CTS",
+  "year": "1993"
+ },
+ "INTERCOM.930044-TORONTO-BROADCAST-CENTRE": {
+  "files": 8,
+  "folders": [
+   "1990-1999/93044 - TORONTO BROADCAST CENTRE"
+  ],
+  "job": "930044",
+  "kind": "intercom",
+  "sha": "a5b972e105e43fe5b629cf7920138c088449648d",
+  "title": "930044 - TORONTO BROADCAST CENTRE",
+  "year": "1993"
+ },
+ "INTERCOM.930091-TELE-METROPOLE-MiniCOM-COMMUNICATIONS-SYSTEM": {
+  "files": 10,
+  "folders": [
+   "1990-1999/930091 - TELE-METROPOLE - MiniCOM COMMUNICATIONS SYSTEM"
+  ],
+  "job": "930091",
+  "kind": "intercom",
+  "sha": "817bcd36612843d53586975f2c7675f003fb5002",
+  "title": "930091 - TELE-METROPOLE - MiniCOM COMMUNICATIONS SYSTEM",
+  "year": "1993"
+ },
+ "INTERCOM.930279": {
+  "files": 6,
+  "folders": [
+   "1990-1999/930279"
+  ],
+  "job": "930279",
+  "kind": "intercom",
+  "sha": "810e643dae0697a56ccc1819642ef1da314440bb",
+  "title": "930279",
+  "year": "1993"
+ },
+ "INTERCOM.930420-CBC-FREDERICTON": {
+  "files": 22,
+  "folders": [
+   "1990-1999/930420 - CBC FREDERICTON"
+  ],
+  "job": "930420",
+  "kind": "intercom",
+  "sha": "1a69741afc73077c6237bae6efa8d4a3834b0281",
+  "title": "930420 - CBC FREDERICTON",
+  "year": "1993"
+ },
+ "INTERCOM.930430": {
+  "files": 4,
+  "folders": [
+   "1990-1999/930430"
+  ],
+  "job": "930430",
+  "kind": "intercom",
+  "sha": "1fbec27789a214db515e14e42b9fc40cfaf02d5e",
+  "title": "930430",
+  "year": "1993"
+ },
+ "INTERCOM.940009-KCET": {
+  "files": 30,
+  "folders": [
+   "1990-1999/940009 - KCET"
+  ],
+  "job": "940009",
+  "kind": "intercom",
+  "sha": "1f40239a1223261ada4bfa65114a8419734da893",
+  "title": "940009 - KCET",
+  "year": "1994"
+ },
+ "INTERCOM.940011": {
+  "files": 20,
+  "folders": [
+   "1990-1999/940011"
+  ],
+  "job": "940011",
+  "kind": "intercom",
+  "sha": "fecc7dbabb864db441f785d7a87a37706041f791",
+  "title": "940011",
+  "year": "1994"
+ },
+ "INTERCOM.940022-CENTENNIAL-COLLEGE": {
+  "files": 10,
+  "folders": [
+   "1990-1999/94022 - CENTENNIAL COLLEGE"
+  ],
+  "job": "940022",
+  "kind": "intercom",
+  "sha": "10e028e0ba1d0e3b042984b8b97e89a5cecbd572",
+  "title": "940022 - CENTENNIAL COLLEGE",
+  "year": "1994"
+ },
+ "INTERCOM.940033-CENTENNIAL-COLLEGE": {
+  "files": 8,
+  "folders": [
+   "1990-1999/94033 - CENTENNIAL COLLEGE"
+  ],
+  "job": "940033",
+  "kind": "intercom",
+  "sha": "7c7320891fdbff73e3b6b69fed5f9370470e98be",
+  "title": "940033 - CENTENNIAL COLLEGE",
+  "year": "1994"
+ },
+ "INTERCOM.940055-TEN-ENGINEERING": {
+  "files": 28,
+  "folders": [
+   "1990-1999/94055 - TEN ENGINEERING",
+   "1990-1999/94055 - TEN Engineering"
+  ],
+  "job": "940055",
+  "kind": "intercom",
+  "sha": "8d75518e4505301413a350c98130435d38a1b77a",
+  "title": "940055 - TEN ENGINEERING",
+  "year": "1994"
+ },
+ "INTERCOM.940061": {
+  "files": 8,
+  "folders": [
+   "1990-1999/94061"
+  ],
+  "job": "940061",
+  "kind": "intercom",
+  "sha": "64abf1829545d1a3609a2364c41fb1bc0f71fc16",
+  "title": "940061",
+  "year": "1994"
+ },
+ "INTERCOM.940243-Centennial-College": {
+  "files": 44,
+  "folders": [
+   "1990-1999/940243",
+   "1990-1999/940243 - Centennial College"
+  ],
+  "job": "940243",
+  "kind": "intercom",
+  "sha": "57ad07d330f28048321fb5dc80bb43c898d1e90c",
+  "title": "940243 - Centennial College",
+  "year": "1994"
+ },
+ "INTERCOM.940246": {
+  "files": 12,
+  "folders": [
+   "1990-1999/940246"
+  ],
+  "job": "940246",
+  "kind": "intercom",
+  "sha": "0ee998b18b3f34e6ae660f0a39946038af04e005",
+  "title": "940246",
+  "year": "1994"
+ },
+ "INTERCOM.940249": {
+  "files": 4,
+  "folders": [
+   "1990-1999/940249"
+  ],
+  "job": "940249",
+  "kind": "intercom",
+  "sha": "9a97e3e5d4f10f5b2c8d84df2b8ac76f2140c76c",
+  "title": "940249",
+  "year": "1994"
+ },
+ "INTERCOM.940294-CBC-Ottawa": {
+  "files": 34,
+  "folders": [
+   "1990-1999/940294 - CBC Ottawa"
+  ],
+  "job": "940294",
+  "kind": "intercom",
+  "sha": "33f1bfe62ace221aa445164d1785aeda7f18e5b7",
+  "title": "940294 - CBC Ottawa",
+  "year": "1994"
+ },
+ "INTERCOM.940443": {
+  "files": 60,
+  "folders": [
+   "1990-1999/940443"
+  ],
+  "job": "940443",
+  "kind": "intercom",
+  "sha": "83b5dc3ecb5984a1250ea627130e10201cae94e8",
+  "title": "940443",
+  "year": "1994"
+ },
+ "INTERCOM.950006": {
+  "files": 4,
+  "folders": [
+   "1990-1999/950006"
+  ],
+  "job": "950006",
+  "kind": "intercom",
+  "sha": "806644189b015f6fa587ab90ace849b171622ab9",
+  "title": "950006",
+  "year": "1995"
+ },
+ "INTERCOM.950014": {
+  "files": 4,
+  "folders": [
+   "1990-1999/95014"
+  ],
+  "job": "950014",
+  "kind": "intercom",
+  "sha": "bc3ac0b880d338405315f5513fc66f42b2493c55",
+  "title": "950014",
+  "year": "1995"
+ },
+ "INTERCOM.950020": {
+  "files": 4,
+  "folders": [
+   "1990-1999/95020"
+  ],
+  "job": "950020",
+  "kind": "intercom",
+  "sha": "cc8b4e3b02e967aee6bcfb939c6b96d360fd3007",
+  "title": "950020",
+  "year": "1995"
+ },
+ "INTERCOM.950021": {
+  "files": 4,
+  "folders": [
+   "1990-1999/95021"
+  ],
+  "job": "950021",
+  "kind": "intercom",
+  "sha": "7a63b286aa0291e4e5bf265c55b5d0edf42cc4ed",
+  "title": "950021",
+  "year": "1995"
+ },
+ "INTERCOM.950049": {
+  "files": 14,
+  "folders": [
+   "1990-1999/950049"
+  ],
+  "job": "950049",
+  "kind": "intercom",
+  "sha": "307a8b9f06ceef48e63714d957ac9dd41634d5d9",
+  "title": "950049",
+  "year": "1995"
+ },
+ "INTERCOM.950125": {
+  "files": 18,
+  "folders": [
+   "1990-1999/950125"
+  ],
+  "job": "950125",
+  "kind": "intercom",
+  "sha": "402d7b0752475c2fbbb39e073503ebd6637177a5",
+  "title": "950125",
+  "year": "1995"
+ },
+ "INTERCOM.950226": {
+  "files": 14,
+  "folders": [
+   "1990-1999/950226"
+  ],
+  "job": "950226",
+  "kind": "intercom",
+  "sha": "ee176119f223ba27e1f7a175aa822a0d32022cbe",
+  "title": "950226",
+  "year": "1995"
+ },
+ "INTERCOM.950271": {
+  "files": 50,
+  "folders": [
+   "1990-1999/950271"
+  ],
+  "job": "950271",
+  "kind": "intercom",
+  "sha": "7301cca6d278bb3e3fce71aad7c52c01dba68174",
+  "title": "950271",
+  "year": "1995"
+ },
+ "INTERCOM.950278": {
+  "files": 8,
+  "folders": [
+   "1990-1999/950278"
+  ],
+  "job": "950278",
+  "kind": "intercom",
+  "sha": "83c487e7c3ab925438fe6f9585f00622ecf48797",
+  "title": "950278",
+  "year": "1995"
+ },
+ "INTERCOM.950341": {
+  "files": 22,
+  "folders": [
+   "1990-1999/950341"
+  ],
+  "job": "950341",
+  "kind": "intercom",
+  "sha": "67816254da290e13caf22be6ad734902ecd5dc3d",
+  "title": "950341",
+  "year": "1995"
+ },
+ "INTERCOM.960134": {
+  "files": 12,
+  "folders": [
+   "1990-1999/960134"
+  ],
+  "job": "960134",
+  "kind": "intercom",
+  "sha": "d26013c63cfaa71f66543be79df6ab0ca5deb0cc",
+  "title": "960134",
+  "year": "1996"
+ },
+ "INTERCOM.960163-CBC-OTTAWA": {
+  "files": 26,
+  "folders": [
+   "1990-1999/960163 - CBC OTTAWA"
+  ],
+  "job": "960163",
+  "kind": "intercom",
+  "sha": "3f48a67c18f91826523461d3e0425fa161083711",
+  "title": "960163 - CBC OTTAWA",
+  "year": "1996"
+ },
+ "INTERCOM.960312": {
+  "files": 8,
+  "folders": [
+   "1990-1999/960312"
+  ],
+  "job": "960312",
+  "kind": "intercom",
+  "sha": "844ab038b05be9a92f8f549fbcd5cdcda3927331",
+  "title": "960312",
+  "year": "1996"
+ },
+ "INTERCOM.960325-CBC-EHQ-CUSTOM-IFB-MATRIX-SYSTEM": {
+  "files": 12,
+  "folders": [
+   "1990-1999/960325",
+   "1990-1999/960325 - , CBC EHQ CUSTOM IFB MATRIX SYSTEM"
+  ],
+  "job": "960325",
+  "kind": "intercom",
+  "sha": "75bc8fc12671f0177e92f865726d6141d02d7cfd",
+  "title": "960325 - CBC EHQ CUSTOM IFB MATRIX SYSTEM",
+  "year": "1996"
+ },
+ "INTERCOM.970081": {
+  "files": 8,
+  "folders": [
+   "1990-1999/970081 - _ _ _. - _ _ _ _"
+  ],
+  "job": "970081",
+  "kind": "intercom",
+  "sha": "88eb564f0be4195bc82fe63875dc57dbdf296bb2",
+  "title": "970081",
+  "year": "1997"
  }
 }

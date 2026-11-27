@@ -1,0 +1,111 @@
+# 1994 - 940184-04-003 - GLENN GOULD STUDIO TURRET LAYOUT - DRN DRG - ISS 2.jpg
+Wiki page: [Job-940184](../../../../PAGES/Job-940184.md)
+
+
+- **Year:** 1994 (job number 940184)
+- **Job / serial number:** 940184
+- **Project:** Glenn Gould Studio
+
+## Title block (found by software, read by eye)
+
+- **Drawing:** D 940184-04-003
+- **Size:** D
+- **Title:** GLENN GOULD STUDIO / TURRET / LAYOUT
+- **Drawn:** DRG
+- **Issue:** 2
+- **Customer:** GLENN GOULD STUDIO
+- **Confidence:** high
+
+- **Original file:** `WBSps.env/WBS Photos-1-001/2021-3-16-23-5-57.jpg`
+- **SHA-256:** `7dc4530cf336bac2c35fce1d6c6261683e5865893727a811d15287e14177c49f`
+- **Size:** 436,383 bytes
+- **Pages:** 1
+
+## Vectors (traced)
+
+- **Sheet:** layout D 940184-04-003, size D 864 × 559 mm, 2000 × 1294 px traced (0.432 mm/px)
+- **Ink extent:** 0–847 mm across, 14–555 mm up
+- **Outlines:** line 343 rings, 3,027 straight (22,460 mm) / 526 curved (1,646 mm); text 214 rings, 1,317 straight (2,750 mm) / 402 curved (1,015 mm); tb 17 rings, 131 straight (345 mm) / 20 curved (47.6 mm)
+- **Circles and arcs:** 7 circles, 0 arcs; largest r 8.4 @ (275.6, 228.3), r 8.4 @ (453.0, 227.9), r 8.3 @ (483.7, 428.5), r 8.2 @ (273.9, 429.0)
+- **Closed boxes:** 36 (3 in the title block); named: HEADPHONE SOURCE SELECT; HEADPHONE HEADPHONE; HEADPHONE HEADPHONE; GLENN GOULD STUDIO TURRET LAYOUT; NTS; DISC NO;; 940184-04-003; CODE_
+- **Dots (junctions):** 1
+- **Words (OCR):** 26 in 23 lines: HEADPHONE SOURCE SELECT · TCP · cu · TURRET) · HEADPHONE · HEADPHONE · FRONT · ISSUE DAT · WBS · WARD- · BECK  SYSTEMS · GLENN GOULD STUDIO
+- **Title block:** (689, 45)–(859, 86) mm: ISSUE DAT · WBS · WARD- · BECK  SYSTEMS · GLENN GOULD STUDIO
+
+Every curve, box, word and wire group: [1994 - 940184-04-003 - GLENN GOULD STUDIO TURRET LAYOUT - DRN DRG - ISS 2 (traced).json](1994%20-%20940184-04-003%20-%20GLENN%20GOULD%20STUDIO%20TURRET%20LAYOUT%20-%20DRN%20DRG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1994 - 940184-04-003 - GLENN GOULD STUDIO TURRET LAYOUT - DRN DRG - ISS 2 (traced).dxf`).
+
+## Full text
+
+### Page 1 (OCR, spell-checked: 2 words corrected)
+
+```text
+WB3
+WB4
+WBS
+EXT:
+8.00
+2-MiX
+MON
+WBI
+WB2
+OFF 2-MiX MON WBI WB2 WB3 WB4 WBS EXT
+HEADPHONE SOURCE SELECT
+TOP_VIEW
+(CONTROL Roo HEADPHONE SELECTOR TURRET)
+HEADPHONE
+HEADPHONE
+OUT
+OUT
+FRONT
+CONTROL Roov HEADPHONE SELECTOR   TURRET (11.70 in.)
+3.50
+SSUEI DATE
+REVISION
+APP.
+WBS DRN: DRG ENG: CKD;
+WARD-BECK  SYSTEMS GLENN GOULD  STUDIO TURRET LAYOUT SCALE DISC NO:   459 ISSUE NTS 940184-04-003 CODE: 94184L03
+REAR VIEW
+METER CABLE TERMINATING MTH EDAC CONNECTOR:
+TYPICAL SIDE VIEW
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+WB3
+WB4
+WBS
+EXT:
+8.00
+2-MiX
+MON
+WBI
+WB2
+OFF 2-MiX MON WBI WB2 WB3 WB4 WBS EXT
+HEADPHONE SOURCE SELECT
+TOP_VIEW
+(CONTROL Roo HEADPHONE SELECTOR TURRET)
+HEADPHONE
+HEADPHONE
+OUT
+OUT
+FRONT
+CONTRCL Roov HEADPHONE SELECTOR   TURRET (11.70 in.)
+3.50
+SSUEI DATE
+REVISICN
+APP.
+WBS DRN: DRG ENG: CKD;
+WARD-BECK  SYSTEMS GLENN GOULD  STUDIO TURRET LAYOUT SCALE DISC NO:   459 ISSUE NTS 940184-04-003 CODE: 94184L03
+REAR VIEW
+METER CABLE TERMINATING MTH EDAC CONNECTOR:
+TYPICAL SIDE VIEW
+```
+
+</details>
+
+## Contents (JSON)
+
+```json
+{"file":"Consoles/1990-1999/940184 - GLENN GOULD STUDIO/1994 - 940184-04-003 - GLENN GOULD STUDIO TURRET LAYOUT - DRN DRG - ISS 2.jpg","sha256":"7dc4530cf336bac2c35fce1d6c6261683e5865893727a811d15287e14177c49f","kind":"job","models":["940184"],"year":1994,"pages":1,"order":[{"page":1,"title_block":[{"number":"D 940184-04-003","type":"layout / outline","title":"GLENN GOULD STUDIO / TURRET / LAYOUT","year":1994,"drawn":"DRG","issue":"2"}],"text":["J","D D D","HEADPHONE SOURCE SELECT","TCP","cu TURRET)","HEADPHONE HEADPHONE","FRONT","ISSUE DAT","WBS WARD- BECK  SYSTEMS","GLENN GOULD STUDIO","TURRET","REAR VIEW VCTER TERUINATNG CD NECTCR; TYPICAL SIDE MEW LAYOUT","NTS DISC NO; 940184-04-003","CODE_"]}],"drawing":{"svg":"_traces/7dc4530cf336bac2.svg","viewBox":[2000,1294],"rotate":0,"size":"D","number":"D 940184-04-003","title":"GLENN GOULD STUDIO / TURRET / LAYOUT","dtype":"04","outlines":"see _traces/7dc4530cf336bac2.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","words":[[794,564,"HEADPHONE SOURCE SELECT"],[841,666,"TCP"],[762,685,"cu"],[951,689,"TURRET)"],[680,729,"HEADPHONE"],[1092,728,"HEADPHONE"],[851,854,"FRONT"],[1685,1130,"ISSUE DAT"],[1636,1164,"WBS"],[1744,1161,"WARD-"],[1806,1161,"BECK  SYSTEMS"],[1736,1194,"GLENN GOULD STUDIO"],[1794,1211,"TURRET"],[479,1222,"REAR"],[521,1224,"VIEW"],[590,1215,"VCTER"],[658,1215,"TERUINATNG"],[775,1215,"CD NECTCR;"],[1209,1224,"TYPICAL"],[1269,1224,"SIDE"],[1306,1224,"MEW"],[1794,1229,"LAYOUT"],[1655,1245,"DISC NO;"],[1616,1259,"NTS"],[1655,1258,"CODE_"],[1779,1256,"940184-04-003"]]}}
+```

@@ -1,0 +1,90 @@
+# 1994 - 940356 - DOC - 940356-04-002 - HEADPHONES MICROPHONE TALKBACK MICROPHONE TOP VIEW HEADPHONE OUT.jpg
+Wiki page: [Documents](../../../../PAGES/Documents.md)
+
+
+- **Year:** 1994 (job number 940356)
+- **Type:** document scan
+- **About:** 940356
+
+## Text recovered by OCR
+
+> MONITOR 6.50 HEADPHONES MICROPHONE TALKBACK MICROPHONE TOP VIEW HEADPHONE OUT FRONT 7.55 3.50 SSUEI DATEJ REVSION WBS WARD-BECK SYSTEMS DRN: DRG ENG: CBC 10 METER CABLE TERMINATED MTH AN EDAC MULI-PIN CONNECTOR: ANNOUNCE TURRET LAYOUT SCALE DISC NO: 475 ISSUE NTS 940356-04-002 CODE: 94356L02 REAR VIEW SIDE VIEW
+- **Original file:** `WBSps.env/PUBLIC/RECENT SCANS/WBSps.ca 20210317 - Large pile of D/2021-3-16-23-28-32.jpg`
+- **SHA-256:** `2685ca5f3380c2253000caba9f474ee1ed0dcfaf8e0163c919ed6caa21de101c`
+- **Size:** 16,734,208 bytes
+- **Pages:** 1
+
+## Vectors (traced)
+
+- **Sheet:** layout 940356-04-002, size B (assumed) 432 × 280 mm, 2000 × 1297 px traced (0.216 mm/px)
+- **Ink extent:** 59–432 mm across, 14–263 mm up
+- **Outlines:** line 182 rings, 1,639 straight (6,290 mm) / 327 curved (627 mm); text 171 rings, 1,039 straight (1,096 mm) / 318 curved (406 mm); tb 48 rings, 390 straight (351 mm) / 98 curved (110 mm)
+- **Circles and arcs:** 12 circles, 0 arcs; largest r 5.9 @ (178.9, 207.2), r 4.5 @ (213.2, 176.3), r 4.5 @ (144.8, 176.0), r 4.5 @ (179.0, 176.2)
+- **Closed boxes:** 25 (14 in the title block); named: MCnitor HEADPHONES MICROPHONE TALKBACK M; MCnitor HEADPHONES MICROPHONE TALKBACK M; HFAnPHONF; HFAnPHONF
+- **Dots (junctions):** 1
+- **Words (OCR):** 22 in 20 lines: MCnitor · HEADPHONES · MICROPHONE · TALKBACK · MCROPHONE · TOP · VieW · HFAnPHONF · FRONT · WARD-BECK SYSTEMS · WBS · CBC
+- **Title block:** (340, 15)–(429, 47) mm: WARD-BECK SYSTEMS · WBS · CBC · ANNOUNCE · TURRET · APP. · LAYOUT · 940356-04-002 · NTS CCOE
+
+Every curve, box, word and wire group: [1994 - 940356 - DOC - 940356-04-002 - HEADPHONES MICROPHONE TALKBACK MICROPHONE TOP VIEW HEADPHONE OUT (traced).json](1994%20-%20940356%20-%20DOC%20-%20940356-04-002%20-%20HEADPHONES%20MICROPHONE%20TALKBACK%20MICROPHONE%20TOP%20VIEW%20HEADPHONE%20OUT%20%28traced%29.json) (the CAD file: `1994 - 940356 - DOC - 940356-04-002 - HEADPHONES MICROPHONE TALKBACK MICROPHONE TOP VIEW HEADPHONE OUT (traced).dxf`).
+
+## Full text
+
+### Page 1 (OCR, spell-checked: 2 words corrected)
+
+```text
+MONITOR
+6.50
+HEADPHONES
+MICROPHONE
+TALKBACK
+MICROPHONE
+TOP VIEW
+HEADPHONE OUT
+FRONT
+7.55
+3.50
+SSUEI DATE
+REVISION
+WBS
+WARD-BECK SYSTEMS
+DRN: DRG ENG:
+CBC
+10 METER CABLE TERMINATED MTH AN EDAC MULI-PIN CONNECTOR:
+ANNOUNCE  TURRET LAYOUT SCALE DISC NO: 475 ISSUE NTS 940356-04-002 CODE: 94356L02
+REAR VIEW
+SIDE VIEW
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+MONITOR
+6.50
+HEADPHONES
+MICROPHONE
+TALKBACK
+MICROPHONE
+TOP VIEW
+HEADPHONE OUT
+FRONT
+7.55
+3.50
+SSUEI DATEJ
+REVSION
+WBS
+WARD-BECK SYSTEMS
+DRN: DRG ENG:
+CBC
+10 METER CABLE TERMINATED MTH AN EDAC MULI-PIN CONNECTOR:
+ANNOUNCE  TURRET LAYOUT SCALE DISC NO: 475 ISSUE NTS 940356-04-002 CODE: 94356L02
+REAR VIEW
+SIDE VIEW
+```
+
+</details>
+
+## Contents (JSON)
+
+```json
+{"file":"Consoles/1990-1999/940356 - CBC/1994 - 940356 - DOC - 940356-04-002 - HEADPHONES MICROPHONE TALKBACK MICROPHONE TOP VIEW HEADPHONE OUT.jpg","sha256":"2685ca5f3380c2253000caba9f474ee1ed0dcfaf8e0163c919ed6caa21de101c","kind":"doc","models":["940356"],"year":1994,"pages":1,"order":[{"page":1,"title_block":[{"number":"940356-04-002","type":"layout / outline","title":"Headphones Microphone Talkback Microphone Top View Headphone Out","drawn":"DRG"}],"text":["MCnitor","HEADPHONES","MICROPHONE TALKBACK MCROPHONE","TOP VieW","HFAnPHONF","FRONT","WBS WARD-BECK SYSTEMS","CBC","ANNOUNCE TURRET","REAR MEW SIDE MEW APP. LAYOUT","NTS 940356-04-002","CCOE"]}],"drawing":{"svg":"_traces/2685ca5f3380c225.svg","viewBox":[2000,1297],"rotate":0,"number":"940356-04-002","title":"Headphones Microphone Talkback Microphone Top View Headphone Out","dtype":"04","outlines":"see _traces/2685ca5f3380c225.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","words":[[804,381,"MCnitor"],[791,429,"HEADPHONES"],[629,531,"MICROPHONE"],[799,529,"TALKBACK"],[944,529,"MCROPHONE"],[796,623,"TOP"],[829,626,"VieW"],[798,742,"HFAnPHONF"],[806,813,"FRONT"],[1631,1131,"WBS"],[1746,1128,"WARD-BECK SYSTEMS"],[1809,1161,"CBC"],[1746,1181,"ANNOUNCE"],[1844,1178,"TURRET"],[461,1198,"REAR MEW"],[1099,1196,"SIDE"],[1136,1196,"MEW"],[1614,1201,"APP."],[1794,1198,"LAYOUT"],[1619,1228,"NTS"],[1658,1227,"CCOE"],[1781,1223,"940356-04-002"]]}}
+```

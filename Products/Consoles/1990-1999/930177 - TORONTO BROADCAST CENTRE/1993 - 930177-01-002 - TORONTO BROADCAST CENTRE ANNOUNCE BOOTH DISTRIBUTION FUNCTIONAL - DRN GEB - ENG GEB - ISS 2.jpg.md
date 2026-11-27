@@ -1,0 +1,191 @@
+# 1993 - 930177-01-002 - TORONTO BROADCAST CENTRE ANNOUNCE BOOTH DISTRIBUTION FUNCTIONAL - DRN GEB - ENG GEB - ISS 2.jpg
+Wiki page: [Job-930177](../../../../PAGES/Job-930177.md)
+
+
+- **Year:** 1993 (job number 930177)
+- **Job / serial number:** 930177
+- **Project:** TORONTO BROADCAST CENTRE
+
+## Title block (found by software, read by eye)
+
+- **Drawing:** D 930177-01-002
+- **Size:** D
+- **Title:** TORONTO BROADCAST CENTRE / ANNOUNCE BOOTH / DISTRIBUTION FUNCTIONAL
+- **Drawn:** GEB
+- **Engineer:** GEB
+- **Issue:** 2
+- **Customer:** TORONTO BROADCAST CENTRE
+- **Confidence:** high
+
+- **Original file:** `WBSps.env/WBS Photos-1-001/2021-3-16-23-42-41.jpg`
+- **SHA-256:** `9439bec830ec9a4a65a7f12b4f5f6fa45f7110f1adea905b500d38544c77c242`
+- **Size:** 569,815 bytes
+- **Pages:** 1
+
+## Vectors (traced)
+
+- **Sheet:** functional D 930177-01-002, size D 864 × 564 mm, 2000 × 1305 px traced (0.432 mm/px)
+- **Ink extent:** 219–857 mm across, 7–533 mm up
+- **Outlines:** line 1,054 rings, 8,625 straight (25,574 mm) / 1,479 curved (3,346 mm); text 186 rings, 1,120 straight (2,200 mm) / 366 curved (971 mm); tb 50 rings, 334 straight (643 mm) / 89 curved (220 mm)
+- **Centre lines:** 13,087 paths (289 closed); straight 18,486 mm, curved 60.4 mm; horizontal 7,622 mm, vertical 4,335 mm, diagonal 6,529 mm
+- **Circles and arcs:** 1 circles, 8 arcs; largest r 2.3 @ (394.4, 453.0)
+- **Closed boxes:** 64 (14 in the title block)
+- **Words (OCR):** 18 in 17 lines: BoOTH · 29 @ · chcoW/on · Fov Pis @ · 86654' · JaCS · WBS · WARD- · BECK  SYSTEMS · TORONTO BROADCAST CENTRE · ANNOUNCE BOOTH · DISTRIBUTION
+- **Title block:** (691, 4)–(864, 72) mm: WBS · WARD- · BECK  SYSTEMS · TORONTO BROADCAST CENTRE · ANNOUNCE BOOTH · DISTRIBUTION · FUNC TIONAL · SCALE · 950177-01 = · 002 · 03177702
+- **Wiring (first pass):** 113 connected wire groups from 1,631 runs; labelled ends: 236 mm → chcoW/on; 124 mm → JaCS, WBS; 55 mm → 29 @; 23 mm → Fov Pis @; 19 mm → 29 @
+
+Every curve, box, word and wire group: [1993 - 930177-01-002 - TORONTO BROADCAST CENTRE ANNOUNCE BOOTH DISTRIBUTION FUNCTIONAL - DRN GEB - ENG GEB - ISS 2 (traced).json](1993%20-%20930177-01-002%20-%20TORONTO%20BROADCAST%20CENTRE%20ANNOUNCE%20BOOTH%20DISTRIBUTION%20FUNCTIONAL%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1993 - 930177-01-002 - TORONTO BROADCAST CENTRE ANNOUNCE BOOTH DISTRIBUTION FUNCTIONAL - DRN GEB - ENG GEB - ISS 2 (traced).dxf`).
+
+## Full text
+
+### Page 1 (OCR, spell-checked: 12 words corrected)
+
+```text
+ANNOUNCE BOOTH
+U82058 VODUE
+"umd
+Eumz
+CEe ECM   SUME ECM SUIe ECO  SUME ECT  SUME
+Un (ODULE Knc CHANNEL
+SUES 1917 ~cknalcs
+FEDD FBOM Pi}
+4a2053 VOCUL
+DRAWING
+EDIT   sumE EdIt   sue SUMT Edit  SUME SUME
+940177-01-C01
+CONTROL INPUTS FRCU PiJ
+Ch CFF ComM Mat
+ANNC
+cewinG
+INTERCOM INPUT
+930177-01-001
+ITt Close
+C4 On/OFF OGlit
+Hazose UOCULE
+ECI  SUITE ckneucs
+Lbc05e K
+(WIRED
+ABOVE)
+FROM #Pi3 88017R-81*0001
+ANNOUNCE BOOTH
+0B205B HCDUL
+Vu201 Nec CHANNEL (ABODULE
+2AERMESUS Sum?
+Mddoi VuDULI @a
+(IRED
+ADCVE
+FROM P14
+Contrm UNITS FRCU Pi4
+CCUU TALLY
+NKC
+INTERCOM INPUT
+closurLy
+Ch On/CFF TOGGLE
+4a2o53 Wnu
+NERHT_quge (MREd ABOVE)
+FEED ERoV 4Pi4
+4b2050 MODULE
+ANNOUNCE BOOTH
+0B2DSB HODUL 4224
+00201 (AI CHANNeL MODULE
+edmt  sue lckNibLDS
+43203 Vodulg N2a
+(MIRED
+ABOVE)
+FROR
+conmtroi IHFUIS FPOU
+CH OFF CCUU TAlly
+INTERCOM nPU
+CLOSURE
+Ch ONCFF TOGGLE
+047048 MCOuLE nla
+JACKS E23,F23_ K2J ADDED_4S_PER_CBC SSUE REVISION APP WBS WARD-BECK SYSTEMS
+5s OAERF ESUS
+44annze VOCULE Cil4
+DRN; ENG: CKD_
+TORONTO BROADCAST CENTRE ANNOUNCE BOOTH DISTRIBUTION   FUNCTIONAL SCALE DISC NC: 442 ISSUE 930177-01 002 CODE: 93177F02
+(ARED
+ABOVE)
+Frok
+Fip
+```
+
+<details><summary>As read by the OCR</summary>
+
+```text
+ANNOUNCE BOOTH
+U82058 VODUE
+"umd
+Eumz
+CEe ECM   SUME ECM SUIe ECO  SUME ECT  SUME
+Un (ODULE Knc CHANNEL
+SUMES 1917 ~cknalcs
+FEDD FBOM Pi}
+4a2053 VOCUL
+DRAHING
+EDIT   sumE EdIt   sue SUMT Edit  SUME SUME
+940177-01-C01
+CoNROL INFUTS FRCU PiJ
+Ch CFF ComM Mat
+ANNC
+cewinG
+INTERCOM INPUT
+930177-01-001
+ITt Closr
+C4 On/OFF OGlit
+Hazose UOCULE
+ECI  SUITE ckneucs
+Lbc05e K
+(WIRED
+ABOVE)
+FROM #Pi3 88017R-81*0001
+ANNOUNCE BOOTH
+0B205B HCDUL
+Vu201 Nec CHANNEL (ABODULE
+2AERMESUS Sum?
+Mddoi VuDULI @a
+(IRED
+ADCVE
+FROM P14
+Contrm INITS FRCU Pi4
+CCUU TALLY
+NKC
+INTERCOM INPUT
+closurLy
+Ch On/CFF TOGGLE
+4a2o53 Wnu
+NERHT_quge (MREd ABOVE)
+FEED ERoV 4Pi4
+4b2050 VODULE
+ANNOUNCE BOOTH
+0B2DSB HODUL 4224
+00201 (AI CHANNeL VODULE
+edmt  sue lckNibLDS
+43203 Vodulg N2a
+(MIRED
+ABONE)
+FROR
+conmtroi IHFUIS FPOU
+CH OFF CCUU TAlly
+INTERCOM nPU
+CLOSURC
+Ch ONCFF TCGGLE
+047048 MCOuLE nla
+JACKS E23,F23_ K2J ADDED_4S_PER_CBC SSUE REVSION APP WBS WARD-BECK SYSTEMS
+5s OAERF ESUS
+44annze VOCULE Cil4
+DRN; ENG: CKD_
+TORONTO BROADCAST CENTRE ANNOUNCE BOOTH DISTRIBUTION   FUNCTIONAL SCALE DISC NC: 442 ISSUE 930177-01 002 CODE: 93177F02
+(ARED
+ABOVE)
+Frok
+Fip
+```
+
+</details>
+
+## Contents (JSON)
+
+```json
+{"file":"Consoles/1990-1999/930177 - TORONTO BROADCAST CENTRE/1993 - 930177-01-002 - TORONTO BROADCAST CENTRE ANNOUNCE BOOTH DISTRIBUTION FUNCTIONAL - DRN GEB - ENG GEB - ISS 2.jpg","sha256":"9439bec830ec9a4a65a7f12b4f5f6fa45f7110f1adea905b500d38544c77c242","kind":"job","models":["930177"],"year":1993,"pages":1,"order":[{"page":1,"title_block":[{"number":"D 930177-01-002","type":"functional / block diagram","title":"TORONTO BROADCAST CENTRE / ANNOUNCE BOOTH / DISTRIBUTION FUNCTIONAL","year":1993,"drawn":"GEB","issue":"2"}],"text":["BoOTH","29 @ 0","chcoW/on","2","Fov Pis @","86654'","JaCS","WBS WARD- BECK  SYSTEMS","TORONTO BROADCAST CENTRE","ANNOUNCE BOOTH","DISTRIBUTION FUNC TIONAL","SCALE 950177-01 = 002","03177702"]}],"drawing":{"svg":"_traces/9439bec830ec9a4a.svg","viewBox":[2000,1305],"rotate":0,"size":"D","number":"D 930177-01-002","title":"TORONTO BROADCAST CENTRE / ANNOUNCE BOOTH / DISTRIBUTION FUNCTIONAL","dtype":"01","outlines":"see _traces/9439bec830ec9a4a.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","centre_lines":"see _traces/9439bec830ec9a4a.svg.gz (in full in the archive copy of this note and its \"(traced).dxf\")","blocks":[[928,506,28,72],[1632,1258,44,30]],"words":[[808,80,"BoOTH"],[536,209,"29 @"],[631,309,"chcoW/on"],[536,431,"Fov Pis @"],[1144,699,"86654'"],[1742,1140,"JaCS"],[1656,1189,"WBS"],[1764,1186,"WARD-"],[1826,1186,"BECK  SYSTEMS"],[1724,1221,"TORONTO BROADCAST CENTRE"],[1771,1239,"ANNOUNCE"],[1869,1239,"BOOTH"],[1738,1256,"DISTRIBUTION"],[1854,1256,"FUNC TIONAL"],[1640,1270,"SCALE"],[1708,1285,"03177702"],[1796,1284,"950177-01 ="],[1901,1284,"002"]]}}
+```

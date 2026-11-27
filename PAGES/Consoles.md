@@ -396,45 +396,45 @@ _Console folders with no job number in their path, dated by their files._
 
 _Folders of console material with no job number in their path, each dated by tracing what it holds: its project, the model it shows, its drawing set, its files and the modules they name._
 
-- [1967-1969](../Consoles/1960-1969/1967-1969/) — 1967|0, named for 1967-1969 · 218 files
-- [1970-1979](../Consoles/1970-1979/1970-1979/) — 1970|3, named for 1970-1979 · 71 files
-- [31106-04-003_1 WSVN iss 2](../Consoles/1970-1979/31106-04-003_1%20WSVN%20iss%202/) — 1977|10, about project WSVN · 6 files
-- [31106-04-003_1 iss 1](../Consoles/1970-1979/31106-04-003_1%20iss%201/) — 1977|10, same drawing set 31106 as "31106-04-003_1 WSVN iss 2" · 6 files
-- [31106-04-003_2 WSVN iss 2](../Consoles/1970-1979/31106-04-003_2%20WSVN%20iss%202/) — 1977|10, about project WSVN · 6 files
-- [31106-04-003_2 prelim](../Consoles/1970-1979/31106-04-003_2%20prelim/) — 1977|10, same drawing set 31106 as "31106-04-003_1 WSVN iss 2" · 6 files
-- [31106-04-003_3 iss 1](../Consoles/1970-1979/31106-04-003_3%20iss%201/) — 1977|10, about project WSVN · 7 files
-- [31106-04-003_3 iss 2](../Consoles/1970-1979/31106-04-003_3%20iss%202/) — 1977|10, about project WSVN · 6 files
-- [31106-04-003_3 wsvn jackfield prelim](../Consoles/1970-1979/31106-04-003_3%20wsvn%20jackfield%20prelim/) — 1977|10, about project WSVN · 6 files
-- [31106-04-003_4](../Consoles/1970-1979/31106-04-003_4/) — 1977|10, about project WSVN · 6 files
-- [31106-04-006](../Consoles/1970-1979/31106-04-006/) — 1977|10, about project WSVN · 3 files
-- [3116-01-004](../Consoles/1970-1979/3116-01-004/) — 1977|10, about project WSVN · 6 files
-- [Archived - Done - L2042 Console](../Consoles/1970-1979/Archived%20-%20Done%20-%20L2042%20Console/) — 1977|10, project L2042 Console: 4 dated files · 21 files
-- [Archived - Done - L3242 Console](../Consoles/1970-1979/Archived%20-%20Done%20-%20L3242%20Console/) — 1977|10, project L3242 Console: 8 dated files · 22 files
-- [L 26 X 4](../Consoles/1970-1979/L%2026%20X%204/) — 1977|10, project L 26 X 4: the L series (L2042, its earliest dated model) (traced) · 8 files
-- [WBS L2642](../Consoles/1970-1979/WBS%20L2642/) — 1977|10, project L2642: the L series (L2042, its earliest dated model) (traced) · 9 files
-- [WBS L3242A full size](../Consoles/1970-1979/WBS%20L3242A%20full%20size/) — 1977|10, project L3242A full size: L3242, which it is about (traced) · 3 files
-- [WBS L3242P](../Consoles/1970-1979/WBS%20L3242P/) — 1977|10, project L3242P: L3242, which it is about (traced) · 1 files
-- [WSVN](../Consoles/1970-1979/WSVN/) — 1977|10, project WSVN: 13 dated files · 10 files
-- [WBS 1979 custom L series full size](../Consoles/1970-1979/WBS%201979%20custom%20L%20series%20full%20size/) — 1979|12, project 1979 custom L series full size: "1979" in its name (traced) · 1 files
-- [1980-1989](../Consoles/1980-1989/1980-1989/) — 1980|13, named for 1980-1989 · 214 files
-- [T1202](../Consoles/1980-1989/T1202/) — 1982|15, project T1202: the T series (T1202A, its earliest dated model) (traced) · 203 files
-- [2442-04-001 ST2442 outline](../Consoles/1980-1989/2442-04-001%20ST2442%20outline/) — 1984|17, ST2442, which it shows · 6 files
-- [2442-04-002 ST2442 front view layout](../Consoles/1980-1989/2442-04-002%20ST2442%20front%20view%20layout/) — 1984|17, ST2442, which it shows · 6 files
-- [2442-04-003 ST2442 top view](../Consoles/1980-1989/2442-04-003%20ST2442%20top%20view/) — 1984|17, ST2442, which it shows · 6 files
-- [3642-04-001 ST console outline](../Consoles/1980-1989/3642-04-001%20ST%20console%20outline/) — 1984|17, same drawing set 3642 as "3642-04-002 ST3642 front layout" · 6 files
-- [3642-04-002 ST3642 front layout](../Consoles/1980-1989/3642-04-002%20ST3642%20front%20layout/) — 1984|17, ST3642, which it shows · 6 files
-- [3642-04-003 ST3642 Top View Layout](../Consoles/1980-1989/3642-04-003%20ST3642%20Top%20View%20Layout/) — 1984|17, ST3642, which it shows · 6 files
-- [ST console mono and st schematics for back planes](../Consoles/1980-1989/ST%20console%20mono%20and%20st%20schematics%20for%20back%20planes/) — 1984|17, project ST console mono and st schematics for back planes: the ST series (ST2442, its earliest dated model) (traced) · 11 files
-- [Red Deer WBS](../Consoles/1980-1989/Red%20Deer%20WBS/) — 1985|18, project Red Deer WBS: the 8 dated modules its files name (traced) · 129 files
-- [WBS St Series Stereo Console](../Consoles/1980-1989/WBS%20St%20Series%20Stereo%20Console/) — 1985|18, project St Series Stereo Console: the 28 dated modules its files name (traced) · 64 files
-- [BIG CFTO TV done](../Consoles/1980-1989/BIG%20CFTO%20TV%20done/) — 1988|21, project CFTO TV done: 78 dated files · 91 files
-- [WBS880134 - ST Console](../Consoles/1980-1989/WBS880134%20-%20ST%20Console/) — 1988|21, project 880134 - ST Console: job 880134 in its name (traced) · 7 files
-- [1989-1999](../Consoles/1980-1989/1989-1999/) — 1989|22, named for 1989-1999 · 132 files
-- [R series install guide](../Consoles/1990-1999/R%20series%20install%20guide/) — 1990|23, project R series install guide: the R series (R1400, its earliest dated model) (traced) · 9 files
-- [R series installation manual](../Consoles/1990-1999/R%20series%20installation%20manual/) — 1990|23, project R series installation manual: the R series (R1400, its earliest dated model) (traced) · 9 files
-- [R1400-R2400 - sales](../Consoles/1990-1999/R1400-R2400%20-%20sales/) — 1990|23, project R1400-R2400 - sales: R1400, which it is about (traced) · 26 files
-- [R2K](../Consoles/1990-1999/R2K/) — 1994|27, project R2K: M908, which it is about (traced) · 110 files
-- [Renaisance](../Consoles/1990-1999/Renaisance/) — 1994|27, project Renaisance: M901CY, which it is about (traced) · 37 files
-- [Renaisance Console](../Consoles/1990-1999/Renaisance%20Console/) — 1994|27, about project Renaisance · 5 files
-- [WBS renaisance console](../Consoles/1990-1999/WBS%20renaisance%20console/) — 1994|27, about project Renaisance · 9 files
-- [Archived - Done - L1202A Console](../Consoles/2000-2009/Archived%20-%20Done%20-%20L1202A%20Console/) — 2001|34, project L1202A Console: L1202A, which it is about (traced) · 47 files
+- [1967-1969](../Products/Consoles/1960-1969/1967-1969/) — 1967|0, named for 1967-1969 · 218 files
+- [1970-1979](../Products/Consoles/1970-1979/1970-1979/) — 1970|3, named for 1970-1979 · 71 files
+- [31106-04-003_1 WSVN iss 2](../Products/Consoles/1970-1979/31106-04-003_1%20WSVN%20iss%202/) — 1977|10, about project WSVN · 6 files
+- [31106-04-003_1 iss 1](../Products/Consoles/1970-1979/31106-04-003_1%20iss%201/) — 1977|10, same drawing set 31106 as "31106-04-003_1 WSVN iss 2" · 6 files
+- [31106-04-003_2 WSVN iss 2](../Products/Consoles/1970-1979/31106-04-003_2%20WSVN%20iss%202/) — 1977|10, about project WSVN · 6 files
+- [31106-04-003_2 prelim](../Products/Consoles/1970-1979/31106-04-003_2%20prelim/) — 1977|10, same drawing set 31106 as "31106-04-003_1 WSVN iss 2" · 6 files
+- [31106-04-003_3 iss 1](../Products/Consoles/1970-1979/31106-04-003_3%20iss%201/) — 1977|10, about project WSVN · 7 files
+- [31106-04-003_3 iss 2](../Products/Consoles/1970-1979/31106-04-003_3%20iss%202/) — 1977|10, about project WSVN · 6 files
+- [31106-04-003_3 wsvn jackfield prelim](../Products/Consoles/1970-1979/31106-04-003_3%20wsvn%20jackfield%20prelim/) — 1977|10, about project WSVN · 6 files
+- [31106-04-003_4](../Products/Consoles/1970-1979/31106-04-003_4/) — 1977|10, about project WSVN · 6 files
+- [31106-04-006](../Products/Consoles/1970-1979/31106-04-006/) — 1977|10, about project WSVN · 3 files
+- [3116-01-004](../Products/Consoles/1970-1979/3116-01-004/) — 1977|10, about project WSVN · 6 files
+- [Archived - Done - L2042 Console](../Products/Consoles/1970-1979/Archived%20-%20Done%20-%20L2042%20Console/) — 1977|10, project L2042 Console: 4 dated files · 21 files
+- [Archived - Done - L3242 Console](../Products/Consoles/1970-1979/Archived%20-%20Done%20-%20L3242%20Console/) — 1977|10, project L3242 Console: 8 dated files · 22 files
+- [L 26 X 4](../Products/Consoles/1970-1979/L%2026%20X%204/) — 1977|10, project L 26 X 4: the L series (L2042, its earliest dated model) (traced) · 8 files
+- [WBS L2642](../Products/Consoles/1970-1979/WBS%20L2642/) — 1977|10, project L2642: the L series (L2042, its earliest dated model) (traced) · 9 files
+- [WBS L3242A full size](../Products/Consoles/1970-1979/WBS%20L3242A%20full%20size/) — 1977|10, project L3242A full size: L3242, which it is about (traced) · 3 files
+- [WBS L3242P](../Products/Consoles/1970-1979/WBS%20L3242P/) — 1977|10, project L3242P: L3242, which it is about (traced) · 1 files
+- [WSVN](../Products/Consoles/1970-1979/WSVN/) — 1977|10, project WSVN: 13 dated files · 10 files
+- [WBS 1979 custom L series full size](../Products/Consoles/1970-1979/WBS%201979%20custom%20L%20series%20full%20size/) — 1979|12, project 1979 custom L series full size: "1979" in its name (traced) · 1 files
+- [1980-1989](../Products/Consoles/1980-1989/1980-1989/) — 1980|13, named for 1980-1989 · 214 files
+- [T1202](../Products/Consoles/1980-1989/T1202/) — 1982|15, project T1202: the T series (T1202A, its earliest dated model) (traced) · 203 files
+- [2442-04-001 ST2442 outline](../Products/Consoles/1980-1989/2442-04-001%20ST2442%20outline/) — 1984|17, ST2442, which it shows · 6 files
+- [2442-04-002 ST2442 front view layout](../Products/Consoles/1980-1989/2442-04-002%20ST2442%20front%20view%20layout/) — 1984|17, ST2442, which it shows · 6 files
+- [2442-04-003 ST2442 top view](../Products/Consoles/1980-1989/2442-04-003%20ST2442%20top%20view/) — 1984|17, ST2442, which it shows · 6 files
+- [3642-04-001 ST console outline](../Products/Consoles/1980-1989/3642-04-001%20ST%20console%20outline/) — 1984|17, same drawing set 3642 as "3642-04-002 ST3642 front layout" · 6 files
+- [3642-04-002 ST3642 front layout](../Products/Consoles/1980-1989/3642-04-002%20ST3642%20front%20layout/) — 1984|17, ST3642, which it shows · 6 files
+- [3642-04-003 ST3642 Top View Layout](../Products/Consoles/1980-1989/3642-04-003%20ST3642%20Top%20View%20Layout/) — 1984|17, ST3642, which it shows · 6 files
+- [ST console mono and st schematics for back planes](../Products/Consoles/1980-1989/ST%20console%20mono%20and%20st%20schematics%20for%20back%20planes/) — 1984|17, project ST console mono and st schematics for back planes: the ST series (ST2442, its earliest dated model) (traced) · 11 files
+- [Red Deer WBS](../Products/Consoles/1980-1989/Red%20Deer%20WBS/) — 1985|18, project Red Deer WBS: the 8 dated modules its files name (traced) · 129 files
+- [WBS St Series Stereo Console](../Products/Consoles/1980-1989/WBS%20St%20Series%20Stereo%20Console/) — 1985|18, project St Series Stereo Console: the 28 dated modules its files name (traced) · 64 files
+- [BIG CFTO TV done](../Products/Consoles/1980-1989/BIG%20CFTO%20TV%20done/) — 1988|21, project CFTO TV done: 78 dated files · 91 files
+- [WBS880134 - ST Console](../Products/Consoles/1980-1989/WBS880134%20-%20ST%20Console/) — 1988|21, project 880134 - ST Console: job 880134 in its name (traced) · 7 files
+- [1989-1999](../Products/Consoles/1980-1989/1989-1999/) — 1989|22, named for 1989-1999 · 132 files
+- [R series install guide](../Products/Consoles/1990-1999/R%20series%20install%20guide/) — 1990|23, project R series install guide: the R series (R1400, its earliest dated model) (traced) · 9 files
+- [R series installation manual](../Products/Consoles/1990-1999/R%20series%20installation%20manual/) — 1990|23, project R series installation manual: the R series (R1400, its earliest dated model) (traced) · 9 files
+- [R1400-R2400 - sales](../Products/Consoles/1990-1999/R1400-R2400%20-%20sales/) — 1990|23, project R1400-R2400 - sales: R1400, which it is about (traced) · 26 files
+- [R2K](../Products/Consoles/1990-1999/R2K/) — 1994|27, project R2K: M908, which it is about (traced) · 110 files
+- [Renaisance](../Products/Consoles/1990-1999/Renaisance/) — 1994|27, project Renaisance: M901CY, which it is about (traced) · 37 files
+- [Renaisance Console](../Products/Consoles/1990-1999/Renaisance%20Console/) — 1994|27, about project Renaisance · 5 files
+- [WBS renaisance console](../Products/Consoles/1990-1999/WBS%20renaisance%20console/) — 1994|27, about project Renaisance · 9 files
+- [Archived - Done - L1202A Console](../Products/Consoles/2000-2009/Archived%20-%20Done%20-%20L1202A%20Console/) — 2001|34, project L1202A Console: L1202A, which it is about (traced) · 47 files
