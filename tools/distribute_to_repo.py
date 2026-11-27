@@ -148,6 +148,10 @@ def main():
         raise SystemExit(f'{clone} has uncommitted changes; commit or clean it first')
 
     rels = source_files(src, a.untracked_only)
+    if any(r.lower().endswith('.psd') for r in rels) and not a.dry_run:
+        # no PSDs in the archive repos: each becomes a JPEG of its flattened image (tools/psd_to_jpg.py)
+        subprocess.run([sys.executable, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'psd_to_jpg.py'), src])
+        rels = source_files(src, a.untracked_only)
     if a.zip_big:
         rels = [zip_big(src, r) for r in rels]
     moves, dupes, conflicts, junk = [], 0, [], 0
