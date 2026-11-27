@@ -160,15 +160,14 @@ def sh(*a, **k):
 
 def make_repo(repo, about):
     if sh('gh', 'repo', 'view', f'{OWNER}/{repo}').returncode:
-        wait = 600
+        wait = 180
         while True:     # GitHub limits repo creation ("too many repositories, too quickly"): back off, never give up
             r = sh('gh', 'repo', 'create', f'{OWNER}/{repo}', '--public', '--description', about[:300])
             if not r.returncode or not sh('gh', 'repo', 'view', f'{OWNER}/{repo}').returncode:
                 break
             print(f'  create {repo} failed ({r.stderr.strip()[:90]}); waiting {wait // 60} min', flush=True)
-            time.sleep(wait)
-            wait = min(wait * 2, 1800)
-        time.sleep(90)
+            time.sleep(wait)     # a rolling window: probe every 3 min rather than back off for long
+        time.sleep(20)
     clone = os.path.join(G, repo)
     if not os.path.isdir(os.path.join(clone, '.git')):
         os.makedirs(clone, exist_ok=True)
