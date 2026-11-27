@@ -22,6 +22,14 @@ Y2026 = os.path.join(ROOT, '2026')
 SITE = 'https://wardbecksystems.github.io/WBSps.ca'
 IMG = ('.jpg', '.jpeg', '.png', '.gif', '.webp', '.tif', '.tiff', '.bmp')
 COLS = 3
+SMALL = re.compile(r'_small$', re.I)
+
+
+def thumbnail_of_shown(name, names):
+    """A '<x>_small' copy whose full-size '<x>' is also in the folder: a web thumbnail, not shown."""
+    stem = os.path.splitext(name)[0]
+    base = SMALL.sub('', stem)
+    return base != stem and any(os.path.splitext(n)[0] == base for n in names)
 
 
 def load_drive():
@@ -196,11 +204,11 @@ def readme(moddir, drive):
     out += ([BEGIN, ''] + block + [END, ''] if block else [])
     total = missing = 0
     for k, title in SECTIONS:
+        names = {n for kk, n, _ in files if kk == k}
         shown = sorted((n, p) for kk, n, p in files if kk == k and os.path.splitext(n)[1].lower() in SHOWN
-                       and '(traced)' not in n)
+                       and '(traced)' not in n and not thumbnail_of_shown(n, names))
         if not shown:
             continue
-        names = {n for kk, n, _ in files if kk == k}
         cells, private, miss = [], [], []
         for n, p in shown:
             d = drive.get(os.path.relpath(p, Y2026).replace(os.sep, '/'))

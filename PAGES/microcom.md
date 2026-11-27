@@ -66,7 +66,6 @@ tags: ["product", "micro-series"]
 | ? | [19xx - microcom - System.jpg](../Products/MICRO%20SERIES/microcom/19xx%20-%20microcom%20-%20System.jpg) | [note](../Products/MICRO%20SERIES/microcom/19xx%20-%20microcom%20-%20System.jpg.md) |
 | ? | [19xx - microcom - wbsps - ad - microcom (2).jpg](../Products/MICRO%20SERIES/microcom/19xx%20-%20microcom%20-%20wbsps%20-%20ad%20-%20microcom%20%282%29.jpg) | [note](../Products/MICRO%20SERIES/microcom/19xx%20-%20microcom%20-%20wbsps%20-%20ad%20-%20microcom%20%282%29.jpg.md) |
 | ? | [19xx - microcom - wbsps - ad - microcom.jpg](../Products/MICRO%20SERIES/microcom/19xx%20-%20microcom%20-%20wbsps%20-%20ad%20-%20microcom.jpg) | [note](../Products/MICRO%20SERIES/microcom/19xx%20-%20microcom%20-%20wbsps%20-%20ad%20-%20microcom.jpg.md) |
-| ? | [19xx - microcom - wbsps - ad - microcom_small.jpg](../Products/MICRO%20SERIES/microcom/19xx%20-%20microcom%20-%20wbsps%20-%20ad%20-%20microcom_small.jpg) | [note](../Products/MICRO%20SERIES/microcom/19xx%20-%20microcom%20-%20wbsps%20-%20ad%20-%20microcom_small.jpg.md) |
 
 ## Drawings (41)
 
