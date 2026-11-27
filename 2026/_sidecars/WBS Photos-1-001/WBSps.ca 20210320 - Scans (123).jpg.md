@@ -1,6 +1,6 @@
 # 1976 - 468-02-027 - M468P ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1
 
-![WBSps.ca 20210320 - Scans (123).jpg](WBSps.ca%2020210320%20-%20Scans%20(123).jpg)
+![WBSps.ca 20210320 - Scans (123).jpg](WBSps.ca%2020210320%20-%20Scans%20%28123%29.jpg)
 
 ## Title block
 

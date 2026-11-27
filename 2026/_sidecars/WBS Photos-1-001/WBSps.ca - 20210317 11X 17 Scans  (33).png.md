@@ -1,6 +1,6 @@
 # 19xx - 648-02-001 - POWER SUPPLY M648 SCHEMATIC - ISS 7
 
-![WBSps.ca - 20210317 11X 17 Scans  (33).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(33).png)
+![WBSps.ca - 20210317 11X 17 Scans  (33).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%2833%29.png)
 
 Schematic of the M648 power supply with regulator card.
 

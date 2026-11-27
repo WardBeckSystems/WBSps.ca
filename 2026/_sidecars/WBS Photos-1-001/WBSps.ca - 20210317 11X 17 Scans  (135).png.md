@@ -1,6 +1,6 @@
 # 1975 - B 9316 - 70-3 OUTPUT TRANSFORMER - DRN D. M'FARLANE
 
-![WBSps.ca - 20210317 11X 17 Scans  (135).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(135).png)
+![WBSps.ca - 20210317 11X 17 Scans  (135).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%28135%29.png)
 
 ## Title block
 

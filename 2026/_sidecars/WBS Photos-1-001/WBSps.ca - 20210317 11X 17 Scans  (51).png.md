@@ -1,6 +1,6 @@
 # 1974 - 4-110-02-001 - 4-110 PRE-AMP HP FILTER SCHEMATIC - DRN DM - ISS 8
 
-![WBSps.ca - 20210317 11X 17 Scans  (51).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(51).png)
+![WBSps.ca - 20210317 11X 17 Scans  (51).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%2851%29.png)
 
 ## Title block
 

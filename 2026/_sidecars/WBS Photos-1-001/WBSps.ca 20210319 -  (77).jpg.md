@@ -1,6 +1,6 @@
 # 19xx - TELEMEDIA TURRET LAYOUT - ISS 2 C
 
-![WBSps.ca 20210319 -  (77).jpg](WBSps.ca%2020210319%20-%20%20(77).jpg)
+![WBSps.ca 20210319 -  (77).jpg](WBSps.ca%2020210319%20-%20%20%2877%29.jpg)
 
 Side, top and rear views of a Telemedia turret unit with clock displays.
 

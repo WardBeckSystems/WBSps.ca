@@ -1,6 +1,6 @@
 # 1968 - A 9009 - VERT. 60-3 XFMR MTG BRKT - ISS 1
 
-![WBSps.ca - Mechanical 9XXX (35).png](WBSps.ca%20-%20Mechanical%209XXX%20(35).png)
+![WBSps.ca - Mechanical 9XXX (35).png](WBSps.ca%20-%20Mechanical%209XXX%20%2835%29.png)
 
 Two stacked mechanical bracket drawings for transformer mounting.
 

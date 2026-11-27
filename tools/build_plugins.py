@@ -2,7 +2,7 @@
 # Copyright (c) 2026 Ward-Beck Systems (Ward-Beck.com - Ward-Beck.ca). All rights reserved.
 """Build, test and deploy every module plugin, then prove REAPER boots and loads each one.
 
-For every 2026/Modules/<CAT>/<M>/SOFTWARE/plugin crate:
+For every Products/Modules/<CAT>/<M>/SOFTWARE/plugin crate:
   1. cargo test --no-default-features          the DSP's own tests
   2. cargo xtask bundle <crate> --release       target/bundled/<crate>.vst3 and .clap
   3. deploy                                     the VST3 into ~/.vst3 and the CLAP into ~/.clap, the folders on
@@ -43,7 +43,7 @@ FLAGS = {a for a in sys.argv[1:] if a.startswith('--')}
 
 def crates():
     out = []
-    for toml in sorted(glob.glob(os.path.join(ROOT, '2026', 'Modules', '*', '*', 'SOFTWARE', 'plugin', 'Cargo.toml'))):
+    for toml in sorted(glob.glob(os.path.join(ROOT, 'Products', 'Modules', '*', '*', 'SOFTWARE', 'plugin', 'Cargo.toml'))):
         d = os.path.dirname(toml)
         code = d.split(os.sep)[-3]
         if ARGS and code not in ARGS:

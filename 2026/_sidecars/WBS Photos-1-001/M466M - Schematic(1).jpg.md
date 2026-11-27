@@ -1,6 +1,6 @@
 # 1976 - 466-02-003 - COMPRESSOR METER MODULE SCHEMATIC - DRN GEB - ISS 1
 
-![M466M - Schematic(1).jpg](M466M%20-%20Schematic(1).jpg)
+![M466M - Schematic(1).jpg](M466M%20-%20Schematic%281%29.jpg)
 
 M466M compressor meter module schematic with stereo tie switch.
 

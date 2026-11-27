@@ -1,6 +1,6 @@
 # 1977 - 470-01-002 - M470A INPUT MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG RKB - ISS 3
 
-![M470A - P18 - Functional Diagram(1).jpg](M470A%20-%20P18%20-%20Functional%20Diagram(1).jpg)
+![M470A - P18 - Functional Diagram(1).jpg](M470A%20-%20P18%20-%20Functional%20Diagram%281%29.jpg)
 
 ## Title block
 

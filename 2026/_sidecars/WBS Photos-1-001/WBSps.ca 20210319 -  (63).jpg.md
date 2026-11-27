@@ -1,6 +1,6 @@
 # 19xx - D 901BX01 - M901BX MIC INPUT MODULE - ISS 1
 
-![WBSps.ca 20210319 -  (63).jpg](WBSps.ca%2020210319%20-%20%20(63).jpg)
+![WBSps.ca 20210319 -  (63).jpg](WBSps.ca%2020210319%20-%20%20%2863%29.jpg)
 
 ## Title block
 

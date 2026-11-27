@@ -1,6 +1,6 @@
 # 19xx - 8224-03-028 - REAR PANEL FOR IPH-2 - DRN DRG - ISS 1
 
-![WBSps.ca - 20210317 11X 17 Scans  (169).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(169).png)
+![WBSps.ca - 20210317 11X 17 Scans  (169).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%28169%29.png)
 
 ## Title block
 

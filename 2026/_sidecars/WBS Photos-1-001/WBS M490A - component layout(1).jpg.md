@@ -1,6 +1,6 @@
 # 1978 - 490-06-002 - M490A MIC INPUT MODULE COMPONENT LAYOUT - DRN GEB - ENG GEB - ISS 6
 
-![WBS M490A - component layout(1).jpg](WBS%20M490A%20-%20component%20layout(1).jpg)
+![WBS M490A - component layout(1).jpg](WBS%20M490A%20-%20component%20layout%281%29.jpg)
 
 ## Title block
 

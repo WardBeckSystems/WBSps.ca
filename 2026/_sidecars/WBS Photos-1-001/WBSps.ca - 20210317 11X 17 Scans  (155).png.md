@@ -1,6 +1,6 @@
 # 1985 - 469-03-007 - M469G ESCUTCHEON - DRN DRG - ENG PA - ISS 1
 
-![WBSps.ca - 20210317 11X 17 Scans  (155).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(155).png)
+![WBSps.ca - 20210317 11X 17 Scans  (155).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%28155%29.png)
 
 ## Title block
 

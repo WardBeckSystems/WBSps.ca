@@ -1,6 +1,6 @@
 # 19xx - 468-02-032 - M468U ASSIGNMENT MODULE SCHEMATIC - DRN PA - ENG PA - ISS 1
 
-![WBSps.ca 20210320 - Scans (60).jpg](WBSps.ca%2020210320%20-%20Scans%20(60).jpg)
+![WBSps.ca 20210320 - Scans (60).jpg](WBSps.ca%2020210320%20-%20Scans%20%2860%29.jpg)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Copyright (c) 2026 Ward-Beck Systems (Ward-Beck.com - Ward-Beck.ca). All rights reserved.
-"""Where a file goes inside a module folder (2026/Modules/<CATEGORY>/<Mxxx>/), shared by every archive script.
+"""Where a file goes inside a module folder (Products/Modules/<CATEGORY>/<Mxxx>/), shared by every archive script.
 
     <Mxxx>/README.md, index.html          the module's front page (stay at the top)
     <Mxxx>/RTO.json                        the module's RTO-144 edge connector, pin by pin (tools/module_extras.py)

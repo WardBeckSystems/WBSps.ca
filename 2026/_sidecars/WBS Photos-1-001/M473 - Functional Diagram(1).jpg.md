@@ -1,6 +1,6 @@
 # 1978 - 473-01-001 - SUB-MASTER MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG RKB - ISS 4
 
-![M473 - Functional Diagram(1).jpg](M473%20-%20Functional%20Diagram(1).jpg)
+![M473 - Functional Diagram(1).jpg](M473%20-%20Functional%20Diagram%281%29.jpg)
 
 ## Title block
 

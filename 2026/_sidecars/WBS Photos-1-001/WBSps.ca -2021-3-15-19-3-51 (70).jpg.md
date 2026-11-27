@@ -1,6 +1,6 @@
 # 1986 - 7000-03-019 - IKP-24C INTERCOM KEY PANELS - DRN BD - ENG GEB - ISS 1
 
-![WBSps.ca -2021-3-15-19-3-51 (70).jpg](WBSps.ca%20-2021-3-15-19-3-51%20(70).jpg)
+![WBSps.ca -2021-3-15-19-3-51 (70).jpg](WBSps.ca%20-2021-3-15-19-3-51%20%2870%29.jpg)
 
 ## Title block
 

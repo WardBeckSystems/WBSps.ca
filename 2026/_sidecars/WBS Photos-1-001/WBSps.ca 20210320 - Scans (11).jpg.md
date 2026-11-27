@@ -1,6 +1,6 @@
 # 1983 - 774-03-002 - HEATSINKS - DRN P. Mahoney - ENG MRW - ISS 3
 
-![WBSps.ca 20210320 - Scans (11).jpg](WBSps.ca%2020210320%20-%20Scans%20(11).jpg)
+![WBSps.ca 20210320 - Scans (11).jpg](WBSps.ca%2020210320%20-%20Scans%20%2811%29.jpg)
 
 ## Title block
 

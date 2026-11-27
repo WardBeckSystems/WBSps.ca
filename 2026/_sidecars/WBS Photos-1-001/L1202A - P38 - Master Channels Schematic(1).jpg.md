@@ -1,6 +1,6 @@
 # 1982 - 1202-02-012 - MASTER CHANNELS SCHEMATIC - DRN JP - ENG MRW - ISS 1
 
-![L1202A - P38 - Master Channels Schematic(1).jpg](L1202A%20-%20P38%20-%20Master%20Channels%20Schematic(1).jpg)
+![L1202A - P38 - Master Channels Schematic(1).jpg](L1202A%20-%20P38%20-%20Master%20Channels%20Schematic%281%29.jpg)
 
 ## Title block
 

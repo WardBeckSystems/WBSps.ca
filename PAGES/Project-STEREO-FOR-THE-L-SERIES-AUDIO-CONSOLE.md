@@ -16,7 +16,7 @@ tags: ["project", "1970s"]
 | Job number | none found yet |
 | Folder | [Consoles/1970-1979/77012 - 04-002 L2042 layout iss 5](../Products/Consoles/1970-1979/77012%20-%2004-002%20L2042%20layout%20iss%205/) |
 | Folder | [DOCUMENTS/To Be edited/STEREO FOR THE L SERIES AUDIO CONSOLE](../DOCUMENTS/To%20Be%20edited/STEREO%20FOR%20THE%20L%20SERIES%20AUDIO%20CONSOLE/) |
-| Folder | [Modules/AMPLIFIERS/M411](../Modules/AMPLIFIERS/M411/) |
+| Folder | [Modules/AMPLIFIERS/M411](../Products/Modules/AMPLIFIERS/M411/) |
 
 ## Drawings (2)
 

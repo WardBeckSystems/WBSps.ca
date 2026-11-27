@@ -1,6 +1,6 @@
 # 19xx - ENERGY 108 CING TURRET LAYOUT - ISS 2 C
 
-![WBSps.ca 20210319 -  (74).jpg](WBSps.ca%2020210319%20-%20%20(74).jpg)
+![WBSps.ca 20210319 -  (74).jpg](WBSps.ca%2020210319%20-%20%20%2874%29.jpg)
 
 Side, top and rear views of a desktop turret unit with talkback and mic buttons.
 

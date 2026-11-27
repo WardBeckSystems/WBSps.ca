@@ -18,7 +18,7 @@ tags: ["module", "meter", "1970s"]
 | Evidence | from M405 |
 | Confidence | family |
 | Variants | [M405](M405.md), [M405C](M405C.md), [M405D](M405D.md), [M405F](M405F.md), [M405M](M405M.md), [M405P](M405P.md) |
-| Folder | [Modules/METER/M405PSS](../Modules/METER/M405PSS/) |
+| Folder | [Modules/METER/M405PSS](../../Products/Modules/METER/M405PSS/) |
 
 ## Connections
 
@@ -30,7 +30,7 @@ _What it is made of and what it is part of._
 
 | Year | File |  |
 |---|---|---|
-| 1975 | [1975 - M405PSS - file.dwg](../Modules/METER/M405PSS/MECHANICAL/1975%20-%20M405PSS%20-%20file.dwg) | [note](../Modules/METER/M405PSS/OCR/1975%20-%20M405PSS%20-%20file.dwg.md) |
+| 1975 | [1975 - M405PSS - file.dwg](../../Products/Modules/METER/M405PSS/MECHANICAL/1975%20-%20M405PSS%20-%20file.dwg) | [note](../../Products/Modules/METER/M405PSS/OCR/1975%20-%20M405PSS%20-%20file.dwg.md) |
 
 ## Contents (JSON)
 

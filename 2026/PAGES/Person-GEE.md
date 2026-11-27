@@ -23,4 +23,4 @@ tags: ["person"]
 | Drawing | Title | Date | Drawn | Checked | Iss. | Source |
 |---|---|---|---|---|---|---|
 | — | Slate Osc And Misc | [1973](Year-1973.md) | [GEE](Person-GEE.md) |  |  | [file](../Modules/MONITORING/M413/1973%20-%20M413%20-%20DOC%20-%20Slate%20OSC%20and%20Misc%20Audio%20Systems%20Schematic.pdf) |
-| — | Com Ponent Layout |  | [GEE](Person-GEE.md) |  | I | [file](../Modules/AMPLIFIERS/M450B/MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20%282%29.pdf) p.14 |
+| — | Com Ponent Layout |  | [GEE](Person-GEE.md) |  | I | [file](../../Products/Modules/AMPLIFIERS/M450B/MANUALS/1979%20-%20M450B%20-%20Program%20-%20Summing%20Amplifier%20%282%29.pdf) p.14 |

@@ -1,6 +1,6 @@
 # 19xx - 500-02-001 - 500 PROG. AMP. SCHEMATIC - ISS 2
 
-![WBSps.ca - 20210317 11X 17 Scans  (90).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(90).png)
+![WBSps.ca - 20210317 11X 17 Scans  (90).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%2890%29.png)
 
 Schematic of a program amplifier with transformer-coupled transistor stages.
 

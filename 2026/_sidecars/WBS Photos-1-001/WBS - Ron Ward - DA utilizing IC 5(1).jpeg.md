@@ -1,6 +1,6 @@
 # 19xx - Fig. 2
 
-![WBS - Ron Ward - DA utilizing IC 5(1).jpeg](WBS%20-%20Ron%20Ward%20-%20DA%20utilizing%20IC%205(1).jpeg)
+![WBS - Ron Ward - DA utilizing IC 5(1).jpeg](WBS%20-%20Ron%20Ward%20-%20DA%20utilizing%20IC%205%281%29.jpeg)
 
 Hand-drawn Fig. 2 two op-amp balanced circuit diagram.
 

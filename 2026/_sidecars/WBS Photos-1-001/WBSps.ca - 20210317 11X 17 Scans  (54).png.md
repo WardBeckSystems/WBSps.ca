@@ -1,6 +1,6 @@
 # 1974 - 4-141-02-001 - 4-141 SUMMING AMPLIFIER SCHEMATIC - DRN DM - ISS 9
 
-![WBSps.ca - 20210317 11X 17 Scans  (54).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(54).png)
+![WBSps.ca - 20210317 11X 17 Scans  (54).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%2854%29.png)
 
 ## Title block
 

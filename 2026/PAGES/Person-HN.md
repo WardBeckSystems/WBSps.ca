@@ -22,5 +22,5 @@ tags: ["person"]
 
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
-| — | Connect Output Cable Shields Chassis Module |  | P ILXENEY | [HN](Person-HN.md) | U | [file](../Modules/AMPLIFIERS/M608/MECHANICAL/1975%20-%20M608%20-%20608-04-001%20-%20CONNECT%20OUTPUT%20CAELE%20SHIELDS%20CHASSIS%20MODULE.jpg) |
-| 608-04-001 | Connect Output Caele Shields Chassis Module |  |  | [HN](Person-HN.md) | U | [file](../Modules/AMPLIFIERS/M608/MECHANICAL/1975%20-%20M608%20-%20608-04-001%20-%20CONNECT%20OUTPUT%20CAELE%20SHIELDS%20CHASSIS%20MODULE.jpg) |
+| — | Connect Output Cable Shields Chassis Module |  | P ILXENEY | [HN](Person-HN.md) | U | [file](../../Products/Modules/AMPLIFIERS/M608/MECHANICAL/1975%20-%20M608%20-%20608-04-001%20-%20CONNECT%20OUTPUT%20CAELE%20SHIELDS%20CHASSIS%20MODULE.jpg) |
+| 608-04-001 | Connect Output Caele Shields Chassis Module |  |  | [HN](Person-HN.md) | U | [file](../../Products/Modules/AMPLIFIERS/M608/MECHANICAL/1975%20-%20M608%20-%20608-04-001%20-%20CONNECT%20OUTPUT%20CAELE%20SHIELDS%20CHASSIS%20MODULE.jpg) |

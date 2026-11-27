@@ -1,6 +1,6 @@
 # 1972 - 101-03-014 - TRAY & COVER MTG BRACKET MF6 & MF6A - DRN GP - ISS 6
 
-![WBSps.ca 20210320 - Scans (97).jpg](WBSps.ca%2020210320%20-%20Scans%20(97).jpg)
+![WBSps.ca 20210320 - Scans (97).jpg](WBSps.ca%2020210320%20-%20Scans%20%2897%29.jpg)
 
 Mechanical detail of a tray and cover mounting bracket for the MF6 frame.
 

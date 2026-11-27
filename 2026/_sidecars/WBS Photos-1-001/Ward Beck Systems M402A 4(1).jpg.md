@@ -1,6 +1,6 @@
 # 19xx - M402A - M402B
 
-![Ward Beck Systems M402A 4(1).jpg](Ward%20Beck%20Systems%20M402A%204(1).jpg)
+![Ward Beck Systems M402A 4(1).jpg](Ward%20Beck%20Systems%20M402A%204%281%29.jpg)
 
 Product data sheet for the M402B with outline drawing and technical data, WBS logo at bottom left.
 

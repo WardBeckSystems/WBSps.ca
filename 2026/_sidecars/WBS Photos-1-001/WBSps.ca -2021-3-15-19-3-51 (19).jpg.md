@@ -1,6 +1,6 @@
 # 1982 - 465-02-003 - M465B REVERB MODULE SCHEMATIC - DRN JET - ENG PA - ISS 2
 
-![WBSps.ca -2021-3-15-19-3-51 (19).jpg](WBSps.ca%20-2021-3-15-19-3-51%20(19).jpg)
+![WBSps.ca -2021-3-15-19-3-51 (19).jpg](WBSps.ca%20-2021-3-15-19-3-51%20%2819%29.jpg)
 
 ## Title block
 

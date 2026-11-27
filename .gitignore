@@ -106,6 +106,8 @@ site/
 /microcom-sim/
 /rust_image_data_suite/
 /2026/timelines/
+# the pipeline sees the module repos at 2026/Modules (they live in Products/Modules)
+/2026/Modules
 /2026/extractors/rust_analyzer/
 .vscode/
 

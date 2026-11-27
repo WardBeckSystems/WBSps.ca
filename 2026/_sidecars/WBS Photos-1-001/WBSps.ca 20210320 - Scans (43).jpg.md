@@ -1,6 +1,6 @@
 # 1981 - 487-02-001 - DUAL MASTER MODULE SCHEMATIC - DRN P. Mahoney - ENG MRW - ISS 3
 
-![WBSps.ca 20210320 - Scans (43).jpg](WBSps.ca%2020210320%20-%20Scans%20(43).jpg)
+![WBSps.ca 20210320 - Scans (43).jpg](WBSps.ca%2020210320%20-%20Scans%20%2843%29.jpg)
 
 ## Title block
 

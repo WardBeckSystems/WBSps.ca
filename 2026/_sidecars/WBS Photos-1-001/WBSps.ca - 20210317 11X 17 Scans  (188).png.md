@@ -1,6 +1,6 @@
 # 19xx - 8224-03-003 - REAR PANEL - DRN D.SCOTT - ISS 2
 
-![WBSps.ca - 20210317 11X 17 Scans  (188).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(188).png)
+![WBSps.ca - 20210317 11X 17 Scans  (188).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%28188%29.png)
 
 ## Title block
 

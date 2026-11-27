@@ -1,6 +1,6 @@
 # 19xx - M402A - M402A
 
-![wbsps - promo - m402a eq - 002(1).jpg](wbsps%20-%20promo%20-%20m402a%20eq%20-%20002(1).jpg)
+![wbsps - promo - m402a eq - 002(1).jpg](wbsps%20-%20promo%20-%20m402a%20eq%20-%20002%281%29.jpg)
 
 Product data sheet for the M402A with outline drawing and technical data, WBS logo at bottom left.
 

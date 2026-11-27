@@ -12,7 +12,7 @@ one are listed under "also_in". OCR slips that are always the same (t0 → to, d
 spaced apart) are put right; the rest is kept as read, with the page to check it against.
 tools/make_module_readmes.py shows both in the README.
 
-    python3 tools/module_specs.py [2026/Modules/CAT/M ...]
+    python3 tools/module_specs.py [Products/Modules/CAT/M ...]
 """
 import glob
 import json
@@ -324,7 +324,7 @@ def main():
     con = sqlite3.connect(f'file:{DB}?mode=ro', uri=True)
     spell = {}
     dirs = [os.path.abspath(a) for a in sys.argv[1:]] or sorted(
-        p for p in glob.glob(os.path.join(Y2026, 'Modules', '*', '*')) if os.path.isdir(p) and re.match(r'R?M\d', os.path.basename(p)))
+        p for p in glob.glob(os.path.join(ROOT, 'Products', 'Modules', '*', '*')) if os.path.isdir(p) and re.match(r'R?M\d', os.path.basename(p)))
     n_spec = n_circ = 0
     for d in dirs:
         code = os.path.basename(d)

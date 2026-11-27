@@ -1,6 +1,6 @@
 # 19xx - 901-03-006 - LINE INPUT MODULE - DRN DRG - ISS 3
 
-![WBSps.ca 20210319 -  (27).jpg](WBSps.ca%2020210319%20-%20%20(27).jpg)
+![WBSps.ca 20210319 -  (27).jpg](WBSps.ca%2020210319%20-%20%20%2827%29.jpg)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 # 1982 - 774-03-001 - HEATSINK - DRN P. Mahoney - ENG MRW - ISS 3
 
-![WBSps.ca 20210320 - Scans (12).jpg](WBSps.ca%2020210320%20-%20Scans%20(12).jpg)
+![WBSps.ca 20210320 - Scans (12).jpg](WBSps.ca%2020210320%20-%20Scans%20%2812%29.jpg)
 
 ## Title block
 

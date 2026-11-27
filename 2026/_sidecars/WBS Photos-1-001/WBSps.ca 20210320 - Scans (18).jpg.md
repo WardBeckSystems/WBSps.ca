@@ -1,6 +1,6 @@
 # 1991 - 8000-03-011 - SHIM PLATE - DRN DRG - ISS 2
 
-![WBSps.ca 20210320 - Scans (18).jpg](WBSps.ca%2020210320%20-%20Scans%20(18).jpg)
+![WBSps.ca 20210320 - Scans (18).jpg](WBSps.ca%2020210320%20-%20Scans%20%2818%29.jpg)
 
 ## Title block
 

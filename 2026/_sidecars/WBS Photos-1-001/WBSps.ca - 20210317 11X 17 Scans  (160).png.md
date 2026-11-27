@@ -1,6 +1,6 @@
 # 1995 - 8212-03-015 - IDENT EXTRUSION COVER - DRN DRG - ISS 3
 
-![WBSps.ca - 20210317 11X 17 Scans  (160).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(160).png)
+![WBSps.ca - 20210317 11X 17 Scans  (160).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%28160%29.png)
 
 ## Title block
 

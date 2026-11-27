@@ -1,6 +1,6 @@
 # 1982 - 773-03-004 - M773A FISH PAPER COVER - DRN GEB - ENG GEB - ISS 1
 
-![WBSps.ca 20210320 - Scans (13).jpg](WBSps.ca%2020210320%20-%20Scans%20(13).jpg)
+![WBSps.ca 20210320 - Scans (13).jpg](WBSps.ca%2020210320%20-%20Scans%20%2813%29.jpg)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 # 1988 - 7000-03-017 - BELT CLIP - DRN DRG - ISS 5
 
-![WBSps.ca 20210320 - Scans (23).jpg](WBSps.ca%2020210320%20-%20Scans%20(23).jpg)
+![WBSps.ca 20210320 - Scans (23).jpg](WBSps.ca%2020210320%20-%20Scans%20%2823%29.jpg)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 # 1972 - 107-03-004 - MODULE BASE - DRN MRW
 
-![WBSps.ca 20210320 - Scans (102).jpg](WBSps.ca%2020210320%20-%20Scans%20(102).jpg)
+![WBSps.ca 20210320 - Scans (102).jpg](WBSps.ca%2020210320%20-%20Scans%20%28102%29.jpg)
 
 ## Title block
 

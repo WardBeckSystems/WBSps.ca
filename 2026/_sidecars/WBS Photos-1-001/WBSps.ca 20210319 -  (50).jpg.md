@@ -1,6 +1,6 @@
 # 19xx - D 901CX01 - M901CX LINE INPUT MODULE - ISS 1
 
-![WBSps.ca 20210319 -  (50).jpg](WBSps.ca%2020210319%20-%20%20(50).jpg)
+![WBSps.ca 20210319 -  (50).jpg](WBSps.ca%2020210319%20-%20%20%2850%29.jpg)
 
 ## Title block
 

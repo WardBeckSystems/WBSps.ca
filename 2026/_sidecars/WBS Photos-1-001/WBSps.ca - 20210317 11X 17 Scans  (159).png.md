@@ -1,6 +1,6 @@
 # 1983 - B 9743 - EDAC MTG. PLATE (SINGLE - 38 PIN) - DRN DRG - ISS 1
 
-![WBSps.ca - 20210317 11X 17 Scans  (159).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(159).png)
+![WBSps.ca - 20210317 11X 17 Scans  (159).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%28159%29.png)
 
 ## Title block
 
@@ -20,6 +20,6 @@
 - **Year:** 1983 (title block date)
 - **Kind:** drawing
 - **Original file:** `WBSps.env/WBS Photos-1-001/WBSps.ca - 20210317 11X 17 Scans  (159).png`
-- **Copy in 2026:** [`2026/PHOTOS/Drawings/1983 - B 9743 - EDAC MTG. PLATE (SINGLE - 38 PIN) - DRN DRG - ISS 1.png`](../../2026/PHOTOS/Drawings/1983%20-%20B%209743%20-%20EDAC%20MTG.%20PLATE%20(SINGLE%20-%2038%20PIN)%20-%20DRN%20DRG%20-%20ISS%201.png)
+- **Copy in 2026:** [`2026/PHOTOS/Drawings/1983 - B 9743 - EDAC MTG. PLATE (SINGLE - 38 PIN) - DRN DRG - ISS 1.png`](../../2026/PHOTOS/Drawings/1983%20-%20B%209743%20-%20EDAC%20MTG.%20PLATE%20%28SINGLE%20-%2038%20PIN%29%20-%20DRN%20DRG%20-%20ISS%201.png)
 - **SHA-256:** `65819b152194b80db13e2979606535d24509f1a94ec1c1f912949c0bfa443c92`
 - **Read by:** title-block crop read by eye

@@ -1,6 +1,6 @@
 # 1978 - 751-02-006 - 5 DUAL MEMORY LATCH SCHEMATIC - DRN DM - ISS 1
 
-![WBSps.ca -2021-3-15-19-3-51 (41).jpg](WBSps.ca%20-2021-3-15-19-3-51%20(41).jpg)
+![WBSps.ca -2021-3-15-19-3-51 (41).jpg](WBSps.ca%20-2021-3-15-19-3-51%20%2841%29.jpg)
 
 ## Title block
 

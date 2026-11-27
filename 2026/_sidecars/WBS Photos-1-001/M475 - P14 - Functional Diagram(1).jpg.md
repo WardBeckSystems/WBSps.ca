@@ -1,6 +1,6 @@
 # 1977 - 475-01-001 - MONITOR MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG RKB - ISS 2
 
-![M475 - P14 - Functional Diagram(1).jpg](M475%20-%20P14%20-%20Functional%20Diagram(1).jpg)
+![M475 - P14 - Functional Diagram(1).jpg](M475%20-%20P14%20-%20Functional%20Diagram%281%29.jpg)
 
 ## Title block
 

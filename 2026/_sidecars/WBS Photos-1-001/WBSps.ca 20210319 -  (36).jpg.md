@@ -1,6 +1,6 @@
 # 19xx - 900-03-203 - EQUALIZER MK SERIES CONSOLE SUPPORT TRIM - DRN DRG - ISS 2
 
-![WBSps.ca 20210319 -  (36).jpg](WBSps.ca%2020210319%20-%20%20(36).jpg)
+![WBSps.ca 20210319 -  (36).jpg](WBSps.ca%2020210319%20-%20%20%2836%29.jpg)
 
 ## Title block
 

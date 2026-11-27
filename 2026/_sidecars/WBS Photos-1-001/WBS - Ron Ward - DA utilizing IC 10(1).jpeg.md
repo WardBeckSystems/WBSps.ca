@@ -1,6 +1,6 @@
 # 19xx - Fig. 7
 
-![WBS - Ron Ward - DA utilizing IC 10(1).jpeg](WBS%20-%20Ron%20Ward%20-%20DA%20utilizing%20IC%2010(1).jpeg)
+![WBS - Ron Ward - DA utilizing IC 10(1).jpeg](WBS%20-%20Ron%20Ward%20-%20DA%20utilizing%20IC%2010%281%29.jpeg)
 
 Hand-drawn block diagram Fig. 7 of op-amps feeding split networks with 12 isolated outputs.
 

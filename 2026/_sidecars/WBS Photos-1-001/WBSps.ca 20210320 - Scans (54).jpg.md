@@ -1,6 +1,6 @@
 # 1986 - 468-02-121 - M468BB REVERB ASSIGN MODULE SCHEMATIC - DRN HM - ISS 1
 
-![WBSps.ca 20210320 - Scans (54).jpg](WBSps.ca%2020210320%20-%20Scans%20(54).jpg)
+![WBSps.ca 20210320 - Scans (54).jpg](WBSps.ca%2020210320%20-%20Scans%20%2854%29.jpg)
 
 ## Title block
 

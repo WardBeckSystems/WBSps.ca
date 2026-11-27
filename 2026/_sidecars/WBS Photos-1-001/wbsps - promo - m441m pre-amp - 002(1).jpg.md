@@ -1,6 +1,6 @@
 # 19xx - M441M - M441M
 
-![wbsps - promo - m441m pre-amp - 002(1).jpg](wbsps%20-%20promo%20-%20m441m%20pre-amp%20-%20002(1).jpg)
+![wbsps - promo - m441m pre-amp - 002(1).jpg](wbsps%20-%20promo%20-%20m441m%20pre-amp%20-%20002%281%29.jpg)
 
 Product data sheet for the M441M channel amplifier with outline and technical data, WBS logo at bottom left.
 

@@ -1,6 +1,6 @@
 # 1987 - 600-02-008 - TALKBACK SCHEMATIC - DRN JRG - ENG JRG - ISS 1
 
-![WBSps.ca - 20210317 11X 17 Scans  (200).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(200).png)
+![WBSps.ca - 20210317 11X 17 Scans  (200).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%28200%29.png)
 
 ## Title block
 

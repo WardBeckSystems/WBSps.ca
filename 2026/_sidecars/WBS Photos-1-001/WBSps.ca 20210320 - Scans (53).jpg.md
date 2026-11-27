@@ -1,6 +1,6 @@
 # 1987 - 468-02-122 - M468BC REVERB ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1
 
-![WBSps.ca 20210320 - Scans (53).jpg](WBSps.ca%2020210320%20-%20Scans%20(53).jpg)
+![WBSps.ca 20210320 - Scans (53).jpg](WBSps.ca%2020210320%20-%20Scans%20%2853%29.jpg)
 
 ## Title block
 

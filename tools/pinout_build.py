@@ -17,7 +17,7 @@ bottom. The symbol keeps the header (title, category, year …) of the one it re
     python3 tools/pinout_build.py [--root DIR] [--check] [CODE ...]
 
 --root: the folder holding the module repos (default: WBSps.ca/Github.WardBeckSystems, the
-MODULES.<CAT>.<M>-<Function> clones); 2026/Modules/<CAT>/<M> works too. --check: report only.
+MODULES.<CAT>.<M>-<Function> clones); Products/Modules/<CAT>/<M> works too. --check: report only.
 """
 
 import argparse

@@ -1,6 +1,6 @@
 # 1981 - B 9612 - RACK MOUNT PANEL WING EXTRUSION - DRN MRW - ENG MRW - ISS 1
 
-![WBSps.ca 20210320 - Scans (83).jpg](WBSps.ca%2020210320%20-%20Scans%20(83).jpg)
+![WBSps.ca 20210320 - Scans (83).jpg](WBSps.ca%2020210320%20-%20Scans%20%2883%29.jpg)
 
 ## Title block
 

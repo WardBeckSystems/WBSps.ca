@@ -1,6 +1,6 @@
 # 1968 - 624-02-001 - POWER SUPPLY M624 SCHEMATIC - DRN C.S.O'CONNELL - ISS 1
 
-![WBSps.ca - 20210317 11X 17 Scans  (9).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(9).png)
+![WBSps.ca - 20210317 11X 17 Scans  (9).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%289%29.png)
 
 ## Title block
 

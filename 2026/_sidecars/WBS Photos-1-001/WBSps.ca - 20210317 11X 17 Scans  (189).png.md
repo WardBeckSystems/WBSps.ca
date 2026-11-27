@@ -1,6 +1,6 @@
 # 1988 - 8224-03-002 - FRONT PANEL SUBPLATE - DRN DS - ISS 4
 
-![WBSps.ca - 20210317 11X 17 Scans  (189).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(189).png)
+![WBSps.ca - 20210317 11X 17 Scans  (189).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%28189%29.png)
 
 ## Title block
 

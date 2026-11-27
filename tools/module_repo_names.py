@@ -39,9 +39,9 @@ def title(mod, names=None):
 
 
 def submodules():
-    """(path, cat, mod, current repo name) for every 2026/Modules submodule in .gitmodules."""
+    """(path, cat, mod, current repo name) for every Products/Modules submodule in .gitmodules."""
     s = open(os.path.join(ROOT, '.gitmodules'), encoding='utf-8').read()
-    for path, url in re.findall(r'path = (2026/Modules/[^\n]+)\n\s*url = (\S+)', s):
+    for path, url in re.findall(r'path = (Products/Modules/[^\n]+)\n\s*url = (\S+)', s):
         _, _, cat, mod = path.split('/')
         yield path, cat, mod, url.rstrip('/').split('/')[-1].removesuffix('.git')
 

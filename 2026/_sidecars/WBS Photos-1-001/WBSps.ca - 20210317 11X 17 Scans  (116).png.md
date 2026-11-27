@@ -1,6 +1,6 @@
 # 1992 - 920477-04-012 - EQUIPMENT LAYOUT - DRN PA - ENG PA - ISS 1
 
-![WBSps.ca - 20210317 11X 17 Scans  (116).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(116).png)
+![WBSps.ca - 20210317 11X 17 Scans  (116).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%28116%29.png)
 
 ## Title block
 

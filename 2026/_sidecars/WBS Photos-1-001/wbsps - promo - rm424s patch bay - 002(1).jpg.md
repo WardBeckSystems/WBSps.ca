@@ -1,6 +1,6 @@
 # 19xx - RM424S - RM424S
 
-![wbsps - promo - rm424s patch bay - 002(1).jpg](wbsps%20-%20promo%20-%20rm424s%20patch%20bay%20-%20002(1).jpg)
+![wbsps - promo - rm424s patch bay - 002(1).jpg](wbsps%20-%20promo%20-%20rm424s%20patch%20bay%20-%20002%281%29.jpg)
 
 Product data sheet for the RM424S prewired shielded jackfield with wiring schematic, WBS logo at bottom left.
 

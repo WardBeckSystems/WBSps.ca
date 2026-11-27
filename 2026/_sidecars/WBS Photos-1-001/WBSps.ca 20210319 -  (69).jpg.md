@@ -1,6 +1,6 @@
 # 1990 - 900573-04-001 - MASTER CLOCK SYSTEM - DRN GEB - ENG GEB - ISS 1
 
-![WBSps.ca 20210319 -  (69).jpg](WBSps.ca%2020210319%20-%20%20(69).jpg)
+![WBSps.ca 20210319 -  (69).jpg](WBSps.ca%2020210319%20-%20%20%2869%29.jpg)
 
 ## Title block
 

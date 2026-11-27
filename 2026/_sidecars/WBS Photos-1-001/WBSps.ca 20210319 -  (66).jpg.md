@@ -1,6 +1,6 @@
 # 1996 - 900-03-047 - SAS APC-88 PANEL - DRN DRG - ISS 1
 
-![WBSps.ca 20210319 -  (66).jpg](WBSps.ca%2020210319%20-%20%20(66).jpg)
+![WBSps.ca 20210319 -  (66).jpg](WBSps.ca%2020210319%20-%20%20%2866%29.jpg)
 
 ## Title block
 

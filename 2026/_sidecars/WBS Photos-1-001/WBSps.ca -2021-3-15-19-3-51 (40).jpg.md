@@ -1,6 +1,6 @@
 # 1971 - 753-02-001 - MEMORY LATCH LOCK UP CONTROL SCHEMATIC - DRN GP - ISS 2
 
-![WBSps.ca -2021-3-15-19-3-51 (40).jpg](WBSps.ca%20-2021-3-15-19-3-51%20(40).jpg)
+![WBSps.ca -2021-3-15-19-3-51 (40).jpg](WBSps.ca%20-2021-3-15-19-3-51%20%2840%29.jpg)
 
 Faint schematic with transistor stages and latch matrix, title block at lower right illegible.
 

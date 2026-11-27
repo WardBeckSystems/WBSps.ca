@@ -1,6 +1,6 @@
 # 19xx - 82-03-003 - P.C. GUIDE SUPPORT BAR UPPER LOWER REAR - DRN WS - ISS 1
 
-![WBSps.ca 20210319 -  (105).jpg](WBSps.ca%2020210319%20-%20%20(105).jpg)
+![WBSps.ca 20210319 -  (105).jpg](WBSps.ca%2020210319%20-%20%20%28105%29.jpg)
 
 ## Title block
 

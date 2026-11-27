@@ -1,6 +1,6 @@
 # 1971 - A 9126 - 6 5 8 FILLER, BRACKET SLOT - DRN WWH - ISS 3
 
-![WBSps.ca - Mechanical 9XXX (25).png](WBSps.ca%20-%20Mechanical%209XXX%20(25).png)
+![WBSps.ca - Mechanical 9XXX (25).png](WBSps.ca%20-%20Mechanical%209XXX%20%2825%29.png)
 
 ## Title block
 

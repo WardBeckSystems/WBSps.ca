@@ -22,6 +22,6 @@ tags: ["person"]
 
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
-| 473-04-006 | When Depressed Feeds Subha Ster |  |  | [PUL](Person-PUL.md) |  | [file](../Modules/SUMMING/M473A/MECHANICAL/1977%20-%20M473A%20-%20473-04-006%20-%20WHEN%20DEPRESSED%20FEEDS%20SUBHA%20STER.jpg) |
+| 473-04-006 | When Depressed Feeds Subha Ster |  |  | [PUL](Person-PUL.md) |  | [file](../../Products/Modules/SUMMING/M473A/MECHANICAL/1977%20-%20M473A%20-%20473-04-006%20-%20WHEN%20DEPRESSED%20FEEDS%20SUBHA%20STER.jpg) |
 | 8-109-02-003 | Booster Amplifier Schematic |  |  | [PUL](Person-PUL.md) | 8 | [file](../Modules/INPUT-PRE-AMPS/M471A/SCHEMATICS/1985%20-%20M471A%20-%208-109-02-003%20-%20ISSUEDATE%20REVISION.jpg) |
-| 816-02-001 | Last Component Designations Are |  |  | [PUL](Person-PUL.md) |  | [file](../Modules/AMPLIFIERS/M816/SCHEMATICS/19xx%20-%20M816%20-%20DOC%20-%20816-02-001%20-%20LAST%20COMPONENT%20DESIGNATIONS%20ARE.png) |
+| 816-02-001 | Last Component Designations Are |  |  | [PUL](Person-PUL.md) |  | [file](../../Products/Modules/AMPLIFIERS/M816/SCHEMATICS/19xx%20-%20M816%20-%20DOC%20-%20816-02-001%20-%20LAST%20COMPONENT%20DESIGNATIONS%20ARE.png) |

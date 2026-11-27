@@ -1,6 +1,6 @@
 # 1973 - 468-03-002 - ESCUTCHEON MTG PLATE - DRN ALF - ISS 1
 
-![WBSps.ca 20210320 - Scans (116).jpg](WBSps.ca%2020210320%20-%20Scans%20(116).jpg)
+![WBSps.ca 20210320 - Scans (116).jpg](WBSps.ca%2020210320%20-%20Scans%20%28116%29.jpg)
 
 ## Title block
 

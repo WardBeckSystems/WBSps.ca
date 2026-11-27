@@ -1,6 +1,6 @@
 # 1984 - 520-03-005 - SERIES MOUNTING ANGLE for P.C.B - DRN BD - ENG MRW - ISS 2
 
-![WBSps.ca 20210320 - Scans (92).jpg](WBSps.ca%2020210320%20-%20Scans%20(92).jpg)
+![WBSps.ca 20210320 - Scans (92).jpg](WBSps.ca%2020210320%20-%20Scans%20%2892%29.jpg)
 
 ## Title block
 

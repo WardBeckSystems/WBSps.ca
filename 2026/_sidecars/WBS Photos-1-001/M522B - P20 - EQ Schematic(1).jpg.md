@@ -1,6 +1,6 @@
 # 19xx - 522-02-003 - MONO EQUALIZER MODULE SCHEMATIC - ISS 1
 
-![M522B - P20 - EQ Schematic(1).jpg](M522B%20-%20P20%20-%20EQ%20Schematic(1).jpg)
+![M522B - P20 - EQ Schematic(1).jpg](M522B%20-%20P20%20-%20EQ%20Schematic%281%29.jpg)
 
 M522B mono equalizer module schematic.
 

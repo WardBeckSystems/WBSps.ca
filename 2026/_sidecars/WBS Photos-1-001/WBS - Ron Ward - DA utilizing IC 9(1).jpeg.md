@@ -1,6 +1,6 @@
 # 19xx - Fig. 6
 
-![WBS - Ron Ward - DA utilizing IC 9(1).jpeg](WBS%20-%20Ron%20Ward%20-%20DA%20utilizing%20IC%209(1).jpeg)
+![WBS - Ron Ward - DA utilizing IC 9(1).jpeg](WBS%20-%20Ron%20Ward%20-%20DA%20utilizing%20IC%209%281%29.jpeg)
 
 Hand-drawn Fig. 6 block diagram with op-amps, power drivers and split networks.
 

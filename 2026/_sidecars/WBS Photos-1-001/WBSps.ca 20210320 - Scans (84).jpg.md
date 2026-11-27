@@ -1,6 +1,6 @@
 # 1981 - B 9613 - PANEL STIFFENER & TRIM EXTRUSION - DRN MRW - ENG MRW - ISS 1
 
-![WBSps.ca 20210320 - Scans (84).jpg](WBSps.ca%2020210320%20-%20Scans%20(84).jpg)
+![WBSps.ca 20210320 - Scans (84).jpg](WBSps.ca%2020210320%20-%20Scans%20%2884%29.jpg)
 
 ## Title block
 

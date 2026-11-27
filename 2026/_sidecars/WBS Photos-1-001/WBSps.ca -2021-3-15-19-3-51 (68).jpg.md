@@ -1,6 +1,6 @@
 # 19xx - 7-03-243 - MF-7J MOUNTING FRAME LEFT RIGHT SIDE PLATES - DRN DRG - ISS 1
 
-![WBSps.ca -2021-3-15-19-3-51 (68).jpg](WBSps.ca%20-2021-3-15-19-3-51%20(68).jpg)
+![WBSps.ca -2021-3-15-19-3-51 (68).jpg](WBSps.ca%20-2021-3-15-19-3-51%20%2868%29.jpg)
 
 ## Title block
 

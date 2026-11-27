@@ -1,6 +1,6 @@
 # 19xx - A 9089 - SENNEISER W66A-U600 ATTENUATOR PIN CONNECTIONS LAYOUT - ISS 1
 
-![WBSps.ca - Mechanical 9XXX (1).png](WBSps.ca%20-%20Mechanical%209XXX%20(1).png)
+![WBSps.ca - Mechanical 9XXX (1).png](WBSps.ca%20-%20Mechanical%209XXX%20%281%29.png)
 
 ## Title block
 

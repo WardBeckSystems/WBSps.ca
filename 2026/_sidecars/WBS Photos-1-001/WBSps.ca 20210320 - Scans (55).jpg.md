@@ -1,6 +1,6 @@
 # 1985 - 468-02-120 - M468AY REVERB ASSIGN MODULE SCHEMATIC - DRN AV handwritten, unclear - ISS 1
 
-![WBSps.ca 20210320 - Scans (55).jpg](WBSps.ca%2020210320%20-%20Scans%20(55).jpg)
+![WBSps.ca 20210320 - Scans (55).jpg](WBSps.ca%2020210320%20-%20Scans%20%2855%29.jpg)
 
 ## Title block
 

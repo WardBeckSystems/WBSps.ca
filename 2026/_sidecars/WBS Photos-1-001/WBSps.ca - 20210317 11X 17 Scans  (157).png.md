@@ -1,6 +1,6 @@
 # 1978 - B 9915 - GUIDE - EXTRUSION - DRN A-F - ISS 1
 
-![WBSps.ca - 20210317 11X 17 Scans  (157).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(157).png)
+![WBSps.ca - 20210317 11X 17 Scans  (157).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%28157%29.png)
 
 ## Title block
 

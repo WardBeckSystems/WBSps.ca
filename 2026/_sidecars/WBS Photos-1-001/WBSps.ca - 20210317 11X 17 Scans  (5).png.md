@@ -1,6 +1,6 @@
 # 1987 - 600-02-002 - STEREO OUTPUT CHANNEL SCHEMATIC - DRN JRG - ENG JRG - ISS 2
 
-![WBSps.ca - 20210317 11X 17 Scans  (5).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(5).png)
+![WBSps.ca - 20210317 11X 17 Scans  (5).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%285%29.png)
 
 ## Title block
 

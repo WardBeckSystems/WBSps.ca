@@ -1,6 +1,6 @@
 # 1983 - 805-03-001 - M805D E & M806D E CARD MOUNTING PLATE - DRN GEB - ENG GEB - ISS 3
 
-![WBSps.ca 20210320 - Scans (29).jpg](WBSps.ca%2020210320%20-%20Scans%20(29).jpg)
+![WBSps.ca 20210320 - Scans (29).jpg](WBSps.ca%2020210320%20-%20Scans%20%2829%29.jpg)
 
 ## Title block
 

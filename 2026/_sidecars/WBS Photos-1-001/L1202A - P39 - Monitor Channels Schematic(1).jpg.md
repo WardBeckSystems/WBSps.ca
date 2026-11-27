@@ -1,6 +1,6 @@
 # 1982 - 1202-02-013 - MONITOR CHANNELS SCHEMATIC - DRN JP - ENG MRW - ISS 1
 
-![L1202A - P39 - Monitor Channels Schematic(1).jpg](L1202A%20-%20P39%20-%20Monitor%20Channels%20Schematic(1).jpg)
+![L1202A - P39 - Monitor Channels Schematic(1).jpg](L1202A%20-%20P39%20-%20Monitor%20Channels%20Schematic%281%29.jpg)
 
 ## Title block
 

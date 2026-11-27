@@ -1,6 +1,6 @@
 # 1984 - 702-03-001 - M702B HEATSINK - CKD GEB - ISS 5
 
-![WBSps.ca 20210320 - Scans (17).jpg](WBSps.ca%2020210320%20-%20Scans%20(17).jpg)
+![WBSps.ca 20210320 - Scans (17).jpg](WBSps.ca%2020210320%20-%20Scans%20%2817%29.jpg)
 
 ## Title block
 

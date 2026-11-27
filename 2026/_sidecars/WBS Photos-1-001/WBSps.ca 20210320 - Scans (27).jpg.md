@@ -1,6 +1,6 @@
 # 1983 - 805-03-003 - M805D E HEATSINK - DRN GEB - ENG GEB - ISS 1
 
-![WBSps.ca 20210320 - Scans (27).jpg](WBSps.ca%2020210320%20-%20Scans%20(27).jpg)
+![WBSps.ca 20210320 - Scans (27).jpg](WBSps.ca%2020210320%20-%20Scans%20%2827%29.jpg)
 
 ## Title block
 

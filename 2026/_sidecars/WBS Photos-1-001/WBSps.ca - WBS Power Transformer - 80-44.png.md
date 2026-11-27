@@ -21,6 +21,6 @@
 - **Year:** 1988 (title block date)
 - **Kind:** drawing
 - **Original file:** `WBSps.env/WBS Photos-1-001/WBSps.ca - WBS Power Transformer - 80-44.png`
-- **Copy in 2026:** [`2026/PHOTOS/Drawings/1988 - B 80-44 - 80-44 SWITCHMODE POWER TRANSFORMER - DRN GEB - ISS 2 (2).png`](../../2026/PHOTOS/Drawings/1988%20-%20B%2080-44%20-%2080-44%20SWITCHMODE%20POWER%20TRANSFORMER%20-%20DRN%20GEB%20-%20ISS%202%20(2).png)
+- **Copy in 2026:** [`2026/PHOTOS/Drawings/1988 - B 80-44 - 80-44 SWITCHMODE POWER TRANSFORMER - DRN GEB - ISS 2 (2).png`](../../2026/PHOTOS/Drawings/1988%20-%20B%2080-44%20-%2080-44%20SWITCHMODE%20POWER%20TRANSFORMER%20-%20DRN%20GEB%20-%20ISS%202%20%282%29.png)
 - **SHA-256:** `e5d8427c87daafca408ac72609a2023e88cb596c7d21b451837f8ba49c5c79d7`
 - **Read by:** title-block crop read by eye

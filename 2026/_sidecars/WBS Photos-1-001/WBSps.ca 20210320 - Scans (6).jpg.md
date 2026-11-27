@@ -1,6 +1,6 @@
 # 1984 - 208-03-001 - VAC. FORMED MOLD FOR M208 ATTENUATOR BLOCK - DRN MRW - ENG MRW - ISS 1
 
-![WBSps.ca 20210320 - Scans (6).jpg](WBSps.ca%2020210320%20-%20Scans%20(6).jpg)
+![WBSps.ca 20210320 - Scans (6).jpg](WBSps.ca%2020210320%20-%20Scans%20%286%29.jpg)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 # 19xx - 901-03-004 - UNIVERSAL INPUT MODULE - DRN DRG - ISS 3
 
-![WBSps.ca 20210319 -  (32).jpg](WBSps.ca%2020210319%20-%20%20(32).jpg)
+![WBSps.ca 20210319 -  (32).jpg](WBSps.ca%2020210319%20-%20%20%2832%29.jpg)
 
 ## Title block
 

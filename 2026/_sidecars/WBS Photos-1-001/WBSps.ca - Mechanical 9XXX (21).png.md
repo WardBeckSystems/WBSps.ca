@@ -1,6 +1,6 @@
 # 1971 - A 9130 - MIC, CLAMP - DRN PHIL - ISS 1
 
-![WBSps.ca - Mechanical 9XXX (21).png](WBSps.ca%20-%20Mechanical%209XXX%20(21).png)
+![WBSps.ca - Mechanical 9XXX (21).png](WBSps.ca%20-%20Mechanical%209XXX%20%2821%29.png)
 
 ## Title block
 

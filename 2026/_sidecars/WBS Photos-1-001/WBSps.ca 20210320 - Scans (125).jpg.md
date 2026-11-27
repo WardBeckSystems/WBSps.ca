@@ -1,6 +1,6 @@
 # 1974 - 461-03-003 - SWITCH MTG. BRACKET - DRN DM - ISS 7
 
-![WBSps.ca 20210320 - Scans (125).jpg](WBSps.ca%2020210320%20-%20Scans%20(125).jpg)
+![WBSps.ca 20210320 - Scans (125).jpg](WBSps.ca%2020210320%20-%20Scans%20%28125%29.jpg)
 
 ## Title block
 

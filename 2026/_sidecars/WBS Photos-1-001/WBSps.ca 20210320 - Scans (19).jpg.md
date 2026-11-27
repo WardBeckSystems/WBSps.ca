@@ -1,6 +1,6 @@
 # 19xx - 8000-03-010 - LENSE - DRN DRG - ISS 2
 
-![WBSps.ca 20210320 - Scans (19).jpg](WBSps.ca%2020210320%20-%20Scans%20(19).jpg)
+![WBSps.ca 20210320 - Scans (19).jpg](WBSps.ca%2020210320%20-%20Scans%20%2819%29.jpg)
 
 ## Title block
 

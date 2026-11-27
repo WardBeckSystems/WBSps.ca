@@ -1,6 +1,6 @@
 # 19xx - 490-02-024 - M490S STEREO INPUT SWITCHER MODULE SCHEMATIC - ISS 1
 
-![WBSps.ca 20210320 - Scans (37).jpg](WBSps.ca%2020210320%20-%20Scans%20(37).jpg)
+![WBSps.ca 20210320 - Scans (37).jpg](WBSps.ca%2020210320%20-%20Scans%20%2837%29.jpg)
 
 Schematic of the M490S stereo input switcher module with eight pushbuttons.
 

@@ -1,6 +1,6 @@
 # 1983 - 405-02-012 - M405E DUAL MONITOR UNIT - DRN VK - ENG VK - ISS 1
 
-![WBSps.ca 20210319 -  (2).jpg](WBSps.ca%2020210319%20-%20%20(2).jpg)
+![WBSps.ca 20210319 -  (2).jpg](WBSps.ca%2020210319%20-%20%20%282%29.jpg)
 
 ## Title block
 

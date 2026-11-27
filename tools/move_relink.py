@@ -72,7 +72,7 @@ def main():
                     new = mapped(path, moves)
                     if new != path:
                         links += 1
-                        return pre + s + quote(new, safe="/%:@&=+$,;'()!*~")
+                        return pre + s + quote(new, safe="/%:@&=+$,;!*~")
                     return m.group(0)
             if re.match(r'^[a-z][a-z0-9+.-]*:', url, re.I) or url.startswith(('/', '#', 'data:')):
                 return m.group(0)
@@ -84,7 +84,7 @@ def main():
                 if new_target == target:
                     return m.group(0)
                 links += 1
-                return pre + quote(os.path.relpath(new_target, vb or '.').replace(os.sep, '/'), safe="/%:@&=+$,;'()!*~")
+                return pre + quote(os.path.relpath(new_target, vb or '.').replace(os.sep, '/'), safe="/%:@&=+$,;!*~")
             target = norm(os.path.join(base, unquote(url)))
             if target.startswith('..'):
                 return m.group(0)
@@ -99,7 +99,7 @@ def main():
             if r == url or unquote(url) == r:
                 return m.group(0)
             links += 1
-            return pre + quote(r, safe="/%:@&=+$,;'()!*~")
+            return pre + quote(r, safe="/%:@&=+$,;!*~")
 
         s = LINK.sub(fix, t)
         pages += 1

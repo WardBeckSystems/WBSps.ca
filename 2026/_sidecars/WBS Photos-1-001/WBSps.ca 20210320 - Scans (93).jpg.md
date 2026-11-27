@@ -1,6 +1,6 @@
 # 1987 - 498-03-008 - M498D EXTRUSION DETAIL - DRN GEB - ENG GEB - ISS 1
 
-![WBSps.ca 20210320 - Scans (93).jpg](WBSps.ca%2020210320%20-%20Scans%20(93).jpg)
+![WBSps.ca 20210320 - Scans (93).jpg](WBSps.ca%2020210320%20-%20Scans%20%2893%29.jpg)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 # 1971 - 753-02-002 - 1 MEMORY LATCH LOCK UP CONTROL SCHEMATIC - DRN GP - ISS 3
 
-![WBSps.ca -2021-3-15-19-3-51 (47).jpg](WBSps.ca%20-2021-3-15-19-3-51%20(47).jpg)
+![WBSps.ca -2021-3-15-19-3-51 (47).jpg](WBSps.ca%20-2021-3-15-19-3-51%20%2847%29.jpg)
 
 ## Title block
 

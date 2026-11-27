@@ -1,6 +1,6 @@
 # 19xx - M166A - M166A
 
-![Ward Beck Systems 166A b(1).jpg](Ward%20Beck%20Systems%20166A%20b(1).jpg)
+![Ward Beck Systems 166A b(1).jpg](Ward%20Beck%20Systems%20166A%20b%281%29.jpg)
 
 Product data sheet for the M166A with block diagram and technical data, WBS logo at bottom left.
 

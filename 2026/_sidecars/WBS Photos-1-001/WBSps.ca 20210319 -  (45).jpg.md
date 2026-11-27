@@ -1,6 +1,6 @@
 # 1994 - 900-03-009 - MK SERIES TUB RIB, DIVIDER & FISH PAPER - DRN DRG
 
-![WBSps.ca 20210319 -  (45).jpg](WBSps.ca%2020210319%20-%20%20(45).jpg)
+![WBSps.ca 20210319 -  (45).jpg](WBSps.ca%2020210319%20-%20%20%2845%29.jpg)
 
 Mechanical drawing of tub rib, divider and fish paper parts.
 

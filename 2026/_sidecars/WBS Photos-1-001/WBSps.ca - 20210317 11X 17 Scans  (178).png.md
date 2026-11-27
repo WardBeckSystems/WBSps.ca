@@ -1,6 +1,6 @@
 # 19xx - 8224-03-016 - IPH-3 REAR PANEL - DRN D. SCOTT - ISS 1
 
-![WBSps.ca - 20210317 11X 17 Scans  (178).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(178).png)
+![WBSps.ca - 20210317 11X 17 Scans  (178).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%28178%29.png)
 
 ## Title block
 

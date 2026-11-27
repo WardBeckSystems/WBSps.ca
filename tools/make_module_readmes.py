@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Write README.md in each module folder (2026/Modules/<CATEGORY>/<Mxxx>): every image shown, each one linked
+"""Write README.md in each module folder (Products/Modules/<CATEGORY>/<Mxxx>): every image shown, each one linked
 to its Google Drive copy (from 2026/_catalog/drive, made by make_drive_links.py).
 
     python3 tools/make_module_readmes.py                      # every module
-    python3 tools/make_module_readmes.py 2026/Modules/AMPLIFIERS/M124 ...
+    python3 tools/make_module_readmes.py Products/Modules/AMPLIFIERS/M124 ...
 """
 import glob
 import json
@@ -280,7 +280,7 @@ def main():
         return
     drive = load_drive()
     dirs = [os.path.abspath(a) for a in sys.argv[1:]] or sorted(
-        p for p in glob.glob(os.path.join(Y2026, 'Modules', '*', '*')) if os.path.isdir(p))
+        p for p in glob.glob(os.path.join(ROOT, 'Products', 'Modules', '*', '*')) if os.path.isdir(p))
     for d in dirs:
         n, miss = readme(d, drive)
         print(f'{os.path.relpath(d, ROOT)}: {n} images, {miss} not on Drive')

@@ -1,6 +1,6 @@
 # 19xx - 8224-03-019 - REAR PANEL FOR IPH-1 - DRN WS - ENG WS - ISS 1
 
-![WBSps.ca - 20210317 11X 17 Scans  (175).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(175).png)
+![WBSps.ca - 20210317 11X 17 Scans  (175).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%28175%29.png)
 
 ## Title block
 

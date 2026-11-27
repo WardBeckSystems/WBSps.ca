@@ -1,6 +1,6 @@
 # 19xx - M612 - M612
 
-![wbsps - promo - m612 da - back(1).jpg](wbsps%20-%20promo%20-%20m612%20da%20-%20back(1).jpg)
+![wbsps - promo - m612 da - back(1).jpg](wbsps%20-%20promo%20-%20m612%20da%20-%20back%281%29.jpg)
 
 Product data sheet for the M612 distribution amplifier with block diagram and technical data, WBS logo at bottom left.
 

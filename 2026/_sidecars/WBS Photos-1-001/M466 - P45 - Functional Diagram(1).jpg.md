@@ -1,6 +1,6 @@
 # 1977 - 466-01-001 - M466C LIMITER - COMPRESSOR MODULE FUNCTIONAL DIAGRAM - DRN DB - ENG RKB - ISS 2
 
-![M466 - P45 - Functional Diagram(1).jpg](M466%20-%20P45%20-%20Functional%20Diagram(1).jpg)
+![M466 - P45 - Functional Diagram(1).jpg](M466%20-%20P45%20-%20Functional%20Diagram%281%29.jpg)
 
 ## Title block
 

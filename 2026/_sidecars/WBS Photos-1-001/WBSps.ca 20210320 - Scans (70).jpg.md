@@ -1,6 +1,6 @@
 # 1985 - 471-02-001 - STEREO INPUT MODULE SCHEMATIC - DRN JEI - ENG PC - ISS 3
 
-![WBSps.ca 20210320 - Scans (70).jpg](WBSps.ca%2020210320%20-%20Scans%20(70).jpg)
+![WBSps.ca 20210320 - Scans (70).jpg](WBSps.ca%2020210320%20-%20Scans%20%2870%29.jpg)
 
 ## Title block
 

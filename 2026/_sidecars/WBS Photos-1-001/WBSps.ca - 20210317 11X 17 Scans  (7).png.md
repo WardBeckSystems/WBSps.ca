@@ -1,6 +1,6 @@
 # 19xx - 568-02-019 - M568U ASSIGNMENT MODULE SCHEMATIC - DRN GEB - ISS 1
 
-![WBSps.ca - 20210317 11X 17 Scans  (7).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(7).png)
+![WBSps.ca - 20210317 11X 17 Scans  (7).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%287%29.png)
 
 Schematic of an assignment module with channel amplifier and switching matrix.
 

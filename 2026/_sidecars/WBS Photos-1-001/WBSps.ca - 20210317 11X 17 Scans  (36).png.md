@@ -1,6 +1,6 @@
 # 1971 - 626-02-001 - TRICKLE CHARGER SCHEMATIC - DRN TY - ISS 1
 
-![WBSps.ca - 20210317 11X 17 Scans  (36).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(36).png)
+![WBSps.ca - 20210317 11X 17 Scans  (36).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%2836%29.png)
 
 Schematic of the M626 trickle charger.
 

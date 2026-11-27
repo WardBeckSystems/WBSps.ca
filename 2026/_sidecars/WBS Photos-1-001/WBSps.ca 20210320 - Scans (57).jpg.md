@@ -1,6 +1,6 @@
 # 1982 - 468-02-104 - AE ASSIGNMENT MODULE SCHEMATIC - DRN JP - ENG EIJ - ISS 1
 
-![WBSps.ca 20210320 - Scans (57).jpg](WBSps.ca%2020210320%20-%20Scans%20(57).jpg)
+![WBSps.ca 20210320 - Scans (57).jpg](WBSps.ca%2020210320%20-%20Scans%20%2857%29.jpg)
 
 ## Title block
 

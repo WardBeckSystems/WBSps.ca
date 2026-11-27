@@ -1,6 +1,6 @@
 # 1979 - 485-03-006 - EDGE CONNECTOR MTG. BRKT - DRN P. Mahoney - ISS 1
 
-![WBSps.ca 20210320 - Scans (2).jpg](WBSps.ca%2020210320%20-%20Scans%20(2).jpg)
+![WBSps.ca 20210320 - Scans (2).jpg](WBSps.ca%2020210320%20-%20Scans%20%282%29.jpg)
 
 ## Title block
 

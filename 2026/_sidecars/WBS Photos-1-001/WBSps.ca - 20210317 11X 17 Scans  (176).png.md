@@ -1,6 +1,6 @@
 # 19xx - 8224-03-018 - FRONT PANEL SUBPLATE FOR IPH-1 - DRN WS - ENG WS - ISS 2
 
-![WBSps.ca - 20210317 11X 17 Scans  (176).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(176).png)
+![WBSps.ca - 20210317 11X 17 Scans  (176).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%28176%29.png)
 
 ## Title block
 

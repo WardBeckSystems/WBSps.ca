@@ -22,6 +22,6 @@
 - **Year:** 1978 (title block date)
 - **Kind:** drawing
 - **Original file:** `WBSps.env/WBS Photos-1-001/WBSps.ca - WBS Input Transformer - 60-14.png`
-- **Copy in 2026:** [`2026/PHOTOS/Drawings/1978 - B 60-14 - 60-14 INPUT TRANSFORMER - DRN MRW - ENG MRW - ISS 3 (2).png`](../../2026/PHOTOS/Drawings/1978%20-%20B%2060-14%20-%2060-14%20INPUT%20TRANSFORMER%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%203%20(2).png)
+- **Copy in 2026:** [`2026/PHOTOS/Drawings/1978 - B 60-14 - 60-14 INPUT TRANSFORMER - DRN MRW - ENG MRW - ISS 3 (2).png`](../../2026/PHOTOS/Drawings/1978%20-%20B%2060-14%20-%2060-14%20INPUT%20TRANSFORMER%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%203%20%282%29.png)
 - **SHA-256:** `ba5587e47aec62133c4f6f4d91785b995b5bf2e4bb367855f51682be22d7316f`
 - **Read by:** title-block crop read by eye

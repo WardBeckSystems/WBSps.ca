@@ -1,6 +1,6 @@
 # 1971 - 751-02-004 - 3 DUAL MEMORY LATCH SCHEMATIC - DRN GP - ISS 2
 
-![WBSps.ca -2021-3-15-19-3-51 (36).jpg](WBSps.ca%20-2021-3-15-19-3-51%20(36).jpg)
+![WBSps.ca -2021-3-15-19-3-51 (36).jpg](WBSps.ca%20-2021-3-15-19-3-51%20%2836%29.jpg)
 
 ## Title block
 

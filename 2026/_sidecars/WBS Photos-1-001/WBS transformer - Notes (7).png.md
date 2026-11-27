@@ -1,6 +1,6 @@
 # 19xx - 60-19 - Power Transformer Type 60-19
 
-![WBS transformer - Notes (7).png](WBS%20transformer%20-%20Notes%20(7).png)
+![WBS transformer - Notes (7).png](WBS%20transformer%20-%20Notes%20%287%29.png)
 
 Power transformer specification sheet with case outline and winding diagram.
 

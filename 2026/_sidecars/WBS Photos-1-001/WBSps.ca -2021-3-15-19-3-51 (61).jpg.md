@@ -1,6 +1,6 @@
 # 1994 - 82-03-037 - MF82-4 DA PCB GUIDE BRACKET - DRN DRG - ISS 1
 
-![WBSps.ca -2021-3-15-19-3-51 (61).jpg](WBSps.ca%20-2021-3-15-19-3-51%20(61).jpg)
+![WBSps.ca -2021-3-15-19-3-51 (61).jpg](WBSps.ca%20-2021-3-15-19-3-51%20%2861%29.jpg)
 
 ## Title block
 

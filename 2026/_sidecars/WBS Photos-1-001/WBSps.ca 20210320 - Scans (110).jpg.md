@@ -1,6 +1,6 @@
 # 1971 - 441-03-007 - COVER MTG PLATE M441E - DRN WWH - ISS 3
 
-![WBSps.ca 20210320 - Scans (110).jpg](WBSps.ca%2020210320%20-%20Scans%20(110).jpg)
+![WBSps.ca 20210320 - Scans (110).jpg](WBSps.ca%2020210320%20-%20Scans%20%28110%29.jpg)
 
 Mechanical detail of a cover mounting plate.
 

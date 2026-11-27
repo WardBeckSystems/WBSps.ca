@@ -7,7 +7,7 @@ Moves the files (git mv inside a module repo for tracked files, plain rename for
 database and the site can follow (tools/apply_module_moves.py).
 
     python3 tools/sort_module_folders.py                 # dry run: counts and samples
-    python3 tools/sort_module_folders.py --apply [2026/Modules/CAT/M ...]
+    python3 tools/sort_module_folders.py --apply [Products/Modules/CAT/M ...]
 """
 import glob
 import os
@@ -114,7 +114,7 @@ def apply(moddir, moves):
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith('--')]
     dirs = [os.path.abspath(a) for a in args] or sorted(
-        p for p in glob.glob(os.path.join(Y2026, 'Modules', '*', '*')) if os.path.isdir(p))
+        p for p in glob.glob(os.path.join(ROOT, 'Products', 'Modules', '*', '*')) if os.path.isdir(p))
     total, samples = Counter(), defaultdict(list)
     for d in dirs:
         moves = plan(d)

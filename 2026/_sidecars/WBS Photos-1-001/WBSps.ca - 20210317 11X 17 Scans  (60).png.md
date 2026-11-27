@@ -1,6 +1,6 @@
 # 19xx - 463-02-019 - M463AB SUBMASTER MODULE SCHEMATIC - DRN HM - ISS 1
 
-![WBSps.ca - 20210317 11X 17 Scans  (60).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(60).png)
+![WBSps.ca - 20210317 11X 17 Scans  (60).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%2860%29.png)
 
 ## Title block
 

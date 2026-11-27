@@ -4,7 +4,7 @@
 
     distribute_to_repo.py SRC CLONE [--sub PATH] [--untracked-only] [--dry-run] [--no-slim]
 
-SRC             the local folder whose files go to the repo (e.g. 2026/Modules/INPUT-PRE-AMPS/M460M)
+SRC             the local folder whose files go to the repo (e.g. Products/Modules/INPUT-PRE-AMPS/M460M)
 CLONE           the repo clone (e.g. WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460M-Input-Module)
 --sub PATH      put the files under PATH inside the clone (default: the clone's root)
 --untracked-only  move only files SRC's own git doesn't track (SRC is a checkout of the same repo)

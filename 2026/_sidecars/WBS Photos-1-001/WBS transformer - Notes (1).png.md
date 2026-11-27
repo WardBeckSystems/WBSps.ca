@@ -1,6 +1,6 @@
 # 1978 - Hammond Special Shielded Audio Transformer for Ward-Beck Systems
 
-![WBS transformer - Notes (1).png](WBS%20transformer%20-%20Notes%20(1).png)
+![WBS transformer - Notes (1).png](WBS%20transformer%20-%20Notes%20%281%29.png)
 
 Hammond Manufacturing handwritten note to Mr. Rodger Beck and a special shielded audio transformer drawing.
 

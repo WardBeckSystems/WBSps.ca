@@ -1,6 +1,6 @@
 # 1982 - 465-02-003 - M465B REVERB MODULE SCHEMATIC - DRN JEI - ENG PA - ISS 2
 
-![WBSps.ca - 20210317 11X 17 Scans  (76).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(76).png)
+![WBSps.ca - 20210317 11X 17 Scans  (76).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%2876%29.png)
 
 Schematic of the M485B reverb module.
 

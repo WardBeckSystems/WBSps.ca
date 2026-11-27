@@ -1,6 +1,6 @@
 # 19xx - 8224-03-026 - FRONT PANEL FOR IPH-4C, IPH-4D, IPH-4E - DRN DRG - ISS 1
 
-![WBSps.ca - 20210317 11X 17 Scans  (171).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(171).png)
+![WBSps.ca - 20210317 11X 17 Scans  (171).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%28171%29.png)
 
 ## Title block
 

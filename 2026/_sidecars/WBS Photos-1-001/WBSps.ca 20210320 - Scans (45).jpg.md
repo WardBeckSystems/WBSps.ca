@@ -1,6 +1,6 @@
 # 19xx - 485-02-002 - M485A ±25V POWER SUPPLY SCHEMATIC - DRN P. Mahoney - ISS 1
 
-![WBSps.ca 20210320 - Scans (45).jpg](WBSps.ca%2020210320%20-%20Scans%20(45).jpg)
+![WBSps.ca 20210320 - Scans (45).jpg](WBSps.ca%2020210320%20-%20Scans%20%2845%29.jpg)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 # 1978 - B 60-14 - 60-14 INPUT TRANSFORMER - DRN MRW - ENG MRW - ISS 2
 
-![WBS transformer - Notes (4).png](WBS%20transformer%20-%20Notes%20(4).png)
+![WBS transformer - Notes (4).png](WBS%20transformer%20-%20Notes%20%284%29.png)
 
 ## Title block
 

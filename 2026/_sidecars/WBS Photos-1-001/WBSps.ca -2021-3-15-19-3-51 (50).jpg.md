@@ -1,6 +1,6 @@
 # 1978 - 450-02-003 - M450B PROGRAM SUMMING AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 3
 
-![WBSps.ca -2021-3-15-19-3-51 (50).jpg](WBSps.ca%20-2021-3-15-19-3-51%20(50).jpg)
+![WBSps.ca -2021-3-15-19-3-51 (50).jpg](WBSps.ca%20-2021-3-15-19-3-51%20%2850%29.jpg)
 
 ## Title block
 

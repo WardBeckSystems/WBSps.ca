@@ -1,6 +1,6 @@
 # 1976 - 468-03-035 - M468P ESCUTCHEON - DRN MING - ISS 2
 
-![WBSps.ca 20210320 - Scans (7).jpg](WBSps.ca%2020210320%20-%20Scans%20(7).jpg)
+![WBSps.ca 20210320 - Scans (7).jpg](WBSps.ca%2020210320%20-%20Scans%20%287%29.jpg)
 
 ## Title block
 

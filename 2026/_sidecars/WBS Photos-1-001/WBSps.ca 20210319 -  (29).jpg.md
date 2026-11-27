@@ -1,6 +1,6 @@
 # 19xx - 922-03-001 - M922A STEREO EQUALIZER MODULE - DRN DRG - ISS 3
 
-![WBSps.ca 20210319 -  (29).jpg](WBSps.ca%2020210319%20-%20%20(29).jpg)
+![WBSps.ca 20210319 -  (29).jpg](WBSps.ca%2020210319%20-%20%20%2829%29.jpg)
 
 ## Title block
 

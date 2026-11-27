@@ -1,6 +1,6 @@
 # 1973 - 706-02-001 - TRANSFORMER MODULE SCHEMATIC - DRN GEB
 
-![WBSps.ca - 20210317 11X 17 Scans  (27).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(27).png)
+![WBSps.ca - 20210317 11X 17 Scans  (27).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%2827%29.png)
 
 ## Title block
 

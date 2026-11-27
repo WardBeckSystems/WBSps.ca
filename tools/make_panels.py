@@ -38,7 +38,7 @@ from html import escape
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 Y2026 = os.path.join(ROOT, '2026')
-MODULES = os.path.join(Y2026, 'Modules')
+MODULES = os.path.join(ROOT, 'Products', 'Modules')
 OUT = os.path.join(Y2026, '_catalog', 'panels')
 DB = os.path.join(Y2026, 'timelines', 'wbs_timeline.db')
 TRACER = os.path.join(Y2026, 'timelines', 'trace_svg.cjs')

@@ -1,6 +1,6 @@
 # 19xx - 900-03-104 - EXTENDED MK SERIES IDENT EXTRUSION COVER - DRN DRG - ISS 1
 
-![WBSps.ca 20210319 -  (61).jpg](WBSps.ca%2020210319%20-%20%20(61).jpg)
+![WBSps.ca 20210319 -  (61).jpg](WBSps.ca%2020210319%20-%20%20%2861%29.jpg)
 
 Mechanical drawing of an ident extrusion and cover.
 

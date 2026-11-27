@@ -1,6 +1,6 @@
 # 1969 - A 9050 - INSULATOR
 
-![WBSps.ca - Mechanical 9XXX (40).png](WBSps.ca%20-%20Mechanical%209XXX%20(40).png)
+![WBSps.ca - Mechanical 9XXX (40).png](WBSps.ca%20-%20Mechanical%209XXX%20%2840%29.png)
 
 Two stacked mechanical drawings, a fader ganging bar and a G10 board insulator.
 

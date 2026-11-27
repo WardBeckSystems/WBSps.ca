@@ -1,6 +1,6 @@
 # 1987 - 600-02-003 - MONO OUTPUT CHANNEL SCHEMATIC - DRN JRG - ENG GEB - ISS 2
 
-![WBSps.ca - 20210317 11X 17 Scans  (4).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(4).png)
+![WBSps.ca - 20210317 11X 17 Scans  (4).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%284%29.png)
 
 ## Title block
 

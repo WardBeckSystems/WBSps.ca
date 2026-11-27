@@ -1,6 +1,6 @@
 # 19xx - 924-03-001 - M924A M924D POWER SUPPLY FRONT PANEL - DRN DRG - ISS 1
 
-![WBSps.ca 20210319 -  (47).jpg](WBSps.ca%2020210319%20-%20%20(47).jpg)
+![WBSps.ca 20210319 -  (47).jpg](WBSps.ca%2020210319%20-%20%20%2847%29.jpg)
 
 ## Title block
 

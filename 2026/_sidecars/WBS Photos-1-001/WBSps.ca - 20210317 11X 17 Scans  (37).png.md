@@ -1,6 +1,6 @@
 # 1972 - 807-02-001 - FADE GENERATOR SCHEMATIC - DRN GP - ISS 4
 
-![WBSps.ca - 20210317 11X 17 Scans  (37).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(37).png)
+![WBSps.ca - 20210317 11X 17 Scans  (37).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%2837%29.png)
 
 ## Title block
 

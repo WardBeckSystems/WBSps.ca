@@ -1,6 +1,6 @@
 # 1982 - 480-01-002 - M480C INPUT MODULE FUNCTIONAL DIAGRAM - DRN ML - ENG MRW - ISS 1
 
-![M480C - P22 - Functional Diagram(1).jpg](M480C%20-%20P22%20-%20Functional%20Diagram(1).jpg)
+![M480C - P22 - Functional Diagram(1).jpg](M480C%20-%20P22%20-%20Functional%20Diagram%281%29.jpg)
 
 ## Title block
 

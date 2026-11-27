@@ -1,6 +1,6 @@
 # 19xx - 905-03-001 - CONTROLLER MONITOR MODULE - DRN DRG - ISS 6
 
-![WBSps.ca 20210319 -  (20).jpg](WBSps.ca%2020210319%20-%20%20(20).jpg)
+![WBSps.ca 20210319 -  (20).jpg](WBSps.ca%2020210319%20-%20%20%2820%29.jpg)
 
 Front panel and cutout drawing of the controller monitor module.
 

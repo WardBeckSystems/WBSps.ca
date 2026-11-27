@@ -1,6 +1,6 @@
 # 1988 - 468-03-018 - KEY CAP JOINER - DRN DRG - ISS 2
 
-![WBSps.ca 20210320 - Scans (4).jpg](WBSps.ca%2020210320%20-%20Scans%20(4).jpg)
+![WBSps.ca 20210320 - Scans (4).jpg](WBSps.ca%2020210320%20-%20Scans%20%284%29.jpg)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 # 1973 - 712-02-004 - CASCADE CONFIGURATION - DRN GEB - ISS 2
 
-![WBSps.ca - 20210317 11X 17 Scans  (26).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(26).png)
+![WBSps.ca - 20210317 11X 17 Scans  (26).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%2826%29.png)
 
 Diagram showing connection of M712 modules for more than 12 inputs to one output.
 

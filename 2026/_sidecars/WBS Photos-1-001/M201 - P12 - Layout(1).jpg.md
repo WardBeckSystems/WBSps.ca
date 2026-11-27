@@ -1,6 +1,6 @@
 # 1979 - 201-06-001 - RELAY MODULE COMPONENT LAYOUT - DRN MRW - ENG MRW - ISS 1
 
-![M201 - P12 - Layout(1).jpg](M201%20-%20P12%20-%20Layout(1).jpg)
+![M201 - P12 - Layout(1).jpg](M201%20-%20P12%20-%20Layout%281%29.jpg)
 
 ## Title block
 

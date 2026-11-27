@@ -1,6 +1,6 @@
 # 1982 - 1202-02-016 - OSC, CUE SOLO, RE-ENTRY & AUX LEVEL SCHEMATIC - DRN JP - ENG MRW - ISS 1
 
-![L1202A - P43 - OSC Cue Aux Re-entry Schematic(1).jpg](L1202A%20-%20P43%20-%20OSC%20Cue%20Aux%20Re-entry%20Schematic(1).jpg)
+![L1202A - P43 - OSC Cue Aux Re-entry Schematic(1).jpg](L1202A%20-%20P43%20-%20OSC%20Cue%20Aux%20Re-entry%20Schematic%281%29.jpg)
 
 ## Title block
 

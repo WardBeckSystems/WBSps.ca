@@ -1,6 +1,6 @@
 # 1979 - 80-24 POWER TRANSFORMER - DRN MRW - ENG RKB
 
-![WBS transformer - Notes (6).png](WBS%20transformer%20-%20Notes%20(6).png)
+![WBS transformer - Notes (6).png](WBS%20transformer%20-%20Notes%20%286%29.png)
 
 ## Title block
 

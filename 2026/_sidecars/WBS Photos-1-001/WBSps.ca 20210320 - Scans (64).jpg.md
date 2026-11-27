@@ -1,6 +1,6 @@
 # 19xx - 478-02-006 - M478E 4X1 MONO SWITCHER MODULE SCHEMATIC - DRN PA - ENG PA - ISS 1
 
-![WBSps.ca 20210320 - Scans (64).jpg](WBSps.ca%2020210320%20-%20Scans%20(64).jpg)
+![WBSps.ca 20210320 - Scans (64).jpg](WBSps.ca%2020210320%20-%20Scans%20%2864%29.jpg)
 
 ## Title block
 

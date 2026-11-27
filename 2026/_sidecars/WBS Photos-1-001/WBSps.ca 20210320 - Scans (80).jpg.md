@@ -1,6 +1,6 @@
 # 1976 - B 9904 - MF-7 FRONT PANEL EXTRUSION - ISS 1
 
-![WBSps.ca 20210320 - Scans (80).jpg](WBSps.ca%2020210320%20-%20Scans%20(80).jpg)
+![WBSps.ca 20210320 - Scans (80).jpg](WBSps.ca%2020210320%20-%20Scans%20%2880%29.jpg)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 # 1988 - 8224-03-007 - FISHPAPER - DRN DS - ISS 4
 
-![WBSps.ca - 20210317 11X 17 Scans  (184).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(184).png)
+![WBSps.ca - 20210317 11X 17 Scans  (184).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%28184%29.png)
 
 ## Title block
 

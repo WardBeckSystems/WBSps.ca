@@ -1,6 +1,6 @@
 # 19xx - 901-03-012 - M450B MOUNTING BRACKET FOR M901 TEST JIG - DRN PAS - ENG PAS - ISS 1
 
-![WBSps.ca 20210319 -  (4).jpg](WBSps.ca%2020210319%20-%20%20(4).jpg)
+![WBSps.ca 20210319 -  (4).jpg](WBSps.ca%2020210319%20-%20%20%284%29.jpg)
 
 ## Title block
 

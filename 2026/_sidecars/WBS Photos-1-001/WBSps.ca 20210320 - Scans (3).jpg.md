@@ -1,6 +1,6 @@
 # 1984 - 467-03-006 - TRIM POT MTG. BRACKET USED ON M467F - DRN J - ISS 2
 
-![WBSps.ca 20210320 - Scans (3).jpg](WBSps.ca%2020210320%20-%20Scans%20(3).jpg)
+![WBSps.ca 20210320 - Scans (3).jpg](WBSps.ca%2020210320%20-%20Scans%20%283%29.jpg)
 
 ## Title block
 

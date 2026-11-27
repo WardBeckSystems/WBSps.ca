@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Copyright (c) 2026 Ward-Beck Systems (Ward-Beck.com - Ward-Beck.ca). All rights reserved.
-"""What the pipeline knows about a module, filed into its own folder (2026/Modules/<CATEGORY>/<Mxxx>/):
+"""What the pipeline knows about a module, filed into its own folder (Products/Modules/<CATEGORY>/<Mxxx>/):
 
   <drawing> (EXTRACTED).svg   beside every traced scan (and "<pdf> p<N> (EXTRACTED).svg" beside a traced PDF):
                               the tracer's vectors (_traces/<sha16>.svg: line work, lettering, title block, centre lines)
@@ -13,7 +13,7 @@
 
 Files are hard links to the pipeline's copies (one set of bytes); run again after a rebuild, it only adds what changed.
 
-    python3 tools/module_extras.py [2026/Modules/CAT/M ...]
+    python3 tools/module_extras.py [Products/Modules/CAT/M ...]
 """
 import glob
 import json
@@ -185,7 +185,7 @@ def main():
     con = sqlite3.connect(f'file:{DB}?mode=ro', uri=True)
     traced = traces_by_module(con)
     dirs = [os.path.abspath(a) for a in sys.argv[1:]] or sorted(
-        p for p in glob.glob(os.path.join(Y2026, 'Modules', '*', '*')) if os.path.isdir(p))
+        p for p in glob.glob(os.path.join(ROOT, 'Products', 'Modules', '*', '*')) if os.path.isdir(p))
     pairs, tot = [], {}
     for d in dirs:
         for k, v in extras(d, traced, pairs).items():

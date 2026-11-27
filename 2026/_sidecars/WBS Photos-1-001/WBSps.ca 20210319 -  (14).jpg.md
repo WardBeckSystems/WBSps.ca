@@ -1,6 +1,6 @@
 # 19xx - 900-03-018 - MK SERIES CONNECTOR PANEL - DRN DRG - ISS 3
 
-![WBSps.ca 20210319 -  (14).jpg](WBSps.ca%2020210319%20-%20%20(14).jpg)
+![WBSps.ca 20210319 -  (14).jpg](WBSps.ca%2020210319%20-%20%20%2814%29.jpg)
 
 ## Title block
 

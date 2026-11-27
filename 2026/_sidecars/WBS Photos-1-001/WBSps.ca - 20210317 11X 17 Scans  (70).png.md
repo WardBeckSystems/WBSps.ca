@@ -1,6 +1,6 @@
 # 1974 - 468-02-021 - M468H TAPE INPUT SWITCHER - DRN DM - ISS 2
 
-![WBSps.ca - 20210317 11X 17 Scans  (70).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(70).png)
+![WBSps.ca - 20210317 11X 17 Scans  (70).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%2870%29.png)
 
 ## Title block
 

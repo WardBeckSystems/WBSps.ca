@@ -1,6 +1,6 @@
 # 1995 - 405-03-082 - M405M PCB CONNECTOR BRACKET - DRN DRG - ISS 1
 
-![WBSps.ca 20210320 - Scans (90).jpg](WBSps.ca%2020210320%20-%20Scans%20(90).jpg)
+![WBSps.ca 20210320 - Scans (90).jpg](WBSps.ca%2020210320%20-%20Scans%20%2890%29.jpg)
 
 ## Title block
 

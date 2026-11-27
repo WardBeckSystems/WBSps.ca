@@ -1,6 +1,6 @@
 # 1987 - 805-03-002 - M805D E FISH PAPER COVER - DRN GEB - ENG GEB - ISS 3
 
-![WBSps.ca 20210320 - Scans (28).jpg](WBSps.ca%2020210320%20-%20Scans%20(28).jpg)
+![WBSps.ca 20210320 - Scans (28).jpg](WBSps.ca%2020210320%20-%20Scans%20%2828%29.jpg)
 
 ## Title block
 

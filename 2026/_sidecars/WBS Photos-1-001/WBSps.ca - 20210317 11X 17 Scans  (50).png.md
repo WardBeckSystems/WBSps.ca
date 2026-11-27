@@ -1,6 +1,6 @@
 # 1970 - 648-02-002 - M648A POWER SUPPLY SCHMATIC - DRN DJG - ISS 4
 
-![WBSps.ca - 20210317 11X 17 Scans  (50).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(50).png)
+![WBSps.ca - 20210317 11X 17 Scans  (50).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%2850%29.png)
 
 Schematic of the M648A 48V power supply with regulator card.
 

@@ -1,6 +1,6 @@
 # 1999 - D ABB-M1 - ABB-1 WARD-BECK AND LINDOS ENCLOSURE - ISS 2
 
-![WBSps.ca 20210319 -  (65).jpg](WBSps.ca%2020210319%20-%20%20(65).jpg)
+![WBSps.ca 20210319 -  (65).jpg](WBSps.ca%2020210319%20-%20%20%2865%29.jpg)
 
 ## Title block
 

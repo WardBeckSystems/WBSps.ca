@@ -1,6 +1,6 @@
 # 1987 - 600-02-001 - INPUT CHANNEL SCHEMATIC - DRN JRG - ENG JRG - ISS 1
 
-![WBSps.ca - 20210317 11X 17 Scans  (6).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(6).png)
+![WBSps.ca - 20210317 11X 17 Scans  (6).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%286%29.png)
 
 ## Title block
 

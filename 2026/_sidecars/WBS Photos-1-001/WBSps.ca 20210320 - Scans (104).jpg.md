@@ -1,6 +1,6 @@
 # 1979 - 485-03-004 - TRANSFORMER MTG. PLATE - DRN P. Mahoney - ISS 2
 
-![WBSps.ca 20210320 - Scans (104).jpg](WBSps.ca%2020210320%20-%20Scans%20(104).jpg)
+![WBSps.ca 20210320 - Scans (104).jpg](WBSps.ca%2020210320%20-%20Scans%20%28104%29.jpg)
 
 ## Title block
 

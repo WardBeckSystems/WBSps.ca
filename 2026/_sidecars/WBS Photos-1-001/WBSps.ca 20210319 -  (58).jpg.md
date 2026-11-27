@@ -1,6 +1,6 @@
 # 1996 - 900-03-048 - SAS APC-88 BRACE - DRN DRG - ISS 1
 
-![WBSps.ca 20210319 -  (58).jpg](WBSps.ca%2020210319%20-%20%20(58).jpg)
+![WBSps.ca 20210319 -  (58).jpg](WBSps.ca%2020210319%20-%20%20%2858%29.jpg)
 
 ## Title block
 

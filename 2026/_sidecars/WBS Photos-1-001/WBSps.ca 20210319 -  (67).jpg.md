@@ -1,6 +1,6 @@
 # 19xx - 900-03-025 - POWER DISTRIBUTION BRACKET - ISS 3
 
-![WBSps.ca 20210319 -  (67).jpg](WBSps.ca%2020210319%20-%20%20(67).jpg)
+![WBSps.ca 20210319 -  (67).jpg](WBSps.ca%2020210319%20-%20%20%2867%29.jpg)
 
 ## Title block
 

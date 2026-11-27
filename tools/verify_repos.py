@@ -16,7 +16,7 @@ import sys
 from concurrent.futures import ThreadPoolExecutor
 
 TOP = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SOURCES = ['2026/Modules', '2026/PHOTOS', '2026/DOCUMENTS', '2026/Engineering', 'Intercom', 'hard drive recovery',
+SOURCES = ['Products/Modules', '2026/PHOTOS', '2026/DOCUMENTS', '2026/Engineering', 'Intercom', 'hard drive recovery',
            'WBSps.ca/Github.WardBeckSystems/_stage']
 
 
@@ -73,7 +73,7 @@ def leftovers():
             # a WBSps.ca tree or a checkout: what git there doesn't track (the media that should have moved)
             sub = subprocess.run(['git', '-C', p, 'ls-files', '-o', '-z'], capture_output=True).stdout
             rels = [x for x in sub.split(b'\0') if x and not x.endswith(b'index.html')]
-            if s == '2026/Modules':   # every module folder is its own checkout
+            if s == 'Products/Modules':   # every module folder is its own checkout
                 rels = []
                 for cat in os.listdir(p):
                     for m in os.listdir(os.path.join(p, cat)) if os.path.isdir(os.path.join(p, cat)) else []:

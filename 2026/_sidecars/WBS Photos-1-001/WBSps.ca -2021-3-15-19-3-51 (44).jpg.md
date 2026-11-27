@@ -1,6 +1,6 @@
 # 1970 - 600-02-005 - M600R SYSTEM FOR CDL A V SWITCHER APPLICATION
 
-![WBSps.ca -2021-3-15-19-3-51 (44).jpg](WBSps.ca%20-2021-3-15-19-3-51%20(44).jpg)
+![WBSps.ca -2021-3-15-19-3-51 (44).jpg](WBSps.ca%20-2021-3-15-19-3-51%20%2844%29.jpg)
 
 Faint block diagram with specification notes, title block at lower right illegible.
 

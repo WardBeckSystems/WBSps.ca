@@ -1,6 +1,6 @@
 # 1995 - 7000-03-035 - COVER SUPPORT - DRN DRG - ISS 1
 
-![WBSps.ca 20210320 - Scans (22).jpg](WBSps.ca%2020210320%20-%20Scans%20(22).jpg)
+![WBSps.ca 20210320 - Scans (22).jpg](WBSps.ca%2020210320%20-%20Scans%20%2822%29.jpg)
 
 ## Title block
 

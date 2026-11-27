@@ -1,6 +1,6 @@
 # 19xx - M924 - M924B POWER SUPPLY FRONT PANEL
 
-![WBSps.ca 20210319 -  (49).jpg](WBSps.ca%2020210319%20-%20%20(49).jpg)
+![WBSps.ca 20210319 -  (49).jpg](WBSps.ca%2020210319%20-%20%20%2849%29.jpg)
 
 ## Title block
 

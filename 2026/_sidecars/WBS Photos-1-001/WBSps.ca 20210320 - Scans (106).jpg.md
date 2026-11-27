@@ -1,6 +1,6 @@
 # 1984 - 468-03-121 - SWITCH MOUNTING BRACKET - DRN HH - ISS 1
 
-![WBSps.ca 20210320 - Scans (106).jpg](WBSps.ca%2020210320%20-%20Scans%20(106).jpg)
+![WBSps.ca 20210320 - Scans (106).jpg](WBSps.ca%2020210320%20-%20Scans%20%28106%29.jpg)
 
 ## Title block
 

@@ -22,7 +22,7 @@ from urllib.parse import quote
 
 TOP = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC = os.path.join(TOP, '2026', 'Consoles')
-PUBLISHED = os.path.join(TOP, 'Consoles')   # the site's copy: what may be public
+PUBLISHED = os.path.join(TOP, 'Products', 'Consoles')   # the site's copy: what may be public
 JOBS_CSV = os.path.join(TOP, '2026', 'timelines', 'data', 'jobs.csv')
 SITE = 'https://wardbecksystems.github.io/WBSps.ca/2026/Consoles/'
 GITIGNORE = os.path.join(TOP, 'tools', 'module.gitignore')

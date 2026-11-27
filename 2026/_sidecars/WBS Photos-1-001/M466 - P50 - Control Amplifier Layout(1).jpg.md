@@ -1,6 +1,6 @@
 # 1976 - 6-106-06-001 - 6-106 COMPRESSOR CONTROL AMPLIFIER COMPONENT LAYOUT - DRN MRW - ISS 5
 
-![M466 - P50 - Control Amplifier Layout(1).jpg](M466%20-%20P50%20-%20Control%20Amplifier%20Layout(1).jpg)
+![M466 - P50 - Control Amplifier Layout(1).jpg](M466%20-%20P50%20-%20Control%20Amplifier%20Layout%281%29.jpg)
 
 ## Title block
 

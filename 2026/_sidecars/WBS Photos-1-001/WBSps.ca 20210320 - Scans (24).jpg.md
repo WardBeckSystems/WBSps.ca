@@ -1,6 +1,6 @@
 # 1980 - 7000-03-008 - 7000 SERIES INTERCOM DESK PANELS MOUNTING DETAIL - DRN P. Mahoney - ENG MRW - ISS 1
 
-![WBSps.ca 20210320 - Scans (24).jpg](WBSps.ca%2020210320%20-%20Scans%20(24).jpg)
+![WBSps.ca 20210320 - Scans (24).jpg](WBSps.ca%2020210320%20-%20Scans%20%2824%29.jpg)
 
 Mounting detail for 7000 series intercom desk panels.
 

@@ -1,6 +1,6 @@
 # 1974 - A 9267 - TRANSFORMER MTG. BKT - ISS 1
 
-![WBSps.ca - Mechanical 9XXX (7).png](WBSps.ca%20-%20Mechanical%209XXX%20(7).png)
+![WBSps.ca - Mechanical 9XXX (7).png](WBSps.ca%20-%20Mechanical%209XXX%20%287%29.png)
 
 Mechanical detail of a transformer mounting bracket.
 

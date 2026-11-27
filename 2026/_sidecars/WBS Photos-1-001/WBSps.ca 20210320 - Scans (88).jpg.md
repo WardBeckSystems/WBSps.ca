@@ -1,6 +1,6 @@
 # 1974 - 441-03-014 - ESCUTCHEON - M441H - DRN DPS - ISS 2
 
-![WBSps.ca 20210320 - Scans (88).jpg](WBSps.ca%2020210320%20-%20Scans%20(88).jpg)
+![WBSps.ca 20210320 - Scans (88).jpg](WBSps.ca%2020210320%20-%20Scans%20%2888%29.jpg)
 
 ## Title block
 

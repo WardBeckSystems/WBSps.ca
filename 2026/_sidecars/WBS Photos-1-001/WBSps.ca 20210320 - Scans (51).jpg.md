@@ -1,6 +1,6 @@
 # 1978 - 469-02-001 - M469A ASSIGNMENT MODULE SCHEMATIC - DRN P. Mahoney - ENG PC - ISS 2
 
-![WBSps.ca 20210320 - Scans (51).jpg](WBSps.ca%2020210320%20-%20Scans%20(51).jpg)
+![WBSps.ca 20210320 - Scans (51).jpg](WBSps.ca%2020210320%20-%20Scans%20%2851%29.jpg)
 
 ## Title block
 

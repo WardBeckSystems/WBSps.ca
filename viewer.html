@@ -207,7 +207,7 @@ function showKicadSym(path) {
   return true;
 }
 if (!rel) {
-  view.innerHTML = '<div class="none"><p>Open a file with <code>viewer.html?f=Modules/…/file.pdf</code>, or follow a link from the wiki, the index or search.</p></div>';
+  view.innerHTML = '<div class="none"><p>Open a file with <code>viewer.html?f=Products/Modules/%E2%80%A6/file.pdf</code>, or follow a link from the wiki, the index or search.</p></div>';
 } else if (!show(rel) && !(P[rel] && show(P[rel]))) {
   const a = app ? `<p><b>Open with:</b> ${app.apps}</p>` : '';
   view.innerHTML = `<div class="none"><p>No browser preview for this ${ext.slice(1).toUpperCase()} file yet.</p>${a}

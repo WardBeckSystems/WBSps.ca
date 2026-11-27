@@ -1,6 +1,6 @@
 # 1975 - B 9315 - 60-4 INPUT TRANSFORMER - DRN D. McFarlane - ISS 1
 
-![WBSps.ca 20210320 - Scans (31).jpg](WBSps.ca%2020210320%20-%20Scans%20(31).jpg)
+![WBSps.ca 20210320 - Scans (31).jpg](WBSps.ca%2020210320%20-%20Scans%20%2831%29.jpg)
 
 ## Title block
 

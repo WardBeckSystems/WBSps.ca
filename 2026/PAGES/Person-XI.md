@@ -22,5 +22,5 @@ tags: ["person"]
 
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
-| 525-04-001 | Ext Ext Ext Ext Aux Aux Aux |  | [BD](Person-BD.md) |  | U | [file](../Modules/MONITORING/M525/MECHANICAL/19xx%20-%20M525%20-%20DOC%20-%20525-04-001%20-%20EXT%20EXT%20EXT%20EXT%20AUX%20AUX%20AUX.jpg) |
-| 605-01-002 | Comparators Overload Ref Normal Ref |  |  | [XI](Person-XI.md) | 3 | [file](../Modules/AMPLIFIERS/M605/SCHEMATICS/1971%20-%20M605%20-%20605-01-002%20-%20COMPARATORS%20OVERLOAD%20REF%20NORMAL%20REF.jpg) |
+| 525-04-001 | Ext Ext Ext Ext Aux Aux Aux |  | [BD](Person-BD.md) |  | U | [file](../../Products/Modules/MONITORING/M525/MECHANICAL/19xx%20-%20M525%20-%20DOC%20-%20525-04-001%20-%20EXT%20EXT%20EXT%20EXT%20AUX%20AUX%20AUX.jpg) |
+| 605-01-002 | Comparators Overload Ref Normal Ref |  |  | [XI](Person-XI.md) | 3 | [file](../../Products/Modules/AMPLIFIERS/M605/SCHEMATICS/1971%20-%20M605%20-%20605-01-002%20-%20COMPARATORS%20OVERLOAD%20REF%20NORMAL%20REF.jpg) |

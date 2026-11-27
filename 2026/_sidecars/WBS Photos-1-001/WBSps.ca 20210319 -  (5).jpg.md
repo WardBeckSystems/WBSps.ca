@@ -1,6 +1,6 @@
 # 19xx - 924-03-004 - HEATSINK ANGLE - ISS 2
 
-![WBSps.ca 20210319 -  (5).jpg](WBSps.ca%2020210319%20-%20%20(5).jpg)
+![WBSps.ca 20210319 -  (5).jpg](WBSps.ca%2020210319%20-%20%20%285%29.jpg)
 
 ## Title block
 

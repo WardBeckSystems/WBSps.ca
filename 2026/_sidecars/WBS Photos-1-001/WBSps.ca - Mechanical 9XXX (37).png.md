@@ -1,6 +1,6 @@
 # 1970 - A 9067 - SWITCH MOUNTING PLATE 3 PENDAR BUTTONS
 
-![WBSps.ca - Mechanical 9XXX (37).png](WBSps.ca%20-%20Mechanical%209XXX%20(37).png)
+![WBSps.ca - Mechanical 9XXX (37).png](WBSps.ca%20-%20Mechanical%209XXX%20%2837%29.png)
 
 Two stacked drawings of switch mounting plates for Pendar buttons.
 

@@ -1,6 +1,6 @@
 # 1980 - 14-002-02-001 - 14-002 OUTPUT LINE SELECTOR SCHEMATIC - DRN P. MAHONEY - ENG MRW - ISS 1
 
-![L1202A - P47 - Output Line Selector Schematic(1).jpg](L1202A%20-%20P47%20-%20Output%20Line%20Selector%20Schematic(1).jpg)
+![L1202A - P47 - Output Line Selector Schematic(1).jpg](L1202A%20-%20P47%20-%20Output%20Line%20Selector%20Schematic%281%29.jpg)
 
 ## Title block
 

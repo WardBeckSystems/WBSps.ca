@@ -1,6 +1,6 @@
 # 1995 - 445-03-016 - EXTENDED RANGE METER SPEAKER SCREEN - DRN DRG - ISS 1
 
-![WBSps.ca 20210320 - Scans (119).jpg](WBSps.ca%2020210320%20-%20Scans%20(119).jpg)
+![WBSps.ca 20210320 - Scans (119).jpg](WBSps.ca%2020210320%20-%20Scans%20%28119%29.jpg)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 # 1985 - 538-03-007 - IDENT COVER - DRN BD - ENG MRW - ISS 2
 
-![WBSps.ca 20210320 - Scans (5).jpg](WBSps.ca%2020210320%20-%20Scans%20(5).jpg)
+![WBSps.ca 20210320 - Scans (5).jpg](WBSps.ca%2020210320%20-%20Scans%20%285%29.jpg)
 
 ## Title block
 

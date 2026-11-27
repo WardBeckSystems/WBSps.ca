@@ -1,6 +1,6 @@
 # 19xx - M441M - Buffalo New York
 
-![Ward Beck Systems M441 2(1).jpg](Ward%20Beck%20Systems%20M441%202(1).jpg)
+![Ward Beck Systems M441 2(1).jpg](Ward%20Beck%20Systems%20M441%202%281%29.jpg)
 
 Product data sheet for the M441M channel amplifier with outline and technical data, WBS logo at bottom left.
 

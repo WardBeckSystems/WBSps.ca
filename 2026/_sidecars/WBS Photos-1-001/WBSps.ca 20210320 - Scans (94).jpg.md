@@ -1,6 +1,6 @@
 # 1989 - 497-03-007 - HEATSINK - DRN GEB - ENG GEB - ISS 1
 
-![WBSps.ca 20210320 - Scans (94).jpg](WBSps.ca%2020210320%20-%20Scans%20(94).jpg)
+![WBSps.ca 20210320 - Scans (94).jpg](WBSps.ca%2020210320%20-%20Scans%20%2894%29.jpg)
 
 ## Title block
 

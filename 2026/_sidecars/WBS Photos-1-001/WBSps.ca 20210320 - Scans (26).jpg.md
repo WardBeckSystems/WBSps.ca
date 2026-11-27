@@ -1,6 +1,6 @@
 # 1972 - 845-03-001 - HEAT SINK - DRN GP - ISS 2
 
-![WBSps.ca 20210320 - Scans (26).jpg](WBSps.ca%2020210320%20-%20Scans%20(26).jpg)
+![WBSps.ca 20210320 - Scans (26).jpg](WBSps.ca%2020210320%20-%20Scans%20%2826%29.jpg)
 
 Mechanical detail of an aluminum heat sink.
 

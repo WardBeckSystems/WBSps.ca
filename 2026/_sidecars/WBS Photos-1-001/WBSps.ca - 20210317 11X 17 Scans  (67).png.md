@@ -1,6 +1,6 @@
 # 1982 - 454-02-001 - SLATE ASSIGN MODULE - DRN D.N. NOV-82 - ISS 2
 
-![WBSps.ca - 20210317 11X 17 Scans  (67).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(67).png)
+![WBSps.ca - 20210317 11X 17 Scans  (67).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%2867%29.png)
 
 ## Title block
 

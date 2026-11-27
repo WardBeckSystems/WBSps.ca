@@ -2359,7 +2359,7 @@
   "folders": [],
   "job": "",
   "kind": "console",
-  "sha": "",
+  "sha": "ecb13ecb5feed78834082cf738ce9ecf949ed193",
   "title": "EuroConsole",
   "year": "2026"
  },
@@ -2383,6 +2383,28 @@
   "kind": "console",
   "sha": "8b039ccf1f9f309547fd348432757c733be0f380",
   "title": "KWWL New Orleans",
+  "year": ""
+ },
+ "CONSOLE.WBS-1979-custom-L-series-full-size": {
+  "files": 2,
+  "folders": [
+   "1970-1979/WBS 1979 custom L series full size"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "7cd3b3ddf3dced207af181123aaeb46a8924cebb",
+  "title": "WBS 1979 custom L series full size",
+  "year": "1970-1979"
+ },
+ "CONSOLE.Wood-cabinet-console": {
+  "files": 2,
+  "folders": [
+   "1960-1969/1967-1969/Wood cabinet console"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "51fb73e0a1818d77185bf2a1899a77871bc93dc4",
+  "title": "Wood cabinet console",
   "year": ""
  },
  "INTERCOM.860485-CFTM-TELEVISION-CUSTOM-INTERCOM-MATRIX": {

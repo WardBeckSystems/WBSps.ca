@@ -21,6 +21,6 @@
 - **Kind:** drawing
 - **Device:** M411 — wiki: [M411](../../2026/PAGES/M411.md)
 - **Original file:** `WBSps.env/WBS Photos-1-001/411-02-002b turn table.jpg`
-- **Copy in 2026:** [`2026/Modules/AMPLIFIERS/M411/SCHEMATICS/1972 - 411-02-002 - (partial, rotated) TURU... PRE... SCHE - DRN BCK - ISS 8.jpg`](../../2026/Modules/AMPLIFIERS/M411/SCHEMATICS/1972%20-%20411-02-002%20-%20(partial,%20rotated)%20TURU...%20PRE...%20SCHE%20-%20DRN%20BCK%20-%20ISS%208.jpg)
+- **Copy in 2026:** [`2026/Modules/AMPLIFIERS/M411/SCHEMATICS/1972 - 411-02-002 - (partial, rotated) TURU... PRE... SCHE - DRN BCK - ISS 8.jpg`](../../2026/Modules/AMPLIFIERS/M411/SCHEMATICS/1972%20-%20411-02-002%20-%20%28partial,%20rotated%29%20TURU...%20PRE...%20SCHE%20-%20DRN%20BCK%20-%20ISS%208.jpg)
 - **SHA-256:** `67ed5928365669179c5300bfda1b38e88f2fa13cd2d0c8f65a0859027134787b`
 - **Read by:** title-block crop read by eye

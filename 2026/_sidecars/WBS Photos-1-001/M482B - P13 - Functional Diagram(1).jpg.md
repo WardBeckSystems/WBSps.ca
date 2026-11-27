@@ -1,6 +1,6 @@
 # 1979 - 482-01-001 - MONITOR MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ENG MRW - ISS 1
 
-![M482B - P13 - Functional Diagram(1).jpg](M482B%20-%20P13%20-%20Functional%20Diagram(1).jpg)
+![M482B - P13 - Functional Diagram(1).jpg](M482B%20-%20P13%20-%20Functional%20Diagram%281%29.jpg)
 
 ## Title block
 

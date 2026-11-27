@@ -1,6 +1,6 @@
 # 1971 - A 9122 - SPEAKER SCREEN - DRN WWH - ISS 5
 
-![WBSps.ca - Mechanical 9XXX (33).png](WBSps.ca%20-%20Mechanical%209XXX%20(33).png)
+![WBSps.ca - Mechanical 9XXX (33).png](WBSps.ca%20-%20Mechanical%209XXX%20%2833%29.png)
 
 ## Title block
 

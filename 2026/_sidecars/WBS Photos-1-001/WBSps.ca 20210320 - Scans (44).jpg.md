@@ -1,6 +1,6 @@
 # 1980 - 485-02-003 - ±25V POWER SUPPLY SCHEMATIC - DRN P. Mahoney - ENG MRW - ISS 1
 
-![WBSps.ca 20210320 - Scans (44).jpg](WBSps.ca%2020210320%20-%20Scans%20(44).jpg)
+![WBSps.ca 20210320 - Scans (44).jpg](WBSps.ca%2020210320%20-%20Scans%20%2844%29.jpg)
 
 ## Title block
 

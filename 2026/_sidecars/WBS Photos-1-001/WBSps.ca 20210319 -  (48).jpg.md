@@ -1,6 +1,6 @@
 # 19xx - 924-03-003 - M924A POWER SUPPLY COVER - ISS 1
 
-![WBSps.ca 20210319 -  (48).jpg](WBSps.ca%2020210319%20-%20%20(48).jpg)
+![WBSps.ca 20210319 -  (48).jpg](WBSps.ca%2020210319%20-%20%20%2848%29.jpg)
 
 ## Title block
 

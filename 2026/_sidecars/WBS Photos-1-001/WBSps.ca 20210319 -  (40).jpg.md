@@ -1,6 +1,6 @@
 # 19xx - 900-03-013 - MK SERIES METER HOUSING LID - DRN DRG - ISS 2
 
-![WBSps.ca 20210319 -  (40).jpg](WBSps.ca%2020210319%20-%20%20(40).jpg)
+![WBSps.ca 20210319 -  (40).jpg](WBSps.ca%2020210319%20-%20%20%2840%29.jpg)
 
 ## Title block
 

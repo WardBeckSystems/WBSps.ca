@@ -1,6 +1,6 @@
 # 19xx - 900-03-105 - EXTENDED MK SERIES LOWER IDENT SUPPORT BRKT - DRN DRG - ISS 2
 
-![WBSps.ca 20210319 -  (33).jpg](WBSps.ca%2020210319%20-%20%20(33).jpg)
+![WBSps.ca 20210319 -  (33).jpg](WBSps.ca%2020210319%20-%20%20%2833%29.jpg)
 
 Mechanical drawing of a lower ident support bracket.
 

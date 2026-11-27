@@ -1,6 +1,6 @@
 # 1976 - 468-02-025 - M468M ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (3)
 
-![WBSps.ca 20210320 - Scans (61).jpg](WBSps.ca%2020210320%20-%20Scans%20(61).jpg)
+![WBSps.ca 20210320 - Scans (61).jpg](WBSps.ca%2020210320%20-%20Scans%20%2861%29.jpg)
 
 Schematic of an assign module with switch banks.
 
@@ -24,7 +24,7 @@ Schematic of an assign module with switch banks.
 - **Kind:** drawing
 - **Device:** M468 — wiki: [M468](../../2026/PAGES/M468.md)
 - **Original file:** `WBSps.env/WBS Photos-1-001/WBSps.ca 20210320 - Scans (61).jpg`
-- **Copy in 2026:** [`2026/Modules/ROUTING/M468/SCHEMATICS/1976 - 468-02-025 - M468M ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (3).jpg`](../../2026/Modules/ROUTING/M468/SCHEMATICS/1976%20-%20468-02-025%20-%20M468M%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20PA%20-%20ISS%201%20(3).jpg)
+- **Copy in 2026:** [`2026/Modules/ROUTING/M468/SCHEMATICS/1976 - 468-02-025 - M468M ASSIGN MODULE SCHEMATIC - DRN PA - ISS 1 (3).jpg`](../../2026/Modules/ROUTING/M468/SCHEMATICS/1976%20-%20468-02-025%20-%20M468M%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20PA%20-%20ISS%201%20%283%29.jpg)
 - **SHA-256:** `1422d171a69ae22b44a5c20a7378164df9ed14147ddda4fd95b5c8f27c6eef18`
 - **Read by:** whole image looked at by eye; title-block corner read by eye
 - **Note:** empty left revision/used-on column strip of a title block

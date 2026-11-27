@@ -1,6 +1,6 @@
 # 19xx - 445-03-011 - M445A EXTENDED RANGE METER BATTERY HOLDER & CLIP - DRN WS - ENG WS - ISS 2
 
-![WBSps.ca 20210320 - Scans (120).jpg](WBSps.ca%2020210320%20-%20Scans%20(120).jpg)
+![WBSps.ca 20210320 - Scans (120).jpg](WBSps.ca%2020210320%20-%20Scans%20%28120%29.jpg)
 
 ## Title block
 

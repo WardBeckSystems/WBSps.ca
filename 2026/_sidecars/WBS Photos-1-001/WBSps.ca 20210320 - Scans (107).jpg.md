@@ -1,6 +1,6 @@
 # 1982 - 468-03-115 - SWITCH MOUNTING BRACKET - DRN Jo - ISS 1
 
-![WBSps.ca 20210320 - Scans (107).jpg](WBSps.ca%2020210320%20-%20Scans%20(107).jpg)
+![WBSps.ca 20210320 - Scans (107).jpg](WBSps.ca%2020210320%20-%20Scans%20%28107%29.jpg)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 # 1977 - 472-02-001 - EQUALIZER MODULE SCHEMATIC - DRN MRW - ISS 1
 
-![WBSps.ca - 20210317 11X 17 Scans  (87).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(87).png)
+![WBSps.ca - 20210317 11X 17 Scans  (87).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%2887%29.png)
 
 ## Title block
 

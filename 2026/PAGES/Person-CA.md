@@ -22,5 +22,5 @@ tags: ["person"]
 
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
-| — | Functi Onal Dia Gram |  | [GEB (Gerry E. Bell)](Person-GEB.md) |  | B | [file](../Modules/SUMMING/M473A/MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29.pdf) p.22 |
-| 480-02-003 | Input Module Schematic |  |  |  |  | [file](../Modules/INPUT-PRE-AMPS/M480/SCHEMATICS/1975%20-%20M480%20-%20480-02-003%20-%20INPUT%20MODULE.jpg) |
+| — | Functi Onal Dia Gram |  | [GEB (Gerry E. Bell)](Person-GEB.md) |  | B | [file](../../Products/Modules/SUMMING/M473A/MANUALS/1977%20-%20M473A%20-%20Submaster%20Module%20%282%29.pdf) p.22 |
+| 480-02-003 | Input Module Schematic |  |  |  |  | [file](../../Products/Modules/INPUT-PRE-AMPS/M480/SCHEMATICS/1975%20-%20M480%20-%20480-02-003%20-%20INPUT%20MODULE.jpg) |

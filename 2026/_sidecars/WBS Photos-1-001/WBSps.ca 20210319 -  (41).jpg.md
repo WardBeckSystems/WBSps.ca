@@ -1,6 +1,6 @@
 # 19xx - 900-03-004 - MK SERIES PANDUIT TROUGH - DRN DRG - ISS 4
 
-![WBSps.ca 20210319 -  (41).jpg](WBSps.ca%2020210319%20-%20%20(41).jpg)
+![WBSps.ca 20210319 -  (41).jpg](WBSps.ca%2020210319%20-%20%20%2841%29.jpg)
 
 ## Title block
 

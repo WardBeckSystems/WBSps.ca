@@ -1,6 +1,6 @@
 # 1971 - 441-03-006 - ESCUTCHEON DRILLING DETAIL - DRN WWH - ISS 3
 
-![WBSps.ca 20210320 - Scans (8).jpg](WBSps.ca%2020210320%20-%20Scans%20(8).jpg)
+![WBSps.ca 20210320 - Scans (8).jpg](WBSps.ca%2020210320%20-%20Scans%20%288%29.jpg)
 
 Drilling detail of an escutcheon plate.
 

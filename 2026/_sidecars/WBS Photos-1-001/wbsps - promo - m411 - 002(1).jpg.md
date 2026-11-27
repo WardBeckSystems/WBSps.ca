@@ -1,6 +1,6 @@
 # 19xx - M411 - M411
 
-![wbsps - promo - m411 - 002(1).jpg](wbsps%20-%20promo%20-%20m411%20-%20002(1).jpg)
+![wbsps - promo - m411 - 002(1).jpg](wbsps%20-%20promo%20-%20m411%20-%20002%281%29.jpg)
 
 Product data sheet for the M411 transcription preamplifier with outline and response curve, WBS logo at bottom left.
 

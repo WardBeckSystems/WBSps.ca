@@ -1,6 +1,6 @@
 # 1974 - 450-02-001 - PROGRAM SUMMING AMPLIFIER SCHEMATIC - DRN DM - ISS 7
 
-![WBSps.ca -2021-3-15-19-3-51 (49).jpg](WBSps.ca%20-2021-3-15-19-3-51%20(49).jpg)
+![WBSps.ca -2021-3-15-19-3-51 (49).jpg](WBSps.ca%20-2021-3-15-19-3-51%20%2849%29.jpg)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 # 19xx - M610 - M610
 
-![wbsps - promo - m610 10w amp - 002(1).jpg](wbsps%20-%20promo%20-%20m610%2010w%20amp%20-%20002(1).jpg)
+![wbsps - promo - m610 10w amp - 002(1).jpg](wbsps%20-%20promo%20-%20m610%2010w%20amp%20-%20002%281%29.jpg)
 
 Product data sheet for the M610 amplifier with block diagram and technical data, WBS logo at bottom left.
 

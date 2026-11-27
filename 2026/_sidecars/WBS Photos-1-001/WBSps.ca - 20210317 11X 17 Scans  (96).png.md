@@ -1,6 +1,6 @@
 # 1987 - B 568-03-0 - M568R ESCUTCHEON - DRN DS - ISS 3
 
-![WBSps.ca - 20210317 11X 17 Scans  (96).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(96).png)
+![WBSps.ca - 20210317 11X 17 Scans  (96).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%2896%29.png)
 
 ## Title block
 

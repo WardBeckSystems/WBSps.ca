@@ -1,6 +1,6 @@
 # 1982 - 1202-02-011 - INPUT CHANNEL SCHEMATIC - DRN JP - ENG MRW - ISS 1
 
-![L1202A - P37 - Input Channel Schematic(1).jpg](L1202A%20-%20P37%20-%20Input%20Channel%20Schematic(1).jpg)
+![L1202A - P37 - Input Channel Schematic(1).jpg](L1202A%20-%20P37%20-%20Input%20Channel%20Schematic%281%29.jpg)
 
 ## Title block
 

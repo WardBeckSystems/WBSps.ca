@@ -1,6 +1,6 @@
 # 19xx - 498-02-005 - M498D MONO PRESELECTOR MODULE SCHEMATIC - ISS 1
 
-![WBSps.ca - 20210317 11X 17 Scans  (91).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(91).png)
+![WBSps.ca - 20210317 11X 17 Scans  (91).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%2891%29.png)
 
 Schematic of the M498D mono preselector module.
 

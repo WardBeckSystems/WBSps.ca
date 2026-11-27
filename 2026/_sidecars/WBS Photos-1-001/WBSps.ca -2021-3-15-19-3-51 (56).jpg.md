@@ -1,6 +1,6 @@
 # 1988 - 8212-02-002 - WBS D8212VU S STEREO METERING AND TEST PANEL - DRN AMK - ISS 1
 
-![WBSps.ca -2021-3-15-19-3-51 (56).jpg](WBSps.ca%20-2021-3-15-19-3-51%20(56).jpg)
+![WBSps.ca -2021-3-15-19-3-51 (56).jpg](WBSps.ca%20-2021-3-15-19-3-51%20%2856%29.jpg)
 
 ## Title block
 

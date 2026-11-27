@@ -6,1156 +6,1156 @@
 	url = https://github.com/WardBeckSystems/Ward-Beck-Audio-Tap.git
 	branch = main
 [submodule "2026/Modules/LOGIC/M201"]
-	path = 2026/Modules/LOGIC/M201
+	path = Products/Modules/LOGIC/M201
 	url = https://github.com/WardBeckSystems/MODULES.LOGIC.M201.git
 [submodule "2026/Modules/AMPLIFIERS/M124"]
-	path = 2026/Modules/AMPLIFIERS/M124
+	path = Products/Modules/AMPLIFIERS/M124
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M124.git
 [submodule "2026/Modules/AMPLIFIERS/M166A"]
-	path = 2026/Modules/AMPLIFIERS/M166A
+	path = Products/Modules/AMPLIFIERS/M166A
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M166A.git
 [submodule "2026/Modules/AMPLIFIERS/M411"]
-	path = 2026/Modules/AMPLIFIERS/M411
+	path = Products/Modules/AMPLIFIERS/M411
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M411.git
 [submodule "2026/Modules/AMPLIFIERS/M450"]
-	path = 2026/Modules/AMPLIFIERS/M450
+	path = Products/Modules/AMPLIFIERS/M450
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M450.git
 [submodule "2026/Modules/AMPLIFIERS/M450A"]
-	path = 2026/Modules/AMPLIFIERS/M450A
+	path = Products/Modules/AMPLIFIERS/M450A
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M450A.git
 [submodule "2026/Modules/AMPLIFIERS/M450B"]
-	path = 2026/Modules/AMPLIFIERS/M450B
+	path = Products/Modules/AMPLIFIERS/M450B
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M450B.git
 [submodule "2026/Modules/AMPLIFIERS/M453"]
-	path = 2026/Modules/AMPLIFIERS/M453
+	path = Products/Modules/AMPLIFIERS/M453
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M453.git
 [submodule "2026/Modules/AMPLIFIERS/M453A"]
-	path = 2026/Modules/AMPLIFIERS/M453A
+	path = Products/Modules/AMPLIFIERS/M453A
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M453A.git
 [submodule "2026/Modules/AMPLIFIERS/M481"]
-	path = 2026/Modules/AMPLIFIERS/M481
+	path = Products/Modules/AMPLIFIERS/M481
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M481.git
 [submodule "2026/Modules/AMPLIFIERS/M605A"]
-	path = 2026/Modules/AMPLIFIERS/M605A
+	path = Products/Modules/AMPLIFIERS/M605A
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M605A.git
 [submodule "2026/Modules/ROUTING/M126"]
-	path = 2026/Modules/ROUTING/M126
+	path = Products/Modules/ROUTING/M126
 	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M126.git
 [submodule "2026/Modules/AMPLIFIERS/M481B"]
-	path = 2026/Modules/AMPLIFIERS/M481B
+	path = Products/Modules/AMPLIFIERS/M481B
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M481B.git
 [submodule "2026/Modules/AMPLIFIERS/M600"]
-	path = 2026/Modules/AMPLIFIERS/M600
+	path = Products/Modules/AMPLIFIERS/M600
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M600.git
 [submodule "2026/Modules/AMPLIFIERS/M604"]
-	path = 2026/Modules/AMPLIFIERS/M604
+	path = Products/Modules/AMPLIFIERS/M604
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M604.git
 [submodule "2026/Modules/AMPLIFIERS/M605"]
-	path = 2026/Modules/AMPLIFIERS/M605
+	path = Products/Modules/AMPLIFIERS/M605
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M605.git
 [submodule "2026/Modules/AMPLIFIERS/M605C"]
-	path = 2026/Modules/AMPLIFIERS/M605C
+	path = Products/Modules/AMPLIFIERS/M605C
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M605C.git
 [submodule "2026/Modules/AMPLIFIERS/M606"]
-	path = 2026/Modules/AMPLIFIERS/M606
+	path = Products/Modules/AMPLIFIERS/M606
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M606.git
 [submodule "2026/Modules/AMPLIFIERS/M608"]
-	path = 2026/Modules/AMPLIFIERS/M608
+	path = Products/Modules/AMPLIFIERS/M608
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M608.git
 [submodule "2026/Modules/AMPLIFIERS/M609"]
-	path = 2026/Modules/AMPLIFIERS/M609
+	path = Products/Modules/AMPLIFIERS/M609
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M609.git
 [submodule "2026/Modules/AMPLIFIERS/M610"]
-	path = 2026/Modules/AMPLIFIERS/M610
+	path = Products/Modules/AMPLIFIERS/M610
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M610.git
 [submodule "2026/Modules/AMPLIFIERS/M612"]
-	path = 2026/Modules/AMPLIFIERS/M612
+	path = Products/Modules/AMPLIFIERS/M612
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M612.git
 [submodule "2026/Modules/AMPLIFIERS/M612A"]
-	path = 2026/Modules/AMPLIFIERS/M612A
+	path = Products/Modules/AMPLIFIERS/M612A
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M612A.git
 [submodule "2026/Modules/AMPLIFIERS/M621"]
-	path = 2026/Modules/AMPLIFIERS/M621
+	path = Products/Modules/AMPLIFIERS/M621
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M621.git
 [submodule "2026/Modules/AMPLIFIERS/M626"]
-	path = 2026/Modules/AMPLIFIERS/M626
+	path = Products/Modules/AMPLIFIERS/M626
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M626.git
 [submodule "2026/Modules/AMPLIFIERS/M629"]
-	path = 2026/Modules/AMPLIFIERS/M629
+	path = Products/Modules/AMPLIFIERS/M629
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M629.git
 [submodule "2026/Modules/AMPLIFIERS/M666"]
-	path = 2026/Modules/AMPLIFIERS/M666
+	path = Products/Modules/AMPLIFIERS/M666
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M666.git
 [submodule "2026/Modules/AMPLIFIERS/M802C"]
-	path = 2026/Modules/AMPLIFIERS/M802C
+	path = Products/Modules/AMPLIFIERS/M802C
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M802C.git
 [submodule "2026/Modules/AMPLIFIERS/M805"]
-	path = 2026/Modules/AMPLIFIERS/M805
+	path = Products/Modules/AMPLIFIERS/M805
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M805.git
 [submodule "2026/Modules/AMPLIFIERS/M806A"]
-	path = 2026/Modules/AMPLIFIERS/M806A
+	path = Products/Modules/AMPLIFIERS/M806A
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M806A.git
 [submodule "2026/Modules/AMPLIFIERS/M807"]
-	path = 2026/Modules/AMPLIFIERS/M807
+	path = Products/Modules/AMPLIFIERS/M807
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M807.git
 [submodule "2026/Modules/AMPLIFIERS/M808"]
-	path = 2026/Modules/AMPLIFIERS/M808
+	path = Products/Modules/AMPLIFIERS/M808
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M808.git
 [submodule "2026/Modules/AMPLIFIERS/M808A"]
-	path = 2026/Modules/AMPLIFIERS/M808A
+	path = Products/Modules/AMPLIFIERS/M808A
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M808A.git
 [submodule "2026/Modules/AMPLIFIERS/M808B"]
-	path = 2026/Modules/AMPLIFIERS/M808B
+	path = Products/Modules/AMPLIFIERS/M808B
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M808B.git
 [submodule "2026/Modules/AMPLIFIERS/M808C"]
-	path = 2026/Modules/AMPLIFIERS/M808C
+	path = Products/Modules/AMPLIFIERS/M808C
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M808C.git
 [submodule "2026/Modules/AMPLIFIERS/M809C"]
-	path = 2026/Modules/AMPLIFIERS/M809C
+	path = Products/Modules/AMPLIFIERS/M809C
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M809C.git
 [submodule "2026/Modules/AMPLIFIERS/M813"]
-	path = 2026/Modules/AMPLIFIERS/M813
+	path = Products/Modules/AMPLIFIERS/M813
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M813.git
 [submodule "2026/Modules/AMPLIFIERS/M815"]
-	path = 2026/Modules/AMPLIFIERS/M815
+	path = Products/Modules/AMPLIFIERS/M815
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M815.git
 [submodule "2026/Modules/AMPLIFIERS/M816"]
-	path = 2026/Modules/AMPLIFIERS/M816
+	path = Products/Modules/AMPLIFIERS/M816
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M816.git
 [submodule "2026/Modules/AMPLIFIERS/M8200"]
-	path = 2026/Modules/AMPLIFIERS/M8200
+	path = Products/Modules/AMPLIFIERS/M8200
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M8200.git
 [submodule "2026/Modules/AMPLIFIERS/M8201"]
-	path = 2026/Modules/AMPLIFIERS/M8201
+	path = Products/Modules/AMPLIFIERS/M8201
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M8201.git
 [submodule "2026/Modules/AMPLIFIERS/M8202"]
-	path = 2026/Modules/AMPLIFIERS/M8202
+	path = Products/Modules/AMPLIFIERS/M8202
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M8202.git
 [submodule "2026/Modules/AMPLIFIERS/M8204"]
-	path = 2026/Modules/AMPLIFIERS/M8204
+	path = Products/Modules/AMPLIFIERS/M8204
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M8204.git
 [submodule "2026/Modules/AMPLIFIERS/M8205"]
-	path = 2026/Modules/AMPLIFIERS/M8205
+	path = Products/Modules/AMPLIFIERS/M8205
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M8205.git
 [submodule "2026/Modules/AMPLIFIERS/M8206"]
-	path = 2026/Modules/AMPLIFIERS/M8206
+	path = Products/Modules/AMPLIFIERS/M8206
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M8206.git
 [submodule "2026/Modules/AMPLIFIERS/M8208"]
-	path = 2026/Modules/AMPLIFIERS/M8208
+	path = Products/Modules/AMPLIFIERS/M8208
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M8208.git
 [submodule "2026/Modules/AMPLIFIERS/M827"]
-	path = 2026/Modules/AMPLIFIERS/M827
+	path = Products/Modules/AMPLIFIERS/M827
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M827.git
 [submodule "2026/Modules/AMPLIFIERS/M845"]
-	path = 2026/Modules/AMPLIFIERS/M845
+	path = Products/Modules/AMPLIFIERS/M845
 	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M845.git
 [submodule "2026/Modules/COMMUNICATION/M494"]
-	path = 2026/Modules/COMMUNICATION/M494
+	path = Products/Modules/COMMUNICATION/M494
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M494.git
 [submodule "2026/Modules/COMMUNICATION/M529"]
-	path = 2026/Modules/COMMUNICATION/M529
+	path = Products/Modules/COMMUNICATION/M529
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M529.git
 [submodule "2026/Modules/COMMUNICATION/M7000"]
-	path = 2026/Modules/COMMUNICATION/M7000
+	path = Products/Modules/COMMUNICATION/M7000
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M7000.git
 [submodule "2026/Modules/COMMUNICATION/M701"]
-	path = 2026/Modules/COMMUNICATION/M701
+	path = Products/Modules/COMMUNICATION/M701
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M701.git
 [submodule "Premote.WBSps.ca"]
 	path = 2026/Premo
 	url = https://github.com/WardBeckSystems/Premote.WBSps.ca.git
 [submodule "2026/Modules/COMMUNICATION/M7012C"]
-	path = 2026/Modules/COMMUNICATION/M7012C
+	path = Products/Modules/COMMUNICATION/M7012C
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M7012C.git
 [submodule "2026/Modules/COMMUNICATION/M701D"]
-	path = 2026/Modules/COMMUNICATION/M701D
+	path = Products/Modules/COMMUNICATION/M701D
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M701D.git
 [submodule "2026/Modules/COMMUNICATION/M702"]
-	path = 2026/Modules/COMMUNICATION/M702
+	path = Products/Modules/COMMUNICATION/M702
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M702.git
 [submodule "2026/Modules/COMMUNICATION/M702D"]
-	path = 2026/Modules/COMMUNICATION/M702D
+	path = Products/Modules/COMMUNICATION/M702D
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M702D.git
 [submodule "2026/Modules/COMMUNICATION/M703"]
-	path = 2026/Modules/COMMUNICATION/M703
+	path = Products/Modules/COMMUNICATION/M703
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M703.git
 [submodule "2026/Modules/COMMUNICATION/M703B"]
-	path = 2026/Modules/COMMUNICATION/M703B
+	path = Products/Modules/COMMUNICATION/M703B
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M703B.git
 [submodule "2026/Modules/COMMUNICATION/M703D"]
-	path = 2026/Modules/COMMUNICATION/M703D
+	path = Products/Modules/COMMUNICATION/M703D
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M703D.git
 [submodule "2026/Modules/COMMUNICATION/M712"]
-	path = 2026/Modules/COMMUNICATION/M712
+	path = Products/Modules/COMMUNICATION/M712
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M712.git
 [submodule "2026/Modules/COMMUNICATION/M712B"]
-	path = 2026/Modules/COMMUNICATION/M712B
+	path = Products/Modules/COMMUNICATION/M712B
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M712B.git
 [submodule "2026/Modules/COMMUNICATION/M718"]
-	path = 2026/Modules/COMMUNICATION/M718
+	path = Products/Modules/COMMUNICATION/M718
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M718.git
 [submodule "2026/Modules/COMMUNICATION/M718A"]
-	path = 2026/Modules/COMMUNICATION/M718A
+	path = Products/Modules/COMMUNICATION/M718A
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M718A.git
 [submodule "2026/Modules/COMMUNICATION/M719"]
-	path = 2026/Modules/COMMUNICATION/M719
+	path = Products/Modules/COMMUNICATION/M719
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M719.git
 [submodule "2026/Modules/COMMUNICATION/M724"]
-	path = 2026/Modules/COMMUNICATION/M724
+	path = Products/Modules/COMMUNICATION/M724
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M724.git
 [submodule "2026/Modules/COMMUNICATION/M740"]
-	path = 2026/Modules/COMMUNICATION/M740
+	path = Products/Modules/COMMUNICATION/M740
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M740.git
 [submodule "2026/Modules/COMMUNICATION/M742"]
-	path = 2026/Modules/COMMUNICATION/M742
+	path = Products/Modules/COMMUNICATION/M742
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M742.git
 [submodule "2026/Modules/COMMUNICATION/M743"]
-	path = 2026/Modules/COMMUNICATION/M743
+	path = Products/Modules/COMMUNICATION/M743
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M743.git
 [submodule "2026/Modules/COMMUNICATION/M745"]
-	path = 2026/Modules/COMMUNICATION/M745
+	path = Products/Modules/COMMUNICATION/M745
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M745.git
 [submodule "2026/Modules/COMMUNICATION/M748"]
-	path = 2026/Modules/COMMUNICATION/M748
+	path = Products/Modules/COMMUNICATION/M748
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M748.git
 [submodule "2026/Modules/COMMUNICATION/M749"]
-	path = 2026/Modules/COMMUNICATION/M749
+	path = Products/Modules/COMMUNICATION/M749
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M749.git
 [submodule "2026/Modules/COMMUNICATION/M750"]
-	path = 2026/Modules/COMMUNICATION/M750
+	path = Products/Modules/COMMUNICATION/M750
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M750.git
 [submodule "2026/Modules/COMMUNICATION/M751"]
-	path = 2026/Modules/COMMUNICATION/M751
+	path = Products/Modules/COMMUNICATION/M751
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M751.git
 [submodule "2026/Modules/COMMUNICATION/M751B"]
-	path = 2026/Modules/COMMUNICATION/M751B
+	path = Products/Modules/COMMUNICATION/M751B
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M751B.git
 [submodule "2026/Modules/COMMUNICATION/M752"]
-	path = 2026/Modules/COMMUNICATION/M752
+	path = Products/Modules/COMMUNICATION/M752
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M752.git
 [submodule "2026/Modules/COMMUNICATION/M753"]
-	path = 2026/Modules/COMMUNICATION/M753
+	path = Products/Modules/COMMUNICATION/M753
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M753.git
 [submodule "2026/Modules/COMMUNICATION/M757"]
-	path = 2026/Modules/COMMUNICATION/M757
+	path = Products/Modules/COMMUNICATION/M757
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M757.git
 [submodule "2026/Modules/COMMUNICATION/M770"]
-	path = 2026/Modules/COMMUNICATION/M770
+	path = Products/Modules/COMMUNICATION/M770
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M770.git
 [submodule "2026/Modules/COMMUNICATION/M771"]
-	path = 2026/Modules/COMMUNICATION/M771
+	path = Products/Modules/COMMUNICATION/M771
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M771.git
 [submodule "2026/Modules/COMMUNICATION/M772"]
-	path = 2026/Modules/COMMUNICATION/M772
+	path = Products/Modules/COMMUNICATION/M772
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M772.git
 [submodule "2026/Modules/COMMUNICATION/M773"]
-	path = 2026/Modules/COMMUNICATION/M773
+	path = Products/Modules/COMMUNICATION/M773
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M773.git
 [submodule "2026/Modules/COMMUNICATION/M774"]
-	path = 2026/Modules/COMMUNICATION/M774
+	path = Products/Modules/COMMUNICATION/M774
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M774.git
 [submodule "2026/Modules/COMMUNICATION/M777"]
-	path = 2026/Modules/COMMUNICATION/M777
+	path = Products/Modules/COMMUNICATION/M777
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M777.git
 [submodule "2026/Modules/COMMUNICATION/M780"]
-	path = 2026/Modules/COMMUNICATION/M780
+	path = Products/Modules/COMMUNICATION/M780
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M780.git
 [submodule "2026/Modules/COMMUNICATION/M7800"]
-	path = 2026/Modules/COMMUNICATION/M7800
+	path = Products/Modules/COMMUNICATION/M7800
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M7800.git
 [submodule "2026/Modules/COMMUNICATION/M7830"]
-	path = 2026/Modules/COMMUNICATION/M7830
+	path = Products/Modules/COMMUNICATION/M7830
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M7830.git
 [submodule "2026/Modules/COMMUNICATION/M7840"]
-	path = 2026/Modules/COMMUNICATION/M7840
+	path = Products/Modules/COMMUNICATION/M7840
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M7840.git
 [submodule "2026/Modules/COMMUNICATION/M7880"]
-	path = 2026/Modules/COMMUNICATION/M7880
+	path = Products/Modules/COMMUNICATION/M7880
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M7880.git
 [submodule "2026/Modules/COMMUNICATION/M7880DA"]
-	path = 2026/Modules/COMMUNICATION/M7880DA
+	path = Products/Modules/COMMUNICATION/M7880DA
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M7880DA.git
 [submodule "2026/Modules/COMMUNICATION/M7880G"]
-	path = 2026/Modules/COMMUNICATION/M7880G
+	path = Products/Modules/COMMUNICATION/M7880G
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M7880G.git
 [submodule "2026/Modules/COMMUNICATION/M7880H"]
-	path = 2026/Modules/COMMUNICATION/M7880H
+	path = Products/Modules/COMMUNICATION/M7880H
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M7880H.git
 [submodule "2026/Modules/COMMUNICATION/M7884"]
-	path = 2026/Modules/COMMUNICATION/M7884
+	path = Products/Modules/COMMUNICATION/M7884
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M7884.git
 [submodule "2026/Modules/COMMUNICATION/M7885A"]
-	path = 2026/Modules/COMMUNICATION/M7885A
+	path = Products/Modules/COMMUNICATION/M7885A
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M7885A.git
 [submodule "2026/Modules/COMMUNICATION/M812B"]
-	path = 2026/Modules/COMMUNICATION/M812B
+	path = Products/Modules/COMMUNICATION/M812B
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M812B.git
 [submodule "2026/Modules/COMPUTERS/M5200"]
-	path = 2026/Modules/COMPUTERS/M5200
+	path = Products/Modules/COMPUTERS/M5200
 	url = https://github.com/WardBeckSystems/MODULES.COMPUTERS.M5200.git
 [submodule "2026/Modules/COMPUTERS/M5201"]
-	path = 2026/Modules/COMPUTERS/M5201
+	path = Products/Modules/COMPUTERS/M5201
 	url = https://github.com/WardBeckSystems/MODULES.COMPUTERS.M5201.git
 [submodule "2026/Modules/COMPUTERS/M524"]
-	path = 2026/Modules/COMPUTERS/M524
+	path = Products/Modules/COMPUTERS/M524
 	url = https://github.com/WardBeckSystems/MODULES.COMPUTERS.M524.git
 [submodule "2026/Modules/COMPUTERS/M524A"]
-	path = 2026/Modules/COMPUTERS/M524A
+	path = Products/Modules/COMPUTERS/M524A
 	url = https://github.com/WardBeckSystems/MODULES.COMPUTERS.M524A.git
 [submodule "2026/Modules/COMPUTERS/M526"]
-	path = 2026/Modules/COMPUTERS/M526
+	path = Products/Modules/COMPUTERS/M526
 	url = https://github.com/WardBeckSystems/MODULES.COMPUTERS.M526.git
 [submodule "2026/Modules/DYNAMICS/M406"]
-	path = 2026/Modules/DYNAMICS/M406
+	path = Products/Modules/DYNAMICS/M406
 	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M406.git
 [submodule "2026/Modules/DYNAMICS/M406A"]
-	path = 2026/Modules/DYNAMICS/M406A
+	path = Products/Modules/DYNAMICS/M406A
 	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M406A.git
 [submodule "2026/Modules/DYNAMICS/M406B"]
-	path = 2026/Modules/DYNAMICS/M406B
+	path = Products/Modules/DYNAMICS/M406B
 	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M406B.git
 [submodule "2026/Modules/DYNAMICS/M406C"]
-	path = 2026/Modules/DYNAMICS/M406C
+	path = Products/Modules/DYNAMICS/M406C
 	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M406C.git
 [submodule "2026/Modules/DYNAMICS/M406M"]
-	path = 2026/Modules/DYNAMICS/M406M
+	path = Products/Modules/DYNAMICS/M406M
 	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M406M.git
 [submodule "2026/Modules/DYNAMICS/M415"]
-	path = 2026/Modules/DYNAMICS/M415
+	path = Products/Modules/DYNAMICS/M415
 	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M415.git
 [submodule "2026/Modules/DYNAMICS/M465"]
-	path = 2026/Modules/DYNAMICS/M465
+	path = Products/Modules/DYNAMICS/M465
 	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M465.git
 [submodule "2026/Modules/DYNAMICS/M465A"]
-	path = 2026/Modules/DYNAMICS/M465A
+	path = Products/Modules/DYNAMICS/M465A
 	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M465A.git
 [submodule "2026/Modules/DYNAMICS/M465B"]
-	path = 2026/Modules/DYNAMICS/M465B
+	path = Products/Modules/DYNAMICS/M465B
 	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M465B.git
 [submodule "2026/Modules/DYNAMICS/M466"]
-	path = 2026/Modules/DYNAMICS/M466
+	path = Products/Modules/DYNAMICS/M466
 	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M466.git
 [submodule "2026/Modules/DYNAMICS/M466C"]
-	path = 2026/Modules/DYNAMICS/M466C
+	path = Products/Modules/DYNAMICS/M466C
 	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M466C.git
 [submodule "2026/Modules/DYNAMICS/M466M"]
-	path = 2026/Modules/DYNAMICS/M466M
+	path = Products/Modules/DYNAMICS/M466M
 	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M466M.git
 [submodule "2026/Modules/DYNAMICS/M467"]
-	path = 2026/Modules/DYNAMICS/M467
+	path = Products/Modules/DYNAMICS/M467
 	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M467.git
 [submodule "2026/Modules/DYNAMICS/M8207"]
-	path = 2026/Modules/DYNAMICS/M8207
+	path = Products/Modules/DYNAMICS/M8207
 	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M8207.git
 [submodule "2026/Modules/FILTERS/M402"]
-	path = 2026/Modules/FILTERS/M402
+	path = Products/Modules/FILTERS/M402
 	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M402.git
 [submodule "2026/Modules/FILTERS/M402A"]
-	path = 2026/Modules/FILTERS/M402A
+	path = Products/Modules/FILTERS/M402A
 	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M402A.git
 [submodule "2026/Modules/FILTERS/M402B"]
-	path = 2026/Modules/FILTERS/M402B
+	path = Products/Modules/FILTERS/M402B
 	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M402B.git
 [submodule "2026/Modules/FILTERS/M404"]
-	path = 2026/Modules/FILTERS/M404
+	path = Products/Modules/FILTERS/M404
 	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M404.git
 [submodule "2026/Modules/FILTERS/M404A"]
-	path = 2026/Modules/FILTERS/M404A
+	path = Products/Modules/FILTERS/M404A
 	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M404A.git
 [submodule "2026/Modules/FILTERS/M462"]
-	path = 2026/Modules/FILTERS/M462
+	path = Products/Modules/FILTERS/M462
 	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M462.git
 [submodule "2026/Modules/FILTERS/M462A"]
-	path = 2026/Modules/FILTERS/M462A
+	path = Products/Modules/FILTERS/M462A
 	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M462A.git
 [submodule "2026/Modules/FILTERS/M462B"]
-	path = 2026/Modules/FILTERS/M462B
+	path = Products/Modules/FILTERS/M462B
 	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M462B.git
 [submodule "2026/Modules/FILTERS/M462C"]
-	path = 2026/Modules/FILTERS/M462C
+	path = Products/Modules/FILTERS/M462C
 	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M462C.git
 [submodule "2026/Modules/FILTERS/M464"]
-	path = 2026/Modules/FILTERS/M464
+	path = Products/Modules/FILTERS/M464
 	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M464.git
 [submodule "2026/Modules/FILTERS/M472"]
-	path = 2026/Modules/FILTERS/M472
+	path = Products/Modules/FILTERS/M472
 	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M472.git
 [submodule "2026/Modules/FILTERS/M472A"]
-	path = 2026/Modules/FILTERS/M472A
+	path = Products/Modules/FILTERS/M472A
 	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M472A.git
 [submodule "2026/Modules/FILTERS/M522"]
-	path = 2026/Modules/FILTERS/M522
+	path = Products/Modules/FILTERS/M522
 	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M522.git
 [submodule "2026/Modules/FILTERS/M522B"]
-	path = 2026/Modules/FILTERS/M522B
+	path = Products/Modules/FILTERS/M522B
 	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M522B.git
 [submodule "2026/Modules/FILTERS/M522C"]
-	path = 2026/Modules/FILTERS/M522C
+	path = Products/Modules/FILTERS/M522C
 	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M522C.git
 [submodule "2026/Modules/FILTERS/M562C"]
-	path = 2026/Modules/FILTERS/M562C
+	path = Products/Modules/FILTERS/M562C
 	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M562C.git
 [submodule "2026/Modules/FILTERS/M922"]
-	path = 2026/Modules/FILTERS/M922
+	path = Products/Modules/FILTERS/M922
 	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M922.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M441"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M441
+	path = Products/Modules/INPUT-PRE-AMPS/M441
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M441.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M441F"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M441F
+	path = Products/Modules/INPUT-PRE-AMPS/M441F
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M441F.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M441M"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M441M
+	path = Products/Modules/INPUT-PRE-AMPS/M441M
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M441M.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M460"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M460
+	path = Products/Modules/INPUT-PRE-AMPS/M460
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M460A"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M460A
+	path = Products/Modules/INPUT-PRE-AMPS/M460A
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460A.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M460B"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M460B
+	path = Products/Modules/INPUT-PRE-AMPS/M460B
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460B.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M460C"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M460C
+	path = Products/Modules/INPUT-PRE-AMPS/M460C
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460C.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M460E"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M460E
+	path = Products/Modules/INPUT-PRE-AMPS/M460E
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460E.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M460F"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M460F
+	path = Products/Modules/INPUT-PRE-AMPS/M460F
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460F.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M460K"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M460K
+	path = Products/Modules/INPUT-PRE-AMPS/M460K
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460K.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M460L"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M460L
+	path = Products/Modules/INPUT-PRE-AMPS/M460L
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460L.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M460LA"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M460LA
+	path = Products/Modules/INPUT-PRE-AMPS/M460LA
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460LA.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M460M"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M460M
+	path = Products/Modules/INPUT-PRE-AMPS/M460M
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460M.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M460T"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M460T
+	path = Products/Modules/INPUT-PRE-AMPS/M460T
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460T.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M461"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M461
+	path = Products/Modules/INPUT-PRE-AMPS/M461
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M461.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M461M"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M461M
+	path = Products/Modules/INPUT-PRE-AMPS/M461M
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M461M.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M470"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M470
+	path = Products/Modules/INPUT-PRE-AMPS/M470
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M470.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M470A"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M470A
+	path = Products/Modules/INPUT-PRE-AMPS/M470A
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M470A.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M470C"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M470C
+	path = Products/Modules/INPUT-PRE-AMPS/M470C
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M470C.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M470D"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M470D
+	path = Products/Modules/INPUT-PRE-AMPS/M470D
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M470D.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M470E"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M470E
+	path = Products/Modules/INPUT-PRE-AMPS/M470E
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M470E.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M471"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M471
+	path = Products/Modules/INPUT-PRE-AMPS/M471
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M471.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M471A"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M471A
+	path = Products/Modules/INPUT-PRE-AMPS/M471A
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M471A.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M471C"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M471C
+	path = Products/Modules/INPUT-PRE-AMPS/M471C
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M471C.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M480"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M480
+	path = Products/Modules/INPUT-PRE-AMPS/M480
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M480.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M480A"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M480A
+	path = Products/Modules/INPUT-PRE-AMPS/M480A
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M480A.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M480B"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M480B
+	path = Products/Modules/INPUT-PRE-AMPS/M480B
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M480B.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M480C"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M480C
+	path = Products/Modules/INPUT-PRE-AMPS/M480C
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M480C.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M490"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M490
+	path = Products/Modules/INPUT-PRE-AMPS/M490
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M490A"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M490A
+	path = Products/Modules/INPUT-PRE-AMPS/M490A
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490A.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M490B"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M490B
+	path = Products/Modules/INPUT-PRE-AMPS/M490B
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490B.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M490C"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M490C
+	path = Products/Modules/INPUT-PRE-AMPS/M490C
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490C.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M490D"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M490D
+	path = Products/Modules/INPUT-PRE-AMPS/M490D
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490D.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M490E"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M490E
+	path = Products/Modules/INPUT-PRE-AMPS/M490E
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490E.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M490F"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M490F
+	path = Products/Modules/INPUT-PRE-AMPS/M490F
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490F.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M490G"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M490G
+	path = Products/Modules/INPUT-PRE-AMPS/M490G
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490G.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M490H"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M490H
+	path = Products/Modules/INPUT-PRE-AMPS/M490H
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490H.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M490J"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M490J
+	path = Products/Modules/INPUT-PRE-AMPS/M490J
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490J.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M490K"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M490K
+	path = Products/Modules/INPUT-PRE-AMPS/M490K
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490K.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M490L"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M490L
+	path = Products/Modules/INPUT-PRE-AMPS/M490L
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490L.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M490M"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M490M
+	path = Products/Modules/INPUT-PRE-AMPS/M490M
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490M.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M490N"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M490N
+	path = Products/Modules/INPUT-PRE-AMPS/M490N
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490N.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M490T"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M490T
+	path = Products/Modules/INPUT-PRE-AMPS/M490T
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490T.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M520"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M520
+	path = Products/Modules/INPUT-PRE-AMPS/M520
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M520.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M5200A"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M5200A
+	path = Products/Modules/INPUT-PRE-AMPS/M5200A
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M5200A.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M520A"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M520A
+	path = Products/Modules/INPUT-PRE-AMPS/M520A
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M520A.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M520K"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M520K
+	path = Products/Modules/INPUT-PRE-AMPS/M520K
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M520K.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M521"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M521
+	path = Products/Modules/INPUT-PRE-AMPS/M521
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M521.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M521A"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M521A
+	path = Products/Modules/INPUT-PRE-AMPS/M521A
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M521A.git
 [submodule "2026/Modules/LOGIC/M202"]
-	path = 2026/Modules/LOGIC/M202
+	path = Products/Modules/LOGIC/M202
 	url = https://github.com/WardBeckSystems/MODULES.LOGIC.M202.git
 [submodule "2026/Modules/METER/M401"]
-	path = 2026/Modules/METER/M401
+	path = Products/Modules/METER/M401
 	url = https://github.com/WardBeckSystems/MODULES.METER.M401.git
 [submodule "Ward-Beck-Plugin-Core"]
 	path = Ward-Beck-Plugin-Core
 	url = https://github.com/WardBeckSystems/Ward-Beck-Plugin-Core.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M460D"]
-	path = 2026/Modules/INPUT-PRE-AMPS/M460D
+	path = Products/Modules/INPUT-PRE-AMPS/M460D
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460D.git
 [submodule "2026/Modules/METER/M405"]
-	path = 2026/Modules/METER/M405
+	path = Products/Modules/METER/M405
 	url = https://github.com/WardBeckSystems/MODULES.METER.M405.git
 [submodule "2026/Modules/METER/M405C"]
-	path = 2026/Modules/METER/M405C
+	path = Products/Modules/METER/M405C
 	url = https://github.com/WardBeckSystems/MODULES.METER.M405C.git
 [submodule "2026/Modules/METER/M405D"]
-	path = 2026/Modules/METER/M405D
+	path = Products/Modules/METER/M405D
 	url = https://github.com/WardBeckSystems/MODULES.METER.M405D.git
 [submodule "2026/Modules/METER/M405F"]
-	path = 2026/Modules/METER/M405F
+	path = Products/Modules/METER/M405F
 	url = https://github.com/WardBeckSystems/MODULES.METER.M405F.git
 [submodule "2026/Modules/METER/M405M"]
-	path = 2026/Modules/METER/M405M
+	path = Products/Modules/METER/M405M
 	url = https://github.com/WardBeckSystems/MODULES.METER.M405M.git
 [submodule "2026/Modules/METER/M405P"]
-	path = 2026/Modules/METER/M405P
+	path = Products/Modules/METER/M405P
 	url = https://github.com/WardBeckSystems/MODULES.METER.M405P.git
 [submodule "2026/Modules/METER/M405PSS"]
-	path = 2026/Modules/METER/M405PSS
+	path = Products/Modules/METER/M405PSS
 	url = https://github.com/WardBeckSystems/MODULES.METER.M405PSS.git
 [submodule "2026/Modules/METER/M433"]
-	path = 2026/Modules/METER/M433
+	path = Products/Modules/METER/M433
 	url = https://github.com/WardBeckSystems/MODULES.METER.M433.git
 [submodule "2026/Modules/METER/M435"]
-	path = 2026/Modules/METER/M435
+	path = Products/Modules/METER/M435
 	url = https://github.com/WardBeckSystems/MODULES.METER.M435.git
 [submodule "2026/Modules/METER/M436L"]
-	path = 2026/Modules/METER/M436L
+	path = Products/Modules/METER/M436L
 	url = https://github.com/WardBeckSystems/MODULES.METER.M436L.git
 [submodule "2026/Modules/METER/M445"]
-	path = 2026/Modules/METER/M445
+	path = Products/Modules/METER/M445
 	url = https://github.com/WardBeckSystems/MODULES.METER.M445.git
 [submodule "2026/Modules/METER/RM401"]
-	path = 2026/Modules/METER/RM401
+	path = Products/Modules/METER/RM401
 	url = https://github.com/WardBeckSystems/MODULES.METER.RM401.git
 [submodule "2026/Modules/METER/RM405"]
-	path = 2026/Modules/METER/RM405
+	path = Products/Modules/METER/RM405
 	url = https://github.com/WardBeckSystems/MODULES.METER.RM405.git
 [submodule "2026/Modules/MONITORING/M412"]
-	path = 2026/Modules/MONITORING/M412
+	path = Products/Modules/MONITORING/M412
 	url = https://github.com/WardBeckSystems/MODULES.MONITORING.M412.git
 [submodule "2026/Modules/MONITORING/M413"]
-	path = 2026/Modules/MONITORING/M413
+	path = Products/Modules/MONITORING/M413
 	url = https://github.com/WardBeckSystems/MODULES.MONITORING.M413.git
 [submodule "2026/Modules/MONITORING/M451"]
-	path = 2026/Modules/MONITORING/M451
+	path = Products/Modules/MONITORING/M451
 	url = https://github.com/WardBeckSystems/MODULES.MONITORING.M451.git
 [submodule "2026/Modules/MONITORING/M452"]
-	path = 2026/Modules/MONITORING/M452
+	path = Products/Modules/MONITORING/M452
 	url = https://github.com/WardBeckSystems/MODULES.MONITORING.M452.git
 [submodule "2026/Modules/MONITORING/M475"]
-	path = 2026/Modules/MONITORING/M475
+	path = Products/Modules/MONITORING/M475
 	url = https://github.com/WardBeckSystems/MODULES.MONITORING.M475.git
 [submodule "2026/Modules/MONITORING/M475A"]
-	path = 2026/Modules/MONITORING/M475A
+	path = Products/Modules/MONITORING/M475A
 	url = https://github.com/WardBeckSystems/MODULES.MONITORING.M475A.git
 [submodule "2026/Modules/MONITORING/M482B"]
-	path = 2026/Modules/MONITORING/M482B
+	path = Products/Modules/MONITORING/M482B
 	url = https://github.com/WardBeckSystems/MODULES.MONITORING.M482B.git
 [submodule "2026/Modules/MONITORING/M495"]
-	path = 2026/Modules/MONITORING/M495
+	path = Products/Modules/MONITORING/M495
 	url = https://github.com/WardBeckSystems/MODULES.MONITORING.M495.git
 [submodule "2026/Modules/MONITORING/M525"]
-	path = 2026/Modules/MONITORING/M525
+	path = Products/Modules/MONITORING/M525
 	url = https://github.com/WardBeckSystems/MODULES.MONITORING.M525.git
 [submodule "2026/Modules/MONITORING/M8203"]
-	path = 2026/Modules/MONITORING/M8203
+	path = Products/Modules/MONITORING/M8203
 	url = https://github.com/WardBeckSystems/MODULES.MONITORING.M8203.git
 [submodule "2026/Modules/POWER/M128"]
-	path = 2026/Modules/POWER/M128
+	path = Products/Modules/POWER/M128
 	url = https://github.com/WardBeckSystems/MODULES.POWER.M128.git
 [submodule "2026/Modules/POWER/M207"]
-	path = 2026/Modules/POWER/M207
+	path = Products/Modules/POWER/M207
 	url = https://github.com/WardBeckSystems/MODULES.POWER.M207.git
 [submodule "2026/Modules/POWER/M485B"]
-	path = 2026/Modules/POWER/M485B
+	path = Products/Modules/POWER/M485B
 	url = https://github.com/WardBeckSystems/MODULES.POWER.M485B.git
 [submodule "2026/Modules/POWER/M625"]
-	path = 2026/Modules/POWER/M625
+	path = Products/Modules/POWER/M625
 	url = https://github.com/WardBeckSystems/MODULES.POWER.M625.git
 [submodule "2026/Modules/POWER/M648"]
-	path = 2026/Modules/POWER/M648
+	path = Products/Modules/POWER/M648
 	url = https://github.com/WardBeckSystems/MODULES.POWER.M648.git
 [submodule "2026/Modules/ROUTING/M498"]
-	path = 2026/Modules/ROUTING/M498
+	path = Products/Modules/ROUTING/M498
 	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M498.git
 [submodule "2026/Modules/ROUTING/M568N"]
-	path = 2026/Modules/ROUTING/M568N
+	path = Products/Modules/ROUTING/M568N
 	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M568N.git
 [submodule "2026/Modules/ROUTING/M568Q"]
-	path = 2026/Modules/ROUTING/M568Q
+	path = Products/Modules/ROUTING/M568Q
 	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M568Q.git
 [submodule "2026/Modules/SUMMING/M463"]
-	path = 2026/Modules/SUMMING/M463
+	path = Products/Modules/SUMMING/M463
 	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M463.git
 [submodule "2026/Modules/SUMMING/M463A"]
-	path = 2026/Modules/SUMMING/M463A
+	path = Products/Modules/SUMMING/M463A
 	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M463A.git
 [submodule "2026/Modules/SUMMING/M463AB"]
-	path = 2026/Modules/SUMMING/M463AB
+	path = Products/Modules/SUMMING/M463AB
 	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M463AB.git
 [submodule "2026/Modules/SUMMING/M463AC"]
-	path = 2026/Modules/SUMMING/M463AC
+	path = Products/Modules/SUMMING/M463AC
 	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M463AC.git
 [submodule "2026/Modules/SUMMING/M463B"]
-	path = 2026/Modules/SUMMING/M463B
+	path = Products/Modules/SUMMING/M463B
 	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M463B.git
 [submodule "2026/Modules/SUMMING/M463J"]
-	path = 2026/Modules/SUMMING/M463J
+	path = Products/Modules/SUMMING/M463J
 	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M463J.git
 [submodule "2026/Modules/SUMMING/M463K"]
-	path = 2026/Modules/SUMMING/M463K
+	path = Products/Modules/SUMMING/M463K
 	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M463K.git
 [submodule "2026/Modules/SUMMING/M463L"]
-	path = 2026/Modules/SUMMING/M463L
+	path = Products/Modules/SUMMING/M463L
 	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M463L.git
 [submodule "2026/Modules/SUMMING/M463LA"]
-	path = 2026/Modules/SUMMING/M463LA
+	path = Products/Modules/SUMMING/M463LA
 	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M463LA.git
 [submodule "2026/Modules/SUMMING/M473"]
-	path = 2026/Modules/SUMMING/M473
+	path = Products/Modules/SUMMING/M473
 	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M473.git
 [submodule "2026/Modules/SUMMING/M473A"]
-	path = 2026/Modules/SUMMING/M473A
+	path = Products/Modules/SUMMING/M473A
 	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M473A.git
 [submodule "2026/Modules/SUMMING/M473B"]
-	path = 2026/Modules/SUMMING/M473B
+	path = Products/Modules/SUMMING/M473B
 	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M473B.git
 [submodule "2026/Modules/SUMMING/M477"]
-	path = 2026/Modules/SUMMING/M477
+	path = Products/Modules/SUMMING/M477
 	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M477.git
 [submodule "2026/Modules/SUMMING/M479"]
-	path = 2026/Modules/SUMMING/M479
+	path = Products/Modules/SUMMING/M479
 	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M479.git
 [submodule "2026/Modules/SUMMING/M484"]
-	path = 2026/Modules/SUMMING/M484
+	path = Products/Modules/SUMMING/M484
 	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M484.git
 [submodule "2026/Modules/SUMMING/M487"]
-	path = 2026/Modules/SUMMING/M487
+	path = Products/Modules/SUMMING/M487
 	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M487.git
 [submodule "2026/Modules/SUMMING/M497"]
-	path = 2026/Modules/SUMMING/M497
+	path = Products/Modules/SUMMING/M497
 	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M497.git
 [submodule "2026/Modules/SUMMING/M497A"]
-	path = 2026/Modules/SUMMING/M497A
+	path = Products/Modules/SUMMING/M497A
 	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M497A.git
 [submodule "2026/Modules/SUMMING/M497B"]
-	path = 2026/Modules/SUMMING/M497B
+	path = Products/Modules/SUMMING/M497B
 	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M497B.git
 [submodule "2026/Modules/SUMMING/M497C"]
-	path = 2026/Modules/SUMMING/M497C
+	path = Products/Modules/SUMMING/M497C
 	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M497C.git
 [submodule "2026/Modules/SUMMING/M497D"]
-	path = 2026/Modules/SUMMING/M497D
+	path = Products/Modules/SUMMING/M497D
 	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M497D.git
 [submodule "2026/Modules/SUMMING/M523"]
-	path = 2026/Modules/SUMMING/M523
+	path = Products/Modules/SUMMING/M523
 	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M523.git
 [submodule "2026/Modules/SUMMING/M527"]
-	path = 2026/Modules/SUMMING/M527
+	path = Products/Modules/SUMMING/M527
 	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M527.git
 [submodule "2026/Modules/SUMMING/M528"]
-	path = 2026/Modules/SUMMING/M528
+	path = Products/Modules/SUMMING/M528
 	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M528.git
 [submodule "2026/Modules/UNSORTED/M020"]
-	path = 2026/Modules/UNSORTED/M020
+	path = Products/Modules/UNSORTED/M020
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M020.git
 [submodule "2026/Modules/UNSORTED/M101"]
-	path = 2026/Modules/UNSORTED/M101
+	path = Products/Modules/UNSORTED/M101
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M101.git
 [submodule "2026/Modules/UNSORTED/M107"]
-	path = 2026/Modules/UNSORTED/M107
+	path = Products/Modules/UNSORTED/M107
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M107.git
 [submodule "2026/Modules/UNSORTED/M110"]
-	path = 2026/Modules/UNSORTED/M110
+	path = Products/Modules/UNSORTED/M110
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M110.git
 [submodule "2026/Modules/UNSORTED/M117"]
-	path = 2026/Modules/UNSORTED/M117
+	path = Products/Modules/UNSORTED/M117
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M117.git
 [submodule "2026/Modules/UNSORTED/M121"]
-	path = 2026/Modules/UNSORTED/M121
+	path = Products/Modules/UNSORTED/M121
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M121.git
 [submodule "2026/Modules/UNSORTED/M122"]
-	path = 2026/Modules/UNSORTED/M122
+	path = Products/Modules/UNSORTED/M122
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M122.git
 [submodule "2026/Modules/UNSORTED/M129"]
-	path = 2026/Modules/UNSORTED/M129
+	path = Products/Modules/UNSORTED/M129
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M129.git
 [submodule "2026/Modules/UNSORTED/M136"]
-	path = 2026/Modules/UNSORTED/M136
+	path = Products/Modules/UNSORTED/M136
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M136.git
 [submodule "2026/Modules/UNSORTED/M144"]
-	path = 2026/Modules/UNSORTED/M144
+	path = Products/Modules/UNSORTED/M144
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M144.git
 [submodule "2026/Modules/UNSORTED/M146"]
-	path = 2026/Modules/UNSORTED/M146
+	path = Products/Modules/UNSORTED/M146
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M146.git
 [submodule "2026/Modules/UNSORTED/M147"]
-	path = 2026/Modules/UNSORTED/M147
+	path = Products/Modules/UNSORTED/M147
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M147.git
 [submodule "2026/Modules/UNSORTED/M150"]
-	path = 2026/Modules/UNSORTED/M150
+	path = Products/Modules/UNSORTED/M150
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M150.git
 [submodule "2026/Modules/UNSORTED/M152"]
-	path = 2026/Modules/UNSORTED/M152
+	path = Products/Modules/UNSORTED/M152
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M152.git
 [submodule "2026/Modules/UNSORTED/M158"]
-	path = 2026/Modules/UNSORTED/M158
+	path = Products/Modules/UNSORTED/M158
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M158.git
 [submodule "2026/Modules/UNSORTED/M168"]
-	path = 2026/Modules/UNSORTED/M168
+	path = Products/Modules/UNSORTED/M168
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M168.git
 [submodule "2026/Modules/UNSORTED/M171"]
-	path = 2026/Modules/UNSORTED/M171
+	path = Products/Modules/UNSORTED/M171
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M171.git
 [submodule "2026/Modules/UNSORTED/M173"]
-	path = 2026/Modules/UNSORTED/M173
+	path = Products/Modules/UNSORTED/M173
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M173.git
 [submodule "2026/Modules/UNSORTED/M174"]
-	path = 2026/Modules/UNSORTED/M174
+	path = Products/Modules/UNSORTED/M174
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M174.git
 [submodule "2026/Modules/UNSORTED/M175"]
-	path = 2026/Modules/UNSORTED/M175
+	path = Products/Modules/UNSORTED/M175
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M175.git
 [submodule "2026/Modules/UNSORTED/M178"]
-	path = 2026/Modules/UNSORTED/M178
+	path = Products/Modules/UNSORTED/M178
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M178.git
 [submodule "2026/Modules/UNSORTED/M181"]
-	path = 2026/Modules/UNSORTED/M181
+	path = Products/Modules/UNSORTED/M181
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M181.git
 [submodule "2026/Modules/UNSORTED/M182"]
-	path = 2026/Modules/UNSORTED/M182
+	path = Products/Modules/UNSORTED/M182
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M182.git
 [submodule "2026/Modules/UNSORTED/M203"]
-	path = 2026/Modules/UNSORTED/M203
+	path = Products/Modules/UNSORTED/M203
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M203.git
 [submodule "2026/Modules/UNSORTED/M208"]
-	path = 2026/Modules/UNSORTED/M208
+	path = Products/Modules/UNSORTED/M208
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M208.git
 [submodule "2026/Modules/UNSORTED/M400"]
-	path = 2026/Modules/UNSORTED/M400
+	path = Products/Modules/UNSORTED/M400
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M400.git
 [submodule "2026/Modules/UNSORTED/M403"]
-	path = 2026/Modules/UNSORTED/M403
+	path = Products/Modules/UNSORTED/M403
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M403.git
 [submodule "2026/Modules/UNSORTED/M407"]
-	path = 2026/Modules/UNSORTED/M407
+	path = Products/Modules/UNSORTED/M407
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M407.git
 [submodule "2026/Modules/UNSORTED/M414"]
-	path = 2026/Modules/UNSORTED/M414
+	path = Products/Modules/UNSORTED/M414
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M414.git
 [submodule "2026/Modules/UNSORTED/M416"]
-	path = 2026/Modules/UNSORTED/M416
+	path = Products/Modules/UNSORTED/M416
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M416.git
 [submodule "2026/Modules/UNSORTED/M420"]
-	path = 2026/Modules/UNSORTED/M420
+	path = Products/Modules/UNSORTED/M420
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M420.git
 [submodule "2026/Modules/UNSORTED/M421"]
-	path = 2026/Modules/UNSORTED/M421
+	path = Products/Modules/UNSORTED/M421
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M421.git
 [submodule "2026/Modules/UNSORTED/M422"]
-	path = 2026/Modules/UNSORTED/M422
+	path = Products/Modules/UNSORTED/M422
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M422.git
 [submodule "2026/Modules/UNSORTED/M424"]
-	path = 2026/Modules/UNSORTED/M424
+	path = Products/Modules/UNSORTED/M424
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M424.git
 [submodule "2026/Modules/UNSORTED/M424S"]
-	path = 2026/Modules/UNSORTED/M424S
+	path = Products/Modules/UNSORTED/M424S
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M424S.git
 [submodule "2026/Modules/UNSORTED/M448"]
-	path = 2026/Modules/UNSORTED/M448
+	path = Products/Modules/UNSORTED/M448
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M448.git
 [submodule "2026/Modules/UNSORTED/M458"]
-	path = 2026/Modules/UNSORTED/M458
+	path = Products/Modules/UNSORTED/M458
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M458.git
 [submodule "2026/Modules/UNSORTED/M461AB"]
-	path = 2026/Modules/UNSORTED/M461AB
+	path = Products/Modules/UNSORTED/M461AB
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M461AB.git
 [submodule "2026/Modules/UNSORTED/M469"]
-	path = 2026/Modules/UNSORTED/M469
+	path = Products/Modules/UNSORTED/M469
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M469.git
 [submodule "2026/Modules/UNSORTED/M478"]
-	path = 2026/Modules/UNSORTED/M478
+	path = Products/Modules/UNSORTED/M478
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M478.git
 [submodule "2026/Modules/UNSORTED/M478H"]
-	path = 2026/Modules/UNSORTED/M478H
+	path = Products/Modules/UNSORTED/M478H
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M478H.git
 [submodule "2026/Modules/UNSORTED/M483"]
-	path = 2026/Modules/UNSORTED/M483
+	path = Products/Modules/UNSORTED/M483
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M483.git
 [submodule "2026/Modules/UNSORTED/M485"]
-	path = 2026/Modules/UNSORTED/M485
+	path = Products/Modules/UNSORTED/M485
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M485.git
 [submodule "2026/Modules/UNSORTED/M499"]
-	path = 2026/Modules/UNSORTED/M499
+	path = Products/Modules/UNSORTED/M499
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M499.git
 [submodule "2026/Modules/UNSORTED/M500"]
-	path = 2026/Modules/UNSORTED/M500
+	path = Products/Modules/UNSORTED/M500
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M500.git
 [submodule "2026/Modules/UNSORTED/M501"]
-	path = 2026/Modules/UNSORTED/M501
+	path = Products/Modules/UNSORTED/M501
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M501.git
 [submodule "2026/Modules/UNSORTED/M503"]
-	path = 2026/Modules/UNSORTED/M503
+	path = Products/Modules/UNSORTED/M503
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M503.git
 [submodule "2026/Modules/UNSORTED/M510"]
-	path = 2026/Modules/UNSORTED/M510
+	path = Products/Modules/UNSORTED/M510
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M510.git
 [submodule "2026/Modules/UNSORTED/M530"]
-	path = 2026/Modules/UNSORTED/M530
+	path = Products/Modules/UNSORTED/M530
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M530.git
 [submodule "2026/Modules/UNSORTED/M568"]
-	path = 2026/Modules/UNSORTED/M568
+	path = Products/Modules/UNSORTED/M568
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M568.git
 [submodule "2026/Modules/UNSORTED/M626"]
-	path = 2026/Modules/UNSORTED/M626
+	path = Products/Modules/UNSORTED/M626
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M626.git
 [submodule "2026/Modules/UNSORTED/M629"]
-	path = 2026/Modules/UNSORTED/M629
+	path = Products/Modules/UNSORTED/M629
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M629.git
 [submodule "2026/Modules/UNSORTED/M701"]
-	path = 2026/Modules/UNSORTED/M701
+	path = Products/Modules/UNSORTED/M701
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M701.git
 [submodule "2026/Modules/UNSORTED/M704"]
-	path = 2026/Modules/UNSORTED/M704
+	path = Products/Modules/UNSORTED/M704
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M704.git
 [submodule "2026/Modules/UNSORTED/M705"]
-	path = 2026/Modules/UNSORTED/M705
+	path = Products/Modules/UNSORTED/M705
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M705.git
 [submodule "2026/Modules/UNSORTED/M706"]
-	path = 2026/Modules/UNSORTED/M706
+	path = Products/Modules/UNSORTED/M706
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M706.git
 [submodule "2026/Modules/UNSORTED/M711"]
-	path = 2026/Modules/UNSORTED/M711
+	path = Products/Modules/UNSORTED/M711
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M711.git
 [submodule "2026/Modules/UNSORTED/M730"]
-	path = 2026/Modules/UNSORTED/M730
+	path = Products/Modules/UNSORTED/M730
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M730.git
 [submodule "2026/Modules/UNSORTED/M731"]
-	path = 2026/Modules/UNSORTED/M731
+	path = Products/Modules/UNSORTED/M731
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M731.git
 [submodule "2026/Modules/UNSORTED/M740"]
-	path = 2026/Modules/UNSORTED/M740
+	path = Products/Modules/UNSORTED/M740
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M740.git
 [submodule "2026/Modules/UNSORTED/M741"]
-	path = 2026/Modules/UNSORTED/M741
+	path = Products/Modules/UNSORTED/M741
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M741.git
 [submodule "2026/Modules/UNSORTED/M742"]
-	path = 2026/Modules/UNSORTED/M742
+	path = Products/Modules/UNSORTED/M742
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M742.git
 [submodule "2026/Modules/UNSORTED/M743"]
-	path = 2026/Modules/UNSORTED/M743
+	path = Products/Modules/UNSORTED/M743
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M743.git
 [submodule "2026/Modules/UNSORTED/M745"]
-	path = 2026/Modules/UNSORTED/M745
+	path = Products/Modules/UNSORTED/M745
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M745.git
 [submodule "2026/Modules/UNSORTED/M748"]
-	path = 2026/Modules/UNSORTED/M748
+	path = Products/Modules/UNSORTED/M748
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M748.git
 [submodule "2026/Modules/UNSORTED/M749"]
-	path = 2026/Modules/UNSORTED/M749
+	path = Products/Modules/UNSORTED/M749
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M749.git
 [submodule "2026/Modules/UNSORTED/M750"]
-	path = 2026/Modules/UNSORTED/M750
+	path = Products/Modules/UNSORTED/M750
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M750.git
 [submodule "2026/Modules/UNSORTED/M751"]
-	path = 2026/Modules/UNSORTED/M751
+	path = Products/Modules/UNSORTED/M751
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M751.git
 [submodule "2026/Modules/UNSORTED/M752"]
-	path = 2026/Modules/UNSORTED/M752
+	path = Products/Modules/UNSORTED/M752
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M752.git
 [submodule "2026/Modules/UNSORTED/M753"]
-	path = 2026/Modules/UNSORTED/M753
+	path = Products/Modules/UNSORTED/M753
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M753.git
 [submodule "2026/Modules/UNSORTED/M755"]
-	path = 2026/Modules/UNSORTED/M755
+	path = Products/Modules/UNSORTED/M755
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M755.git
 [submodule "2026/Modules/UNSORTED/M756"]
-	path = 2026/Modules/UNSORTED/M756
+	path = Products/Modules/UNSORTED/M756
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M756.git
 [submodule "2026/Modules/UNSORTED/M757"]
-	path = 2026/Modules/UNSORTED/M757
+	path = Products/Modules/UNSORTED/M757
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M757.git
 [submodule "2026/Modules/UNSORTED/M772"]
-	path = 2026/Modules/UNSORTED/M772
+	path = Products/Modules/UNSORTED/M772
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M772.git
 [submodule "2026/Modules/UNSORTED/M773"]
-	path = 2026/Modules/UNSORTED/M773
+	path = Products/Modules/UNSORTED/M773
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M773.git
 [submodule "2026/Modules/UNSORTED/M777"]
-	path = 2026/Modules/UNSORTED/M777
+	path = Products/Modules/UNSORTED/M777
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M777.git
 [submodule "2026/Modules/UNSORTED/M778"]
-	path = 2026/Modules/UNSORTED/M778
+	path = Products/Modules/UNSORTED/M778
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M778.git
 [submodule "2026/Modules/UNSORTED/M780"]
-	path = 2026/Modules/UNSORTED/M780
+	path = Products/Modules/UNSORTED/M780
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M780.git
 [submodule "2026/Modules/UNSORTED/M7810"]
-	path = 2026/Modules/UNSORTED/M7810
+	path = Products/Modules/UNSORTED/M7810
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M7810.git
 [submodule "2026/Modules/UNSORTED/M7820"]
-	path = 2026/Modules/UNSORTED/M7820
+	path = Products/Modules/UNSORTED/M7820
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M7820.git
 [submodule "2026/Modules/UNSORTED/M7830"]
-	path = 2026/Modules/UNSORTED/M7830
+	path = Products/Modules/UNSORTED/M7830
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M7830.git
 [submodule "2026/Modules/UNSORTED/M801"]
-	path = 2026/Modules/UNSORTED/M801
+	path = Products/Modules/UNSORTED/M801
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M801.git
 [submodule "2026/Modules/UNSORTED/M804"]
-	path = 2026/Modules/UNSORTED/M804
+	path = Products/Modules/UNSORTED/M804
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M804.git
 [submodule "2026/Modules/UNSORTED/M807"]
-	path = 2026/Modules/UNSORTED/M807
+	path = Products/Modules/UNSORTED/M807
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M807.git
 [submodule "2026/Modules/UNSORTED/M813"]
-	path = 2026/Modules/UNSORTED/M813
+	path = Products/Modules/UNSORTED/M813
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M813.git
 [submodule "2026/Modules/UNSORTED/M815"]
-	path = 2026/Modules/UNSORTED/M815
+	path = Products/Modules/UNSORTED/M815
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M815.git
 [submodule "2026/Modules/UNSORTED/M816"]
-	path = 2026/Modules/UNSORTED/M816
+	path = Products/Modules/UNSORTED/M816
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M816.git
 [submodule "2026/Modules/UNSORTED/M827"]
-	path = 2026/Modules/UNSORTED/M827
+	path = Products/Modules/UNSORTED/M827
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M827.git
 [submodule "2026/Modules/UNSORTED/M845"]
-	path = 2026/Modules/UNSORTED/M845
+	path = Products/Modules/UNSORTED/M845
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M845.git
 [submodule "2026/Modules/UNSORTED/M900"]
-	path = 2026/Modules/UNSORTED/M900
+	path = Products/Modules/UNSORTED/M900
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M900.git
 [submodule "2026/Modules/UNSORTED/M901"]
-	path = 2026/Modules/UNSORTED/M901
+	path = Products/Modules/UNSORTED/M901
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M901.git
 [submodule "2026/Modules/UNSORTED/M901A"]
-	path = 2026/Modules/UNSORTED/M901A
+	path = Products/Modules/UNSORTED/M901A
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M901A.git
 [submodule "2026/Modules/UNSORTED/M901B"]
-	path = 2026/Modules/UNSORTED/M901B
+	path = Products/Modules/UNSORTED/M901B
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M901B.git
 [submodule "2026/Modules/UNSORTED/M901BY"]
-	path = 2026/Modules/UNSORTED/M901BY
+	path = Products/Modules/UNSORTED/M901BY
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M901BY.git
 [submodule "2026/Modules/UNSORTED/M901C"]
-	path = 2026/Modules/UNSORTED/M901C
+	path = Products/Modules/UNSORTED/M901C
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M901C.git
 [submodule "2026/Modules/UNSORTED/M901CY"]
-	path = 2026/Modules/UNSORTED/M901CY
+	path = Products/Modules/UNSORTED/M901CY
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M901CY.git
 [submodule "2026/Modules/UNSORTED/M901D"]
-	path = 2026/Modules/UNSORTED/M901D
+	path = Products/Modules/UNSORTED/M901D
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M901D.git
 [submodule "2026/Modules/UNSORTED/M901NW"]
-	path = 2026/Modules/UNSORTED/M901NW
+	path = Products/Modules/UNSORTED/M901NW
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M901NW.git
 [submodule "2026/Modules/UNSORTED/M905A"]
-	path = 2026/Modules/UNSORTED/M905A
+	path = Products/Modules/UNSORTED/M905A
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M905A.git
 [submodule "2026/Modules/UNSORTED/M905B"]
-	path = 2026/Modules/UNSORTED/M905B
+	path = Products/Modules/UNSORTED/M905B
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M905B.git
 [submodule "2026/Modules/UNSORTED/M907"]
-	path = 2026/Modules/UNSORTED/M907
+	path = Products/Modules/UNSORTED/M907
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M907.git
 [submodule "2026/Modules/UNSORTED/M908"]
-	path = 2026/Modules/UNSORTED/M908
+	path = Products/Modules/UNSORTED/M908
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M908.git
 [submodule "2026/Modules/UNSORTED/M909"]
-	path = 2026/Modules/UNSORTED/M909
+	path = Products/Modules/UNSORTED/M909
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M909.git
 [submodule "2026/Modules/UNSORTED/M920"]
-	path = 2026/Modules/UNSORTED/M920
+	path = Products/Modules/UNSORTED/M920
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M920.git
 [submodule "2026/Modules/UNSORTED/M921"]
-	path = 2026/Modules/UNSORTED/M921
+	path = Products/Modules/UNSORTED/M921
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M921.git
 [submodule "2026/Modules/UNSORTED/M923"]
-	path = 2026/Modules/UNSORTED/M923
+	path = Products/Modules/UNSORTED/M923
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M923.git
 [submodule "2026/Modules/UNSORTED/M923A"]
-	path = 2026/Modules/UNSORTED/M923A
+	path = Products/Modules/UNSORTED/M923A
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M923A.git
 [submodule "2026/Modules/UNSORTED/M923B"]
-	path = 2026/Modules/UNSORTED/M923B
+	path = Products/Modules/UNSORTED/M923B
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M923B.git
 [submodule "2026/Modules/UNSORTED/M923C"]
-	path = 2026/Modules/UNSORTED/M923C
+	path = Products/Modules/UNSORTED/M923C
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M923C.git
 [submodule "2026/Modules/UNSORTED/M923D"]
-	path = 2026/Modules/UNSORTED/M923D
+	path = Products/Modules/UNSORTED/M923D
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M923D.git
 [submodule "2026/Modules/UNSORTED/M923E"]
-	path = 2026/Modules/UNSORTED/M923E
+	path = Products/Modules/UNSORTED/M923E
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M923E.git
 [submodule "2026/Modules/UNSORTED/M923F"]
-	path = 2026/Modules/UNSORTED/M923F
+	path = Products/Modules/UNSORTED/M923F
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M923F.git
 [submodule "2026/Modules/UNSORTED/M923H"]
-	path = 2026/Modules/UNSORTED/M923H
+	path = Products/Modules/UNSORTED/M923H
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M923H.git
 [submodule "2026/Modules/UNSORTED/M924"]
-	path = 2026/Modules/UNSORTED/M924
+	path = Products/Modules/UNSORTED/M924
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M924.git
 [submodule "2026/Modules/UNSORTED/M924A"]
-	path = 2026/Modules/UNSORTED/M924A
+	path = Products/Modules/UNSORTED/M924A
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M924A.git
 [submodule "2026/Modules/UNSORTED/M926"]
-	path = 2026/Modules/UNSORTED/M926
+	path = Products/Modules/UNSORTED/M926
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M926.git
 [submodule "2026/Modules/UNSORTED/M927"]
-	path = 2026/Modules/UNSORTED/M927
+	path = Products/Modules/UNSORTED/M927
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M927.git
 [submodule "2026/Modules/UNSORTED/M999"]
-	path = 2026/Modules/UNSORTED/M999
+	path = Products/Modules/UNSORTED/M999
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M999.git
 [submodule "2026/Modules/UNSORTED/RM424S"]
-	path = 2026/Modules/UNSORTED/RM424S
+	path = Products/Modules/UNSORTED/RM424S
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.RM424S.git
 [submodule "2026/Modules/UNSORTED/RM650"]
-	path = 2026/Modules/UNSORTED/RM650
+	path = Products/Modules/UNSORTED/RM650
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.RM650.git
 [submodule "2026/Modules/POWER/M485"]
-	path = 2026/Modules/POWER/M485
+	path = Products/Modules/POWER/M485
 	url = https://github.com/WardBeckSystems/MODULES.POWER.M485.git
 [submodule "2026/Modules/POWER/M611"]
-	path = 2026/Modules/POWER/M611
+	path = Products/Modules/POWER/M611
 	url = https://github.com/WardBeckSystems/MODULES.POWER.M611.git
 [submodule "2026/Modules/POWER/M624"]
-	path = 2026/Modules/POWER/M624
+	path = Products/Modules/POWER/M624
 	url = https://github.com/WardBeckSystems/MODULES.POWER.M624.git
 [submodule "2026/Modules/POWER/M625A"]
-	path = 2026/Modules/POWER/M625A
+	path = Products/Modules/POWER/M625A
 	url = https://github.com/WardBeckSystems/MODULES.POWER.M625A.git
 [submodule "2026/Modules/POWER/M625B"]
-	path = 2026/Modules/POWER/M625B
+	path = Products/Modules/POWER/M625B
 	url = https://github.com/WardBeckSystems/MODULES.POWER.M625B.git
 [submodule "2026/Modules/POWER/M628"]
-	path = 2026/Modules/POWER/M628
+	path = Products/Modules/POWER/M628
 	url = https://github.com/WardBeckSystems/MODULES.POWER.M628.git
 [submodule "2026/Modules/POWER/M632"]
-	path = 2026/Modules/POWER/M632
+	path = Products/Modules/POWER/M632
 	url = https://github.com/WardBeckSystems/MODULES.POWER.M632.git
 [submodule "2026/Modules/ROUTING/M454"]
-	path = 2026/Modules/ROUTING/M454
+	path = Products/Modules/ROUTING/M454
 	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M454.git
 [submodule "2026/Modules/ROUTING/M455"]
-	path = 2026/Modules/ROUTING/M455
+	path = Products/Modules/ROUTING/M455
 	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M455.git
 [submodule "2026/Modules/ROUTING/M456"]
-	path = 2026/Modules/ROUTING/M456
+	path = Products/Modules/ROUTING/M456
 	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M456.git
 [submodule "2026/Modules/ROUTING/M456B"]
-	path = 2026/Modules/ROUTING/M456B
+	path = Products/Modules/ROUTING/M456B
 	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M456B.git
 [submodule "2026/Modules/ROUTING/M457"]
-	path = 2026/Modules/ROUTING/M457
+	path = Products/Modules/ROUTING/M457
 	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M457.git
 [submodule "2026/Modules/ROUTING/M457A"]
-	path = 2026/Modules/ROUTING/M457A
+	path = Products/Modules/ROUTING/M457A
 	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M457A.git
 [submodule "2026/Modules/ROUTING/M459"]
-	path = 2026/Modules/ROUTING/M459
+	path = Products/Modules/ROUTING/M459
 	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M459.git
 [submodule "2026/Modules/ROUTING/M468"]
-	path = 2026/Modules/ROUTING/M468
+	path = Products/Modules/ROUTING/M468
 	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M468.git
 [submodule "2026/Modules/ROUTING/M468A"]
-	path = 2026/Modules/ROUTING/M468A
+	path = Products/Modules/ROUTING/M468A
 	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M468A.git
 [submodule "2026/Modules/ROUTING/M468AN"]
-	path = 2026/Modules/ROUTING/M468AN
+	path = Products/Modules/ROUTING/M468AN
 	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M468AN.git
 [submodule "2026/Modules/ROUTING/M468M"]
-	path = 2026/Modules/ROUTING/M468M
+	path = Products/Modules/ROUTING/M468M
 	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M468M.git
 [submodule "2026/Modules/ROUTING/M498A"]
-	path = 2026/Modules/ROUTING/M498A
+	path = Products/Modules/ROUTING/M498A
 	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M498A.git
 [submodule "2026/Modules/ROUTING/M538"]
-	path = 2026/Modules/ROUTING/M538
+	path = Products/Modules/ROUTING/M538
 	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M538.git
 [submodule "2026/Modules/ROUTING/M538C"]
-	path = 2026/Modules/ROUTING/M538C
+	path = Products/Modules/ROUTING/M538C
 	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M538C.git
 [submodule "2026/Modules/ROUTING/M559A"]
-	path = 2026/Modules/ROUTING/M559A
+	path = Products/Modules/ROUTING/M559A
 	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M559A.git
 [submodule "2026/Modules/ROUTING/M568P"]
-	path = 2026/Modules/ROUTING/M568P
+	path = Products/Modules/ROUTING/M568P
 	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M568P.git
 [submodule "2026/Modules/ROUTING/M568W"]
-	path = 2026/Modules/ROUTING/M568W
+	path = Products/Modules/ROUTING/M568W
 	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M568W.git
 [submodule "2026/Modules/SUMMING/M166"]
-	path = 2026/Modules/SUMMING/M166
+	path = Products/Modules/SUMMING/M166
 	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M166.git
 [submodule "YOU_TUBE"]
 	path = YOU_TUBE

@@ -1,6 +1,6 @@
 # 1987 - 461-03-041 - SWITCH MOUNTING BRACKET - DRN Steve Gray - ISS 1
 
-![WBSps.ca 20210320 - Scans (127).jpg](WBSps.ca%2020210320%20-%20Scans%20(127).jpg)
+![WBSps.ca 20210320 - Scans (127).jpg](WBSps.ca%2020210320%20-%20Scans%20%28127%29.jpg)
 
 ## Title block
 

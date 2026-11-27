@@ -1,6 +1,6 @@
 # 1985 - 460-03-032 - SWITCH MTG. SPLINT BRKT - DRN DRG - ENG PA - ISS 2
 
-![WBSps.ca 20210320 - Scans (124).jpg](WBSps.ca%2020210320%20-%20Scans%20(124).jpg)
+![WBSps.ca 20210320 - Scans (124).jpg](WBSps.ca%2020210320%20-%20Scans%20%28124%29.jpg)
 
 ## Title block
 

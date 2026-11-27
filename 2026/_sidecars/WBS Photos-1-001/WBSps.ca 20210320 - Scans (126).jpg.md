@@ -1,6 +1,6 @@
 # 1987 - 568-03-031 - EXTRUSION - DRN DS - ISS 2
 
-![WBSps.ca 20210320 - Scans (126).jpg](WBSps.ca%2020210320%20-%20Scans%20(126).jpg)
+![WBSps.ca 20210320 - Scans (126).jpg](WBSps.ca%2020210320%20-%20Scans%20%28126%29.jpg)
 
 ## Title block
 

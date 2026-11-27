@@ -1,6 +1,6 @@
 # 1983 - 458-02-002 - WIRING SCHEMATIC - DRN JP - ISS 1
 
-![WBSps.ca - 20210317 11X 17 Scans  (62).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(62).png)
+![WBSps.ca - 20210317 11X 17 Scans  (62).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%2862%29.png)
 
 ## Title block
 

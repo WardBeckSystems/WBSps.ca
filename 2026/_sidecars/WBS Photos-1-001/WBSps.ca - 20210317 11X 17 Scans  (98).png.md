@@ -1,6 +1,6 @@
 # 19xx - 490-02-018 - M490BA MIC INPUT MODULE SCHEMATIC - DRN GEB - ENG GEB
 
-![WBSps.ca - 20210317 11X 17 Scans  (98).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(98).png)
+![WBSps.ca - 20210317 11X 17 Scans  (98).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%2898%29.png)
 
 ## Title block
 

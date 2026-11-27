@@ -1,6 +1,6 @@
 # 1981 - 207-03-001 - COVER PLATE - DRN GEB - ENG GEB - ISS 1
 
-![WBSps.ca 20210320 - Scans (98).jpg](WBSps.ca%2020210320%20-%20Scans%20(98).jpg)
+![WBSps.ca 20210320 - Scans (98).jpg](WBSps.ca%2020210320%20-%20Scans%20%2898%29.jpg)
 
 ## Title block
 

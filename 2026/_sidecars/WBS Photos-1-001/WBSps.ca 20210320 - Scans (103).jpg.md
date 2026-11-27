@@ -1,6 +1,6 @@
 # 1975 - 101-03-017 - M157 MTG. BRACKET FOR MF6 FRAME - DRN REB - ISS 1
 
-![WBSps.ca 20210320 - Scans (103).jpg](WBSps.ca%2020210320%20-%20Scans%20(103).jpg)
+![WBSps.ca 20210320 - Scans (103).jpg](WBSps.ca%2020210320%20-%20Scans%20%28103%29.jpg)
 
 Mechanical detail of a mounting bracket for the MF6 frame.
 

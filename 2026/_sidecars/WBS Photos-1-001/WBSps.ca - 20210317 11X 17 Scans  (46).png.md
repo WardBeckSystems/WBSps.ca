@@ -1,6 +1,6 @@
 # 1976 - 478-02-001 - M478A 8x1 SWITCHER SCHEMATIC - DRN PA - ISS 1
 
-![WBSps.ca - 20210317 11X 17 Scans  (46).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(46).png)
+![WBSps.ca - 20210317 11X 17 Scans  (46).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%2846%29.png)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 # 1971 - A 9124 - FILLER PLATE - DRN WWH - ISS 1
 
-![WBSps.ca - Mechanical 9XXX (31).png](WBSps.ca%20-%20Mechanical%209XXX%20(31).png)
+![WBSps.ca - Mechanical 9XXX (31).png](WBSps.ca%20-%20Mechanical%209XXX%20%2831%29.png)
 
 ## Title block
 

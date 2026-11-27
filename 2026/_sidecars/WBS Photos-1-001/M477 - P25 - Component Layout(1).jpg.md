@@ -1,6 +1,6 @@
 # 1979 - 477-06-001 - MASTER MODULE COMPONENT LAYOUT - DRN MRW - ISS 6
 
-![M477 - P25 - Component Layout(1).jpg](M477%20-%20P25%20-%20Component%20Layout(1).jpg)
+![M477 - P25 - Component Layout(1).jpg](M477%20-%20P25%20-%20Component%20Layout%281%29.jpg)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 # 1982 - 777-03-005 - BACK PLANE MTG. ANGLES - DRN P. Mahoney - ENG MRW - ISS 3
 
-![WBSps.ca 20210320 - Scans (10).jpg](WBSps.ca%2020210320%20-%20Scans%20(10).jpg)
+![WBSps.ca 20210320 - Scans (10).jpg](WBSps.ca%2020210320%20-%20Scans%20%2810%29.jpg)
 
 ## Title block
 

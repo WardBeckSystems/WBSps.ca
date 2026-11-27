@@ -1,6 +1,6 @@
 # 19xx - B 9817 - EXTRUSION MODULE MOUNTING BAR - DRN DRG - ISS 1
 
-![WBSps.ca 20210320 - Scans (74).jpg](WBSps.ca%2020210320%20-%20Scans%20(74).jpg)
+![WBSps.ca 20210320 - Scans (74).jpg](WBSps.ca%2020210320%20-%20Scans%20%2874%29.jpg)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 # 1978 - 473-01-002 - M473A SUB-MASTER MODULE FUNCTIONAL DIAGRAM - DRN GEB - ENG RKB - ISS 4
 
-![M473A - P22 - Functional Diagram(1).jpg](M473A%20-%20P22%20-%20Functional%20Diagram(1).jpg)
+![M473A - P22 - Functional Diagram(1).jpg](M473A%20-%20P22%20-%20Functional%20Diagram%281%29.jpg)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 # 19xx - 8224-03-012 - ISP-6 END CAP - DRN D.SCOTT - ISS 1
 
-![WBSps.ca - 20210317 11X 17 Scans  (181).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(181).png)
+![WBSps.ca - 20210317 11X 17 Scans  (181).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%28181%29.png)
 
 ## Title block
 

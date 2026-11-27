@@ -1,6 +1,6 @@
 # 19xx - M412 - M412
 
-![Ward Beck Systems M412 2(1).jpg](Ward%20Beck%20Systems%20M412%202(1).jpg)
+![Ward Beck Systems M412 2(1).jpg](Ward%20Beck%20Systems%20M412%202%281%29.jpg)
 
 Product data sheet for the M412 oscillator with block diagram and technical data, WBS logo at bottom left.
 

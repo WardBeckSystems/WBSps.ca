@@ -1,6 +1,6 @@
 # 1982 - 1202-02-014 - INPUT LINE SELECTOR SCHEMATIC - DRN JP - ENG MRW - ISS 1
 
-![L1202A - P40 - Line Selector Schematic(1).jpg](L1202A%20-%20P40%20-%20Line%20Selector%20Schematic(1).jpg)
+![L1202A - P40 - Line Selector Schematic(1).jpg](L1202A%20-%20P40%20-%20Line%20Selector%20Schematic%281%29.jpg)
 
 ## Title block
 

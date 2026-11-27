@@ -154,7 +154,7 @@ def when(ts):
 # ---- modules -------------------------------------------------------------------------------------------------------
 def module_dirs():
     out = {}
-    for d in glob.glob(os.path.join(Y2026, 'Modules', '*', '*')):
+    for d in glob.glob(os.path.join(ROOT, 'Products', 'Modules', '*', '*')):
         if os.path.isdir(d) and re.match(r'R?M\d', os.path.basename(d)):
             out[os.path.basename(d)] = d
     return out

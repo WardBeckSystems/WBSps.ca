@@ -1,6 +1,6 @@
 # 19xx - 8224-03-017 - FRONT PANEL FOR IPH-1 - DRN WS - ENG WS - ISS 1
 
-![WBSps.ca - 20210317 11X 17 Scans  (177).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(177).png)
+![WBSps.ca - 20210317 11X 17 Scans  (177).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%28177%29.png)
 
 ## Title block
 

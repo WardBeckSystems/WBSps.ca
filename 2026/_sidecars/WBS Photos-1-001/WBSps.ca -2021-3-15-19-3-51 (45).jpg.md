@@ -1,6 +1,6 @@
 # 19xx - 568-02-018 - M568T LINE SEL MASTER ASSIGN MODULE SCHEMATIC - DRN DBS - ENG DBS - ISS 1
 
-![WBSps.ca -2021-3-15-19-3-51 (45).jpg](WBSps.ca%20-2021-3-15-19-3-51%20(45).jpg)
+![WBSps.ca -2021-3-15-19-3-51 (45).jpg](WBSps.ca%20-2021-3-15-19-3-51%20%2845%29.jpg)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 # 1982 - 1202-02-017 - POWER DISTRIBUTION SCHEMATIC - DRN JP - ENG MRW - ISS 1
 
-![L1202A - P44 - Power Distribution Schematic(1).jpg](L1202A%20-%20P44%20-%20Power%20Distribution%20Schematic(1).jpg)
+![L1202A - P44 - Power Distribution Schematic(1).jpg](L1202A%20-%20P44%20-%20Power%20Distribution%20Schematic%281%29.jpg)
 
 ## Title block
 

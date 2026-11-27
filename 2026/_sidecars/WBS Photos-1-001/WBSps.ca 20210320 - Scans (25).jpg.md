@@ -1,6 +1,6 @@
 # 19xx - 999-03-001 - CUSTOM SUBPANEL - DRN DRG - ISS 2
 
-![WBSps.ca 20210320 - Scans (25).jpg](WBSps.ca%2020210320%20-%20Scans%20(25).jpg)
+![WBSps.ca 20210320 - Scans (25).jpg](WBSps.ca%2020210320%20-%20Scans%20%2825%29.jpg)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Copyright (c) 2026 Ward-Beck Systems (Ward-Beck.com - Ward-Beck.ca). All rights reserved.
-"""2026/Modules/svg.html: every module and its SVGs on one page.
+"""Products/Modules/svg.html: every module and its SVGs on one page.
 
 Each module shows its front panel (MECHANICAL/<M> - front panel.svg, from _catalog/panels) and, folded under it, every
 traced drawing ("<scan> (EXTRACTED).svg" beside its scan in SCHEMATICS / MECHANICAL / PINOUTS), plus the scans that
@@ -16,7 +16,7 @@ import re
 from urllib.parse import quote
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-MODS = os.path.join(ROOT, '2026', 'Modules')
+MODS = os.path.join(ROOT, 'Products', 'Modules')
 OUT = os.path.join(MODS, 'svg.html')
 SCAN = re.compile(r'\.(jpe?g|png|tiff?|pdf)$', re.I)
 DRAWING_KINDS = ('MECHANICAL', 'SCHEMATICS', 'PINOUTS')

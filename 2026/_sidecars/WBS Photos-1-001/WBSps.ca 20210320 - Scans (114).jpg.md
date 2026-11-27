@@ -1,6 +1,6 @@
 # 1976 - 450-03-004 - M450A COVER PLATE - DRN MING - ISS 5
 
-![WBSps.ca 20210320 - Scans (114).jpg](WBSps.ca%2020210320%20-%20Scans%20(114).jpg)
+![WBSps.ca 20210320 - Scans (114).jpg](WBSps.ca%2020210320%20-%20Scans%20%28114%29.jpg)
 
 ## Title block
 

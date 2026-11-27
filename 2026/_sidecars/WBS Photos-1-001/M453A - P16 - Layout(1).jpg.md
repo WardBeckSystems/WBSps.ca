@@ -1,6 +1,6 @@
 # 1978 - 453-06-002 - M453A CUE AMPLIFIER COMPONENT LAYOUT - DRN MRW - ENG MRW - ISS 5
 
-![M453A - P16 - Layout(1).jpg](M453A%20-%20P16%20-%20Layout(1).jpg)
+![M453A - P16 - Layout(1).jpg](M453A%20-%20P16%20-%20Layout%281%29.jpg)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 # 1990 - 8000-03-012 - RETAINING CLIP - DRN DRG - ISS 1
 
-![WBSps.ca - 20210317 11X 17 Scans  (120).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(120).png)
+![WBSps.ca - 20210317 11X 17 Scans  (120).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%28120%29.png)
 
 ## Title block
 

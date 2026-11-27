@@ -1,6 +1,6 @@
 # 1985 - 568-01-004 - M568C M568D TRACK MASTER FUNCTIONAL - ENG ECJ - ISS 2
 
-![WBSps.ca 20210320 - Scans (32).jpg](WBSps.ca%2020210320%20-%20Scans%20(32).jpg)
+![WBSps.ca 20210320 - Scans (32).jpg](WBSps.ca%2020210320%20-%20Scans%20%2832%29.jpg)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 # 1976 - 468-02-026 - M468N ASSIGN MODULE SCHEMATIC - DRN ELJ - ISS 1
 
-![WBSps.ca 20210320 - Scans (59).jpg](WBSps.ca%2020210320%20-%20Scans%20(59).jpg)
+![WBSps.ca 20210320 - Scans (59).jpg](WBSps.ca%2020210320%20-%20Scans%20%2859%29.jpg)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 # 1980 - 490-03-016 - SWITCH MOUNTING BRACKET M490 - DRN ALF - ENG GEB - ISS 6
 
-![WBSps.ca 20210320 - Scans (113).jpg](WBSps.ca%2020210320%20-%20Scans%20(113).jpg)
+![WBSps.ca 20210320 - Scans (113).jpg](WBSps.ca%2020210320%20-%20Scans%20%28113%29.jpg)
 
 ## Title block
 

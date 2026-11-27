@@ -1,6 +1,6 @@
 # 19xx - 8224-03-011 - ISP-6 REAR PANEL - DRN D.SCOTT - ISS 2
 
-![WBSps.ca - 20210317 11X 17 Scans  (182).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(182).png)
+![WBSps.ca - 20210317 11X 17 Scans  (182).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%28182%29.png)
 
 ## Title block
 

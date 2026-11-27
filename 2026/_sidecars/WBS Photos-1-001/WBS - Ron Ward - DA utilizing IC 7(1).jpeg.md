@@ -1,6 +1,6 @@
 # 19xx - Fig 4
 
-![WBS - Ron Ward - DA utilizing IC 7(1).jpeg](WBS%20-%20Ron%20Ward%20-%20DA%20utilizing%20IC%207(1).jpeg)
+![WBS - Ron Ward - DA utilizing IC 7(1).jpeg](WBS%20-%20Ron%20Ward%20-%20DA%20utilizing%20IC%207%281%29.jpeg)
 
 Hand-drawn Fig 4 output transformer with three 300 ohm outputs.
 

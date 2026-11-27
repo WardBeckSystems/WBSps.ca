@@ -1,6 +1,6 @@
 # 19xx - M406B - M406B
 
-![Ward Beck Systems M406B 2(1).jpg](Ward%20Beck%20Systems%20M406B%202(1).jpg)
+![Ward Beck Systems M406B 2(1).jpg](Ward%20Beck%20Systems%20M406B%202%281%29.jpg)
 
 Product data sheet for the M406B compressor with outline and technical data, WBS logo at bottom left.
 

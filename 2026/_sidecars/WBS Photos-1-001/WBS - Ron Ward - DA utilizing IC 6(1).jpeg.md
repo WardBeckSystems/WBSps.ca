@@ -1,6 +1,6 @@
 # 19xx - Fig. 3
 
-![WBS - Ron Ward - DA utilizing IC 6(1).jpeg](WBS%20-%20Ron%20Ward%20-%20DA%20utilizing%20IC%206(1).jpeg)
+![WBS - Ron Ward - DA utilizing IC 6(1).jpeg](WBS%20-%20Ron%20Ward%20-%20DA%20utilizing%20IC%206%281%29.jpeg)
 
 Hand-drawn Fig. 3 two op-amp input circuit diagram.
 

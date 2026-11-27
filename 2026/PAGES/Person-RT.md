@@ -22,6 +22,6 @@ tags: ["person"]
 
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
-| 621-02-003 | Mod Ickd Used | [1973\|6](Year-1973.md) |  | [RT](Person-RT.md) |  | [file](../Modules/AMPLIFIERS/M621/SCHEMATICS/1970%20-%20M621%20-%20621-02-003%20-%20MOD%20ICKD%20USED%20%282%29.jpg) |
-| 621-02-003 | Mod Ickd Used | [1973\|6](Year-1973.md) |  | [RT](Person-RT.md) |  | [file](../Modules/AMPLIFIERS/M621/SCHEMATICS/1970%20-%20M621%20-%20621-02-003%20-%20MOD%20ICKD%20USED.jpg) |
-| 497-01-002 | Dual Master Module Functional Diagram |  | [MRW](Person-MRW.md) | [RT](Person-RT.md) | I | [file](../Modules/SUMMING/M497A/MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20%282%29.pdf) p.20 |
+| 621-02-003 | Mod Ickd Used | [1973\|6](Year-1973.md) |  | [RT](Person-RT.md) |  | [file](../../Products/Modules/AMPLIFIERS/M621/SCHEMATICS/1970%20-%20M621%20-%20621-02-003%20-%20MOD%20ICKD%20USED%20%282%29.jpg) |
+| 621-02-003 | Mod Ickd Used | [1973\|6](Year-1973.md) |  | [RT](Person-RT.md) |  | [file](../../Products/Modules/AMPLIFIERS/M621/SCHEMATICS/1970%20-%20M621%20-%20621-02-003%20-%20MOD%20ICKD%20USED.jpg) |
+| 497-01-002 | Dual Master Module Functional Diagram |  | [MRW](Person-MRW.md) | [RT](Person-RT.md) | I | [file](../../Products/Modules/SUMMING/M497A/MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20%282%29.pdf) p.20 |

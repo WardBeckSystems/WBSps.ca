@@ -1,6 +1,6 @@
 # 1979 - B 12001 - PENNY & GILES FADER SCHEMATIC AND LAYOUT - DRN EH - ISS 5
 
-![L1202A - P48 - Penny and Giles Fader Schematic(1).jpg](L1202A%20-%20P48%20-%20Penny%20and%20Giles%20Fader%20Schematic(1).jpg)
+![L1202A - P48 - Penny and Giles Fader Schematic(1).jpg](L1202A%20-%20P48%20-%20Penny%20and%20Giles%20Fader%20Schematic%281%29.jpg)
 
 ## Title block
 

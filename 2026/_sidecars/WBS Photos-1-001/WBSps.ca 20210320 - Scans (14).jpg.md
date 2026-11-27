@@ -1,6 +1,6 @@
 # 1977 - 745-03-001 - A&B HEATSINK DETAIL - DRN MRW - ENG MRW - ISS 1
 
-![WBSps.ca 20210320 - Scans (14).jpg](WBSps.ca%2020210320%20-%20Scans%20(14).jpg)
+![WBSps.ca 20210320 - Scans (14).jpg](WBSps.ca%2020210320%20-%20Scans%20%2814%29.jpg)
 
 ## Title block
 

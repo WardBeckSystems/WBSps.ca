@@ -1,6 +1,6 @@
 # 1975 - B 9317 - 80-11 POWER TRANSFORMER - DRN D. M'FARLANE
 
-![WBSps.ca - 20210317 11X 17 Scans  (136).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(136).png)
+![WBSps.ca - 20210317 11X 17 Scans  (136).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%28136%29.png)
 
 ## Title block
 

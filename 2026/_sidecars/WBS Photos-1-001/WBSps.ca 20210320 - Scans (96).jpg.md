@@ -1,6 +1,6 @@
 # 1980 - 485-03-005 - CAPACITOR MTG. PLATE - DRN P. Mahoney - ISS 2
 
-![WBSps.ca 20210320 - Scans (96).jpg](WBSps.ca%2020210320%20-%20Scans%20(96).jpg)
+![WBSps.ca 20210320 - Scans (96).jpg](WBSps.ca%2020210320%20-%20Scans%20%2896%29.jpg)
 
 ## Title block
 

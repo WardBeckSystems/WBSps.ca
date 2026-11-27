@@ -1,6 +1,6 @@
 # 1979 - B 9536 - SLIDING NUT - DRN A-F - ISS 1
 
-![WBSps.ca 20210320 - Scans (86).jpg](WBSps.ca%2020210320%20-%20Scans%20(86).jpg)
+![WBSps.ca 20210320 - Scans (86).jpg](WBSps.ca%2020210320%20-%20Scans%20%2886%29.jpg)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 # 1987 - 526-03-006 - Front Panel Display Screens - DRN BD - ENG MRW - ISS 1
 
-![WBSps.ca 20210320 - Scans (112).jpg](WBSps.ca%2020210320%20-%20Scans%20(112).jpg)
+![WBSps.ca 20210320 - Scans (112).jpg](WBSps.ca%2020210320%20-%20Scans%20%28112%29.jpg)
 
 ## Title block
 

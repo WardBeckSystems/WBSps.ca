@@ -1,6 +1,6 @@
 # 1987 - 451-03-011 - BEYER TRANSFORMER MOUNTING BRACKET - DRN BD - ENG MRW - ISS 1
 
-![WBSps.ca 20210320 - Scans (128).jpg](WBSps.ca%2020210320%20-%20Scans%20(128).jpg)
+![WBSps.ca 20210320 - Scans (128).jpg](WBSps.ca%2020210320%20-%20Scans%20%28128%29.jpg)
 
 ## Title block
 

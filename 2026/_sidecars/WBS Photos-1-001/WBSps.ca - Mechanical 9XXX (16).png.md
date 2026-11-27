@@ -1,6 +1,6 @@
 # 1971 - A 9165 - SINGLE JACK MTG PLATE - HORIZONTAL - ISS 2
 
-![WBSps.ca - Mechanical 9XXX (16).png](WBSps.ca%20-%20Mechanical%209XXX%20(16).png)
+![WBSps.ca - Mechanical 9XXX (16).png](WBSps.ca%20-%20Mechanical%209XXX%20%2816%29.png)
 
 Mechanical detail of a single jack mounting plate in black bakelite.
 

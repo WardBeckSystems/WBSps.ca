@@ -1,6 +1,6 @@
 # 1982 - 1202-02-015 - OUTPUT LINE SELECTORS & VU SCHEMATIC - DRN JP - ENG MRW - ISS 1
 
-![L1202A - P42 - Output Line Selector and VU Schematic(1).jpg](L1202A%20-%20P42%20-%20Output%20Line%20Selector%20and%20VU%20Schematic(1).jpg)
+![L1202A - P42 - Output Line Selector and VU Schematic(1).jpg](L1202A%20-%20P42%20-%20Output%20Line%20Selector%20and%20VU%20Schematic%281%29.jpg)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 # 1977 - 457-03-007 - TRANSFORMER MOUNTING BRACKET - DRN GEB - ISS 2
 
-![WBSps.ca 20210320 - Scans (1).jpg](WBSps.ca%2020210320%20-%20Scans%20(1).jpg)
+![WBSps.ca 20210320 - Scans (1).jpg](WBSps.ca%2020210320%20-%20Scans%20%281%29.jpg)
 
 ## Title block
 

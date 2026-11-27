@@ -1,6 +1,6 @@
 # 1983 - B 9666 - PENNY & GILES -NEW- SINGLE FADER SHIM - DRN GEB - ENG GEB - ISS 1
 
-![WBSps.ca - 20210317 11X 17 Scans  (158).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(158).png)
+![WBSps.ca - 20210317 11X 17 Scans  (158).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%28158%29.png)
 
 ## Title block
 

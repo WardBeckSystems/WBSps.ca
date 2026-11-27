@@ -1,6 +1,6 @@
 # 1988 - 702-03-002 - M702C HEATSINK - DRN BD -88 - ENG WS - ISS 1
 
-![WBSps.ca 20210320 - Scans (16).jpg](WBSps.ca%2020210320%20-%20Scans%20(16).jpg)
+![WBSps.ca 20210320 - Scans (16).jpg](WBSps.ca%2020210320%20-%20Scans%20%2816%29.jpg)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 # 19xx - 900-03-211 - EQUALIZER MK SERIES CONSOLE SUPPORT TRIM - DRN DRG - ISS 1
 
-![WBSps.ca 20210319 -  (11).jpg](WBSps.ca%2020210319%20-%20%20(11).jpg)
+![WBSps.ca 20210319 -  (11).jpg](WBSps.ca%2020210319%20-%20%20%2811%29.jpg)
 
 Mechanical drawing of an aluminum angle console support/trim piece.
 

@@ -1,6 +1,6 @@
 # 1995 - 445-03-010 - FRONT LOCK LATCH & BLOCK - DRN DRG - ISS 1
 
-![WBSps.ca 20210320 - Scans (121).jpg](WBSps.ca%2020210320%20-%20Scans%20(121).jpg)
+![WBSps.ca 20210320 - Scans (121).jpg](WBSps.ca%2020210320%20-%20Scans%20%28121%29.jpg)
 
 ## Title block
 

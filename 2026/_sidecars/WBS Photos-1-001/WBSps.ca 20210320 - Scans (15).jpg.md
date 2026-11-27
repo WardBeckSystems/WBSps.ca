@@ -1,6 +1,6 @@
 # 19xx - 702-03-003 - M702D HEATSINK - DRN WS - ISS 1
 
-![WBSps.ca 20210320 - Scans (15).jpg](WBSps.ca%2020210320%20-%20Scans%20(15).jpg)
+![WBSps.ca 20210320 - Scans (15).jpg](WBSps.ca%2020210320%20-%20Scans%20%2815%29.jpg)
 
 ## Title block
 

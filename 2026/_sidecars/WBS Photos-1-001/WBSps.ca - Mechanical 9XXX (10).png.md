@@ -1,6 +1,6 @@
 # 1971 - A 9188 - SPACER - DRN DGS - ISS 2
 
-![WBSps.ca - Mechanical 9XXX (10).png](WBSps.ca%20-%20Mechanical%209XXX%20(10).png)
+![WBSps.ca - Mechanical 9XXX (10).png](WBSps.ca%20-%20Mechanical%209XXX%20%2810%29.png)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 # 19xx - 907-03-001 - MASTER MODULE - DRN DRG - ISS 2
 
-![WBSps.ca 20210319 -  (26).jpg](WBSps.ca%2020210319%20-%20%20(26).jpg)
+![WBSps.ca 20210319 -  (26).jpg](WBSps.ca%2020210319%20-%20%20%2826%29.jpg)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 # 1988 - 8224-03-004 - END CAP - DRN DS - ISS 1
 
-![WBSps.ca - 20210317 11X 17 Scans  (187).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(187).png)
+![WBSps.ca - 20210317 11X 17 Scans  (187).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%28187%29.png)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 # 1980 - 14-001-02-001 - 14-001 CUE LINE SELECTOR SCHEMATIC - DRN P. MAHONEY - ENG MRW - ISS 2
 
-![L1202A - P45 - Cue Line Selector Schematic(1).jpg](L1202A%20-%20P45%20-%20Cue%20Line%20Selector%20Schematic(1).jpg)
+![L1202A - P45 - Cue Line Selector Schematic(1).jpg](L1202A%20-%20P45%20-%20Cue%20Line%20Selector%20Schematic%281%29.jpg)
 
 ## Title block
 

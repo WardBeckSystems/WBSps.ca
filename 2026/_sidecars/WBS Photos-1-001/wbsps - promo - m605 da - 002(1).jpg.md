@@ -1,6 +1,6 @@
 # 19xx - M605 - M605
 
-![wbsps - promo - m605 da - 002(1).jpg](wbsps%20-%20promo%20-%20m605%20da%20-%20002(1).jpg)
+![wbsps - promo - m605 da - 002(1).jpg](wbsps%20-%20promo%20-%20m605%20da%20-%20002%281%29.jpg)
 
 Product data sheet for the M605 distribution amplifier with block diagram and technical data, WBS logo at bottom left.
 

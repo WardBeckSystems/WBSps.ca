@@ -1,6 +1,6 @@
 # 1994 - 940238-03-005 - M905NW CONTROLLER MONITOR MODULE - ISS 1
 
-![WBSps.ca 20210319 -  (8).jpg](WBSps.ca%2020210319%20-%20%20(8).jpg)
+![WBSps.ca 20210319 -  (8).jpg](WBSps.ca%2020210319%20-%20%20%288%29.jpg)
 
 ## Title block
 

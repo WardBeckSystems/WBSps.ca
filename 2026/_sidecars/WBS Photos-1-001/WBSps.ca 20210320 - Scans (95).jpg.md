@@ -1,6 +1,6 @@
 # 1988 - 490-03-022 - P.C.B. SHEILD COVER - DRN AMK -8 - ENG PC - ISS 5
 
-![WBSps.ca 20210320 - Scans (95).jpg](WBSps.ca%2020210320%20-%20Scans%20(95).jpg)
+![WBSps.ca 20210320 - Scans (95).jpg](WBSps.ca%2020210320%20-%20Scans%20%2895%29.jpg)
 
 ## Title block
 

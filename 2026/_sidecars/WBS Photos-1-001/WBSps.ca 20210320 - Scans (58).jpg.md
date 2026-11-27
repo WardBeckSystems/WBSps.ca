@@ -1,6 +1,6 @@
 # 1978 - 468-02-033 - M468V REVERB ASSIGN MODULE SCHEMATIC - DRN MRW - ISS 1
 
-![WBSps.ca 20210320 - Scans (58).jpg](WBSps.ca%2020210320%20-%20Scans%20(58).jpg)
+![WBSps.ca 20210320 - Scans (58).jpg](WBSps.ca%2020210320%20-%20Scans%20%2858%29.jpg)
 
 ## Title block
 

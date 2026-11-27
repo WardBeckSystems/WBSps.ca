@@ -1,6 +1,6 @@
 # 1978 - 478-02-004 - M478C ASSIGN MODULE SCHEMATIC - DRN gene - ENG ELJ - ISS 1
 
-![WBSps.ca 20210320 - Scans (65).jpg](WBSps.ca%2020210320%20-%20Scans%20(65).jpg)
+![WBSps.ca 20210320 - Scans (65).jpg](WBSps.ca%2020210320%20-%20Scans%20%2865%29.jpg)
 
 ## Title block
 

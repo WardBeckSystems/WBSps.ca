@@ -1,6 +1,6 @@
 # 1987 - 600-02-007 - CUE CHANNEL SCHEMATIC - DRN JRG - ENG GEB - ISS 1
 
-![WBSps.ca - 20210317 11X 17 Scans  (1).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20(1).png)
+![WBSps.ca - 20210317 11X 17 Scans  (1).png](WBSps.ca%20-%2020210317%2011X%2017%20Scans%20%20%281%29.png)
 
 ## Title block
 

@@ -1,6 +1,6 @@
 # 19xx - 900-03-020 - MK SERIES METER BRIDGE LID SUPPORT - DRN DRG - ISS 2
 
-![WBSps.ca 20210319 -  (30).jpg](WBSps.ca%2020210319%20-%20%20(30).jpg)
+![WBSps.ca 20210319 -  (30).jpg](WBSps.ca%2020210319%20-%20%20%2830%29.jpg)
 
 ## Title block
 

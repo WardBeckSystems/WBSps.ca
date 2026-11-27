@@ -1,6 +1,6 @@
 # 1980 - 14-001-02-002 - 14-001A INPUT LINE SELECTOR SCHEMATIC - DRN P. MAHONEY - ENG MRW - ISS 1
 
-![L1202A - P46 - Input Line Selector Schematic(1).jpg](L1202A%20-%20P46%20-%20Input%20Line%20Selector%20Schematic(1).jpg)
+![L1202A - P46 - Input Line Selector Schematic(1).jpg](L1202A%20-%20P46%20-%20Input%20Line%20Selector%20Schematic%281%29.jpg)
 
 ## Title block
 

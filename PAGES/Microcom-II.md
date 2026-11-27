@@ -15,7 +15,7 @@ tags: ["product", "micro-series"]
 | Earliest dated evidence | not dated yet |
 | Evidence | — |
 | Confidence | — |
-| Folder | [Modules/COMMUNICATION/M7880](../Modules/COMMUNICATION/M7880/) |
+| Folder | [Modules/COMMUNICATION/M7880](../Products/Modules/COMMUNICATION/M7880/) |
 | Folder | [Products/MICRO SERIES/MicroCOM](../Products/MICRO%20SERIES/MicroCOM/) |
 | Folder | [Products/MICRO SERIES/MicroCOM II](../Products/MICRO%20SERIES/MicroCOM%20II/) |
 

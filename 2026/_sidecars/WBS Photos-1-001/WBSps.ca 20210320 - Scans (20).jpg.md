@@ -1,6 +1,6 @@
 # 1988 - 8000-03-005 - COVER - DRN DS - ISS 1
 
-![WBSps.ca 20210320 - Scans (20).jpg](WBSps.ca%2020210320%20-%20Scans%20(20).jpg)
+![WBSps.ca 20210320 - Scans (20).jpg](WBSps.ca%2020210320%20-%20Scans%20%2820%29.jpg)
 
 ## Title block
 

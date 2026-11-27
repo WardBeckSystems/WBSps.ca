@@ -1,6 +1,6 @@
 # 1971 - A 9123 - SWITCH MOUNTING PLATE SINGLE PENDAR BUTTON - DRN WWH - ISS 1
 
-![WBSps.ca - Mechanical 9XXX (32).png](WBSps.ca%20-%20Mechanical%209XXX%20(32).png)
+![WBSps.ca - Mechanical 9XXX (32).png](WBSps.ca%20-%20Mechanical%209XXX%20%2832%29.png)
 
 ## Title block
 
