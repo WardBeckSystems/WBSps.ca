@@ -1,0 +1,144 @@
+{
+ "format": "wbs-model/1",
+ "module": "M482B",
+ "repo": "MODULES.MONITORING.M482B-Monitor-Module",
+ "title": "Monitor Module",
+ "category": "MONITORING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 60.45,
+  "h": 304.63,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M482B - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 34.79,
+   "y": 45.77,
+   "r": 5.33
+  },
+  {
+   "shape": "circle",
+   "x": 11.91,
+   "y": 221.83,
+   "r": 4.68
+  },
+  {
+   "shape": "circle",
+   "x": 11.91,
+   "y": 269.69,
+   "r": 4.64
+  },
+  {
+   "shape": "circle",
+   "x": 12.06,
+   "y": 173.58,
+   "r": 4.6
+  },
+  {
+   "shape": "circle",
+   "x": 11.98,
+   "y": 197.63,
+   "r": 4.6
+  },
+  {
+   "shape": "circle",
+   "x": 11.98,
+   "y": 209.69,
+   "r": 4.6
+  },
+  {
+   "shape": "circle",
+   "x": 12.22,
+   "y": 92.01,
+   "r": 4.56
+  },
+  {
+   "shape": "circle",
+   "x": 12.22,
+   "y": 103.92,
+   "r": 4.56
+  },
+  {
+   "shape": "circle",
+   "x": 12.06,
+   "y": 185.56,
+   "r": 4.56
+  },
+  {
+   "shape": "circle",
+   "x": 11.98,
+   "y": 234.2,
+   "r": 4.56
+  },
+  {
+   "shape": "circle",
+   "x": 11.98,
+   "y": 245.8,
+   "r": 4.56
+  },
+  {
+   "shape": "circle",
+   "x": 11.98,
+   "y": 257.55,
+   "r": 4.56
+  },
+  {
+   "shape": "circle",
+   "x": 12.45,
+   "y": 80.1,
+   "r": 4.52
+  },
+  {
+   "shape": "circle",
+   "x": 12.14,
+   "y": 116.06,
+   "r": 4.48
+  },
+  {
+   "shape": "circle",
+   "x": 12.68,
+   "y": 45.7,
+   "r": 3.36
+  },
+  {
+   "shape": "circle",
+   "x": 12.06,
+   "y": 128.12,
+   "r": 2.59
+  },
+  {
+   "shape": "circle",
+   "x": 11.98,
+   "y": 161.67,
+   "r": 2.55
+  },
+  {
+   "shape": "circle",
+   "x": 23.58,
+   "y": 5.72,
+   "r": 2.28
+  },
+  {
+   "shape": "circle",
+   "x": 22.35,
+   "y": 298.91,
+   "r": 2.28
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1982 - M482B - 482-04-001 - MONITOR MODULE FRONT PANEL (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.15 wide to high, the size 0.20: placed by its height"
+ ],
+ "stl": "MECHANICAL/M482B.stl"
+}

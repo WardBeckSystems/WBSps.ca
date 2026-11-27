@@ -1,0 +1,29 @@
+{
+ "format": "wbs-model/1",
+ "module": "M472A",
+ "repo": "MODULES.FILTERS.M472A-Stereo-Equalizer-Module",
+ "title": "Stereo Equalizer Module",
+ "category": "FILTERS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 178.0,
+  "d": 165.0
+ },
+ "size_from": "assumed: 1.6\" x 7\" x 6.5\", the common module",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M472A - front panel.svg",
+  "kind": "none"
+ },
+ "body": "card",
+ "holes": [],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/19xx - M472A - DOC - STEREO L SERIES - P009 - B77012-04-011 L (traced).json"
+ ],
+ "notes": [
+  "no drawing of the front panel: the panel is blank"
+ ],
+ "stl": "MECHANICAL/M472A.stl"
+}

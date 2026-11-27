@@ -1,0 +1,113 @@
+{
+ "format": "wbs-model/1",
+ "module": "M901",
+ "repo": "MODULES.UNSORTED.M901-Input-Module",
+ "title": "Input Module",
+ "category": "UNSORTED",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 38.0,
+  "h": 410.0,
+  "d": 168.0
+ },
+ "size_from": "TECHNICAL DATA: 1.5\" wide x 16.2\" high x 6.6\" deep. (38mm x 410mm x 168mm).",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M901 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 16.48,
+   "y": 20.43,
+   "w": 29.26,
+   "h": 23.48
+  },
+  {
+   "shape": "rect",
+   "x": 16.75,
+   "y": 45.14,
+   "w": 26.08,
+   "h": 23.62
+  },
+  {
+   "shape": "circle",
+   "x": 26.55,
+   "y": 297.32,
+   "r": 5.41
+  },
+  {
+   "shape": "circle",
+   "x": 13.84,
+   "y": 373.04,
+   "r": 5.37
+  },
+  {
+   "shape": "circle",
+   "x": 13.04,
+   "y": 297.75,
+   "r": 5.34
+  },
+  {
+   "shape": "circle",
+   "x": 10.13,
+   "y": 68.77,
+   "r": 5.27
+  },
+  {
+   "shape": "circle",
+   "x": 13.57,
+   "y": 346.74,
+   "r": 5.27
+  },
+  {
+   "shape": "rect",
+   "x": 25.95,
+   "y": 93.55,
+   "w": 10.06,
+   "h": 3.91
+  },
+  {
+   "shape": "rect",
+   "x": 26.28,
+   "y": 114.71,
+   "w": 9.93,
+   "h": 3.91
+  },
+  {
+   "shape": "circle",
+   "x": 27.41,
+   "y": 352.25,
+   "r": 1.7
+  },
+  {
+   "shape": "circle",
+   "x": 27.67,
+   "y": 378.55,
+   "r": 1.66
+  },
+  {
+   "shape": "circle",
+   "x": 27.21,
+   "y": 340.87,
+   "r": 1.63
+  },
+  {
+   "shape": "circle",
+   "x": 27.54,
+   "y": 367.32,
+   "r": 1.63
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1994 - M901 - DOC - 940448-04-002 - ODULES ARE WIRED BUT NOT SUPPLIIED INITIALLY FUTURE (traced).json",
+  "MECHANICAL/19xx - 901-03-012 - M450B MOUNTING BRACKET FOR M901 TEST JIG - DRN PAS - ENG PAS - ISS 1 (traced).json",
+  "MECHANICAL/19xx - M901 - DOC - 901-03-011 - SQES TDURCE FICTS (traced).json",
+  "MECHANICAL/19xx - M901 - DOC - 901-03-012 - SAND AND CLEAN REMOVE ALL BURRS AND SHARP (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M901.stl"
+}

@@ -1,0 +1,33 @@
+{
+ "format": "wbs-model/1",
+ "module": "M401",
+ "repo": "MODULES.METER.M401-Noise-Suppressor",
+ "title": "Noise Suppressor",
+ "category": "METER",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 178.0,
+  "d": 165.0
+ },
+ "size_from": "assumed: 1.6\" x 7\" x 6.5\", the common module",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M401 - front panel.svg",
+  "kind": "none"
+ },
+ "body": "card",
+ "holes": [],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1968 - 401-03-008 - SIDE PANEL DETAIL - ISS 1 (traced).json",
+  "MECHANICAL/1969 - 401-03-007 - COVER PLATE DETAIL - ISS 2 (traced).json",
+  "MECHANICAL/1973 - 401-03-013 - COVER PLATE - DRN DPS - ISS 2 (traced).json",
+  "MECHANICAL/19xx - 401-03-010 - NOISE SUPPRESSOR REAR COVER (MODIFIED FOR CFRA-FM) - ISS 2 (traced).json",
+  "MECHANICAL/19xx - M401 - DOC - 401-03-004 - HOLES DIA (traced).json"
+ ],
+ "notes": [
+  "no drawing of the front panel: the panel is blank"
+ ],
+ "stl": "MECHANICAL/M401.stl"
+}

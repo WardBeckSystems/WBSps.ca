@@ -1,0 +1,122 @@
+{
+ "format": "wbs-model/1",
+ "module": "M473A",
+ "repo": "MODULES.SUMMING.M473A-Submaster-Module",
+ "title": "Submaster Module",
+ "category": "SUMMING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 55.49,
+  "h": 207.7,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M473A - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 13.57,
+   "y": 175.9,
+   "w": 12.25,
+   "h": 22.65
+  },
+  {
+   "shape": "rect",
+   "x": 31.02,
+   "y": 175.9,
+   "w": 11.79,
+   "h": 22.03
+  },
+  {
+   "shape": "circle",
+   "x": 33.04,
+   "y": 77.25,
+   "r": 5.35
+  },
+  {
+   "shape": "circle",
+   "x": 33.04,
+   "y": 122.69,
+   "r": 5.27
+  },
+  {
+   "shape": "circle",
+   "x": 11.25,
+   "y": 31.72,
+   "r": 4.89
+  },
+  {
+   "shape": "circle",
+   "x": 32.57,
+   "y": 30.94,
+   "r": 4.65
+  },
+  {
+   "shape": "circle",
+   "x": 11.56,
+   "y": 87.72,
+   "r": 4.58
+  },
+  {
+   "shape": "circle",
+   "x": 11.71,
+   "y": 77.09,
+   "r": 4.54
+  },
+  {
+   "shape": "circle",
+   "x": 11.79,
+   "y": 122.31,
+   "r": 4.54
+  },
+  {
+   "shape": "circle",
+   "x": 11.79,
+   "y": 132.85,
+   "r": 4.54
+  },
+  {
+   "shape": "circle",
+   "x": 11.4,
+   "y": 65.92,
+   "r": 4.46
+  },
+  {
+   "shape": "circle",
+   "x": 11.4,
+   "y": 111.29,
+   "r": 4.42
+  },
+  {
+   "shape": "circle",
+   "x": 22.1,
+   "y": 202.03,
+   "r": 2.09
+  },
+  {
+   "shape": "circle",
+   "x": 22.41,
+   "y": 5.58,
+   "r": 1.82
+  }
+ ],
+ "knobs": [
+  {
+   "x": 32.57,
+   "y": 30.94,
+   "r": 9.73
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/1977 - M473A - 473-04-006 - WHEN DEPRESSED FEEDS SUBHA STER (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.21 wide to high, the size 0.27: placed by its height"
+ ],
+ "stl": "MECHANICAL/M473A.stl"
+}

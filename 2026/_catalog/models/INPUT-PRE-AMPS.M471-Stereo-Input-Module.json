@@ -1,0 +1,194 @@
+{
+ "format": "wbs-model/1",
+ "module": "M471",
+ "repo": "MODULES.INPUT-PRE-AMPS.M471-Stereo-Input-Module",
+ "title": "Stereo Input Module",
+ "category": "INPUT-PRE-AMPS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 52.03,
+  "h": 313.49,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M471 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 24.36,
+   "y": 243.48,
+   "w": 9.25,
+   "h": 31.77
+  },
+  {
+   "shape": "rect",
+   "x": 8.79,
+   "y": 243.63,
+   "w": 9.25,
+   "h": 31.46
+  },
+  {
+   "shape": "rect",
+   "x": 24.13,
+   "y": 281.41,
+   "w": 8.79,
+   "h": 16.04
+  },
+  {
+   "shape": "rect",
+   "x": 8.71,
+   "y": 281.41,
+   "w": 6.32,
+   "h": 13.57
+  },
+  {
+   "shape": "circle",
+   "x": 25.52,
+   "y": 45.64,
+   "r": 4.75
+  },
+  {
+   "shape": "circle",
+   "x": 9.17,
+   "y": 198.84,
+   "r": 4.39
+  },
+  {
+   "shape": "circle",
+   "x": 25.52,
+   "y": 24.21,
+   "r": 4.2
+  },
+  {
+   "shape": "circle",
+   "x": 9.33,
+   "y": 24.13,
+   "r": 3.78
+  },
+  {
+   "shape": "circle",
+   "x": 9.33,
+   "y": 45.64,
+   "r": 3.66
+  },
+  {
+   "shape": "circle",
+   "x": 9.41,
+   "y": 34.85,
+   "r": 3.39
+  },
+  {
+   "shape": "circle",
+   "x": 9.41,
+   "y": 94.99,
+   "r": 3.39
+  },
+  {
+   "shape": "circle",
+   "x": 9.41,
+   "y": 152.66,
+   "r": 3.39
+  },
+  {
+   "shape": "rect",
+   "x": 24.67,
+   "y": 189.66,
+   "w": 5.24,
+   "h": 6.78
+  },
+  {
+   "shape": "circle",
+   "x": 9.41,
+   "y": 70.39,
+   "r": 3.35
+  },
+  {
+   "shape": "circle",
+   "x": 9.48,
+   "y": 79.41,
+   "r": 3.35
+  },
+  {
+   "shape": "circle",
+   "x": 9.41,
+   "y": 128.22,
+   "r": 3.35
+  },
+  {
+   "shape": "circle",
+   "x": 9.33,
+   "y": 119.43,
+   "r": 3.32
+  },
+  {
+   "shape": "circle",
+   "x": 9.33,
+   "y": 143.94,
+   "r": 3.32
+  },
+  {
+   "shape": "circle",
+   "x": 9.33,
+   "y": 103.47,
+   "r": 3.28
+  },
+  {
+   "shape": "rect",
+   "x": 24.52,
+   "y": 198.99,
+   "w": 4.93,
+   "h": 6.63
+  },
+  {
+   "shape": "circle",
+   "x": 9.02,
+   "y": 171.78,
+   "r": 2.51
+  },
+  {
+   "shape": "circle",
+   "x": 8.94,
+   "y": 215.88,
+   "r": 1.85
+  },
+  {
+   "shape": "circle",
+   "x": 16.58,
+   "y": 308.55,
+   "r": 1.66
+  },
+  {
+   "shape": "circle",
+   "x": 17.5,
+   "y": 4.7,
+   "r": 1.62
+  }
+ ],
+ "knobs": [
+  {
+   "x": 25.52,
+   "y": 24.21,
+   "r": 7.9
+  },
+  {
+   "x": 25.52,
+   "y": 45.64,
+   "r": 6.51
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/1977 - M471 - DOC - 77012-04-011 - FADERS SPACE FOR MOTION CONTROL ISSU (traced).json",
+  "MECHANICAL/1982 - 471-04-007 - M471A STEREO INPUT MODULE ASSEMBLY - DRN DN - ENG PC - ISS 1 (traced).json",
+  "MECHANICAL/19xx - 471-04-004 (traced).json",
+  "MECHANICAL/19xx - 471-04-004 - STEREO INPUT MODULE MODULE LAYOUT - ISS 1 (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.11 wide to high, the size 0.17: placed by its height"
+ ],
+ "stl": "MECHANICAL/M471.stl"
+}

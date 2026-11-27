@@ -1,0 +1,94 @@
+{
+ "format": "wbs-model/1",
+ "module": "M490",
+ "repo": "MODULES.INPUT-PRE-AMPS.M490-Stereo-Input-Module",
+ "title": "Stereo Input Module",
+ "category": "INPUT-PRE-AMPS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 44.69,
+  "h": 276.35,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M490 - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 14.83,
+   "y": 23.02,
+   "w": 20.39,
+   "h": 15.76
+  },
+  {
+   "shape": "rect",
+   "x": 10.35,
+   "y": 247.62,
+   "w": 8.03,
+   "h": 27.5
+  },
+  {
+   "shape": "rect",
+   "x": 21.24,
+   "y": 222.13,
+   "w": 7.88,
+   "h": 14.21
+  },
+  {
+   "shape": "rect",
+   "x": 10.35,
+   "y": 222.21,
+   "w": 7.72,
+   "h": 14.37
+  },
+  {
+   "shape": "circle",
+   "x": 21.7,
+   "y": 40.24,
+   "r": 5.25
+  },
+  {
+   "shape": "circle",
+   "x": 8.11,
+   "y": 40.16,
+   "r": 3.36
+  },
+  {
+   "shape": "circle",
+   "x": 22.24,
+   "y": 240.98,
+   "r": 2.24
+  },
+  {
+   "shape": "circle",
+   "x": 14.75,
+   "y": 3.4,
+   "r": 1.51
+  }
+ ],
+ "knobs": [
+  {
+   "x": 21.7,
+   "y": 40.24,
+   "r": 6.72
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/1978 - 490-04-011 - M490C LINE INPUT MODULE FRONT PANEL - DRN GEB - ENG GEB (traced).json",
+  "MECHANICAL/1978 - M490 - 490-03-006 - FREE FROM MARKS AND SCRATCHES DETAIL RETAIL (traced).json",
+  "MECHANICAL/1980 - 490-03-016 - SWITCH MOUNTING BRACKET M490 - DRN ALF - ENG GEB - ISS 6 (traced).json",
+  "MECHANICAL/1988 - 490-03-022 - P.C.B. SHEILD COVER - DRN AMK -8 - ENG PC - ISS 5 (traced).json",
+  "MECHANICAL/19xx - M490 - DOC - 1490-03-025 - INPUT MODULE ESCUTCHEON (traced).json",
+  "MECHANICAL/19xx - M490 - DOC - 490-03-001 - INPUT MODULE EXTEUSION ISSU (traced).json",
+  "MECHANICAL/19xx - M490 - DOC - 490-03-004 - WITH WHITE EPEXT (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.11 wide to high, the size 0.16: placed by its height"
+ ],
+ "stl": "MECHANICAL/M490.stl"
+}

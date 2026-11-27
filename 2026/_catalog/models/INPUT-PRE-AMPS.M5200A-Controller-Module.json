@@ -1,0 +1,55 @@
+{
+ "format": "wbs-model/1",
+ "module": "M5200A",
+ "repo": "MODULES.INPUT-PRE-AMPS.M5200A-Controller-Module",
+ "title": "Controller Module",
+ "category": "INPUT-PRE-AMPS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 483.0,
+  "h": 44.0,
+  "d": 406.0
+ },
+ "size_from": "TECHNICAL DATA: 19.00\" wide 1.75\" high 16.00\" deep (483 mm X 44 mm 406 mm)",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M5200A - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "chassis",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 395.87,
+   "y": 22.87,
+   "w": 42.7,
+   "h": 12.19
+  },
+  {
+   "shape": "rect",
+   "x": 243.57,
+   "y": 20.65,
+   "w": 15.67,
+   "h": 18.2
+  },
+  {
+   "shape": "circle",
+   "x": 207.15,
+   "y": 20.58,
+   "r": 2.73
+  },
+  {
+   "shape": "circle",
+   "x": 319.93,
+   "y": 20.97,
+   "r": 2.27
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1985 - M5200A - 5200-04-002 - CONTROLLER MODULE MODULE LAYOUT (traced).json",
+  "MECHANICAL/1985 - M5200A - B 5200-04-002 - CONTROLLER MODULE - MODULE LAYOUT (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M5200A.stl"
+}

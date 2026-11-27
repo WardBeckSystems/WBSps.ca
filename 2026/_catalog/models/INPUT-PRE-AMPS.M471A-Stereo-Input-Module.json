@@ -1,0 +1,115 @@
+{
+ "format": "wbs-model/1",
+ "module": "M471A",
+ "repo": "MODULES.INPUT-PRE-AMPS.M471A-Stereo-Input-Module",
+ "title": "Stereo Input Module",
+ "category": "INPUT-PRE-AMPS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 73.74,
+  "h": 267.78,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M471A - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 42.59,
+   "y": 38.78,
+   "r": 5.99
+  },
+  {
+   "shape": "circle",
+   "x": 17.25,
+   "y": 203.12,
+   "r": 5.69
+  },
+  {
+   "shape": "circle",
+   "x": 15.57,
+   "y": 38.85,
+   "r": 4.75
+  },
+  {
+   "shape": "circle",
+   "x": 16.56,
+   "y": 69.46,
+   "r": 4.75
+  },
+  {
+   "shape": "circle",
+   "x": 17.79,
+   "y": 99.39,
+   "r": 4.54
+  },
+  {
+   "shape": "circle",
+   "x": 17.1,
+   "y": 145.03,
+   "r": 4.5
+  },
+  {
+   "shape": "circle",
+   "x": 16.87,
+   "y": 216.17,
+   "r": 3.24
+  },
+  {
+   "shape": "circle",
+   "x": 46.1,
+   "y": 20.99,
+   "r": 3.09
+  },
+  {
+   "shape": "circle",
+   "x": 28.78,
+   "y": 5.11,
+   "r": 2.9
+  },
+  {
+   "shape": "circle",
+   "x": 30.84,
+   "y": 262.13,
+   "r": 2.9
+  },
+  {
+   "shape": "circle",
+   "x": 15.57,
+   "y": 262.36,
+   "r": 1.79
+  }
+ ],
+ "knobs": [
+  {
+   "x": 42.59,
+   "y": 38.78,
+   "r": 11.6
+  },
+  {
+   "x": 15.57,
+   "y": 38.85,
+   "r": 8.74
+  },
+  {
+   "x": 16.56,
+   "y": 69.46,
+   "r": 8.59
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/1985 - M471A - 471-04-006 - STEREO INPUT MODULE (traced).json",
+  "MECHANICAL/1985 - M471A - 471-04-007 - STEREO INPUT MODULE (traced).json",
+  "MECHANICAL/1985 - M471A - 471-04-008 - ENG STEREO INPUT MODULE (traced).json",
+  "MECHANICAL/19xx - M471A - DOC - 471-04-006 - STEREO INPUT MODULE (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.22 wide to high, the size 0.28: placed by its height"
+ ],
+ "stl": "MECHANICAL/M471A.stl"
+}

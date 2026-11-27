@@ -1,0 +1,48 @@
+{
+ "format": "wbs-model/1",
+ "module": "M5201",
+ "repo": "MODULES.COMPUTERS.M5201-Machine-Control-Module",
+ "title": "Machine Control Module",
+ "category": "COMPUTERS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 483.0,
+  "h": 44.0,
+  "d": 406.0
+ },
+ "size_from": "TECHNICAL DATA: 19.00\" wide 1.75\" high 16.00\" deep (483 mm 44 mm 406 mm)",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M5201 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "chassis",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 392.56,
+   "y": 22.31,
+   "w": 42.21,
+   "h": 12.89
+  },
+  {
+   "shape": "circle",
+   "x": 317.27,
+   "y": 21.29,
+   "r": 2.29
+  },
+  {
+   "shape": "circle",
+   "x": 397.71,
+   "y": 13.36,
+   "r": 1.86
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1986 - M5201 - 5201-04-001 - MACHINE CONTROL MODULE MODULE LAYOUT (traced).json",
+  "MECHANICAL/19xx - 5201-04-001 - MACHINE CONTROL MODULE MODULE LAYOUT - ISS 1 (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M5201.stl"
+}

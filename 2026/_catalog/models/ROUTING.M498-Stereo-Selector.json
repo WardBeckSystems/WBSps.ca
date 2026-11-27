@@ -1,0 +1,57 @@
+{
+ "format": "wbs-model/1",
+ "module": "M498",
+ "repo": "MODULES.ROUTING.M498-Stereo-Selector",
+ "title": "Stereo Selector",
+ "category": "ROUTING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 55.05,
+  "h": 201.87,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M498 - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 12.76,
+   "y": 100.86,
+   "w": 15.88,
+   "h": 160.62
+  },
+  {
+   "shape": "rect",
+   "x": 29.26,
+   "y": 100.62,
+   "w": 11.83,
+   "h": 160.15
+  },
+  {
+   "shape": "circle",
+   "x": 21.4,
+   "y": 5.21,
+   "r": 2.1
+  },
+  {
+   "shape": "circle",
+   "x": 21.32,
+   "y": 196.26,
+   "r": 2.02
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1987 - 498-03-008 - M498D EXTRUSION DETAIL - DRN GEB - ENG GEB - ISS 1 (traced).json",
+  "MECHANICAL/19xx - M498 - 498-04-003 - STEREO SWITCHER MODULE FRONT PANEL (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.21 wide to high, the size 0.27: placed by its height"
+ ],
+ "stl": "MECHANICAL/M498.stl"
+}

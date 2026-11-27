@@ -1,0 +1,217 @@
+{
+ "format": "wbs-model/1",
+ "module": "M470C",
+ "repo": "MODULES.INPUT-PRE-AMPS.M470C-Input-Module",
+ "title": "Input Module",
+ "category": "INPUT-PRE-AMPS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 49.87,
+  "h": 310.03,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M470C - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 8.4,
+   "y": 256.87,
+   "w": 9.09,
+   "h": 61.94
+  },
+  {
+   "shape": "rect",
+   "x": 23.58,
+   "y": 256.95,
+   "w": 8.94,
+   "h": 61.79
+  },
+  {
+   "shape": "circle",
+   "x": 23.96,
+   "y": 118.11,
+   "r": 4.31
+  },
+  {
+   "shape": "circle",
+   "x": 23.88,
+   "y": 166.57,
+   "r": 4.31
+  },
+  {
+   "shape": "circle",
+   "x": 23.81,
+   "y": 93.69,
+   "r": 4.28
+  },
+  {
+   "shape": "circle",
+   "x": 23.81,
+   "y": 44.92,
+   "r": 4.04
+  },
+  {
+   "shape": "circle",
+   "x": 8.24,
+   "y": 23.42,
+   "r": 3.97
+  },
+  {
+   "shape": "circle",
+   "x": 8.24,
+   "y": 44.53,
+   "r": 3.97
+  },
+  {
+   "shape": "circle",
+   "x": 23.5,
+   "y": 22.65,
+   "r": 3.62
+  },
+  {
+   "shape": "circle",
+   "x": 8.4,
+   "y": 68.34,
+   "r": 3.62
+  },
+  {
+   "shape": "circle",
+   "x": 8.17,
+   "y": 92.92,
+   "r": 3.62
+  },
+  {
+   "shape": "circle",
+   "x": 8.09,
+   "y": 117.34,
+   "r": 3.62
+  },
+  {
+   "shape": "circle",
+   "x": 8.24,
+   "y": 125.51,
+   "r": 3.62
+  },
+  {
+   "shape": "circle",
+   "x": 23.5,
+   "y": 202.4,
+   "r": 3.62
+  },
+  {
+   "shape": "circle",
+   "x": 8.4,
+   "y": 211.03,
+   "r": 3.62
+  },
+  {
+   "shape": "circle",
+   "x": 8.32,
+   "y": 33.82,
+   "r": 3.58
+  },
+  {
+   "shape": "circle",
+   "x": 8.17,
+   "y": 76.51,
+   "r": 3.58
+  },
+  {
+   "shape": "circle",
+   "x": 8.17,
+   "y": 101.16,
+   "r": 3.58
+  },
+  {
+   "shape": "circle",
+   "x": 8.24,
+   "y": 150.39,
+   "r": 3.58
+  },
+  {
+   "shape": "circle",
+   "x": 8.32,
+   "y": 193.77,
+   "r": 3.58
+  },
+  {
+   "shape": "circle",
+   "x": 23.5,
+   "y": 210.95,
+   "r": 3.58
+  },
+  {
+   "shape": "circle",
+   "x": 8.24,
+   "y": 142.15,
+   "r": 3.54
+  },
+  {
+   "shape": "circle",
+   "x": 23.58,
+   "y": 184.68,
+   "r": 2.97
+  },
+  {
+   "shape": "circle",
+   "x": 8.24,
+   "y": 184.99,
+   "r": 2.08
+  },
+  {
+   "shape": "circle",
+   "x": 8.4,
+   "y": 202.09,
+   "r": 2.08
+  },
+  {
+   "shape": "circle",
+   "x": 8.63,
+   "y": 166.8,
+   "r": 2.04
+  },
+  {
+   "shape": "circle",
+   "x": 23.65,
+   "y": 193.31,
+   "r": 2.0
+  },
+  {
+   "shape": "circle",
+   "x": 15.79,
+   "y": 305.95,
+   "r": 1.77
+  },
+  {
+   "shape": "circle",
+   "x": 15.79,
+   "y": 3.78,
+   "r": 1.62
+  }
+ ],
+ "knobs": [
+  {
+   "x": 23.5,
+   "y": 22.65,
+   "r": 7.67
+  },
+  {
+   "x": 23.81,
+   "y": 44.92,
+   "r": 6.93
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/1977 - M470C - 470-04-010 - ADDI ONA EQUIPPED WITH CONTACTS (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.10 wide to high, the size 0.16: placed by its height"
+ ],
+ "stl": "MECHANICAL/M470C.stl"
+}

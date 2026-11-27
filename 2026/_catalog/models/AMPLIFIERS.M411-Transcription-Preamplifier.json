@@ -1,0 +1,30 @@
+{
+ "format": "wbs-model/1",
+ "module": "M411",
+ "repo": "MODULES.AMPLIFIERS.M411-Transcription-Preamplifier",
+ "title": "Transcription Preamplifier",
+ "category": "AMPLIFIERS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 63.5,
+  "h": 254.0,
+  "d": 165.0
+ },
+ "size_from": "TECHNICAL DATA: 2.5\"1 W X 10\" H x 7.5\" (depth below surface)",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M411 - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1970 - 411-03-001 - ESCUTCHEON (M411) - ISS 3 (traced).json",
+  "MECHANICAL/19xx - M411 - DOC - STEREO L SERIES - P009 - B77012-04-011 L (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.40 wide to high, the size 0.25: placed by its height"
+ ],
+ "stl": "MECHANICAL/M411.stl"
+}

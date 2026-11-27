@@ -1,0 +1,112 @@
+{
+ "format": "wbs-model/1",
+ "module": "M907",
+ "repo": "MODULES.UNSORTED.M907-Master-Module",
+ "title": "Master Module",
+ "category": "UNSORTED",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 38.0,
+  "h": 410.0,
+  "d": 168.0
+ },
+ "size_from": "TECHNICAL DATA: 1.5\" wide x 16.2\" high x 6.6\" deep. (38 mm x 410 mm x 168 mm).",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M907 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 26.23,
+   "y": 399.86,
+   "r": 3.62
+  },
+  {
+   "shape": "circle",
+   "x": 32.25,
+   "y": 337.97,
+   "r": 3.15
+  },
+  {
+   "shape": "circle",
+   "x": 32.75,
+   "y": 373.55,
+   "r": 3.15
+  },
+  {
+   "shape": "circle",
+   "x": 30.22,
+   "y": 195.72,
+   "r": 3.12
+  },
+  {
+   "shape": "circle",
+   "x": 31.81,
+   "y": 302.68,
+   "r": 3.12
+  },
+  {
+   "shape": "circle",
+   "x": 30.8,
+   "y": 231.38,
+   "r": 3.04
+  },
+  {
+   "shape": "circle",
+   "x": 29.86,
+   "y": 160.07,
+   "r": 3.01
+  },
+  {
+   "shape": "circle",
+   "x": 20.87,
+   "y": 16.96,
+   "r": 2.75
+  },
+  {
+   "shape": "circle",
+   "x": 23.41,
+   "y": 211.3,
+   "r": 2.72
+  },
+  {
+   "shape": "circle",
+   "x": 25.87,
+   "y": 384.78,
+   "r": 2.64
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1994 - M907 - DOC - 940332-04-001 - OTHERS AND ARE INTEGRATED INTO THE CONSOLE (traced).json",
+  "MECHANICAL/1994 - M907 - DOC - 940333-04-001 - OTHERS AND ARE INTEGRATED INTO THE CONSOLE (traced).json",
+  "MECHANICAL/1994 - M907 - DOC - 940334-04-001 - OTHERS AND ARE INTEGRATED INTO THE CONSOLE (traced).json",
+  "MECHANICAL/1994 - M907 - DOC - 940351-04-001 - DRNA TELEMEDIA RADIO ENG CUSTOIORK (traced).json",
+  "MECHANICAL/1994 - M907 - DOC - 940376-04-001 - LES ARE FULLY WIRED BUT NOT SUPPLIED INITIALLY (traced).json",
+  "MECHANICAL/1994 - M907 - DOC - 940410-04-001 - FUTURE MODULES ARE FULLY WRED BUT NOT SUPPLIED (traced).json",
+  "MECHANICAL/1994 - M907 - DOC - 940444-04-001 - OTHERS ELECTRICALLY AND MECHANICALLY INTEGRATED INTO CONSOLE (traced).json",
+  "MECHANICAL/1994 - M907 - DOC - 940446-04-001 - OTHERS ELECTRICALLY AND MECHANICALLY INTEGRATED INTO CONSOLE (traced).json",
+  "MECHANICAL/1994 - M907 - DOC - 940447-04-002 - OTHERS ELECTRICALLY AND MECHANICALLY INTEGRATED INTO CONSOLE (traced).json",
+  "MECHANICAL/1994 - M907 - DOC - 940448-04-002 - ODULES ARE WIRED BUT NOT SUPPLIIED INITIALLY FUTURE (traced).json",
+  "MECHANICAL/1994 - M907 - DOC - 94054-04-001 - CHNOM KOP TCNALI SSUEI REVSION (traced).json",
+  "MECHANICAL/1995 - M907 - DOC - 950144-04-001 - NOFTGTURE MODULES ARE WIRED INTO THE FRAME BUT (traced).json",
+  "MECHANICAL/1995 - M907 - DOC - 95015-04-002 - CANADIAN CHINESE RADIO ENG RENAISSANCE MKII (traced).json",
+  "MECHANICAL/1995 - M907 - DOC - 950190-04-001 - NOIE FUTURE MODULES ARE WIRED BUT NOT SUPPLIED (traced).json",
+  "MECHANICAL/1995 - M907 - DOC - 950224-04-001 - OPTIONAL IISSUE REVSION (traced).json",
+  "MECHANICAL/1995 - M907 - DOC - 950225-04-001 - HEADPKONE UME HUTE STUDIO TOTACOO VONITOR (traced).json",
+  "MECHANICAL/1995 - M907 - DOC - 950278-04-001 - HEADPHONE MUNE DON STUDIO HUTE TAKBUSICER KORNOR (traced).json",
+  "MECHANICAL/1995 - M907 - DOC - 950361-04-001 - HEADPHONE HUTE STUDIO HUTE TKBUAKOQ HONTOR (traced).json",
+  "MECHANICAL/1996 - M907 - DOC - 96002-04-004 - CFNY ENG MASTER CONTROL ROOM (traced).json",
+  "MECHANICAL/1996 - M907 - DOC - 960208-04-001 - HEADPHONE HOM STUDIO MUE TNROTIKO LONIIOK (traced).json",
+  "MECHANICAL/1996 - M907 - DOC - 960208-04-001 - LAADEODE MUTE STUDIO TAMOURKERO VOHNCA (traced).json",
+  "MECHANICAL/19xx - 907-03-001 - MASTER MODULE - DRN DRG - ISS 2 (traced).json",
+  "MECHANICAL/19xx - M907 - DOC - 907-03-001 - ISSUEI DATEI REMSION (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.12 wide to high, the size 0.09: placed by its height"
+ ],
+ "stl": "MECHANICAL/M907.stl"
+}

@@ -1,0 +1,216 @@
+{
+ "format": "wbs-model/1",
+ "module": "M454",
+ "repo": "MODULES.ROUTING.M454-Slate-Assign-Module",
+ "title": "Slate Assign Module",
+ "category": "ROUTING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 136.66,
+  "h": 319.75,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M454 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "chassis",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 15.18,
+   "y": 250.64,
+   "r": 6.32
+  },
+  {
+   "shape": "circle",
+   "x": 46.84,
+   "y": 250.87,
+   "r": 6.32
+  },
+  {
+   "shape": "circle",
+   "x": 46.84,
+   "y": 269.05,
+   "r": 6.32
+  },
+  {
+   "shape": "circle",
+   "x": 15.1,
+   "y": 268.9,
+   "r": 6.32
+  },
+  {
+   "shape": "circle",
+   "x": 15.33,
+   "y": 214.19,
+   "r": 6.28
+  },
+  {
+   "shape": "circle",
+   "x": 15.33,
+   "y": 232.38,
+   "r": 6.28
+  },
+  {
+   "shape": "circle",
+   "x": 15.79,
+   "y": 141.23,
+   "r": 6.24
+  },
+  {
+   "shape": "circle",
+   "x": 47.15,
+   "y": 159.49,
+   "r": 6.24
+  },
+  {
+   "shape": "circle",
+   "x": 47.23,
+   "y": 177.75,
+   "r": 6.24
+  },
+  {
+   "shape": "circle",
+   "x": 46.77,
+   "y": 232.61,
+   "r": 6.24
+  },
+  {
+   "shape": "circle",
+   "x": 16.03,
+   "y": 105.02,
+   "r": 6.2
+  },
+  {
+   "shape": "circle",
+   "x": 16.03,
+   "y": 123.35,
+   "r": 6.2
+  },
+  {
+   "shape": "circle",
+   "x": 15.56,
+   "y": 177.75,
+   "r": 6.2
+  },
+  {
+   "shape": "circle",
+   "x": 47.46,
+   "y": 123.28,
+   "r": 6.16
+  },
+  {
+   "shape": "circle",
+   "x": 47.0,
+   "y": 196.01,
+   "r": 6.16
+  },
+  {
+   "shape": "circle",
+   "x": 15.49,
+   "y": 195.93,
+   "r": 6.16
+  },
+  {
+   "shape": "circle",
+   "x": 46.92,
+   "y": 214.27,
+   "r": 6.16
+  },
+  {
+   "shape": "circle",
+   "x": 47.69,
+   "y": 68.26,
+   "r": 6.13
+  },
+  {
+   "shape": "circle",
+   "x": 47.62,
+   "y": 104.86,
+   "r": 6.13
+  },
+  {
+   "shape": "circle",
+   "x": 15.56,
+   "y": 159.57,
+   "r": 6.13
+  },
+  {
+   "shape": "circle",
+   "x": 16.03,
+   "y": 86.76,
+   "r": 6.09
+  },
+  {
+   "shape": "circle",
+   "x": 47.38,
+   "y": 141.38,
+   "r": 6.09
+  },
+  {
+   "shape": "circle",
+   "x": 31.97,
+   "y": 8.94,
+   "r": 5.2
+  },
+  {
+   "shape": "circle",
+   "x": 47.0,
+   "y": 47.46,
+   "r": 4.75
+  },
+  {
+   "shape": "circle",
+   "x": 32.21,
+   "y": 311.04,
+   "r": 3.12
+  },
+  {
+   "shape": "circle",
+   "x": 34.52,
+   "y": 141.54,
+   "r": 1.81
+  },
+  {
+   "shape": "circle",
+   "x": 14.02,
+   "y": 78.2,
+   "r": 1.58
+  },
+  {
+   "shape": "circle",
+   "x": 60.33,
+   "y": 215.12,
+   "r": 1.5
+  },
+  {
+   "shape": "circle",
+   "x": 14.95,
+   "y": 311.2,
+   "r": 1.5
+  }
+ ],
+ "knobs": [
+  {
+   "x": 47.0,
+   "y": 47.46,
+   "r": 8.86
+  },
+  {
+   "x": 47.69,
+   "y": 68.26,
+   "r": 6.9
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/1974 - M454 - 454-04-001 - PSSMOO CKO USD (traced).json",
+  "MECHANICAL/1974 - M454 - 454-04-003 - SLATE ASS IGNMENT MODULE (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.20 wide to high, the size 0.43: placed by its height"
+ ],
+ "stl": "MECHANICAL/M454.stl"
+}

@@ -1,0 +1,201 @@
+{
+ "format": "wbs-model/1",
+ "module": "M471C",
+ "repo": "MODULES.INPUT-PRE-AMPS.M471C-Stereo-Input-Module",
+ "title": "Stereo Input Module",
+ "category": "INPUT-PRE-AMPS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 360.0,
+  "d": 165.0
+ },
+ "size_from": "TECHNICAL DATA: 60\" wide 14.15\" high 6:50\" deep (41 MM 360 mm 165 mm",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M471C - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 10.47,
+   "y": 279.62,
+   "w": 10.55,
+   "h": 36.24
+  },
+  {
+   "shape": "rect",
+   "x": 28.37,
+   "y": 279.55,
+   "w": 10.4,
+   "h": 36.69
+  },
+  {
+   "shape": "rect",
+   "x": 10.32,
+   "y": 323.01,
+   "w": 10.25,
+   "h": 18.65
+  },
+  {
+   "shape": "rect",
+   "x": 27.93,
+   "y": 323.08,
+   "w": 10.1,
+   "h": 18.5
+  },
+  {
+   "shape": "circle",
+   "x": 11.07,
+   "y": 228.2,
+   "r": 4.93
+  },
+  {
+   "shape": "circle",
+   "x": 30.82,
+   "y": 28.05,
+   "r": 4.82
+  },
+  {
+   "shape": "circle",
+   "x": 30.75,
+   "y": 52.86,
+   "r": 4.75
+  },
+  {
+   "shape": "rect",
+   "x": 28.52,
+   "y": 228.42,
+   "w": 7.43,
+   "h": 9.02
+  },
+  {
+   "shape": "circle",
+   "x": 12.48,
+   "y": 27.67,
+   "r": 4.18
+  },
+  {
+   "shape": "circle",
+   "x": 12.33,
+   "y": 52.56,
+   "r": 4.15
+  },
+  {
+   "shape": "rect",
+   "x": 28.67,
+   "y": 217.82,
+   "w": 6.24,
+   "h": 7.67
+  },
+  {
+   "shape": "circle",
+   "x": 12.11,
+   "y": 109.1,
+   "r": 3.81
+  },
+  {
+   "shape": "circle",
+   "x": 12.55,
+   "y": 40.15,
+   "r": 3.77
+  },
+  {
+   "shape": "circle",
+   "x": 12.26,
+   "y": 80.9,
+   "r": 3.77
+  },
+  {
+   "shape": "circle",
+   "x": 12.26,
+   "y": 91.13,
+   "r": 3.77
+  },
+  {
+   "shape": "circle",
+   "x": 11.66,
+   "y": 165.26,
+   "r": 3.77
+  },
+  {
+   "shape": "circle",
+   "x": 11.66,
+   "y": 118.72,
+   "r": 3.74
+  },
+  {
+   "shape": "circle",
+   "x": 11.51,
+   "y": 175.26,
+   "r": 3.74
+  },
+  {
+   "shape": "circle",
+   "x": 11.81,
+   "y": 137.14,
+   "r": 3.7
+  },
+  {
+   "shape": "circle",
+   "x": 11.74,
+   "y": 147.14,
+   "r": 3.7
+  },
+  {
+   "shape": "circle",
+   "x": 10.99,
+   "y": 197.22,
+   "r": 2.73
+  },
+  {
+   "shape": "circle",
+   "x": 10.92,
+   "y": 217.07,
+   "r": 2.24
+  },
+  {
+   "shape": "circle",
+   "x": 11.22,
+   "y": 207.07,
+   "r": 2.13
+  },
+  {
+   "shape": "circle",
+   "x": 21.91,
+   "y": 5.56,
+   "r": 1.83
+  },
+  {
+   "shape": "circle",
+   "x": 19.01,
+   "y": 354.29,
+   "r": 1.79
+  },
+  {
+   "shape": "circle",
+   "x": 32.68,
+   "y": 16.24,
+   "r": 1.72
+  }
+ ],
+ "knobs": [
+  {
+   "x": 30.82,
+   "y": 28.05,
+   "r": 8.97
+  },
+  {
+   "x": 30.75,
+   "y": 52.86,
+   "r": 7.44
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/19xx - M471C - DOC - STEREO L SERIES - P015 - B471-04-004 R (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M471C.stl"
+}

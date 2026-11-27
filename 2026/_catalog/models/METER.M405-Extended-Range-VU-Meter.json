@@ -1,0 +1,130 @@
+{
+ "format": "wbs-model/1",
+ "module": "M405",
+ "repo": "MODULES.METER.M405-Extended-Range-VU-Meter",
+ "title": "Extended Range VU Meter",
+ "category": "METER",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 125.0,
+  "h": 225.0,
+  "d": 125.0
+ },
+ "size_from": "TECHNICAL DATA: 5.00\" wide 9.00\" high 5.00\" deep (125mm 225mm 125mm)",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M405 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "chassis",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 62.57,
+   "y": 178.61,
+   "w": 114.45,
+   "h": 46.1
+  },
+  {
+   "shape": "circle",
+   "x": 28.61,
+   "y": 111.05,
+   "r": 5.82
+  },
+  {
+   "shape": "circle",
+   "x": 28.97,
+   "y": 77.71,
+   "r": 4.75
+  },
+  {
+   "shape": "circle",
+   "x": 36.63,
+   "y": 33.56,
+   "r": 4.71
+  },
+  {
+   "shape": "circle",
+   "x": 16.45,
+   "y": 33.42,
+   "r": 4.61
+  },
+  {
+   "shape": "circle",
+   "x": 63.48,
+   "y": 136.35,
+   "r": 3.64
+  },
+  {
+   "shape": "circle",
+   "x": 52.59,
+   "y": 25.3,
+   "r": 2.11
+  },
+  {
+   "shape": "circle",
+   "x": 68.83,
+   "y": 56.11,
+   "r": 1.18
+  },
+  {
+   "shape": "circle",
+   "x": 59.13,
+   "y": 72.05,
+   "r": 1.18
+  },
+  {
+   "shape": "circle",
+   "x": 85.7,
+   "y": 50.16,
+   "r": 1.11
+  },
+  {
+   "shape": "circle",
+   "x": 98.43,
+   "y": 102.42,
+   "r": 1.11
+  },
+  {
+   "shape": "circle",
+   "x": 110.24,
+   "y": 89.59,
+   "r": 1.07
+  },
+  {
+   "shape": "circle",
+   "x": 71.64,
+   "y": 101.92,
+   "r": 1.04
+  }
+ ],
+ "knobs": [
+  {
+   "x": 28.97,
+   "y": 77.71,
+   "r": 13.35
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/1968 - 405-03-003 - COVER - ISS 1 (traced).json",
+  "MECHANICAL/1971 - 405-03-010 - RM405A JACK MOUNTING STRIP - DRN PHL - ISS 2 (traced).json",
+  "MECHANICAL/1973 - 405-03-012 - JACK MOUNTING STRIP - DRN GP - ISS 1 (traced).json",
+  "MECHANICAL/1975 - 405-03-023 - TRIM STRIP M405C - DRN G. Young - ISS 3 (traced).json",
+  "MECHANICAL/1975 - 405-03-027 - SPACER M405C - DRN G. Young - ISS 3 (traced).json",
+  "MECHANICAL/1975 - 405-04-006 - M405C EXT. RANGE VU COMPONENT LAYOUT - DRN REB - ISS 2 (traced).json",
+  "MECHANICAL/1975 - M405 - 405-04-013 - PORTABLE EXTENDED RANGE (traced).json",
+  "MECHANICAL/1981 - 405-03-034 - ATTENUATOR MOUNTING PLATE - DRN P. Mahoney - ISS 3 (traced).json",
+  "MECHANICAL/1982 - 405-03-035 - ATTENUATOR MOUNTING PLATE - DRN DRG - ISS 2 (traced).json",
+  "MECHANICAL/1984 - 405-03-049 - MOUNTING PLATE FOR ATTENUATOR USED ON M405D - DRN J - ENG MRW - ISS 2 (traced).json",
+  "MECHANICAL/1986 - 405-03-052 - FISH PAPER COVER - DRN GEB - ENG GEB - ISS 1 (traced).json",
+  "MECHANICAL/1988 - 405-03-072 - BATTERY DOOR - DRN DRG - ISS 1 (traced).json",
+  "MECHANICAL/1995 - 405-03-081 - M405M FRONT PANEL - DRN DRG (traced).json",
+  "MECHANICAL/1995 - 405-03-082 - M405M PCB CONNECTOR BRACKET - DRN DRG - ISS 1 (traced).json",
+  "MECHANICAL/19xx - 405-03-084 - M405S BASE - DRN DRG - ISS 2 (traced).json",
+  "MECHANICAL/19xx - 405-04-013 - PORTABLE EXTENDED RANGE VU METER FRONT & REAR LAYOUT - ISS 2 (2) (traced).json",
+  "MECHANICAL/19xx - 405-04-013 - PORTABLE EXTENDED RANGE VU METER FRONT & REAR LAYOUT - ISS 2 (traced).json",
+  "MECHANICAL/19xx - M405 - DOC - 405-03-100 - REMOVE ALL BURRS AND SHARP EDGES (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M405.stl"
+}

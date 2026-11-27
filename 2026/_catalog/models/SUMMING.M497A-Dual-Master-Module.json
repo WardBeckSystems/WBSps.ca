@@ -1,0 +1,68 @@
+{
+ "format": "wbs-model/1",
+ "module": "M497A",
+ "repo": "MODULES.SUMMING.M497A-Dual-Master-Module",
+ "title": "Dual Master Module",
+ "category": "SUMMING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 57.21,
+  "h": 207.26,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M497A - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 22.14,
+   "y": 125.15,
+   "w": 38.07,
+   "h": 10.41
+  },
+  {
+   "shape": "rect",
+   "x": 22.22,
+   "y": 41.95,
+   "w": 38.22,
+   "h": 10.25
+  },
+  {
+   "shape": "circle",
+   "x": 33.48,
+   "y": 70.46,
+   "r": 5.2
+  },
+  {
+   "shape": "circle",
+   "x": 33.17,
+   "y": 153.35,
+   "r": 5.17
+  },
+  {
+   "shape": "circle",
+   "x": 22.45,
+   "y": 4.66,
+   "r": 2.21
+  },
+  {
+   "shape": "circle",
+   "x": 22.37,
+   "y": 202.14,
+   "r": 2.18
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1978 - M497A - 497-04-004 - ENG DUAL MASTER MODULE (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.21 wide to high, the size 0.28: placed by its height"
+ ],
+ "stl": "MECHANICAL/M497A.stl"
+}

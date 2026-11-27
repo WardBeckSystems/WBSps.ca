@@ -1,0 +1,144 @@
+{
+ "format": "wbs-model/1",
+ "module": "M523",
+ "repo": "MODULES.SUMMING.M523-Stereo-Submaster-Module",
+ "title": "Stereo Submaster Module",
+ "category": "SUMMING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 360.0,
+  "d": 165.0
+ },
+ "size_from": "TECHNICAL DATA: 1.60\" ide 14.15\" high 6.50\" deep (41 mm 360 mm 165 mm The mixing bus amplifiers are an integral part of this module The outputs from these amplifiers feed the a",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M523 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 29.24,
+   "y": 29.86,
+   "w": 12.08,
+   "h": 11.88
+  },
+  {
+   "shape": "rect",
+   "x": 10.97,
+   "y": 29.33,
+   "w": 11.76,
+   "h": 10.82
+  },
+  {
+   "shape": "rect",
+   "x": 10.73,
+   "y": 78.69,
+   "w": 7.15,
+   "h": 8.07
+  },
+  {
+   "shape": "rect",
+   "x": 30.83,
+   "y": 329.91,
+   "w": 6.36,
+   "h": 8.68
+  },
+  {
+   "shape": "rect",
+   "x": 11.36,
+   "y": 147.55,
+   "w": 6.83,
+   "h": 8.07
+  },
+  {
+   "shape": "rect",
+   "x": 11.52,
+   "y": 181.68,
+   "w": 6.83,
+   "h": 8.07
+  },
+  {
+   "shape": "rect",
+   "x": 11.28,
+   "y": 166.52,
+   "w": 6.67,
+   "h": 8.23
+  },
+  {
+   "shape": "rect",
+   "x": 31.15,
+   "y": 242.54,
+   "w": 6.67,
+   "h": 8.23
+  },
+  {
+   "shape": "rect",
+   "x": 11.2,
+   "y": 132.16,
+   "w": 6.52,
+   "h": 8.38
+  },
+  {
+   "shape": "rect",
+   "x": 11.12,
+   "y": 113.27,
+   "w": 6.67,
+   "h": 8.07
+  },
+  {
+   "shape": "rect",
+   "x": 11.92,
+   "y": 278.87,
+   "w": 6.67,
+   "h": 8.07
+  },
+  {
+   "shape": "rect",
+   "x": 30.91,
+   "y": 222.05,
+   "w": 6.52,
+   "h": 8.07
+  },
+  {
+   "shape": "circle",
+   "x": 11.6,
+   "y": 202.24,
+   "r": 3.38
+  },
+  {
+   "shape": "circle",
+   "x": 11.6,
+   "y": 222.28,
+   "r": 3.35
+  },
+  {
+   "shape": "circle",
+   "x": 20.18,
+   "y": 5.18,
+   "r": 1.87
+  },
+  {
+   "shape": "circle",
+   "x": 21.53,
+   "y": 355.28,
+   "r": 1.83
+  },
+  {
+   "shape": "circle",
+   "x": 3.34,
+   "y": 149.0,
+   "r": 1.4
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1985 - M523 - B 523-04-001 - M523 STEREO SUBMASTER MODULE - MODULE LAYOUT (traced).json",
+  "MECHANICAL/19xx - M523 - DOC - 3642-04-003 - ADERS STEREO MASTER FADERS MONO INPUT FADERS (traced).json",
+  "MECHANICAL/19xx - M523 - DOC - 523-04-001 - STEREO SUB MODULE (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M523.stl"
+}

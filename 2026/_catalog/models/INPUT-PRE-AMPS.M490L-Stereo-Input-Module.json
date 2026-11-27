@@ -1,0 +1,101 @@
+{
+ "format": "wbs-model/1",
+ "module": "M490L",
+ "repo": "MODULES.INPUT-PRE-AMPS.M490L-Stereo-Input-Module",
+ "title": "Stereo Input Module",
+ "category": "INPUT-PRE-AMPS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 360.0,
+  "d": 165.0
+ },
+ "size_from": "TECHNICAL DATA: wide 14.15\" high (41 Mm 360 mm 165 Mm) deep",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M490L - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 19.87,
+   "y": 38.7,
+   "w": 21.71,
+   "h": 19.42
+  },
+  {
+   "shape": "rect",
+   "x": 17.14,
+   "y": 317.17,
+   "w": 8.63,
+   "h": 34.35
+  },
+  {
+   "shape": "rect",
+   "x": 27.54,
+   "y": 60.22,
+   "w": 14.47,
+   "h": 16.67
+  },
+  {
+   "shape": "rect",
+   "x": 28.43,
+   "y": 285.65,
+   "w": 8.38,
+   "h": 17.97
+  },
+  {
+   "shape": "rect",
+   "x": 16.57,
+   "y": 285.65,
+   "w": 8.5,
+   "h": 17.68
+  },
+  {
+   "shape": "circle",
+   "x": 12.82,
+   "y": 60.29,
+   "r": 3.87
+  },
+  {
+   "shape": "circle",
+   "x": 29.83,
+   "y": 325.51,
+   "r": 2.58
+  },
+  {
+   "shape": "circle",
+   "x": 29.64,
+   "y": 308.84,
+   "r": 2.55
+  },
+  {
+   "shape": "circle",
+   "x": 13.14,
+   "y": 72.68,
+   "r": 1.84
+  },
+  {
+   "shape": "circle",
+   "x": 22.78,
+   "y": 348.04,
+   "r": 1.84
+  },
+  {
+   "shape": "circle",
+   "x": 19.74,
+   "y": 14.86,
+   "r": 1.77
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1983 - M490L - 490-04-024 - SMILCH SWI THIS SICH THE MOMENIARY JCION IDC (traced).json",
+  "MECHANICAL/1983 - M490L - 490-04-024 - TOR THE INEI CONTROI RIO IDES CONT NUOUS (traced).json",
+  "MECHANICAL/19xx - M490L - DOC - 490-04-024 - OGRAM CHANNCIS BUI-IN (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M490L.stl"
+}

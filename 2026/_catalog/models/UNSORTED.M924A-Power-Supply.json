@@ -1,0 +1,27 @@
+{
+ "format": "wbs-model/1",
+ "module": "M924A",
+ "repo": "MODULES.UNSORTED.M924A-Power-Supply",
+ "title": "Power Supply",
+ "category": "UNSORTED",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 189.26,
+  "d": 165.0
+ },
+ "size_from": "assumed 41 mm wide (1.6\"), the drawn panel's proportions",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M924A - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/19xx - M924A - DOC - 924-03-003 - NQIES REVOVE ALL BURRS AND SHARP EDGES TOL (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M924A.stl"
+}

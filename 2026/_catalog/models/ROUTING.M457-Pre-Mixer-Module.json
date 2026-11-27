@@ -1,0 +1,112 @@
+{
+ "format": "wbs-model/1",
+ "module": "M457",
+ "repo": "MODULES.ROUTING.M457-Pre-Mixer-Module",
+ "title": "Pre Mixer Module",
+ "category": "ROUTING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 40.93,
+  "h": 154.09,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M457 - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 7.7,
+   "y": 100.91,
+   "r": 3.46
+  },
+  {
+   "shape": "circle",
+   "x": 7.31,
+   "y": 30.94,
+   "r": 3.42
+  },
+  {
+   "shape": "circle",
+   "x": 7.46,
+   "y": 39.96,
+   "r": 3.42
+  },
+  {
+   "shape": "circle",
+   "x": 7.39,
+   "y": 61.34,
+   "r": 3.42
+  },
+  {
+   "shape": "circle",
+   "x": 7.85,
+   "y": 91.97,
+   "r": 3.42
+  },
+  {
+   "shape": "circle",
+   "x": 7.93,
+   "y": 122.37,
+   "r": 3.42
+  },
+  {
+   "shape": "circle",
+   "x": 7.93,
+   "y": 131.39,
+   "r": 3.42
+  },
+  {
+   "shape": "circle",
+   "x": 7.7,
+   "y": 69.81,
+   "r": 3.38
+  },
+  {
+   "shape": "circle",
+   "x": 25.27,
+   "y": 61.57,
+   "r": 2.22
+  },
+  {
+   "shape": "circle",
+   "x": 24.96,
+   "y": 31.18,
+   "r": 2.18
+  },
+  {
+   "shape": "circle",
+   "x": 16.17,
+   "y": 3.65,
+   "r": 1.59
+  },
+  {
+   "shape": "circle",
+   "x": 17.18,
+   "y": 150.36,
+   "r": 1.59
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1975 - M457 - 457-04-005 - CHANNE CHE DES IRED PROPORTION FORM TNE UUTPU (traced).json",
+  "MECHANICAL/1975 - M457 - 457-04-005 - CHANNE JIN THE DESIRED PROPORTION IFORM THE OUTPUT (traced).json",
+  "MECHANICAL/1975 - M457 - 457-04-005 - FORM THE OUTPUT IGNA (traced).json",
+  "MECHANICAL/1975 - M457 - 457-04-005 - THE DES IRED PROPORT ION (traced).json",
+  "MECHANICAL/1975 - M457 - 457-04-005 - THE DES RED PROPORTION (traced).json",
+  "MECHANICAL/1975 - M457 - 461-03-015 - ILSLL MILUE ADDED (traced).json",
+  "MECHANICAL/1975 - M457 - 461-03-015 - ZOIAN ALL TRANSISTORS ARE (traced).json",
+  "MECHANICAL/1975 - M457 - 481-03-015 - DUAL BOOSTER AMPLIFIER (traced).json",
+  "MECHANICAL/1975 - M457 - 481-03-015 - GEB USED (traced).json",
+  "MECHANICAL/1977 - 457-03-007 - TRANSFORMER MOUNTING BRACKET - DRN GEB - ISS 2 (traced).json",
+  "MECHANICAL/1977 - 457-04-005 - 4X2 PREMIXER MODULE FRONT PANEL - DRN P. Mahoney - ISS 2 (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.22 wide to high, the size 0.27: placed by its height"
+ ],
+ "stl": "MECHANICAL/M457.stl"
+}

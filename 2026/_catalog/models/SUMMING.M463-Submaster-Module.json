@@ -1,0 +1,191 @@
+{
+ "format": "wbs-model/1",
+ "module": "M463",
+ "repo": "MODULES.SUMMING.M463-Submaster-Module",
+ "title": "Submaster Module",
+ "category": "SUMMING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 67.36,
+  "h": 419.28,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M463 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 33.0,
+   "y": 373.87,
+   "w": 12.03,
+   "h": 41.48
+  },
+  {
+   "shape": "rect",
+   "x": 11.64,
+   "y": 373.79,
+   "w": 11.57,
+   "h": 41.63
+  },
+  {
+   "shape": "circle",
+   "x": 32.85,
+   "y": 265.77,
+   "r": 5.74
+  },
+  {
+   "shape": "circle",
+   "x": 32.69,
+   "y": 193.76,
+   "r": 5.67
+  },
+  {
+   "shape": "circle",
+   "x": 32.46,
+   "y": 66.15,
+   "r": 5.59
+  },
+  {
+   "shape": "circle",
+   "x": 32.69,
+   "y": 146.03,
+   "r": 5.4
+  },
+  {
+   "shape": "circle",
+   "x": 10.72,
+   "y": 31.38,
+   "r": 5.32
+  },
+  {
+   "shape": "circle",
+   "x": 32.38,
+   "y": 97.69,
+   "r": 5.2
+  },
+  {
+   "shape": "circle",
+   "x": 10.33,
+   "y": 193.68,
+   "r": 4.78
+  },
+  {
+   "shape": "circle",
+   "x": 11.57,
+   "y": 335.62,
+   "r": 3.89
+  },
+  {
+   "shape": "circle",
+   "x": 11.33,
+   "y": 322.52,
+   "r": 3.86
+  },
+  {
+   "shape": "circle",
+   "x": 10.87,
+   "y": 217.97,
+   "r": 3.16
+  },
+  {
+   "shape": "circle",
+   "x": 33.23,
+   "y": 322.13,
+   "r": 3.12
+  },
+  {
+   "shape": "circle",
+   "x": 10.56,
+   "y": 169.85,
+   "r": 3.08
+  },
+  {
+   "shape": "circle",
+   "x": 10.79,
+   "y": 121.67,
+   "r": 3.01
+  },
+  {
+   "shape": "circle",
+   "x": 11.18,
+   "y": 281.81,
+   "r": 2.85
+  },
+  {
+   "shape": "circle",
+   "x": 10.72,
+   "y": 97.76,
+   "r": 2.81
+  },
+  {
+   "shape": "circle",
+   "x": 11.26,
+   "y": 254.2,
+   "r": 2.81
+  },
+  {
+   "shape": "circle",
+   "x": 31.15,
+   "y": 241.64,
+   "r": 2.78
+  },
+  {
+   "shape": "circle",
+   "x": 11.41,
+   "y": 267.39,
+   "r": 2.78
+  },
+  {
+   "shape": "circle",
+   "x": 31.46,
+   "y": 295.14,
+   "r": 2.78
+  },
+  {
+   "shape": "circle",
+   "x": 32.77,
+   "y": 81.96,
+   "r": 2.7
+  },
+  {
+   "shape": "circle",
+   "x": 11.57,
+   "y": 241.17,
+   "r": 2.7
+  },
+  {
+   "shape": "circle",
+   "x": 11.57,
+   "y": 295.07,
+   "r": 2.66
+  },
+  {
+   "shape": "circle",
+   "x": 11.18,
+   "y": 309.02,
+   "r": 2.58
+  },
+  {
+   "shape": "circle",
+   "x": 21.97,
+   "y": 414.19,
+   "r": 2.2
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1972 - M463 - 463-04-002 - OUTPUT AMP UPPER LEGEND (traced).json",
+  "MECHANICAL/1972 - M463 - 463-04-020 - BETWEEN ASS IGNED MIXING BUSES LEFT AND RIGHT (traced).json",
+  "MECHANICAL/1972 - M463 - 463-04-020 - WHEN DEPRESSED THIS SWITCH INSERTS THE EQUALIZER SECTION (traced).json",
+  "MECHANICAL/1976 - 463-04-008 - M463M SUB MASTER MODULE ASSEMBLY (LAYOUT) - DRN MING - ISS 1 (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.11 wide to high, the size 0.16: placed by its height"
+ ],
+ "stl": "MECHANICAL/M463.stl"
+}

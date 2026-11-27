@@ -1,0 +1,74 @@
+{
+ "format": "wbs-model/1",
+ "module": "M402",
+ "repo": "MODULES.FILTERS.M402-Equalizer",
+ "title": "Equalizer",
+ "category": "FILTERS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 52.68,
+  "h": 185.46,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M402 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 23.14,
+   "y": 59.1,
+   "r": 4.75
+  },
+  {
+   "shape": "circle",
+   "x": 22.83,
+   "y": 105.85,
+   "r": 4.75
+  },
+  {
+   "shape": "circle",
+   "x": 13.44,
+   "y": 24.7,
+   "r": 2.91
+  },
+  {
+   "shape": "circle",
+   "x": 22.37,
+   "y": 180.64,
+   "r": 2.49
+  },
+  {
+   "shape": "circle",
+   "x": 23.53,
+   "y": 41.08,
+   "r": 2.1
+  }
+ ],
+ "knobs": [
+  {
+   "x": 23.14,
+   "y": 59.1,
+   "r": 9.13
+  },
+  {
+   "x": 22.83,
+   "y": 105.85,
+   "r": 7.26
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/1968 - M402 - 402-04-005 - QIN BEND RAD UNLESS (traced).json",
+  "MECHANICAL/1969 - 402-03-004 - SWITCH MTG BRKT M402A - ISS 4 (traced).json",
+  "MECHANICAL/1971 - 402-03-003 - ESCUTCHEON DRILLING DETAIL - DRN WWH - ISS 7 (traced).json",
+  "MECHANICAL/1971 - 402-04-005 - M402B EQUALIZER MODULE LAYOUT - DRN PHL - ISS 1 (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.24 wide to high, the size 0.28: placed by its height"
+ ],
+ "stl": "MECHANICAL/M402.stl"
+}

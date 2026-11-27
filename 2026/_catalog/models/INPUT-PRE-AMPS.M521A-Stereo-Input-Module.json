@@ -1,0 +1,66 @@
+{
+ "format": "wbs-model/1",
+ "module": "M521A",
+ "repo": "MODULES.INPUT-PRE-AMPS.M521A-Stereo-Input-Module",
+ "title": "Stereo Input Module",
+ "category": "INPUT-PRE-AMPS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 360.0,
+  "d": 165.0
+ },
+ "size_from": "TECHNICAL DATA: 1.60\" wide 14.15\" high 6.50\" deep (41 mm 360 mm 165 mm)",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M521A - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 30.04,
+   "y": 28.98,
+   "w": 14.28,
+   "h": 14.29
+  },
+  {
+   "shape": "circle",
+   "x": 11.2,
+   "y": 28.82,
+   "r": 5.73
+  },
+  {
+   "shape": "circle",
+   "x": 11.62,
+   "y": 44.53,
+   "r": 4.48
+  },
+  {
+   "shape": "rect",
+   "x": 11.04,
+   "y": 62.91,
+   "w": 5.81,
+   "h": 7.7
+  },
+  {
+   "shape": "circle",
+   "x": 20.67,
+   "y": 4.24,
+   "r": 1.98
+  },
+  {
+   "shape": "circle",
+   "x": 3.49,
+   "y": 182.98,
+   "r": 1.21
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1982 - M521A - 521-04-002 - MODULE LAYOUT (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M521A.stl"
+}

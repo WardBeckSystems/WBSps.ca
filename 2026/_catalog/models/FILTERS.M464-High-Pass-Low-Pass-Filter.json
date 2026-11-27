@@ -1,0 +1,68 @@
+{
+ "format": "wbs-model/1",
+ "module": "M464",
+ "repo": "MODULES.FILTERS.M464-High-Pass-Low-Pass-Filter",
+ "title": "High Pass Low Pass Filter",
+ "category": "FILTERS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 53.54,
+  "h": 199.71,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M464 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 21.31,
+   "y": 154.37,
+   "r": 5.02
+  },
+  {
+   "shape": "circle",
+   "x": 21.23,
+   "y": 68.75,
+   "r": 4.78
+  },
+  {
+   "shape": "circle",
+   "x": 31.96,
+   "y": 41.92,
+   "r": 2.41
+  },
+  {
+   "shape": "circle",
+   "x": 31.81,
+   "y": 125.98,
+   "r": 2.37
+  },
+  {
+   "shape": "circle",
+   "x": 21.15,
+   "y": 5.44,
+   "r": 2.18
+  },
+  {
+   "shape": "circle",
+   "x": 21.39,
+   "y": 194.73,
+   "r": 2.06
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1976 - M464 - 464-04-003 - PASS-LO PASS FILTER (traced).json",
+  "MECHANICAL/1977 - M464 - 464-04-003 - GNA PATH AND IUMINATES ASSOC IATED (traced).json",
+  "MECHANICAL/19xx - M464 - DOC - 464-04-003 - PASS-LO PASS FILTER FRONT PANEL (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.21 wide to high, the size 0.27: placed by its height"
+ ],
+ "stl": "MECHANICAL/M464.stl"
+}

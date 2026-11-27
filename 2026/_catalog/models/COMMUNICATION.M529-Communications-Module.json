@@ -1,0 +1,167 @@
+{
+ "format": "wbs-model/1",
+ "module": "M529",
+ "repo": "MODULES.COMMUNICATION.M529-Communications-Module",
+ "title": "Communications Module",
+ "category": "COMMUNICATION",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 360.0,
+  "d": 165.0
+ },
+ "size_from": "TECHNICAL DATA: 1.60\" wide 14.15\" high 6.50\" deep_ (41mm 360 mm 165 mm)",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M529 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 10.5,
+   "y": 102.09,
+   "w": 15.74,
+   "h": 99.41
+  },
+  {
+   "shape": "circle",
+   "x": 30.01,
+   "y": 108.12,
+   "r": 6.3
+  },
+  {
+   "shape": "circle",
+   "x": 29.93,
+   "y": 83.41,
+   "r": 6.26
+  },
+  {
+   "shape": "circle",
+   "x": 9.76,
+   "y": 28.42,
+   "r": 4.42
+  },
+  {
+   "shape": "circle",
+   "x": 29.85,
+   "y": 164.15,
+   "r": 4.3
+  },
+  {
+   "shape": "circle",
+   "x": 30.18,
+   "y": 58.41,
+   "r": 4.26
+  },
+  {
+   "shape": "circle",
+   "x": 30.01,
+   "y": 96.06,
+   "r": 4.26
+  },
+  {
+   "shape": "rect",
+   "x": 30.34,
+   "y": 209.76,
+   "w": 6.89,
+   "h": 8.19
+  },
+  {
+   "shape": "circle",
+   "x": 29.93,
+   "y": 132.97,
+   "r": 4.22
+  },
+  {
+   "shape": "rect",
+   "x": 30.59,
+   "y": 192.05,
+   "w": 6.72,
+   "h": 8.19
+  },
+  {
+   "shape": "rect",
+   "x": 30.26,
+   "y": 244.59,
+   "w": 6.72,
+   "h": 8.19
+  },
+  {
+   "shape": "circle",
+   "x": 29.93,
+   "y": 120.55,
+   "r": 4.18
+  },
+  {
+   "shape": "circle",
+   "x": 29.77,
+   "y": 145.99,
+   "r": 4.18
+  },
+  {
+   "shape": "rect",
+   "x": 30.42,
+   "y": 227.1,
+   "w": 6.72,
+   "h": 8.04
+  },
+  {
+   "shape": "circle",
+   "x": 10.25,
+   "y": 164.15,
+   "r": 3.4
+  },
+  {
+   "shape": "circle",
+   "x": 29.85,
+   "y": 177.17,
+   "r": 3.32
+  },
+  {
+   "shape": "circle",
+   "x": 30.09,
+   "y": 269.14,
+   "r": 2.66
+  },
+  {
+   "shape": "circle",
+   "x": 9.92,
+   "y": 40.93,
+   "r": 2.46
+  },
+  {
+   "shape": "circle",
+   "x": 9.92,
+   "y": 176.65,
+   "r": 2.39
+  },
+  {
+   "shape": "circle",
+   "x": 20.5,
+   "y": 4.69,
+   "r": 2.39
+  },
+  {
+   "shape": "circle",
+   "x": 20.66,
+   "y": 355.46,
+   "r": 2.39
+  },
+  {
+   "shape": "circle",
+   "x": 34.11,
+   "y": 16.89,
+   "r": 1.13
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1985 - 529-03-005 - IDENT COVER - DRN BD - ENG MRW - ISS 2 (traced).json",
+  "MECHANICAL/1985 - M529 - 529-04-002 (traced).json",
+  "MECHANICAL/19xx - M529 - DOC - 529-04-001 - COMMUNICA TIONS MODULE (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M529.stl"
+}

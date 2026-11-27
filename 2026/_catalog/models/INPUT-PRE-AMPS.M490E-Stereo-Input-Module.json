@@ -1,0 +1,100 @@
+{
+ "format": "wbs-model/1",
+ "module": "M490E",
+ "repo": "MODULES.INPUT-PRE-AMPS.M490E-Stereo-Input-Module",
+ "title": "Stereo Input Module",
+ "category": "INPUT-PRE-AMPS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 43.18,
+  "h": 267.07,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M490E - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 13.82,
+   "y": 22.24,
+   "w": 19.31,
+   "h": 15.45
+  },
+  {
+   "shape": "rect",
+   "x": 8.42,
+   "y": 239.65,
+   "w": 7.57,
+   "h": 27.03
+  },
+  {
+   "shape": "rect",
+   "x": 19.0,
+   "y": 214.7,
+   "w": 7.72,
+   "h": 13.9
+  },
+  {
+   "shape": "rect",
+   "x": 8.42,
+   "y": 214.63,
+   "w": 7.57,
+   "h": 13.75
+  },
+  {
+   "shape": "circle",
+   "x": 20.23,
+   "y": 38.92,
+   "r": 5.1
+  },
+  {
+   "shape": "circle",
+   "x": 7.18,
+   "y": 38.69,
+   "r": 3.32
+  },
+  {
+   "shape": "circle",
+   "x": 19.77,
+   "y": 246.06,
+   "r": 2.16
+  },
+  {
+   "shape": "circle",
+   "x": 19.77,
+   "y": 232.85,
+   "r": 2.12
+  },
+  {
+   "shape": "circle",
+   "x": 13.9,
+   "y": 3.17,
+   "r": 1.43
+  },
+  {
+   "shape": "circle",
+   "x": 13.82,
+   "y": 263.67,
+   "r": 1.43
+  }
+ ],
+ "knobs": [
+  {
+   "x": 20.23,
+   "y": 38.92,
+   "r": 6.41
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/1978 - M490E - 90-04-013 - THE PROGRAM CHANNE TAICCBS THE BUILT-IN LAY (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.10 wide to high, the size 0.16: placed by its height"
+ ],
+ "stl": "MECHANICAL/M490E.stl"
+}

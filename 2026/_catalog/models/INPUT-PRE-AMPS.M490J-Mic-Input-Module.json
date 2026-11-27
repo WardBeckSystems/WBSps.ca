@@ -1,0 +1,109 @@
+{
+ "format": "wbs-model/1",
+ "module": "M490J",
+ "repo": "MODULES.INPUT-PRE-AMPS.M490J-Mic-Input-Module",
+ "title": "Mic Input Module",
+ "category": "INPUT-PRE-AMPS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 43.83,
+  "h": 268.58,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M490J - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 13.99,
+   "y": 21.87,
+   "w": 19.93,
+   "h": 15.3
+  },
+  {
+   "shape": "rect",
+   "x": 9.58,
+   "y": 240.69,
+   "w": 7.73,
+   "h": 27.04
+  },
+  {
+   "shape": "rect",
+   "x": 20.32,
+   "y": 215.65,
+   "w": 7.88,
+   "h": 14.06
+  },
+  {
+   "shape": "rect",
+   "x": 9.43,
+   "y": 215.81,
+   "w": 7.73,
+   "h": 14.06
+  },
+  {
+   "shape": "circle",
+   "x": 20.32,
+   "y": 38.48,
+   "r": 5.18
+  },
+  {
+   "shape": "circle",
+   "x": 7.11,
+   "y": 38.87,
+   "r": 3.21
+  },
+  {
+   "shape": "circle",
+   "x": 21.87,
+   "y": 234.12,
+   "r": 2.2
+  },
+  {
+   "shape": "circle",
+   "x": 15.38,
+   "y": 264.79,
+   "r": 1.62
+  },
+  {
+   "shape": "circle",
+   "x": 13.99,
+   "y": 3.71,
+   "r": 1.58
+  },
+  {
+   "shape": "circle",
+   "x": 23.41,
+   "y": 66.6,
+   "r": 1.12
+  },
+  {
+   "shape": "circle",
+   "x": 3.63,
+   "y": 247.18,
+   "r": 1.08
+  }
+ ],
+ "knobs": [
+  {
+   "x": 20.32,
+   "y": 38.48,
+   "r": 6.61
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/1983 - M490J - 490-04-020 - EAEN DEPREATED ENABIET PAM NINOL RISO-RISI CONTROLE IEVA (traced).json",
+  "MECHANICAL/1983 - M490J - 490-04-020 - IIGNA DUCDOSE IROM REMOLE IOCATLON RELATED THE DARILCULAR (traced).json",
+  "MECHANICAL/19xx - M490J - DOC - 490-03-035 - FREE FROM MARKS AND SCRATCHES (traced).json",
+  "MECHANICAL/19xx - M490J - DOC - 90-04-020 - JIANI INDLLCANE ANLUS NIS SWITCH AISO IURN CUE (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.11 wide to high, the size 0.16: placed by its height"
+ ],
+ "stl": "MECHANICAL/M490J.stl"
+}

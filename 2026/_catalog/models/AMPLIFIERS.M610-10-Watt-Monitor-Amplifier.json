@@ -1,0 +1,30 @@
+{
+ "format": "wbs-model/1",
+ "module": "M610",
+ "repo": "MODULES.AMPLIFIERS.M610-10-Watt-Monitor-Amplifier",
+ "title": "10 Watt Monitor Amplifier",
+ "category": "AMPLIFIERS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 86.36,
+  "h": 86.36,
+  "d": 165.0
+ },
+ "size_from": "TECHNICAL DATA: 3.4W X 3.4H X 13.70 inches 4 lbs net.",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M610 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/19xx - M610 - 610-04-001 - MGIO FIINISH CRA (traced).json",
+  "MECHANICAL/19xx - M610 - 610-04-001 - WATT MONITOR AMPLIFIE (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.76 wide to high, the size 1.00: placed by its height"
+ ],
+ "stl": "MECHANICAL/M610.stl"
+}

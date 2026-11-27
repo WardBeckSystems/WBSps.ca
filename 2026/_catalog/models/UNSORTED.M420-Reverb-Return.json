@@ -1,0 +1,70 @@
+{
+ "format": "wbs-model/1",
+ "module": "M420",
+ "repo": "MODULES.UNSORTED.M420-Reverb-Return",
+ "title": "Reverb Return",
+ "category": "UNSORTED",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 50.52,
+  "h": 223.46,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M420 - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 16.15,
+   "y": 36.21,
+   "w": 10.92,
+   "h": 5.46
+  },
+  {
+   "shape": "rect",
+   "x": 43.46,
+   "y": 29.92,
+   "w": 11.4,
+   "h": 5.22
+  },
+  {
+   "shape": "rect",
+   "x": 26.0,
+   "y": 36.21,
+   "w": 7.36,
+   "h": 5.46
+  },
+  {
+   "shape": "rect",
+   "x": 25.65,
+   "y": 30.16,
+   "w": 7.6,
+   "h": 5.22
+  },
+  {
+   "shape": "circle",
+   "x": 28.02,
+   "y": 98.55,
+   "r": 3.21
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1969 - 420-03-002 - SWITCH MTG BRACKET M420 - ISS 7 (traced).json",
+  "MECHANICAL/1969 - 420-03-003 - SWITCH MTG BRKT M 420 - DRN DJG - ISS 2 (traced).json",
+  "MECHANICAL/1969 - 420-03-005 - MTG. BRKT. M420 - ISS 1 (traced).json",
+  "MECHANICAL/1969 - M420 - DOC - 420-03-003 - SYMMETRICAL ABOOT E'S UNLESS STATED (traced).json",
+  "MECHANICAL/1969 - M420 - DOC - 420-04-001 - GIVEN ANGLES MIN BEND RAD (traced).json",
+  "MECHANICAL/1969 - M420 - DOC - FUL SIZU TIGAC IARD ECK SVSTEMS LID SWITCH (traced).json",
+  "MECHANICAL/19xx - 420-03-004 - ESCUTCHEON M420 - ISS 2 (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.29 wide to high, the size 0.23: placed by its height"
+ ],
+ "stl": "MECHANICAL/M420.stl"
+}

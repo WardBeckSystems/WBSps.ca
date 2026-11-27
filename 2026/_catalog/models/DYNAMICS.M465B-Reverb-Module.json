@@ -1,0 +1,94 @@
+{
+ "format": "wbs-model/1",
+ "module": "M465B",
+ "repo": "MODULES.DYNAMICS.M465B-Reverb-Module",
+ "title": "Reverb Module",
+ "category": "DYNAMICS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 178.0,
+  "d": 165.0
+ },
+ "size_from": "TECHNICAL DATA: 1.6\" wide X 7\" high X 6.5\" deep. (41mm X 178mm X 165mm)",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M465B - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 30.93,
+   "y": 56.31,
+   "r": 4.8
+  },
+  {
+   "shape": "circle",
+   "x": 29.95,
+   "y": 27.78,
+   "r": 4.75
+  },
+  {
+   "shape": "circle",
+   "x": 29.07,
+   "y": 109.24,
+   "r": 4.11
+  },
+  {
+   "shape": "circle",
+   "x": 29.78,
+   "y": 74.77,
+   "r": 4.07
+  },
+  {
+   "shape": "circle",
+   "x": 28.89,
+   "y": 120.67,
+   "r": 3.89
+  },
+  {
+   "shape": "circle",
+   "x": 21.21,
+   "y": 4.74,
+   "r": 2.77
+  },
+  {
+   "shape": "circle",
+   "x": 19.44,
+   "y": 173.43,
+   "r": 2.77
+  },
+  {
+   "shape": "circle",
+   "x": 30.57,
+   "y": 96.54,
+   "r": 2.68
+  },
+  {
+   "shape": "circle",
+   "x": 11.49,
+   "y": 27.01,
+   "r": 2.29
+  },
+  {
+   "shape": "circle",
+   "x": 11.58,
+   "y": 56.48,
+   "r": 2.16
+  }
+ ],
+ "knobs": [
+  {
+   "x": 29.95,
+   "y": 27.78,
+   "r": 8.52
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/1982 - M465B - 465-04-007 - FRONT PANEL LAYOUT (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M465B.stl"
+}

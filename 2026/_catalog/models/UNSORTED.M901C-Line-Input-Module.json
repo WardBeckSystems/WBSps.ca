@@ -1,0 +1,159 @@
+{
+ "format": "wbs-model/1",
+ "module": "M901C",
+ "repo": "MODULES.UNSORTED.M901C-Line-Input-Module",
+ "title": "Line Input Module",
+ "category": "UNSORTED",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 38.0,
+  "h": 410.0,
+  "d": 168.0
+ },
+ "size_from": "TECHNICAL DATA: 1.5\" wide x 16.2\" high x 6.6\" deep. (38 mm x 410 mm x 168 mm).",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M901C - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 19.27,
+   "y": 37.1,
+   "w": 29.8,
+   "h": 22.43
+  },
+  {
+   "shape": "rect",
+   "x": 19.94,
+   "y": 60.21,
+   "w": 17.61,
+   "h": 18.06
+  },
+  {
+   "shape": "circle",
+   "x": 31.61,
+   "y": 264.3,
+   "r": 5.34
+  },
+  {
+   "shape": "circle",
+   "x": 13.55,
+   "y": 82.63,
+   "r": 5.27
+  },
+  {
+   "shape": "circle",
+   "x": 18.44,
+   "y": 301.18,
+   "r": 5.23
+  },
+  {
+   "shape": "circle",
+   "x": 18.44,
+   "y": 313.07,
+   "r": 5.23
+  },
+  {
+   "shape": "circle",
+   "x": 19.27,
+   "y": 347.91,
+   "r": 5.23
+  },
+  {
+   "shape": "circle",
+   "x": 20.17,
+   "y": 373.05,
+   "r": 5.23
+  },
+  {
+   "shape": "circle",
+   "x": 30.78,
+   "y": 227.05,
+   "r": 5.19
+  },
+  {
+   "shape": "circle",
+   "x": 16.63,
+   "y": 227.05,
+   "r": 5.19
+  },
+  {
+   "shape": "circle",
+   "x": 17.53,
+   "y": 264.53,
+   "r": 5.19
+  },
+  {
+   "shape": "circle",
+   "x": 18.89,
+   "y": 331.21,
+   "r": 5.19
+  },
+  {
+   "shape": "circle",
+   "x": 27.92,
+   "y": 404.96,
+   "r": 3.76
+  },
+  {
+   "shape": "circle",
+   "x": 18.59,
+   "y": 4.89,
+   "r": 3.69
+  },
+  {
+   "shape": "rect",
+   "x": 30.33,
+   "y": 126.66,
+   "w": 10.08,
+   "h": 3.46
+  },
+  {
+   "shape": "circle",
+   "x": 33.41,
+   "y": 342.27,
+   "r": 3.09
+  },
+  {
+   "shape": "circle",
+   "x": 33.79,
+   "y": 352.88,
+   "r": 3.09
+  },
+  {
+   "shape": "circle",
+   "x": 27.47,
+   "y": 389.68,
+   "r": 2.82
+  },
+  {
+   "shape": "circle",
+   "x": 23.4,
+   "y": 215.08,
+   "r": 2.75
+  },
+  {
+   "shape": "circle",
+   "x": 32.44,
+   "y": 300.95,
+   "r": 1.66
+  },
+  {
+   "shape": "circle",
+   "x": 18.74,
+   "y": 102.42,
+   "r": 1.43
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/19xx - 901-03-006 - LINE INPUT MODULE - DRN DRG - ISS 3 (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.11 wide to high, the size 0.09: placed by its height"
+ ],
+ "stl": "MECHANICAL/M901C.stl"
+}

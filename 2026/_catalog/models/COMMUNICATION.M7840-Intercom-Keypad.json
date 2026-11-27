@@ -1,0 +1,30 @@
+{
+ "format": "wbs-model/1",
+ "module": "M7840",
+ "repo": "MODULES.COMMUNICATION.M7840-Intercom-Keypad",
+ "title": "Intercom Keypad",
+ "category": "COMMUNICATION",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 178.0,
+  "d": 165.0
+ },
+ "size_from": "assumed: 1.6\" x 7\" x 6.5\", the common module",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M7840 - front panel.svg",
+  "kind": "none"
+ },
+ "body": "card",
+ "holes": [],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1989 - M7840 - DOC - 093047-04-001 - NOTE NOTE NORMALLED JACK PAIR NOTE CAMERA PRUGRAN (traced).json",
+  "MECHANICAL/1996 - M7840 - DOC - 960163-04-002 - KEYPAD LAYOUI IISSUE REVSION (traced).json"
+ ],
+ "notes": [
+  "no drawing of the front panel: the panel is blank"
+ ],
+ "stl": "MECHANICAL/M7840.stl"
+}

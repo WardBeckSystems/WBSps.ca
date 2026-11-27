@@ -1,0 +1,106 @@
+{
+ "format": "wbs-model/1",
+ "module": "M467",
+ "repo": "MODULES.DYNAMICS.M467-Noise-Gate-and-Meter-Module",
+ "title": "Noise Gate and Meter Module",
+ "category": "DYNAMICS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 55.49,
+  "h": 209.64,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M467 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 11.12,
+   "y": 154.04,
+   "w": 10.11,
+   "h": 65.47
+  },
+  {
+   "shape": "circle",
+   "x": 32.97,
+   "y": 42.77,
+   "r": 5.37
+  },
+  {
+   "shape": "circle",
+   "x": 32.89,
+   "y": 98.83,
+   "r": 5.37
+  },
+  {
+   "shape": "circle",
+   "x": 11.28,
+   "y": 70.61,
+   "r": 5.33
+  },
+  {
+   "shape": "circle",
+   "x": 32.66,
+   "y": 165.47,
+   "r": 5.05
+  },
+  {
+   "shape": "circle",
+   "x": 32.5,
+   "y": 153.42,
+   "r": 5.02
+  },
+  {
+   "shape": "circle",
+   "x": 32.74,
+   "y": 142.07,
+   "r": 4.9
+  },
+  {
+   "shape": "circle",
+   "x": 13.14,
+   "y": 26.9,
+   "r": 4.39
+  },
+  {
+   "shape": "circle",
+   "x": 10.96,
+   "y": 98.83,
+   "r": 3.42
+  },
+  {
+   "shape": "circle",
+   "x": 32.74,
+   "y": 26.44,
+   "r": 2.37
+  },
+  {
+   "shape": "circle",
+   "x": 21.77,
+   "y": 203.73,
+   "r": 2.26
+  },
+  {
+   "shape": "circle",
+   "x": 22.16,
+   "y": 5.37,
+   "r": 2.18
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1976 - M467 - 467-04-002 - COMP TIE COHPRESSOR STEREO TIE SWITCH (traced).json",
+  "MECHANICAL/1984 - 467-03-006 - TRIM POT MTG. BRACKET USED ON M467F - DRN J - ISS 2 (traced).json",
+  "MECHANICAL/19xx - 467-04-001 (traced).json",
+  "MECHANICAL/19xx - M467 - DOC - 467-04-002 - CIRCUITRY RED LED INDICATOR KHEN DEPRESSED AND ASSOC (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.21 wide to high, the size 0.26: placed by its height"
+ ],
+ "stl": "MECHANICAL/M467.stl"
+}

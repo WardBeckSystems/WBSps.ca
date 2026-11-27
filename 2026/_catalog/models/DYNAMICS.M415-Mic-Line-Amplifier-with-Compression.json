@@ -1,0 +1,33 @@
+{
+ "format": "wbs-model/1",
+ "module": "M415",
+ "repo": "MODULES.DYNAMICS.M415-Mic-Line-Amplifier-with-Compression",
+ "title": "Mic Line Amplifier with Compression",
+ "category": "DYNAMICS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 177.8,
+  "h": 50.8,
+  "d": 165.0
+ },
+ "size_from": "TECHNICAL DATA: 2 \"H X 7 \"W X 16\"L",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M415 - front panel.svg",
+  "kind": "none"
+ },
+ "body": "chassis",
+ "holes": [],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1971 - 415-03-002 - SUB CHASSIS DETAIL - DRN DPS - ISS 3 (2) (traced).json",
+  "MECHANICAL/1971 - 415-03-002 - SUB CHASSIS DETAIL - DRN DPS - ISS 3 (traced).json",
+  "MECHANICAL/1971 - 415-03-005 - CONNECTOR MTG. BKT - DRN DPS - ISS 2 (traced).json",
+  "MECHANICAL/1971 - 415-03-006 - MOUNTING BAR - ISS 1 (traced).json",
+  "MECHANICAL/1971 - M415 - DOC - 415-03-006 - REMOVE ALL BURRS SHARP EDGES (traced).json"
+ ],
+ "notes": [
+  "no drawing of the front panel: the panel is blank"
+ ],
+ "stl": "MECHANICAL/M415.stl"
+}

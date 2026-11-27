@@ -1,0 +1,29 @@
+{
+ "format": "wbs-model/1",
+ "module": "M524A",
+ "repo": "MODULES.COMPUTERS.M524A-24V-Dual-Lamp-Relay-Power-Supply",
+ "title": "24V Dual Lamp Relay Power Supply",
+ "category": "COMPUTERS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 178.0,
+  "d": 165.0
+ },
+ "size_from": "assumed: 1.6\" x 7\" x 6.5\", the common module",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M524A - front panel.svg",
+  "kind": "photo"
+ },
+ "body": "card",
+ "holes": [],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/19xx - M524A - DOC - 524-03-103 - FRONT PANEL DISPLAY SCREENS (traced).json"
+ ],
+ "notes": [
+  "no drawing of the front panel: the panel is blank"
+ ],
+ "stl": "MECHANICAL/M524A.stl"
+}

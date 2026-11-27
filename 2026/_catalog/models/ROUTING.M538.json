@@ -1,0 +1,99 @@
+{
+ "format": "wbs-model/1",
+ "module": "M538",
+ "repo": "MODULES.ROUTING.M538",
+ "title": "M538",
+ "category": "ROUTING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 64.55,
+  "h": 210.5,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M538 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 15.52,
+   "y": 105.69,
+   "w": 20.89,
+   "h": 198.9
+  },
+  {
+   "shape": "rect",
+   "x": 38.01,
+   "y": 171.36,
+   "w": 13.64,
+   "h": 15.66
+  },
+  {
+   "shape": "rect",
+   "x": 38.44,
+   "y": 118.23,
+   "w": 12.77,
+   "h": 15.8
+  },
+  {
+   "shape": "rect",
+   "x": 38.44,
+   "y": 197.45,
+   "w": 9.57,
+   "h": 12.18
+  },
+  {
+   "shape": "rect",
+   "x": 38.66,
+   "y": 40.88,
+   "w": 9.43,
+   "h": 11.89
+  },
+  {
+   "shape": "rect",
+   "x": 39.02,
+   "y": 14.86,
+   "w": 9.28,
+   "h": 12.03
+  },
+  {
+   "shape": "rect",
+   "x": 38.3,
+   "y": 92.78,
+   "w": 9.28,
+   "h": 11.89
+  },
+  {
+   "shape": "rect",
+   "x": 38.8,
+   "y": 67.41,
+   "w": 8.85,
+   "h": 12.18
+  },
+  {
+   "shape": "circle",
+   "x": 38.15,
+   "y": 144.9,
+   "r": 4.75
+  }
+ ],
+ "knobs": [
+  {
+   "x": 38.15,
+   "y": 144.9,
+   "r": 7.36
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/1985 - 538-03-007 - IDENT COVER - DRN BD - ENG MRW - ISS 2 (traced).json",
+  "MECHANICAL/19xx - 538-04-001 - SWITCHER MODULES MODULE LAYOUT - ISS 1 (traced).json",
+  "MECHANICAL/19xx - M538 - DOC - 538-03-057 - FPEE FPOM SCRATCHES (traced).json",
+  "MECHANICAL/19xx - M538 - DOC - 538-04-001 - STEREO SWITCHER MOC (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M538.stl"
+}

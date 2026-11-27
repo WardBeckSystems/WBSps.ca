@@ -1,0 +1,46 @@
+{
+ "format": "wbs-model/1",
+ "module": "M453",
+ "repo": "MODULES.AMPLIFIERS.M453-Cue-Amplifier",
+ "title": "Cue Amplifier",
+ "category": "AMPLIFIERS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 56.13,
+  "h": 167.97,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M453 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 30.03,
+   "y": 124.45,
+   "r": 4.75
+  },
+  {
+   "shape": "circle",
+   "x": 32.2,
+   "y": 16.54,
+   "r": 3.77
+  }
+ ],
+ "knobs": [
+  {
+   "x": 30.03,
+   "y": 124.45,
+   "r": 7.33
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/1976 - M453 - 453-04-001 (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M453.stl"
+}

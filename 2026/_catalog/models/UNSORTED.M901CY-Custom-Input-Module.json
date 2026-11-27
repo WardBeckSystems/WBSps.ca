@@ -1,0 +1,128 @@
+{
+ "format": "wbs-model/1",
+ "module": "M901CY",
+ "repo": "MODULES.UNSORTED.M901CY-Custom-Input-Module",
+ "title": "Custom Input Module",
+ "category": "UNSORTED",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 404.7,
+  "d": 165.0
+ },
+ "size_from": "assumed 41 mm wide (1.6\"), the drawn panel's proportions",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M901CY - front panel.svg",
+  "kind": "drawing"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 20.42,
+   "y": 36.43,
+   "w": 33.32,
+   "h": 21.53
+  },
+  {
+   "shape": "rect",
+   "x": 20.5,
+   "y": 59.58,
+   "w": 29.24,
+   "h": 21.24
+  },
+  {
+   "shape": "circle",
+   "x": 12.9,
+   "y": 297.11,
+   "r": 5.48
+  },
+  {
+   "shape": "circle",
+   "x": 28.34,
+   "y": 297.11,
+   "r": 5.36
+  },
+  {
+   "shape": "circle",
+   "x": 12.66,
+   "y": 81.63,
+   "r": 5.28
+  },
+  {
+   "shape": "circle",
+   "x": 12.66,
+   "y": 368.35,
+   "r": 5.21
+  },
+  {
+   "shape": "circle",
+   "x": 12.74,
+   "y": 343.49,
+   "r": 4.51
+  },
+  {
+   "shape": "circle",
+   "x": 20.5,
+   "y": 4.87,
+   "r": 3.77
+  },
+  {
+   "shape": "rect",
+   "x": 30.14,
+   "y": 105.08,
+   "w": 11.6,
+   "h": 3.69
+  },
+  {
+   "shape": "circle",
+   "x": 28.34,
+   "y": 338.33,
+   "r": 3.15
+  },
+  {
+   "shape": "circle",
+   "x": 28.34,
+   "y": 348.8,
+   "r": 3.15
+  },
+  {
+   "shape": "circle",
+   "x": 28.34,
+   "y": 373.73,
+   "r": 3.15
+  },
+  {
+   "shape": "circle",
+   "x": 30.3,
+   "y": 211.57,
+   "r": 3.11
+  },
+  {
+   "shape": "circle",
+   "x": 28.34,
+   "y": 363.18,
+   "r": 3.11
+  },
+  {
+   "shape": "circle",
+   "x": 30.22,
+   "y": 93.8,
+   "r": 3.03
+  },
+  {
+   "shape": "circle",
+   "x": 20.5,
+   "y": 211.72,
+   "r": 2.88
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1994 - M901CY - DOC - 940444-03-006 - LOVG FULL RAD SLOT SEE NOTE DOR ENTATIONS (traced).json",
+  "MECHANICAL/1994 - M901CY - DOC - 940444-04-001 - OTHERS ELECTRICALLY AND MECHANICALLY INTEGRATED INTO CONSOLE (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M901CY.stl"
+}

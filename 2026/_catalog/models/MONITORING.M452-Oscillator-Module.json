@@ -1,0 +1,121 @@
+{
+ "format": "wbs-model/1",
+ "module": "M452",
+ "repo": "MODULES.MONITORING.M452-Oscillator-Module",
+ "title": "Oscillator Module",
+ "category": "MONITORING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 152.4,
+  "h": 177.8,
+  "d": 165.1
+ },
+ "size_from": "TECHNICAL DATA: 1 6 \" wide X 7\" high X 6.5\" deep (41 TT X 178 M X 165 mm)",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M452 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "chassis",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 28.91,
+   "y": 137.7,
+   "r": 3.89
+  },
+  {
+   "shape": "circle",
+   "x": 28.99,
+   "y": 87.81,
+   "r": 3.85
+  },
+  {
+   "shape": "circle",
+   "x": 29.06,
+   "y": 97.99,
+   "r": 3.85
+  },
+  {
+   "shape": "circle",
+   "x": 28.91,
+   "y": 117.89,
+   "r": 3.85
+  },
+  {
+   "shape": "circle",
+   "x": 29.14,
+   "y": 67.84,
+   "r": 3.81
+  },
+  {
+   "shape": "circle",
+   "x": 28.99,
+   "y": 108.09,
+   "r": 3.81
+  },
+  {
+   "shape": "circle",
+   "x": 28.99,
+   "y": 127.99,
+   "r": 3.81
+  },
+  {
+   "shape": "circle",
+   "x": 29.06,
+   "y": 77.79,
+   "r": 3.77
+  },
+  {
+   "shape": "circle",
+   "x": 28.91,
+   "y": 147.73,
+   "r": 3.77
+  },
+  {
+   "shape": "circle",
+   "x": 29.14,
+   "y": 57.74,
+   "r": 2.88
+  },
+  {
+   "shape": "circle",
+   "x": 9.17,
+   "y": 22.77,
+   "r": 2.84
+  },
+  {
+   "shape": "circle",
+   "x": 9.48,
+   "y": 147.88,
+   "r": 2.84
+  },
+  {
+   "shape": "circle",
+   "x": 29.3,
+   "y": 22.69,
+   "r": 2.14
+  },
+  {
+   "shape": "circle",
+   "x": 19.43,
+   "y": 4.74,
+   "r": 1.83
+  },
+  {
+   "shape": "circle",
+   "x": 18.73,
+   "y": 173.14,
+   "r": 1.83
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1971 - M452 - 452-04-003 - JABLE FOR EXERNA CANTROL CURDOSES (traced).json",
+  "MECHANICAL/1971 - M452 - 452-04-003 - NON- COMITTED NORMA Y-OPEN CONTACT (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.22 wide to high, the size 0.86: placed by its height"
+ ],
+ "stl": "MECHANICAL/M452.stl"
+}

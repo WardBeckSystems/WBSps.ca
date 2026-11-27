@@ -1,0 +1,73 @@
+{
+ "format": "wbs-model/1",
+ "module": "M495",
+ "repo": "MODULES.MONITORING.M495-Stereo-Monitor-Module",
+ "title": "Stereo Monitor Module",
+ "category": "MONITORING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 178.0,
+  "d": 165.0
+ },
+ "size_from": "TECHNICAL DATA: 1.6\" wide X 7\" high X 6.5\" deep. (41 mm X 178 mm X 165 mm).",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M495 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 12.69,
+   "y": 115.66,
+   "w": 15.63,
+   "h": 89.23
+  },
+  {
+   "shape": "rect",
+   "x": 28.48,
+   "y": 115.89,
+   "w": 11.59,
+   "h": 88.77
+  },
+  {
+   "shape": "circle",
+   "x": 30.75,
+   "y": 27.28,
+   "r": 4.65
+  },
+  {
+   "shape": "circle",
+   "x": 10.75,
+   "y": 27.21,
+   "r": 2.91
+  },
+  {
+   "shape": "circle",
+   "x": 10.84,
+   "y": 39.1,
+   "r": 2.18
+  },
+  {
+   "shape": "circle",
+   "x": 20.58,
+   "y": 173.57,
+   "r": 1.94
+  },
+  {
+   "shape": "circle",
+   "x": 20.67,
+   "y": 4.2,
+   "r": 1.86
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1975 - M495 - 461-03-015 - DUAL BOOSTER AMPLIFIER (traced).json",
+  "MECHANICAL/1975 - M495 - 495-04-003 - THE ASSOC IATED LED WILL INDI- IGNA LEVE (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M495.stl"
+}

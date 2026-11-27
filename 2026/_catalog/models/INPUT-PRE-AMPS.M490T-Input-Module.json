@@ -1,0 +1,88 @@
+{
+ "format": "wbs-model/1",
+ "module": "M490T",
+ "repo": "MODULES.INPUT-PRE-AMPS.M490T-Input-Module",
+ "title": "Input Module",
+ "category": "INPUT-PRE-AMPS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 44.48,
+  "h": 276.35,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M490T - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 15.48,
+   "y": 23.07,
+   "w": 20.44,
+   "h": 15.79
+  },
+  {
+   "shape": "rect",
+   "x": 22.37,
+   "y": 40.18,
+   "w": 13.78,
+   "h": 13.47
+  },
+  {
+   "shape": "rect",
+   "x": 9.37,
+   "y": 222.4,
+   "w": 8.21,
+   "h": 14.71
+  },
+  {
+   "shape": "rect",
+   "x": 20.36,
+   "y": 222.55,
+   "w": 7.9,
+   "h": 14.4
+  },
+  {
+   "shape": "circle",
+   "x": 8.59,
+   "y": 40.02,
+   "r": 3.25
+  },
+  {
+   "shape": "circle",
+   "x": 21.06,
+   "y": 241.36,
+   "r": 2.32
+  },
+  {
+   "shape": "circle",
+   "x": 14.86,
+   "y": 273.1,
+   "r": 1.55
+  },
+  {
+   "shape": "circle",
+   "x": 15.79,
+   "y": 3.17,
+   "r": 1.51
+  },
+  {
+   "shape": "circle",
+   "x": 25.08,
+   "y": 69.13,
+   "r": 1.2
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1978 - M490T - 490-04-026 - DSI MAY USED FOR IGNA PURPOSES FROM CMOTE (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.11 wide to high, the size 0.16: placed by its height"
+ ],
+ "stl": "MECHANICAL/M490T.stl"
+}

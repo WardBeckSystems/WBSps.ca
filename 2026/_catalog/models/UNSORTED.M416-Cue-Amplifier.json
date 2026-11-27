@@ -1,0 +1,44 @@
+{
+ "format": "wbs-model/1",
+ "module": "M416",
+ "repo": "MODULES.UNSORTED.M416-Cue-Amplifier",
+ "title": "Cue Amplifier",
+ "category": "UNSORTED",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 54.19,
+  "h": 226.26,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M416 - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 26.91,
+   "y": 98.46,
+   "r": 4.75
+  }
+ ],
+ "knobs": [
+  {
+   "x": 26.91,
+   "y": 98.46,
+   "r": 15.01
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/1973 - 416-03-002 - ESCUTCHEON - DRN DPS - ISS 1 (2) (traced).json",
+  "MECHANICAL/1973 - 416-03-002 - ESCUTCHEON - DRN DPS - ISS 1 (traced).json",
+  "MECHANICAL/1973 - 416-03-003 - SWITCH MOUNTING PLATE - DRN DPS - ISS 1 (traced).json",
+  "MECHANICAL/1973 - M416 - DOC - 16-03-003 - THICK BLACK PLEXIGLASS TYPE (traced).json",
+  "MECHANICAL/1973 - M416 - DOC - 416-03-003 - THICK BLACK PLEXIGLASS TYPE (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M416.stl"
+}

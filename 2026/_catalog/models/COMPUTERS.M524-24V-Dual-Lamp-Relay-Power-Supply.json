@@ -1,0 +1,37 @@
+{
+ "format": "wbs-model/1",
+ "module": "M524",
+ "repo": "MODULES.COMPUTERS.M524-24V-Dual-Lamp-Relay-Power-Supply",
+ "title": "24V Dual Lamp Relay Power Supply",
+ "category": "COMPUTERS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 178.0,
+  "d": 165.0
+ },
+ "size_from": "assumed: 1.6\" x 7\" x 6.5\", the common module",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M524 - front panel.svg",
+  "kind": "none"
+ },
+ "body": "card",
+ "holes": [],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1984 - 524-03-005 - UPPER DISPLAY SCREEN - DRN TR - ENG TR - ISS 1 (traced).json",
+  "MECHANICAL/1984 - 524-03-007 - LOWER DISPLAY SCREEN - DRN TR - ENG TR - ISS 1 (traced).json",
+  "MECHANICAL/1984 - 524-03-009 - PCB MOUNTING BAR - DRN TR - ENG TR - ISS 1 (traced).json",
+  "MECHANICAL/1984 - 524-03-011 - PCB SUPPORT BRKT - DRN TR - ENG TR - ISS 2 (traced).json",
+  "MECHANICAL/1986 - 524-03-103 - M524A Front Panel Display Screens - DRN MRW - ENG MRW - ISS 1 (traced).json",
+  "MECHANICAL/19xx - M524 - DOC - 524-03-006 - RCMOVE' ALL BURRS AND SHARP EDGES SILKSCREEN MATTE (traced).json",
+  "MECHANICAL/19xx - M524 - DOC - 524-03-008 - REMOVE ALL BURRS AND SHARP EDGES SILKSCREEN MATTE (traced).json",
+  "MECHANICAL/19xx - M524 - DOC - 524-03-011 - REMOVE ALL BURRS AND SHARP EDGES (traced).json",
+  "MECHANICAL/19xx - M524 - DOC - 524-03-012 - REMOVE ALL BURRS AND SHARP EDGES (traced).json"
+ ],
+ "notes": [
+  "no drawing of the front panel: the panel is blank"
+ ],
+ "stl": "MECHANICAL/M524.stl"
+}

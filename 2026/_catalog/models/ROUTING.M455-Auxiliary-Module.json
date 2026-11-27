@@ -1,0 +1,49 @@
+{
+ "format": "wbs-model/1",
+ "module": "M455",
+ "repo": "MODULES.ROUTING.M455-Auxiliary-Module",
+ "title": "Auxiliary Module",
+ "category": "ROUTING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 51.6,
+  "h": 195.61,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M455 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 25.08,
+   "y": 184.15,
+   "r": 3.55
+  },
+  {
+   "shape": "circle",
+   "x": 17.03,
+   "y": 95.34,
+   "r": 3.26
+  },
+  {
+   "shape": "circle",
+   "x": 25.94,
+   "y": 11.6,
+   "r": 2.17
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1974 - 455-04-001 - AUXILIARY MODULE ASSEMBLY - DRN DM - ISS 3 (traced).json",
+  "MECHANICAL/1974 - M455 - 455-04-003 - AUX LIARY MASTER LEVEL CONTROL (traced).json",
+  "MECHANICAL/1974 - M455 - 455-04-003 - FEEDS OUTPUT SIY SWNACHEEPCETSED CUTPUC (traced).json",
+  "MECHANICAL/19xx - M455 - DOC - 465-03-002 - UNC NOIE (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M455.stl"
+}

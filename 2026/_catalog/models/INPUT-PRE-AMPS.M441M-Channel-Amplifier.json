@@ -1,0 +1,42 @@
+{
+ "format": "wbs-model/1",
+ "module": "M441M",
+ "repo": "MODULES.INPUT-PRE-AMPS.M441M-Channel-Amplifier",
+ "title": "Channel Amplifier",
+ "category": "INPUT-PRE-AMPS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 48.15,
+  "h": 131.7,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M441M - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 25.02,
+   "y": 54.46,
+   "r": 5.73
+  },
+  {
+   "shape": "circle",
+   "x": 25.16,
+   "y": 96.96,
+   "r": 5.73
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1973 - M441M - 441-04-013 - WAAD-BECK BYSTEMS (2) (traced).json",
+  "MECHANICAL/1973 - M441M - 441-04-013 - WAAD-BECK BYSTEMS (traced).json",
+  "MECHANICAL/1973 - M441M - DOC - 441-03-010 - MOD ICKD USED (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M441M.stl"
+}

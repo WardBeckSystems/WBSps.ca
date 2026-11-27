@@ -1,0 +1,114 @@
+{
+ "format": "wbs-model/1",
+ "module": "M909",
+ "repo": "MODULES.UNSORTED.M909-Custom-Meter",
+ "title": "Custom Meter",
+ "category": "UNSORTED",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 38.0,
+  "h": 410.0,
+  "d": 168.0
+ },
+ "size_from": "TECHNICAL DATA: 1.5\" wide x 16.2\" high x 6.6\" deep. (38mm x 410mm x 168mm).",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M909 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 12.6,
+   "y": 177.75,
+   "w": 12.8,
+   "h": 90.0
+  },
+  {
+   "shape": "rect",
+   "x": 13.44,
+   "y": 335.72,
+   "w": 12.67,
+   "h": 89.71
+  },
+  {
+   "shape": "circle",
+   "x": 26.63,
+   "y": 141.67,
+   "r": 4.97
+  },
+  {
+   "shape": "circle",
+   "x": 26.69,
+   "y": 155.94,
+   "r": 4.97
+  },
+  {
+   "shape": "circle",
+   "x": 26.76,
+   "y": 170.51,
+   "r": 4.97
+  },
+  {
+   "shape": "circle",
+   "x": 27.01,
+   "y": 199.2,
+   "r": 4.97
+  },
+  {
+   "shape": "circle",
+   "x": 27.01,
+   "y": 213.62,
+   "r": 4.94
+  },
+  {
+   "shape": "circle",
+   "x": 27.53,
+   "y": 299.86,
+   "r": 4.94
+  },
+  {
+   "shape": "circle",
+   "x": 27.53,
+   "y": 314.2,
+   "r": 4.94
+  },
+  {
+   "shape": "circle",
+   "x": 27.79,
+   "y": 342.9,
+   "r": 4.94
+  },
+  {
+   "shape": "circle",
+   "x": 27.79,
+   "y": 357.25,
+   "r": 4.94
+  },
+  {
+   "shape": "circle",
+   "x": 27.92,
+   "y": 371.59,
+   "r": 4.94
+  },
+  {
+   "shape": "circle",
+   "x": 26.88,
+   "y": 184.93,
+   "r": 4.87
+  },
+  {
+   "shape": "circle",
+   "x": 27.66,
+   "y": 328.55,
+   "r": 4.87
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1996 - M909 - DOC - 96002-04-004 - CFNY ENG MASTER CONTROL ROOM (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M909.stl"
+}

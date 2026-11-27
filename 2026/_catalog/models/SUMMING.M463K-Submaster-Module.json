@@ -1,0 +1,206 @@
+{
+ "format": "wbs-model/1",
+ "module": "M463K",
+ "repo": "MODULES.SUMMING.M463K-Submaster-Module",
+ "title": "Submaster Module",
+ "category": "SUMMING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 360.0,
+  "d": 165.0
+ },
+ "size_from": "TECHNICAL DATA: wide 14.5\" high 6.5\" deep (41 Mm 360 mm 165 Mm)",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M463K - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 31.04,
+   "y": 320.88,
+   "w": 11.11,
+   "h": 36.57
+  },
+  {
+   "shape": "rect",
+   "x": 10.78,
+   "y": 320.57,
+   "w": 11.11,
+   "h": 35.95
+  },
+  {
+   "shape": "circle",
+   "x": 29.65,
+   "y": 27.08,
+   "r": 4.75
+  },
+  {
+   "shape": "circle",
+   "x": 9.64,
+   "y": 104.39,
+   "r": 4.73
+  },
+  {
+   "shape": "circle",
+   "x": 10.13,
+   "y": 187.02,
+   "r": 4.61
+  },
+  {
+   "shape": "circle",
+   "x": 30.14,
+   "y": 83.63,
+   "r": 4.49
+  },
+  {
+   "shape": "circle",
+   "x": 30.63,
+   "y": 166.11,
+   "r": 4.37
+  },
+  {
+   "shape": "circle",
+   "x": 29.73,
+   "y": 56.32,
+   "r": 4.29
+  },
+  {
+   "shape": "circle",
+   "x": 10.05,
+   "y": 27.08,
+   "r": 4.29
+  },
+  {
+   "shape": "circle",
+   "x": 30.06,
+   "y": 125.07,
+   "r": 4.25
+  },
+  {
+   "shape": "circle",
+   "x": 30.06,
+   "y": 241.72,
+   "r": 4.01
+  },
+  {
+   "shape": "circle",
+   "x": 30.22,
+   "y": 253.3,
+   "r": 4.01
+  },
+  {
+   "shape": "circle",
+   "x": 29.97,
+   "y": 206.93,
+   "r": 3.93
+  },
+  {
+   "shape": "circle",
+   "x": 10.94,
+   "y": 253.37,
+   "r": 3.18
+  },
+  {
+   "shape": "circle",
+   "x": 10.29,
+   "y": 70.29,
+   "r": 2.9
+  },
+  {
+   "shape": "circle",
+   "x": 10.13,
+   "y": 56.32,
+   "r": 2.86
+  },
+  {
+   "shape": "circle",
+   "x": 30.71,
+   "y": 227.84,
+   "r": 2.58
+  },
+  {
+   "shape": "circle",
+   "x": 30.95,
+   "y": 276.44,
+   "r": 2.54
+  },
+  {
+   "shape": "circle",
+   "x": 9.96,
+   "y": 145.74,
+   "r": 2.5
+  },
+  {
+   "shape": "circle",
+   "x": 10.86,
+   "y": 218.5,
+   "r": 2.34
+  },
+  {
+   "shape": "circle",
+   "x": 10.86,
+   "y": 265.02,
+   "r": 2.3
+  },
+  {
+   "shape": "circle",
+   "x": 10.7,
+   "y": 207.08,
+   "r": 2.26
+  },
+  {
+   "shape": "circle",
+   "x": 10.86,
+   "y": 230.07,
+   "r": 2.26
+  },
+  {
+   "shape": "circle",
+   "x": 10.94,
+   "y": 241.88,
+   "r": 2.26
+  },
+  {
+   "shape": "circle",
+   "x": 11.11,
+   "y": 276.67,
+   "r": 2.22
+  },
+  {
+   "shape": "circle",
+   "x": 29.32,
+   "y": 70.36,
+   "r": 2.18
+  },
+  {
+   "shape": "circle",
+   "x": 21.07,
+   "y": 355.37,
+   "r": 1.91
+  },
+  {
+   "shape": "circle",
+   "x": 19.68,
+   "y": 4.63,
+   "r": 1.87
+  }
+ ],
+ "knobs": [
+  {
+   "x": 29.65,
+   "y": 27.08,
+   "r": 8.42
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/1974 - M463K - 463-04-015 - ENG SUBMA STER MODULE (traced).json",
+  "MECHANICAL/1974 - M463K - 463-04-016 - OUTPUT AMP UPPER LEGEND (traced).json",
+  "MECHANICAL/1979 - M463K - 463-04-016 - CONTROL COM X-ZO (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M463K.stl"
+}

@@ -1,0 +1,42 @@
+{
+ "format": "wbs-model/1",
+ "module": "M568W",
+ "repo": "MODULES.ROUTING.M568W",
+ "title": "M568W",
+ "category": "ROUTING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 44.91,
+  "h": 280.67,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M568W - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 21.78,
+   "y": 244.06,
+   "r": 2.39
+  },
+  {
+   "shape": "circle",
+   "x": 14.83,
+   "y": 276.96,
+   "r": 2.39
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/19xx - M568W - 568-04-021 - MODULE FRONT PANEL SCNLE DISC (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.11 wide to high, the size 0.16: placed by its height"
+ ],
+ "stl": "MECHANICAL/M568W.stl"
+}

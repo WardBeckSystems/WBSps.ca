@@ -1,0 +1,44 @@
+{
+ "format": "wbs-model/1",
+ "module": "M469",
+ "repo": "MODULES.UNSORTED.M469-Assignment-Module",
+ "title": "Assignment Module",
+ "category": "UNSORTED",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 51.38,
+  "h": 226.7,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M469 - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 22.51,
+   "y": 74.06,
+   "w": 19.37,
+   "h": 80.48
+  },
+  {
+   "shape": "rect",
+   "x": 22.51,
+   "y": 171.59,
+   "w": 19.37,
+   "h": 41.47
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1985 - 469-03-007 - M469G ESCUTCHEON - DRN DRG - ENG PA - ISS 1 (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.32 wide to high, the size 0.23: placed by its height"
+ ],
+ "stl": "MECHANICAL/M469.stl"
+}

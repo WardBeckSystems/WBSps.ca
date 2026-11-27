@@ -1,0 +1,166 @@
+{
+ "format": "wbs-model/1",
+ "module": "M521",
+ "repo": "MODULES.INPUT-PRE-AMPS.M521-Stereo-Input-Module",
+ "title": "Stereo Input Module",
+ "category": "INPUT-PRE-AMPS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 360.0,
+  "d": 165.0
+ },
+ "size_from": "TECHNICAL DATA: 1.60\" wide 14.15\" high 6.50\" deep (41 mm 360 mm 165 mm) Ibs oz (1.14 kg) net",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M521 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 29.84,
+   "y": 29.51,
+   "w": 12.51,
+   "h": 11.8
+  },
+  {
+   "shape": "circle",
+   "x": 11.4,
+   "y": 29.05,
+   "r": 5.73
+  },
+  {
+   "shape": "circle",
+   "x": 11.24,
+   "y": 232.28,
+   "r": 5.11
+  },
+  {
+   "shape": "rect",
+   "x": 11.24,
+   "y": 97.23,
+   "w": 6.97,
+   "h": 8.32
+  },
+  {
+   "shape": "rect",
+   "x": 11.08,
+   "y": 78.39,
+   "w": 6.97,
+   "h": 8.17
+  },
+  {
+   "shape": "rect",
+   "x": 11.32,
+   "y": 147.24,
+   "w": 7.12,
+   "h": 7.87
+  },
+  {
+   "shape": "rect",
+   "x": 30.16,
+   "y": 309.31,
+   "w": 6.81,
+   "h": 8.17
+  },
+  {
+   "shape": "rect",
+   "x": 11.24,
+   "y": 132.03,
+   "w": 6.65,
+   "h": 8.32
+  },
+  {
+   "shape": "rect",
+   "x": 11.16,
+   "y": 166.23,
+   "w": 6.81,
+   "h": 8.02
+  },
+  {
+   "shape": "rect",
+   "x": 11.24,
+   "y": 181.44,
+   "w": 6.65,
+   "h": 8.17
+  },
+  {
+   "shape": "rect",
+   "x": 30.71,
+   "y": 222.14,
+   "w": 6.65,
+   "h": 8.17
+  },
+  {
+   "shape": "rect",
+   "x": 30.71,
+   "y": 232.43,
+   "w": 6.65,
+   "h": 8.17
+  },
+  {
+   "shape": "rect",
+   "x": 11.4,
+   "y": 278.59,
+   "w": 6.33,
+   "h": 8.17
+  },
+  {
+   "shape": "circle",
+   "x": 11.4,
+   "y": 201.79,
+   "r": 3.37
+  },
+  {
+   "shape": "circle",
+   "x": 11.32,
+   "y": 42.9,
+   "r": 2.71
+  },
+  {
+   "shape": "circle",
+   "x": 11.32,
+   "y": 222.37,
+   "r": 2.71
+  },
+  {
+   "shape": "circle",
+   "x": 11.4,
+   "y": 212.23,
+   "r": 2.44
+  },
+  {
+   "shape": "circle",
+   "x": 11.32,
+   "y": 252.18,
+   "r": 2.4
+  },
+  {
+   "shape": "circle",
+   "x": 20.74,
+   "y": 355.16,
+   "r": 1.86
+  },
+  {
+   "shape": "circle",
+   "x": 20.74,
+   "y": 4.92,
+   "r": 1.82
+  },
+  {
+   "shape": "circle",
+   "x": 26.67,
+   "y": 243.03,
+   "r": 1.51
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/19xx - M521 - DOC - 2442-04-003 - SUB MASTER FADERS ADERS MONO IMPUT FADERS (traced).json",
+  "MECHANICAL/19xx - M521 - DOC - 521-04-001 - STEREO INPUT MODL (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M521.stl"
+}

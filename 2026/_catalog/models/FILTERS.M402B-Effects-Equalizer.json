@@ -1,0 +1,58 @@
+{
+ "format": "wbs-model/1",
+ "module": "M402B",
+ "repo": "MODULES.FILTERS.M402B-Effects-Equalizer",
+ "title": "Effects Equalizer",
+ "category": "FILTERS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 144.53,
+  "d": 165.0
+ },
+ "size_from": "assumed 41 mm wide (1.6\"), the drawn panel's proportions",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M402B - front panel.svg",
+  "kind": "drawing"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 17.7,
+   "y": 46.22,
+   "r": 5.91
+  },
+  {
+   "shape": "circle",
+   "x": 18.01,
+   "y": 82.54,
+   "r": 5.76
+  },
+  {
+   "shape": "circle",
+   "x": 27.05,
+   "y": 19.4,
+   "r": 5.68
+  },
+  {
+   "shape": "circle",
+   "x": 10.05,
+   "y": 19.32,
+   "r": 3.01
+  }
+ ],
+ "knobs": [
+  {
+   "x": 17.7,
+   "y": 46.22,
+   "r": 7.84
+  }
+ ],
+ "drawings": [],
+ "notes": [
+  "the drawn panel is 0.25 wide to high, the size 0.28: placed by its height"
+ ],
+ "stl": "MECHANICAL/M402B.stl"
+}

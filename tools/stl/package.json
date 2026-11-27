@@ -1,0 +1,7 @@
+{
+  "name": "wbs-module-stl",
+  "private": true,
+  "type": "module",
+  "description": "STL files of the WBS modules from their model JSON (make_stl.mjs)",
+  "dependencies": { "three": "0.170.0" }
+}

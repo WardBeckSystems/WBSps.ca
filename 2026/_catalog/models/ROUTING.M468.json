@@ -1,0 +1,43 @@
+{
+ "format": "wbs-model/1",
+ "module": "M468",
+ "repo": "MODULES.ROUTING.M468",
+ "title": "M468",
+ "category": "ROUTING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 81.18,
+  "h": 185.03,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M468 - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 22.35,
+   "y": 92.82,
+   "w": 20.27,
+   "h": 153.47
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1973 - 468-03-002 - ESCUTCHEON MTG PLATE - DRN ALF - ISS 1 (traced).json",
+  "MECHANICAL/1973 - 468-03-003 - ESCUTCHEON. (SCHADOW SWITCH) - DRN ALF - ISS 3 (traced).json",
+  "MECHANICAL/1976 - 468-03-035 - M468P ESCUTCHEON - DRN MING - ISS 2 (traced).json",
+  "MECHANICAL/1976 - 468-03-036 - M468N ESCUTCHEON - DRN A-F - ISS 2 (traced).json",
+  "MECHANICAL/1982 - 468-03-115 - SWITCH MOUNTING BRACKET - DRN Jo - ISS 1 (traced).json",
+  "MECHANICAL/1984 - 468-03-121 - SWITCH MOUNTING BRACKET - DRN HH - ISS 1 (traced).json",
+  "MECHANICAL/1988 - 468-03-018 - KEY CAP JOINER - DRN DRG - ISS 2 (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.24 wide to high, the size 0.44: placed by its height"
+ ],
+ "stl": "MECHANICAL/M468.stl"
+}

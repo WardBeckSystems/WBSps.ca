@@ -1,0 +1,38 @@
+{
+ "format": "wbs-model/1",
+ "module": "M421",
+ "repo": "MODULES.UNSORTED.M421",
+ "title": "M421",
+ "category": "UNSORTED",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 51.82,
+  "h": 259.08,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M421 - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 39.42,
+   "y": 63.85,
+   "w": 9.34,
+   "h": 6.08
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1969 - 421-03-002 - SWITCH MTG BRKT M421 - DRN DJG - ISS 3 (traced).json",
+  "MECHANICAL/1969 - M421-03-001 - ESCUTCHEON M421 - ISS 3 (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.25 wide to high, the size 0.20: placed by its height"
+ ],
+ "stl": "MECHANICAL/M421.stl"
+}

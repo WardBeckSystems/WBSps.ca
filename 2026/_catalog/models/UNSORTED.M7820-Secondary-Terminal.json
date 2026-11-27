@@ -1,0 +1,134 @@
+{
+ "format": "wbs-model/1",
+ "module": "M7820",
+ "repo": "MODULES.UNSORTED.M7820-Secondary-Terminal",
+ "title": "Secondary Terminal",
+ "category": "UNSORTED",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 208.62,
+  "d": 165.0
+ },
+ "size_from": "assumed 41 mm wide (1.6\"), the drawn panel's proportions",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M7820 - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 25.86,
+   "y": 123.38,
+   "w": 15.21,
+   "h": 33.05
+  },
+  {
+   "shape": "rect",
+   "x": 25.64,
+   "y": 46.61,
+   "w": 5.8,
+   "h": 4.49
+  },
+  {
+   "shape": "rect",
+   "x": 25.57,
+   "y": 25.44,
+   "w": 5.65,
+   "h": 4.49
+  },
+  {
+   "shape": "rect",
+   "x": 25.57,
+   "y": 37.62,
+   "w": 5.65,
+   "h": 4.49
+  },
+  {
+   "shape": "rect",
+   "x": 25.72,
+   "y": 52.41,
+   "w": 5.65,
+   "h": 4.49
+  },
+  {
+   "shape": "rect",
+   "x": 25.72,
+   "y": 64.3,
+   "w": 5.65,
+   "h": 4.49
+  },
+  {
+   "shape": "rect",
+   "x": 25.86,
+   "y": 80.24,
+   "w": 5.65,
+   "h": 4.49
+  },
+  {
+   "shape": "rect",
+   "x": 25.86,
+   "y": 86.19,
+   "w": 5.65,
+   "h": 4.49
+  },
+  {
+   "shape": "circle",
+   "x": 25.57,
+   "y": 31.32,
+   "r": 2.57
+  },
+  {
+   "shape": "circle",
+   "x": 25.86,
+   "y": 74.66,
+   "r": 2.57
+  },
+  {
+   "shape": "circle",
+   "x": 25.86,
+   "y": 92.06,
+   "r": 2.57
+  },
+  {
+   "shape": "circle",
+   "x": 15.57,
+   "y": 165.13,
+   "r": 2.14
+  },
+  {
+   "shape": "rect",
+   "x": 25.86,
+   "y": 58.21,
+   "w": 4.2,
+   "h": 3.33
+  },
+  {
+   "shape": "circle",
+   "x": 22.82,
+   "y": 165.35,
+   "r": 2.1
+  },
+  {
+   "shape": "rect",
+   "x": 25.5,
+   "y": 19.06,
+   "w": 4.06,
+   "h": 3.33
+  },
+  {
+   "shape": "circle",
+   "x": 3.4,
+   "y": 148.46,
+   "r": 2.07
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/19xx - 7820-04-001 - SECONDARY TERMINAL FRONT & REAR LAYOUT - ISS 1 (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M7820.stl"
+}

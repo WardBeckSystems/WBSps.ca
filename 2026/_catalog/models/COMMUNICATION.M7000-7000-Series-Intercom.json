@@ -1,0 +1,39 @@
+{
+ "format": "wbs-model/1",
+ "module": "M7000",
+ "repo": "MODULES.COMMUNICATION.M7000-7000-Series-Intercom",
+ "title": "7000 Series Intercom",
+ "category": "COMMUNICATION",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 178.0,
+  "d": 165.0
+ },
+ "size_from": "assumed: 1.6\" x 7\" x 6.5\", the common module",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M7000 - front panel.svg",
+  "kind": "none"
+ },
+ "body": "card",
+ "holes": [],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1980 - 7000-03-008 - 7000 SERIES INTERCOM DESK PANELS MOUNTING DETAIL - DRN P. Mahoney - ENG MRW - ISS 1 (traced).json",
+  "MECHANICAL/1986 - 7000-03-019 - IKP-24C INTERCOM KEY PANELS - DRN BD - ENG GEB - ISS 1 (traced).json",
+  "MECHANICAL/1988 - 7000-03-017 - BELT CLIP - DRN DRG - ISS 5 (traced).json",
+  "MECHANICAL/1995 - 7000-03-031 - IKR-4A REAR HOUSING - DRN DRG - ISS 1 (traced).json",
+  "MECHANICAL/1995 - 7000-03-032 - IKR-10 PANEL - DRN DRG - ISS 1 (traced).json",
+  "MECHANICAL/1995 - 7000-03-034 - IKR COVER - DRN DRG - ISS 1 (traced).json",
+  "MECHANICAL/1995 - 7000-03-035 - COVER SUPPORT - DRN DRG - ISS 1 (traced).json",
+  "MECHANICAL/1995 - 7000-03-037 - IKR-10B (1 RACK UNIT) PANEL - DRN DRG - ISS 1 (traced).json",
+  "MECHANICAL/1997 - 7000-03-036 - IKR-10A PANEL (2RU) - DRN DRG - ISS 1 (traced).json",
+  "MECHANICAL/1997 - 7000-03-036 - IKR-10A PANEL(2RU) - DRN DRG - ISS 1 (traced).json",
+  "MECHANICAL/1998 - 7000-03-039 - IKR-10B PANEL(2RU) (2X PCB) - DRN DRG - ISS 1 (traced).json"
+ ],
+ "notes": [
+  "no drawing of the front panel: the panel is blank"
+ ],
+ "stl": "MECHANICAL/M7000.stl"
+}

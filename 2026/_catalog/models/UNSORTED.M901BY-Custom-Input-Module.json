@@ -1,0 +1,122 @@
+{
+ "format": "wbs-model/1",
+ "module": "M901BY",
+ "repo": "MODULES.UNSORTED.M901BY-Custom-Input-Module",
+ "title": "Custom Input Module",
+ "category": "UNSORTED",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 396.61,
+  "d": 165.0
+ },
+ "size_from": "assumed 41 mm wide (1.6\"), the drawn panel's proportions",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M901BY - front panel.svg",
+  "kind": "drawing"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 20.57,
+   "y": 38.34,
+   "w": 28.4,
+   "h": 20.73
+  },
+  {
+   "shape": "rect",
+   "x": 20.79,
+   "y": 60.52,
+   "w": 25.93,
+   "h": 20.73
+  },
+  {
+   "shape": "circle",
+   "x": 13.62,
+   "y": 289.19,
+   "r": 4.93
+  },
+  {
+   "shape": "circle",
+   "x": 27.38,
+   "y": 289.48,
+   "r": 4.93
+  },
+  {
+   "shape": "circle",
+   "x": 13.76,
+   "y": 81.76,
+   "r": 4.85
+  },
+  {
+   "shape": "circle",
+   "x": 13.62,
+   "y": 357.9,
+   "r": 4.85
+  },
+  {
+   "shape": "circle",
+   "x": 13.62,
+   "y": 333.98,
+   "r": 4.78
+  },
+  {
+   "shape": "circle",
+   "x": 20.43,
+   "y": 7.83,
+   "r": 3.48
+  },
+  {
+   "shape": "circle",
+   "x": 20.5,
+   "y": 388.42,
+   "r": 3.41
+  },
+  {
+   "shape": "rect",
+   "x": 28.98,
+   "y": 104.52,
+   "w": 10.43,
+   "h": 3.48
+  },
+  {
+   "shape": "rect",
+   "x": 28.98,
+   "y": 123.65,
+   "w": 10.43,
+   "h": 3.48
+  },
+  {
+   "shape": "circle",
+   "x": 27.24,
+   "y": 363.05,
+   "r": 2.93
+  },
+  {
+   "shape": "circle",
+   "x": 27.31,
+   "y": 339.2,
+   "r": 2.86
+  },
+  {
+   "shape": "circle",
+   "x": 20.5,
+   "y": 207.15,
+   "r": 2.57
+  },
+  {
+   "shape": "circle",
+   "x": 20.5,
+   "y": 373.92,
+   "r": 2.54
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1994 - M901BY - DOC - 940444-03-006 - LOVG FULL RAD SLOT SEE NOTE DOR ENTATIONS (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M901BY.stl"
+}

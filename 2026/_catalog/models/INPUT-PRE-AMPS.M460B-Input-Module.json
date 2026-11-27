@@ -1,0 +1,181 @@
+{
+ "format": "wbs-model/1",
+ "module": "M460B",
+ "repo": "MODULES.INPUT-PRE-AMPS.M460B-Input-Module",
+ "title": "Input Module",
+ "category": "INPUT-PRE-AMPS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 50.95,
+  "h": 318.24,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M460B - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 24.63,
+   "y": 24.63,
+   "r": 6.27
+  },
+  {
+   "shape": "circle",
+   "x": 8.01,
+   "y": 165.51,
+   "r": 4.0
+  },
+  {
+   "shape": "circle",
+   "x": 25.17,
+   "y": 201.61,
+   "r": 4.0
+  },
+  {
+   "shape": "circle",
+   "x": 8.08,
+   "y": 92.38,
+   "r": 3.96
+  },
+  {
+   "shape": "circle",
+   "x": 24.79,
+   "y": 110.93,
+   "r": 3.96
+  },
+  {
+   "shape": "circle",
+   "x": 25.02,
+   "y": 50.19,
+   "r": 3.89
+  },
+  {
+   "shape": "circle",
+   "x": 8.16,
+   "y": 24.4,
+   "r": 3.89
+  },
+  {
+   "shape": "circle",
+   "x": 24.79,
+   "y": 74.13,
+   "r": 3.81
+  },
+  {
+   "shape": "circle",
+   "x": 24.94,
+   "y": 147.19,
+   "r": 3.7
+  },
+  {
+   "shape": "circle",
+   "x": 24.02,
+   "y": 224.01,
+   "r": 3.46
+  },
+  {
+   "shape": "circle",
+   "x": 8.01,
+   "y": 39.95,
+   "r": 3.43
+  },
+  {
+   "shape": "circle",
+   "x": 24.09,
+   "y": 183.29,
+   "r": 3.39
+  },
+  {
+   "shape": "circle",
+   "x": 8.16,
+   "y": 62.51,
+   "r": 2.46
+  },
+  {
+   "shape": "circle",
+   "x": 24.94,
+   "y": 244.41,
+   "r": 2.19
+  },
+  {
+   "shape": "circle",
+   "x": 25.1,
+   "y": 279.82,
+   "r": 2.19
+  },
+  {
+   "shape": "circle",
+   "x": 7.93,
+   "y": 129.17,
+   "r": 2.12
+  },
+  {
+   "shape": "circle",
+   "x": 16.94,
+   "y": 297.3,
+   "r": 2.08
+  },
+  {
+   "shape": "circle",
+   "x": 8.78,
+   "y": 254.42,
+   "r": 1.96
+  },
+  {
+   "shape": "circle",
+   "x": 8.54,
+   "y": 213.62,
+   "r": 1.92
+  },
+  {
+   "shape": "circle",
+   "x": 8.85,
+   "y": 244.03,
+   "r": 1.89
+  },
+  {
+   "shape": "circle",
+   "x": 8.78,
+   "y": 224.01,
+   "r": 1.85
+  },
+  {
+   "shape": "circle",
+   "x": 8.7,
+   "y": 234.33,
+   "r": 1.81
+  },
+  {
+   "shape": "circle",
+   "x": 16.94,
+   "y": 4.23,
+   "r": 1.66
+  },
+  {
+   "shape": "circle",
+   "x": 17.01,
+   "y": 314.0,
+   "r": 1.62
+  }
+ ],
+ "knobs": [
+  {
+   "x": 24.63,
+   "y": 24.63,
+   "r": 7.01
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/1976 - M460B - 460-04-013 - IXI CONTROL FUNCT IONS- NOTE THAT THE (traced).json",
+  "MECHANICAL/1977 - M460B - 460-04-007 - LUL CONNECTOR REAR VEW (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.11 wide to high, the size 0.16: placed by its height"
+ ],
+ "stl": "MECHANICAL/M460B.stl"
+}

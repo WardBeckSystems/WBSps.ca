@@ -1,0 +1,51 @@
+{
+ "format": "wbs-model/1",
+ "module": "M900",
+ "repo": "MODULES.UNSORTED.M900-MK-Series-Hardware",
+ "title": "MK Series Hardware",
+ "category": "UNSORTED",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 139.04,
+  "h": 374.37,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M900 - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "chassis",
+ "holes": [],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1994 - 900-03-009 - MK SERIES TUB RIB, DIVIDER & FISH PAPER - DRN DRG (traced).json",
+  "MECHANICAL/1996 - 900-03-047 - SAS APC-88 PANEL - DRN DRG - ISS 1 (traced).json",
+  "MECHANICAL/1996 - 900-03-048 - SAS APC-88 BRACE - DRN DRG - ISS 1 (traced).json",
+  "MECHANICAL/19xx - 900-03-004 - MK SERIES PANDUIT TROUGH - DRN DRG - ISS 4 (traced).json",
+  "MECHANICAL/19xx - 900-03-013 - MK SERIES METER HOUSING LID - DRN DRG - ISS 2 (traced).json",
+  "MECHANICAL/19xx - 900-03-015 - MK SERIES METER PANELS (STANDARD) - DRN DRG - ISS 2 (traced).json",
+  "MECHANICAL/19xx - 900-03-017 - MK SERIES BOTTOM PAN (REMOVABLE) - DRN DRG - ISS 5 (traced).json",
+  "MECHANICAL/19xx - 900-03-018 - MK SERIES CONNECTOR PANEL - DRN DRG - ISS 3 (traced).json",
+  "MECHANICAL/19xx - 900-03-020 - MK SERIES METER BRIDGE LID SUPPORT - DRN DRG - ISS 2 (traced).json",
+  "MECHANICAL/19xx - 900-03-025 - POWER DISTRIBUTION BRACKET - ISS 3 (traced).json",
+  "MECHANICAL/19xx - 900-03-027 - MK SERIES CONNECTOR PANEL (REAR L.H.S.) - DRN DRG - ISS 3 (traced).json",
+  "MECHANICAL/19xx - 900-03-030 - POWER DISTRIBUTION BRACKET (4 CAPACITORS) - DRN DRG - ISS 2 (traced).json",
+  "MECHANICAL/19xx - 900-03-032 - FOOT KICK MEMBER - DRN DRG - ISS 1 (traced).json",
+  "MECHANICAL/19xx - 900-03-035 - FRONT PANEL - DRN DRG - ISS 1 (traced).json",
+  "MECHANICAL/19xx - 900-03-036 - REAR PANEL - DRN DRG - ISS 1 (traced).json",
+  "MECHANICAL/19xx - 900-03-040 - APPLIQUES (USE WITH LEG ASSEMBLY) - ISS 1 (traced).json",
+  "MECHANICAL/19xx - 900-03-046 - TRANSFORMERS 10X(60-3) BRACKET - ISS 1 (traced).json",
+  "MECHANICAL/19xx - 900-03-102 - EXTENDED MK SERIES BOTTOM PAN (REMOVABLE) - ISS 1 (traced).json",
+  "MECHANICAL/19xx - 900-03-104 - EXTENDED MK SERIES IDENT EXTRUSION COVER - DRN DRG - ISS 1 (traced).json",
+  "MECHANICAL/19xx - 900-03-105 - EXTENDED MK SERIES LOWER IDENT SUPPORT BRKT - DRN DRG - ISS 2 (traced).json",
+  "MECHANICAL/19xx - 900-03-202 - EQUALIZER MK SERIES BOTTOM PAN (REMOVABLE) - DRN DRG - ISS 1 (traced).json",
+  "MECHANICAL/19xx - 900-03-203 - EQUALIZER MK SERIES CONSOLE SUPPORT TRIM - DRN DRG - ISS 2 (traced).json",
+  "MECHANICAL/19xx - 900-03-211 - EQUALIZER MK SERIES CONSOLE SUPPORT TRIM - DRN DRG - ISS 1 (traced).json",
+  "MECHANICAL/19xx - 900-03-212 - EQUALIZER MK SERIES BOTTOM PAN (REMOVABLE) - DRN DRG - ISS 1 (traced).json",
+  "MECHANICAL/19xx - 900-03-315 - TV SERIES METER PANELS (STANDARD) - DRN DRG - ISS 1 (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M900.stl"
+}

@@ -1,0 +1,100 @@
+{
+ "format": "wbs-model/1",
+ "module": "M462",
+ "repo": "MODULES.FILTERS.M462-Equalizer-Module",
+ "title": "Equalizer Module",
+ "category": "FILTERS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 54.62,
+  "h": 199.71,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M462 - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 32.79,
+   "y": 147.61,
+   "r": 5.16
+  },
+  {
+   "shape": "circle",
+   "x": 32.95,
+   "y": 94.27,
+   "r": 4.85
+  },
+  {
+   "shape": "circle",
+   "x": 33.1,
+   "y": 40.55,
+   "r": 4.73
+  },
+  {
+   "shape": "circle",
+   "x": 11.4,
+   "y": 40.78,
+   "r": 4.38
+  },
+  {
+   "shape": "circle",
+   "x": 11.24,
+   "y": 147.3,
+   "r": 4.3
+  },
+  {
+   "shape": "circle",
+   "x": 11.47,
+   "y": 67.37,
+   "r": 2.91
+  },
+  {
+   "shape": "circle",
+   "x": 11.09,
+   "y": 120.17,
+   "r": 2.83
+  },
+  {
+   "shape": "circle",
+   "x": 11.4,
+   "y": 172.96,
+   "r": 2.79
+  },
+  {
+   "shape": "circle",
+   "x": 33.34,
+   "y": 25.35,
+   "r": 2.52
+  },
+  {
+   "shape": "circle",
+   "x": 22.41,
+   "y": 5.04,
+   "r": 2.09
+  },
+  {
+   "shape": "circle",
+   "x": 21.86,
+   "y": 194.44,
+   "r": 1.86
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1974 - M462 - 462-04-004 - ENG EQUALIZER MODULE (traced).json",
+  "MECHANICAL/1974 - M462 - 462-04-005 - HIGH FREOUENCY SECTION BOOST-CUT CONTROI (traced).json",
+  "MECHANICAL/1974 - M462 - 462-04-005 - ZED NPUT SIGNA (traced).json",
+  "MECHANICAL/1974 - M462 - P6 - Front Panel (traced).json",
+  "MECHANICAL/19xx - M462 - DOC - 462-04-005 - EASED CNE UNEQUA TZED NPUT TGNA BYPESSED DIRECTLY (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.22 wide to high, the size 0.27: placed by its height"
+ ],
+ "stl": "MECHANICAL/M462.stl"
+}

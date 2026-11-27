@@ -1,0 +1,29 @@
+{
+ "format": "wbs-model/1",
+ "module": "M208",
+ "repo": "MODULES.UNSORTED.M208-Attenuator-Block",
+ "title": "Attenuator Block",
+ "category": "UNSORTED",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 178.0,
+  "d": 165.0
+ },
+ "size_from": "assumed: 1.6\" x 7\" x 6.5\", the common module",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M208 - front panel.svg",
+  "kind": "none"
+ },
+ "body": "card",
+ "holes": [],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1984 - 208-03-001 - VAC. FORMED MOLD FOR M208 ATTENUATOR BLOCK - DRN MRW - ENG MRW - ISS 1 (traced).json"
+ ],
+ "notes": [
+  "no drawing of the front panel: the panel is blank"
+ ],
+ "stl": "MECHANICAL/M208.stl"
+}

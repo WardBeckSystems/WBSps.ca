@@ -1,0 +1,58 @@
+{
+ "format": "wbs-model/1",
+ "module": "M445",
+ "repo": "MODULES.METER.M445-Extended-Range-Meter",
+ "title": "Extended Range Meter",
+ "category": "METER",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 485.0,
+  "h": 90.0,
+  "d": 305.0
+ },
+ "size_from": "TECHNICAL DATA: 19\" wide X 3.5\" high x 12\" deep. (485 mm x 90 mm x 305 mm) e 12.3 lbs (5.6 kg):,..",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M445 - front panel.svg",
+  "kind": "cad"
+ },
+ "body": "chassis",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 29.51,
+   "y": 10.86,
+   "w": 29.69,
+   "h": 8.89
+  },
+  {
+   "shape": "circle",
+   "x": 263.45,
+   "y": 9.58,
+   "r": 1.6
+  },
+  {
+   "shape": "circle",
+   "x": 200.03,
+   "y": 9.58,
+   "r": 1.6
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1995 - 445-03-010 - FRONT LOCK LATCH & BLOCK - DRN DRG - ISS 1 (traced).json",
+  "MECHANICAL/1995 - 445-03-016 - EXTENDED RANGE METER SPEAKER SCREEN - DRN DRG - ISS 1 (traced).json",
+  "MECHANICAL/1996 - M445 - B 445-04-001 - M445 EXTENDED RANGE METER-MONITOR - OUTLINE (traced).json",
+  "MECHANICAL/1996 - M445 - B 445-04-002 - M445 EXTENDED RANGE METER-MONITOR - FRONT PANEL LAYOUT (traced).json",
+  "MECHANICAL/1996 - M445 - B 445-04-003 - M445 EXTENDED RANGE METER-MONITOR - REAR PANEL LAYOUT (traced).json",
+  "MECHANICAL/19xx - 445-03-011 - M445A EXTENDED RANGE METER BATTERY HOLDER & CLIP - DRN WS - ENG WS - ISS 2 (traced).json",
+  "MECHANICAL/19xx - M445 - DOC - 445-03-007 - NQTES REMOVE ALL BURRS AND SHARP EDGES (traced).json",
+  "MECHANICAL/19xx - M445 - DOC - 445-03-016 - PAINT EXTRA FINE TEXTURED BLACK TEXCOTE (traced).json",
+  "MECHANICAL/19xx - M445 - DOC - 445-03-026 - REMOVE ALL BURRS AND SHARP EDGES TOLERANCES (traced).json",
+  "MECHANICAL/19xx - M445 - DOC - 445-03-028 - NQTES REMOVE ALL BURRS AND SHARP EDGES TOLERANCES (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 3.40 wide to high, the size 5.39: placed by its height"
+ ],
+ "stl": "MECHANICAL/M445.stl"
+}

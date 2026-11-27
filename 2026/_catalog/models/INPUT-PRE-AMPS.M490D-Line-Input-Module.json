@@ -1,0 +1,112 @@
+{
+ "format": "wbs-model/1",
+ "module": "M490D",
+ "repo": "MODULES.INPUT-PRE-AMPS.M490D-Line-Input-Module",
+ "title": "Line Input Module",
+ "category": "INPUT-PRE-AMPS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 43.18,
+  "h": 267.28,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M490D - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 14.75,
+   "y": 22.24,
+   "w": 19.61,
+   "h": 15.13
+  },
+  {
+   "shape": "rect",
+   "x": 9.42,
+   "y": 239.88,
+   "w": 7.41,
+   "h": 27.02
+  },
+  {
+   "shape": "rect",
+   "x": 20.15,
+   "y": 215.09,
+   "w": 7.87,
+   "h": 13.59
+  },
+  {
+   "shape": "rect",
+   "x": 9.19,
+   "y": 215.09,
+   "w": 7.87,
+   "h": 13.59
+  },
+  {
+   "shape": "circle",
+   "x": 21.31,
+   "y": 39.14,
+   "r": 5.1
+  },
+  {
+   "shape": "circle",
+   "x": 21.77,
+   "y": 190.54,
+   "r": 3.4
+  },
+  {
+   "shape": "circle",
+   "x": 21.46,
+   "y": 171.7,
+   "r": 3.32
+  },
+  {
+   "shape": "circle",
+   "x": 21.85,
+   "y": 233.39,
+   "r": 3.32
+  },
+  {
+   "shape": "circle",
+   "x": 8.26,
+   "y": 38.91,
+   "r": 3.28
+  },
+  {
+   "shape": "circle",
+   "x": 8.11,
+   "y": 171.63,
+   "r": 1.62
+  },
+  {
+   "shape": "circle",
+   "x": 14.82,
+   "y": 264.04,
+   "r": 1.39
+  },
+  {
+   "shape": "circle",
+   "x": 14.98,
+   "y": 3.32,
+   "r": 1.35
+  }
+ ],
+ "knobs": [
+  {
+   "x": 21.31,
+   "y": 39.14,
+   "r": 6.45
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/1978 - M490D - 490-04-012 - LINE INPUT MODULE FRONT PANEL (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.11 wide to high, the size 0.16: placed by its height"
+ ],
+ "stl": "MECHANICAL/M490D.stl"
+}

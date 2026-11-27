@@ -1,0 +1,85 @@
+{
+ "format": "wbs-model/1",
+ "module": "M472",
+ "repo": "MODULES.FILTERS.M472-Equalizer-Module",
+ "title": "Equalizer Module",
+ "category": "FILTERS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 57.43,
+  "h": 211.8,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M472 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 11.05,
+   "y": 127.76,
+   "r": 5.37
+  },
+  {
+   "shape": "circle",
+   "x": 11.13,
+   "y": 72.36,
+   "r": 5.33
+  },
+  {
+   "shape": "circle",
+   "x": 34.31,
+   "y": 43.96,
+   "r": 5.29
+  },
+  {
+   "shape": "circle",
+   "x": 34.0,
+   "y": 156.55,
+   "r": 5.02
+  },
+  {
+   "shape": "circle",
+   "x": 34.39,
+   "y": 100.22,
+   "r": 4.98
+  },
+  {
+   "shape": "circle",
+   "x": 11.75,
+   "y": 99.83,
+   "r": 4.59
+  },
+  {
+   "shape": "circle",
+   "x": 34.47,
+   "y": 27.39,
+   "r": 2.53
+  },
+  {
+   "shape": "circle",
+   "x": 22.56,
+   "y": 206.27,
+   "r": 2.3
+  },
+  {
+   "shape": "circle",
+   "x": 22.95,
+   "y": 5.6,
+   "r": 2.14
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1977 - M472 - 472-04-003 - THE OUTPUT IOLZZ REDRAWN (traced).json",
+  "MECHANICAL/1977 - M472 - Front Panel (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.21 wide to high, the size 0.27: placed by its height"
+ ],
+ "stl": "MECHANICAL/M472.stl"
+}

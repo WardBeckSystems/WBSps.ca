@@ -1,0 +1,171 @@
+{
+ "format": "wbs-model/1",
+ "module": "M456B",
+ "repo": "MODULES.ROUTING.M456B-Dual-Mixdown-Module",
+ "title": "Dual Mixdown Module",
+ "category": "ROUTING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 68.44,
+  "h": 425.54,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M456B - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 32.39,
+   "y": 352.71,
+   "w": 12.83,
+   "h": 85.05
+  },
+  {
+   "shape": "rect",
+   "x": 12.06,
+   "y": 352.4,
+   "w": 12.37,
+   "h": 85.05
+  },
+  {
+   "shape": "circle",
+   "x": 32.63,
+   "y": 31.85,
+   "r": 5.14
+  },
+  {
+   "shape": "circle",
+   "x": 32.55,
+   "y": 48.24,
+   "r": 5.14
+  },
+  {
+   "shape": "circle",
+   "x": 11.91,
+   "y": 48.24,
+   "r": 5.1
+  },
+  {
+   "shape": "circle",
+   "x": 11.98,
+   "y": 31.62,
+   "r": 5.06
+  },
+  {
+   "shape": "circle",
+   "x": 32.47,
+   "y": 123.7,
+   "r": 4.72
+  },
+  {
+   "shape": "circle",
+   "x": 12.06,
+   "y": 104.14,
+   "r": 4.68
+  },
+  {
+   "shape": "circle",
+   "x": 32.7,
+   "y": 165.76,
+   "r": 4.68
+  },
+  {
+   "shape": "circle",
+   "x": 32.7,
+   "y": 208.13,
+   "r": 4.68
+  },
+  {
+   "shape": "circle",
+   "x": 32.63,
+   "y": 250.27,
+   "r": 4.68
+  },
+  {
+   "shape": "circle",
+   "x": 11.98,
+   "y": 188.65,
+   "r": 4.6
+  },
+  {
+   "shape": "circle",
+   "x": 12.14,
+   "y": 230.71,
+   "r": 4.6
+  },
+  {
+   "shape": "circle",
+   "x": 11.98,
+   "y": 146.2,
+   "r": 4.56
+  },
+  {
+   "shape": "circle",
+   "x": 11.75,
+   "y": 61.77,
+   "r": 3.29
+  },
+  {
+   "shape": "circle",
+   "x": 11.98,
+   "y": 292.56,
+   "r": 2.59
+  },
+  {
+   "shape": "circle",
+   "x": 32.7,
+   "y": 303.69,
+   "r": 2.51
+  },
+  {
+   "shape": "circle",
+   "x": 32.86,
+   "y": 292.64,
+   "r": 2.47
+  },
+  {
+   "shape": "circle",
+   "x": 12.14,
+   "y": 303.61,
+   "r": 2.47
+  },
+  {
+   "shape": "circle",
+   "x": 35.02,
+   "y": 19.48,
+   "r": 2.2
+  },
+  {
+   "shape": "circle",
+   "x": 22.5,
+   "y": 420.13,
+   "r": 2.2
+  }
+ ],
+ "knobs": [
+  {
+   "x": 32.63,
+   "y": 31.85,
+   "r": 6.88
+  },
+  {
+   "x": 11.98,
+   "y": 31.62,
+   "r": 6.73
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/1975 - M456B - 456-04-009 - ENG DUAL MIXDOWN MODULE (traced).json",
+  "MECHANICAL/1975 - M456B - 456-04-009 - SWITCH SWI WHEN DEPRESSED ACTIVATES CHANNE OUTPUT CIRCUITS (traced).json",
+  "MECHANICAL/1975 - M456B - 481-03-015 - DUAL BOOSTER AMPLIFIER (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.11 wide to high, the size 0.16: placed by its height"
+ ],
+ "stl": "MECHANICAL/M456B.stl"
+}

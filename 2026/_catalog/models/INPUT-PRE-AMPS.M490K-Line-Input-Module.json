@@ -1,0 +1,107 @@
+{
+ "format": "wbs-model/1",
+ "module": "M490K",
+ "repo": "MODULES.INPUT-PRE-AMPS.M490K-Line-Input-Module",
+ "title": "Line Input Module",
+ "category": "INPUT-PRE-AMPS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 50.3,
+  "h": 416.69,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M490K - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 31.89,
+   "y": 54.57,
+   "w": 28.12,
+   "h": 21.89
+  },
+  {
+   "shape": "rect",
+   "x": 21.53,
+   "y": 368.5,
+   "w": 10.87,
+   "h": 38.7
+  },
+  {
+   "shape": "rect",
+   "x": 40.95,
+   "y": 78.63,
+   "w": 15.22,
+   "h": 15.22
+  },
+  {
+   "shape": "rect",
+   "x": 37.11,
+   "y": 332.84,
+   "w": 11.02,
+   "h": 20.15
+  },
+  {
+   "shape": "rect",
+   "x": 21.6,
+   "y": 332.62,
+   "w": 11.02,
+   "h": 20.0
+  },
+  {
+   "shape": "circle",
+   "x": 39.29,
+   "y": 359.0,
+   "r": 4.86
+  },
+  {
+   "shape": "circle",
+   "x": 22.11,
+   "y": 78.26,
+   "r": 4.6
+  },
+  {
+   "shape": "circle",
+   "x": 39.94,
+   "y": 297.33,
+   "r": 4.57
+  },
+  {
+   "shape": "circle",
+   "x": 20.3,
+   "y": 297.26,
+   "r": 2.97
+  },
+  {
+   "shape": "circle",
+   "x": 31.97,
+   "y": 27.61,
+   "r": 2.1
+  },
+  {
+   "shape": "circle",
+   "x": 29.65,
+   "y": 402.7,
+   "r": 2.03
+  },
+  {
+   "shape": "circle",
+   "x": 33.71,
+   "y": 348.64,
+   "r": 1.38
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1983 - M490K - 490-04-022 - CHANNEI ELONALE EIRORKE IHE APOROORLALE POM PURE (traced).json",
+  "MECHANICAL/1983 - M490K - 490-04-022 - WAIUR THLE LICH EII ALO IURN CUE OFP (traced).json",
+  "MECHANICAL/19xx - M490K - DOC - 490-03-033 - SCRATCHES LSE SELF-CLINCHING PEM FASTERNER (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M490K.stl"
+}

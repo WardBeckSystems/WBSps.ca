@@ -1,0 +1,60 @@
+{
+ "format": "wbs-model/1",
+ "module": "M441F",
+ "repo": "MODULES.INPUT-PRE-AMPS.M441F-Input-Module",
+ "title": "Input Module",
+ "category": "INPUT-PRE-AMPS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 52.9,
+  "h": 183.95,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M441F - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 22.84,
+   "y": 55.04,
+   "r": 4.75
+  },
+  {
+   "shape": "circle",
+   "x": 22.61,
+   "y": 5.19,
+   "r": 4.14
+  },
+  {
+   "shape": "circle",
+   "x": 6.89,
+   "y": 159.25,
+   "r": 1.7
+  },
+  {
+   "shape": "circle",
+   "x": 35.77,
+   "y": 82.68,
+   "r": 1.39
+  }
+ ],
+ "knobs": [
+  {
+   "x": 22.84,
+   "y": 55.04,
+   "r": 7.59
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/1972 - M441F - 441-04-007 (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.24 wide to high, the size 0.29: placed by its height"
+ ],
+ "stl": "MECHANICAL/M441F.stl"
+}

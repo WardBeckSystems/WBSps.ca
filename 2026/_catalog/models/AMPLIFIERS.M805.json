@@ -1,0 +1,31 @@
+{
+ "format": "wbs-model/1",
+ "module": "M805",
+ "repo": "MODULES.AMPLIFIERS.M805",
+ "title": "M805",
+ "category": "AMPLIFIERS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 178.0,
+  "d": 165.0
+ },
+ "size_from": "assumed: 1.6\" x 7\" x 6.5\", the common module",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M805 - front panel.svg",
+  "kind": "none"
+ },
+ "body": "card",
+ "holes": [],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1983 - 805-03-001 - M805D E & M806D E CARD MOUNTING PLATE - DRN GEB - ENG GEB - ISS 3 (traced).json",
+  "MECHANICAL/1983 - 805-03-003 - M805D E HEATSINK - DRN GEB - ENG GEB - ISS 1 (traced).json",
+  "MECHANICAL/1987 - 805-03-002 - M805D E FISH PAPER COVER - DRN GEB - ENG GEB - ISS 3 (traced).json"
+ ],
+ "notes": [
+  "no drawing of the front panel: the panel is blank"
+ ],
+ "stl": "MECHANICAL/M805.stl"
+}

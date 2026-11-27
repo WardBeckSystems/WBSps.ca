@@ -1,0 +1,51 @@
+{
+ "format": "wbs-model/1",
+ "module": "M459",
+ "repo": "MODULES.ROUTING.M459-Effects-Switcher-Module",
+ "title": "Effects Switcher Module",
+ "category": "ROUTING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 52.9,
+  "h": 195.61,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M459 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 22.78,
+   "y": 190.8,
+   "r": 3.41
+  },
+  {
+   "shape": "circle",
+   "x": 13.02,
+   "y": 123.92,
+   "r": 3.22
+  },
+  {
+   "shape": "circle",
+   "x": 38.83,
+   "y": 191.27,
+   "r": 0.97
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1975 - 459-04-001 - ASSEMBLY - DRN DM (2) (traced).json",
+  "MECHANICAL/1975 - 459-04-001 - ASSEMBLY - DRN DM (traced).json",
+  "MECHANICAL/1975 - 459-04-001 - ASSEMBLY - DRN DM - ISS 1 (traced).json",
+  "MECHANICAL/1976 - M459 - 459-04-001 - LISS MODIICKD USED (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.23 wide to high, the size 0.27: placed by its height"
+ ],
+ "stl": "MECHANICAL/M459.stl"
+}

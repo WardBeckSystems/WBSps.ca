@@ -1,0 +1,247 @@
+{
+ "format": "wbs-model/1",
+ "module": "M525",
+ "repo": "MODULES.MONITORING.M525-Stereo-Monitor-Module",
+ "title": "Stereo Monitor Module",
+ "category": "MONITORING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 71.89,
+  "h": 428.78,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M525 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 14.93,
+   "y": 277.91,
+   "w": 17.67,
+   "h": 241.43
+  },
+  {
+   "shape": "rect",
+   "x": 12.41,
+   "y": 41.96,
+   "w": 16.6,
+   "h": 37.32
+  },
+  {
+   "shape": "rect",
+   "x": 34.5,
+   "y": 41.51,
+   "w": 16.91,
+   "h": 32.14
+  },
+  {
+   "shape": "rect",
+   "x": 33.74,
+   "y": 270.29,
+   "w": 14.17,
+   "h": 13.25
+  },
+  {
+   "shape": "rect",
+   "x": 33.74,
+   "y": 300.83,
+   "w": 13.86,
+   "h": 13.4
+  },
+  {
+   "shape": "rect",
+   "x": 33.51,
+   "y": 178.9,
+   "w": 14.01,
+   "h": 13.25
+  },
+  {
+   "shape": "rect",
+   "x": 33.97,
+   "y": 361.83,
+   "w": 14.01,
+   "h": 13.25
+  },
+  {
+   "shape": "rect",
+   "x": 33.59,
+   "y": 224.75,
+   "w": 13.56,
+   "h": 13.56
+  },
+  {
+   "shape": "rect",
+   "x": 33.97,
+   "y": 347.06,
+   "w": 13.71,
+   "h": 13.25
+  },
+  {
+   "shape": "rect",
+   "x": 33.74,
+   "y": 315.76,
+   "w": 13.86,
+   "h": 13.1
+  },
+  {
+   "shape": "rect",
+   "x": 33.59,
+   "y": 331.22,
+   "w": 13.56,
+   "h": 13.25
+  },
+  {
+   "shape": "rect",
+   "x": 33.36,
+   "y": 194.05,
+   "w": 13.71,
+   "h": 13.1
+  },
+  {
+   "shape": "rect",
+   "x": 33.66,
+   "y": 377.29,
+   "w": 13.4,
+   "h": 13.4
+  },
+  {
+   "shape": "rect",
+   "x": 33.43,
+   "y": 118.2,
+   "w": 13.56,
+   "h": 13.1
+  },
+  {
+   "shape": "rect",
+   "x": 33.66,
+   "y": 88.12,
+   "w": 13.71,
+   "h": 12.95
+  },
+  {
+   "shape": "rect",
+   "x": 33.74,
+   "y": 103.12,
+   "w": 13.86,
+   "h": 12.79
+  },
+  {
+   "shape": "circle",
+   "x": 11.96,
+   "y": 88.57,
+   "r": 3.96
+  },
+  {
+   "shape": "circle",
+   "x": 34.2,
+   "y": 133.43,
+   "r": 3.92
+  },
+  {
+   "shape": "circle",
+   "x": 22.92,
+   "y": 423.83,
+   "r": 2.82
+  },
+  {
+   "shape": "circle",
+   "x": 22.54,
+   "y": 5.41,
+   "r": 2.78
+  },
+  {
+   "shape": "circle",
+   "x": 33.74,
+   "y": 254.98,
+   "r": 2.09
+  },
+  {
+   "shape": "circle",
+   "x": 33.43,
+   "y": 209.51,
+   "r": 2.09
+  },
+  {
+   "shape": "circle",
+   "x": 33.89,
+   "y": 392.3,
+   "r": 2.09
+  },
+  {
+   "shape": "circle",
+   "x": 33.81,
+   "y": 285.22,
+   "r": 2.09
+  },
+  {
+   "shape": "circle",
+   "x": 33.43,
+   "y": 239.83,
+   "r": 2.06
+  },
+  {
+   "shape": "circle",
+   "x": 33.36,
+   "y": 163.82,
+   "r": 2.02
+  },
+  {
+   "shape": "circle",
+   "x": 16.6,
+   "y": 133.81,
+   "r": 1.56
+  },
+  {
+   "shape": "circle",
+   "x": 23.91,
+   "y": 133.89,
+   "r": 1.29
+  }
+ ],
+ "knobs": [
+  {
+   "x": 33.74,
+   "y": 254.98,
+   "r": 6.82
+  },
+  {
+   "x": 33.43,
+   "y": 209.51,
+   "r": 6.78
+  },
+  {
+   "x": 33.89,
+   "y": 392.3,
+   "r": 6.7
+  },
+  {
+   "x": 33.36,
+   "y": 163.82,
+   "r": 6.66
+  },
+  {
+   "x": 33.81,
+   "y": 285.22,
+   "r": 6.66
+  },
+  {
+   "x": 33.43,
+   "y": 239.83,
+   "r": 6.63
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/1988 - 525-03-009 - IDENT EXTRUSION AND COVER FOR M525A - DRN BD -88 - ENG WS-88 - ISS 1 (traced).json",
+  "MECHANICAL/19xx - M525 - DOC - 2442-04-003 - SUB MASTER FADERS ADERS MONO IMPUT FADERS (traced).json",
+  "MECHANICAL/19xx - M525 - DOC - 525-04-001 - EXT EXT EXT EXT AUX AUX AUX (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.11 wide to high, the size 0.17: placed by its height"
+ ],
+ "stl": "MECHANICAL/M525.stl"
+}

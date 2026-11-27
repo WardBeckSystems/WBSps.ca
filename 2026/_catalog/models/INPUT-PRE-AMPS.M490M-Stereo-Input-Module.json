@@ -1,0 +1,115 @@
+{
+ "format": "wbs-model/1",
+ "module": "M490M",
+ "repo": "MODULES.INPUT-PRE-AMPS.M490M-Stereo-Input-Module",
+ "title": "Stereo Input Module",
+ "category": "INPUT-PRE-AMPS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 68.44,
+  "h": 419.93,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M490M - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 22.93,
+   "y": 35.66,
+   "w": 30.41,
+   "h": 23.47
+  },
+  {
+   "shape": "rect",
+   "x": 13.82,
+   "y": 376.16,
+   "w": 11.89,
+   "h": 42.15
+  },
+  {
+   "shape": "rect",
+   "x": 31.96,
+   "y": 62.14,
+   "w": 20.07,
+   "h": 19.92
+  },
+  {
+   "shape": "rect",
+   "x": 30.72,
+   "y": 338.87,
+   "w": 12.04,
+   "h": 21.92
+  },
+  {
+   "shape": "rect",
+   "x": 13.82,
+   "y": 338.95,
+   "w": 11.89,
+   "h": 21.77
+  },
+  {
+   "shape": "circle",
+   "x": 28.64,
+   "y": 299.74,
+   "r": 5.09
+  },
+  {
+   "shape": "circle",
+   "x": 31.73,
+   "y": 366.66,
+   "r": 3.36
+  },
+  {
+   "shape": "circle",
+   "x": 11.81,
+   "y": 299.35,
+   "r": 3.28
+  },
+  {
+   "shape": "circle",
+   "x": 11.96,
+   "y": 76.73,
+   "r": 2.51
+  },
+  {
+   "shape": "circle",
+   "x": 31.8,
+   "y": 386.89,
+   "r": 2.16
+  },
+  {
+   "shape": "circle",
+   "x": 21.92,
+   "y": 414.52,
+   "r": 2.16
+  },
+  {
+   "shape": "circle",
+   "x": 22.46,
+   "y": 5.87,
+   "r": 2.12
+  },
+  {
+   "shape": "circle",
+   "x": 29.95,
+   "y": 77.04,
+   "r": 1.78
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1988 - M490M - 490-04-026 - STEREO INPUT MODULE MODULE LAYOUT (2) (traced).json",
+  "MECHANICAL/1988 - M490M - 490-04-026 - STEREO INPUT MODULE MODULE LAYOUT (traced).json",
+  "MECHANICAL/1988 - M490M - 490-04-026 - SWI DSI (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.11 wide to high, the size 0.16: placed by its height"
+ ],
+ "stl": "MECHANICAL/M490M.stl"
+}

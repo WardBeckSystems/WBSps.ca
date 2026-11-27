@@ -1,0 +1,33 @@
+{
+ "format": "wbs-model/1",
+ "module": "M712B",
+ "repo": "MODULES.COMMUNICATION.M712B-Intercom-Matrix-Amplifier",
+ "title": "Intercom Matrix Amplifier",
+ "category": "COMMUNICATION",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 18.0,
+  "h": 112.0,
+  "d": 280.0
+ },
+ "size_from": "TECHNICAL DATA: 0 7\" wide 4.4\" high 11\" deep (18 mm 112 Mm 280 mm)",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M712B - front panel.svg",
+  "kind": "none"
+ },
+ "body": "card",
+ "holes": [],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1994 - M712B - DOC - 940443-04-002 - UJA CAUTION DISCCHHAE POMER UEL RDPLAGNC (traced).json",
+  "MECHANICAL/1994 - M712B - DOC - 940444-03-004 - CARD TUBS NOTE REVOVE ALL BURRS AND SHARP (traced).json",
+  "MECHANICAL/1994 - M712B - DOC - 940444-04-004 - HYBRID UTL UTL HYBRID HYBRID CUTPUTS CORD REAR (traced).json",
+  "MECHANICAL/1994 - M712B - DOC - 94063-04-003 - MODUNES V-ADJ V-ADJ CAUTION DISCOVNECI PONKK REFCRI IRSERMNG (traced).json",
+  "MECHANICAL/1996 - M712B - DOC - 960296-04-001 - RACTRG JOKER VOULLS V-ADJ V-ADJ CAUTION DISCCNNECT PORER (traced).json"
+ ],
+ "notes": [
+  "no drawing of the front panel: the panel is blank"
+ ],
+ "stl": "MECHANICAL/M712B.stl"
+}

@@ -1,0 +1,63 @@
+{
+ "format": "wbs-model/1",
+ "module": "M413",
+ "repo": "MODULES.MONITORING.M413-Talkback-Amplifier",
+ "title": "Talkback Amplifier",
+ "category": "MONITORING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 73.62,
+  "h": 153.94,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M413 - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 25.0,
+   "y": 86.68,
+   "w": 15.51,
+   "h": 5.51
+  },
+  {
+   "shape": "rect",
+   "x": 24.56,
+   "y": 139.51,
+   "w": 15.51,
+   "h": 5.36
+  },
+  {
+   "shape": "rect",
+   "x": 24.71,
+   "y": 118.5,
+   "w": 15.22,
+   "h": 5.07
+  },
+  {
+   "shape": "rect",
+   "x": 28.84,
+   "y": 102.55,
+   "w": 7.54,
+   "h": 5.07
+  },
+  {
+   "shape": "circle",
+   "x": 59.13,
+   "y": 121.32,
+   "r": 1.52
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1969 - 413-03-001 - ESCUTCHEON - ISS 5 (traced).json",
+  "MECHANICAL/1969 - 413-03-002 - SWITCH MTG. PLATE - ISS 3 (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M413.stl"
+}

@@ -1,0 +1,70 @@
+{
+ "format": "wbs-model/1",
+ "module": "M463AC",
+ "repo": "MODULES.SUMMING.M463AC-Master-Module",
+ "title": "Master Module",
+ "category": "SUMMING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 178.0,
+  "d": 165.0
+ },
+ "size_from": "TECHNICAL DATA: wide 7.0\" high 6.5\" deep (41 mm 178 mm 165 mim)",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M463AC - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 11.65,
+   "y": 27.23,
+   "r": 4.2
+  },
+  {
+   "shape": "circle",
+   "x": 29.35,
+   "y": 102.38,
+   "r": 3.89
+  },
+  {
+   "shape": "circle",
+   "x": 29.35,
+   "y": 64.03,
+   "r": 3.85
+  },
+  {
+   "shape": "circle",
+   "x": 11.26,
+   "y": 74.22,
+   "r": 2.22
+  },
+  {
+   "shape": "circle",
+   "x": 11.41,
+   "y": 63.95,
+   "r": 2.06
+  },
+  {
+   "shape": "circle",
+   "x": 20.81,
+   "y": 4.67,
+   "r": 1.87
+  },
+  {
+   "shape": "circle",
+   "x": 20.19,
+   "y": 173.64,
+   "r": 1.79
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1986 - M463AC - 463-04-104 - HNEN AEPRESSCO CNE POSTFADE (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M463AC.stl"
+}

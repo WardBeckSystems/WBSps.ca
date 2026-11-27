@@ -1,0 +1,180 @@
+{
+ "format": "wbs-model/1",
+ "module": "M908",
+ "repo": "MODULES.UNSORTED.M908-Dual-Stereo-Line-Selector",
+ "title": "Dual Stereo Line Selector",
+ "category": "UNSORTED",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 425.58,
+  "d": 165.0
+ },
+ "size_from": "assumed 41 mm wide (1.6\"), the drawn panel's proportions",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M908 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 12.02,
+   "y": 318.38,
+   "w": 15.07,
+   "h": 153.21
+  },
+  {
+   "shape": "rect",
+   "x": 10.87,
+   "y": 154.37,
+   "w": 15.07,
+   "h": 152.78
+  },
+  {
+   "shape": "circle",
+   "x": 27.09,
+   "y": 102.12,
+   "r": 5.47
+  },
+  {
+   "shape": "circle",
+   "x": 27.53,
+   "y": 176.91,
+   "r": 5.47
+  },
+  {
+   "shape": "circle",
+   "x": 28.03,
+   "y": 251.49,
+   "r": 5.47
+  },
+  {
+   "shape": "circle",
+   "x": 28.18,
+   "y": 281.35,
+   "r": 5.47
+  },
+  {
+   "shape": "circle",
+   "x": 27.45,
+   "y": 146.76,
+   "r": 5.43
+  },
+  {
+   "shape": "circle",
+   "x": 27.74,
+   "y": 191.7,
+   "r": 5.43
+  },
+  {
+   "shape": "circle",
+   "x": 27.74,
+   "y": 206.63,
+   "r": 5.43
+  },
+  {
+   "shape": "circle",
+   "x": 28.61,
+   "y": 340.85,
+   "r": 5.43
+  },
+  {
+   "shape": "circle",
+   "x": 27.02,
+   "y": 87.26,
+   "r": 5.4
+  },
+  {
+   "shape": "circle",
+   "x": 27.24,
+   "y": 117.05,
+   "r": 5.4
+  },
+  {
+   "shape": "circle",
+   "x": 27.89,
+   "y": 221.48,
+   "r": 5.4
+  },
+  {
+   "shape": "circle",
+   "x": 28.18,
+   "y": 266.27,
+   "r": 5.4
+  },
+  {
+   "shape": "circle",
+   "x": 27.31,
+   "y": 131.98,
+   "r": 5.36
+  },
+  {
+   "shape": "circle",
+   "x": 27.45,
+   "y": 161.84,
+   "r": 5.36
+  },
+  {
+   "shape": "circle",
+   "x": 28.32,
+   "y": 296.21,
+   "r": 5.36
+  },
+  {
+   "shape": "circle",
+   "x": 28.4,
+   "y": 311.06,
+   "r": 5.36
+  },
+  {
+   "shape": "circle",
+   "x": 28.47,
+   "y": 325.92,
+   "r": 5.36
+  },
+  {
+   "shape": "circle",
+   "x": 28.83,
+   "y": 370.64,
+   "r": 5.36
+  },
+  {
+   "shape": "circle",
+   "x": 28.76,
+   "y": 355.71,
+   "r": 5.33
+  },
+  {
+   "shape": "circle",
+   "x": 28.83,
+   "y": 385.64,
+   "r": 5.33
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1994 - M908 - DOC - 940376-04-001 - LES ARE FULLY WIRED BUT NOT SUPPLIED INITIALLY (traced).json",
+  "MECHANICAL/1994 - M908 - DOC - 940410-04-001 - FUTURE MODULES ARE FULLY WRED BUT NOT SUPPLIED (traced).json",
+  "MECHANICAL/1994 - M908 - DOC - 940444-04-001 - OTHERS ELECTRICALLY AND MECHANICALLY INTEGRATED INTO CONSOLE (traced).json",
+  "MECHANICAL/1994 - M908 - DOC - 940446-04-001 - OTHERS ELECTRICALLY AND MECHANICALLY INTEGRATED INTO CONSOLE (traced).json",
+  "MECHANICAL/1994 - M908 - DOC - 940447-04-002 - OTHERS ELECTRICALLY AND MECHANICALLY INTEGRATED INTO CONSOLE (traced).json",
+  "MECHANICAL/1994 - M908 - DOC - 940448-04-002 - ODULES ARE WIRED BUT NOT SUPPLIIED INITIALLY FUTURE (traced).json",
+  "MECHANICAL/1994 - M908 - DOC - 94054-04-001 - CHNOM KOP TCNALI SSUEI REVSION (traced).json",
+  "MECHANICAL/1995 - M908 - DOC - 950144-04-001 - NOFTGTURE MODULES ARE WIRED INTO THE FRAME BUT (traced).json",
+  "MECHANICAL/1995 - M908 - DOC - 95015-04-002 - CANADIAN CHINESE RADIO ENG RENAISSANCE MKII (traced).json",
+  "MECHANICAL/1995 - M908 - DOC - 950190-04-001 - NOIE FUTURE MODULES ARE WIRED BUT NOT SUPPLIED (traced).json",
+  "MECHANICAL/1995 - M908 - DOC - 950224-04-001 - HCADPHONE MUIE HOM STUDIO HUE TABTEKCOR HOHMOR (traced).json",
+  "MECHANICAL/1995 - M908 - DOC - 950224-04-001 - OPTIONAL IISSUE REVSION (traced).json",
+  "MECHANICAL/1995 - M908 - DOC - 950225-04-001 - HEADPKONE UME HUTE STUDIO TOTACOO VONITOR (traced).json",
+  "MECHANICAL/1995 - M908 - DOC - 950278-04-001 - HEADPHONE MUNE DON STUDIO HUTE TAKBUSICER KORNOR (traced).json",
+  "MECHANICAL/1995 - M908 - DOC - 950361-04-001 - HEADPHONE HUTE STUDIO HUTE TKBUAKOQ HONTOR (traced).json",
+  "MECHANICAL/1996 - M908 - DOC - 96002-04-004 - CFNY ENG MASTER CONTROL ROOM (traced).json",
+  "MECHANICAL/1996 - M908 - DOC - 960077-04-001 - MASTER CONTROL ROOM (traced).json",
+  "MECHANICAL/1996 - M908 - DOC - 960208-04-001 - HEADPHONE HOM STUDIO MUE TNROTIKO LONIIOK (traced).json",
+  "MECHANICAL/1996 - M908 - DOC - 960208-04-001 - LAADEODE MUTE STUDIO TAMOURKERO VOHNCA (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M908.stl"
+}

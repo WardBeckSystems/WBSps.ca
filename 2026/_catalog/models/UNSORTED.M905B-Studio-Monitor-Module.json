@@ -1,0 +1,119 @@
+{
+ "format": "wbs-model/1",
+ "module": "M905B",
+ "repo": "MODULES.UNSORTED.M905B-Studio-Monitor-Module",
+ "title": "Studio Monitor Module",
+ "category": "UNSORTED",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 38.0,
+  "h": 410.0,
+  "d": 168.0
+ },
+ "size_from": "TECHNICAL DATA: 1.5\" wide x 16.2\" high x 6.6\" deep. (38 mm x 410 mm x 168 mm)",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M905B - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 19.0,
+   "y": 173.91,
+   "w": 35.52,
+   "h": 63.48
+  },
+  {
+   "shape": "rect",
+   "x": 11.84,
+   "y": 304.42,
+   "w": 13.77,
+   "h": 150.0
+  },
+  {
+   "shape": "rect",
+   "x": 11.5,
+   "y": 46.81,
+   "w": 10.05,
+   "h": 10.43
+  },
+  {
+   "shape": "circle",
+   "x": 26.3,
+   "y": 268.26,
+   "r": 5.23
+  },
+  {
+   "shape": "circle",
+   "x": 26.71,
+   "y": 340.29,
+   "r": 5.16
+  },
+  {
+   "shape": "circle",
+   "x": 26.02,
+   "y": 253.99,
+   "r": 5.12
+  },
+  {
+   "shape": "circle",
+   "x": 26.16,
+   "y": 282.54,
+   "r": 5.12
+  },
+  {
+   "shape": "circle",
+   "x": 26.37,
+   "y": 325.94,
+   "r": 5.12
+  },
+  {
+   "shape": "circle",
+   "x": 26.78,
+   "y": 354.64,
+   "r": 5.12
+  },
+  {
+   "shape": "circle",
+   "x": 26.02,
+   "y": 239.71,
+   "r": 5.09
+  },
+  {
+   "shape": "circle",
+   "x": 26.43,
+   "y": 297.25,
+   "r": 5.09
+  },
+  {
+   "shape": "circle",
+   "x": 26.43,
+   "y": 311.59,
+   "r": 5.09
+  },
+  {
+   "shape": "circle",
+   "x": 26.85,
+   "y": 369.06,
+   "r": 5.05
+  },
+  {
+   "shape": "circle",
+   "x": 24.92,
+   "y": 46.67,
+   "r": 5.02
+  },
+  {
+   "shape": "circle",
+   "x": 8.74,
+   "y": 99.42,
+   "r": 4.2
+  }
+ ],
+ "knobs": [],
+ "drawings": [],
+ "notes": [],
+ "stl": "MECHANICAL/M905B.stl"
+}

@@ -1,0 +1,32 @@
+{
+ "format": "wbs-model/1",
+ "module": "M8205",
+ "repo": "MODULES.AMPLIFIERS.M8205-Audio-Distribution-Amplifier",
+ "title": "Audio Distribution Amplifier",
+ "category": "AMPLIFIERS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 178.0,
+  "d": 165.0
+ },
+ "size_from": "assumed: 1.6\" x 7\" x 6.5\", the common module",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M8205 - front panel.svg",
+  "kind": "none"
+ },
+ "body": "card",
+ "holes": [],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1986 - 8205-03-003 - HEATSINK USED ON 14-147 & 14-148 PCB (M8205 & M8206 DA) - DRN J - ISS 1 (traced).json",
+  "MECHANICAL/1987 - 8205-03-005 - INSULATING WAFER (USED ON PCB 14-147 & 14-148) - DRN GEB - ENG GEB MAY - ISS 1 (traced).json",
+  "MECHANICAL/1989 - 8205-03-004 - HANDLE P.C. BOARD PULLER USED ON D8212 FRAME - DRN J - ISS 2 (traced).json",
+  "MECHANICAL/1990 - M8205 - DOC - 900416-04-001 - SELECTOR PANELS LIMITATION ROWS WITH CHARACTERS PER PUSHBUTTON (traced).json"
+ ],
+ "notes": [
+  "no drawing of the front panel: the panel is blank"
+ ],
+ "stl": "MECHANICAL/M8205.stl"
+}

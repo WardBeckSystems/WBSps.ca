@@ -1,0 +1,55 @@
+{
+ "format": "wbs-model/1",
+ "module": "M522",
+ "repo": "MODULES.FILTERS.M522-Equalizer-Module",
+ "title": "Equalizer Module",
+ "category": "FILTERS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 178.0,
+  "d": 165.0
+ },
+ "size_from": "TECHNICAL DATA: 60\" wide 7.00\" high 50\" deep (41 mm 178 mm 165 mm)",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M522 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 11.62,
+   "y": 22.42,
+   "r": 4.52
+  },
+  {
+   "shape": "circle",
+   "x": 11.86,
+   "y": 84.05,
+   "r": 4.44
+  },
+  {
+   "shape": "circle",
+   "x": 20.11,
+   "y": 4.95,
+   "r": 1.09
+  },
+  {
+   "shape": "circle",
+   "x": 21.52,
+   "y": 173.36,
+   "r": 1.09
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/19xx - M522 - 522-04-001 - EQUALIZER MODULES MODULE LAYOUT (traced).json",
+  "MECHANICAL/19xx - M522 - 522-04-001 - NQTE NOT SUPPL IED (traced).json",
+  "MECHANICAL/19xx - M522 - DOC - 3642-04-003 - ADERS STEREO MASTER FADERS MONO INPUT FADERS (traced).json",
+  "MECHANICAL/19xx - M522 - DOC - 522-04-001 - FRONT PANEL LAYOU (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M522.stl"
+}

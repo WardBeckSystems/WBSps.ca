@@ -1,0 +1,108 @@
+{
+ "format": "wbs-model/1",
+ "module": "M451",
+ "repo": "MODULES.MONITORING.M451-Talkback-Module",
+ "title": "Talkback Module",
+ "category": "MONITORING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 56.57,
+  "h": 210.72,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M451 - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 10.82,
+   "y": 99.05,
+   "w": 13.24,
+   "h": 86.28
+  },
+  {
+   "shape": "circle",
+   "x": 33.48,
+   "y": 39.48,
+   "r": 5.33
+  },
+  {
+   "shape": "circle",
+   "x": 33.41,
+   "y": 63.23,
+   "r": 5.33
+  },
+  {
+   "shape": "circle",
+   "x": 32.86,
+   "y": 87.22,
+   "r": 5.3
+  },
+  {
+   "shape": "circle",
+   "x": 33.95,
+   "y": 174.9,
+   "r": 5.3
+  },
+  {
+   "shape": "circle",
+   "x": 33.02,
+   "y": 111.2,
+   "r": 5.18
+  },
+  {
+   "shape": "circle",
+   "x": 32.94,
+   "y": 135.26,
+   "r": 5.18
+  },
+  {
+   "shape": "circle",
+   "x": 22.74,
+   "y": 5.53,
+   "r": 2.3
+  },
+  {
+   "shape": "circle",
+   "x": 22.19,
+   "y": 205.35,
+   "r": 2.26
+  }
+ ],
+ "knobs": [
+  {
+   "x": 33.02,
+   "y": 111.2,
+   "r": 6.85
+  },
+  {
+   "x": 32.94,
+   "y": 135.26,
+   "r": 6.77
+  },
+  {
+   "x": 32.86,
+   "y": 87.22,
+   "r": 6.7
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/1976 - 451-03-006 - DESIGNATION STRIP M451 - DRN AF - ISS 1 (traced).json",
+  "MECHANICAL/1977 - 451-03-007 - TRANSFORMER MOUNTING BRACKET - DRN GEB - ISS 2 (traced).json",
+  "MECHANICAL/1977 - M451 - 451-04-001 (traced).json",
+  "MECHANICAL/1977 - M451 - 451-04-001 - WAAD-BECK BYBTEMB DRNRMUEIS ENG (traced).json",
+  "MECHANICAL/1977 - M451 - P13 - Front Panel (traced).json",
+  "MECHANICAL/1987 - 451-03-011 - BEYER TRANSFORMER MOUNTING BRACKET - DRN BD - ENG MRW - ISS 1 (traced).json",
+  "MECHANICAL/19xx - M451 - DOC - 451-03-011 - BEYER TRANSFORMER (traced).json",
+  "MECHANICAL/19xx - M451 - DOC - RAS MOUNTING BRACKET (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.21 wide to high, the size 0.27: placed by its height"
+ ],
+ "stl": "MECHANICAL/M451.stl"
+}

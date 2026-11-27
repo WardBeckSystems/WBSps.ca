@@ -1,0 +1,101 @@
+{
+ "format": "wbs-model/1",
+ "module": "M475A",
+ "repo": "MODULES.MONITORING.M475A-Stereo-Monitor-Module",
+ "title": "Stereo Monitor Module",
+ "category": "MONITORING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 178.0,
+  "d": 165.0
+ },
+ "size_from": "TECHNICAL DATA: 60\" (41 mm 7.00\" high 178 mm 165 Mm 50\" deep",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M475A - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 12.22,
+   "y": 115.73,
+   "w": 14.23,
+   "h": 97.03
+  },
+  {
+   "shape": "rect",
+   "x": 27.69,
+   "y": 97.88,
+   "w": 6.19,
+   "h": 15.91
+  },
+  {
+   "shape": "rect",
+   "x": 28.08,
+   "y": 150.81,
+   "w": 6.34,
+   "h": 15.45
+  },
+  {
+   "shape": "rect",
+   "x": 27.85,
+   "y": 115.58,
+   "w": 6.19,
+   "h": 15.76
+  },
+  {
+   "shape": "rect",
+   "x": 28.08,
+   "y": 133.35,
+   "w": 6.03,
+   "h": 16.07
+  },
+  {
+   "shape": "rect",
+   "x": 27.54,
+   "y": 80.42,
+   "w": 6.19,
+   "h": 15.61
+  },
+  {
+   "shape": "circle",
+   "x": 13.92,
+   "y": 41.56,
+   "r": 5.49
+  },
+  {
+   "shape": "circle",
+   "x": 13.69,
+   "y": 28.04,
+   "r": 5.33
+  },
+  {
+   "shape": "circle",
+   "x": 13.77,
+   "y": 60.72,
+   "r": 2.16
+  },
+  {
+   "shape": "circle",
+   "x": 19.96,
+   "y": 5.56,
+   "r": 1.55
+  },
+  {
+   "shape": "circle",
+   "x": 21.04,
+   "y": 173.6,
+   "r": 1.51
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1986 - M475A - 475-04-004 (traced).json",
+  "MECHANICAL/1986 - M475A - 475-04-004 - STEREO MONITOR MODULE MODULE LAYOUT (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M475A.stl"
+}

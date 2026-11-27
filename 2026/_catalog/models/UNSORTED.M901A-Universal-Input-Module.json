@@ -1,0 +1,134 @@
+{
+ "format": "wbs-model/1",
+ "module": "M901A",
+ "repo": "MODULES.UNSORTED.M901A-Universal-Input-Module",
+ "title": "Universal Input Module",
+ "category": "UNSORTED",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 60.45,
+  "h": 426.62,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M901A - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 26.75,
+   "y": 44.21,
+   "w": 30.59,
+   "h": 22.32
+  },
+  {
+   "shape": "rect",
+   "x": 26.75,
+   "y": 67.99,
+   "w": 18.12,
+   "h": 17.69
+  },
+  {
+   "shape": "circle",
+   "x": 20.3,
+   "y": 385.59,
+   "r": 5.36
+  },
+  {
+   "shape": "circle",
+   "x": 19.86,
+   "y": 90.67,
+   "r": 5.33
+  },
+  {
+   "shape": "circle",
+   "x": 34.58,
+   "y": 311.95,
+   "r": 5.18
+  },
+  {
+   "shape": "circle",
+   "x": 20.08,
+   "y": 311.95,
+   "r": 5.11
+  },
+  {
+   "shape": "circle",
+   "x": 20.08,
+   "y": 359.94,
+   "r": 5.11
+  },
+  {
+   "shape": "circle",
+   "x": 27.47,
+   "y": 418.14,
+   "r": 3.84
+  },
+  {
+   "shape": "rect",
+   "x": 36.02,
+   "y": 135.32,
+   "w": 10.87,
+   "h": 3.91
+  },
+  {
+   "shape": "circle",
+   "x": 26.89,
+   "y": 11.89,
+   "r": 3.66
+  },
+  {
+   "shape": "rect",
+   "x": 36.02,
+   "y": 114.81,
+   "w": 10.87,
+   "h": 3.48
+  },
+  {
+   "shape": "circle",
+   "x": 34.72,
+   "y": 365.3,
+   "r": 3.23
+  },
+  {
+   "shape": "circle",
+   "x": 34.58,
+   "y": 354.57,
+   "r": 3.15
+  },
+  {
+   "shape": "circle",
+   "x": 34.87,
+   "y": 380.09,
+   "r": 3.15
+  },
+  {
+   "shape": "circle",
+   "x": 34.94,
+   "y": 390.89,
+   "r": 3.15
+  },
+  {
+   "shape": "circle",
+   "x": 27.54,
+   "y": 402.63,
+   "r": 2.86
+  },
+  {
+   "shape": "circle",
+   "x": 27.11,
+   "y": 224.54,
+   "r": 2.75
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/19xx - 901-03-004 - UNIVERSAL INPUT MODULE - DRN DRG - ISS 3 (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M901A.stl"
+}

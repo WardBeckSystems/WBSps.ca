@@ -1,0 +1,146 @@
+{
+ "format": "wbs-model/1",
+ "module": "M463B",
+ "repo": "MODULES.SUMMING.M463B-Submaster-Module",
+ "title": "Submaster Module",
+ "category": "SUMMING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 45.34,
+  "h": 278.3,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M463B - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 22.81,
+   "y": 30.43,
+   "w": 8.32,
+   "h": 28.2
+  },
+  {
+   "shape": "rect",
+   "x": 8.32,
+   "y": 30.51,
+   "w": 8.01,
+   "h": 28.05
+  },
+  {
+   "shape": "circle",
+   "x": 7.94,
+   "y": 234.46,
+   "r": 3.78
+  },
+  {
+   "shape": "circle",
+   "x": 7.7,
+   "y": 213.65,
+   "r": 3.66
+  },
+  {
+   "shape": "circle",
+   "x": 7.86,
+   "y": 149.93,
+   "r": 3.62
+  },
+  {
+   "shape": "circle",
+   "x": 21.88,
+   "y": 257.11,
+   "r": 3.58
+  },
+  {
+   "shape": "circle",
+   "x": 7.78,
+   "y": 181.52,
+   "r": 3.51
+  },
+  {
+   "shape": "circle",
+   "x": 9.01,
+   "y": 82.13,
+   "r": 3.27
+  },
+  {
+   "shape": "circle",
+   "x": 8.78,
+   "y": 118.11,
+   "r": 3.27
+  },
+  {
+   "shape": "circle",
+   "x": 22.81,
+   "y": 64.49,
+   "r": 2.58
+  },
+  {
+   "shape": "circle",
+   "x": 21.65,
+   "y": 234.38,
+   "r": 2.43
+  },
+  {
+   "shape": "circle",
+   "x": 22.11,
+   "y": 223.82,
+   "r": 2.31
+  },
+  {
+   "shape": "circle",
+   "x": 8.32,
+   "y": 64.57,
+   "r": 2.08
+  },
+  {
+   "shape": "circle",
+   "x": 22.65,
+   "y": 109.18,
+   "r": 1.89
+  },
+  {
+   "shape": "circle",
+   "x": 7.63,
+   "y": 224.05,
+   "r": 1.89
+  },
+  {
+   "shape": "circle",
+   "x": 22.65,
+   "y": 91.53,
+   "r": 1.85
+  },
+  {
+   "shape": "circle",
+   "x": 22.73,
+   "y": 100.08,
+   "r": 1.85
+  },
+  {
+   "shape": "circle",
+   "x": 14.79,
+   "y": 274.44,
+   "r": 1.39
+  },
+  {
+   "shape": "circle",
+   "x": 15.87,
+   "y": 3.62,
+   "r": 1.35
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1972 - M463B - 463-04-022 (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.11 wide to high, the size 0.16: placed by its height"
+ ],
+ "stl": "MECHANICAL/M463B.stl"
+}

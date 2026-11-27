@@ -229,6 +229,8 @@ entries = [
      'Engineering/RTO-144/index.html', exists('Engineering', 'RTO-144', 'index.html')),
     ('Boards in KiCad', 'the original Tango-PCB board files converted to KiCad, with top and bottom renders',
      'Engineering/PCB/index.html', exists('Engineering', 'PCB', 'index.html')),
+    ('Module STL Viewer', 'a 3-D model of every module drawn in a mechanical drawing: turn it, change it, download the STL',
+     'stl.html', exists('stl.html')),
     ('Gerbers and Plots', 'the photoplots, drill tapes and pen plots sent out to be made, drawn live from the original files',
      'Engineering/CAM/index.html', exists('Engineering', 'CAM', 'index.html')),
     ('OrCAD Schematics', 'the OrCAD schematics, netlists and bills of materials, read live from the original files',

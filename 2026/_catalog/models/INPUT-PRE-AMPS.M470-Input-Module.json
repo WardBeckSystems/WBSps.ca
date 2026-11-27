@@ -1,0 +1,191 @@
+{
+ "format": "wbs-model/1",
+ "module": "M470",
+ "repo": "MODULES.INPUT-PRE-AMPS.M470-Input-Module",
+ "title": "Input Module",
+ "category": "INPUT-PRE-AMPS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 45.77,
+  "h": 285.2,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M470 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 7.95,
+   "y": 256.58,
+   "w": 6.33,
+   "h": 13.43
+  },
+  {
+   "shape": "rect",
+   "x": 7.95,
+   "y": 228.87,
+   "w": 6.33,
+   "h": 13.27
+  },
+  {
+   "shape": "rect",
+   "x": 23.54,
+   "y": 256.34,
+   "w": 6.33,
+   "h": 13.27
+  },
+  {
+   "shape": "rect",
+   "x": 23.3,
+   "y": 214.83,
+   "w": 6.17,
+   "h": 13.58
+  },
+  {
+   "shape": "rect",
+   "x": 8.03,
+   "y": 214.83,
+   "w": 6.17,
+   "h": 13.58
+  },
+  {
+   "shape": "circle",
+   "x": 22.46,
+   "y": 108.96,
+   "r": 3.9
+  },
+  {
+   "shape": "circle",
+   "x": 22.76,
+   "y": 153.56,
+   "r": 3.9
+  },
+  {
+   "shape": "circle",
+   "x": 22.22,
+   "y": 63.97,
+   "r": 3.82
+  },
+  {
+   "shape": "circle",
+   "x": 7.87,
+   "y": 21.92,
+   "r": 3.63
+  },
+  {
+   "shape": "rect",
+   "x": 23.3,
+   "y": 228.49,
+   "w": 3.7,
+   "h": 10.34
+  },
+  {
+   "shape": "circle",
+   "x": 7.79,
+   "y": 31.25,
+   "r": 3.4
+  },
+  {
+   "shape": "circle",
+   "x": 22.76,
+   "y": 186.05,
+   "r": 3.4
+  },
+  {
+   "shape": "circle",
+   "x": 21.53,
+   "y": 21.99,
+   "r": 3.32
+  },
+  {
+   "shape": "circle",
+   "x": 7.87,
+   "y": 63.58,
+   "r": 3.32
+  },
+  {
+   "shape": "circle",
+   "x": 8.49,
+   "y": 178.25,
+   "r": 3.32
+  },
+  {
+   "shape": "circle",
+   "x": 22.61,
+   "y": 193.92,
+   "r": 3.32
+  },
+  {
+   "shape": "circle",
+   "x": 8.41,
+   "y": 108.34,
+   "r": 3.28
+  },
+  {
+   "shape": "circle",
+   "x": 8.41,
+   "y": 193.99,
+   "r": 3.28
+  },
+  {
+   "shape": "circle",
+   "x": 8.41,
+   "y": 170.3,
+   "r": 1.85
+  },
+  {
+   "shape": "circle",
+   "x": 8.49,
+   "y": 115.59,
+   "r": 1.77
+  },
+  {
+   "shape": "circle",
+   "x": 22.38,
+   "y": 170.23,
+   "r": 1.77
+  },
+  {
+   "shape": "circle",
+   "x": 8.49,
+   "y": 153.64,
+   "r": 1.74
+  },
+  {
+   "shape": "circle",
+   "x": 15.43,
+   "y": 281.5,
+   "r": 1.54
+  },
+  {
+   "shape": "circle",
+   "x": 14.51,
+   "y": 3.86,
+   "r": 1.39
+  }
+ ],
+ "knobs": [
+  {
+   "x": 21.53,
+   "y": 21.99,
+   "r": 7.1
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/1977 - 470-03-100 - INPUT MODULE EXTRUSION - DRN GEB - ISS 6 (traced).json",
+  "MECHANICAL/1977 - 470-03-101 - B&C INPUT MODULE ESCUTCHEON - DRN GEB - ISS 6 (traced).json",
+  "MECHANICAL/1977 - M470 - 470-04-003 - TNE FADER AND CHANNEL (traced).json",
+  "MECHANICAL/19xx - M470 - DOC - 410-03-005 - ALUM ALLOY FIKISE VEDATAE IOO (traced).json",
+  "MECHANICAL/19xx - M470 - DOC - 476-03-082 - TETOTA VIUYL SIDE (traced).json",
+  "MECHANICAL/19xx - M470 - DOC - STEREO L SERIES - P009 - B77012-04-011 L (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.11 wide to high, the size 0.16: placed by its height"
+ ],
+ "stl": "MECHANICAL/M470.stl"
+}

@@ -13,7 +13,7 @@ tags: ["module", "meter", "1970s"]
 |---|---|
 | Type | module |
 | Category | [METER](Category-METER.md) |
-| Try it | [KiCad symbol generator](../kicad.html?m=M405PSS) · [download package (zip)](../_packages/M405PSS.zip) |
+| Try it | [KiCad symbol generator](../kicad.html?m=M405PSS) · [3-D model (STL)](../stl.html?m=M405PSS) · [download package (zip)](../_packages/M405PSS.zip) |
 | Earliest dated evidence | [1975\|8](Year-1975.md) — estimate from a dated variant |
 | Evidence | from M405 |
 | Confidence | family |

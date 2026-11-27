@@ -1,0 +1,46 @@
+{
+ "format": "wbs-model/1",
+ "module": "M477",
+ "repo": "MODULES.SUMMING.M477-Master-Module",
+ "title": "Master Module",
+ "category": "SUMMING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 178.0,
+  "d": 165.0
+ },
+ "size_from": "TECHNICAL DATA: 1.6\" wide X 7\" high X 6,5\" deep (41 mm X 178 MM X 165 mm)",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M477 - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 11.41,
+   "y": 27.49,
+   "r": 4.33
+  },
+  {
+   "shape": "circle",
+   "x": 21.08,
+   "y": 4.82,
+   "r": 1.96
+  },
+  {
+   "shape": "circle",
+   "x": 19.92,
+   "y": 173.34,
+   "r": 1.96
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1979 - M477 - P18 - Front Panel (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M477.stl"
+}

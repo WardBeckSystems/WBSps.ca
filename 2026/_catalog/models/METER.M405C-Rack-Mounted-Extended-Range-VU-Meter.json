@@ -1,0 +1,35 @@
+{
+ "format": "wbs-model/1",
+ "module": "M405C",
+ "repo": "MODULES.METER.M405C-Rack-Mounted-Extended-Range-VU-Meter",
+ "title": "Rack Mounted Extended Range VU Meter",
+ "category": "METER",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 482.6,
+  "h": 88.9,
+  "d": 247.65
+ },
+ "size_from": "TECHNICAL DATA: 19\" W x 3.5\" H x 9.75\" D.",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M405C - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "chassis",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 357.72,
+   "y": 75.24,
+   "r": 1.48
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1975 - M405C - 405-04-006 - CCAIP MENT LAYOUT (traced).json",
+  "MECHANICAL/1975 - M405C - 405-04-006 - EXT PANGE (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M405C.stl"
+}

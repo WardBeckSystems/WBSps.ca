@@ -1,0 +1,90 @@
+{
+ "format": "wbs-model/1",
+ "module": "M481B",
+ "repo": "MODULES.AMPLIFIERS.M481B-Cue-Oscillator-Re-entry-Module",
+ "title": "Cue Oscillator Re entry Module",
+ "category": "AMPLIFIERS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 62.2,
+  "h": 341.03,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M481B - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 38.91,
+   "y": 163.53,
+   "r": 6.12
+  },
+  {
+   "shape": "circle",
+   "x": 38.31,
+   "y": 243.45,
+   "r": 6.12
+  },
+  {
+   "shape": "circle",
+   "x": 39.96,
+   "y": 51.08,
+   "r": 6.01
+  },
+  {
+   "shape": "circle",
+   "x": 39.81,
+   "y": 98.85,
+   "r": 6.01
+  },
+  {
+   "shape": "circle",
+   "x": 14.8,
+   "y": 131.23,
+   "r": 5.11
+  },
+  {
+   "shape": "circle",
+   "x": 14.27,
+   "y": 218.29,
+   "r": 5.03
+  },
+  {
+   "shape": "circle",
+   "x": 15.32,
+   "y": 50.93,
+   "r": 4.06
+  },
+  {
+   "shape": "circle",
+   "x": 15.47,
+   "y": 194.4,
+   "r": 3.46
+  },
+  {
+   "shape": "circle",
+   "x": 24.86,
+   "y": 334.57,
+   "r": 2.37
+  },
+  {
+   "shape": "circle",
+   "x": 27.49,
+   "y": 6.31,
+   "r": 2.18
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1982 - M481B - 481-04-002 - AUX MASTER REF OSC (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.15 wide to high, the size 0.18: placed by its height"
+ ],
+ "stl": "MECHANICAL/M481B.stl"
+}

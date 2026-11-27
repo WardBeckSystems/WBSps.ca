@@ -1,0 +1,53 @@
+{
+ "format": "wbs-model/1",
+ "module": "M497C",
+ "repo": "MODULES.SUMMING.M497C-Dual-Master-Module",
+ "title": "Dual Master Module",
+ "category": "SUMMING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 54.19,
+  "h": 211.58,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M497C - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 27.68,
+   "y": 39.15,
+   "w": 38.25,
+   "h": 9.86
+  },
+  {
+   "shape": "circle",
+   "x": 25.28,
+   "y": 196.14,
+   "r": 3.26
+  },
+  {
+   "shape": "circle",
+   "x": 28.11,
+   "y": 7.9,
+   "r": 3.23
+  },
+  {
+   "shape": "circle",
+   "x": 36.15,
+   "y": 66.64,
+   "r": 2.68
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1978 - M497C - 497-04-006 - DUAL MASTER MODULE FRONT PANEL (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M497C.stl"
+}

@@ -1,0 +1,66 @@
+{
+ "format": "wbs-model/1",
+ "module": "M922",
+ "repo": "MODULES.FILTERS.M922-Equalizer-Module",
+ "title": "Equalizer Module",
+ "category": "FILTERS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 38.0,
+  "h": 203.0,
+  "d": 168.0
+ },
+ "size_from": "TECHNICAL DATA: 1.5\" wide x 8\" high x 6.6\" deep. (38mm x 203mm x 168mm).",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M922 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 11.65,
+   "y": 40.79,
+   "r": 5.02
+  },
+  {
+   "shape": "circle",
+   "x": 12.89,
+   "y": 162.21,
+   "r": 4.9
+  },
+  {
+   "shape": "circle",
+   "x": 18.17,
+   "y": 4.92,
+   "r": 3.68
+  },
+  {
+   "shape": "circle",
+   "x": 20.24,
+   "y": 198.25,
+   "r": 3.64
+  },
+  {
+   "shape": "circle",
+   "x": 20.07,
+   "y": 182.82,
+   "r": 2.72
+  },
+  {
+   "shape": "circle",
+   "x": 18.34,
+   "y": 20.18,
+   "r": 2.68
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/19xx - 922-03-001 - M922A STEREO EQUALIZER MODULE - DRN DRG - ISS 3 (traced).json",
+  "MECHANICAL/19xx - M922 - DOC - 922-03-001 - SEE DETAIL NOTE ORIENTATIONS REQ'D FAR SIDE (traced).json",
+  "MECHANICAL/19xx - M922 - DOC - 922-03-001 - STEREO EQUALIZER MODULE (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M922.stl"
+}

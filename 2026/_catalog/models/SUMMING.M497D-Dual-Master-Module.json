@@ -1,0 +1,54 @@
+{
+ "format": "wbs-model/1",
+ "module": "M497D",
+ "repo": "MODULES.SUMMING.M497D-Dual-Master-Module",
+ "title": "Dual Master Module",
+ "category": "SUMMING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 178.0,
+  "d": 165.0
+ },
+ "size_from": "TECHNICAL DATA: 16\" wide x 7.0\" high 6.5\" dcep (41 mm 178 mm x 165 mm)",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M497D - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 20.63,
+   "y": 29.86,
+   "w": 28.77,
+   "h": 8.12
+  },
+  {
+   "shape": "rect",
+   "x": 20.83,
+   "y": 99.8,
+   "w": 26.55,
+   "h": 5.65
+  },
+  {
+   "shape": "circle",
+   "x": 20.57,
+   "y": 3.77,
+   "r": 2.61
+  },
+  {
+   "shape": "circle",
+   "x": 21.09,
+   "y": 162.06,
+   "r": 2.61
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1978 - M497D - 497-04-007 - SPACE FOR CHANNEL IDENTIFICATION DESIGNATION (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M497D.stl"
+}

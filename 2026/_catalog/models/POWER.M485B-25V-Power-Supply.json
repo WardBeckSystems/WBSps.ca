@@ -1,0 +1,29 @@
+{
+ "format": "wbs-model/1",
+ "module": "M485B",
+ "repo": "MODULES.POWER.M485B-25V-Power-Supply",
+ "title": "25V Power Supply",
+ "category": "POWER",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 340.0,
+  "h": 156.0,
+  "d": 100.0
+ },
+ "size_from": "TECHNICAL DATA: 13.5\" wide 6.2\" high 4.0\" deep (340 mm 156 MM 100 mm)",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M485B - front panel.svg",
+  "kind": "none"
+ },
+ "body": "chassis",
+ "holes": [],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/19xx - M485B - DOC - 1202-04-007 - OSCILLATOR CUE-SOLO RE-ENTRY AND AUX LEVEL SCHEMATIC (traced).json"
+ ],
+ "notes": [
+  "no drawing of the front panel: the panel is blank"
+ ],
+ "stl": "MECHANICAL/M485B.stl"
+}

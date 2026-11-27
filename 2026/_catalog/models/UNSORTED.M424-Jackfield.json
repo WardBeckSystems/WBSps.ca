@@ -1,0 +1,50 @@
+{
+ "format": "wbs-model/1",
+ "module": "M424",
+ "repo": "MODULES.UNSORTED.M424-Jackfield",
+ "title": "Jackfield",
+ "category": "UNSORTED",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 71.68,
+  "h": 174.23,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M424 - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 56.76,
+   "y": 132.56,
+   "w": 19.4,
+   "h": 37.54
+  },
+  {
+   "shape": "rect",
+   "x": 20.71,
+   "y": 146.91,
+   "w": 9.85,
+   "h": 6.23
+  },
+  {
+   "shape": "rect",
+   "x": 8.33,
+   "y": 153.94,
+   "w": 7.39,
+   "h": 6.96
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1969 - 424-03-002 - SWITCH MTG. PLATE - ISS 5 (traced).json",
+  "MECHANICAL/1971 - 424-03-001 - ESCUTCHEON DRILLING DETAIL - DRN WWH - ISS 7 (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M424.stl"
+}

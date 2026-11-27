@@ -1,0 +1,223 @@
+{
+ "format": "wbs-model/1",
+ "module": "M460M",
+ "repo": "MODULES.INPUT-PRE-AMPS.M460M-Input-Module",
+ "title": "Input Module",
+ "category": "INPUT-PRE-AMPS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 69.55,
+  "h": 424.16,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M460M - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 34.21,
+   "y": 195.48,
+   "r": 5.17
+  },
+  {
+   "shape": "circle",
+   "x": 34.21,
+   "y": 99.01,
+   "r": 5.14
+  },
+  {
+   "shape": "circle",
+   "x": 34.14,
+   "y": 66.57,
+   "r": 5.02
+  },
+  {
+   "shape": "circle",
+   "x": 12.51,
+   "y": 32.21,
+   "r": 4.98
+  },
+  {
+   "shape": "circle",
+   "x": 34.37,
+   "y": 147.9,
+   "r": 4.79
+  },
+  {
+   "shape": "circle",
+   "x": 34.06,
+   "y": 31.9,
+   "r": 4.75
+  },
+  {
+   "shape": "circle",
+   "x": 12.51,
+   "y": 52.75,
+   "r": 4.52
+  },
+  {
+   "shape": "circle",
+   "x": 12.36,
+   "y": 98.63,
+   "r": 4.52
+  },
+  {
+   "shape": "circle",
+   "x": 12.28,
+   "y": 195.4,
+   "r": 4.52
+  },
+  {
+   "shape": "circle",
+   "x": 33.67,
+   "y": 243.44,
+   "r": 4.48
+  },
+  {
+   "shape": "circle",
+   "x": 33.75,
+   "y": 284.53,
+   "r": 4.44
+  },
+  {
+   "shape": "circle",
+   "x": 33.75,
+   "y": 298.2,
+   "r": 4.4
+  },
+  {
+   "shape": "circle",
+   "x": 12.36,
+   "y": 83.41,
+   "r": 3.48
+  },
+  {
+   "shape": "circle",
+   "x": 12.9,
+   "y": 66.88,
+   "r": 3.36
+  },
+  {
+   "shape": "circle",
+   "x": 11.51,
+   "y": 171.69,
+   "r": 2.93
+  },
+  {
+   "shape": "circle",
+   "x": 11.04,
+   "y": 220.04,
+   "r": 2.86
+  },
+  {
+   "shape": "circle",
+   "x": 34.45,
+   "y": 268.31,
+   "r": 2.86
+  },
+  {
+   "shape": "circle",
+   "x": 34.52,
+   "y": 372.49,
+   "r": 2.86
+  },
+  {
+   "shape": "circle",
+   "x": 11.28,
+   "y": 122.8,
+   "r": 2.78
+  },
+  {
+   "shape": "circle",
+   "x": 34.45,
+   "y": 325.85,
+   "r": 2.74
+  },
+  {
+   "shape": "circle",
+   "x": 12.28,
+   "y": 284.29,
+   "r": 2.63
+  },
+  {
+   "shape": "circle",
+   "x": 12.36,
+   "y": 298.12,
+   "r": 2.63
+  },
+  {
+   "shape": "circle",
+   "x": 12.28,
+   "y": 256.88,
+   "r": 2.59
+  },
+  {
+   "shape": "circle",
+   "x": 12.13,
+   "y": 311.56,
+   "r": 2.59
+  },
+  {
+   "shape": "circle",
+   "x": 12.28,
+   "y": 325.69,
+   "r": 2.55
+  },
+  {
+   "shape": "circle",
+   "x": 12.36,
+   "y": 338.74,
+   "r": 2.55
+  },
+  {
+   "shape": "circle",
+   "x": 12.74,
+   "y": 383.0,
+   "r": 2.55
+  },
+  {
+   "shape": "circle",
+   "x": 12.59,
+   "y": 372.8,
+   "r": 2.47
+  },
+  {
+   "shape": "circle",
+   "x": 12.13,
+   "y": 270.93,
+   "r": 2.43
+  },
+  {
+   "shape": "circle",
+   "x": 23.32,
+   "y": 418.14,
+   "r": 2.24
+  },
+  {
+   "shape": "circle",
+   "x": 22.78,
+   "y": 5.72,
+   "r": 2.2
+  }
+ ],
+ "knobs": [
+  {
+   "x": 34.06,
+   "y": 31.9,
+   "r": 9.42
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/1974 - M460M - 460-04-028 - INPUT MODULE FRONT PANEL (2) (traced).json",
+  "MECHANICAL/1974 - M460M - 460-04-028 - INPUT MODULE FRONT PANEL (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.11 wide to high, the size 0.16: placed by its height"
+ ],
+ "stl": "MECHANICAL/M460M.stl"
+}

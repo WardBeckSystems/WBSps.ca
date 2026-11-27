@@ -1,0 +1,95 @@
+{
+ "format": "wbs-model/1",
+ "module": "M490C",
+ "repo": "MODULES.INPUT-PRE-AMPS.M490C-Line-Input-Module",
+ "title": "Line Input Module",
+ "category": "INPUT-PRE-AMPS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 43.18,
+  "h": 266.85,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M490C - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 14.28,
+   "y": 22.3,
+   "w": 19.6,
+   "h": 14.97
+  },
+  {
+   "shape": "rect",
+   "x": 9.18,
+   "y": 238.99,
+   "w": 7.56,
+   "h": 26.7
+  },
+  {
+   "shape": "rect",
+   "x": 19.76,
+   "y": 214.38,
+   "w": 7.72,
+   "h": 13.89
+  },
+  {
+   "shape": "rect",
+   "x": 20.99,
+   "y": 38.89,
+   "w": 10.19,
+   "h": 10.19
+  },
+  {
+   "shape": "rect",
+   "x": 9.11,
+   "y": 214.38,
+   "w": 7.41,
+   "h": 13.89
+  },
+  {
+   "shape": "circle",
+   "x": 7.64,
+   "y": 38.82,
+   "r": 3.24
+  },
+  {
+   "shape": "circle",
+   "x": 20.53,
+   "y": 232.59,
+   "r": 2.16
+  },
+  {
+   "shape": "circle",
+   "x": 7.72,
+   "y": 48.39,
+   "r": 1.58
+  },
+  {
+   "shape": "circle",
+   "x": 14.43,
+   "y": 3.16,
+   "r": 1.47
+  },
+  {
+   "shape": "circle",
+   "x": 14.59,
+   "y": 263.38,
+   "r": 1.31
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1978 - M490C - Front Panel (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.11 wide to high, the size 0.16: placed by its height"
+ ],
+ "stl": "MECHANICAL/M490C.stl"
+}

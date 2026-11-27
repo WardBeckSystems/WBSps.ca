@@ -1,0 +1,31 @@
+{
+ "format": "wbs-model/1",
+ "module": "M485",
+ "repo": "MODULES.UNSORTED.M485-25V-Power-Supply",
+ "title": "25V Power Supply",
+ "category": "UNSORTED",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 178.0,
+  "d": 165.0
+ },
+ "size_from": "assumed: 1.6\" x 7\" x 6.5\", the common module",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M485 - front panel.svg",
+  "kind": "none"
+ },
+ "body": "card",
+ "holes": [],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1979 - 485-03-004 - TRANSFORMER MTG. PLATE - DRN P. Mahoney - ISS 2 (traced).json",
+  "MECHANICAL/1979 - 485-03-006 - EDGE CONNECTOR MTG. BRKT - DRN P. Mahoney - ISS 1 (traced).json",
+  "MECHANICAL/1980 - 485-03-005 - CAPACITOR MTG. PLATE - DRN P. Mahoney - ISS 2 (traced).json"
+ ],
+ "notes": [
+  "no drawing of the front panel: the panel is blank"
+ ],
+ "stl": "MECHANICAL/M485.stl"
+}

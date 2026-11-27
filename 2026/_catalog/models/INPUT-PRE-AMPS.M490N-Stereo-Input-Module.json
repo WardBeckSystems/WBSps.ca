@@ -1,0 +1,118 @@
+{
+ "format": "wbs-model/1",
+ "module": "M490N",
+ "repo": "MODULES.INPUT-PRE-AMPS.M490N-Stereo-Input-Module",
+ "title": "Stereo Input Module",
+ "category": "INPUT-PRE-AMPS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 360.0,
+  "d": 165.0
+ },
+ "size_from": "TECHNICAL DATA: 60\" wide 14.15\" high 6.50\" deep (41 Mm 360 Mm 165 mm /",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M490N - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 20.58,
+   "y": 31.04,
+   "w": 27.39,
+   "h": 20.18
+  },
+  {
+   "shape": "rect",
+   "x": 12.87,
+   "y": 322.49,
+   "w": 10.99,
+   "h": 35.58
+  },
+  {
+   "shape": "rect",
+   "x": 30.18,
+   "y": 52.99,
+   "w": 16.4,
+   "h": 15.71
+  },
+  {
+   "shape": "rect",
+   "x": 12.05,
+   "y": 289.37,
+   "w": 10.99,
+   "h": 18.64
+  },
+  {
+   "shape": "rect",
+   "x": 27.63,
+   "y": 289.45,
+   "w": 10.99,
+   "h": 18.49
+  },
+  {
+   "shape": "circle",
+   "x": 30.09,
+   "y": 231.14,
+   "r": 4.69
+  },
+  {
+   "shape": "circle",
+   "x": 26.49,
+   "y": 257.1,
+   "r": 4.33
+  },
+  {
+   "shape": "circle",
+   "x": 11.23,
+   "y": 53.84,
+   "r": 3.9
+  },
+  {
+   "shape": "circle",
+   "x": 29.36,
+   "y": 313.71,
+   "r": 2.98
+  },
+  {
+   "shape": "circle",
+   "x": 10.82,
+   "y": 256.33,
+   "r": 2.86
+  },
+  {
+   "shape": "circle",
+   "x": 11.07,
+   "y": 231.22,
+   "r": 2.35
+  },
+  {
+   "shape": "circle",
+   "x": 29.27,
+   "y": 331.66,
+   "r": 1.95
+  },
+  {
+   "shape": "circle",
+   "x": 20.99,
+   "y": 5.08,
+   "r": 1.91
+  },
+  {
+   "shape": "circle",
+   "x": 20.34,
+   "y": 355.07,
+   "r": 1.91
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1985 - M490N - 490-04-028 (traced).json",
+  "MECHANICAL/1985 - M490N - 490-04-028 - STEREO INPUT MODULE MODULE LAYOUT (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M490N.stl"
+}

@@ -1,0 +1,73 @@
+{
+ "format": "wbs-model/1",
+ "module": "M562C",
+ "repo": "MODULES.FILTERS.M562C-Stereo-Equalizer-Module",
+ "title": "Stereo Equalizer Module",
+ "category": "FILTERS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 56.57,
+  "h": 209.42,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M562C - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 13.96,
+   "y": 26.6,
+   "r": 5.24
+  },
+  {
+   "shape": "circle",
+   "x": 13.65,
+   "y": 99.36,
+   "r": 5.24
+  },
+  {
+   "shape": "circle",
+   "x": 13.5,
+   "y": 43.13,
+   "r": 4.96
+  },
+  {
+   "shape": "circle",
+   "x": 14.27,
+   "y": 154.74,
+   "r": 4.93
+  },
+  {
+   "shape": "circle",
+   "x": 34.36,
+   "y": 27.07,
+   "r": 2.48
+  },
+  {
+   "shape": "circle",
+   "x": 24.12,
+   "y": 204.07,
+   "r": 1.78
+  },
+  {
+   "shape": "circle",
+   "x": 23.58,
+   "y": 6.13,
+   "r": 1.67
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1985 - M562C - 462-04-008 (traced).json",
+  "MECHANICAL/1985 - M562C - 462-04-008 - STEREO EQUALIZER MODULE MODULE LAYOUT (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.23 wide to high, the size 0.27: placed by its height"
+ ],
+ "stl": "MECHANICAL/M562C.stl"
+}

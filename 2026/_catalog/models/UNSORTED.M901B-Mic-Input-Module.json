@@ -1,0 +1,169 @@
+{
+ "format": "wbs-model/1",
+ "module": "M901B",
+ "repo": "MODULES.UNSORTED.M901B-Mic-Input-Module",
+ "title": "Mic Input Module",
+ "category": "UNSORTED",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 38.0,
+  "h": 410.0,
+  "d": 168.0
+ },
+ "size_from": "TECHNICAL DATA: 1.5\" wide x 16.2\" high x 6.6\" deep. (38 mm x 410 mm x 168 mm).",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M901B - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 18.92,
+   "y": 36.93,
+   "w": 30.01,
+   "h": 21.88
+  },
+  {
+   "shape": "circle",
+   "x": 11.69,
+   "y": 300.81,
+   "r": 5.3
+  },
+  {
+   "shape": "circle",
+   "x": 25.86,
+   "y": 226.35,
+   "r": 5.22
+  },
+  {
+   "shape": "circle",
+   "x": 11.69,
+   "y": 226.35,
+   "r": 5.22
+  },
+  {
+   "shape": "circle",
+   "x": 25.86,
+   "y": 264.34,
+   "r": 5.22
+  },
+  {
+   "shape": "circle",
+   "x": 11.69,
+   "y": 264.34,
+   "r": 5.22
+  },
+  {
+   "shape": "circle",
+   "x": 25.86,
+   "y": 300.97,
+   "r": 5.22
+  },
+  {
+   "shape": "circle",
+   "x": 11.69,
+   "y": 347.77,
+   "r": 5.22
+  },
+  {
+   "shape": "circle",
+   "x": 11.69,
+   "y": 373.07,
+   "r": 5.18
+  },
+  {
+   "shape": "circle",
+   "x": 12.06,
+   "y": 82.67,
+   "r": 5.15
+  },
+  {
+   "shape": "circle",
+   "x": 25.86,
+   "y": 313.05,
+   "r": 5.11
+  },
+  {
+   "shape": "circle",
+   "x": 11.69,
+   "y": 313.05,
+   "r": 5.11
+  },
+  {
+   "shape": "circle",
+   "x": 18.92,
+   "y": 60.56,
+   "r": 4.75
+  },
+  {
+   "shape": "circle",
+   "x": 18.62,
+   "y": 405.21,
+   "r": 3.63
+  },
+  {
+   "shape": "circle",
+   "x": 19.15,
+   "y": 4.94,
+   "r": 3.6
+  },
+  {
+   "shape": "rect",
+   "x": 27.75,
+   "y": 106.45,
+   "w": 10.56,
+   "h": 3.8
+  },
+  {
+   "shape": "rect",
+   "x": 27.75,
+   "y": 126.66,
+   "w": 10.56,
+   "h": 3.8
+  },
+  {
+   "shape": "circle",
+   "x": 25.86,
+   "y": 353.24,
+   "r": 3.1
+  },
+  {
+   "shape": "circle",
+   "x": 25.86,
+   "y": 378.47,
+   "r": 3.1
+  },
+  {
+   "shape": "circle",
+   "x": 27.82,
+   "y": 214.27,
+   "r": 2.99
+  },
+  {
+   "shape": "circle",
+   "x": 18.85,
+   "y": 214.5,
+   "r": 2.76
+  },
+  {
+   "shape": "circle",
+   "x": 18.7,
+   "y": 389.94,
+   "r": 2.72
+  }
+ ],
+ "knobs": [
+  {
+   "x": 18.92,
+   "y": 60.56,
+   "r": 12.11
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/19xx - 901-03-005 - M901E MIC INPUT MODULE - ISS 4 or 5 (handwritten, unclear) (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M901B.stl"
+}

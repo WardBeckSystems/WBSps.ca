@@ -1,0 +1,45 @@
+{
+ "format": "wbs-model/1",
+ "module": "M441",
+ "repo": "MODULES.INPUT-PRE-AMPS.M441-Input-Module",
+ "title": "Input Module",
+ "category": "INPUT-PRE-AMPS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 71.89,
+  "h": 173.58,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M441 - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 26.6,
+   "y": 150.82,
+   "w": 19.86,
+   "h": 13.63
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1971 - 441-03-002 - SWITCH MTG PLATE - DRN GP - ISS 4 (traced).json",
+  "MECHANICAL/1971 - 441-03-005 - COVER MTG PLATE M441S - DRN WWH - ISS 4 (traced).json",
+  "MECHANICAL/1971 - 441-03-006 - ESCUTCHEON DRILLING DETAIL - DRN WWH - ISS 3 (traced).json",
+  "MECHANICAL/1971 - 441-03-007 - COVER MTG PLATE M441E - DRN WWH - ISS 3 (traced).json",
+  "MECHANICAL/1971 - 441-03-008 - ESCUTCHEON (INPUT MODULE) - DRN DJG - ISS 1 (traced).json",
+  "MECHANICAL/1971 - 441-03-009 - SWITCH PLATE (INPUT MODULE) - DRN DJG - ISS 1 (traced).json",
+  "MECHANICAL/1971 - 441-04-007 - M441F INPUT MODULE LAYOUT - DRN GP - ISS 1 (traced).json",
+  "MECHANICAL/1973 - 441-04-013 - M441M CHANNEL AMPLIFIER MODULE LAYOUT - DRN BWJ - ISS 1 (traced).json",
+  "MECHANICAL/1974 - 441-03-014 - ESCUTCHEON - M441H - DRN DPS - ISS 2 (traced).json",
+  "MECHANICAL/1974 - 441-03-015 - ESCUTCHEON MTG PLATE (M441 H) - DRN DPS - ISS 1 (traced).json",
+  "MECHANICAL/19xx - M441 - DOC - 441-03-014 - RAD TYP (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M441.stl"
+}

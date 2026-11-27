@@ -1,0 +1,30 @@
+{
+ "format": "wbs-model/1",
+ "module": "M777",
+ "repo": "MODULES.COMMUNICATION.M777-Status-Monitor-Module",
+ "title": "Status Monitor Module",
+ "category": "COMMUNICATION",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 178.0,
+  "d": 165.0
+ },
+ "size_from": "assumed: 1.6\" x 7\" x 6.5\", the common module",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M777 - front panel.svg",
+  "kind": "none"
+ },
+ "body": "card",
+ "holes": [],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/19xx - M777 - DOC - 777-03-005 - EINISH PAINT GREX TEXCOTE VINYL (traced).json",
+  "MECHANICAL/19xx - M777 - DOC - 777-03-009 - REMOVE BURRS SHARP EDGES (traced).json"
+ ],
+ "notes": [
+  "no drawing of the front panel: the panel is blank"
+ ],
+ "stl": "MECHANICAL/M777.stl"
+}

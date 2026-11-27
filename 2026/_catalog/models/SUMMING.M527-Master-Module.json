@@ -1,0 +1,44 @@
+{
+ "format": "wbs-model/1",
+ "module": "M527",
+ "repo": "MODULES.SUMMING.M527-Master-Module",
+ "title": "Master Module",
+ "category": "SUMMING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 66.71,
+  "h": 412.58,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M527 - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 22.06,
+   "y": 407.05,
+   "r": 3.34
+  },
+  {
+   "shape": "circle",
+   "x": 22.37,
+   "y": 5.53,
+   "r": 3.11
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/19xx - M527 - DOC - 3642-04-003 - ADERS STEREO MASTER FADERS MONO INPUT FADERS (traced).json",
+  "MECHANICAL/19xx - M527 - DOC - 3642-04-003 - SUB MSTER HASTEA FADEAS ERSTER FADERS FADERS JISSU (traced).json",
+  "MECHANICAL/19xx - M527 - DOC - 527-04-001 - FRONT PANEL LAYOUT (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.11 wide to high, the size 0.16: placed by its height"
+ ],
+ "stl": "MECHANICAL/M527.stl"
+}

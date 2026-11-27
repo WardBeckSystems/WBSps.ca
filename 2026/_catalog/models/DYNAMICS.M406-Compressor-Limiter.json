@@ -1,0 +1,54 @@
+{
+ "format": "wbs-model/1",
+ "module": "M406",
+ "repo": "MODULES.DYNAMICS.M406-Compressor-Limiter",
+ "title": "Compressor Limiter",
+ "category": "DYNAMICS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 52.46,
+  "h": 184.59,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M406 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 36.59,
+   "y": 31.76,
+   "r": 6.34
+  },
+  {
+   "shape": "circle",
+   "x": 26.23,
+   "y": 110.86,
+   "r": 3.95
+  },
+  {
+   "shape": "circle",
+   "x": 26.16,
+   "y": 11.38,
+   "r": 3.7
+  },
+  {
+   "shape": "circle",
+   "x": 26.52,
+   "y": 174.44,
+   "r": 3.04
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1968 - M406 - 406-04-010 - PLACES GIVEN ANGLES (traced).json",
+  "MECHANICAL/1972 - 406-04-010 - M406B(C) COMPRESSOR MODULE LAYOUT - DRN MRW - ISS 2 (traced).json",
+  "MECHANICAL/1972 - M406 - B 406-04-010 - M406B(C) COMPRESSOR - MODULE LAYOUT (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M406.stl"
+}

@@ -1,0 +1,95 @@
+{
+ "format": "wbs-model/1",
+ "module": "M461M",
+ "repo": "MODULES.INPUT-PRE-AMPS.M461M-Input-Module",
+ "title": "Input Module",
+ "category": "INPUT-PRE-AMPS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 42.96,
+  "h": 158.9,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M461M - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 28.96,
+   "y": 28.13,
+   "r": 4.75
+  },
+  {
+   "shape": "circle",
+   "x": 14.37,
+   "y": 28.13,
+   "r": 3.92
+  },
+  {
+   "shape": "circle",
+   "x": 14.44,
+   "y": 44.22,
+   "r": 3.88
+  },
+  {
+   "shape": "circle",
+   "x": 14.3,
+   "y": 117.44,
+   "r": 3.52
+  },
+  {
+   "shape": "circle",
+   "x": 14.08,
+   "y": 85.83,
+   "r": 3.41
+  },
+  {
+   "shape": "circle",
+   "x": 14.3,
+   "y": 73.07,
+   "r": 3.37
+  },
+  {
+   "shape": "circle",
+   "x": 14.37,
+   "y": 61.33,
+   "r": 3.34
+  },
+  {
+   "shape": "circle",
+   "x": 21.7,
+   "y": 9.71,
+   "r": 2.43
+  },
+  {
+   "shape": "circle",
+   "x": 21.7,
+   "y": 149.99,
+   "r": 2.39
+  },
+  {
+   "shape": "circle",
+   "x": 14.15,
+   "y": 125.99,
+   "r": 1.99
+  }
+ ],
+ "knobs": [
+  {
+   "x": 28.96,
+   "y": 28.13,
+   "r": 7.07
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/1975 - M461M - 461-04-008 - INPUT MODULE ASSEMBLY (traced).json",
+  "MECHANICAL/1975 - M461M - 461-04-008 - MOD ICKD USED (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M461M.stl"
+}

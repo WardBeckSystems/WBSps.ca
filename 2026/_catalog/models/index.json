@@ -1,0 +1,3303 @@
+{
+ "format": "wbs-model-index/1",
+ "models": [
+  {
+   "module": "M411",
+   "repo": "MODULES.AMPLIFIERS.M411-Transcription-Preamplifier",
+   "title": "Transcription Preamplifier",
+   "category": "AMPLIFIERS",
+   "size": {
+    "w": 63.5,
+    "h": 254.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "AMPLIFIERS.M411-Transcription-Preamplifier.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M411-Transcription-Preamplifier/main/MECHANICAL/M411.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M411-Transcription-Preamplifier/main/MECHANICAL/M411%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M450",
+   "repo": "MODULES.AMPLIFIERS.M450-Program-Summing-Amplifier",
+   "title": "Program Summing Amplifier",
+   "category": "AMPLIFIERS",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "AMPLIFIERS.M450-Program-Summing-Amplifier.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M450-Program-Summing-Amplifier/main/MECHANICAL/M450.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M450-Program-Summing-Amplifier/main/MECHANICAL/M450%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M453",
+   "repo": "MODULES.AMPLIFIERS.M453-Cue-Amplifier",
+   "title": "Cue Amplifier",
+   "category": "AMPLIFIERS",
+   "size": {
+    "w": 56.13,
+    "h": 167.97,
+    "d": 165.0
+   },
+   "holes": 2,
+   "knobs": 1,
+   "kind": "layout",
+   "model": "AMPLIFIERS.M453-Cue-Amplifier.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M453-Cue-Amplifier/main/MECHANICAL/M453.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M453-Cue-Amplifier/main/MECHANICAL/M453%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M453A",
+   "repo": "MODULES.AMPLIFIERS.M453A-Cue-Amplifier",
+   "title": "Cue Amplifier",
+   "category": "AMPLIFIERS",
+   "size": {
+    "w": 51.97,
+    "h": 192.13,
+    "d": 165.0
+   },
+   "holes": 3,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "AMPLIFIERS.M453A-Cue-Amplifier.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M453A-Cue-Amplifier/main/MECHANICAL/M453A.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M453A-Cue-Amplifier/main/MECHANICAL/M453A%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M481",
+   "repo": "MODULES.AMPLIFIERS.M481-Oscillator-Cue-Amplifier",
+   "title": "Oscillator Cue Amplifier",
+   "category": "AMPLIFIERS",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "AMPLIFIERS.M481-Oscillator-Cue-Amplifier.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M481-Oscillator-Cue-Amplifier/main/MECHANICAL/M481.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M481-Oscillator-Cue-Amplifier/main/MECHANICAL/M481%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M481B",
+   "repo": "MODULES.AMPLIFIERS.M481B-Cue-Oscillator-Re-entry-Module",
+   "title": "Cue Oscillator Re entry Module",
+   "category": "AMPLIFIERS",
+   "size": {
+    "w": 62.2,
+    "h": 341.03,
+    "d": 165.0
+   },
+   "holes": 10,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "AMPLIFIERS.M481B-Cue-Oscillator-Re-entry-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M481B-Cue-Oscillator-Re-entry-Module/main/MECHANICAL/M481B.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M481B-Cue-Oscillator-Re-entry-Module/main/MECHANICAL/M481B%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M600",
+   "repo": "MODULES.AMPLIFIERS.M600-Universal-Amplifier",
+   "title": "Universal Amplifier",
+   "category": "AMPLIFIERS",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "AMPLIFIERS.M600-Universal-Amplifier.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M600-Universal-Amplifier/main/MECHANICAL/M600.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M600-Universal-Amplifier/main/MECHANICAL/M600%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M608",
+   "repo": "MODULES.AMPLIFIERS.M608-Audio-Distribution-Amplifier",
+   "title": "Audio Distribution Amplifier",
+   "category": "AMPLIFIERS",
+   "size": {
+    "w": 83.0,
+    "h": 83.0,
+    "d": 336.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "AMPLIFIERS.M608-Audio-Distribution-Amplifier.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M608-Audio-Distribution-Amplifier/main/MECHANICAL/M608.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M608-Audio-Distribution-Amplifier/main/MECHANICAL/M608%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M610",
+   "repo": "MODULES.AMPLIFIERS.M610-10-Watt-Monitor-Amplifier",
+   "title": "10 Watt Monitor Amplifier",
+   "category": "AMPLIFIERS",
+   "size": {
+    "w": 86.36,
+    "h": 86.36,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "AMPLIFIERS.M610-10-Watt-Monitor-Amplifier.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M610-10-Watt-Monitor-Amplifier/main/MECHANICAL/M610.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M610-10-Watt-Monitor-Amplifier/main/MECHANICAL/M610%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M802C",
+   "repo": "MODULES.AMPLIFIERS.M802C",
+   "title": "M802C",
+   "category": "AMPLIFIERS",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "AMPLIFIERS.M802C.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M802C/main/MECHANICAL/M802C.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M802C/main/MECHANICAL/M802C%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M805",
+   "repo": "MODULES.AMPLIFIERS.M805",
+   "title": "M805",
+   "category": "AMPLIFIERS",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "AMPLIFIERS.M805.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M805/main/MECHANICAL/M805.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M805/main/MECHANICAL/M805%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M809C",
+   "repo": "MODULES.AMPLIFIERS.M809C",
+   "title": "M809C",
+   "category": "AMPLIFIERS",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "AMPLIFIERS.M809C.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M809C/main/MECHANICAL/M809C.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M809C/main/MECHANICAL/M809C%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M8204",
+   "repo": "MODULES.AMPLIFIERS.M8204-Stereo-Audio-Distribution-Amplifier",
+   "title": "Stereo Audio Distribution Amplifier",
+   "category": "AMPLIFIERS",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "AMPLIFIERS.M8204-Stereo-Audio-Distribution-Amplifier.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M8204-Stereo-Audio-Distribution-Amplifier/main/MECHANICAL/M8204.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M8204-Stereo-Audio-Distribution-Amplifier/main/MECHANICAL/M8204%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M8205",
+   "repo": "MODULES.AMPLIFIERS.M8205-Audio-Distribution-Amplifier",
+   "title": "Audio Distribution Amplifier",
+   "category": "AMPLIFIERS",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "AMPLIFIERS.M8205-Audio-Distribution-Amplifier.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M8205-Audio-Distribution-Amplifier/main/MECHANICAL/M8205.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.AMPLIFIERS.M8205-Audio-Distribution-Amplifier/main/MECHANICAL/M8205%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M494",
+   "repo": "MODULES.COMMUNICATION.M494-Remote-Line-Talkback-Cue-Module",
+   "title": "Remote Line Talkback Cue Module",
+   "category": "COMMUNICATION",
+   "size": {
+    "w": 56.35,
+    "h": 215.9,
+    "d": 165.0
+   },
+   "holes": 16,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "COMMUNICATION.M494-Remote-Line-Talkback-Cue-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M494-Remote-Line-Talkback-Cue-Module/main/MECHANICAL/M494.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M494-Remote-Line-Talkback-Cue-Module/main/MECHANICAL/M494%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M529",
+   "repo": "MODULES.COMMUNICATION.M529-Communications-Module",
+   "title": "Communications Module",
+   "category": "COMMUNICATION",
+   "size": {
+    "w": 41.0,
+    "h": 360.0,
+    "d": 165.0
+   },
+   "holes": 22,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "COMMUNICATION.M529-Communications-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M529-Communications-Module/main/MECHANICAL/M529.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M529-Communications-Module/main/MECHANICAL/M529%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M7000",
+   "repo": "MODULES.COMMUNICATION.M7000-7000-Series-Intercom",
+   "title": "7000 Series Intercom",
+   "category": "COMMUNICATION",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "COMMUNICATION.M7000-7000-Series-Intercom.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M7000-7000-Series-Intercom/main/MECHANICAL/M7000.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M7000-7000-Series-Intercom/main/MECHANICAL/M7000%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M702",
+   "repo": "MODULES.COMMUNICATION.M702-Intercom-Output-Amplifier",
+   "title": "Intercom Output Amplifier",
+   "category": "COMMUNICATION",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "COMMUNICATION.M702-Intercom-Output-Amplifier.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M702-Intercom-Output-Amplifier/main/MECHANICAL/M702.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M702-Intercom-Output-Amplifier/main/MECHANICAL/M702%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M703",
+   "repo": "MODULES.COMMUNICATION.M703-Intercom-Input-Output-Amplifier",
+   "title": "Intercom Input Output Amplifier",
+   "category": "COMMUNICATION",
+   "size": {
+    "w": 32.0,
+    "h": 111.0,
+    "d": 270.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "COMMUNICATION.M703-Intercom-Input-Output-Amplifier.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M703-Intercom-Input-Output-Amplifier/main/MECHANICAL/M703.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M703-Intercom-Input-Output-Amplifier/main/MECHANICAL/M703%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M703D",
+   "repo": "MODULES.COMMUNICATION.M703D-Intercom-Preamplifier",
+   "title": "Intercom Preamplifier",
+   "category": "COMMUNICATION",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "COMMUNICATION.M703D-Intercom-Preamplifier.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M703D-Intercom-Preamplifier/main/MECHANICAL/M703D.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M703D-Intercom-Preamplifier/main/MECHANICAL/M703D%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M712B",
+   "repo": "MODULES.COMMUNICATION.M712B-Intercom-Matrix-Amplifier",
+   "title": "Intercom Matrix Amplifier",
+   "category": "COMMUNICATION",
+   "size": {
+    "w": 18.0,
+    "h": 112.0,
+    "d": 280.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "COMMUNICATION.M712B-Intercom-Matrix-Amplifier.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M712B-Intercom-Matrix-Amplifier/main/MECHANICAL/M712B.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M712B-Intercom-Matrix-Amplifier/main/MECHANICAL/M712B%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M718",
+   "repo": "MODULES.COMMUNICATION.M718-Talkback-Address-Module",
+   "title": "Talkback Address Module",
+   "category": "COMMUNICATION",
+   "size": {
+    "w": 17.78,
+    "h": 111.76,
+    "d": 279.4
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "COMMUNICATION.M718-Talkback-Address-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M718-Talkback-Address-Module/main/MECHANICAL/M718.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M718-Talkback-Address-Module/main/MECHANICAL/M718%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M719",
+   "repo": "MODULES.COMMUNICATION.M719-Intercom-Module",
+   "title": "Intercom Module",
+   "category": "COMMUNICATION",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "COMMUNICATION.M719-Intercom-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M719-Intercom-Module/main/MECHANICAL/M719.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M719-Intercom-Module/main/MECHANICAL/M719%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M773",
+   "repo": "MODULES.COMMUNICATION.M773-Intercom-Module",
+   "title": "Intercom Module",
+   "category": "COMMUNICATION",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "COMMUNICATION.M773-Intercom-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M773-Intercom-Module/main/MECHANICAL/M773.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M773-Intercom-Module/main/MECHANICAL/M773%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M774",
+   "repo": "MODULES.COMMUNICATION.M774-Intercom-Module",
+   "title": "Intercom Module",
+   "category": "COMMUNICATION",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "COMMUNICATION.M774-Intercom-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M774-Intercom-Module/main/MECHANICAL/M774.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M774-Intercom-Module/main/MECHANICAL/M774%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M777",
+   "repo": "MODULES.COMMUNICATION.M777-Status-Monitor-Module",
+   "title": "Status Monitor Module",
+   "category": "COMMUNICATION",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "COMMUNICATION.M777-Status-Monitor-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M777-Status-Monitor-Module/main/MECHANICAL/M777.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M777-Status-Monitor-Module/main/MECHANICAL/M777%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M780",
+   "repo": "MODULES.COMMUNICATION.M780-Power-Supply",
+   "title": "Power Supply",
+   "category": "COMMUNICATION",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "COMMUNICATION.M780-Power-Supply.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M780-Power-Supply/main/MECHANICAL/M780.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M780-Power-Supply/main/MECHANICAL/M780%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M7800",
+   "repo": "MODULES.COMMUNICATION.M7800-Communication-Terminal",
+   "title": "Communication Terminal",
+   "category": "COMMUNICATION",
+   "size": {
+    "w": 41.0,
+    "h": 217.31,
+    "d": 165.0
+   },
+   "holes": 14,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "COMMUNICATION.M7800-Communication-Terminal.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M7800-Communication-Terminal/main/MECHANICAL/M7800.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M7800-Communication-Terminal/main/MECHANICAL/M7800%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M7840",
+   "repo": "MODULES.COMMUNICATION.M7840-Intercom-Keypad",
+   "title": "Intercom Keypad",
+   "category": "COMMUNICATION",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "COMMUNICATION.M7840-Intercom-Keypad.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M7840-Intercom-Keypad/main/MECHANICAL/M7840.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M7840-Intercom-Keypad/main/MECHANICAL/M7840%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M7880",
+   "repo": "MODULES.COMMUNICATION.M7880-Intercom-System",
+   "title": "Intercom System",
+   "category": "COMMUNICATION",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "photo",
+   "model": "COMMUNICATION.M7880-Intercom-System.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M7880-Intercom-System/main/MECHANICAL/M7880.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M7880-Intercom-System/main/MECHANICAL/M7880%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M7880G",
+   "repo": "MODULES.COMMUNICATION.M7880G-Director-Script-Switcher",
+   "title": "Director Script Switcher",
+   "category": "COMMUNICATION",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "COMMUNICATION.M7880G-Director-Script-Switcher.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M7880G-Director-Script-Switcher/main/MECHANICAL/M7880G.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M7880G-Director-Script-Switcher/main/MECHANICAL/M7880G%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M7884",
+   "repo": "MODULES.COMMUNICATION.M7884-Intercom-Keypad",
+   "title": "Intercom Keypad",
+   "category": "COMMUNICATION",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "photo",
+   "model": "COMMUNICATION.M7884-Intercom-Keypad.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M7884-Intercom-Keypad/main/MECHANICAL/M7884.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMMUNICATION.M7884-Intercom-Keypad/main/MECHANICAL/M7884%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M5200",
+   "repo": "MODULES.COMPUTERS.M5200-Controller-Module",
+   "title": "Controller Module",
+   "category": "COMPUTERS",
+   "size": {
+    "w": 483.0,
+    "h": 44.0,
+    "d": 406.0
+   },
+   "holes": 6,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "COMPUTERS.M5200-Controller-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMPUTERS.M5200-Controller-Module/main/MECHANICAL/M5200.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMPUTERS.M5200-Controller-Module/main/MECHANICAL/M5200%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M5201",
+   "repo": "MODULES.COMPUTERS.M5201-Machine-Control-Module",
+   "title": "Machine Control Module",
+   "category": "COMPUTERS",
+   "size": {
+    "w": 483.0,
+    "h": 44.0,
+    "d": 406.0
+   },
+   "holes": 3,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "COMPUTERS.M5201-Machine-Control-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMPUTERS.M5201-Machine-Control-Module/main/MECHANICAL/M5201.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMPUTERS.M5201-Machine-Control-Module/main/MECHANICAL/M5201%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M524",
+   "repo": "MODULES.COMPUTERS.M524-24V-Dual-Lamp-Relay-Power-Supply",
+   "title": "24V Dual Lamp Relay Power Supply",
+   "category": "COMPUTERS",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "COMPUTERS.M524-24V-Dual-Lamp-Relay-Power-Supply.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMPUTERS.M524-24V-Dual-Lamp-Relay-Power-Supply/main/MECHANICAL/M524.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMPUTERS.M524-24V-Dual-Lamp-Relay-Power-Supply/main/MECHANICAL/M524%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M524A",
+   "repo": "MODULES.COMPUTERS.M524A-24V-Dual-Lamp-Relay-Power-Supply",
+   "title": "24V Dual Lamp Relay Power Supply",
+   "category": "COMPUTERS",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "photo",
+   "model": "COMPUTERS.M524A-24V-Dual-Lamp-Relay-Power-Supply.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMPUTERS.M524A-24V-Dual-Lamp-Relay-Power-Supply/main/MECHANICAL/M524A.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMPUTERS.M524A-24V-Dual-Lamp-Relay-Power-Supply/main/MECHANICAL/M524A%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M526",
+   "repo": "MODULES.COMPUTERS.M526",
+   "title": "M526",
+   "category": "COMPUTERS",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "photo",
+   "model": "COMPUTERS.M526.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMPUTERS.M526/main/MECHANICAL/M526.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.COMPUTERS.M526/main/MECHANICAL/M526%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M406",
+   "repo": "MODULES.DYNAMICS.M406-Compressor-Limiter",
+   "title": "Compressor Limiter",
+   "category": "DYNAMICS",
+   "size": {
+    "w": 52.46,
+    "h": 184.59,
+    "d": 165.0
+   },
+   "holes": 4,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "DYNAMICS.M406-Compressor-Limiter.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.DYNAMICS.M406-Compressor-Limiter/main/MECHANICAL/M406.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.DYNAMICS.M406-Compressor-Limiter/main/MECHANICAL/M406%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M415",
+   "repo": "MODULES.DYNAMICS.M415-Mic-Line-Amplifier-with-Compression",
+   "title": "Mic Line Amplifier with Compression",
+   "category": "DYNAMICS",
+   "size": {
+    "w": 177.8,
+    "h": 50.8,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "DYNAMICS.M415-Mic-Line-Amplifier-with-Compression.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.DYNAMICS.M415-Mic-Line-Amplifier-with-Compression/main/MECHANICAL/M415.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.DYNAMICS.M415-Mic-Line-Amplifier-with-Compression/main/MECHANICAL/M415%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M465",
+   "repo": "MODULES.DYNAMICS.M465-Reverb-Module",
+   "title": "Reverb Module",
+   "category": "DYNAMICS",
+   "size": {
+    "w": 51.73,
+    "h": 195.33,
+    "d": 165.0
+   },
+   "holes": 11,
+   "knobs": 2,
+   "kind": "traced",
+   "model": "DYNAMICS.M465-Reverb-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.DYNAMICS.M465-Reverb-Module/main/MECHANICAL/M465.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.DYNAMICS.M465-Reverb-Module/main/MECHANICAL/M465%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M465A",
+   "repo": "MODULES.DYNAMICS.M465A-Reverb-Module",
+   "title": "Reverb Module",
+   "category": "DYNAMICS",
+   "size": {
+    "w": 52.22,
+    "h": 195.58,
+    "d": 165.0
+   },
+   "holes": 9,
+   "knobs": 1,
+   "kind": "layout",
+   "model": "DYNAMICS.M465A-Reverb-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.DYNAMICS.M465A-Reverb-Module/main/MECHANICAL/M465A.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.DYNAMICS.M465A-Reverb-Module/main/MECHANICAL/M465A%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M465B",
+   "repo": "MODULES.DYNAMICS.M465B-Reverb-Module",
+   "title": "Reverb Module",
+   "category": "DYNAMICS",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 10,
+   "knobs": 1,
+   "kind": "traced",
+   "model": "DYNAMICS.M465B-Reverb-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.DYNAMICS.M465B-Reverb-Module/main/MECHANICAL/M465B.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.DYNAMICS.M465B-Reverb-Module/main/MECHANICAL/M465B%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M466",
+   "repo": "MODULES.DYNAMICS.M466-Limiter-Compressor-Module",
+   "title": "Limiter Compressor Module",
+   "category": "DYNAMICS",
+   "size": {
+    "w": 57.0,
+    "h": 213.31,
+    "d": 165.0
+   },
+   "holes": 16,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "DYNAMICS.M466-Limiter-Compressor-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.DYNAMICS.M466-Limiter-Compressor-Module/main/MECHANICAL/M466.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.DYNAMICS.M466-Limiter-Compressor-Module/main/MECHANICAL/M466%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M467",
+   "repo": "MODULES.DYNAMICS.M467-Noise-Gate-and-Meter-Module",
+   "title": "Noise Gate and Meter Module",
+   "category": "DYNAMICS",
+   "size": {
+    "w": 55.49,
+    "h": 209.64,
+    "d": 165.0
+   },
+   "holes": 12,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "DYNAMICS.M467-Noise-Gate-and-Meter-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.DYNAMICS.M467-Noise-Gate-and-Meter-Module/main/MECHANICAL/M467.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.DYNAMICS.M467-Noise-Gate-and-Meter-Module/main/MECHANICAL/M467%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M402",
+   "repo": "MODULES.FILTERS.M402-Equalizer",
+   "title": "Equalizer",
+   "category": "FILTERS",
+   "size": {
+    "w": 52.68,
+    "h": 185.46,
+    "d": 165.0
+   },
+   "holes": 5,
+   "knobs": 2,
+   "kind": "layout",
+   "model": "FILTERS.M402-Equalizer.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.FILTERS.M402-Equalizer/main/MECHANICAL/M402.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.FILTERS.M402-Equalizer/main/MECHANICAL/M402%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M402B",
+   "repo": "MODULES.FILTERS.M402B-Effects-Equalizer",
+   "title": "Effects Equalizer",
+   "category": "FILTERS",
+   "size": {
+    "w": 41.0,
+    "h": 144.53,
+    "d": 165.0
+   },
+   "holes": 4,
+   "knobs": 1,
+   "kind": "drawing",
+   "model": "FILTERS.M402B-Effects-Equalizer.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.FILTERS.M402B-Effects-Equalizer/main/MECHANICAL/M402B.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.FILTERS.M402B-Effects-Equalizer/main/MECHANICAL/M402B%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M404",
+   "repo": "MODULES.FILTERS.M404-Equalizer",
+   "title": "Equalizer",
+   "category": "FILTERS",
+   "size": {
+    "w": 40.13,
+    "h": 168.27,
+    "d": 152.4
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "FILTERS.M404-Equalizer.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.FILTERS.M404-Equalizer/main/MECHANICAL/M404.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.FILTERS.M404-Equalizer/main/MECHANICAL/M404%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M462",
+   "repo": "MODULES.FILTERS.M462-Equalizer-Module",
+   "title": "Equalizer Module",
+   "category": "FILTERS",
+   "size": {
+    "w": 54.62,
+    "h": 199.71,
+    "d": 165.0
+   },
+   "holes": 11,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "FILTERS.M462-Equalizer-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.FILTERS.M462-Equalizer-Module/main/MECHANICAL/M462.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.FILTERS.M462-Equalizer-Module/main/MECHANICAL/M462%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M462A",
+   "repo": "MODULES.FILTERS.M462A-Equalizer-Module",
+   "title": "Equalizer Module",
+   "category": "FILTERS",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 9,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "FILTERS.M462A-Equalizer-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.FILTERS.M462A-Equalizer-Module/main/MECHANICAL/M462A.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.FILTERS.M462A-Equalizer-Module/main/MECHANICAL/M462A%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M462C",
+   "repo": "MODULES.FILTERS.M462C-Stereo-Equalizer-Module",
+   "title": "Stereo Equalizer Module",
+   "category": "FILTERS",
+   "size": {
+    "w": 56.57,
+    "h": 209.42,
+    "d": 165.0
+   },
+   "holes": 7,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "FILTERS.M462C-Stereo-Equalizer-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.FILTERS.M462C-Stereo-Equalizer-Module/main/MECHANICAL/M462C.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.FILTERS.M462C-Stereo-Equalizer-Module/main/MECHANICAL/M462C%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M464",
+   "repo": "MODULES.FILTERS.M464-High-Pass-Low-Pass-Filter",
+   "title": "High Pass Low Pass Filter",
+   "category": "FILTERS",
+   "size": {
+    "w": 53.54,
+    "h": 199.71,
+    "d": 165.0
+   },
+   "holes": 6,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "FILTERS.M464-High-Pass-Low-Pass-Filter.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.FILTERS.M464-High-Pass-Low-Pass-Filter/main/MECHANICAL/M464.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.FILTERS.M464-High-Pass-Low-Pass-Filter/main/MECHANICAL/M464%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M472",
+   "repo": "MODULES.FILTERS.M472-Equalizer-Module",
+   "title": "Equalizer Module",
+   "category": "FILTERS",
+   "size": {
+    "w": 57.43,
+    "h": 211.8,
+    "d": 165.0
+   },
+   "holes": 9,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "FILTERS.M472-Equalizer-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.FILTERS.M472-Equalizer-Module/main/MECHANICAL/M472.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.FILTERS.M472-Equalizer-Module/main/MECHANICAL/M472%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M472A",
+   "repo": "MODULES.FILTERS.M472A-Stereo-Equalizer-Module",
+   "title": "Stereo Equalizer Module",
+   "category": "FILTERS",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "FILTERS.M472A-Stereo-Equalizer-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.FILTERS.M472A-Stereo-Equalizer-Module/main/MECHANICAL/M472A.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.FILTERS.M472A-Stereo-Equalizer-Module/main/MECHANICAL/M472A%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M522",
+   "repo": "MODULES.FILTERS.M522-Equalizer-Module",
+   "title": "Equalizer Module",
+   "category": "FILTERS",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 4,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "FILTERS.M522-Equalizer-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.FILTERS.M522-Equalizer-Module/main/MECHANICAL/M522.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.FILTERS.M522-Equalizer-Module/main/MECHANICAL/M522%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M562C",
+   "repo": "MODULES.FILTERS.M562C-Stereo-Equalizer-Module",
+   "title": "Stereo Equalizer Module",
+   "category": "FILTERS",
+   "size": {
+    "w": 56.57,
+    "h": 209.42,
+    "d": 165.0
+   },
+   "holes": 7,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "FILTERS.M562C-Stereo-Equalizer-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.FILTERS.M562C-Stereo-Equalizer-Module/main/MECHANICAL/M562C.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.FILTERS.M562C-Stereo-Equalizer-Module/main/MECHANICAL/M562C%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M922",
+   "repo": "MODULES.FILTERS.M922-Equalizer-Module",
+   "title": "Equalizer Module",
+   "category": "FILTERS",
+   "size": {
+    "w": 38.0,
+    "h": 203.0,
+    "d": 168.0
+   },
+   "holes": 6,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "FILTERS.M922-Equalizer-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.FILTERS.M922-Equalizer-Module/main/MECHANICAL/M922.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.FILTERS.M922-Equalizer-Module/main/MECHANICAL/M922%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M441",
+   "repo": "MODULES.INPUT-PRE-AMPS.M441-Input-Module",
+   "title": "Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 71.89,
+    "h": 173.58,
+    "d": 165.0
+   },
+   "holes": 1,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "INPUT-PRE-AMPS.M441-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M441-Input-Module/main/MECHANICAL/M441.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M441-Input-Module/main/MECHANICAL/M441%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M441F",
+   "repo": "MODULES.INPUT-PRE-AMPS.M441F-Input-Module",
+   "title": "Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 52.9,
+    "h": 183.95,
+    "d": 165.0
+   },
+   "holes": 4,
+   "knobs": 1,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M441F-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M441F-Input-Module/main/MECHANICAL/M441F.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M441F-Input-Module/main/MECHANICAL/M441F%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M441M",
+   "repo": "MODULES.INPUT-PRE-AMPS.M441M-Channel-Amplifier",
+   "title": "Channel Amplifier",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 48.15,
+    "h": 131.7,
+    "d": 165.0
+   },
+   "holes": 2,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M441M-Channel-Amplifier.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M441M-Channel-Amplifier/main/MECHANICAL/M441M.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M441M-Channel-Amplifier/main/MECHANICAL/M441M%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M460",
+   "repo": "MODULES.INPUT-PRE-AMPS.M460-Input-Module",
+   "title": "Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "INPUT-PRE-AMPS.M460-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460-Input-Module/main/MECHANICAL/M460.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460-Input-Module/main/MECHANICAL/M460%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M460A",
+   "repo": "MODULES.INPUT-PRE-AMPS.M460A-Input-Module",
+   "title": "Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 51.17,
+    "h": 316.29,
+    "d": 165.0
+   },
+   "holes": 17,
+   "knobs": 1,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M460A-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460A-Input-Module/main/MECHANICAL/M460A.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460A-Input-Module/main/MECHANICAL/M460A%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M460B",
+   "repo": "MODULES.INPUT-PRE-AMPS.M460B-Input-Module",
+   "title": "Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 50.95,
+    "h": 318.24,
+    "d": 165.0
+   },
+   "holes": 24,
+   "knobs": 1,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M460B-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460B-Input-Module/main/MECHANICAL/M460B.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460B-Input-Module/main/MECHANICAL/M460B%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M460L",
+   "repo": "MODULES.INPUT-PRE-AMPS.M460L-Input-Module",
+   "title": "Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 69.52,
+    "h": 429.21,
+    "d": 165.0
+   },
+   "holes": 31,
+   "knobs": 1,
+   "kind": "traced",
+   "model": "INPUT-PRE-AMPS.M460L-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460L-Input-Module/main/MECHANICAL/M460L.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460L-Input-Module/main/MECHANICAL/M460L%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M460M",
+   "repo": "MODULES.INPUT-PRE-AMPS.M460M-Input-Module",
+   "title": "Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 69.55,
+    "h": 424.16,
+    "d": 165.0
+   },
+   "holes": 31,
+   "knobs": 1,
+   "kind": "traced",
+   "model": "INPUT-PRE-AMPS.M460M-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460M-Input-Module/main/MECHANICAL/M460M.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460M-Input-Module/main/MECHANICAL/M460M%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M461",
+   "repo": "MODULES.INPUT-PRE-AMPS.M461-Input-Module",
+   "title": "Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 18,
+   "knobs": 1,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M461-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M461-Input-Module/main/MECHANICAL/M461.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M461-Input-Module/main/MECHANICAL/M461%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M461M",
+   "repo": "MODULES.INPUT-PRE-AMPS.M461M-Input-Module",
+   "title": "Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 42.96,
+    "h": 158.9,
+    "d": 165.0
+   },
+   "holes": 10,
+   "knobs": 1,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M461M-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M461M-Input-Module/main/MECHANICAL/M461M.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M461M-Input-Module/main/MECHANICAL/M461M%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M470",
+   "repo": "MODULES.INPUT-PRE-AMPS.M470-Input-Module",
+   "title": "Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 45.77,
+    "h": 285.2,
+    "d": 165.0
+   },
+   "holes": 24,
+   "knobs": 1,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M470-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M470-Input-Module/main/MECHANICAL/M470.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M470-Input-Module/main/MECHANICAL/M470%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M470A",
+   "repo": "MODULES.INPUT-PRE-AMPS.M470A-Input-Module",
+   "title": "Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 50.3,
+    "h": 304.42,
+    "d": 165.0
+   },
+   "holes": 32,
+   "knobs": 1,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M470A-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M470A-Input-Module/main/MECHANICAL/M470A.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M470A-Input-Module/main/MECHANICAL/M470A%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M470C",
+   "repo": "MODULES.INPUT-PRE-AMPS.M470C-Input-Module",
+   "title": "Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 49.87,
+    "h": 310.03,
+    "d": 165.0
+   },
+   "holes": 29,
+   "knobs": 2,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M470C-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M470C-Input-Module/main/MECHANICAL/M470C.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M470C-Input-Module/main/MECHANICAL/M470C%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M470E",
+   "repo": "MODULES.INPUT-PRE-AMPS.M470E-Input-Module",
+   "title": "Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 66.71,
+    "h": 420.79,
+    "d": 165.0
+   },
+   "holes": 30,
+   "knobs": 1,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M470E-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M470E-Input-Module/main/MECHANICAL/M470E.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M470E-Input-Module/main/MECHANICAL/M470E%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M471",
+   "repo": "MODULES.INPUT-PRE-AMPS.M471-Stereo-Input-Module",
+   "title": "Stereo Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 52.03,
+    "h": 313.49,
+    "d": 165.0
+   },
+   "holes": 24,
+   "knobs": 2,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M471-Stereo-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M471-Stereo-Input-Module/main/MECHANICAL/M471.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M471-Stereo-Input-Module/main/MECHANICAL/M471%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M471A",
+   "repo": "MODULES.INPUT-PRE-AMPS.M471A-Stereo-Input-Module",
+   "title": "Stereo Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 73.74,
+    "h": 267.78,
+    "d": 165.0
+   },
+   "holes": 11,
+   "knobs": 3,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M471A-Stereo-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M471A-Stereo-Input-Module/main/MECHANICAL/M471A.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M471A-Stereo-Input-Module/main/MECHANICAL/M471A%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M471C",
+   "repo": "MODULES.INPUT-PRE-AMPS.M471C-Stereo-Input-Module",
+   "title": "Stereo Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 41.0,
+    "h": 360.0,
+    "d": 165.0
+   },
+   "holes": 26,
+   "knobs": 2,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M471C-Stereo-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M471C-Stereo-Input-Module/main/MECHANICAL/M471C.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M471C-Stereo-Input-Module/main/MECHANICAL/M471C%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M480",
+   "repo": "MODULES.INPUT-PRE-AMPS.M480-Input-Module",
+   "title": "Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 40.37,
+    "h": 195.82,
+    "d": 165.0
+   },
+   "holes": 14,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M480-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M480-Input-Module/main/MECHANICAL/M480.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M480-Input-Module/main/MECHANICAL/M480%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M480B",
+   "repo": "MODULES.INPUT-PRE-AMPS.M480B-Input-Module",
+   "title": "Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 39.08,
+    "h": 189.99,
+    "d": 165.0
+   },
+   "holes": 13,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "INPUT-PRE-AMPS.M480B-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M480B-Input-Module/main/MECHANICAL/M480B.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M480B-Input-Module/main/MECHANICAL/M480B%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M480C",
+   "repo": "MODULES.INPUT-PRE-AMPS.M480C-Input-Module",
+   "title": "Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 63.63,
+    "h": 315.73,
+    "d": 165.0
+   },
+   "holes": 23,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "INPUT-PRE-AMPS.M480C-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M480C-Input-Module/main/MECHANICAL/M480C.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M480C-Input-Module/main/MECHANICAL/M480C%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M490",
+   "repo": "MODULES.INPUT-PRE-AMPS.M490-Stereo-Input-Module",
+   "title": "Stereo Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 44.69,
+    "h": 276.35,
+    "d": 165.0
+   },
+   "holes": 8,
+   "knobs": 1,
+   "kind": "traced",
+   "model": "INPUT-PRE-AMPS.M490-Stereo-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490-Stereo-Input-Module/main/MECHANICAL/M490.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490-Stereo-Input-Module/main/MECHANICAL/M490%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M490A",
+   "repo": "MODULES.INPUT-PRE-AMPS.M490A-Mic-Input-Module",
+   "title": "Mic Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 41.0,
+    "h": 251.12,
+    "d": 165.0
+   },
+   "holes": 10,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M490A-Mic-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490A-Mic-Input-Module/main/MECHANICAL/M490A.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490A-Mic-Input-Module/main/MECHANICAL/M490A%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M490C",
+   "repo": "MODULES.INPUT-PRE-AMPS.M490C-Line-Input-Module",
+   "title": "Line Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 43.18,
+    "h": 266.85,
+    "d": 165.0
+   },
+   "holes": 10,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "INPUT-PRE-AMPS.M490C-Line-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490C-Line-Input-Module/main/MECHANICAL/M490C.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490C-Line-Input-Module/main/MECHANICAL/M490C%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M490D",
+   "repo": "MODULES.INPUT-PRE-AMPS.M490D-Line-Input-Module",
+   "title": "Line Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 43.18,
+    "h": 267.28,
+    "d": 165.0
+   },
+   "holes": 12,
+   "knobs": 1,
+   "kind": "traced",
+   "model": "INPUT-PRE-AMPS.M490D-Line-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490D-Line-Input-Module/main/MECHANICAL/M490D.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490D-Line-Input-Module/main/MECHANICAL/M490D%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M490E",
+   "repo": "MODULES.INPUT-PRE-AMPS.M490E-Stereo-Input-Module",
+   "title": "Stereo Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 43.18,
+    "h": 267.07,
+    "d": 165.0
+   },
+   "holes": 10,
+   "knobs": 1,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M490E-Stereo-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490E-Stereo-Input-Module/main/MECHANICAL/M490E.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490E-Stereo-Input-Module/main/MECHANICAL/M490E%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M490F",
+   "repo": "MODULES.INPUT-PRE-AMPS.M490F-Stereo-Input-Module",
+   "title": "Stereo Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 49.87,
+    "h": 301.83,
+    "d": 165.0
+   },
+   "holes": 14,
+   "knobs": 1,
+   "kind": "traced",
+   "model": "INPUT-PRE-AMPS.M490F-Stereo-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490F-Stereo-Input-Module/main/MECHANICAL/M490F.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490F-Stereo-Input-Module/main/MECHANICAL/M490F%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M490G",
+   "repo": "MODULES.INPUT-PRE-AMPS.M490G-Mic-Input-Module",
+   "title": "Mic Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 68.66,
+    "h": 422.95,
+    "d": 165.0
+   },
+   "holes": 10,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M490G-Mic-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490G-Mic-Input-Module/main/MECHANICAL/M490G.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490G-Mic-Input-Module/main/MECHANICAL/M490G%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M490H",
+   "repo": "MODULES.INPUT-PRE-AMPS.M490H-Line-Input-Module",
+   "title": "Line Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 52.68,
+    "h": 410.21,
+    "d": 165.0
+   },
+   "holes": 11,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M490H-Line-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490H-Line-Input-Module/main/MECHANICAL/M490H.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490H-Line-Input-Module/main/MECHANICAL/M490H%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M490J",
+   "repo": "MODULES.INPUT-PRE-AMPS.M490J-Mic-Input-Module",
+   "title": "Mic Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 43.83,
+    "h": 268.58,
+    "d": 165.0
+   },
+   "holes": 11,
+   "knobs": 1,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M490J-Mic-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490J-Mic-Input-Module/main/MECHANICAL/M490J.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490J-Mic-Input-Module/main/MECHANICAL/M490J%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M490K",
+   "repo": "MODULES.INPUT-PRE-AMPS.M490K-Line-Input-Module",
+   "title": "Line Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 50.3,
+    "h": 416.69,
+    "d": 165.0
+   },
+   "holes": 12,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M490K-Line-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490K-Line-Input-Module/main/MECHANICAL/M490K.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490K-Line-Input-Module/main/MECHANICAL/M490K%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M490L",
+   "repo": "MODULES.INPUT-PRE-AMPS.M490L-Stereo-Input-Module",
+   "title": "Stereo Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 41.0,
+    "h": 360.0,
+    "d": 165.0
+   },
+   "holes": 11,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M490L-Stereo-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490L-Stereo-Input-Module/main/MECHANICAL/M490L.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490L-Stereo-Input-Module/main/MECHANICAL/M490L%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M490M",
+   "repo": "MODULES.INPUT-PRE-AMPS.M490M-Stereo-Input-Module",
+   "title": "Stereo Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 68.44,
+    "h": 419.93,
+    "d": 165.0
+   },
+   "holes": 13,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M490M-Stereo-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490M-Stereo-Input-Module/main/MECHANICAL/M490M.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490M-Stereo-Input-Module/main/MECHANICAL/M490M%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M490N",
+   "repo": "MODULES.INPUT-PRE-AMPS.M490N-Stereo-Input-Module",
+   "title": "Stereo Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 41.0,
+    "h": 360.0,
+    "d": 165.0
+   },
+   "holes": 14,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M490N-Stereo-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490N-Stereo-Input-Module/main/MECHANICAL/M490N.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490N-Stereo-Input-Module/main/MECHANICAL/M490N%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M490T",
+   "repo": "MODULES.INPUT-PRE-AMPS.M490T-Input-Module",
+   "title": "Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 44.48,
+    "h": 276.35,
+    "d": 165.0
+   },
+   "holes": 9,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M490T-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490T-Input-Module/main/MECHANICAL/M490T.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490T-Input-Module/main/MECHANICAL/M490T%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M520",
+   "repo": "MODULES.INPUT-PRE-AMPS.M520-Mono-Input-Module",
+   "title": "Mono Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 72.97,
+    "h": 431.8,
+    "d": 165.0
+   },
+   "holes": 25,
+   "knobs": 1,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M520-Mono-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M520-Mono-Input-Module/main/MECHANICAL/M520.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M520-Mono-Input-Module/main/MECHANICAL/M520%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M5200A",
+   "repo": "MODULES.INPUT-PRE-AMPS.M5200A-Controller-Module",
+   "title": "Controller Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 483.0,
+    "h": 44.0,
+    "d": 406.0
+   },
+   "holes": 4,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M5200A-Controller-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M5200A-Controller-Module/main/MECHANICAL/M5200A.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M5200A-Controller-Module/main/MECHANICAL/M5200A%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M521",
+   "repo": "MODULES.INPUT-PRE-AMPS.M521-Stereo-Input-Module",
+   "title": "Stereo Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 41.0,
+    "h": 360.0,
+    "d": 165.0
+   },
+   "holes": 21,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M521-Stereo-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M521-Stereo-Input-Module/main/MECHANICAL/M521.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M521-Stereo-Input-Module/main/MECHANICAL/M521%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M521A",
+   "repo": "MODULES.INPUT-PRE-AMPS.M521A-Stereo-Input-Module",
+   "title": "Stereo Input Module",
+   "category": "INPUT-PRE-AMPS",
+   "size": {
+    "w": 41.0,
+    "h": 360.0,
+    "d": 165.0
+   },
+   "holes": 6,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "INPUT-PRE-AMPS.M521A-Stereo-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M521A-Stereo-Input-Module/main/MECHANICAL/M521A.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M521A-Stereo-Input-Module/main/MECHANICAL/M521A%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M202",
+   "repo": "MODULES.LOGIC.M202-Logic-Latch-Module",
+   "title": "Logic Latch Module",
+   "category": "LOGIC",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "LOGIC.M202-Logic-Latch-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.LOGIC.M202-Logic-Latch-Module/main/MECHANICAL/M202.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.LOGIC.M202-Logic-Latch-Module/main/MECHANICAL/M202%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M401",
+   "repo": "MODULES.METER.M401-Noise-Suppressor",
+   "title": "Noise Suppressor",
+   "category": "METER",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "METER.M401-Noise-Suppressor.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.METER.M401-Noise-Suppressor/main/MECHANICAL/M401.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.METER.M401-Noise-Suppressor/main/MECHANICAL/M401%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M405",
+   "repo": "MODULES.METER.M405-Extended-Range-VU-Meter",
+   "title": "Extended Range VU Meter",
+   "category": "METER",
+   "size": {
+    "w": 125.0,
+    "h": 225.0,
+    "d": 125.0
+   },
+   "holes": 13,
+   "knobs": 1,
+   "kind": "layout",
+   "model": "METER.M405-Extended-Range-VU-Meter.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.METER.M405-Extended-Range-VU-Meter/main/MECHANICAL/M405.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.METER.M405-Extended-Range-VU-Meter/main/MECHANICAL/M405%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M405C",
+   "repo": "MODULES.METER.M405C-Rack-Mounted-Extended-Range-VU-Meter",
+   "title": "Rack Mounted Extended Range VU Meter",
+   "category": "METER",
+   "size": {
+    "w": 482.6,
+    "h": 88.9,
+    "d": 247.65
+   },
+   "holes": 1,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "METER.M405C-Rack-Mounted-Extended-Range-VU-Meter.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.METER.M405C-Rack-Mounted-Extended-Range-VU-Meter/main/MECHANICAL/M405C.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.METER.M405C-Rack-Mounted-Extended-Range-VU-Meter/main/MECHANICAL/M405C%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M405D",
+   "repo": "MODULES.METER.M405D-Extended-Range-VU-Meter",
+   "title": "Extended Range VU Meter",
+   "category": "METER",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "photo",
+   "model": "METER.M405D-Extended-Range-VU-Meter.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.METER.M405D-Extended-Range-VU-Meter/main/MECHANICAL/M405D.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.METER.M405D-Extended-Range-VU-Meter/main/MECHANICAL/M405D%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M405M",
+   "repo": "MODULES.METER.M405M-Extended-Range-VU-Monitoring-System",
+   "title": "Extended Range VU Monitoring System",
+   "category": "METER",
+   "size": {
+    "w": 482.09,
+    "h": 88.14,
+    "d": 165.0
+   },
+   "holes": 6,
+   "knobs": 0,
+   "kind": "cad",
+   "model": "METER.M405M-Extended-Range-VU-Monitoring-System.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.METER.M405M-Extended-Range-VU-Monitoring-System/main/MECHANICAL/M405M.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.METER.M405M-Extended-Range-VU-Monitoring-System/main/MECHANICAL/M405M%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M405P",
+   "repo": "MODULES.METER.M405P-Extended-Range-VU-Meter",
+   "title": "Extended Range VU Meter",
+   "category": "METER",
+   "size": {
+    "w": 127.0,
+    "h": 228.6,
+    "d": 127.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "METER.M405P-Extended-Range-VU-Meter.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.METER.M405P-Extended-Range-VU-Meter/main/MECHANICAL/M405P.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.METER.M405P-Extended-Range-VU-Meter/main/MECHANICAL/M405P%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M405PSS",
+   "repo": "MODULES.METER.M405PSS-Extended-Range-VU-Meter",
+   "title": "Extended Range VU Meter",
+   "category": "METER",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "METER.M405PSS-Extended-Range-VU-Meter.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.METER.M405PSS-Extended-Range-VU-Meter/main/MECHANICAL/M405PSS.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.METER.M405PSS-Extended-Range-VU-Meter/main/MECHANICAL/M405PSS%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M445",
+   "repo": "MODULES.METER.M445-Extended-Range-Meter",
+   "title": "Extended Range Meter",
+   "category": "METER",
+   "size": {
+    "w": 485.0,
+    "h": 90.0,
+    "d": 305.0
+   },
+   "holes": 3,
+   "knobs": 0,
+   "kind": "cad",
+   "model": "METER.M445-Extended-Range-Meter.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.METER.M445-Extended-Range-Meter/main/MECHANICAL/M445.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.METER.M445-Extended-Range-Meter/main/MECHANICAL/M445%20-%20front%20panel.svg"
+  },
+  {
+   "module": "RM401",
+   "repo": "MODULES.METER.RM401-Noise-Suppressor",
+   "title": "Noise Suppressor",
+   "category": "METER",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "METER.RM401-Noise-Suppressor.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.METER.RM401-Noise-Suppressor/main/MECHANICAL/RM401.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.METER.RM401-Noise-Suppressor/main/MECHANICAL/RM401%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M412",
+   "repo": "MODULES.MONITORING.M412-Selectable-Frequency-Oscillator",
+   "title": "Selectable Frequency Oscillator",
+   "category": "MONITORING",
+   "size": {
+    "w": 40.13,
+    "h": 168.27,
+    "d": 152.4
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "MONITORING.M412-Selectable-Frequency-Oscillator.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.MONITORING.M412-Selectable-Frequency-Oscillator/main/MECHANICAL/M412.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.MONITORING.M412-Selectable-Frequency-Oscillator/main/MECHANICAL/M412%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M413",
+   "repo": "MODULES.MONITORING.M413-Talkback-Amplifier",
+   "title": "Talkback Amplifier",
+   "category": "MONITORING",
+   "size": {
+    "w": 73.62,
+    "h": 153.94,
+    "d": 165.0
+   },
+   "holes": 5,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "MONITORING.M413-Talkback-Amplifier.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.MONITORING.M413-Talkback-Amplifier/main/MECHANICAL/M413.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.MONITORING.M413-Talkback-Amplifier/main/MECHANICAL/M413%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M451",
+   "repo": "MODULES.MONITORING.M451-Talkback-Module",
+   "title": "Talkback Module",
+   "category": "MONITORING",
+   "size": {
+    "w": 56.57,
+    "h": 210.72,
+    "d": 165.0
+   },
+   "holes": 9,
+   "knobs": 3,
+   "kind": "traced",
+   "model": "MONITORING.M451-Talkback-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.MONITORING.M451-Talkback-Module/main/MECHANICAL/M451.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.MONITORING.M451-Talkback-Module/main/MECHANICAL/M451%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M452",
+   "repo": "MODULES.MONITORING.M452-Oscillator-Module",
+   "title": "Oscillator Module",
+   "category": "MONITORING",
+   "size": {
+    "w": 152.4,
+    "h": 177.8,
+    "d": 165.1
+   },
+   "holes": 15,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "MONITORING.M452-Oscillator-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.MONITORING.M452-Oscillator-Module/main/MECHANICAL/M452.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.MONITORING.M452-Oscillator-Module/main/MECHANICAL/M452%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M475",
+   "repo": "MODULES.MONITORING.M475-Stereo-Monitor-Module",
+   "title": "Stereo Monitor Module",
+   "category": "MONITORING",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 7,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "MONITORING.M475-Stereo-Monitor-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.MONITORING.M475-Stereo-Monitor-Module/main/MECHANICAL/M475.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.MONITORING.M475-Stereo-Monitor-Module/main/MECHANICAL/M475%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M475A",
+   "repo": "MODULES.MONITORING.M475A-Stereo-Monitor-Module",
+   "title": "Stereo Monitor Module",
+   "category": "MONITORING",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 11,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "MONITORING.M475A-Stereo-Monitor-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.MONITORING.M475A-Stereo-Monitor-Module/main/MECHANICAL/M475A.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.MONITORING.M475A-Stereo-Monitor-Module/main/MECHANICAL/M475A%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M482B",
+   "repo": "MODULES.MONITORING.M482B-Monitor-Module",
+   "title": "Monitor Module",
+   "category": "MONITORING",
+   "size": {
+    "w": 60.45,
+    "h": 304.63,
+    "d": 165.0
+   },
+   "holes": 19,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "MONITORING.M482B-Monitor-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.MONITORING.M482B-Monitor-Module/main/MECHANICAL/M482B.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.MONITORING.M482B-Monitor-Module/main/MECHANICAL/M482B%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M495",
+   "repo": "MODULES.MONITORING.M495-Stereo-Monitor-Module",
+   "title": "Stereo Monitor Module",
+   "category": "MONITORING",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 7,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "MONITORING.M495-Stereo-Monitor-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.MONITORING.M495-Stereo-Monitor-Module/main/MECHANICAL/M495.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.MONITORING.M495-Stereo-Monitor-Module/main/MECHANICAL/M495%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M525",
+   "repo": "MODULES.MONITORING.M525-Stereo-Monitor-Module",
+   "title": "Stereo Monitor Module",
+   "category": "MONITORING",
+   "size": {
+    "w": 71.89,
+    "h": 428.78,
+    "d": 165.0
+   },
+   "holes": 28,
+   "knobs": 6,
+   "kind": "layout",
+   "model": "MONITORING.M525-Stereo-Monitor-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.MONITORING.M525-Stereo-Monitor-Module/main/MECHANICAL/M525.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.MONITORING.M525-Stereo-Monitor-Module/main/MECHANICAL/M525%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M207",
+   "repo": "MODULES.POWER.M207-Phantom-Power-Card",
+   "title": "Phantom Power Card",
+   "category": "POWER",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "POWER.M207-Phantom-Power-Card.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.POWER.M207-Phantom-Power-Card/main/MECHANICAL/M207.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.POWER.M207-Phantom-Power-Card/main/MECHANICAL/M207%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M485B",
+   "repo": "MODULES.POWER.M485B-25V-Power-Supply",
+   "title": "25V Power Supply",
+   "category": "POWER",
+   "size": {
+    "w": 340.0,
+    "h": 156.0,
+    "d": 100.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "POWER.M485B-25V-Power-Supply.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.POWER.M485B-25V-Power-Supply/main/MECHANICAL/M485B.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.POWER.M485B-25V-Power-Supply/main/MECHANICAL/M485B%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M454",
+   "repo": "MODULES.ROUTING.M454-Slate-Assign-Module",
+   "title": "Slate Assign Module",
+   "category": "ROUTING",
+   "size": {
+    "w": 136.66,
+    "h": 319.75,
+    "d": 165.0
+   },
+   "holes": 29,
+   "knobs": 2,
+   "kind": "layout",
+   "model": "ROUTING.M454-Slate-Assign-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M454-Slate-Assign-Module/main/MECHANICAL/M454.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M454-Slate-Assign-Module/main/MECHANICAL/M454%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M455",
+   "repo": "MODULES.ROUTING.M455-Auxiliary-Module",
+   "title": "Auxiliary Module",
+   "category": "ROUTING",
+   "size": {
+    "w": 51.6,
+    "h": 195.61,
+    "d": 165.0
+   },
+   "holes": 3,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "ROUTING.M455-Auxiliary-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M455-Auxiliary-Module/main/MECHANICAL/M455.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M455-Auxiliary-Module/main/MECHANICAL/M455%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M456",
+   "repo": "MODULES.ROUTING.M456-Dual-Mixdown-Module",
+   "title": "Dual Mixdown Module",
+   "category": "ROUTING",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "ROUTING.M456-Dual-Mixdown-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M456-Dual-Mixdown-Module/main/MECHANICAL/M456.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M456-Dual-Mixdown-Module/main/MECHANICAL/M456%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M456B",
+   "repo": "MODULES.ROUTING.M456B-Dual-Mixdown-Module",
+   "title": "Dual Mixdown Module",
+   "category": "ROUTING",
+   "size": {
+    "w": 68.44,
+    "h": 425.54,
+    "d": 165.0
+   },
+   "holes": 21,
+   "knobs": 2,
+   "kind": "layout",
+   "model": "ROUTING.M456B-Dual-Mixdown-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M456B-Dual-Mixdown-Module/main/MECHANICAL/M456B.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M456B-Dual-Mixdown-Module/main/MECHANICAL/M456B%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M457",
+   "repo": "MODULES.ROUTING.M457-Pre-Mixer-Module",
+   "title": "Pre Mixer Module",
+   "category": "ROUTING",
+   "size": {
+    "w": 40.93,
+    "h": 154.09,
+    "d": 165.0
+   },
+   "holes": 12,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "ROUTING.M457-Pre-Mixer-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M457-Pre-Mixer-Module/main/MECHANICAL/M457.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M457-Pre-Mixer-Module/main/MECHANICAL/M457%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M457A",
+   "repo": "MODULES.ROUTING.M457A-Pre-Mixer-Master-Module",
+   "title": "Pre Mixer Master Module",
+   "category": "ROUTING",
+   "size": {
+    "w": 55.92,
+    "h": 209.85,
+    "d": 165.0
+   },
+   "holes": 6,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "ROUTING.M457A-Pre-Mixer-Master-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M457A-Pre-Mixer-Master-Module/main/MECHANICAL/M457A.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M457A-Pre-Mixer-Master-Module/main/MECHANICAL/M457A%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M459",
+   "repo": "MODULES.ROUTING.M459-Effects-Switcher-Module",
+   "title": "Effects Switcher Module",
+   "category": "ROUTING",
+   "size": {
+    "w": 52.9,
+    "h": 195.61,
+    "d": 165.0
+   },
+   "holes": 3,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "ROUTING.M459-Effects-Switcher-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M459-Effects-Switcher-Module/main/MECHANICAL/M459.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M459-Effects-Switcher-Module/main/MECHANICAL/M459%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M468",
+   "repo": "MODULES.ROUTING.M468",
+   "title": "M468",
+   "category": "ROUTING",
+   "size": {
+    "w": 81.18,
+    "h": 185.03,
+    "d": 165.0
+   },
+   "holes": 1,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "ROUTING.M468.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M468/main/MECHANICAL/M468.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M468/main/MECHANICAL/M468%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M498",
+   "repo": "MODULES.ROUTING.M498-Stereo-Selector",
+   "title": "Stereo Selector",
+   "category": "ROUTING",
+   "size": {
+    "w": 55.05,
+    "h": 201.87,
+    "d": 165.0
+   },
+   "holes": 4,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "ROUTING.M498-Stereo-Selector.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M498-Stereo-Selector/main/MECHANICAL/M498.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M498-Stereo-Selector/main/MECHANICAL/M498%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M538",
+   "repo": "MODULES.ROUTING.M538",
+   "title": "M538",
+   "category": "ROUTING",
+   "size": {
+    "w": 64.55,
+    "h": 210.5,
+    "d": 165.0
+   },
+   "holes": 9,
+   "knobs": 1,
+   "kind": "layout",
+   "model": "ROUTING.M538.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M538/main/MECHANICAL/M538.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M538/main/MECHANICAL/M538%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M568N",
+   "repo": "MODULES.ROUTING.M568N-Assignment-Module",
+   "title": "Assignment Module",
+   "category": "ROUTING",
+   "size": {
+    "w": 51.38,
+    "h": 200.36,
+    "d": 165.0
+   },
+   "holes": 9,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "ROUTING.M568N-Assignment-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M568N-Assignment-Module/main/MECHANICAL/M568N.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M568N-Assignment-Module/main/MECHANICAL/M568N%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M568P",
+   "repo": "MODULES.ROUTING.M568P",
+   "title": "M568P",
+   "category": "ROUTING",
+   "size": {
+    "w": 56.13,
+    "h": 219.35,
+    "d": 165.0
+   },
+   "holes": 14,
+   "knobs": 1,
+   "kind": "layout",
+   "model": "ROUTING.M568P.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M568P/main/MECHANICAL/M568P.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M568P/main/MECHANICAL/M568P%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M568Q",
+   "repo": "MODULES.ROUTING.M568Q-Stereo-Assignment-Module",
+   "title": "Stereo Assignment Module",
+   "category": "ROUTING",
+   "size": {
+    "w": 51.17,
+    "h": 200.36,
+    "d": 165.0
+   },
+   "holes": 13,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "ROUTING.M568Q-Stereo-Assignment-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M568Q-Stereo-Assignment-Module/main/MECHANICAL/M568Q.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M568Q-Stereo-Assignment-Module/main/MECHANICAL/M568Q%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M568W",
+   "repo": "MODULES.ROUTING.M568W",
+   "title": "M568W",
+   "category": "ROUTING",
+   "size": {
+    "w": 44.91,
+    "h": 280.67,
+    "d": 165.0
+   },
+   "holes": 2,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "ROUTING.M568W.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M568W/main/MECHANICAL/M568W.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.ROUTING.M568W/main/MECHANICAL/M568W%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M463",
+   "repo": "MODULES.SUMMING.M463-Submaster-Module",
+   "title": "Submaster Module",
+   "category": "SUMMING",
+   "size": {
+    "w": 67.36,
+    "h": 419.28,
+    "d": 165.0
+   },
+   "holes": 26,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "SUMMING.M463-Submaster-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M463-Submaster-Module/main/MECHANICAL/M463.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M463-Submaster-Module/main/MECHANICAL/M463%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M463AB",
+   "repo": "MODULES.SUMMING.M463AB-Submaster-Module",
+   "title": "Submaster Module",
+   "category": "SUMMING",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 8,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "SUMMING.M463AB-Submaster-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M463AB-Submaster-Module/main/MECHANICAL/M463AB.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M463AB-Submaster-Module/main/MECHANICAL/M463AB%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M463AC",
+   "repo": "MODULES.SUMMING.M463AC-Master-Module",
+   "title": "Master Module",
+   "category": "SUMMING",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 7,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "SUMMING.M463AC-Master-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M463AC-Master-Module/main/MECHANICAL/M463AC.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M463AC-Master-Module/main/MECHANICAL/M463AC%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M463B",
+   "repo": "MODULES.SUMMING.M463B-Submaster-Module",
+   "title": "Submaster Module",
+   "category": "SUMMING",
+   "size": {
+    "w": 45.34,
+    "h": 278.3,
+    "d": 165.0
+   },
+   "holes": 19,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "SUMMING.M463B-Submaster-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M463B-Submaster-Module/main/MECHANICAL/M463B.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M463B-Submaster-Module/main/MECHANICAL/M463B%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M463J",
+   "repo": "MODULES.SUMMING.M463J-Submaster-Module",
+   "title": "Submaster Module",
+   "category": "SUMMING",
+   "size": {
+    "w": 56.78,
+    "h": 208.34,
+    "d": 165.0
+   },
+   "holes": 13,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "SUMMING.M463J-Submaster-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M463J-Submaster-Module/main/MECHANICAL/M463J.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M463J-Submaster-Module/main/MECHANICAL/M463J%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M463K",
+   "repo": "MODULES.SUMMING.M463K-Submaster-Module",
+   "title": "Submaster Module",
+   "category": "SUMMING",
+   "size": {
+    "w": 41.0,
+    "h": 360.0,
+    "d": 165.0
+   },
+   "holes": 28,
+   "knobs": 1,
+   "kind": "layout",
+   "model": "SUMMING.M463K-Submaster-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M463K-Submaster-Module/main/MECHANICAL/M463K.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M463K-Submaster-Module/main/MECHANICAL/M463K%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M463L",
+   "repo": "MODULES.SUMMING.M463L-Submaster-Module",
+   "title": "Submaster Module",
+   "category": "SUMMING",
+   "size": {
+    "w": 41.0,
+    "h": 360.0,
+    "d": 165.0
+   },
+   "holes": 24,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "SUMMING.M463L-Submaster-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M463L-Submaster-Module/main/MECHANICAL/M463L.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M463L-Submaster-Module/main/MECHANICAL/M463L%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M463LA",
+   "repo": "MODULES.SUMMING.M463LA-Submaster-Module",
+   "title": "Submaster Module",
+   "category": "SUMMING",
+   "size": {
+    "w": 41.0,
+    "h": 360.0,
+    "d": 165.0
+   },
+   "holes": 27,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "SUMMING.M463LA-Submaster-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M463LA-Submaster-Module/main/MECHANICAL/M463LA.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M463LA-Submaster-Module/main/MECHANICAL/M463LA%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M473",
+   "repo": "MODULES.SUMMING.M473-Submaster-Module",
+   "title": "Submaster Module",
+   "category": "SUMMING",
+   "size": {
+    "w": 54.76,
+    "h": 200.96,
+    "d": 165.0
+   },
+   "holes": 12,
+   "knobs": 1,
+   "kind": "layout",
+   "model": "SUMMING.M473-Submaster-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M473-Submaster-Module/main/MECHANICAL/M473.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M473-Submaster-Module/main/MECHANICAL/M473%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M473A",
+   "repo": "MODULES.SUMMING.M473A-Submaster-Module",
+   "title": "Submaster Module",
+   "category": "SUMMING",
+   "size": {
+    "w": 55.49,
+    "h": 207.7,
+    "d": 165.0
+   },
+   "holes": 14,
+   "knobs": 1,
+   "kind": "layout",
+   "model": "SUMMING.M473A-Submaster-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M473A-Submaster-Module/main/MECHANICAL/M473A.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M473A-Submaster-Module/main/MECHANICAL/M473A%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M473B",
+   "repo": "MODULES.SUMMING.M473B-Stereo-Submaster-Module",
+   "title": "Stereo Submaster Module",
+   "category": "SUMMING",
+   "size": {
+    "w": 73.84,
+    "h": 289.31,
+    "d": 165.0
+   },
+   "holes": 4,
+   "knobs": 1,
+   "kind": "layout",
+   "model": "SUMMING.M473B-Stereo-Submaster-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M473B-Stereo-Submaster-Module/main/MECHANICAL/M473B.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M473B-Stereo-Submaster-Module/main/MECHANICAL/M473B%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M477",
+   "repo": "MODULES.SUMMING.M477-Master-Module",
+   "title": "Master Module",
+   "category": "SUMMING",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 3,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "SUMMING.M477-Master-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M477-Master-Module/main/MECHANICAL/M477.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M477-Master-Module/main/MECHANICAL/M477%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M479",
+   "repo": "MODULES.SUMMING.M479-Dual-Auxiliary-Module",
+   "title": "Dual Auxiliary Module",
+   "category": "SUMMING",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 9,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "SUMMING.M479-Dual-Auxiliary-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M479-Dual-Auxiliary-Module/main/MECHANICAL/M479.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M479-Dual-Auxiliary-Module/main/MECHANICAL/M479%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M484",
+   "repo": "MODULES.SUMMING.M484-Dual-Summing-Amplifier",
+   "title": "Dual Summing Amplifier",
+   "category": "SUMMING",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "SUMMING.M484-Dual-Summing-Amplifier.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M484-Dual-Summing-Amplifier/main/MECHANICAL/M484.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M484-Dual-Summing-Amplifier/main/MECHANICAL/M484%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M487",
+   "repo": "MODULES.SUMMING.M487-Dual-Master-Module",
+   "title": "Dual Master Module",
+   "category": "SUMMING",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "SUMMING.M487-Dual-Master-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M487-Dual-Master-Module/main/MECHANICAL/M487.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M487-Dual-Master-Module/main/MECHANICAL/M487%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M497",
+   "repo": "MODULES.SUMMING.M497-Dual-Master-Module",
+   "title": "Dual Master Module",
+   "category": "SUMMING",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "SUMMING.M497-Dual-Master-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M497-Dual-Master-Module/main/MECHANICAL/M497.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M497-Dual-Master-Module/main/MECHANICAL/M497%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M497A",
+   "repo": "MODULES.SUMMING.M497A-Dual-Master-Module",
+   "title": "Dual Master Module",
+   "category": "SUMMING",
+   "size": {
+    "w": 57.21,
+    "h": 207.26,
+    "d": 165.0
+   },
+   "holes": 6,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "SUMMING.M497A-Dual-Master-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M497A-Dual-Master-Module/main/MECHANICAL/M497A.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M497A-Dual-Master-Module/main/MECHANICAL/M497A%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M497B",
+   "repo": "MODULES.SUMMING.M497B-Dual-Master-Module",
+   "title": "Dual Master Module",
+   "category": "SUMMING",
+   "size": {
+    "w": 55.7,
+    "h": 206.62,
+    "d": 165.0
+   },
+   "holes": 6,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "SUMMING.M497B-Dual-Master-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M497B-Dual-Master-Module/main/MECHANICAL/M497B.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M497B-Dual-Master-Module/main/MECHANICAL/M497B%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M497C",
+   "repo": "MODULES.SUMMING.M497C-Dual-Master-Module",
+   "title": "Dual Master Module",
+   "category": "SUMMING",
+   "size": {
+    "w": 54.19,
+    "h": 211.58,
+    "d": 165.0
+   },
+   "holes": 4,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "SUMMING.M497C-Dual-Master-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M497C-Dual-Master-Module/main/MECHANICAL/M497C.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M497C-Dual-Master-Module/main/MECHANICAL/M497C%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M497D",
+   "repo": "MODULES.SUMMING.M497D-Dual-Master-Module",
+   "title": "Dual Master Module",
+   "category": "SUMMING",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 4,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "SUMMING.M497D-Dual-Master-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M497D-Dual-Master-Module/main/MECHANICAL/M497D.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M497D-Dual-Master-Module/main/MECHANICAL/M497D%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M523",
+   "repo": "MODULES.SUMMING.M523-Stereo-Submaster-Module",
+   "title": "Stereo Submaster Module",
+   "category": "SUMMING",
+   "size": {
+    "w": 41.0,
+    "h": 360.0,
+    "d": 165.0
+   },
+   "holes": 17,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "SUMMING.M523-Stereo-Submaster-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M523-Stereo-Submaster-Module/main/MECHANICAL/M523.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M523-Stereo-Submaster-Module/main/MECHANICAL/M523%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M527",
+   "repo": "MODULES.SUMMING.M527-Master-Module",
+   "title": "Master Module",
+   "category": "SUMMING",
+   "size": {
+    "w": 66.71,
+    "h": 412.58,
+    "d": 165.0
+   },
+   "holes": 2,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "SUMMING.M527-Master-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M527-Master-Module/main/MECHANICAL/M527.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M527-Master-Module/main/MECHANICAL/M527%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M528",
+   "repo": "MODULES.SUMMING.M528-Dual-Auxiliary-Module",
+   "title": "Dual Auxiliary Module",
+   "category": "SUMMING",
+   "size": {
+    "w": 76.21,
+    "h": 284.99,
+    "d": 165.0
+   },
+   "holes": 2,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "SUMMING.M528-Dual-Auxiliary-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M528-Dual-Auxiliary-Module/main/MECHANICAL/M528.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.SUMMING.M528-Dual-Auxiliary-Module/main/MECHANICAL/M528%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M101",
+   "repo": "MODULES.UNSORTED.M101-Modular-Frame-Hardware",
+   "title": "Modular Frame Hardware",
+   "category": "UNSORTED",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "UNSORTED.M101-Modular-Frame-Hardware.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M101-Modular-Frame-Hardware/main/MECHANICAL/M101.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M101-Modular-Frame-Hardware/main/MECHANICAL/M101%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M107",
+   "repo": "MODULES.UNSORTED.M107-Module-Base",
+   "title": "Module Base",
+   "category": "UNSORTED",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "UNSORTED.M107-Module-Base.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M107-Module-Base/main/MECHANICAL/M107.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M107-Module-Base/main/MECHANICAL/M107%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M208",
+   "repo": "MODULES.UNSORTED.M208-Attenuator-Block",
+   "title": "Attenuator Block",
+   "category": "UNSORTED",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "UNSORTED.M208-Attenuator-Block.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M208-Attenuator-Block/main/MECHANICAL/M208.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M208-Attenuator-Block/main/MECHANICAL/M208%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M400",
+   "repo": "MODULES.UNSORTED.M400-Test-Jig",
+   "title": "Test Jig",
+   "category": "UNSORTED",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "UNSORTED.M400-Test-Jig.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M400-Test-Jig/main/MECHANICAL/M400.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M400-Test-Jig/main/MECHANICAL/M400%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M414",
+   "repo": "MODULES.UNSORTED.M414-6-Watt-Utility-Amplifier",
+   "title": "6 Watt Utility Amplifier",
+   "category": "UNSORTED",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "UNSORTED.M414-6-Watt-Utility-Amplifier.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M414-6-Watt-Utility-Amplifier/main/MECHANICAL/M414.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M414-6-Watt-Utility-Amplifier/main/MECHANICAL/M414%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M416",
+   "repo": "MODULES.UNSORTED.M416-Cue-Amplifier",
+   "title": "Cue Amplifier",
+   "category": "UNSORTED",
+   "size": {
+    "w": 54.19,
+    "h": 226.26,
+    "d": 165.0
+   },
+   "holes": 1,
+   "knobs": 1,
+   "kind": "traced",
+   "model": "UNSORTED.M416-Cue-Amplifier.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M416-Cue-Amplifier/main/MECHANICAL/M416.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M416-Cue-Amplifier/main/MECHANICAL/M416%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M420",
+   "repo": "MODULES.UNSORTED.M420-Reverb-Return",
+   "title": "Reverb Return",
+   "category": "UNSORTED",
+   "size": {
+    "w": 50.52,
+    "h": 223.46,
+    "d": 165.0
+   },
+   "holes": 5,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "UNSORTED.M420-Reverb-Return.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M420-Reverb-Return/main/MECHANICAL/M420.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M420-Reverb-Return/main/MECHANICAL/M420%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M421",
+   "repo": "MODULES.UNSORTED.M421",
+   "title": "M421",
+   "category": "UNSORTED",
+   "size": {
+    "w": 51.82,
+    "h": 259.08,
+    "d": 165.0
+   },
+   "holes": 1,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "UNSORTED.M421.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M421/main/MECHANICAL/M421.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M421/main/MECHANICAL/M421%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M422",
+   "repo": "MODULES.UNSORTED.M422",
+   "title": "M422",
+   "category": "UNSORTED",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "UNSORTED.M422.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M422/main/MECHANICAL/M422.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M422/main/MECHANICAL/M422%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M424",
+   "repo": "MODULES.UNSORTED.M424-Jackfield",
+   "title": "Jackfield",
+   "category": "UNSORTED",
+   "size": {
+    "w": 71.68,
+    "h": 174.23,
+    "d": 165.0
+   },
+   "holes": 3,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "UNSORTED.M424-Jackfield.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M424-Jackfield/main/MECHANICAL/M424.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M424-Jackfield/main/MECHANICAL/M424%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M469",
+   "repo": "MODULES.UNSORTED.M469-Assignment-Module",
+   "title": "Assignment Module",
+   "category": "UNSORTED",
+   "size": {
+    "w": 51.38,
+    "h": 226.7,
+    "d": 165.0
+   },
+   "holes": 2,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "UNSORTED.M469-Assignment-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M469-Assignment-Module/main/MECHANICAL/M469.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M469-Assignment-Module/main/MECHANICAL/M469%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M485",
+   "repo": "MODULES.UNSORTED.M485-25V-Power-Supply",
+   "title": "25V Power Supply",
+   "category": "UNSORTED",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "UNSORTED.M485-25V-Power-Supply.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M485-25V-Power-Supply/main/MECHANICAL/M485.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M485-25V-Power-Supply/main/MECHANICAL/M485%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M568",
+   "repo": "MODULES.UNSORTED.M568-Assignment-Module",
+   "title": "Assignment Module",
+   "category": "UNSORTED",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "UNSORTED.M568-Assignment-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M568-Assignment-Module/main/MECHANICAL/M568.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M568-Assignment-Module/main/MECHANICAL/M568%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M745",
+   "repo": "MODULES.UNSORTED.M745-5V-Regulator",
+   "title": "5V Regulator",
+   "category": "UNSORTED",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "UNSORTED.M745-5V-Regulator.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M745-5V-Regulator/main/MECHANICAL/M745.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M745-5V-Regulator/main/MECHANICAL/M745%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M773",
+   "repo": "MODULES.UNSORTED.M773-Intercom-Module",
+   "title": "Intercom Module",
+   "category": "UNSORTED",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "UNSORTED.M773-Intercom-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M773-Intercom-Module/main/MECHANICAL/M773.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M773-Intercom-Module/main/MECHANICAL/M773%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M774",
+   "repo": "MODULES.UNSORTED.M774",
+   "title": "M774",
+   "category": "UNSORTED",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "UNSORTED.M774.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M774/main/MECHANICAL/M774.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M774/main/MECHANICAL/M774%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M777",
+   "repo": "MODULES.UNSORTED.M777-Status-Monitor-Module",
+   "title": "Status Monitor Module",
+   "category": "UNSORTED",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "UNSORTED.M777-Status-Monitor-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M777-Status-Monitor-Module/main/MECHANICAL/M777.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M777-Status-Monitor-Module/main/MECHANICAL/M777%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M780",
+   "repo": "MODULES.UNSORTED.M780-Power-Supply",
+   "title": "Power Supply",
+   "category": "UNSORTED",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "UNSORTED.M780-Power-Supply.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M780-Power-Supply/main/MECHANICAL/M780.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M780-Power-Supply/main/MECHANICAL/M780%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M7820",
+   "repo": "MODULES.UNSORTED.M7820-Secondary-Terminal",
+   "title": "Secondary Terminal",
+   "category": "UNSORTED",
+   "size": {
+    "w": 41.0,
+    "h": 208.62,
+    "d": 165.0
+   },
+   "holes": 16,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "UNSORTED.M7820-Secondary-Terminal.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M7820-Secondary-Terminal/main/MECHANICAL/M7820.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M7820-Secondary-Terminal/main/MECHANICAL/M7820%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M845",
+   "repo": "MODULES.UNSORTED.M845-5-Volt-Regulator",
+   "title": "5 Volt Regulator",
+   "category": "UNSORTED",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "UNSORTED.M845-5-Volt-Regulator.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M845-5-Volt-Regulator/main/MECHANICAL/M845.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M845-5-Volt-Regulator/main/MECHANICAL/M845%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M900",
+   "repo": "MODULES.UNSORTED.M900-MK-Series-Hardware",
+   "title": "MK Series Hardware",
+   "category": "UNSORTED",
+   "size": {
+    "w": 139.04,
+    "h": 374.37,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "UNSORTED.M900-MK-Series-Hardware.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M900-MK-Series-Hardware/main/MECHANICAL/M900.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M900-MK-Series-Hardware/main/MECHANICAL/M900%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M901",
+   "repo": "MODULES.UNSORTED.M901-Input-Module",
+   "title": "Input Module",
+   "category": "UNSORTED",
+   "size": {
+    "w": 38.0,
+    "h": 410.0,
+    "d": 168.0
+   },
+   "holes": 13,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "UNSORTED.M901-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M901-Input-Module/main/MECHANICAL/M901.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M901-Input-Module/main/MECHANICAL/M901%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M901A",
+   "repo": "MODULES.UNSORTED.M901A-Universal-Input-Module",
+   "title": "Universal Input Module",
+   "category": "UNSORTED",
+   "size": {
+    "w": 60.45,
+    "h": 426.62,
+    "d": 165.0
+   },
+   "holes": 17,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "UNSORTED.M901A-Universal-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M901A-Universal-Input-Module/main/MECHANICAL/M901A.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M901A-Universal-Input-Module/main/MECHANICAL/M901A%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M901B",
+   "repo": "MODULES.UNSORTED.M901B-Mic-Input-Module",
+   "title": "Mic Input Module",
+   "category": "UNSORTED",
+   "size": {
+    "w": 38.0,
+    "h": 410.0,
+    "d": 168.0
+   },
+   "holes": 22,
+   "knobs": 1,
+   "kind": "layout",
+   "model": "UNSORTED.M901B-Mic-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M901B-Mic-Input-Module/main/MECHANICAL/M901B.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M901B-Mic-Input-Module/main/MECHANICAL/M901B%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M901BY",
+   "repo": "MODULES.UNSORTED.M901BY-Custom-Input-Module",
+   "title": "Custom Input Module",
+   "category": "UNSORTED",
+   "size": {
+    "w": 41.0,
+    "h": 396.61,
+    "d": 165.0
+   },
+   "holes": 15,
+   "knobs": 0,
+   "kind": "drawing",
+   "model": "UNSORTED.M901BY-Custom-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M901BY-Custom-Input-Module/main/MECHANICAL/M901BY.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M901BY-Custom-Input-Module/main/MECHANICAL/M901BY%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M901C",
+   "repo": "MODULES.UNSORTED.M901C-Line-Input-Module",
+   "title": "Line Input Module",
+   "category": "UNSORTED",
+   "size": {
+    "w": 38.0,
+    "h": 410.0,
+    "d": 168.0
+   },
+   "holes": 21,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "UNSORTED.M901C-Line-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M901C-Line-Input-Module/main/MECHANICAL/M901C.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M901C-Line-Input-Module/main/MECHANICAL/M901C%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M901CY",
+   "repo": "MODULES.UNSORTED.M901CY-Custom-Input-Module",
+   "title": "Custom Input Module",
+   "category": "UNSORTED",
+   "size": {
+    "w": 41.0,
+    "h": 404.7,
+    "d": 165.0
+   },
+   "holes": 16,
+   "knobs": 0,
+   "kind": "drawing",
+   "model": "UNSORTED.M901CY-Custom-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M901CY-Custom-Input-Module/main/MECHANICAL/M901CY.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M901CY-Custom-Input-Module/main/MECHANICAL/M901CY%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M901D",
+   "repo": "MODULES.UNSORTED.M901D-Input-Module",
+   "title": "Input Module",
+   "category": "UNSORTED",
+   "size": {
+    "w": 41.0,
+    "h": 450.12,
+    "d": 165.0
+   },
+   "holes": 12,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "UNSORTED.M901D-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M901D-Input-Module/main/MECHANICAL/M901D.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M901D-Input-Module/main/MECHANICAL/M901D%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M901NW",
+   "repo": "MODULES.UNSORTED.M901NW-Input-Module",
+   "title": "Input Module",
+   "category": "UNSORTED",
+   "size": {
+    "w": 38.0,
+    "h": 410.0,
+    "d": 168.0
+   },
+   "holes": 21,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "UNSORTED.M901NW-Input-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M901NW-Input-Module/main/MECHANICAL/M901NW.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M901NW-Input-Module/main/MECHANICAL/M901NW%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M905A",
+   "repo": "MODULES.UNSORTED.M905A-Control-Room-Monitor-Module",
+   "title": "Control Room Monitor Module",
+   "category": "UNSORTED",
+   "size": {
+    "w": 57.86,
+    "h": 430.94,
+    "d": 165.0
+   },
+   "holes": 21,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "UNSORTED.M905A-Control-Room-Monitor-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M905A-Control-Room-Monitor-Module/main/MECHANICAL/M905A.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M905A-Control-Room-Monitor-Module/main/MECHANICAL/M905A%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M905B",
+   "repo": "MODULES.UNSORTED.M905B-Studio-Monitor-Module",
+   "title": "Studio Monitor Module",
+   "category": "UNSORTED",
+   "size": {
+    "w": 38.0,
+    "h": 410.0,
+    "d": 168.0
+   },
+   "holes": 15,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "UNSORTED.M905B-Studio-Monitor-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M905B-Studio-Monitor-Module/main/MECHANICAL/M905B.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M905B-Studio-Monitor-Module/main/MECHANICAL/M905B%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M907",
+   "repo": "MODULES.UNSORTED.M907-Master-Module",
+   "title": "Master Module",
+   "category": "UNSORTED",
+   "size": {
+    "w": 38.0,
+    "h": 410.0,
+    "d": 168.0
+   },
+   "holes": 10,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "UNSORTED.M907-Master-Module.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M907-Master-Module/main/MECHANICAL/M907.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M907-Master-Module/main/MECHANICAL/M907%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M908",
+   "repo": "MODULES.UNSORTED.M908-Dual-Stereo-Line-Selector",
+   "title": "Dual Stereo Line Selector",
+   "category": "UNSORTED",
+   "size": {
+    "w": 41.0,
+    "h": 425.58,
+    "d": 165.0
+   },
+   "holes": 22,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "UNSORTED.M908-Dual-Stereo-Line-Selector.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M908-Dual-Stereo-Line-Selector/main/MECHANICAL/M908.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M908-Dual-Stereo-Line-Selector/main/MECHANICAL/M908%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M909",
+   "repo": "MODULES.UNSORTED.M909-Custom-Meter",
+   "title": "Custom Meter",
+   "category": "UNSORTED",
+   "size": {
+    "w": 38.0,
+    "h": 410.0,
+    "d": 168.0
+   },
+   "holes": 14,
+   "knobs": 0,
+   "kind": "layout",
+   "model": "UNSORTED.M909-Custom-Meter.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M909-Custom-Meter/main/MECHANICAL/M909.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M909-Custom-Meter/main/MECHANICAL/M909%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M920",
+   "repo": "MODULES.UNSORTED.M920",
+   "title": "M920",
+   "category": "UNSORTED",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "UNSORTED.M920.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M920/main/MECHANICAL/M920.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M920/main/MECHANICAL/M920%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M921",
+   "repo": "MODULES.UNSORTED.M921",
+   "title": "M921",
+   "category": "UNSORTED",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "UNSORTED.M921.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M921/main/MECHANICAL/M921.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M921/main/MECHANICAL/M921%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M923",
+   "repo": "MODULES.UNSORTED.M923",
+   "title": "M923",
+   "category": "UNSORTED",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "UNSORTED.M923.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M923/main/MECHANICAL/M923.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M923/main/MECHANICAL/M923%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M924",
+   "repo": "MODULES.UNSORTED.M924-Power-Supply",
+   "title": "Power Supply",
+   "category": "UNSORTED",
+   "size": {
+    "w": 96.72,
+    "h": 446.48,
+    "d": 165.0
+   },
+   "holes": 1,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "UNSORTED.M924-Power-Supply.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M924-Power-Supply/main/MECHANICAL/M924.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M924-Power-Supply/main/MECHANICAL/M924%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M924A",
+   "repo": "MODULES.UNSORTED.M924A-Power-Supply",
+   "title": "Power Supply",
+   "category": "UNSORTED",
+   "size": {
+    "w": 41.0,
+    "h": 189.26,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "traced",
+   "model": "UNSORTED.M924A-Power-Supply.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M924A-Power-Supply/main/MECHANICAL/M924A.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M924A-Power-Supply/main/MECHANICAL/M924A%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M926",
+   "repo": "MODULES.UNSORTED.M926",
+   "title": "M926",
+   "category": "UNSORTED",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "UNSORTED.M926.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M926/main/MECHANICAL/M926.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M926/main/MECHANICAL/M926%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M927",
+   "repo": "MODULES.UNSORTED.M927",
+   "title": "M927",
+   "category": "UNSORTED",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "UNSORTED.M927.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M927/main/MECHANICAL/M927.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M927/main/MECHANICAL/M927%20-%20front%20panel.svg"
+  },
+  {
+   "module": "M999",
+   "repo": "MODULES.UNSORTED.M999-Custom-Subpanel",
+   "title": "Custom Subpanel",
+   "category": "UNSORTED",
+   "size": {
+    "w": 41.0,
+    "h": 178.0,
+    "d": 165.0
+   },
+   "holes": 0,
+   "knobs": 0,
+   "kind": "none",
+   "model": "UNSORTED.M999-Custom-Subpanel.json",
+   "stl": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M999-Custom-Subpanel/main/MECHANICAL/M999.stl",
+   "panel": "https://raw.githubusercontent.com/WardBeckSystems/MODULES.UNSORTED.M999-Custom-Subpanel/main/MECHANICAL/M999%20-%20front%20panel.svg"
+  }
+ ]
+}

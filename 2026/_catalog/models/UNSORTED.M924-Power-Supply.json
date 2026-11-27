@@ -1,0 +1,38 @@
+{
+ "format": "wbs-model/1",
+ "module": "M924",
+ "repo": "MODULES.UNSORTED.M924-Power-Supply",
+ "title": "Power Supply",
+ "category": "UNSORTED",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 96.72,
+  "h": 446.48,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M924 - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 53.81,
+   "y": 262.17,
+   "r": 4.94
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/19xx - 924-03-001 - M924A M924D POWER SUPPLY FRONT PANEL - DRN DRG - ISS 1 (traced).json",
+  "MECHANICAL/19xx - 924-03-003 - M924A POWER SUPPLY COVER - ISS 1 (traced).json",
+  "MECHANICAL/19xx - 924-03-004 - HEATSINK ANGLE - ISS 2 (traced).json",
+  "MECHANICAL/19xx - M924 - DOC - 924-03-003 - NQIES REVOVE ALL BURRS AND SHARP EDGES TOL (traced).json",
+  "MECHANICAL/19xx - M924 - M924B POWER SUPPLY FRONT PANEL (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M924.stl"
+}

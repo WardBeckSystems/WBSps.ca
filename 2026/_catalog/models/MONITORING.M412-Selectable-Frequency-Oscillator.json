@@ -1,0 +1,32 @@
+{
+ "format": "wbs-model/1",
+ "module": "M412",
+ "repo": "MODULES.MONITORING.M412-Selectable-Frequency-Oscillator",
+ "title": "Selectable Frequency Oscillator",
+ "category": "MONITORING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 40.13,
+  "h": 168.27,
+  "d": 152.4
+ },
+ "size_from": "TECHNICAL DATA: 1.58W X 6.625L X 6D inches below panel",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M412 - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1969 - 412-03-002 - SWITCH MTG. PLATE - ISS 4 (traced).json",
+  "MECHANICAL/1970 - 412-04-001 - OSCILLATOR OUTLINE DRAWING - ISS 1 (traced).json",
+  "MECHANICAL/1972 - 412-03-003 - ESCUTCHEON (M412 A) - DRN DPS - ISS 3 (traced).json",
+  "MECHANICAL/1972 - 412-03-004 - SWITCH MTG PLATE (M412A) - DRN DPS - ISS 1 (traced).json",
+  "MECHANICAL/19xx - 412-03-001 - ESCUTCHEON - ISS 8 (traced).json",
+  "MECHANICAL/19xx - M412 - DOC - STEREO L SERIES - P009 - B77012-04-011 L (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M412.stl"
+}

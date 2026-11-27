@@ -1,0 +1,128 @@
+{
+ "format": "wbs-model/1",
+ "module": "M466",
+ "repo": "MODULES.DYNAMICS.M466-Limiter-Compressor-Module",
+ "title": "Limiter Compressor Module",
+ "category": "DYNAMICS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 57.0,
+  "h": 213.31,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M466 - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 11.33,
+   "y": 28.41,
+   "r": 5.12
+  },
+  {
+   "shape": "circle",
+   "x": 10.87,
+   "y": 99.51,
+   "r": 4.66
+  },
+  {
+   "shape": "circle",
+   "x": 10.79,
+   "y": 115.58,
+   "r": 4.58
+  },
+  {
+   "shape": "circle",
+   "x": 10.94,
+   "y": 192.58,
+   "r": 3.42
+  },
+  {
+   "shape": "circle",
+   "x": 10.87,
+   "y": 181.17,
+   "r": 3.34
+  },
+  {
+   "shape": "circle",
+   "x": 34.0,
+   "y": 51.93,
+   "r": 3.22
+  },
+  {
+   "shape": "circle",
+   "x": 11.64,
+   "y": 73.35,
+   "r": 3.22
+  },
+  {
+   "shape": "circle",
+   "x": 34.08,
+   "y": 144.69,
+   "r": 3.22
+  },
+  {
+   "shape": "circle",
+   "x": 33.77,
+   "y": 85.85,
+   "r": 3.14
+  },
+  {
+   "shape": "circle",
+   "x": 33.53,
+   "y": 181.17,
+   "r": 3.1
+  },
+  {
+   "shape": "circle",
+   "x": 11.95,
+   "y": 165.11,
+   "r": 3.07
+  },
+  {
+   "shape": "circle",
+   "x": 33.77,
+   "y": 115.04,
+   "r": 2.83
+  },
+  {
+   "shape": "circle",
+   "x": 11.18,
+   "y": 56.82,
+   "r": 2.64
+  },
+  {
+   "shape": "circle",
+   "x": 10.94,
+   "y": 146.24,
+   "r": 2.6
+  },
+  {
+   "shape": "circle",
+   "x": 22.51,
+   "y": 6.05,
+   "r": 2.25
+  },
+  {
+   "shape": "circle",
+   "x": 22.59,
+   "y": 207.8,
+   "r": 2.25
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1976 - M466 - P45 - Front Panel (traced).json",
+  "MECHANICAL/19xx - M466 - DOC - 466-03-007 - EQUIV ALICN SCEEN WITU COVER USING CIPCLES ETTERING (traced).json",
+  "MECHANICAL/19xx - M466 - DOC - 466-04-002 - ARE SAD LED NER ENE AKN INSERT SWITCN (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.21 wide to high, the size 0.27: placed by its height"
+ ],
+ "stl": "MECHANICAL/M466.stl"
+}

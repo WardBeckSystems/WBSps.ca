@@ -1,0 +1,30 @@
+{
+ "format": "wbs-model/1",
+ "module": "M718",
+ "repo": "MODULES.COMMUNICATION.M718-Talkback-Address-Module",
+ "title": "Talkback Address Module",
+ "category": "COMMUNICATION",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 17.78,
+  "h": 111.76,
+  "d": 279.4
+ },
+ "size_from": "TECHNICAL DATA: 0.7\" wide x 4.40\" high x 11\" deep.",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M718 - front panel.svg",
+  "kind": "none"
+ },
+ "body": "card",
+ "holes": [],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1994 - M718 - DOC - 940444-03-004 - CARD TUBS NOTE REVOVE ALL BURRS AND SHARP (traced).json",
+  "MECHANICAL/1994 - M718 - DOC - 940444-04-004 - HYBRID UTL UTL HYBRID HYBRID CUTPUTS CORD REAR (traced).json"
+ ],
+ "notes": [
+  "no drawing of the front panel: the panel is blank"
+ ],
+ "stl": "MECHANICAL/M718.stl"
+}

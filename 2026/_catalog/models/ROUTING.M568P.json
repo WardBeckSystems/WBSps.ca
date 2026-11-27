@@ -1,0 +1,126 @@
+{
+ "format": "wbs-model/1",
+ "module": "M568P",
+ "repo": "MODULES.ROUTING.M568P",
+ "title": "M568P",
+ "category": "ROUTING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 56.13,
+  "h": 219.35,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M568P - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 35.32,
+   "y": 46.99,
+   "w": 11.9,
+   "h": 50.7
+  },
+  {
+   "shape": "rect",
+   "x": 13.37,
+   "y": 34.47,
+   "w": 11.59,
+   "h": 25.66
+  },
+  {
+   "shape": "rect",
+   "x": 12.21,
+   "y": 156.59,
+   "w": 9.89,
+   "h": 11.75
+  },
+  {
+   "shape": "circle",
+   "x": 34.55,
+   "y": 181.87,
+   "r": 6.03
+  },
+  {
+   "shape": "circle",
+   "x": 13.06,
+   "y": 81.23,
+   "r": 5.41
+  },
+  {
+   "shape": "circle",
+   "x": 12.6,
+   "y": 144.07,
+   "r": 5.37
+  },
+  {
+   "shape": "rect",
+   "x": 12.21,
+   "y": 175.07,
+   "w": 8.04,
+   "h": 9.43
+  },
+  {
+   "shape": "rect",
+   "x": 12.75,
+   "y": 93.76,
+   "w": 7.88,
+   "h": 9.43
+  },
+  {
+   "shape": "rect",
+   "x": 12.75,
+   "y": 112.15,
+   "w": 7.57,
+   "h": 9.43
+  },
+  {
+   "shape": "circle",
+   "x": 35.48,
+   "y": 87.65,
+   "r": 4.68
+  },
+  {
+   "shape": "circle",
+   "x": 35.01,
+   "y": 150.41,
+   "r": 4.68
+  },
+  {
+   "shape": "circle",
+   "x": 35.17,
+   "y": 118.57,
+   "r": 4.6
+  },
+  {
+   "shape": "circle",
+   "x": 24.58,
+   "y": 6.42,
+   "r": 3.67
+  },
+  {
+   "shape": "circle",
+   "x": 23.11,
+   "y": 213.94,
+   "r": 3.59
+  }
+ ],
+ "knobs": [
+  {
+   "x": 34.55,
+   "y": 181.87,
+   "r": 6.8
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/19xx - M568P - 568-04-014 - MONO ASSIGNMENT MODULE LAYOUT (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.22 wide to high, the size 0.26: placed by its height"
+ ],
+ "stl": "MECHANICAL/M568P.stl"
+}

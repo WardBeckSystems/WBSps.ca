@@ -1,0 +1,111 @@
+{
+ "format": "wbs-model/1",
+ "module": "M465",
+ "repo": "MODULES.DYNAMICS.M465-Reverb-Module",
+ "title": "Reverb Module",
+ "category": "DYNAMICS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 51.73,
+  "h": 195.33,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M465 - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 12.8,
+   "y": 112.32,
+   "w": 18.54,
+   "h": 5.55
+  },
+  {
+   "shape": "rect",
+   "x": 11.92,
+   "y": 174.97,
+   "w": 18.54,
+   "h": 5.55
+  },
+  {
+   "shape": "circle",
+   "x": 38.4,
+   "y": 50.68,
+   "r": 5.17
+  },
+  {
+   "shape": "circle",
+   "x": 15.45,
+   "y": 50.14,
+   "r": 4.84
+  },
+  {
+   "shape": "circle",
+   "x": 15.89,
+   "y": 29.62,
+   "r": 4.8
+  },
+  {
+   "shape": "circle",
+   "x": 38.75,
+   "y": 30.16,
+   "r": 4.75
+  },
+  {
+   "shape": "circle",
+   "x": 15.18,
+   "y": 72.9,
+   "r": 4.42
+  },
+  {
+   "shape": "circle",
+   "x": 37.52,
+   "y": 73.21,
+   "r": 3.31
+  },
+  {
+   "shape": "circle",
+   "x": 37.87,
+   "y": 89.64,
+   "r": 2.94
+  },
+  {
+   "shape": "circle",
+   "x": 27.19,
+   "y": 5.4,
+   "r": 1.99
+  },
+  {
+   "shape": "circle",
+   "x": 24.27,
+   "y": 189.7,
+   "r": 1.9
+  }
+ ],
+ "knobs": [
+  {
+   "x": 38.75,
+   "y": 30.16,
+   "r": 9.18
+  },
+  {
+   "x": 38.4,
+   "y": 50.68,
+   "r": 8.6
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/1974 - 465-03-001 - M455 & M465 EXTRUSION - DRN DM - ISS 9 (traced).json",
+  "MECHANICAL/1974 - M465 - 461-03-015 - MOUNTED OVER PIN ILSS (traced).json",
+  "MECHANICAL/1974 - M465 - 465-04-004 - REVERB MODULE FRONT PANEL (traced).json",
+  "MECHANICAL/1974 - M465 - 465-04-004 - SOLO OUTPUT BUS NOTE THAT THE (traced).json",
+  "MECHANICAL/19xx - M465 - DOC - 465-03-002 - UNC NOIE (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M465.stl"
+}

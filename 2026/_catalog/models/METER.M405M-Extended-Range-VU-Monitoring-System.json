@@ -1,0 +1,68 @@
+{
+ "format": "wbs-model/1",
+ "module": "M405M",
+ "repo": "MODULES.METER.M405M-Extended-Range-VU-Monitoring-System",
+ "title": "Extended Range VU Monitoring System",
+ "category": "METER",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 482.09,
+  "h": 88.14,
+  "d": 165.0
+ },
+ "size_from": "the AutoCAD drawing (hundredths of an inch: a 19\" rack panel)",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M405M - front panel.svg",
+  "kind": "cad"
+ },
+ "body": "chassis",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 130.27,
+   "y": 44.45,
+   "w": 127.6,
+   "h": 78.72
+  },
+  {
+   "shape": "rect",
+   "x": 263.77,
+   "y": 61.13,
+   "w": 99.3,
+   "h": 13.89
+  },
+  {
+   "shape": "rect",
+   "x": 263.77,
+   "y": 44.3,
+   "w": 99.3,
+   "h": 9.88
+  },
+  {
+   "shape": "rect",
+   "x": 24.1,
+   "y": 44.22,
+   "w": 14.55,
+   "h": 38.13
+  },
+  {
+   "shape": "rect",
+   "x": 41.81,
+   "y": 44.22,
+   "w": 10.51,
+   "h": 38.13
+  },
+  {
+   "shape": "rect",
+   "x": 31.78,
+   "y": 16.52,
+   "w": 30.24,
+   "h": 8.64
+  }
+ ],
+ "knobs": [],
+ "drawings": [],
+ "notes": [],
+ "stl": "MECHANICAL/M405M.stl"
+}

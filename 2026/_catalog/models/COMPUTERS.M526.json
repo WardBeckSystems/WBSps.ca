@@ -1,0 +1,30 @@
+{
+ "format": "wbs-model/1",
+ "module": "M526",
+ "repo": "MODULES.COMPUTERS.M526",
+ "title": "M526",
+ "category": "COMPUTERS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 178.0,
+  "d": 165.0
+ },
+ "size_from": "assumed: 1.6\" x 7\" x 6.5\", the common module",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M526 - front panel.svg",
+  "kind": "photo"
+ },
+ "body": "card",
+ "holes": [],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1987 - 526-03-006 - Front Panel Display Screens - DRN BD - ENG MRW - ISS 1 (traced).json",
+  "MECHANICAL/19xx - M526 - DOC - 526-03-006 - MATTE SIDE USE POSITIVE (traced).json"
+ ],
+ "notes": [
+  "no drawing of the front panel: the panel is blank"
+ ],
+ "stl": "MECHANICAL/M526.stl"
+}

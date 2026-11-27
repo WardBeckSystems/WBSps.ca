@@ -1,0 +1,82 @@
+{
+ "format": "wbs-model/1",
+ "module": "M462A",
+ "repo": "MODULES.FILTERS.M462A-Equalizer-Module",
+ "title": "Equalizer Module",
+ "category": "FILTERS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 41.0,
+  "h": 178.0,
+  "d": 165.0
+ },
+ "size_from": "TECHNICAL DATA: 1.6\" wide X 7\" high X 6.5\" deep_ (41 mm X 178 mm X 165 mm)",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M462A - front panel.svg",
+  "kind": "traced"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "circle",
+   "x": 30.59,
+   "y": 36.24,
+   "r": 4.65
+  },
+  {
+   "shape": "circle",
+   "x": 30.59,
+   "y": 83.96,
+   "r": 4.61
+  },
+  {
+   "shape": "circle",
+   "x": 10.25,
+   "y": 154.33,
+   "r": 4.49
+  },
+  {
+   "shape": "circle",
+   "x": 29.94,
+   "y": 131.75,
+   "r": 4.29
+  },
+  {
+   "shape": "circle",
+   "x": 10.66,
+   "y": 22.73,
+   "r": 3.89
+  },
+  {
+   "shape": "circle",
+   "x": 10.49,
+   "y": 107.23,
+   "r": 2.58
+  },
+  {
+   "shape": "circle",
+   "x": 30.75,
+   "y": 22.66,
+   "r": 2.23
+  },
+  {
+   "shape": "circle",
+   "x": 20.01,
+   "y": 173.19,
+   "r": 1.75
+  },
+  {
+   "shape": "circle",
+   "x": 20.91,
+   "y": 4.81,
+   "r": 1.71
+  }
+ ],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/19xx - M462A - DOC - 462-04-006 - EQUALIZER MODULE FRONT PANEL ISSU (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M462A.stl"
+}

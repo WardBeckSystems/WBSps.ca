@@ -1,0 +1,110 @@
+{
+ "format": "wbs-model/1",
+ "module": "M473",
+ "repo": "MODULES.SUMMING.M473-Submaster-Module",
+ "title": "Submaster Module",
+ "category": "SUMMING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 54.76,
+  "h": 200.96,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M473 - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 32.85,
+   "y": 169.9,
+   "w": 8.23,
+   "h": 18.02
+  },
+  {
+   "shape": "rect",
+   "x": 12.66,
+   "y": 169.75,
+   "w": 8.23,
+   "h": 17.7
+  },
+  {
+   "shape": "circle",
+   "x": 33.0,
+   "y": 74.47,
+   "r": 5.2
+  },
+  {
+   "shape": "circle",
+   "x": 33.0,
+   "y": 118.26,
+   "r": 5.2
+  },
+  {
+   "shape": "circle",
+   "x": 12.35,
+   "y": 30.75,
+   "r": 4.78
+  },
+  {
+   "shape": "circle",
+   "x": 32.3,
+   "y": 30.75,
+   "r": 4.43
+  },
+  {
+   "shape": "circle",
+   "x": 12.35,
+   "y": 63.44,
+   "r": 4.43
+  },
+  {
+   "shape": "circle",
+   "x": 12.35,
+   "y": 129.6,
+   "r": 4.43
+  },
+  {
+   "shape": "circle",
+   "x": 12.42,
+   "y": 85.88,
+   "r": 4.35
+  },
+  {
+   "shape": "circle",
+   "x": 12.42,
+   "y": 107.08,
+   "r": 4.31
+  },
+  {
+   "shape": "circle",
+   "x": 22.83,
+   "y": 195.37,
+   "r": 2.1
+  },
+  {
+   "shape": "circle",
+   "x": 22.29,
+   "y": 5.2,
+   "r": 1.94
+  }
+ ],
+ "knobs": [
+  {
+   "x": 32.3,
+   "y": 30.75,
+   "r": 9.4
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/1984 - M473 - 473-04-004 - HEN DEPRESSED FEEDS GNA (traced).json"
+ ],
+ "notes": [
+  "the drawn panel is 0.22 wide to high, the size 0.27: placed by its height"
+ ],
+ "stl": "MECHANICAL/M473.stl"
+}

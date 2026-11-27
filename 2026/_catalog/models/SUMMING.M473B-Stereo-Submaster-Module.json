@@ -1,0 +1,61 @@
+{
+ "format": "wbs-model/1",
+ "module": "M473B",
+ "repo": "MODULES.SUMMING.M473B-Stereo-Submaster-Module",
+ "title": "Stereo Submaster Module",
+ "category": "SUMMING",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 73.84,
+  "h": 289.31,
+  "d": 165.0
+ },
+ "size_from": "the drawing sheet, taken as drawn 1:1",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M473B - front panel.svg",
+  "kind": "layout"
+ },
+ "body": "card",
+ "holes": [
+  {
+   "shape": "rect",
+   "x": 53.57,
+   "y": 211.89,
+   "w": 11.21,
+   "h": 23.84
+  },
+  {
+   "shape": "rect",
+   "x": 53.57,
+   "y": 241.09,
+   "w": 11.21,
+   "h": 23.39
+  },
+  {
+   "shape": "circle",
+   "x": 37.01,
+   "y": 7.02,
+   "r": 5.01
+  },
+  {
+   "shape": "circle",
+   "x": 52.27,
+   "y": 47.69,
+   "r": 4.75
+  }
+ ],
+ "knobs": [
+  {
+   "x": 52.27,
+   "y": 47.69,
+   "r": 16.17
+  }
+ ],
+ "drawings": [
+  "MECHANICAL/1984 - M473B - 473-04-007 - DEPRESSED FEEDS SUBMASTER OUPUT PUIPULS SUB (traced).json",
+  "MECHANICAL/1984 - M473B - 473-04-007 - SWITCH SWI WHEN FEEDS SUBMASTER SIGNAI (traced).json"
+ ],
+ "notes": [],
+ "stl": "MECHANICAL/M473B.stl"
+}

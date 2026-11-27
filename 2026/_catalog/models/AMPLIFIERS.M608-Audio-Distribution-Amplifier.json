@@ -1,0 +1,32 @@
+{
+ "format": "wbs-model/1",
+ "module": "M608",
+ "repo": "MODULES.AMPLIFIERS.M608-Audio-Distribution-Amplifier",
+ "title": "Audio Distribution Amplifier",
+ "category": "AMPLIFIERS",
+ "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
+ "size": {
+  "w": 83.0,
+  "h": 83.0,
+  "d": 336.0
+ },
+ "size_from": "TECHNICAL DATA: 3.4 \" wide X 3.4\" high X 13.7\" deep (83 mm X 83 mm X 336 mm).",
+ "panel": {
+  "t": 3.2,
+  "drawing": "MECHANICAL/M608 - front panel.svg",
+  "kind": "none"
+ },
+ "body": "card",
+ "holes": [],
+ "knobs": [],
+ "drawings": [
+  "MECHANICAL/1975 - M608 - 608-04-001 - AUDIO DISTRIBUTION AMPLIFIER (traced).json",
+  "MECHANICAL/1975 - M608 - 608-04-001 - CONNECT OUTPUT CAELE SHIELDS CHASSIS MODULE (traced).json",
+  "MECHANICAL/19xx - 608-04-001 (2) (traced).json",
+  "MECHANICAL/19xx - 608-04-001 (traced).json"
+ ],
+ "notes": [
+  "no drawing of the front panel: the panel is blank"
+ ],
+ "stl": "MECHANICAL/M608.stl"
+}
