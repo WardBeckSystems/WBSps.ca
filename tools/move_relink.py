@@ -2,112 +2,168 @@
 # Copyright (c) 2026 Ward-Beck Systems (Ward-Beck.com - Ward-Beck.ca). All rights reserved.
 """After a folder of the site moved (OLD -> NEW, paths from the WBSps.ca root), fix every link the move broke.
 
-    python3 tools/move_relink.py OLD NEW [OLD NEW ...] [--dry-run]
+    python3 tools/move_relink.py OLD NEW [OLD NEW ...] [--map MAP.json] [--in DIR ...] [--dry-run]
 
-Every tracked page (.html .md .js .json .css .svg, outside submodules) is read; each relative link (href= src=
-"...", markdown ](...), viewer.html?f=...) is resolved from where the page was before the move (a page inside a
-moved folder was at OLD/...). If that target moved, or the page itself moved, the link is written again,
-relative to where the page is now, so it reaches the same file. Absolute site URLs (wbsps.ca/…,
-wardbecksystems.github.io/WBSps.ca/…) into OLD are rewritten as well. Links that did not resolve before are left.
+OLD NEW pairs are moves that happened: a page now under NEW was under OLD, and links to OLD/... go to NEW/....
+--map MAP.json  {old: new} links only (nothing moved; e.g. a wiki page that now lives in its device's folder, or
+                "2026": "" for the published copy at the root); a new ending in "/" links the folder.
+--in DIR        also read the pages inside DIR (a submodule or a folder of submodules: Products/Modules); their
+                changes are left for each repository to commit.
+
+Every page (.html .md .js .json .css .svg) is read; each relative link (href= src= "...", markdown ](...),
+viewer.html?f=...) is resolved from where the page was before the move. If its target moved, or the page did,
+the link is written again relative to where the page is now. Absolute site URLs (wbsps.ca/…,
+wardbecksystems.github.io/WBSps.ca/…) are mapped too. A link whose new target does not exist is left as it was.
 """
-import os, re, subprocess, sys
+import json, os, re, subprocess, sys
 from urllib.parse import quote, unquote
 
 TOP = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 EXT = {'.html', '.md', '.js', '.json', '.css', '.svg'}
 SITES = ['https://wbsps.ca/', 'https://WBSps.ca/', 'https://wardbecksystems.github.io/WBSps.ca/']
-LINK = re.compile(r'''(?P<pre>(?:href|src)\s*=\s*["']|\]\(|[?&]f=)(?P<url>[^"'()\s<>#?]+)''')
+LINK = re.compile(r'''(?P<pre>(?:href|src)\s*=\s*["']|\]\()(?P<url>[^"'()\s<>#?]+)''')
+# viewer.html?f=<path from the viewer's own folder>
+VIEW = re.compile(r'''(?P<pre>(?:href|src)\s*=\s*["']|\]\()(?P<viewer>[^"'()\s<>#?]*viewer\.html)\?f=(?P<f>[^"'()\s<>&#]+)''')
+SAFE = "/%:@&=+$,;!*~"
 
 
 def norm(p):
-    return os.path.normpath(p).replace(os.sep, '/')
+    p = os.path.normpath(p).replace(os.sep, '/')
+    return '' if p == '.' else p
 
 
-def mapped(path, moves):
-    for old, new in moves:
-        if path == old or path.startswith(old + '/'):
-            return new + path[len(old):]
+def under(path, old):
+    return old == '' or path == old or path.startswith(old + '/')
+
+
+def remap(path, pairs, exact):
+    """path -> its new place (exact maps first, then the longest prefix)."""
+    if path in exact:
+        return exact[path]
+    for old, new in pairs:
+        if under(path, old):
+            rest = path[len(old):].lstrip('/') if old else path
+            return '/'.join(x for x in (new.rstrip('/'), rest) if x) + ('/' if new.endswith('/') and not rest else '')
     return path
 
 
-def unmapped(path, moves):
-    for old, new in moves:
-        if path == new or path.startswith(new + '/'):
-            return old + path[len(new):]
-    return path
+def tracked(args):
+    return [f for f in subprocess.run(['git', '-C', TOP, *args], capture_output=True, text=True).stdout.split('\0') if f]
 
 
 def main():
-    a = [x for x in sys.argv[1:] if x != '--dry-run']
-    dry = '--dry-run' in sys.argv
-    moves = [(norm(a[i]).strip('/'), norm(a[i + 1]).strip('/')) for i in range(0, len(a), 2)]
-    files = subprocess.run(['git', '-C', TOP, 'ls-files', '-z', '--cached', '--others', '--exclude-standard'],
-                           capture_output=True, text=True).stdout.split('\0')
-    gitlinks = set(subprocess.run(['git', '-C', TOP, 'ls-files', '-s'], capture_output=True, text=True).stdout and
-                   [l.split('\t')[1] for l in subprocess.run(['git', '-C', TOP, 'ls-files', '-s'], capture_output=True,
-                    text=True).stdout.splitlines() if l.startswith('160000')])
-    exists = lambda p: os.path.exists(os.path.join(TOP, p))
+    argv = sys.argv[1:]
+    dry = '--dry-run' in argv
+    argv = [x for x in argv if x != '--dry-run']
+    mapfile, ins, pos = None, [], []
+    i = 0
+    while i < len(argv):
+        if argv[i] == '--map':
+            mapfile = argv[i + 1]; i += 2
+        elif argv[i] == '--in':
+            ins.append(norm(argv[i + 1])); i += 2
+        else:
+            pos.append(argv[i]); i += 1
+    moves = [(norm(pos[i]), norm(pos[i + 1])) for i in range(0, len(pos), 2)]
+    extra = json.load(open(mapfile)) if mapfile else {}
+    exact = {norm(k): v if v.endswith('/') else norm(v) for k, v in extra.items() if os.path.splitext(k)[1]}
+    pairs = sorted(moves + [(norm(k), v) for k, v in extra.items() if not os.path.splitext(k)[1]],
+                   key=lambda x: -len(x[0]))
+    back = sorted(((n, o) for o, n in moves), key=lambda x: -len(x[0]))   # where a page was before
+    exists = lambda p: os.path.exists(os.path.join(TOP, p.rstrip('/')) or TOP)
+
+    files = tracked(['ls-files', '-z', '--cached', '--others', '--exclude-standard'])
+    links_s = tracked(['ls-files', '-z', '-s'])
+    gitlinks = {l.split('\t', 1)[1] for l in subprocess.run(['git', '-C', TOP, 'ls-files', '-s'], capture_output=True,
+                text=True).stdout.splitlines() if l.startswith('160000')}
+    for d in ins:   # pages inside submodules
+        for g in sorted(x for x in gitlinks if under(x, d)):
+            files += [g + '/' + f for f in subprocess.run(['git', '-C', os.path.join(TOP, g), 'ls-files', '-z'],
+                      capture_output=True, text=True).stdout.split('\0') if f]
     pages = changed = links = 0
-    for rel in filter(None, files):
+    touched = set()
+    for rel in files:
         if os.path.splitext(rel)[1].lower() not in EXT or rel in gitlinks:
             continue
         p = os.path.join(TOP, rel)
-        if not os.path.isfile(p):
+        if not os.path.isfile(p) or os.path.islink(p):
             continue
         try:
             t = open(p, encoding='utf-8').read()
         except UnicodeDecodeError:
             continue
-        here_new = os.path.dirname(rel)
-        here_old = os.path.dirname(unmapped(rel, moves))
-        page_moved = here_new != here_old
+        origin = rel
+        for n, o in back:
+            if under(rel, n):
+                origin = (o + '/' + rel[len(n):].lstrip('/')).lstrip('/')
+                break
+        here_new, here_old = os.path.dirname(rel), os.path.dirname(origin)
 
         def fix(m):
             nonlocal links
-            url = m.group('url')
-            pre = m.group('pre')
-            for s in SITES:   # absolute site URLs
+            url, pre = m.group('url'), m.group('pre')
+            for s in SITES:
                 if url.startswith(s):
                     path = unquote(url[len(s):])
-                    new = mapped(path, moves)
+                    new = remap(path, pairs, exact)
                     if new != path:
                         links += 1
-                        return pre + s + quote(new, safe="/%:@&=+$,;!*~")
+                        return pre + s + quote(new, safe=SAFE)
                     return m.group(0)
             if re.match(r'^[a-z][a-z0-9+.-]*:', url, re.I) or url.startswith(('/', '#', 'data:')):
                 return m.group(0)
-            base = here_old
-            if pre.endswith('f='):   # viewer.html?f=<path from the viewer's folder: the root, or 2026/ for 2026 pages>
-                vb = '2026' if rel.startswith('2026/') else ''
-                target = norm(os.path.join(vb, unquote(url)))
-                new_target = mapped(target, moves)
-                if new_target == target:
-                    return m.group(0)
-                links += 1
-                return pre + quote(os.path.relpath(new_target, vb or '.').replace(os.sep, '/'), safe="/%:@&=+$,;!*~")
-            target = norm(os.path.join(base, unquote(url)))
+            if url.endswith('viewer.html') and m.string.startswith('?f=', m.end()):
+                return m.group(0)   # done by view()
+            target = norm(os.path.join(here_old, unquote(url)))
             if target.startswith('..'):
                 return m.group(0)
-            new_target = mapped(target, moves)
-            if new_target == target and not page_moved:
+            new_target = remap(target, pairs, exact)
+            if new_target == target and here_new == here_old:
                 return m.group(0)
-            if not exists(new_target) and not exists(target):
-                return m.group(0)   # broken before: leave it
-            r = os.path.relpath(new_target, here_new or '.').replace(os.sep, '/')
-            if url.endswith('/') and not r.endswith('/'):
+            if not exists(new_target):
+                return m.group(0)
+            r = os.path.relpath(new_target.rstrip('/') or '.', here_new or '.').replace(os.sep, '/')
+            if (url.endswith('/') or new_target.endswith('/')) and not r.endswith('/'):
                 r += '/'
-            if r == url or unquote(url) == r:
+            if r == unquote(url):
                 return m.group(0)
             links += 1
-            return pre + quote(r, safe="/%:@&=+$,;!*~")
+            return pre + quote(r, safe=SAFE)
 
-        s = LINK.sub(fix, t)
+        def view(m):
+            nonlocal links
+            pre, viewer, f = m.group('pre'), m.group('viewer'), m.group('f')
+            if re.match(r'^[a-z][a-z0-9+.-]*:', viewer, re.I) or viewer.startswith('/'):
+                return m.group(0)
+            v_old = norm(os.path.join(here_old, unquote(viewer)))   # the viewer, as the page reached it before
+            if v_old.startswith('..'):
+                return m.group(0)
+            v_new = remap(v_old, pairs, exact)
+            vb_old, vb_new = os.path.dirname(v_old), os.path.dirname(v_new)
+            target = norm(os.path.join(vb_old, unquote(f)))
+            new_target = remap(target, pairs, exact)
+            if new_target == target and v_new == v_old and here_new == here_old:
+                return m.group(0)
+            if not exists(new_target):
+                return m.group(0)
+            nv = os.path.relpath(v_new, here_new or '.').replace(os.sep, '/')
+            nf = os.path.relpath(new_target.rstrip('/') or '.', vb_new or '.').replace(os.sep, '/')
+            out = pre + quote(nv, safe=SAFE) + '?f=' + quote(nf, safe=SAFE)
+            if out != m.group(0):
+                links += 1
+            return out
+
+        s = LINK.sub(fix, VIEW.sub(view, t))
         pages += 1
         if s != t:
             changed += 1
+            touched.add(rel)
             if not dry:
                 open(p, 'w', encoding='utf-8').write(s)
     print(f'{pages} pages read, {changed} changed, {links} links rewritten' + (' (dry run)' if dry else ''))
+    subs = sorted({g for g in gitlinks for r in touched if r.startswith(g + '/')})
+    if subs:
+        print(f'{len(subs)} submodules have changed pages (commit them in each repository)')
 
 
 if __name__ == '__main__':
