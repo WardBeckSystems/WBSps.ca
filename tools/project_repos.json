@@ -484,6 +484,257 @@
   "title": "860401 - RNZ WELLINGTON - R1400 RADIO CONSOLE",
   "year": "1986"
  },
+ "CONSOLE.860601-WIOD-WAIA-PRODUCTION-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/860601 - WIOD-WAIA - PRODUCTION CONSOLE"
+  ],
+  "job": "860601",
+  "kind": "console",
+  "sha": "fbfc1b4d7411b4a85fae26e7d11c7bc4a6b4ee40",
+  "title": "860601 - WIOD-WAIA - PRODUCTION CONSOLE",
+  "year": "1986"
+ },
+ "CONSOLE.860715-TURNER-BROADCASTING-SYSTEM-MICROPHONE-PREAMPLIFIER-ASSEMBLY": {
+  "files": 4,
+  "folders": [
+   "1980-1989/860715 - TURNER BROADCASTING SYSTEM - MICROPHONE PREAMPLIFIER ASSEMBLY"
+  ],
+  "job": "860715",
+  "kind": "console",
+  "sha": "f5e2e17e6112b2e3dcde90fef5273fd5c7f618fa",
+  "title": "860715 - TURNER BROADCASTING SYSTEM - MICROPHONE PREAMPLIFIER ASSEMBLY",
+  "year": "1986"
+ },
+ "CONSOLE.860718-CNN-MICROPHONE-PREAMPLIFIER-ASSEMBLY": {
+  "files": 4,
+  "folders": [
+   "1980-1989/860718 - CNN - MICROPHONE PREAMPLIFIER ASSEMBLY"
+  ],
+  "job": "860718",
+  "kind": "console",
+  "sha": "d007de432604da02979f611888a7f3862812f9e0",
+  "title": "860718 - CNN - MICROPHONE PREAMPLIFIER ASSEMBLY",
+  "year": "1986"
+ },
+ "CONSOLE.870131-CFBK-RADIO-HUNTSVILLE-R1400-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/870131 - CFBK RADIO HUNTSVILLE - R1400 RADIO CONSOLE"
+  ],
+  "job": "870131",
+  "kind": "console",
+  "sha": "0aa6cf68814a945548d008d60e05f9a3438326f4",
+  "title": "870131 - CFBK RADIO HUNTSVILLE - R1400 RADIO CONSOLE",
+  "year": "1987"
+ },
+ "CONSOLE.870132-CFBK-RADIO-HUNTSVILLE-R1000-RADIO-CONSOLE": {
+  "files": 2,
+  "folders": [
+   "1980-1989/870132 - CFBK RADIO HUNTSVILLE - R1000 RADIO CONSOLE"
+  ],
+  "job": "870132",
+  "kind": "console",
+  "sha": "2d7432bfd4fc4cb11cd56fba7ede2e11b17bf288",
+  "title": "870132 - CFBK RADIO HUNTSVILLE - R1000 RADIO CONSOLE",
+  "year": "1987"
+ },
+ "CONSOLE.870135-CJCL-RADIO-R2200-MCR-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/870135 - CJCL RADIO - R2200 MCR CONSOLE"
+  ],
+  "job": "870135",
+  "kind": "console",
+  "sha": "3f43724cfb58c43d477cf1eff3e9503bf9752aca",
+  "title": "870135 - CJCL RADIO - R2200 MCR CONSOLE",
+  "year": "1987"
+ },
+ "CONSOLE.870136-CJCL-RADIO-R2200-PRODUCTION-1-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/870136 - CJCL RADIO - R2200 PRODUCTION 1 CONSOLE"
+  ],
+  "job": "870136",
+  "kind": "console",
+  "sha": "70bcfbe9c2f2a342513c84c85f72ed72e60a7980",
+  "title": "870136 - CJCL RADIO - R2200 PRODUCTION 1 CONSOLE",
+  "year": "1987"
+ },
+ "CONSOLE.870137-TELEMEDIA-BROADCAST-SYSTEM-R2200-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/870137 - TELEMEDIA BROADCAST SYSTEM - R2200 RADIO CONSOLE"
+  ],
+  "job": "870137",
+  "kind": "console",
+  "sha": "3562c40203b440558a7dd8d71d5464dec4df5d5c",
+  "title": "870137 - TELEMEDIA BROADCAST SYSTEM - R2200 RADIO CONSOLE",
+  "year": "1987"
+ },
+ "CONSOLE.870147-ADOLPH-COORS-COMPANY-CUSTOM-R600-RADIO-CONSOLE": {
+  "files": 10,
+  "folders": [
+   "1980-1989/870147 - ADOLPH COORS COMPANY - CUSTOM R600 RADIO CONSOLE"
+  ],
+  "job": "870147",
+  "kind": "console",
+  "sha": "28076ac9ae901d9c7029d9def6368b81b57192f5",
+  "title": "870147 - ADOLPH COORS COMPANY - CUSTOM R600 RADIO CONSOLE",
+  "year": "1987"
+ },
+ "CONSOLE.870155-CKNM-FM-R1000-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/870155 - CKNM-FM - R1000 RADIO CONSOLE"
+  ],
+  "job": "870155",
+  "kind": "console",
+  "sha": "0271adc44bafb6953967969381445b5be45423d9",
+  "title": "870155 - CKNM-FM - R1000 RADIO CONSOLE",
+  "year": "1987"
+ },
+ "CONSOLE.870197-CKBI-TELEVISION-R600-RADIO-CONSOLE": {
+  "files": 10,
+  "folders": [
+   "1980-1989/870197 - CKBI TELEVISION - R600 RADIO CONSOLE"
+  ],
+  "job": "870197",
+  "kind": "console",
+  "sha": "1101ec1e7cbf6e929e7dd8e2e8a3620cab79f2e2",
+  "title": "870197 - CKBI TELEVISION - R600 RADIO CONSOLE",
+  "year": "1987"
+ },
+ "CONSOLE.870374-CKPR-RADIO-R1000-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/870374 - CKPR RADIO - R1000 RADIO CONSOLE"
+  ],
+  "job": "870374",
+  "kind": "console",
+  "sha": "6790cde636ca3435a7bdb894fab04b0e4fdc44ee",
+  "title": "870374 - CKPR RADIO - R1000 RADIO CONSOLE",
+  "year": "1987"
+ },
+ "CONSOLE.870412-RNZ-WELLINGTON-R2200-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/870412 - RNZ-WELLINGTON - R2200 RADIO CONSOLE"
+  ],
+  "job": "870412",
+  "kind": "console",
+  "sha": "59c2eb41a077c6366d586c5cbe7032af085e766b",
+  "title": "870412 - RNZ-WELLINGTON - R2200 RADIO CONSOLE",
+  "year": "1987"
+ },
+ "CONSOLE.870504-WPLN-RADIO-NASHVILLE-CUSTOM-R2200-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/870504 - WPLN RADIO NASHVILLE - CUSTOM R2200 RADIO CONSOLE"
+  ],
+  "job": "870504",
+  "kind": "console",
+  "sha": "e32c2cbd227aadaea64575dfb0dd24f352aa9cdc",
+  "title": "870504 - WPLN RADIO NASHVILLE - CUSTOM R2200 RADIO CONSOLE",
+  "year": "1987"
+ },
+ "CONSOLE.870555-WOI-FM-R2200-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/870555 - WOI FM - R2200 RADIO CONSOLE"
+  ],
+  "job": "870555",
+  "kind": "console",
+  "sha": "eecca16b25b3bffbce3a27c2dc6a838b8b791388",
+  "title": "870555 - WOI FM - R2200 RADIO CONSOLE",
+  "year": "1987"
+ },
+ "CONSOLE.870642-CHXL-R1000-RADIO-CONSOLE": {
+  "files": 8,
+  "folders": [
+   "1980-1989/870642 - CHXL - R1000 RADIO CONSOLE"
+  ],
+  "job": "870642",
+  "kind": "console",
+  "sha": "b2bfb03da437000682ffa2a73190d26ab86facdd",
+  "title": "870642 - CHXL - R1000 RADIO CONSOLE",
+  "year": "1987"
+ },
+ "CONSOLE.870643-TELEMEDIA-BROADCASTING-SYSTEMS-R1000-RADIO-CONSOLE": {
+  "files": 10,
+  "folders": [
+   "1980-1989/870643 - TELEMEDIA BROADCASTING SYSTEMS - R1000 RADIO CONSOLE"
+  ],
+  "job": "870643",
+  "kind": "console",
+  "sha": "597458e69c1949151a46067de90e1089d6ed6ffb",
+  "title": "870643 - TELEMEDIA BROADCASTING SYSTEMS - R1000 RADIO CONSOLE",
+  "year": "1987"
+ },
+ "CONSOLE.870648-CING-FM-R2200-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/870648 - CING-FM - R2200 RADIO CONSOLE"
+  ],
+  "job": "870648",
+  "kind": "console",
+  "sha": "6ef0de1dad2d0ea3714bc7dcc3f69dfab00f61b5",
+  "title": "870648 - CING-FM - R2200 RADIO CONSOLE",
+  "year": "1987"
+ },
+ "CONSOLE.870750-RNZ-WELLINGTON-R200-RADIO-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/870750 - RNZ-WELLINGTON - R200 RADIO CONSOLE"
+  ],
+  "job": "870750",
+  "kind": "console",
+  "sha": "8feabac8748d7579faf9a77e0e1bf86075de99eb",
+  "title": "870750 - RNZ-WELLINGTON - R200 RADIO CONSOLE",
+  "year": "1987"
+ },
+ "CONSOLE.870782-WTOP-RADIO-ANNOUNCE-CONSOLE": {
+  "files": 4,
+  "folders": [
+   "1980-1989/870782 - WTOP RADIO - ANNOUNCE CONSOLE"
+  ],
+  "job": "870782",
+  "kind": "console",
+  "sha": "03a848c35ea3e00244dd9caa6eda9408e6be0699",
+  "title": "870782 - WTOP RADIO - ANNOUNCE CONSOLE",
+  "year": "1987"
+ },
+ "CONSOLE.870785-WTOP-RADIO-PRODUCTION-CONSOLE": {
+  "files": 2,
+  "folders": [
+   "1980-1989/870785 - WTOP RADIO - PRODUCTION CONSOLE"
+  ],
+  "job": "870785",
+  "kind": "console",
+  "sha": "5b991e578222d1fcc67f2060e972be20df3a4225",
+  "title": "870785 - WTOP RADIO - PRODUCTION CONSOLE",
+  "year": "1987"
+ },
+ "CONSOLE.870860-KDKA-RADIO-R1000-NEWS-PRODUCTION-CONSOLE": {
+  "files": 8,
+  "folders": [
+   "1980-1989/870860 - KDKA RADIO - R1000 NEWS PRODUCTION CONSOLE"
+  ],
+  "job": "870860",
+  "kind": "console",
+  "sha": "ea286d612f172bbde3ee45e4614bb47b5543ba45",
+  "title": "870860 - KDKA RADIO - R1000 NEWS PRODUCTION CONSOLE",
+  "year": "1987"
+ },
+ "CONSOLE.EuroConsole": {
+  "files": 0,
+  "folders": [],
+  "job": "",
+  "kind": "console",
+  "sha": "",
+  "title": "EuroConsole",
+  "year": "2026"
+ },
  "INTERCOM.860485-CFTM-TELEVISION-CUSTOM-INTERCOM-MATRIX": {
   "files": 4,
   "folders": [
@@ -494,5 +745,82 @@
   "sha": "d13cdeabfe635743ad755afaf8aaa18d900837b6",
   "title": "860485 - CFTM TELEVISION - CUSTOM INTERCOM MATRIX",
   "year": "1986"
+ },
+ "INTERCOM.860602-WIOD-WAIA-CUSTOM-INTERCOM-MATRIX": {
+  "files": 10,
+  "folders": [
+   "1980-1989/860602 - WIOD-WAIA - CUSTOM INTERCOM MATRIX"
+  ],
+  "job": "860602",
+  "kind": "intercom",
+  "sha": "6b24591e3caeeb409ef907f7bfc5ec583aa6a6fa",
+  "title": "860602 - WIOD-WAIA - CUSTOM INTERCOM MATRIX",
+  "year": "1986"
+ },
+ "INTERCOM.860693-NBC-TV-MICROCOM-STUDIO-3K-INTERCONNECT-SCHEMATICS": {
+  "files": 4,
+  "folders": [
+   "1980-1989/860693 - NBC TV - MICROCOM STUDIO 3K INTERCONNECT SCHEMATICS"
+  ],
+  "job": "860693",
+  "kind": "intercom",
+  "sha": "e76379dc64a17c655b3353302abedf2dc3d447ac",
+  "title": "860693 - NBC TV - MICROCOM STUDIO 3K INTERCONNECT SCHEMATICS",
+  "year": "1986"
+ },
+ "INTERCOM.860800": {
+  "files": 14,
+  "folders": [
+   "1980-1989/860800"
+  ],
+  "job": "860800",
+  "kind": "intercom",
+  "sha": "0d7f160cf04bba758dc82e390bf591bdf1b1aec0",
+  "title": "860800",
+  "year": "1986"
+ },
+ "INTERCOM.870126-CANADIAN-BROADCASTING-CORPORATION-INTERCOM-MATRIX": {
+  "files": 4,
+  "folders": [
+   "1980-1989/870126 - CANADIAN BROADCASTING CORPORATION - INTERCOM MATRIX"
+  ],
+  "job": "870126",
+  "kind": "intercom",
+  "sha": "754ee21292ded56782cfbba0ad453ec60c3553fb",
+  "title": "870126 - CANADIAN BROADCASTING CORPORATION - INTERCOM MATRIX",
+  "year": "1987"
+ },
+ "INTERCOM.870168-CFRE-TELEVISION-CUSTOM-INTERCOM-MATRIX": {
+  "files": 4,
+  "folders": [
+   "1980-1989/870168 - CFRE TELEVISION - CUSTOM INTERCOM MATRIX"
+  ],
+  "job": "870168",
+  "kind": "intercom",
+  "sha": "e76609afa33862246df70d607917b4023cf25ee0",
+  "title": "870168 - CFRE TELEVISION - CUSTOM INTERCOM MATRIX",
+  "year": "1987"
+ },
+ "INTERCOM.870200-CFPL-TV-CUSTOM-MICROCOM-SYSTEM": {
+  "files": 10,
+  "folders": [
+   "1980-1989/870200 - CFPL-TV - CUSTOM MICROCOM SYSTEM"
+  ],
+  "job": "870200",
+  "kind": "intercom",
+  "sha": "e7a829a82ad378e7f5d85e1d86d503dd9ad9e3da",
+  "title": "870200 - CFPL-TV - CUSTOM MICROCOM SYSTEM",
+  "year": "1987"
+ },
+ "INTERCOM.870439-TCN-9-SYDNEY-CUSTOM-INTERCOM": {
+  "files": 4,
+  "folders": [
+   "1980-1989/870439 - TCN 9 SYDNEY - CUSTOM INTERCOM"
+  ],
+  "job": "870439",
+  "kind": "intercom",
+  "sha": "aa6f1143fdc6942e49fcff2f3ad9b6b1d8502e89",
+  "title": "870439 - TCN 9 SYDNEY - CUSTOM INTERCOM",
+  "year": "1987"
  }
 }
