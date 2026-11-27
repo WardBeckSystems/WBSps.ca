@@ -78,7 +78,7 @@ def main():
                 text=True).stdout.splitlines() if l.startswith('160000')}
     for d in ins:   # pages inside submodules
         for g in sorted(x for x in gitlinks if under(x, d)):
-            files += [g + '/' + f for f in subprocess.run(['git', '-C', os.path.join(TOP, g), 'ls-files', '-z'],
+            files += [g + '/' + f for f in subprocess.run(['git', '-C', os.path.join(TOP, g), 'ls-files', '-z', '--cached', '--others', '--exclude-standard'],
                       capture_output=True, text=True).stdout.split('\0') if f]
     pages = changed = links = 0
     touched = set()

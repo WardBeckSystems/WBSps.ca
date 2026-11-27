@@ -73,6 +73,16 @@ make_site's copy of the same layout), the sorting stages (archive_store view / b
 are retired, and 26 tools that say '2026' get one path constant (tools/paths.py). Phase 6 therefore runs as
 phase 2; the module move follows it.
 
+Added by the user, 2026-11-27 (evening):
+- `ADVERTISEMENTS/` -> its own repo (WardBeckSystems/ADVERTISEMENTS), a submodule.
+- `Engineering/ORCAD`: the Renaissance TV console drawings go to their modules (M920, M921, M923, M926 ->
+  `<M>/SCHEMATICS/ORCAD/<set>/`), M719 to M719, POD3/4/5/7 to their PODs, SA14-321 / SA14-330 to their
+  sub-assemblies.
+- Sub-assemblies: every SA (SA14-xxx board assembly) its own repo `SUBASSEMBLY.SA14-xxx-<Function>`,
+  collected in `Products/SubAssemblies/` (a submodule index like Console), from PARTS/SUB.ASSEMBLY,
+  Engineering/PCB (`14-xxx - SA14-xxx …` boards; boards named for a module or product go to that repo) and
+  Engineering/ORCAD.
+
 ## Order (each phase ends with the site working, audit_site.py clean, pushed)
 
 1. Console + Intercom submodules -> `Products/` (git mv); `Products/Consoles` retired after

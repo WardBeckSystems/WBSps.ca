@@ -10,6 +10,17 @@
   "title": "1968 - Little Green Giant (LGG, baby Beck)",
   "year": ""
  },
+ "CONSOLE.1990-900412-ST-console-9004121": {
+  "files": 68,
+  "folders": [
+   "1980-1989/1989-1999/1990 - 900412 - ST console (9004121)"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "ca2ae442281e73dd12ffe701b0ca82d4f7e38440",
+  "title": "1990 - 900412 - ST console (9004121)",
+  "year": ""
+ },
  "CONSOLE.710023-CBC-Montreal": {
   "files": 2,
   "folders": [
@@ -2394,6 +2405,17 @@
   "kind": "console",
   "sha": "7cd3b3ddf3dced207af181123aaeb46a8924cebb",
   "title": "WBS 1979 custom L series full size",
+  "year": "1970-1979"
+ },
+ "CONSOLE.WSVN": {
+  "files": 284,
+  "folders": [
+   "1970-1979/WSVN"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "ca794540124cf94db61931fb3217162ec5a9b073",
+  "title": "WSVN",
   "year": "1970-1979"
  },
  "CONSOLE.Wood-cabinet-console": {

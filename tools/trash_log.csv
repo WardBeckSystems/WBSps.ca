@@ -1,2 +1,13 @@
 date,path,why,kept
 2026-11-27,2026/Modules/UNSORTED/M774,old duplicate of the M774 module (repo MODULES.UNSORTED.M774; unique files merged first),Products/Modules/COMMUNICATION/M774
+2026-11-27,2026/Engineering/ORCAD/POD_OLD - POD5 - ORCAD,duplicate of the published copy (moved to Products/PODS/POD5/SCHEMATICS/ORCAD/POD5),Products/PODS/POD5/SCHEMATICS/ORCAD/POD5
+2026-11-27,2026/Engineering/ORCAD/POD_OLD - POD3,duplicate of the published copy (moved to Products/PODS/POD3/SCHEMATICS/ORCAD/POD3),Products/PODS/POD3/SCHEMATICS/ORCAD/POD3
+2026-11-27,2026/Engineering/ORCAD/POD_OLD - POD4,duplicate of the published copy (moved to Products/PODS/POD4/SCHEMATICS/ORCAD/POD4),Products/PODS/POD4/SCHEMATICS/ORCAD/POD4
+2026-11-27,2026/Engineering/ORCAD/CONSOLES - REN TV Console - M920 - OLD,duplicate of the published copy (moved to Products/Modules/UNSORTED/M920/SCHEMATICS/ORCAD/M920 - OLD),Products/Modules/UNSORTED/M920/SCHEMATICS/ORCAD/M920 - OLD
+2026-11-27,2026/Engineering/ORCAD/CONSOLES - REN TV Console - 921 - OLD,duplicate of the published copy (moved to Products/Modules/UNSORTED/M921/SCHEMATICS/ORCAD/M921 - OLD),Products/Modules/UNSORTED/M921/SCHEMATICS/ORCAD/M921 - OLD
+2026-11-27,2026/Engineering/ORCAD/CONSOLES - REN TV Console - M926 - OLD2 - OLD_M926,duplicate of the published copy (moved to Products/Modules/UNSORTED/M926/SCHEMATICS/ORCAD/M926 - OLD2 - OLD_M926),Products/Modules/UNSORTED/M926/SCHEMATICS/ORCAD/M926 - OLD2 - OLD_M926
+2026-11-27,2026/Engineering/ORCAD/CONSOLES - REN TV Console - M926 - OLD2 - MESS1.ZIP,duplicate of the published copy (moved to Products/Modules/UNSORTED/M926/SCHEMATICS/ORCAD/M926 - OLD2 - MESS1),Products/Modules/UNSORTED/M926/SCHEMATICS/ORCAD/M926 - OLD2 - MESS1
+2026-11-27,2026/Engineering/ORCAD/POD_OLD - POD7 - ISS1 - ORCAD,duplicate of the published copy (moved to Products/PODS/POD7/SCHEMATICS/ORCAD/POD7 - ISS1),Products/PODS/POD7/SCHEMATICS/ORCAD/POD7 - ISS1
+2026-11-27,2026/Engineering/ORCAD/CONSOLES - REN TV Console - M926 - OLD,duplicate of the published copy (moved to Products/Modules/UNSORTED/M926/SCHEMATICS/ORCAD/M926 - OLD),Products/Modules/UNSORTED/M926/SCHEMATICS/ORCAD/M926 - OLD
+2026-11-27,2026/Engineering/ORCAD/M7XX - M719 - ORCAD,duplicate of the published copy (moved to Products/Modules/COMMUNICATION/M719/SCHEMATICS/ORCAD/M719),Products/Modules/COMMUNICATION/M719/SCHEMATICS/ORCAD/M719
+2026-11-27,2026/Engineering/ORCAD/CONSOLES - REN TV Console - M923 - OLD,duplicate of the published copy (moved to Products/Modules/UNSORTED/M923/SCHEMATICS/ORCAD/M923 - OLD),Products/Modules/UNSORTED/M923/SCHEMATICS/ORCAD/M923 - OLD
