@@ -113,7 +113,11 @@ def pin_table_pictures(d):
         line += f'; the RTO-144 sheet agrees on {b["sheet_agrees"]} contacts'
     if d.get('conflicts'):
         line += f'; {len(d["conflicts"])} to check (`conflicts`)'
-    out = ['## RTO-144 pinout', '', line + '. Every contact, with where it was read: [`RTO.json`](RTO.json).', '']
+    out = ['## RTO-144 pinout', '', line + '. Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture '
+           'becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).', '']
+    if d.get('to_check'):
+        out += ['**To check:**', ''] + [f"- {esc(c['what'])}{' ' + esc(c['pin']) if c.get('pin') else ''}: {esc(c['detail'])}"
+                                        for c in d['to_check']] + ['']
     if d.get('inserts'):
         out += ['**Inserts:** ' + ' · '.join(f'{esc(i.get("name") or "")}: {esc(i.get("send") or "?")} → {esc(i.get("return") or "?")}'
                                              for i in d['inserts']), '']

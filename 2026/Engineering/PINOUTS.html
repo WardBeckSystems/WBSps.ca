@@ -1,0 +1,201 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pinouts decision tree</title>
+<style>
+:root { --desk:#2b2a27; --paper:#fbfaf4; --ink:#1f1e1c; --faint:#6d6a63; --rule:#cfcabc; --link:#1f3f6b; --hl:#efe9d2; }
+@media (prefers-color-scheme: dark) { :root { --desk:#141412; --paper:#22211e; --ink:#e9e5d8; --faint:#a29d90; --rule:#4a473f; --link:#9cc0f0; --hl:#3a372e; } }
+* { box-sizing:border-box } html { background:var(--desk) }
+body { margin:0; padding:28px 16px 60px; color:var(--ink); background:var(--desk); font:15px/1.55 "Courier Prime","Courier New",Courier,monospace }
+.sheet { max-width:9.5in; margin:0 auto; background:var(--paper); padding:clamp(20px,5vw,56px) clamp(16px,5vw,64px) 48px; box-shadow:0 18px 40px rgba(0,0,0,.5) }
+a { color:var(--link) } h1 { font-size:20px; text-transform:uppercase; text-decoration:underline } h2 { font-size:16px; text-transform:uppercase; margin-top:28px }
+h3 { font-size:15px; margin:18px 0 4px } p.li { margin:4px 0 4px 1.2em; text-indent:-1.2em } p.li::before { content:"– " }
+table { border-collapse:collapse; width:100%; margin:8px 0; font-size:13px; display:block; overflow-x:auto }
+th, td { border:1px solid var(--rule); padding:3px 6px; text-align:left; vertical-align:top }
+code { background:var(--hl); padding:0 3px } pre.mermaid { background:#fff; color:#000; padding:12px; overflow-x:auto }
+</style></head><body><div class="sheet">
+<h1>Pinouts: from the pictures to RTO.json and the KiCad symbol</h1>
+<p>Every pinout picture of a module (connector layouts, rear views, pin-out pages, plug connections, strapping) is read by eye into <code>&lt;picture&gt;.pinout.json</code> beside it (format: <a href="../../tools/pinout_schema.md"><code>tools/pinout_schema.md</code></a>). <a href="../../tools/pinout_build.py"><code>tools/pinout_build.py</code></a> merges them into each module's <code>RTO.json</code> and <code>KICAD/&lt;code&gt;.kicad_sym</code>, and writes this page.</p>
+<p><strong>117 pictures read · 75 modules built · 3065 contacts · 31 inserts · 60 things to check</strong></p>
+<h2>Decision tree</h2>
+<pre class="mermaid">flowchart TD
+  P[Pinout picture in a module folder] --&gt; R[Read by eye into its own .pinout.json]
+  R --&gt; Q1{Is it a pinout?}
+  Q1 -- no --&gt; X[pinout: false · kept, not used · listed below]
+  Q1 -- yes --&gt; Q2{Does the title block name models?}
+  Q2 -- yes --&gt; N[Counts for every model it names, wherever it is filed]
+  Q2 -- no --&gt; F[Counts for the module whose folder holds it]
+  N --&gt; Q3{Filed under a model it does not name?}
+  Q3 -- yes --&gt; M[Misfiled · listed below]
+  Q3 -- no --&gt; C
+  M --&gt; C
+  F --&gt; C
+  C{A row drawn A pipe 1} -- one label --&gt; S[Both contacts carry it · one stacked pin on the symbol]
+  C -- a label each side --&gt; T[Two contacts of their own]
+  S --&gt; K
+  T --&gt; K
+  K{Connector named?} -- no --&gt; P1[Called P1 · the sheet&#x27;s single connector is the same one]
+  K -- yes --&gt; AS[As drawn]
+  P1 --&gt; POL
+  AS --&gt; POL
+  POL{+ / − drawn?} -- yes --&gt; PY[Polarity as drawn]
+  POL -- no --&gt; PN[Polarity null · or assumed and listed below]
+  PY --&gt; INS
+  PN --&gt; INS
+  INS{Insert?} -- send and return labelled --&gt; IP[One insert: send = out, return = in, a pair]
+  INS -- only INSERT written --&gt; IG[Pair split by row order · listed below]
+  INS -- none --&gt; MG
+  IP --&gt; MG
+  IG --&gt; MG
+  MG[Merge per contact: own drawing first, then high · medium · low confidence] --&gt; SH{RTO-144 sheet says the same kind?}
+  SH -- yes, or bus = in/out, or strap / other --&gt; OK[Agrees]
+  SH -- no --&gt; CF[Picture kept · conflict listed below]
+  OK --&gt; OUT[RTO.json + KICAD symbol]
+  CF --&gt; OUT
+  OUT --&gt; SYM[Symbol: inputs left · outputs right · each insert a send / return block · power top · grounds bottom · N/C not drawn]</pre>
+<h2>Rules</h2>
+<p class="li"><strong>Which module a picture belongs to.</strong> The models named in its title block (<code>applies_to</code>), wherever the file sits. A picture whose title names none counts for the folder it is in. A picture filed under a model it does not name is listed as misfiled; it still counts for the models it names.</p>
+<p class="li"><strong>Two-sided edge connectors.</strong> A row drawn "A | 1" with one label: both contacts carry it, and the symbol shows them as one stacked pin (the letter hidden under the number). A row with a label on each side: two contacts of their own.</p>
+<p class="li"><strong>Connector names.</strong> A drawing that names no connector is read as P1. When the RTO-144 sheet has a single connector of another name (often P2) it is the same connector.</p>
+<p class="li"><strong>Polarity.</strong> Only as drawn. Most WBS rear views mark no + / −: polarity is null and the port's contacts are keyed a / b. A reading that assumed polarity says so in its notes and is listed below.</p>
+<p class="li"><strong>Inserts.</strong> Always a pair: the send is the module's output to the outboard gear (<code>insert_send</code>), the return its input back (<code>insert_return</code>). Insert out / in, send / return, pre-fader out / fader return, EQ / compressor inserts count. Where a drawing writes only "INSERT" on several contacts the split into send and return is a guess from row order, listed below.</p>
+<p class="li"><strong>Straps.</strong> Jumpers and strap options from the picture, plus the RTO-144 sheet's frame straps. A strap rides on a contact that also carries a signal, so it never disagrees with it.</p>
+<p class="li"><strong>Merging readings.</strong> Per contact: a module's own drawing before a variant's, then high before medium before low confidence. A second reading of another kind is a conflict.</p>
+<p class="li"><strong>The RTO-144 sheet.</strong> A check only, never the source. Same kind = agrees (a bus contact is fed or read, so bus matches in and out; "other" fits anything). Otherwise the picture is kept and the disagreement listed.</p>
+<p class="li"><strong>The symbol.</strong> Inputs, control inputs, straps and others on the left; outputs and control outputs on the right; each insert a dashed send / return block of its own under the outputs; power on top; grounds, chassis and loose shields at the bottom; N/C contacts not drawn. The old symbol's properties (title, category, year …) are kept; no ";;" comments (KiCad 9 will not load them).</p>
+<h2>To check</h2>
+<p>Where a reading had to guess, or two sources disagree. Each module's <code>RTO.json</code> carries its own list (<code>to_check</code>).</p>
+<h3>M124</h3>
+<p class="li"><strong>polarity assumed</strong>: 2 contacts given + / − that the drawing does not mark (e.g. P1-4 INPUT HIGH (600 OHM: +)) (M124: 1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL - ISS 1.jpg)</p>
+<p class="li"><strong>polarity assumed</strong>: 2 contacts given + / − that the drawing does not mark (e.g. P1-4 INPUT HIGH (600 OHM: +)) (M124: 1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL.jpg)</p>
+<h3>M166</h3>
+<p class="li"><strong>disagree</strong> P1-12: kept - (SUPPLY RETURN) (power); RTO-144 sheet says GND (ground)</p>
+<h3>M402</h3>
+<p class="li"><strong>insert guessed</strong>: which of B/M is the source and which the destination is inferred, not labelled. (M402: 1968 - 402-09-001 - &amp; 404 EQUALIZER PLUG CONNECTIONS - DRN C.S. O'CONNELL - ISS 2.jpg)</p>
+<p class="li"><strong>insert guessed</strong>: which of B/M is the source and which the destination is inferred, not labelled. (M402: 1968 - 402-09-001 - &amp; 404 EQUALIZER PLUG CONNECTIONS - DRN C.S. O'CONNELL.jpg)</p>
+<h3>M404</h3>
+<p class="li"><strong>insert guessed</strong>: which of B/M is the source and which the destination is inferred, not labelled. (M402: 1968 - 402-09-001 - &amp; 404 EQUALIZER PLUG CONNECTIONS - DRN C.S. O'CONNELL - ISS 2.jpg)</p>
+<p class="li"><strong>insert guessed</strong>: which of B/M is the source and which the destination is inferred, not labelled. (M402: 1968 - 402-09-001 - &amp; 404 EQUALIZER PLUG CONNECTIONS - DRN C.S. O'CONNELL.jpg)</p>
+<h3>M450A</h3>
+<p class="li"><strong>disagree</strong> P1-3: kept SUMMING INPUT (in); RTO-144 sheet says N/A ON M450A (nc)</p>
+<p class="li"><strong>disagree</strong> P1-5: kept SUMMING INPUT (in); RTO-144 sheet says N/A ON M450A (nc)</p>
+<h3>M451</h3>
+<p class="li"><strong>disagree</strong> P1-18: kept OUT 4 (out); RTO-144 sheet says GND (ground)</p>
+<p class="li"><strong>disagree</strong> P1-Y: kept N/C (nc); RTO-144 sheet says VCC-LOGIC (power)</p>
+<h3>M452</h3>
+<p class="li"><strong>disagree</strong> P1-18: kept SWITCHED OUTPUT CTL (control_in); RTO-144 sheet says GND (ground)</p>
+<p class="li"><strong>disagree</strong> P1-Y: kept N/C (nc); RTO-144 sheet says VCC-LOGIC (power)</p>
+<h3>M453A</h3>
+<p class="li"><strong>disagree</strong> P1-18: kept N/C (nc); RTO-144 sheet says GND (ground)</p>
+<p class="li"><strong>disagree</strong> P1-19: kept N/C (nc); RTO-144 sheet says VEE-AUDIO (power)</p>
+<h3>M455</h3>
+<p class="li"><strong>polarity assumed</strong>: 10 contacts given + / − that the drawing does not mark (e.g. P1-A EXT METER IN +) (M455: 1974 - M455 - 455-04-002 - REELN CONNECTOR REAR VIEW CALE OLS.jpg)</p>
+<h3>M460A</h3>
+<p class="li"><strong>insert guessed</strong>: what exactly sits between PRE OUT / BOOSTER IN and CH ON OUT / CH ON IN is not stated - insert reading is an interpretation preamp output out and booster amp input back: the insert point between preamp and booster (e.g. (M460A: 1977 - M460A - 460-04-004 - KYYS CONNECTOR REAR VIEW.jpg)</p>
+<h3>M460L</h3>
+<p class="li"><strong>insert guessed</strong>: Whether PRE OUT/BOOSTER IN are normalled on the module is not shown PRE OUT (Z/22) to BOOSTER IN (W/19) is read as the preamp-to-booster patch point (insert). (M460L: 1974 - M460L - 460-04-622 - INPUT MODULE CONNECTOR REAR VIEW.jpg)</p>
+<h3>M461</h3>
+<p class="li"><strong>disagree</strong> P1-11: kept BOOSTER AMP (insert_send); RTO-144 sheet says Fader Return + (in)</p>
+<p class="li"><strong>disagree</strong> P1-12: kept CH ON (insert_return); RTO-144 sheet says CHON OUT - OUT + (out)</p>
+<p class="li"><strong>disagree</strong> P1-13: kept PHASE SWITCH (insert_send); RTO-144 sheet says Insert Return + (in)</p>
+<p class="li"><strong>disagree</strong> P1-14: kept OUTPUT AMP (insert_return); RTO-144 sheet says Insert Send + (out)</p>
+<p class="li"><strong>disagree</strong> P1-M: kept BOOSTER AMP (insert_send); RTO-144 sheet says Fader Return - (in)</p>
+<p class="li"><strong>disagree</strong> P1-N: kept CH ON (insert_return); RTO-144 sheet says CHON OUT - OUT - (out)</p>
+<p class="li"><strong>disagree</strong> P1-P: kept PHASE SWITCH (insert_send); RTO-144 sheet says Insert Return - (in)</p>
+<p class="li"><strong>disagree</strong> P1-R: kept OUTPUT AMP (insert_return); RTO-144 sheet says Insert Send - (out)</p>
+<h3>M463J</h3>
+<p class="li"><strong>disagree</strong> P1-W: kept M1 CONTROL (control_out); M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.pinout.json says M1 CONTROL (control_in)</p>
+<p class="li"><strong>disagree</strong> P1-X: kept M2 CONTROL (control_out); M463AC/PINOUTS/1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.pinout.json says M2 CONTROL (control_in)</p>
+<p class="li"><strong>insert guessed</strong>: Direction (in/out) of M1 CTL and M2 CTL not stated FADER OUT (K/9) and FADER IN (S/15): fader send/return. (M463J: 1972 - M463J - 463-04-009 - CONNECTOR REAR VIEW HALE.jpg)</p>
+<h3>M465</h3>
+<p class="li"><strong>disagree</strong> REV SEND OUT 2: kept insert port; inserts says no partner (send / return) named</p>
+<p class="li"><strong>insert guessed</strong>: 'P1' assumed REV SEND OUT to the reverb device, RETURN IN back from it; (M465: 1974 - M465 - 465-04-003 - CONNECTOR REAR VIEW CALE.jpg)</p>
+<h3>M466</h3>
+<p class="li"><strong>disagree</strong> P1-15: kept OUTPUT (out); RTO-144 sheet says Dynamics-OUT-LEFT + (in)</p>
+<p class="li"><strong>disagree</strong> P1-16: kept OUTPUT (out); RTO-144 sheet says Dynamics-OUT-LEFT - (in)</p>
+<h3>M467</h3>
+<p class="li"><strong>disagree</strong> P1-15: kept OUTPUT (out); RTO-144 sheet says Dynamics-OUT-LEFT + (in)</p>
+<p class="li"><strong>disagree</strong> P1-16: kept OUTPUT (out); RTO-144 sheet says Dynamics-OUT-LEFT - (in)</p>
+<h3>M470A</h3>
+<p class="li"><strong>disagree</strong> P2-5: kept ATT OUT - (out); RTO-144 sheet says FADER-RETURN + (in)</p>
+<p class="li"><strong>disagree</strong> P2-E: kept ATT OUT + (out); RTO-144 sheet says FADER-RETURN - (in)</p>
+<p class="li"><strong>polarity assumed</strong>: 42 contacts given + / − that the drawing does not mark (e.g. P1-A MASTER 2 OUT +) (M470A: 1977 - M470A - 470-04-005 - FIMISH NPUT MODULE CONNECTOR REAR VIEW.jpg)</p>
+<h3>M470C</h3>
+<p class="li"><strong>disagree</strong> P2-5: kept ATT OUT (out); RTO-144 sheet says FADER-RETURN + (in)</p>
+<p class="li"><strong>disagree</strong> P2-E: kept ATT OUT (out); RTO-144 sheet says FADER-RETURN - (in)</p>
+<h3>M470E</h3>
+<p class="li"><strong>disagree</strong> P2-5: kept ATT OUT (out); RTO-144 sheet says FADER-RETURN + (in)</p>
+<p class="li"><strong>disagree</strong> P2-E: kept ATT OUT (out); RTO-144 sheet says FADER-RETURN - (in)</p>
+<h3>M472</h3>
+<p class="li"><strong>polarity assumed</strong>: 2 contacts given + / − that the drawing does not mark (e.g. P1-4 INPUT) (M472: 1977 - M472 - 472-04-002 - CONNECTOR REAR VIEW CALE.jpg)</p>
+<p class="li"><strong>polarity assumed</strong>: 2 contacts given + / − that the drawing does not mark (e.g. P1-4 INPUT) (M472: 1977 - M472 - Pin Out.jpg)</p>
+<h3>M473A</h3>
+<p class="li"><strong>disagree</strong> P1-J: kept ATT OUT (out); RTO-144 sheet says Insert Return - (in)</p>
+<p class="li"><strong>disagree</strong> P1-R: kept SUB ON OUT (control_out); RTO-144 sheet says Insert Return + (in)</p>
+<h3>M477</h3>
+<p class="li"><strong>disagree</strong> P1-J: kept ATT OUT (out); RTO-144 sheet says Insert Return - (in)</p>
+<p class="li"><strong>disagree</strong> P1-R: kept OUTPUT AMP OUT (out); RTO-144 sheet says Insert Return + (in)</p>
+<h3>M490A</h3>
+<p class="li"><strong>insert guessed</strong>: Insert send vs return assignment within the four INSERT rows is not drawn Checker's signature (looks like 'Relle') Issue/date revision columns empty (M490A: 1978 - M490A - 021 - Pin Out.jpg)</p>
+<h3>M490D</h3>
+<p class="li"><strong>insert guessed</strong>: Which of the eight INSERT contacts (P2-E,F,H,J,5,6,7,8) are send vs return, and their polarity / channel, is not shown. (M490D: 1978 - M490D - pinout-490-04-005 (2).pdf)</p>
+<p class="li"><strong>insert guessed</strong>: Which of the eight INSERT contacts (P2-E,F,H,J,5,6,7,8) are send vs return, and their polarity / channel, is not shown. (M490D: 1978 - M490D - pinout-490-04-005.pdf)</p>
+<h3>M490F</h3>
+<p class="li"><strong>insert guessed</strong>: recorded as a send/return pair per channel, but the send/return assignment is assumed from row order, not drawn. (M490F: 1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.jpg)</p>
+<h3>M521</h3>
+<p class="li"><strong>polarity assumed</strong>: 16 contacts given + / − that the drawing does not mark (e.g. P2-A INSERT OUT L +) (M521: 1985 - M521 - Sterio Input Module Connector Layout.jpg)</p>
+<h3>M523</h3>
+<p class="li"><strong>insert guessed</strong>: INSERT PREFADE L/R is a third insert-labelled point, recorded as an output (kind out) because the drawing does not say whether it is a pre-fade send or a second return. (M523: 1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.jpg)</p>
+<h3>M600</h3>
+<p class="li"><strong>polarity assumed</strong>: 2 contacts given + / − that the drawing does not mark (e.g. P1-16 INPUT -) (M600: 1970 - M600 - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC.jpg)</p>
+<p class="li"><strong>polarity assumed</strong>: 2 contacts given + / − that the drawing does not mark (e.g. P1-16 INPUT -) (M600: 19xx - 600-02-011 - AUDIO AMPLIFIER OUTPUT STRAPPING SCHEMATIC - ISS 3.jpg)</p>
+<h3>M701</h3>
+<p class="li"><strong>polarity assumed</strong>: 4 contacts given + / − that the drawing does not mark (e.g. P1-21 SPEAKER OUTPUT) (M703: 1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS &amp; STRAPPING.jpg)</p>
+<h3>M702</h3>
+<p class="li"><strong>polarity assumed</strong>: 4 contacts given + / − that the drawing does not mark (e.g. P1-21 SPEAKER OUTPUT) (M703: 1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS &amp; STRAPPING.jpg)</p>
+<h3>M703</h3>
+<p class="li"><strong>polarity assumed</strong>: 4 contacts given + / − that the drawing does not mark (e.g. P1-21 SPEAKER OUTPUT) (M703: 1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS &amp; STRAPPING.jpg)</p>
+<h3>M901CY</h3>
+<p class="li"><strong>polarity assumed</strong>: 21 contacts given + / − that the drawing does not mark (e.g. P1-2 PGM 1 MUSIC OUT LEFT) (M901CY: 1994 - M901CY - CONNECTOR LAYOUT.jpg)</p>
+<h2>Misfiled pictures</h2>
+<p>Filed under a model their title block does not name; they count for the models they name.</p>
+<table><tr><th>Folder</th><th>Picture</th><th>Title names</th></tr>
+<tr><td>M402</td><td>1970 - 402-02-011 - M402A AND M404A EQUALIZER PLUG CONNECTIONS - DRN DJG - ISS 3.jpg</td><td>M402A, M404A</td></tr>
+<tr><td>M406</td><td>1970 - 406-02-011 - M406B COMPRESSOR PLUG CONNECTIONS - DRN DJG - ISS 2 (2).jpg</td><td>M406B</td></tr>
+<tr><td>M406</td><td>1970 - 406-02-011 - M406B COMPRESSOR PLUG CONNECTIONS - DRN DJG - ISS 2.jpg</td><td>M406B</td></tr>
+<tr><td>M406</td><td>1970 - M406 - B 406-02-011 - M406B COMPRESSOR - PLUG CONNECTIONS.jpg</td><td>M406B</td></tr>
+<tr><td>M461M</td><td>1975 - M461M - WBS 461M Pinouts.jpg</td><td>M461</td></tr>
+<tr><td>M463AC</td><td>1986 - M463AC - 463-04-009 - CONNECTOR REAR VIEW.jpg</td><td>M463J</td></tr>
+<tr><td>M464</td><td>1976 - M464 - P4 - Pin Out.jpg</td><td>M462, M462A, M462B</td></tr>
+<tr><td>M472</td><td>1977 - M472 - Pin Out (2).jpg</td><td>M462, M462A, M462B</td></tr>
+<tr><td>M484</td><td>1975 - 484-04-002 - SUMMING AMPLIFIER CONNECTOR REAR VIEW - DRN DM - ISS 1.jpg</td><td>M484A</td></tr>
+<tr><td>M484</td><td>1975 - M484 - 484-04-002 - CONNECTOR REAR VIEW.jpg</td><td>M484A</td></tr>
+<tr><td>M522</td><td>19xx - M522 - A B - P14 - Pinouts.jpg</td><td>M522B, M522C</td></tr>
+<tr><td>M621</td><td>1973 - 621-02-004 - M621T OUTPUT TRANSFORMER CONNECTIONS - DRN BJ - ISS 1.jpg</td><td>M621T</td></tr>
+<tr><td>M621</td><td>1973 - 621-02-004 - OUTPUT TRANSFORMER CONNECTIONS (4 OHM 16 OHM 150 OHM; title block cut - DRN BJ.jpg</td><td>M621T</td></tr>
+<tr><td>M712</td><td>1979 - 712-02-102 - M712B INTERCOM MATRIX AMPLIFIER CONNECTION OF MULTIPLE MODULES - DRN MRW - ENG MRW - ISS 1.jpg</td><td>M712B</td></tr>
+</table>
+<h2>Not pinouts</h2>
+<p>Read and kept (<code>"pinout": false</code>), not used.</p>
+<table><tr><th>Folder</th><th>Picture</th><th>What it is</th></tr>
+<tr><td>M463</td><td>1972 - M463 - 4136-06-010 - COMPONENT NQTES LEGEND CONNECTOR PIN MOUNTED.jpg</td><td>Not a pinout: left half of a PCB component-side assembly drawing (relay K1 V23030-A2021-A104, TIP30B/TIP29B on heat sink A460-03-014, switches SW11-SW14 and SW22-SW25, Z1-Z4, E-numbered stand-off pins)</td></tr>
+<tr><td>M463K</td><td>1974 - M463K - 461-03-015 - NOTES LEGEND CONNECTOR PIN MOUNTED.jpg</td><td>Not a pinout: left half of a PCB component layout ('COMPONENT SI[DE]') showing Q1-Q6 (TIP 29B/30B on heat sink A460-03-014, PN3645/PN3569), relay K1 V23030-A2021-A104, R142 5k trimmer, Z1-Z4, switch pads SW13/14/19/22-25, wiring pads and stand-offs (3E1-3E6, 4E1-4E7)</td></tr>
+<tr><td>M463L</td><td>1974 - M463L - 461-03-015 - COMPONENT SIDF NOTES LEGEND CONNECTOR PIN MOUNTED.jpg</td><td>Not a pinout: PCB component-side assembly layout (K1 V23030-A2021-A104 relay, TIP30B/TIP29B on heat sink A460-03-014, SW11-SW14, SW19-SW25 wiring pads, Z1-Z4)</td></tr>
+<tr><td>M463LA</td><td>1974 - M463LA - 4-136-06-023 - COMPONENT SIDE NOTES LEGEND CONNECTOR PIN MOUNTED.jpg</td><td>Not a pinout: PCB component-side assembly drawing (PCB No 4-136) showing parts K1 V23030-A2021-A104 relay, TIP30B/TIP29B on heat sink A460-03-014, Z1-Z4 ICs (all LM201N), switches SW11-SW14, SW22-SW25, wiring pads and standoff pins 3E1-3E6, 4E1-4E7</td></tr>
+</table>
+<h2>Modules with pictures but no pinout of their own</h2>
+<p>Their pictures name other models only; RTO.json and the symbol stay as they were.</p>
+<table><tr><th>Module</th><th>Its pictures name</th></tr>
+<tr><td>M406</td><td>M406B</td></tr>
+<tr><td>M461M</td><td>M461</td></tr>
+<tr><td>M463AC</td><td>M463J</td></tr>
+<tr><td>M463K</td><td>-</td></tr>
+<tr><td>M463LA</td><td>-</td></tr>
+<tr><td>M484</td><td>M484A</td></tr>
+<tr><td>M522</td><td>M522B, M522C</td></tr>
+<tr><td>M712</td><td>M712B</td></tr>
+</table>
+<hr>
+<p>Archive: Anthony Peter Kuzub · <a href="https://WBSps.ca">WBSps.ca</a> · <a href="https://WBSps.Kuzub.com">WBSps.Kuzub.com</a></p>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.js"></script>
+<script>mermaid.initialize({ startOnLoad: true, theme: 'neutral', flowchart: { useMaxWidth: true } });</script>
+</body></html>

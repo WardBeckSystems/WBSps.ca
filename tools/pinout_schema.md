@@ -11,6 +11,11 @@ copied from another file. The module's `RTO.json` and its KiCad symbol
 (`tools/pinout_build.py`): inputs on the symbol's left, outputs on the right, inserts as
 a send / return pair of their own, power on top, grounds at the bottom.
 
+How each choice is made (which module a picture counts for, two-sided rows, connector names,
+polarity, inserts, straps, merging, the sheet check) and everything left to check:
+[the pinout decision tree, `2026/Engineering/PINOUTS.md`](../2026/Engineering/PINOUTS.md), written by
+`tools/pinout_build.py` on every run.
+
 ```json
 {
   "schema": "wbs-pinout/1",

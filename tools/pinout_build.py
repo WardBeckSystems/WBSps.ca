@@ -52,8 +52,8 @@ def code_of(moddir):
 def module_dirs(root):
     out = {}
     for d in sorted(glob.glob(os.path.join(root, 'MODULES.*'))) + sorted(glob.glob(os.path.join(root, '*', 'M*'))):
-        if os.path.isdir(d):
-            out.setdefault(code_of(d), d)
+        if os.path.isdir(d) and d not in out.get(code_of(d), []):
+            out.setdefault(code_of(d), []).append(d)   # a code may have a repo in two categories
     return out
 
 
@@ -124,7 +124,8 @@ def same_kind(a, b):
     g = lambda k: {'shield': 'ground', 'insert_send': 'out', 'insert_return': 'in', 'control_in': 'in',
                    'control_out': 'out'}.get(k, k)
     a, b = g(a), g(b)
-    if a in (None, 'other') or b in (None, 'other') or a == b:
+    # A strap (a frame jumper) rides on a contact that also carries its signal
+    if a in (None, 'other', 'strap') or b in (None, 'other', 'strap') or a == b:
         return True
     return 'bus' in (a, b) and {a, b} <= {'bus', 'in', 'out'}
 
@@ -196,6 +197,12 @@ def build(code, own, variants):
         for s in r.get('straps', []):
             if s.get('name') and all(s['name'] != x['name'] for x in straps):
                 straps.append(s)
+    # The sheet's frame straps too (jumpers between contacts)
+    for j in (facts or {}).get('jumpers', []):
+        name = (j.get('designation') or '').strip()
+        if name and all(name != x.get('name') for x in straps):
+            straps.append({'name': name, 'pins': [j.get('from'), j.get('to')], 'note': (j.get('function') or '').strip(),
+                           'from': 'RTO-144 sheet'})
     # An insert is always a pair: every insert port in the pins belongs to one
     names = {p['port'] for p in pins if p['kind'] in ('insert_send', 'insert_return') and p.get('port')}
     paired = {x for i in inserts for x in (i.get('send'), i.get('return'))}
@@ -209,6 +216,10 @@ def build(code, own, variants):
                 cseen.add(n)
                 connectors.append({**c, 'name': n})
     agree = [p for p in pins if p['sheet'] is not None]
+    to_check = [{'what': 'disagree', 'pin': c['pin'], 'detail': f"kept {c['kept']}; {c['from']} says {c['other']}"} for c in conflicts]
+    for r, _ in reads:
+        for k, detail in guesses(r):
+            to_check.append({'what': k, 'pin': None, 'detail': f"{detail} ({r['_src'].split('/', 1)[0]}: {r.get('picture')})"})
     return {
         'code': code,
         'connector': 'RTO-144',
@@ -226,6 +237,7 @@ def build(code, own, variants):
         'inserts': inserts,
         'straps': straps,
         'conflicts': conflicts,
+        'to_check': to_check,
     }
 
 
@@ -368,6 +380,192 @@ def symbol(code, doc, old):
     return '\n'.join(header + body) + '\n'
 
 
+GUESS = re.compile(r'guess|assum|infer|my reading|not drawn|not stated|not marked|not shown|not labell?ed|does not say|unclear|is not explained', re.I)
+
+
+def guesses(r):
+    """What a reading says it had to guess: which insert contact sends and which returns, and
+    polarity put on contacts the drawing marks no + / − for."""
+    out = []
+    texts = ' '.join([r.get('notes') or ''] + [str(u) for u in r.get('unread') or []] + [str(i.get('note') or '') for i in r.get('inserts') or []])
+    sentences = re.split(r'(?<=[.;])\s+|(?<=[a-z0-9)])\s+(?=[A-Z][a-z]+ )', texts)
+    if r.get('inserts'):
+        hit = [s for s in sentences if re.search(r'insert|send|return|source|destination', s, re.I) and GUESS.search(s)]
+        empty = [i for i in r['inserts'] if not i.get('send') or not i.get('return')]
+        if hit or empty:
+            out.append(('insert guessed', (hit[0].strip()[:220] if hit else 'an insert without its send or return named')))
+    # Polarity put on a contact whose label carries no + / − (nor RD / BK, HI / LO)
+    mark = re.compile(r'[+\-−]|\b(PLUS|MINUS|POS|NEG|HI|LO|HIGH|LOW|RD|BK|RED|BLACK|TIP|RING)\b', re.I)
+    assumed = [p for p in r.get('pins') or [] if p.get('polarity') in ('+', '-') and p.get('kind') not in ('power',)
+               and not mark.search(str(p.get('as_drawn') or ''))]
+    if assumed:
+        out.append(('polarity assumed', f"{len(assumed)} contacts given + / − that the drawing does not mark "
+                                        f"(e.g. {assumed[0].get('connector') or 'P1'}-{assumed[0].get('pin')} {assumed[0].get('signal')})"))
+    return out
+
+
+DOC_MD = os.path.join(ENG, 'PINOUTS.md')
+DOC_HTML = os.path.join(ENG, 'PINOUTS.html')
+DOC_URL = 'https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md'
+
+TREE = """flowchart TD
+  P[Pinout picture in a module folder] --> R[Read by eye into its own .pinout.json]
+  R --> Q1{Is it a pinout?}
+  Q1 -- no --> X[pinout: false · kept, not used · listed below]
+  Q1 -- yes --> Q2{Does the title block name models?}
+  Q2 -- yes --> N[Counts for every model it names, wherever it is filed]
+  Q2 -- no --> F[Counts for the module whose folder holds it]
+  N --> Q3{Filed under a model it does not name?}
+  Q3 -- yes --> M[Misfiled · listed below]
+  Q3 -- no --> C
+  M --> C
+  F --> C
+  C{A row drawn A pipe 1} -- one label --> S[Both contacts carry it · one stacked pin on the symbol]
+  C -- a label each side --> T[Two contacts of their own]
+  S --> K
+  T --> K
+  K{Connector named?} -- no --> P1[Called P1 · the sheet's single connector is the same one]
+  K -- yes --> AS[As drawn]
+  P1 --> POL
+  AS --> POL
+  POL{+ / − drawn?} -- yes --> PY[Polarity as drawn]
+  POL -- no --> PN[Polarity null · or assumed and listed below]
+  PY --> INS
+  PN --> INS
+  INS{Insert?} -- send and return labelled --> IP[One insert: send = out, return = in, a pair]
+  INS -- only INSERT written --> IG[Pair split by row order · listed below]
+  INS -- none --> MG
+  IP --> MG
+  IG --> MG
+  MG[Merge per contact: own drawing first, then high · medium · low confidence] --> SH{RTO-144 sheet says the same kind?}
+  SH -- yes, or bus = in/out, or strap / other --> OK[Agrees]
+  SH -- no --> CF[Picture kept · conflict listed below]
+  OK --> OUT[RTO.json + KICAD symbol]
+  CF --> OUT
+  OUT --> SYM[Symbol: inputs left · outputs right · each insert a send / return block · power top · grounds bottom · N/C not drawn]"""
+
+RULES = [
+    ('Which module a picture belongs to', 'The models named in its title block (`applies_to`), wherever the file sits. A picture whose title names none counts for the folder it is in. A picture filed under a model it does not name is listed as misfiled; it still counts for the models it names.'),
+    ('Two-sided edge connectors', 'A row drawn "A | 1" with one label: both contacts carry it, and the symbol shows them as one stacked pin (the letter hidden under the number). A row with a label on each side: two contacts of their own.'),
+    ('Connector names', 'A drawing that names no connector is read as P1. When the RTO-144 sheet has a single connector of another name (often P2) it is the same connector.'),
+    ('Polarity', 'Only as drawn. Most WBS rear views mark no + / −: polarity is null and the port\'s contacts are keyed a / b. A reading that assumed polarity says so in its notes and is listed below.'),
+    ('Inserts', 'Always a pair: the send is the module\'s output to the outboard gear (`insert_send`), the return its input back (`insert_return`). Insert out / in, send / return, pre-fader out / fader return, EQ / compressor inserts count. Where a drawing writes only "INSERT" on several contacts the split into send and return is a guess from row order, listed below.'),
+    ('Straps', 'Jumpers and strap options from the picture, plus the RTO-144 sheet\'s frame straps. A strap rides on a contact that also carries a signal, so it never disagrees with it.'),
+    ('Merging readings', 'Per contact: a module\'s own drawing before a variant\'s, then high before medium before low confidence. A second reading of another kind is a conflict.'),
+    ('The RTO-144 sheet', 'A check only, never the source. Same kind = agrees (a bus contact is fed or read, so bus matches in and out; "other" fits anything). Otherwise the picture is kept and the disagreement listed.'),
+    ('The symbol', 'Inputs, control inputs, straps and others on the left; outputs and control outputs on the right; each insert a dashed send / return block of its own under the outputs; power on top; grounds, chassis and loose shields at the bottom; N/C contacts not drawn. The old symbol\'s properties (title, category, year …) are kept; no ";;" comments (KiCad 9 will not load them).'),
+]
+
+
+def write_docs(docs, all_reads, mods):
+    """2026/Engineering/PINOUTS.md (+ .html): how a picture becomes RTO.json and the symbol, and what to check."""
+    names = lambda r: {x.strip().upper() for x in (r.get('applies_to') or [])}
+    notp, misfiled, unbuilt = [], [], []
+    for code, rs in sorted(all_reads.items()):
+        for r in rs:
+            if r.get('pinout') is False:
+                notp.append((code, r.get('picture'), (r.get('notes') or '').split('. ')[0]))
+            elif names(r) and code not in names(r):
+                misfiled.append((code, r.get('picture'), ', '.join(sorted(names(r)))))
+        if code not in docs:
+            unbuilt.append((code, ', '.join(sorted({n for r in rs for n in names(r)} - {code})) or '-'))
+    md = ['# Pinouts: from the pictures to RTO.json and the KiCad symbol', '',
+          'Every pinout picture of a module (connector layouts, rear views, pin-out pages, plug connections, strapping) is read '
+          'by eye into `<picture>.pinout.json` beside it (format: [`tools/pinout_schema.md`](../../tools/pinout_schema.md)). '
+          '[`tools/pinout_build.py`](../../tools/pinout_build.py) merges them into each module\'s `RTO.json` and '
+          '`KICAD/<code>.kicad_sym`, and writes this page.', '',
+          f'**{sum(len(v) for v in all_reads.values())} pictures read · {len(docs)} modules built · '
+          f'{sum(len(d["pins"]) for d in docs.values())} contacts · {sum(len(d["inserts"]) for d in docs.values())} inserts · '
+          f'{sum(len(d["to_check"]) for d in docs.values())} things to check**', '',
+          '## Decision tree', '', '```mermaid', TREE.replace('&lt;', '<').replace('&gt;', '>'), '```', '', '## Rules', '']
+    for k, v in RULES:
+        md += [f'- **{k}.** {v}']
+    md += ['', '## To check', '', 'Where a reading had to guess, or two sources disagree. Each module\'s `RTO.json` carries its own list (`to_check`).', '']
+    for code, d in sorted(docs.items()):
+        if not d['to_check']:
+            continue
+        md += [f'### {code}', '']
+        md += [f"- **{c['what']}**{' ' + c['pin'] if c.get('pin') else ''}: {c['detail']}" for c in d['to_check']]
+        md += ['']
+    md += ['## Misfiled pictures', '', 'Filed under a model their title block does not name; they count for the models they name.', '',
+           '| Folder | Picture | Title names |', '|---|---|---|'] + [f'| {a} | {b} | {c} |' for a, b, c in misfiled]
+    md += ['', '## Not pinouts', '', 'Read and kept (`"pinout": false`), not used.', '', '| Folder | Picture | What it is |', '|---|---|---|']
+    md += [f'| {a} | {b} | {c} |' for a, b, c in notp]
+    md += ['', '## Modules with pictures but no pinout of their own', '',
+           'Their pictures name other models only; RTO.json and the symbol stay as they were.', '', '| Module | Its pictures name |', '|---|---|']
+    md += [f'| {a} | {b} |' for a, b in unbuilt]
+    md += ['', '---', 'Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)', '']
+    with open(DOC_MD, 'w', encoding='utf-8') as fh:
+        fh.write('\n'.join(md))
+    with open(DOC_HTML, 'w', encoding='utf-8') as fh:
+        fh.write(md_html('\n'.join(md)))
+
+
+def md_html(md):
+    """The page as HTML for the Pages site: the archive's paper look, the tree drawn by Mermaid."""
+    import html as H
+    out, table, code = [], None, None
+    inline = lambda s: re.sub(r'\[([^\]]+)\]\(([^)]+)\)', lambda m: f'<a href="{H.escape(m.group(2).replace(".md", ".md"))}">{m.group(1)}</a>',
+                              re.sub(r'\*\*([^*]+)\*\*', r'<strong>\1</strong>', re.sub(r'`([^`]+)`', r'<code>\1</code>', H.escape(s, quote=False))))
+    for ln in md.split('\n'):
+        if code is not None:
+            if ln.startswith('```'):
+                out.append(f'<pre class="mermaid">{H.escape(chr(10).join(code))}</pre>')
+                code = None
+            else:
+                code.append(ln)
+            continue
+        if ln.startswith('```'):
+            code = []
+            continue
+        if ln.startswith('|'):
+            cells = [c.strip() for c in ln.strip('|').split('|')]
+            if set(''.join(cells)) <= set('-: '):
+                continue
+            if table is None:
+                table = []
+                out.append('<table><tr>' + ''.join(f'<th>{inline(c)}</th>' for c in cells) + '</tr>')
+            else:
+                out.append('<tr>' + ''.join(f'<td>{inline(c)}</td>' for c in cells) + '</tr>')
+            continue
+        if table is not None:
+            out.append('</table>')
+            table = None
+        m = re.match(r'^(#{1,3}) (.*)', ln)
+        if m:
+            n = len(m.group(1))
+            out.append(f'<h{n}>{inline(m.group(2))}</h{n}>')
+        elif ln.startswith('- '):
+            out.append(f'<p class="li">{inline(ln[2:])}</p>')
+        elif ln == '---':
+            out.append('<hr>')
+        elif ln.strip():
+            out.append(f'<p>{inline(ln)}</p>')
+    if table is not None:
+        out.append('</table>')
+    body = '\n'.join(out)
+    return f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pinouts decision tree</title>
+<style>
+:root {{ --desk:#2b2a27; --paper:#fbfaf4; --ink:#1f1e1c; --faint:#6d6a63; --rule:#cfcabc; --link:#1f3f6b; --hl:#efe9d2; }}
+@media (prefers-color-scheme: dark) {{ :root {{ --desk:#141412; --paper:#22211e; --ink:#e9e5d8; --faint:#a29d90; --rule:#4a473f; --link:#9cc0f0; --hl:#3a372e; }} }}
+* {{ box-sizing:border-box }} html {{ background:var(--desk) }}
+body {{ margin:0; padding:28px 16px 60px; color:var(--ink); background:var(--desk); font:15px/1.55 "Courier Prime","Courier New",Courier,monospace }}
+.sheet {{ max-width:9.5in; margin:0 auto; background:var(--paper); padding:clamp(20px,5vw,56px) clamp(16px,5vw,64px) 48px; box-shadow:0 18px 40px rgba(0,0,0,.5) }}
+a {{ color:var(--link) }} h1 {{ font-size:20px; text-transform:uppercase; text-decoration:underline }} h2 {{ font-size:16px; text-transform:uppercase; margin-top:28px }}
+h3 {{ font-size:15px; margin:18px 0 4px }} p.li {{ margin:4px 0 4px 1.2em; text-indent:-1.2em }} p.li::before {{ content:"– " }}
+table {{ border-collapse:collapse; width:100%; margin:8px 0; font-size:13px; display:block; overflow-x:auto }}
+th, td {{ border:1px solid var(--rule); padding:3px 6px; text-align:left; vertical-align:top }}
+code {{ background:var(--hl); padding:0 3px }} pre.mermaid {{ background:#fff; color:#000; padding:12px; overflow-x:auto }}
+</style></head><body><div class="sheet">
+{body}
+</div>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.js"></script>
+<script>mermaid.initialize({{ startOnLoad: true, theme: 'neutral', flowchart: {{ useMaxWidth: true }} }});</script>
+</body></html>
+"""
+
+
 def readme_section(moddir):
     """The README's "RTO-144 pinout" section, rewritten in place from the new RTO.json."""
     f = os.path.join(moddir, 'README.md')
@@ -395,20 +593,22 @@ def main():
     a = ap.parse_args()
     mods = module_dirs(a.root)
     all_reads = {}
-    for code, d in mods.items():
-        for r in readings(d):
-            r['_src'] = f'{code}/{r["_file"]}'
-            all_reads.setdefault(code, []).append(r)
+    for code, ds in mods.items():
+        for d in ds:
+            for r in readings(d):
+                r['_src'] = f'{code}/{r["_file"]}'
+                all_reads.setdefault(code, []).append(r)
     variants = {}
     for code, rs in all_reads.items():
         for r in rs:
             for other in set(r.get('applies_to') or []) - {code}:
                 variants.setdefault(other, []).append(r)
     todo = a.codes or sorted(set(all_reads) | (set(variants) & set(mods)))
-    total = {'modules': 0, 'pins': 0, 'conflicts': 0}
+    total = {'modules': 0, 'pins': 0, 'conflicts': 0, 'to_check': 0}
+    docs = {}
     for code in todo:
-        d = mods.get(code)
-        if not d:
+        ds = mods.get(code)
+        if not ds:
             continue
         doc = build(code, all_reads.get(code, []), variants.get(code, []))
         if not doc:
@@ -416,24 +616,34 @@ def main():
         total['modules'] += 1
         total['pins'] += len(doc['pins'])
         total['conflicts'] += len(doc['conflicts'])
+        total['to_check'] += len(doc['to_check'])
+        docs[code] = doc
         print(f'{code}: {len(doc["pins"])} pins, {len(doc["ports"])} ports, {len(doc["inserts"])} inserts, '
               f'{len(doc["conflicts"])} conflicts, sheet agrees {doc["built_from"]["sheet_agrees"]}')
         if a.check:
             continue
-        with open(os.path.join(d, 'RTO.json'), 'w', encoding='utf-8') as fh:
-            fh.write(json.dumps(doc, ensure_ascii=False, indent=1) + '\n')
-        sym = os.path.join(d, 'KICAD', f'{code}.kicad_sym')
-        old = open(sym, encoding='utf-8').read() if os.path.exists(sym) else None
-        if old is None:
-            src = os.path.join(ENG, 'RTO-144', code, f'{code}.kicad_sym')
-            old = open(src, encoding='utf-8').read() if os.path.exists(src) else None
-        readme_section(d)
-        os.makedirs(os.path.dirname(sym), exist_ok=True)
-        if os.path.islink(sym) or (os.path.exists(sym) and os.stat(sym).st_nlink > 1):
-            os.unlink(sym)   # a hard link into Engineering: this module's own symbol now
-        with open(sym, 'w', encoding='utf-8') as fh:
-            fh.write(symbol(code, doc, old))
+        for d in ds:
+            write_module(d, code, doc)
+    if not a.check and not a.codes:
+        write_docs(docs, all_reads, mods)
     print(total)
+
+
+def write_module(d, code, doc):
+    """RTO.json, the README section and the symbol into one module repo."""
+    with open(os.path.join(d, 'RTO.json'), 'w', encoding='utf-8') as fh:
+        fh.write(json.dumps(doc, ensure_ascii=False, indent=1) + '\n')
+    sym = os.path.join(d, 'KICAD', f'{code}.kicad_sym')
+    old = open(sym, encoding='utf-8').read() if os.path.exists(sym) else None
+    if old is None:
+        src = os.path.join(ENG, 'RTO-144', code, f'{code}.kicad_sym')
+        old = open(src, encoding='utf-8').read() if os.path.exists(src) else None
+    readme_section(d)
+    os.makedirs(os.path.dirname(sym), exist_ok=True)
+    if os.path.islink(sym) or (os.path.exists(sym) and os.stat(sym).st_nlink > 1):
+        os.unlink(sym)   # a hard link into Engineering: this module's own symbol now
+    with open(sym, 'w', encoding='utf-8') as fh:
+        fh.write(symbol(code, doc, old))
 
 
 if __name__ == '__main__':
