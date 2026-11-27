@@ -102,6 +102,52 @@ def pin_table(moddir):
     return out + ['']
 
 
+def spec_section(moddir):
+    """Specifications.json (tools/module_specs.py) as a table: the technical data sheet, line by line."""
+    f = os.path.join(moddir, 'Specifications.json')
+    if not os.path.exists(f):
+        return []
+    d = json.load(open(f, encoding='utf-8'))
+    src = d['source']
+    out = ['## Specifications', '',
+           f'From the technical data sheet: [{esc(os.path.basename(src["file"]))}]({rel_url(src["file"])}) page {src["page"]} '
+           f'(read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).', '',
+           '| | |', '|---|---|']
+    for x in d['specifications']:
+        cell = lambda t: esc(t).replace('|', '\\|')
+        out.append(f'| **{cell(x["name"])}** | {cell(x.get("text", ""))} |')
+        for it in x.get('items', []):
+            out.append(f'| &nbsp;&nbsp;{cell(it["name"])} | {cell(it.get("text", ""))} |')
+    return out + ['']
+
+
+def circuit_section(moddir):
+    """CircuitDescription.json (tools/module_specs.py): the manual's circuit description, folded."""
+    f = os.path.join(moddir, 'CircuitDescription.json')
+    if not os.path.exists(f):
+        return []
+    d = json.load(open(f, encoding='utf-8'))
+    src = d['source']
+    pages = src['pages']
+    pg = f'pages {pages[0]}-{pages[-1]}' if len(pages) > 1 else f'page {pages[0]}'
+    out = ['## Circuit description', '',
+           f'From [{esc(os.path.basename(src["file"]))}]({rel_url(src["file"])}) {pg} (read by OCR; check against the pages). '
+           f'As data: [`CircuitDescription.json`](CircuitDescription.json).', '', '<details><summary>Read it</summary>', '']
+    for sec in d['sections']:
+        if sec.get('heading'):
+            out += [f'**{esc(sec["heading"])}**', '']
+        out += [esc(p) + '\n' for p in sec['paragraphs']]
+    return out + ['</details>', '']
+
+
+def forum_line(moddir):
+    f = os.path.join(moddir, 'FORUM.md')
+    if not os.path.exists(f):
+        return []
+    n = sum(1 for l in open(f, encoding='utf-8') if l.startswith('## '))
+    return [f'**On the WBSps forum (2006|39 - 2014|47):** [{n} topic{"s" * (n != 1)}](FORUM.md): what owners and technicians said about it.', '']
+
+
 def readme(moddir, drive):
     rel = os.path.relpath(moddir, Y2026)                 # Modules/<CAT>/<M>
     _, cat, mod = rel.split(os.sep)
@@ -117,6 +163,8 @@ def readme(moddir, drive):
             if os.path.isdir(os.path.join(moddir, 'OCR')) else 0
         out.append(f'| [{k}/]({k}/) | {SHORT[k]} | {n} |')
     out.append('')
+    block = forum_line(moddir) + spec_section(moddir) + circuit_section(moddir)
+    out += ([BEGIN, ''] + block + [END, ''] if block else [])
     total = missing = 0
     for k, title in SECTIONS:
         shown = sorted((n, p) for kk, n, p in files if kk == k and os.path.splitext(n)[1].lower() in SHOWN
@@ -166,7 +214,33 @@ def readme(moddir, drive):
     return total, missing
 
 
+BEGIN, END = '<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->', '<!-- /module data -->'
+
+
+def insert_data(moddir):
+    """Put the forum line, Specifications and Circuit description into a README that is already there (a repo clone
+    whose files no longer sit in 2026): after the folder table, between markers, replacing what a run put there before."""
+    f = os.path.join(moddir, 'README.md')
+    if not os.path.exists(f):
+        return False
+    text = open(f, encoding='utf-8').read()
+    text = re.sub(re.escape(BEGIN) + r'.*?' + re.escape(END) + r'\n*', '', text, flags=re.S)
+    block = forum_line(moddir) + spec_section(moddir) + circuit_section(moddir)
+    if block:
+        lines = text.split('\n')
+        at = next((i for i, l in enumerate(lines) if l.startswith('| [OCR/]')), None)
+        at = at + 1 if at is not None else next((i for i, l in enumerate(lines) if l.startswith('## ')), len(lines))
+        lines[at:at] = ['', BEGIN, ''] + block + [END, '']
+        text = '\n'.join(lines)
+    open(f, 'w', encoding='utf-8').write(re.sub(r'\n{3,}', '\n\n', text))
+    return bool(block)
+
+
 def main():
+    if sys.argv[1:2] == ['--insert']:   # tools/make_module_readmes.py --insert <clone> ...
+        n = sum(insert_data(os.path.abspath(d)) for d in sys.argv[2:])
+        print(f'{n} READMEs given their data')
+        return
     drive = load_drive()
     dirs = [os.path.abspath(a) for a in sys.argv[1:]] or sorted(
         p for p in glob.glob(os.path.join(Y2026, 'Modules', '*', '*')) if os.path.isdir(p))
