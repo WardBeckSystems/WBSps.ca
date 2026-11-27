@@ -43,7 +43,7 @@ SERIES = {
         title='Renaissance — Stereo Radio Audio Console',
         dirs=['Renaisance', 'Renaisance Console', 'WBS renaisance console'],
         take=lambda rel: True,
-        next='R2K',
+        next='R2K', lead='Screen shot 2010-03-25 at 9.20.22',
         about=[
             'The Renaissance is Ward-Beck Systems\' standard stereo radio audio console of the 1990s, built from the M900 '
             'series of modules in a desk-top frame with a meter bridge. It came in three standard sizes, MKI, MKII and '
@@ -96,7 +96,7 @@ SERIES = {
         title='R2K — Renaissance R2K Audio Console',
         dirs=['R2K'],
         take=lambda rel: not COOL.search(os.path.basename(rel)),
-        prev='Renaissance', next='R2K-Cool-Grey',
+        prev='Renaissance', next='R2K-Cool-Grey', lead='R2K - Manual.pdf',
         about=[
             'The R2K ("Renaissance R2K Audio Console") is the successor of the [Renaissance](Series-Renaissance.md): '
             'a stereo radio console of R200 modules, drawn from 1998 to 2000. Its technical instruction manual has '
@@ -132,7 +132,7 @@ SERIES = {
         title='R2K Cool Grey — Radio Audio Console',
         dirs=['R2K'],
         take=lambda rel: bool(COOL.search(os.path.basename(rel))),
-        prev='R2K',
+        prev='R2K', lead='Cool Grey Manual',
         about=[
             'The Cool Grey is the R2K in its later form: the same console layout and manual (turret, Torpey clock, '
             'console drawings) with the R240 / R250 modules. The R241 Stereo Input Module is "the basic input '
@@ -191,6 +191,19 @@ def thumb(d):
     return f'https://drive.google.com/thumbnail?sz=w480&id={d[0]}' + (f'&resourcekey={quote(d[1])}' if len(d) > 1 and d[1] else '')
 
 
+def big(d):
+    return f'https://drive.google.com/thumbnail?sz=w1600&id={d[0]}' + (f'&resourcekey={quote(d[1])}' if len(d) > 1 and d[1] else '')
+
+
+def tile(d, n, rel, p, dv):
+    """A gallery tile: the picture (or a PDF's first page) from Google Drive, its name, its note."""
+    src = thumb(dv) if dv else '../2026/' + quote(rel)
+    note = f'<a href="{H.escape(viewer(rel + ".md"))}" style="color:var(--faint)">note</a>' if os.path.exists(p + '.md') else ''
+    return (f'<div><a href="{H.escape(view(dv) if dv else viewer(rel))}"><img loading="lazy" src="{H.escape(src)}" '
+            f'alt="{H.escape(label(n, d))}" data-f="{H.escape(rel)}" data-size="320" onerror="wbsOff(this)" '
+            f'style="height:150px">{H.escape(label(n, d))}</a>{note}</div>')
+
+
 def viewer(rel):
     return '../2026/viewer.html?f=' + quote(rel)
 
@@ -243,6 +256,24 @@ def page(key, s, drive):
         md.append(f'| After it | [{s["next"].replace("-", " ")}](Series-{s["next"]}.md) |')
     md += [f'| Folder | [{d}](../2026/{quote(RS + "/" + d)}/) |' for d in s['dirs']]
     md += [f'| Files | {len(files)} |', '']
+    groups = {'photo': [], 'manual': [], 'drawing': []}
+    for d, n, rel, p in files:
+        groups[kind(d, n)].append((d, n, rel, p, drive_of(rel, p, drive)))
+    every = groups['photo'] + groups['drawing'] + groups['manual']
+    lead = next((f for f in every if s.get('lead') and s['lead'] in f[1]), every[0] if every else None)
+    if lead:                                           # the pictures first: one large, then every one as a tile
+        d, n, rel, p, dv = lead
+        src = big(dv) if dv else '../2026/' + quote(rel)
+        md += ['<p class="lead" style="margin:6px 0 18px"><a href="' + H.escape(view(dv) if dv else viewer(rel)) + '">'
+               f'<img src="{H.escape(src)}" alt="{H.escape(label(n, d))}" data-f="{H.escape(rel)}" data-size="1200" '
+               'onerror="wbsOff(this)" style="display:block;width:100%;max-height:560px;object-fit:contain;'
+               'background:#fff;border:1px solid var(--rule)"></a>'
+               f'<small>{H.escape(label(n, d))}</small></p>', '']
+    for k, title in (('photo', 'Photos'), ('drawing', 'Drawings'), ('manual', 'Manuals and documents')):
+        if groups[k]:
+            md += [f'## {title} ({len(groups[k])})', '',
+                   '<div class="thumbs" style="grid-template-columns:repeat(auto-fill,minmax(170px,1fr))">']
+            md += [tile(*f) for f in groups[k]] + ['</div>', '']
     md += ['## The series', ''] + [p + '\n' for p in s['about']]
     md += ['## Dated evidence', '', '| Year | Evidence |', '|---|---|'] + [f'| {ylink(y)} | {e} |' for y, e in s['evidence']]
     md += ['', '_File names in the archive start with 1994 for the whole R series folder; the dates above are read from the files themselves._', '']
@@ -257,26 +288,6 @@ def page(key, s, drive):
     if s.get('specs'):
         md += ['## Specifications', '', f'_{s["specs_from"]}._', '', '|  |  |', '|---|---|']
         md += [f'| {a} | {b} |' for a, b in s['specs']] + ['']
-    groups = {'photo': [], 'manual': [], 'drawing': []}
-    for d, n, rel, p in files:
-        groups[kind(d, n)].append((d, n, rel, p, drive_of(rel, p, drive)))
-    gallery = []
-    if groups['photo']:
-        md += [f'## Photos ({len(groups["photo"])})', '', '<div class="thumbs">']
-        for d, n, rel, p, dv in groups['photo']:
-            src = thumb(dv) if dv else '../2026/' + quote(rel)
-            href = view(dv) if dv else viewer(rel)
-            md.append(f'<a href="{H.escape(href)}"><img loading="lazy" src="{H.escape(src)}" alt="{H.escape(label(n, d))}" '
-                      f'data-f="{H.escape(rel)}" data-size="320" onerror="wbsOff(this)">{H.escape(label(n, d))}</a>')
-        md += ['</div>', '']
-    for k, title in (('manual', 'Manuals and documents'), ('drawing', 'Drawings')):
-        if not groups[k]:
-            continue
-        md += [f'## {title} ({len(groups[k])})', '', '| File | Google Drive | Note |', '|---|---|---|']
-        for d, n, rel, p, dv in groups[k]:
-            note = f'[note]({viewer(rel + ".md")})' if os.path.exists(p + '.md') else ''
-            md.append(f'| [{label(n, d)}]({viewer(rel)}) | {f"[open]({view(dv)})" if dv else ""} | {note} |')
-        md.append('')
     md += ['---', FOOT, '']
     return '\n'.join(md), len(files)
 
