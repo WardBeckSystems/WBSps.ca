@@ -25,6 +25,9 @@ docker/ftp-passwd/
 *.[hH][eE][iI][cC]
 *.[hH][eE][iI][fF]
 *.[sS][vV][gG]
+# ...except the site's own logo, on every page's header (site chrome, not archive media)
+!/WBS_Logo.svg
+!/2026/WBS_Logo.svg
 *.[iI][cC][oO]
 *.[pP][sS][dD]
 *.[aA][iI]
