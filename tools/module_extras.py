@@ -146,8 +146,11 @@ def extras(moddir, traced, pairs):
             m = DTYPE.search(fh.read(400))
         if m and m.group(1).decode() in ELECTRICAL:
             pairs.append([svg, os.path.join(moddir, 'KICAD', f'{stem}.kicad_sch')])
+    # Pinout pictures read into <picture>.pinout.json: RTO.json and the symbol come from
+    # them (tools/pinout_build.py), not from Engineering/IO and the RTO-144 sheet alone
+    from_pictures = bool(glob.glob(os.path.join(moddir, '*', '*.pinout.json')))
     # the module symbol, its PCB projects
-    for sym in (os.path.join(ENG, 'RTO-144', code, f'{code}.kicad_sym'), os.path.join(ENG, 'KICAD', f'{code}.kicad_sym')):
+    for sym in [] if from_pictures else (os.path.join(ENG, 'RTO-144', code, f'{code}.kicad_sym'), os.path.join(ENG, 'KICAD', f'{code}.kicad_sym')):
         if os.path.exists(sym):
             n['kicad'] += link(sym, os.path.join(moddir, 'KICAD', f'{code}.kicad_sym'))
             break
@@ -167,7 +170,7 @@ def extras(moddir, traced, pairs):
                       (os.path.join(ENG, 'IO', f'{code}.connections.svg'), f'{code} - connections.svg')):
         if os.path.exists(src) and not os.path.exists(os.path.join(moddir, name)):   # a top-level copy counts too
             n['pinouts'] += link(src, os.path.join(moddir, 'PINOUTS', name))
-    doc = pins_doc(code)
+    doc = None if from_pictures else pins_doc(code)
     if doc:
         t = json.dumps(doc, ensure_ascii=False, indent=1) + '\n'
         p = os.path.join(moddir, 'RTO.json')

@@ -1,14 +1,4 @@
 (kicad_symbol_lib (version 20231120) (generator "WBSps KiCad - Category PODS") (generator_version "2.0")
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD1
-  ;; Title: Bi-Directional Audio Interface
-  ;; Category: PODS | Series: Standard | Year: 1995
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD1.html
-  ;; ====================================================================
   (symbol "POD1" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD1" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -22,6 +12,10 @@
     (property "Year" "1995" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Bi-Directional Audio Interface" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD1_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD1_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -32,16 +26,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD10
-  ;; Title: Digital Audio Switcher
-  ;; Category: PODS | Series: Standard | Year: 2013
-  ;; Power: See manual
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD10.html
-  ;; ====================================================================
   (symbol "POD10" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 20.32 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD10" (at 0 -20.32 0) (effects (font (size 1.27 1.27))))
@@ -55,6 +39,10 @@
     (property "Year" "2013" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "See manual" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Digital Audio Switcher" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD10_0_1" (rectangle (start -25.40 15.24) (end 25.40 -15.24) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD10_1_1"
       (pin input line (at -30.48 12.70 0) (length 5.08) (name "INPUT 4" (effects (font (size 1.27 1.27)))) (number "4" (effects (font (size 1.27 1.27)))))
@@ -68,16 +56,6 @@
       (pin power_in line (at 0.00 -20.32 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "9" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD10A
-  ;; Title: AES Switcher
-  ;; Category: PODS | Series: Standard | Year: 2014
-  ;; Power: See manual
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD10A.html
-  ;; ====================================================================
   (symbol "POD10A" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 20.32 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD10A" (at 0 -20.32 0) (effects (font (size 1.27 1.27))))
@@ -91,6 +69,10 @@
     (property "Year" "2014" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "See manual" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "AES Switcher" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD10A_0_1" (rectangle (start -25.40 15.24) (end 25.40 -15.24) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD10A_1_1"
       (pin input line (at -30.48 12.70 0) (length 5.08) (name "INPUT 4" (effects (font (size 1.27 1.27)))) (number "4" (effects (font (size 1.27 1.27)))))
@@ -104,16 +86,6 @@
       (pin power_in line (at 0.00 -20.32 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "9" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD11A
-  ;; Title: Digital Stereo Loudness Meter
-  ;; Category: PODS | Series: Standard | Year: 2014
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD11A.html
-  ;; ====================================================================
   (symbol "POD11A" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD11A" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -127,6 +99,10 @@
     (property "Year" "2014" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Digital Stereo Loudness Meter" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD11A_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD11A_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -137,16 +113,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD12
-  ;; Title: Digital Audio Distribution Amplifier
-  ;; Category: PODS | Series: Standard | Year: 2013
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD12.html
-  ;; ====================================================================
   (symbol "POD12" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD12" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -160,6 +126,10 @@
     (property "Year" "2013" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Digital Audio Distribution Amplifier" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD12_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD12_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -170,16 +140,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD12A
-  ;; Title: Digital Audio DA
-  ;; Category: PODS | Series: Standard | Year: 2014
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD12A.html
-  ;; ====================================================================
   (symbol "POD12A" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD12A" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -193,6 +153,10 @@
     (property "Year" "2014" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Digital Audio DA" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD12A_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD12A_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -203,16 +167,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD13A
-  ;; Title: Dual Digital-Analog Converter
-  ;; Category: PODS | Series: Standard | Year: 2014
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD13A.html
-  ;; ====================================================================
   (symbol "POD13A" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD13A" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -226,6 +180,10 @@
     (property "Year" "2014" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Dual Digital-Analog Converter" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD13A_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD13A_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -236,16 +194,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD14A
-  ;; Title: Dual Analog To Digital Converter
-  ;; Category: PODS | Series: Standard | Year: 2014
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD14A.html
-  ;; ====================================================================
   (symbol "POD14A" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD14A" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -259,6 +207,10 @@
     (property "Year" "2014" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Dual Analog To Digital Converter" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD14A_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD14A_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -269,16 +221,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD14B
-  ;; Title: Dual Analog To Digital Converter
-  ;; Category: PODS | Series: Standard | Year: 2014
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD14B.html
-  ;; ====================================================================
   (symbol "POD14B" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD14B" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -292,6 +234,10 @@
     (property "Year" "2014" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Dual Analog To Digital Converter" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD14B_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD14B_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -302,16 +248,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD15A
-  ;; Title: Analog Video Distribution Amplifier
-  ;; Category: PODS | Series: Standard | Year: 2014
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD15A.html
-  ;; ====================================================================
   (symbol "POD15A" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD15A" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -325,6 +261,10 @@
     (property "Year" "2014" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Analog Video Distribution Amplifier" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD15A_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD15A_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -335,16 +275,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD16
-  ;; Title: Stereo Audio Fader
-  ;; Category: PODS | Series: Standard | Year: 2014
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD16.html
-  ;; ====================================================================
   (symbol "POD16" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD16" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -358,6 +288,10 @@
     (property "Year" "2014" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Stereo Audio Fader" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD16_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD16_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -368,16 +302,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD17
-  ;; Title: Digital Audio Distribution Amplifier
-  ;; Category: PODS | Series: Standard | Year: 2014
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD17.html
-  ;; ====================================================================
   (symbol "POD17" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD17" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -391,6 +315,10 @@
     (property "Year" "2014" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Digital Audio Distribution Amplifier" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD17_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD17_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -401,16 +329,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD18
-  ;; Title: Quad Audio Interface
-  ;; Category: PODS | Series: Standard | Year: 2014
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD18.html
-  ;; ====================================================================
   (symbol "POD18" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD18" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -424,6 +342,10 @@
     (property "Year" "2014" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Quad Audio Interface" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD18_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD18_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -434,16 +356,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD2
-  ;; Title: Stereo Audio Switcher
-  ;; Category: PODS | Series: Standard | Year: 1997
-  ;; Power: VDD
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD2.html
-  ;; ====================================================================
   (symbol "POD2" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 15.24 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD2" (at 0 -15.24 0) (effects (font (size 1.27 1.27))))
@@ -457,6 +369,10 @@
     (property "Year" "1997" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VDD" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Stereo Audio Switcher" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD2_0_1" (rectangle (start -27.94 10.16) (end 27.94 -10.16) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD2_1_1"
       (pin input line (at -33.02 7.62 0) (length 5.08) (name "In Spare +" (effects (font (size 1.27 1.27)))) (number "I1P" (effects (font (size 1.27 1.27)))))
@@ -467,16 +383,6 @@
       (pin power_in line (at 0.00 -15.24 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "IN MIX GND" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD22
-  ;; Title: Stereo Loudness Meter
-  ;; Category: PODS | Series: Standard | Year: 2014
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD22.html
-  ;; ====================================================================
   (symbol "POD22" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD22" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -490,6 +396,10 @@
     (property "Year" "2014" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Stereo Loudness Meter" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD22_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD22_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -500,16 +410,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD22A
-  ;; Title: Stereo Loudness Meter
-  ;; Category: PODS | Series: Standard | Year: 2014
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD22A.html
-  ;; ====================================================================
   (symbol "POD22A" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD22A" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -523,6 +423,10 @@
     (property "Year" "2014" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Stereo Loudness Meter" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD22A_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD22A_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -533,16 +437,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD24
-  ;; Title: Power Amplifier
-  ;; Category: PODS | Series: Standard | Year: 2014
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD24.html
-  ;; ====================================================================
   (symbol "POD24" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD24" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -556,6 +450,10 @@
     (property "Year" "2014" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Power Amplifier" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD24_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD24_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -566,16 +464,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD25
-  ;; Title: Silence Detector
-  ;; Category: PODS | Series: Standard | Year: 2014
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD25.html
-  ;; ====================================================================
   (symbol "POD25" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD25" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -589,6 +477,10 @@
     (property "Year" "2014" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Silence Detector" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD25_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD25_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -599,16 +491,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD26
-  ;; Title: Audio Level Amplifier
-  ;; Category: PODS | Series: Standard | Year: 2014
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD26.html
-  ;; ====================================================================
   (symbol "POD26" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD26" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -622,6 +504,10 @@
     (property "Year" "2014" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Audio Level Amplifier" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD26_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD26_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -632,16 +518,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD27
-  ;; Title: Audio Muxer
-  ;; Category: PODS | Series: Standard | Year: 2014
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD27.html
-  ;; ====================================================================
   (symbol "POD27" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD27" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -655,6 +531,10 @@
     (property "Year" "2014" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Audio Muxer" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD27_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD27_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -665,16 +545,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD28
-  ;; Title: HD-SDI Distribution Amplifier
-  ;; Category: PODS | Series: Standard | Year: 2014
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD28.html
-  ;; ====================================================================
   (symbol "POD28" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD28" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -688,6 +558,10 @@
     (property "Year" "2014" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "HD-SDI Distribution Amplifier" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD28_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD28_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -698,16 +572,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD29
-  ;; Title: Regulated Power Supply
-  ;; Category: PODS | Series: Standard | Year: 2014
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD29.html
-  ;; ====================================================================
   (symbol "POD29" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD29" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -721,6 +585,10 @@
     (property "Year" "2014" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Regulated Power Supply" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD29_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD29_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -731,16 +599,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD3
-  ;; Title: Stereo Level VU Meter
-  ;; Category: PODS | Series: Standard | Year: 1994
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD3.html
-  ;; ====================================================================
   (symbol "POD3" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD3" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -754,6 +612,10 @@
     (property "Year" "1994" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Stereo Level VU Meter" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD3_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD3_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -764,16 +626,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD30
-  ;; Title: 4x1 HD-SDI Switcher
-  ;; Category: PODS | Series: Standard | Year: 2014
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD30.html
-  ;; ====================================================================
   (symbol "POD30" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD30" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -787,6 +639,10 @@
     (property "Year" "2014" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "4x1 HD-SDI Switcher" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD30_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD30_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -797,16 +653,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD31
-  ;; Title: SD/HD-SDI AES Demuxer
-  ;; Category: PODS | Series: Standard | Year: 2013
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD31.html
-  ;; ====================================================================
   (symbol "POD31" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD31" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -820,6 +666,10 @@
     (property "Year" "2013" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "SD/HD-SDI AES Demuxer" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD31_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD31_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -830,16 +680,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD32
-  ;; Title: MD-SDI AES Muxer
-  ;; Category: PODS | Series: Standard | Year: 2013
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD32.html
-  ;; ====================================================================
   (symbol "POD32" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD32" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -853,6 +693,10 @@
     (property "Year" "2013" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "MD-SDI AES Muxer" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD32_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD32_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -863,16 +707,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD33
-  ;; Title: AES DARS Tone Generator
-  ;; Category: PODS | Series: Standard | Year: 2017
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD33.html
-  ;; ====================================================================
   (symbol "POD33" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD33" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -886,6 +720,10 @@
     (property "Year" "2017" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "AES DARS Tone Generator" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD33_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD33_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -896,16 +734,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD34
-  ;; Title: 30 Watt Class D Amplifier With Digital & Analog Input
-  ;; Category: PODS | Series: Standard | Year: 2015
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD34.html
-  ;; ====================================================================
   (symbol "POD34" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD34" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -919,6 +747,10 @@
     (property "Year" "2015" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "30 Watt Class D Amplifier With Digital & Analog Input" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD34_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD34_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -929,16 +761,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD3A
-  ;; Title: Analog Stereo Loudness Meter
-  ;; Category: PODS | Series: Standard | Year: 2014
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD3A.html
-  ;; ====================================================================
   (symbol "POD3A" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD3A" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -952,6 +774,10 @@
     (property "Year" "2014" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Analog Stereo Loudness Meter" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD3A_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD3A_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -962,16 +788,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD4
-  ;; Title: Dual Microphone Preamplifier
-  ;; Category: PODS | Series: Standard | Year: 1995
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD4.html
-  ;; ====================================================================
   (symbol "POD4" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD4" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -985,6 +801,10 @@
     (property "Year" "1995" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Dual Microphone Preamplifier" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD4_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD4_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -995,16 +815,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD5
-  ;; Title: Dual Headset Amplifier
-  ;; Category: PODS | Series: Standard | Year: 1995
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD5.html
-  ;; ====================================================================
   (symbol "POD5" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD5" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1018,6 +828,10 @@
     (property "Year" "1995" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Dual Headset Amplifier" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD5_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD5_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1028,16 +842,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD5A
-  ;; Title: Dual Headset Amplifier
-  ;; Category: PODS | Series: Standard | Year: 1995
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD5A.html
-  ;; ====================================================================
   (symbol "POD5A" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD5A" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1051,6 +855,10 @@
     (property "Year" "1995" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Dual Headset Amplifier" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD5A_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD5A_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1061,16 +869,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD5B
-  ;; Title: Dual Headset Amplifier
-  ;; Category: PODS | Series: Standard | Year: 1995
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD5B.html
-  ;; ====================================================================
   (symbol "POD5B" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD5B" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1084,6 +882,10 @@
     (property "Year" "1995" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Dual Headset Amplifier" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD5B_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD5B_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1094,16 +896,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD6
-  ;; Title: Miniature Stereo Headphone Module
-  ;; Category: PODS | Series: Standard | Year: 1997
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD6.html
-  ;; ====================================================================
   (symbol "POD6" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD6" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1117,6 +909,10 @@
     (property "Year" "1997" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Miniature Stereo Headphone Module" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD6_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD6_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1127,16 +923,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD6B
-  ;; Title: Miniature Stereo Headphone Module
-  ;; Category: PODS | Series: Standard | Year: 1997
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD6B.html
-  ;; ====================================================================
   (symbol "POD6B" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD6B" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1150,6 +936,10 @@
     (property "Year" "1997" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Miniature Stereo Headphone Module" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD6B_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD6B_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1160,16 +950,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD6C
-  ;; Title: Miniature Stereo Headphone Module
-  ;; Category: PODS | Series: Standard | Year: 1997
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD6C.html
-  ;; ====================================================================
   (symbol "POD6C" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD6C" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1183,6 +963,10 @@
     (property "Year" "1997" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Miniature Stereo Headphone Module" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD6C_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD6C_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1193,16 +977,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD7
-  ;; Title: Universal Interface
-  ;; Category: PODS | Series: Standard | Year: 1994
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD7.html
-  ;; ====================================================================
   (symbol "POD7" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD7" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1216,6 +990,10 @@
     (property "Year" "1994" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Universal Interface" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD7_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD7_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1226,16 +1004,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD7A
-  ;; Title: Universal Interface
-  ;; Category: PODS | Series: Standard | Year: 1997
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD7A.html
-  ;; ====================================================================
   (symbol "POD7A" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD7A" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1249,6 +1017,10 @@
     (property "Year" "1997" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Universal Interface" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD7A_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD7A_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1259,16 +1031,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD7B
-  ;; Title: Universal Interface
-  ;; Category: PODS | Series: Standard | Year: 1997
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD7B.html
-  ;; ====================================================================
   (symbol "POD7B" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD7B" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1282,6 +1044,10 @@
     (property "Year" "1997" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Universal Interface" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD7B_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD7B_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1292,16 +1058,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD8
-  ;; Title: Stereo Distribution Amplifier
-  ;; Category: PODS | Series: Standard | Year: 1995
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD8.html
-  ;; ====================================================================
   (symbol "POD8" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD8" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1315,6 +1071,10 @@
     (property "Year" "1995" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Stereo Distribution Amplifier" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD8_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD8_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1325,16 +1085,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD8A
-  ;; Title: Analog Audio Distribution Amplifier
-  ;; Category: PODS | Series: Standard | Year: 2015
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD8A.html
-  ;; ====================================================================
   (symbol "POD8A" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD8A" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1348,6 +1098,10 @@
     (property "Year" "2015" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Analog Audio Distribution Amplifier" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD8A_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD8A_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1358,16 +1112,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: POD9
-  ;; Title: Video Switcher
-  ;; Category: PODS | Series: Standard | Year: 1995
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/POD9.html
-  ;; ====================================================================
   (symbol "POD9" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "POD9" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1381,6 +1125,10 @@
     (property "Year" "1995" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Video Switcher" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "POD9_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "POD9_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))

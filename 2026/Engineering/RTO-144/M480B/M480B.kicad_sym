@@ -1,14 +1,4 @@
 (kicad_symbol_lib (version 20231120) (generator "WBSps KiCad - M480B") (generator_version "2.0")
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M480B
-  ;; Title: Input Module Schematic
-  ;; Category: INPUT-PRE-AMPS | Series: Standard | Year: 1980
-  ;; Power: VEE-AUDIO -25V, VCC-AUDIO +25V
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M480B.html
-  ;; ====================================================================
   (symbol "M480B" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 20.32 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M480B" (at 0 -20.32 0) (effects (font (size 1.27 1.27))))
@@ -22,6 +12,10 @@
     (property "Year" "1980" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VEE-AUDIO -25V, VCC-AUDIO +25V" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Input Module Schematic" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M480B_0_1" (rectangle (start -33.02 15.24) (end 33.02 -15.24) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M480B_1_1"
       (pin input line (at -38.10 12.70 0) (length 5.08) (name "MIC-IN-B +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))

@@ -1,14 +1,4 @@
 (kicad_symbol_lib (version 20231120) (generator "WBSps KiCad - Category DYNAMICS") (generator_version "2.0")
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M406
-  ;; Title: Compressor - Limiter
-  ;; Category: DYNAMICS | Series: Standard | Year: 1968
-  ;; Power: VCC-AUDIO +48V, VCC-LAMP +24V
-  ;; Impedance: Out: 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M406.html
-  ;; ====================================================================
   (symbol "M406" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M406" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -22,6 +12,10 @@
     (property "Year" "1968" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC-AUDIO +48V, VCC-LAMP +24V" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Out: 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Compressor - Limiter" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M406_0_1" (rectangle (start -35.56 7.62) (end 35.56 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M406_1_1"
       (pin output line (at 40.64 5.08 180) (length 5.08) (name "Meter OUT +" (effects (font (size 1.27 1.27)))) (number "15" (effects (font (size 1.27 1.27)))))
@@ -36,16 +30,6 @@
       (pin power_in line (at 12.70 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "19" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M406A
-  ;; Title: M406A
-  ;; Category: DYNAMICS | Series: Standard | Year: 1968
-  ;; Power: +24 V, +48 V
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M406A.html
-  ;; ====================================================================
   (symbol "M406A" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M406A" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -59,6 +43,10 @@
     (property "Year" "1968" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "+24 V, +48 V" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M406A" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M406A_0_1" (rectangle (start -35.56 7.62) (end 35.56 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M406A_1_1"
       (pin input line (at -40.64 5.08 0) (length 5.08) (name "SIDE CHAIN" (effects (font (size 1.27 1.27)))) (number "17" (effects (font (size 1.27 1.27)))))
@@ -74,16 +62,6 @@
       (pin power_in line (at 12.70 -12.70 90) (length 5.08) (name "COMMON" (effects (font (size 1.27 1.27)))) (number "19" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M406B
-  ;; Title: Compressor/Limiter
-  ;; Category: DYNAMICS | Series: Standard | Year: 1969
-  ;; Power: +24 V, +48 V
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M406B.html
-  ;; ====================================================================
   (symbol "M406B" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M406B" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -97,6 +75,10 @@
     (property "Year" "1969" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "+24 V, +48 V" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Compressor/Limiter" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M406B_0_1" (rectangle (start -35.56 7.62) (end 35.56 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M406B_1_1"
       (pin input line (at -40.64 5.08 0) (length 5.08) (name "SIDE CHAIN" (effects (font (size 1.27 1.27)))) (number "17" (effects (font (size 1.27 1.27)))))
@@ -112,16 +94,6 @@
       (pin power_in line (at 12.70 -12.70 90) (length 5.08) (name "COMMON" (effects (font (size 1.27 1.27)))) (number "19" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M406C
-  ;; Title: M406C
-  ;; Category: DYNAMICS | Series: Standard | Year: 1968
-  ;; Power: +24 V, +48 V
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M406C.html
-  ;; ====================================================================
   (symbol "M406C" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M406C" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -135,6 +107,10 @@
     (property "Year" "1968" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "+24 V, +48 V" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M406C" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M406C_0_1" (rectangle (start -35.56 7.62) (end 35.56 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M406C_1_1"
       (pin input line (at -40.64 5.08 0) (length 5.08) (name "SIDE CHAIN" (effects (font (size 1.27 1.27)))) (number "17" (effects (font (size 1.27 1.27)))))
@@ -150,16 +126,6 @@
       (pin power_in line (at 12.70 -12.70 90) (length 5.08) (name "COMMON" (effects (font (size 1.27 1.27)))) (number "19" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M406M
-  ;; Title: M406M
-  ;; Category: DYNAMICS | Series: Standard | Year: 1968
-  ;; Power: +24 V, +48 V
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M406M.html
-  ;; ====================================================================
   (symbol "M406M" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M406M" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -173,6 +139,10 @@
     (property "Year" "1968" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "+24 V, +48 V" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M406M" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M406M_0_1" (rectangle (start -35.56 7.62) (end 35.56 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M406M_1_1"
       (pin input line (at -40.64 5.08 0) (length 5.08) (name "SIDE CHAIN" (effects (font (size 1.27 1.27)))) (number "17" (effects (font (size 1.27 1.27)))))
@@ -188,16 +158,6 @@
       (pin power_in line (at 12.70 -12.70 90) (length 5.08) (name "COMMON" (effects (font (size 1.27 1.27)))) (number "19" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M415
-  ;; Title: Mic/line Amplifier with compression
-  ;; Category: DYNAMICS | Series: Standard | Year: 1971
-  ;; Power: +15V
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M415.html
-  ;; ====================================================================
   (symbol "M415" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M415" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -211,6 +171,10 @@
     (property "Year" "1971" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "+15V" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Mic/line Amplifier with compression" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M415_0_1" (rectangle (start -27.94 7.62) (end 27.94 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M415_1_1"
       (pin input line (at -33.02 5.08 0) (length 5.08) (name "AUDIO IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -222,16 +186,6 @@
       (pin power_in line (at 2.54 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "7" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M465
-  ;; Title: Reverb Module
-  ;; Category: DYNAMICS | Series: Standard | Year: 1974
-  ;; Power: See manual
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M465.html
-  ;; ====================================================================
   (symbol "M465" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 55.88 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M465" (at 0 -55.88 0) (effects (font (size 1.27 1.27))))
@@ -245,6 +199,10 @@
     (property "Year" "1974" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "See manual" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Reverb Module" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M465_0_1" (rectangle (start -30.48 50.80) (end 30.48 -50.80) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M465_1_1"
       (pin input line (at -35.56 48.26 0) (length 5.08) (name "RETURN IN" (effects (font (size 1.27 1.27)))) (number "P" (effects (font (size 1.27 1.27)))))
@@ -280,16 +238,6 @@
       (pin power_in line (at 2.54 -55.88 90) (length 5.08) (name "25V COM" (effects (font (size 1.27 1.27)))) (number "17" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M465A
-  ;; Title: Reverb Module
-  ;; Category: DYNAMICS | Series: Standard | Year: 1977
-  ;; Power: See manual
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M465A.html
-  ;; ====================================================================
   (symbol "M465A" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 55.88 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M465A" (at 0 -55.88 0) (effects (font (size 1.27 1.27))))
@@ -303,6 +251,10 @@
     (property "Year" "1977" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "See manual" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Reverb Module" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M465A_0_1" (rectangle (start -30.48 50.80) (end 30.48 -50.80) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M465A_1_1"
       (pin input line (at -35.56 48.26 0) (length 5.08) (name "RETURN IN" (effects (font (size 1.27 1.27)))) (number "P" (effects (font (size 1.27 1.27)))))
@@ -338,16 +290,6 @@
       (pin power_in line (at 2.54 -55.88 90) (length 5.08) (name "25V COM" (effects (font (size 1.27 1.27)))) (number "17" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M465B
-  ;; Title: Reverb Module
-  ;; Category: DYNAMICS | Series: Standard | Year: 1982
-  ;; Power: See manual
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M465B.html
-  ;; ====================================================================
   (symbol "M465B" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M465B" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -361,21 +303,15 @@
     (property "Year" "1982" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "See manual" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Reverb Module" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M465B_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M465B_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "INPUT SIGNAL" (effects (font (size 1.27 1.27)))) (number "16" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M466
-  ;; Title: Compressor - Limiter
-  ;; Category: DYNAMICS | Series: L-EFFECT | Year: 1976
-  ;; Power: VEE-AUDIO -25V, VCC-AUDIO +25V
-  ;; Impedance: Line in: 600Ω, Out: 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M466.html
-  ;; ====================================================================
   (symbol "M466" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 17.78 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M466" (at 0 -17.78 0) (effects (font (size 1.27 1.27))))
@@ -389,6 +325,10 @@
     (property "Year" "1976" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VEE-AUDIO -25V, VCC-AUDIO +25V" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Line in: 600Ω, Out: 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Compressor - Limiter" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "L-EFFECT" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M466_0_1" (rectangle (start -45.72 12.70) (end 45.72 -12.70) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M466_1_1"
       (pin input line (at -50.80 10.16 0) (length 5.08) (name "Dynamics-IN-LEFT +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -410,16 +350,6 @@
       (pin power_in line (at 10.16 -17.78 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "20" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M466C
-  ;; Title: M466C
-  ;; Category: DYNAMICS | Series: Standard | Year: 1976
-  ;; Power: -25 V, +25 V
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M466C.html
-  ;; ====================================================================
   (symbol "M466C" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 15.24 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M466C" (at 0 -15.24 0) (effects (font (size 1.27 1.27))))
@@ -433,6 +363,10 @@
     (property "Year" "1976" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "-25 V, +25 V" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M466C" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M466C_0_1" (rectangle (start -25.40 10.16) (end 25.40 -10.16) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M466C_1_1"
       (pin input line (at -30.48 7.62 0) (length 5.08) (name "INPUT" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -451,16 +385,6 @@
       (pin passive line (at 7.62 -15.24 90) (length 5.08) (name "CHASSIS GND" (effects (font (size 1.27 1.27)))) (number "22" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M466M
-  ;; Title: Meter Module
-  ;; Category: DYNAMICS | Series: Standard | Year: 1976
-  ;; Power: See manual
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M466M.html
-  ;; ====================================================================
   (symbol "M466M" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M466M" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -474,6 +398,10 @@
     (property "Year" "1976" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "See manual" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Meter Module" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M466M_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M466M_1_1"
       (pin bidirectional line (at 30.48 5.08 180) (length 5.08) (name "VU Meter +" (effects (font (size 1.27 1.27)))) (number "12" (effects (font (size 1.27 1.27)))))
@@ -484,16 +412,6 @@
       (pin power_in line (at 7.62 -12.70 90) (length 5.08) (name "COMP TIE - 2 -" (effects (font (size 1.27 1.27)))) (number "9" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M467
-  ;; Title: DYMAMICS
-  ;; Category: DYNAMICS | Series: L-EFFECT | Year: 1976
-  ;; Power: VEE-AUDIO -25V, VCC-AUDIO +25V
-  ;; Impedance: Line in: 600Ω, Out: 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M467.html
-  ;; ====================================================================
   (symbol "M467" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 17.78 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M467" (at 0 -17.78 0) (effects (font (size 1.27 1.27))))
@@ -507,6 +425,10 @@
     (property "Year" "1976" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VEE-AUDIO -25V, VCC-AUDIO +25V" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Line in: 600Ω, Out: 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "DYMAMICS" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "L-EFFECT" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M467_0_1" (rectangle (start -45.72 12.70) (end 45.72 -12.70) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M467_1_1"
       (pin input line (at -50.80 10.16 0) (length 5.08) (name "Dynamics-IN-LEFT +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -530,16 +452,6 @@
       (pin power_in line (at 10.16 -17.78 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "20" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M8207
-  ;; Title: M8207
-  ;; Category: DYNAMICS | Series: Standard | Year: 1995
-  ;; Power: ±22 VOLT DC SUPPLY BUS VOLTAGES, ±22 VOLT DC SUPPLY BUS VOLTAGES
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M8207.html
-  ;; ====================================================================
   (symbol "M8207" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M8207" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -553,6 +465,10 @@
     (property "Year" "1995" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "±22 VOLT DC SUPPLY BUS VOLTAGES, ±22 VOLT DC SUPPLY BUS VOLTAGES" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M8207" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M8207_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M8207_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "INPUT SIGNAL" (effects (font (size 1.27 1.27)))) (number "K" (effects (font (size 1.27 1.27)))))

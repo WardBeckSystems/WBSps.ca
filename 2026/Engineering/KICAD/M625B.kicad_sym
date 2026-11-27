@@ -1,14 +1,4 @@
 (kicad_symbol_lib (version 20231120) (generator "WBSps KiCad - M625B") (generator_version "2.0")
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M625B
-  ;; Title: Power Supply
-  ;; Category: POWER | Series: Standard | Year: 1978
-  ;; Power: See manual
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M625B.html
-  ;; ====================================================================
   (symbol "M625B" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 20.32 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M625B" (at 0 -20.32 0) (effects (font (size 1.27 1.27))))
@@ -22,6 +12,10 @@
     (property "Year" "1978" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "See manual" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Power Supply" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M625B_0_1" (rectangle (start -53.34 15.24) (end 53.34 -15.24) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M625B_1_1"
       (pin output line (at 58.42 12.70 180) (length 5.08) (name "OUTPUT CONTROLS THE BASE CURRENT TURN DRIVES" (effects (font (size 1.27 1.27)))) (number "21" (effects (font (size 1.27 1.27)))))

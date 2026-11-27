@@ -1,14 +1,4 @@
 (kicad_symbol_lib (version 20231120) (generator "WBSps KiCad - M461AB") (generator_version "2.0")
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M461AB
-  ;; Title: Microphone Preamp
-  ;; Category: RTO | Series: Standard | Year: N/A
-  ;; Power: VEE-AUDIO -25V, VCC-AUDIO +25V, VCC-LAMP +24V
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M461AB.html
-  ;; ====================================================================
   (symbol "M461AB" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 33.02 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M461AB" (at 0 -33.02 0) (effects (font (size 1.27 1.27))))
@@ -22,6 +12,10 @@
     (property "Year" "" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VEE-AUDIO -25V, VCC-AUDIO +25V, VCC-LAMP +24V" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Microphone Preamp" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M461AB_0_1" (rectangle (start -40.64 27.94) (end 40.64 -27.94) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M461AB_1_1"
       (pin input line (at -45.72 25.40 0) (length 5.08) (name "Mic In +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))

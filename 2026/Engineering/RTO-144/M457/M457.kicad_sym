@@ -1,14 +1,4 @@
 (kicad_symbol_lib (version 20231120) (generator "WBSps KiCad - M457") (generator_version "2.0")
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M457
-  ;; Title: Pre-Mixer Module
-  ;; Category: ROUTING | Series: Standard | Year: 1975
-  ;; Power: See manual
-  ;; Impedance: Out: 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M457.html
-  ;; ====================================================================
   (symbol "M457" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 30.48 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M457" (at 0 -30.48 0) (effects (font (size 1.27 1.27))))
@@ -22,6 +12,10 @@
     (property "Year" "1975" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "See manual" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Out: 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Pre-Mixer Module" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M457_0_1" (rectangle (start -33.02 25.40) (end 33.02 -25.40) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M457_1_1"
       (pin input line (at -38.10 22.86 0) (length 5.08) (name "MIC IN 1 +" (effects (font (size 1.27 1.27)))) (number "8" (effects (font (size 1.27 1.27)))))

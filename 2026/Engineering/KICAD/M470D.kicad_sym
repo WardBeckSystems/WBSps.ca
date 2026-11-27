@@ -1,14 +1,4 @@
 (kicad_symbol_lib (version 20231120) (generator "WBSps KiCad - M470D") (generator_version "2.0")
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M470D
-  ;; Title: 2AUX with pan
-  ;; Category: INPUT-PRE-AMPS | Series: Standard | Year: 1977
-  ;; Power: -25 V, +24 V, +25 V
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M470D.html
-  ;; ====================================================================
   (symbol "M470D" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 76.20 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M470D" (at 0 -76.20 0) (effects (font (size 1.27 1.27))))
@@ -22,6 +12,10 @@
     (property "Year" "1977" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "-25 V, +24 V, +25 V" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "2AUX with pan" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M470D_0_1" (rectangle (start -60.96 71.12) (end 60.96 -71.12) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M470D_1_1"
       (pin input line (at -66.04 68.58 0) (length 5.08) (name "MIC IN 1" (effects (font (size 1.27 1.27)))) (number "W" (effects (font (size 1.27 1.27)))))

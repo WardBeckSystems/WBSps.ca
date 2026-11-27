@@ -1,14 +1,4 @@
 (kicad_symbol_lib (version 20231120) (generator "WBSps KiCad - Category 8200 SERIES") (generator_version "2.0")
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: D8201
-  ;; Title: AES/EBU Reclocking Distribution Amplifier
-  ;; Category: 8200 SERIES | Series: Standard | Year: 2015
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/D8201.html
-  ;; ====================================================================
   (symbol "D8201" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "D8201" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -22,6 +12,10 @@
     (property "Year" "2015" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "AES/EBU Reclocking Distribution Amplifier" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "D8201_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "D8201_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -32,16 +26,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: D8201A
-  ;; Title: AES/EBU Reclocking Distribution Amplifier
-  ;; Category: 8200 SERIES | Series: Standard | Year: 2015
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/D8201A.html
-  ;; ====================================================================
   (symbol "D8201A" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "D8201A" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -55,6 +39,10 @@
     (property "Year" "2015" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "AES/EBU Reclocking Distribution Amplifier" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "D8201A_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "D8201A_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -65,16 +53,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: D8202
-  ;; Title: AES/EBU Digital To Analog Converter
-  ;; Category: 8200 SERIES | Series: Standard | Year: 2015
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/D8202.html
-  ;; ====================================================================
   (symbol "D8202" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "D8202" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -88,6 +66,10 @@
     (property "Year" "2015" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "AES/EBU Digital To Analog Converter" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "D8202_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "D8202_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -98,16 +80,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: D8203
-  ;; Title: Analog To AES/EBU Digital Converter
-  ;; Category: 8200 SERIES | Series: Standard | Year: 2015
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/D8203.html
-  ;; ====================================================================
   (symbol "D8203" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "D8203" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -121,6 +93,10 @@
     (property "Year" "2015" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Analog To AES/EBU Digital Converter" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "D8203_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "D8203_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -131,16 +107,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: D8204
-  ;; Title: AES/EBU Reclocking Distribution Amplifier
-  ;; Category: 8200 SERIES | Series: Standard | Year: 2015
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/D8204.html
-  ;; ====================================================================
   (symbol "D8204" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "D8204" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -154,6 +120,10 @@
     (property "Year" "2015" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "AES/EBU Reclocking Distribution Amplifier" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "D8204_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "D8204_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -164,16 +134,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: D8204A
-  ;; Title: AES/EBU Reclocking Distribution Amplifier
-  ;; Category: 8200 SERIES | Series: Standard | Year: 2015
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/D8204A.html
-  ;; ====================================================================
   (symbol "D8204A" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "D8204A" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -187,6 +147,10 @@
     (property "Year" "2015" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "AES/EBU Reclocking Distribution Amplifier" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "D8204A_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "D8204A_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -197,16 +161,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: D8204B
-  ;; Title: AES/EBU Reclocking Distribution Amplifier
-  ;; Category: 8200 SERIES | Series: Standard | Year: 2013
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/D8204B.html
-  ;; ====================================================================
   (symbol "D8204B" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "D8204B" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -220,6 +174,10 @@
     (property "Year" "2013" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "AES/EBU Reclocking Distribution Amplifier" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "D8204B_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "D8204B_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -230,16 +188,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: D8204C
-  ;; Title: AES/EBU Distribution Amplifier
-  ;; Category: 8200 SERIES | Series: Standard | Year: 2015
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/D8204C.html
-  ;; ====================================================================
   (symbol "D8204C" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "D8204C" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -253,6 +201,10 @@
     (property "Year" "2015" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "AES/EBU Distribution Amplifier" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "D8204C_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "D8204C_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -263,16 +215,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: D8212
-  ;; Title: Audio Distribution System
-  ;; Category: 8200 SERIES | Series: Standard | Year: 1986
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/D8212.html
-  ;; ====================================================================
   (symbol "D8212" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "D8212" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -286,6 +228,10 @@
     (property "Year" "1986" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Audio Distribution System" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "D8212_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "D8212_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -296,16 +242,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: D8212E
-  ;; Title: Audio Distribution System
-  ;; Category: 8200 SERIES | Series: Standard | Year: 1998
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/D8212E.html
-  ;; ====================================================================
   (symbol "D8212E" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "D8212E" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -319,6 +255,10 @@
     (property "Year" "1998" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Audio Distribution System" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "D8212E_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "D8212E_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -329,16 +269,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: D8212F
-  ;; Title: Audio Distribution System
-  ;; Category: 8200 SERIES | Series: Standard | Year: 1995
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/D8212F.html
-  ;; ====================================================================
   (symbol "D8212F" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "D8212F" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -352,6 +282,10 @@
     (property "Year" "1995" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Audio Distribution System" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "D8212F_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "D8212F_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -362,16 +296,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M8202A
-  ;; Title: Remote Sensitivity Amplifier
-  ;; Category: 8200 SERIES | Series: Standard | Year: 1995
-  ;; Power: +1 VOLT TO -4 VOLTS, +/-22 VOLT DC SUPPLY VOLTAGE, +/-22 VOLT DC SUPPLY VOLTAGE, +/-22 VOLT DC SUPPLY VOLTAGE, +/-22 VOLT DC SUPPLY VOLTAGE
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M8202A.html
-  ;; ====================================================================
   (symbol "M8202A" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M8202A" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -385,6 +309,10 @@
     (property "Year" "1995" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "+1 VOLT TO -4 VOLTS, +/-22 VOLT DC SUPPLY VOLTAGE, +/-22 VOLT DC SUPPLY VOLTAGE, +/-22 VOLT DC SUPPLY VOLTAGE, +/-22 VOLT DC SUPPLY VOLTAGE" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Remote Sensitivity Amplifier" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M8202A_0_1" (rectangle (start -63.50 7.62) (end 63.50 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M8202A_1_1"
       (pin input line (at -68.58 5.08 0) (length 5.08) (name "REMOTE LINE INPUT" (effects (font (size 1.27 1.27)))) (number "K" (effects (font (size 1.27 1.27)))))
@@ -400,16 +328,6 @@
       (pin power_in line (at 10.16 12.70 270) (length 5.08) (name "+/-22 VOLT DC SUPPLY VOLTAGE" (effects (font (size 1.27 1.27)))) (number "15" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M8204A
-  ;; Title: Stereo Audio Distribution Amplifier
-  ;; Category: 8200 SERIES | Series: Standard | Year: 1993
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M8204A.html
-  ;; ====================================================================
   (symbol "M8204A" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M8204A" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -423,6 +341,10 @@
     (property "Year" "1993" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Stereo Audio Distribution Amplifier" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M8204A_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M8204A_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -433,16 +355,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M8204B
-  ;; Title: Stereo Audio Distribution Amplifier
-  ;; Category: 8200 SERIES | Series: Standard | Year: 1995
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M8204B.html
-  ;; ====================================================================
   (symbol "M8204B" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M8204B" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -456,6 +368,10 @@
     (property "Year" "1995" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Stereo Audio Distribution Amplifier" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M8204B_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M8204B_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -466,16 +382,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M8205B
-  ;; Title: Audio Distribution Amplifier
-  ;; Category: 8200 SERIES | Series: Standard | Year: 1995
-  ;; Power: ±22 VOLT DC SUPPLY BUS VOLTAGES, ±22 VOLT DC SUPPLY BUS VOLTAGES, ±22 VOLT DC SUPPLY BUS VOLTAGES, ±22 VOLT DC SUPPLY BUS VOLTAGES
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M8205B.html
-  ;; ====================================================================
   (symbol "M8205B" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M8205B" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -489,6 +395,10 @@
     (property "Year" "1995" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "±22 VOLT DC SUPPLY BUS VOLTAGES, ±22 VOLT DC SUPPLY BUS VOLTAGES, ±22 VOLT DC SUPPLY BUS VOLTAGES, ±22 VOLT DC SUPPLY BUS VOLTAGES" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Audio Distribution Amplifier" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M8205B_0_1" (rectangle (start -38.10 7.62) (end 38.10 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M8205B_1_1"
       (pin input line (at -43.18 5.08 0) (length 5.08) (name "INPUT SIGNAL TO THE AMPLIFIER" (effects (font (size 1.27 1.27)))) (number "A" (effects (font (size 1.27 1.27)))))
@@ -500,16 +410,6 @@
       (pin power_in line (at 7.62 12.70 270) (length 5.08) (name "±22 VOLT DC SUPPLY BUS VOLTAGES" (effects (font (size 1.27 1.27)))) (number "15" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M8205W
-  ;; Title: Audio Distribution Amplifier
-  ;; Category: 8200 SERIES | Series: Standard | Year: 1993
-  ;; Power: ±22 VOLT DC SUPPLY BUS VOLTAGES, ±22 VOLT DC SUPPLY BUS VOLTAGES, ±22 VOLT DC SUPPLY BUS VOLTAGES, ±22 VOLT DC SUPPLY BUS VOLTAGES
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M8205W.html
-  ;; ====================================================================
   (symbol "M8205W" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M8205W" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -523,6 +423,10 @@
     (property "Year" "1993" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "±22 VOLT DC SUPPLY BUS VOLTAGES, ±22 VOLT DC SUPPLY BUS VOLTAGES, ±22 VOLT DC SUPPLY BUS VOLTAGES, ±22 VOLT DC SUPPLY BUS VOLTAGES" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Audio Distribution Amplifier" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M8205W_0_1" (rectangle (start -38.10 7.62) (end 38.10 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M8205W_1_1"
       (pin input line (at -43.18 5.08 0) (length 5.08) (name "INPUT SIGNAL TO THE AMPLIFIER" (effects (font (size 1.27 1.27)))) (number "A" (effects (font (size 1.27 1.27)))))
@@ -534,16 +438,6 @@
       (pin power_in line (at 7.62 12.70 270) (length 5.08) (name "±22 VOLT DC SUPPLY BUS VOLTAGES" (effects (font (size 1.27 1.27)))) (number "15" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M8209A
-  ;; Title: M8209A
-  ;; Category: 8200 SERIES | Series: Standard | Year: 1995
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M8209A.html
-  ;; ====================================================================
   (symbol "M8209A" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M8209A" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -557,6 +451,10 @@
     (property "Year" "1995" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M8209A" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M8209A_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M8209A_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -567,16 +465,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M8245A
-  ;; Title: Power Supply
-  ;; Category: 8200 SERIES | Series: Standard | Year: 2015
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M8245A.html
-  ;; ====================================================================
   (symbol "M8245A" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M8245A" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -590,6 +478,10 @@
     (property "Year" "2015" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Power Supply" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M8245A_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M8245A_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -600,16 +492,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M8251
-  ;; Title: Video Distribution Amplifier
-  ;; Category: 8200 SERIES | Series: Standard | Year: 2015
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M8251.html
-  ;; ====================================================================
   (symbol "M8251" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M8251" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -623,6 +505,10 @@
     (property "Year" "2015" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Video Distribution Amplifier" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M8251_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M8251_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -633,16 +519,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: MF8210
-  ;; Title: MF8210
-  ;; Category: 8200 SERIES | Series: Standard | Year: 1998
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/MF8210.html
-  ;; ====================================================================
   (symbol "MF8210" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "MF8210" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -656,6 +532,10 @@
     (property "Year" "1998" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "MF8210" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "MF8210_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "MF8210_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -666,16 +546,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: MF8212
-  ;; Title: MF8212
-  ;; Category: 8200 SERIES | Series: Standard | Year: 2015
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/MF8212.html
-  ;; ====================================================================
   (symbol "MF8212" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "MF8212" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -689,6 +559,10 @@
     (property "Year" "2015" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "MF8212" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "MF8212_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "MF8212_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))

@@ -1,14 +1,4 @@
 (kicad_symbol_lib (version 20231120) (generator "WBSps KiCad - M470") (generator_version "2.0")
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M470
-  ;; Title: Input Module
-  ;; Category: INPUT-PRE-AMPS | Series: L-PRE | Year: 1977
-  ;; Power: VEE-AUDIO -25V, VCC-AUDIO +25V, VCC-LOGIC +24V
-  ;; Impedance: Line in: 600Ω, Out: 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M470.html
-  ;; ====================================================================
   (symbol "M470" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 71.12 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M470" (at 0 -71.12 0) (effects (font (size 1.27 1.27))))
@@ -22,6 +12,10 @@
     (property "Year" "1977" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VEE-AUDIO -25V, VCC-AUDIO +25V, VCC-LOGIC +24V" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Line in: 600Ω, Out: 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Input Module" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "L-PRE" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M470_0_1" (rectangle (start -43.18 66.04) (end 43.18 -66.04) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M470_1_1"
       (pin input line (at -48.26 63.50 0) (length 5.08) (name "LINE-IN +" (effects (font (size 1.27 1.27)))) (number "P2-1" (effects (font (size 1.27 1.27)))))

@@ -87,6 +87,8 @@ def pin_table(moddir):
     if not os.path.exists(f):
         return []
     d = json.load(open(f, encoding='utf-8'))
+    if d.get('built_from'):
+        return pin_table_pictures(d)
     out = ['## RTO-144 pinout', '',
            f'{d.get("contacts") or "RTO-144 edge connector"}' + (f'; checked against {d["verified"]}' if d.get('verified') else '') +
            ('. Read from the module\'s own documents (no RTO-144 sheet yet).' if d.get('derived') else '.') +
@@ -99,6 +101,29 @@ def pin_table(moddir):
     if d.get('straps'):
         out += ['', '**Straps:** ' + ' · '.join(f'{esc(j.get("function") or "")}: {j.get("designation") or ""}'
                                                  for j in d['straps'])]
+    return out + ['']
+
+
+def pin_table_pictures(d):
+    """RTO.json built from the pinout pictures (tools/pinout_build.py)."""
+    b = d['built_from']
+    n = len(b.get('pictures') or [])
+    line = f'Read from {n} pinout picture{"s" if n != 1 else ""} (each its own `.pinout.json` beside it)'
+    if b.get('sheet_agrees'):
+        line += f'; the RTO-144 sheet agrees on {b["sheet_agrees"]} contacts'
+    if d.get('conflicts'):
+        line += f'; {len(d["conflicts"])} to check (`conflicts`)'
+    out = ['## RTO-144 pinout', '', line + '. Every contact, with where it was read: [`RTO.json`](RTO.json).', '']
+    if d.get('inserts'):
+        out += ['**Inserts:** ' + ' · '.join(f'{esc(i.get("name") or "")}: {esc(i.get("send") or "?")} → {esc(i.get("return") or "?")}'
+                                             for i in d['inserts']), '']
+    out += ['| Pin | Signal | Kind | Port | Confidence |', '|---|---|---|---|---|']
+    for p in d.get('pins', []):
+        port = (p.get('port') or '') + (f' {p["polarity"]}' if p.get('polarity') else '')
+        out.append(f'| {p.get("ref") or p.get("pin") or ""} | {esc(p.get("signal") or "")} | {p.get("kind") or ""} | '
+                   f'{esc(port.strip())} | {p.get("confidence") or ""} |')
+    if d.get('straps'):
+        out += ['', '**Straps:** ' + ' · '.join(f'{esc(s.get("name") or "")}: {" ".join(s.get("pins") or [])}' for s in d['straps'])]
     return out + ['']
 
 

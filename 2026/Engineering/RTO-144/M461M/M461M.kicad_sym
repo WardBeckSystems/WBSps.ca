@@ -1,14 +1,4 @@
 (kicad_symbol_lib (version 20231120) (generator "WBSps KiCad - M461M") (generator_version "2.0")
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M461M
-  ;; Title: Microphone Preamp
-  ;; Category: INPUT-PRE-AMPS | Series: Standard | Year: 1976
-  ;; Power: VEE-AUDIO -25V, VCC-AUDIO +25V, VCC-LAMP +24V
-  ;; Impedance: Out: 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M461M.html
-  ;; ====================================================================
   (symbol "M461M" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 33.02 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M461M" (at 0 -33.02 0) (effects (font (size 1.27 1.27))))
@@ -22,6 +12,10 @@
     (property "Year" "1976" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VEE-AUDIO -25V, VCC-AUDIO +25V, VCC-LAMP +24V" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Out: 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Microphone Preamp" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M461M_0_1" (rectangle (start -40.64 27.94) (end 40.64 -27.94) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M461M_1_1"
       (pin input line (at -45.72 25.40 0) (length 5.08) (name "Mic In +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))

@@ -1,14 +1,4 @@
 (kicad_symbol_lib (version 20231120) (generator "WBSps KiCad - M808A") (generator_version "2.0")
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M808A
-  ;; Title: M808A
-  ;; Category: AMPLIFIERS | Series: Standard | Year: 1978
-  ;; Power: See manual
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M808A.html
-  ;; ====================================================================
   (symbol "M808A" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M808A" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -22,6 +12,10 @@
     (property "Year" "1978" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "See manual" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M808A" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M808A_0_1" (rectangle (start -45.72 7.62) (end 45.72 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M808A_1_1"
       (pin input line (at -50.80 5.08 0) (length 5.08) (name "INPUT ONE" (effects (font (size 1.27 1.27)))) (number "S" (effects (font (size 1.27 1.27)))))

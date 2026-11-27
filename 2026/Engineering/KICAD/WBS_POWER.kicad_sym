@@ -1,14 +1,4 @@
 (kicad_symbol_lib (version 20231120) (generator "WBSps KiCad - Category POWER") (generator_version "2.0")
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M128
-  ;; Title: M128
-  ;; Category: POWER | Series: Standard | Year: 1968
-  ;; Power: AC LINE, AC NEUTRAL
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M128.html
-  ;; ====================================================================
   (symbol "M128" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M128" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -22,6 +12,10 @@
     (property "Year" "1968" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "AC LINE, AC NEUTRAL" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M128" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M128_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M128_1_1"
       (pin output line (at 30.48 5.08 180) (length 5.08) (name "DC OUT +" (effects (font (size 1.27 1.27)))) (number "4" (effects (font (size 1.27 1.27)))))
@@ -31,16 +25,6 @@
       (pin passive line (at 0.00 -12.70 90) (length 5.08) (name "CHASSIS GND" (effects (font (size 1.27 1.27)))) (number "3" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M207
-  ;; Title: Phantom Power Card
-  ;; Category: POWER | Series: Standard | Year: 1982
-  ;; Power: AC LINE, AC NEUTRAL
-  ;; Impedance: Line in: 600Ω, Out: 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M207.html
-  ;; ====================================================================
   (symbol "M207" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M207" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -54,6 +38,10 @@
     (property "Year" "1982" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "AC LINE, AC NEUTRAL" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Line in: 600Ω, Out: 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Phantom Power Card" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M207_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M207_1_1"
       (pin output line (at 30.48 5.08 180) (length 5.08) (name "DC OUT +" (effects (font (size 1.27 1.27)))) (number "4" (effects (font (size 1.27 1.27)))))
@@ -63,16 +51,6 @@
       (pin passive line (at 0.00 -12.70 90) (length 5.08) (name "CHASSIS GND" (effects (font (size 1.27 1.27)))) (number "3" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M485
-  ;; Title: M485
-  ;; Category: POWER | Series: Standard | Year: 1979
-  ;; Power: AC LINE, AC NEUTRAL
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M485.html
-  ;; ====================================================================
   (symbol "M485" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M485" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -86,6 +64,10 @@
     (property "Year" "1979" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "AC LINE, AC NEUTRAL" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M485" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M485_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M485_1_1"
       (pin output line (at 30.48 5.08 180) (length 5.08) (name "DC OUT +" (effects (font (size 1.27 1.27)))) (number "4" (effects (font (size 1.27 1.27)))))
@@ -95,16 +77,6 @@
       (pin passive line (at 0.00 -12.70 90) (length 5.08) (name "CHASSIS GND" (effects (font (size 1.27 1.27)))) (number "3" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M485B
-  ;; Title: SERIES REG BASE
-  ;; Category: POWER | Series: Standard | Year: 1978
-  ;; Power: See manual
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M485B.html
-  ;; ====================================================================
   (symbol "M485B" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M485B" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -118,22 +90,16 @@
     (property "Year" "1978" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "See manual" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "SERIES REG BASE" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M485B_0_1" (rectangle (start -38.10 7.62) (end 38.10 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M485B_1_1"
       (pin output line (at 43.18 5.08 180) (length 5.08) (name "OPERATED FROM THE OUTPUT OF 22" (effects (font (size 1.27 1.27)))) (number "7" (effects (font (size 1.27 1.27)))))
       (pin bidirectional line (at 43.18 0.00 180) (length 5.08) (name "2" (effects (font (size 1.27 1.27)))) (number "2" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M611
-  ;; Title: M611
-  ;; Category: POWER | Series: Standard | Year: 1982
-  ;; Power: AC LINE, AC NEUTRAL
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M611.html
-  ;; ====================================================================
   (symbol "M611" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M611" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -147,6 +113,10 @@
     (property "Year" "1982" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "AC LINE, AC NEUTRAL" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M611" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M611_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M611_1_1"
       (pin output line (at 30.48 5.08 180) (length 5.08) (name "DC OUT +" (effects (font (size 1.27 1.27)))) (number "4" (effects (font (size 1.27 1.27)))))
@@ -156,16 +126,6 @@
       (pin passive line (at 0.00 -12.70 90) (length 5.08) (name "CHASSIS GND" (effects (font (size 1.27 1.27)))) (number "3" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M624
-  ;; Title: Power Supply
-  ;; Category: POWER | Series: Standard | Year: 1968
-  ;; Power: AC LINE, AC NEUTRAL
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M624.html
-  ;; ====================================================================
   (symbol "M624" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M624" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -179,6 +139,10 @@
     (property "Year" "1968" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "AC LINE, AC NEUTRAL" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Power Supply" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M624_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M624_1_1"
       (pin output line (at 30.48 5.08 180) (length 5.08) (name "DC OUT +" (effects (font (size 1.27 1.27)))) (number "4" (effects (font (size 1.27 1.27)))))
@@ -188,16 +152,6 @@
       (pin passive line (at 0.00 -12.70 90) (length 5.08) (name "CHASSIS GND" (effects (font (size 1.27 1.27)))) (number "3" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M625
-  ;; Title: Power Supply
-  ;; Category: POWER | Series: Standard | Year: 1978
-  ;; Power: See manual
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M625.html
-  ;; ====================================================================
   (symbol "M625" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M625" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -211,22 +165,16 @@
     (property "Year" "1978" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "See manual" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Power Supply" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M625_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M625_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "Cr6 In+4B +" (effects (font (size 1.27 1.27)))) (number "I1P" (effects (font (size 1.27 1.27)))))
       (pin input line (at -30.48 2.54 0) (length 5.08) (name "Cr6 In+4B -" (effects (font (size 1.27 1.27)))) (number "I1N" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M625A
-  ;; Title: Power Supply
-  ;; Category: POWER | Series: Standard | Year: 1972
-  ;; Power: WITH THE SUPPLY OUTPUT SHORTED THE CURRENT
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M625A.html
-  ;; ====================================================================
   (symbol "M625A" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M625A" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -240,6 +188,10 @@
     (property "Year" "1972" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "WITH THE SUPPLY OUTPUT SHORTED THE CURRENT" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Power Supply" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M625A_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M625A_1_1"
       (pin output line (at 30.48 5.08 180) (length 5.08) (name "+25 OUTPUT" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -248,16 +200,6 @@
       (pin power_in line (at 0.00 12.70 270) (length 5.08) (name "WITH THE SUPPLY OUTPUT SHORTED THE CURRENT" (effects (font (size 1.27 1.27)))) (number "21" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M625B
-  ;; Title: Power Supply
-  ;; Category: POWER | Series: Standard | Year: 1978
-  ;; Power: See manual
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M625B.html
-  ;; ====================================================================
   (symbol "M625B" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 20.32 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M625B" (at 0 -20.32 0) (effects (font (size 1.27 1.27))))
@@ -271,6 +213,10 @@
     (property "Year" "1978" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "See manual" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Power Supply" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M625B_0_1" (rectangle (start -53.34 15.24) (end 53.34 -15.24) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M625B_1_1"
       (pin output line (at 58.42 12.70 180) (length 5.08) (name "OUTPUT CONTROLS THE BASE CURRENT TURN DRIVES" (effects (font (size 1.27 1.27)))) (number "21" (effects (font (size 1.27 1.27)))))
@@ -282,16 +228,6 @@
       (pin bidirectional line (at 58.42 -7.62 180) (length 5.08) (name "16" (effects (font (size 1.27 1.27)))) (number "16" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M628
-  ;; Title: Intercom Power Supply
-  ;; Category: POWER | Series: Standard | Year: 1970
-  ;; Power: AC LINE, AC NEUTRAL
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M628.html
-  ;; ====================================================================
   (symbol "M628" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M628" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -305,6 +241,10 @@
     (property "Year" "1970" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "AC LINE, AC NEUTRAL" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Intercom Power Supply" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M628_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M628_1_1"
       (pin output line (at 30.48 5.08 180) (length 5.08) (name "DC OUT +" (effects (font (size 1.27 1.27)))) (number "4" (effects (font (size 1.27 1.27)))))
@@ -314,16 +254,6 @@
       (pin passive line (at 0.00 -12.70 90) (length 5.08) (name "CHASSIS GND" (effects (font (size 1.27 1.27)))) (number "3" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M632
-  ;; Title: Power Supply
-  ;; Category: POWER | Series: Standard | Year: 1983
-  ;; Power: AC LINE, AC NEUTRAL
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M632.html
-  ;; ====================================================================
   (symbol "M632" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M632" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -337,6 +267,10 @@
     (property "Year" "1983" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "AC LINE, AC NEUTRAL" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Power Supply" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M632_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M632_1_1"
       (pin output line (at 30.48 5.08 180) (length 5.08) (name "DC OUT +" (effects (font (size 1.27 1.27)))) (number "4" (effects (font (size 1.27 1.27)))))
@@ -346,16 +280,6 @@
       (pin passive line (at 0.00 -12.70 90) (length 5.08) (name "CHASSIS GND" (effects (font (size 1.27 1.27)))) (number "3" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M648
-  ;; Title: Power Supply
-  ;; Category: POWER | Series: Standard | Year: 1970
-  ;; Power: See manual
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M648.html
-  ;; ====================================================================
   (symbol "M648" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M648" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -369,6 +293,10 @@
     (property "Year" "1970" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "See manual" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Power Supply" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M648_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M648_1_1"
       (pin bidirectional line (at 30.48 5.08 180) (length 5.08) (name "7" (effects (font (size 1.27 1.27)))) (number "7" (effects (font (size 1.27 1.27)))))

@@ -1,14 +1,4 @@
 (kicad_symbol_lib (version 20231120) (generator "WBSps KiCad - Category UNSORTED") (generator_version "2.0")
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M020
-  ;; Title: M020
-  ;; Category: UNSORTED | Series: Standard | Year: 1978
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M020.html
-  ;; ====================================================================
   (symbol "M020" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M020" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -22,6 +12,10 @@
     (property "Year" "1978" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M020" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M020_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M020_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -32,16 +26,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M101
-  ;; Title: M101
-  ;; Category: UNSORTED | Series: Standard | Year: 1972
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M101.html
-  ;; ====================================================================
   (symbol "M101" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M101" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -55,6 +39,10 @@
     (property "Year" "1972" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M101" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M101_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M101_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -65,16 +53,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M107
-  ;; Title: M107
-  ;; Category: UNSORTED | Series: Standard | Year: 1972
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M107.html
-  ;; ====================================================================
   (symbol "M107" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M107" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -88,6 +66,10 @@
     (property "Year" "1972" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M107" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M107_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M107_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -98,16 +80,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M110
-  ;; Title: M110
-  ;; Category: UNSORTED | Series: Standard | Year: 1975
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M110.html
-  ;; ====================================================================
   (symbol "M110" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M110" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -121,6 +93,10 @@
     (property "Year" "1975" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M110" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M110_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M110_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -131,16 +107,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M117
-  ;; Title: M117
-  ;; Category: UNSORTED | Series: Standard | Year: 1987
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M117.html
-  ;; ====================================================================
   (symbol "M117" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M117" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -154,6 +120,10 @@
     (property "Year" "1987" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M117" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M117_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M117_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -164,16 +134,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M121
-  ;; Title: Intercom Crosspoint (normaIIy OFF-switch ON)
-  ;; Category: UNSORTED | Series: Standard | Year: 1973
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M121.html
-  ;; ====================================================================
   (symbol "M121" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M121" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -187,6 +147,10 @@
     (property "Year" "1973" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Intercom Crosspoint (normaIIy OFF-switch ON)" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M121_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M121_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -197,16 +161,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M122
-  ;; Title: Intercom Crosspoint permanently ON)
-  ;; Category: UNSORTED | Series: Standard | Year: 1995
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M122.html
-  ;; ====================================================================
   (symbol "M122" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M122" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -220,6 +174,10 @@
     (property "Year" "1995" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Intercom Crosspoint permanently ON)" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M122_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M122_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -230,16 +188,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M129
-  ;; Title: M129
-  ;; Category: UNSORTED | Series: Standard | Year: 1968
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M129.html
-  ;; ====================================================================
   (symbol "M129" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M129" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -253,6 +201,10 @@
     (property "Year" "1968" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M129" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M129_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M129_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -263,16 +215,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M136
-  ;; Title: M136
-  ;; Category: UNSORTED | Series: Standard | Year: 1970
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M136.html
-  ;; ====================================================================
   (symbol "M136" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M136" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -286,6 +228,10 @@
     (property "Year" "1970" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M136" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M136_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M136_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -296,16 +242,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M144
-  ;; Title: M144
-  ;; Category: UNSORTED | Series: Standard | Year: 1968
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M144.html
-  ;; ====================================================================
   (symbol "M144" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M144" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -319,6 +255,10 @@
     (property "Year" "1968" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M144" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M144_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M144_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -329,16 +269,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M146
-  ;; Title: M146
-  ;; Category: UNSORTED | Series: Standard | Year: 1968
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M146.html
-  ;; ====================================================================
   (symbol "M146" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M146" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -352,6 +282,10 @@
     (property "Year" "1968" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M146" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M146_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M146_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -362,16 +296,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M147
-  ;; Title: M147
-  ;; Category: UNSORTED | Series: Standard | Year: 1968
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M147.html
-  ;; ====================================================================
   (symbol "M147" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M147" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -385,6 +309,10 @@
     (property "Year" "1968" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M147" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M147_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M147_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -395,16 +323,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M150
-  ;; Title: M150
-  ;; Category: UNSORTED | Series: Standard | Year: 1995
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M150.html
-  ;; ====================================================================
   (symbol "M150" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M150" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -418,6 +336,10 @@
     (property "Year" "1995" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M150" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M150_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M150_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -428,16 +350,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M152
-  ;; Title: M152
-  ;; Category: UNSORTED | Series: Standard | Year: 1987
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M152.html
-  ;; ====================================================================
   (symbol "M152" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M152" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -451,6 +363,10 @@
     (property "Year" "1987" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M152" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M152_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M152_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -461,16 +377,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M158
-  ;; Title: M158
-  ;; Category: UNSORTED | Series: Standard | Year: 1969
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M158.html
-  ;; ====================================================================
   (symbol "M158" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M158" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -484,6 +390,10 @@
     (property "Year" "1969" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M158" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M158_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M158_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -494,16 +404,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M168
-  ;; Title: M168
-  ;; Category: UNSORTED | Series: Standard | Year: 1970
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M168.html
-  ;; ====================================================================
   (symbol "M168" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M168" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -517,6 +417,10 @@
     (property "Year" "1970" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M168" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M168_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M168_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -527,16 +431,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M171
-  ;; Title: M171
-  ;; Category: UNSORTED | Series: Standard | Year: 1970
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M171.html
-  ;; ====================================================================
   (symbol "M171" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M171" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -550,6 +444,10 @@
     (property "Year" "1970" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M171" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M171_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M171_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -560,16 +458,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M173
-  ;; Title: M173
-  ;; Category: UNSORTED | Series: Standard | Year: 1973
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M173.html
-  ;; ====================================================================
   (symbol "M173" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M173" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -583,6 +471,10 @@
     (property "Year" "1973" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M173" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M173_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M173_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -593,16 +485,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M174
-  ;; Title: M174
-  ;; Category: UNSORTED | Series: Standard | Year: 1970
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M174.html
-  ;; ====================================================================
   (symbol "M174" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M174" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -616,6 +498,10 @@
     (property "Year" "1970" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M174" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M174_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M174_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -626,16 +512,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M175
-  ;; Title: Slot Card
-  ;; Category: UNSORTED | Series: Standard | Year: 1972
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M175.html
-  ;; ====================================================================
   (symbol "M175" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M175" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -649,6 +525,10 @@
     (property "Year" "1972" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Slot Card" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M175_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M175_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -659,16 +539,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M178
-  ;; Title: M178
-  ;; Category: UNSORTED | Series: Standard | Year: 1970
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M178.html
-  ;; ====================================================================
   (symbol "M178" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M178" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -682,6 +552,10 @@
     (property "Year" "1970" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M178" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M178_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M178_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -692,16 +566,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M181
-  ;; Title: M181
-  ;; Category: UNSORTED | Series: Standard | Year: 1973
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M181.html
-  ;; ====================================================================
   (symbol "M181" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M181" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -715,6 +579,10 @@
     (property "Year" "1973" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M181" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M181_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M181_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -725,16 +593,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M182
-  ;; Title: M182
-  ;; Category: UNSORTED | Series: Standard | Year: 1973
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M182.html
-  ;; ====================================================================
   (symbol "M182" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M182" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -748,6 +606,10 @@
     (property "Year" "1973" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M182" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M182_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M182_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -758,16 +620,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M203
-  ;; Title: M203
-  ;; Category: UNSORTED | Series: Standard | Year: 1979
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M203.html
-  ;; ====================================================================
   (symbol "M203" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M203" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -781,6 +633,10 @@
     (property "Year" "1979" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M203" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M203_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M203_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -791,16 +647,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M208
-  ;; Title: M208
-  ;; Category: UNSORTED | Series: Standard | Year: 1983
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M208.html
-  ;; ====================================================================
   (symbol "M208" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M208" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -814,6 +660,10 @@
     (property "Year" "1983" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M208" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M208_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M208_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -824,16 +674,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M400
-  ;; Title: M400
-  ;; Category: UNSORTED | Series: Standard | Year: 1972
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M400.html
-  ;; ====================================================================
   (symbol "M400" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M400" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -847,6 +687,10 @@
     (property "Year" "1972" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M400" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M400_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M400_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -857,16 +701,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M403
-  ;; Title: M403
-  ;; Category: UNSORTED | Series: Standard | Year: 1968
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M403.html
-  ;; ====================================================================
   (symbol "M403" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M403" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -880,6 +714,10 @@
     (property "Year" "1968" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M403" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M403_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M403_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -890,16 +728,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M407
-  ;; Title: M407
-  ;; Category: UNSORTED | Series: Standard | Year: 1974
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M407.html
-  ;; ====================================================================
   (symbol "M407" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M407" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -913,6 +741,10 @@
     (property "Year" "1974" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M407" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M407_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M407_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -923,16 +755,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M414
-  ;; Title: M414
-  ;; Category: UNSORTED | Series: Standard | Year: 1970
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M414.html
-  ;; ====================================================================
   (symbol "M414" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M414" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -946,6 +768,10 @@
     (property "Year" "1970" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M414" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M414_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M414_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -956,16 +782,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M416
-  ;; Title: Cue Amplifier Instruction
-  ;; Category: UNSORTED | Series: Standard | Year: 1973
-  ;; Power: VCC
-  ;; Impedance: Out: 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M416.html
-  ;; ====================================================================
   (symbol "M416" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M416" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -979,6 +795,10 @@
     (property "Year" "1973" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Out: 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Cue Amplifier Instruction" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M416_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M416_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -989,16 +809,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M420
-  ;; Title: M420
-  ;; Category: UNSORTED | Series: Standard | Year: 1969
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M420.html
-  ;; ====================================================================
   (symbol "M420" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M420" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1012,6 +822,10 @@
     (property "Year" "1969" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M420" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M420_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M420_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1022,16 +836,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M421
-  ;; Title: M421
-  ;; Category: UNSORTED | Series: Standard | Year: 1969
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M421.html
-  ;; ====================================================================
   (symbol "M421" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M421" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1045,6 +849,10 @@
     (property "Year" "1969" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M421" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M421_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M421_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1055,16 +863,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M422
-  ;; Title: M422
-  ;; Category: UNSORTED | Series: Standard | Year: 1969
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M422.html
-  ;; ====================================================================
   (symbol "M422" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M422" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1078,6 +876,10 @@
     (property "Year" "1969" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M422" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M422_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M422_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1088,16 +890,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M424
-  ;; Title: M424
-  ;; Category: UNSORTED | Series: Standard | Year: 1969
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M424.html
-  ;; ====================================================================
   (symbol "M424" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M424" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1111,6 +903,10 @@
     (property "Year" "1969" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M424" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M424_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M424_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1121,16 +917,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M424S
-  ;; Title: M424S
-  ;; Category: UNSORTED | Series: Standard | Year: 1969
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M424S.html
-  ;; ====================================================================
   (symbol "M424S" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M424S" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1144,6 +930,10 @@
     (property "Year" "1969" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M424S" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M424S_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M424S_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1154,16 +944,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M448
-  ;; Title: M448
-  ;; Category: UNSORTED | Series: Standard | Year: 1969
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M448.html
-  ;; ====================================================================
   (symbol "M448" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M448" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1177,6 +957,10 @@
     (property "Year" "1969" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M448" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M448_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M448_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1187,16 +971,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M458
-  ;; Title: M458
-  ;; Category: UNSORTED | Series: Standard | Year: 1977
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M458.html
-  ;; ====================================================================
   (symbol "M458" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M458" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1210,6 +984,10 @@
     (property "Year" "1977" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M458" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M458_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M458_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1220,16 +998,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M469
-  ;; Title: Assignment Module
-  ;; Category: UNSORTED | Series: Standard | Year: 1978
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M469.html
-  ;; ====================================================================
   (symbol "M469" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M469" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1243,6 +1011,10 @@
     (property "Year" "1978" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Assignment Module" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M469_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M469_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1253,16 +1025,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M478
-  ;; Title: Assign Module
-  ;; Category: UNSORTED | Series: Standard | Year: 1976
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M478.html
-  ;; ====================================================================
   (symbol "M478" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M478" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1276,6 +1038,10 @@
     (property "Year" "1976" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Assign Module" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M478_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M478_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1286,16 +1052,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M478H
-  ;; Title: Slate Assign Module
-  ;; Category: UNSORTED | Series: Standard | Year: 1984
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M478H.html
-  ;; ====================================================================
   (symbol "M478H" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M478H" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1309,6 +1065,10 @@
     (property "Year" "1984" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Slate Assign Module" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M478H_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M478H_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1319,16 +1079,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M483
-  ;; Title: M483
-  ;; Category: UNSORTED | Series: Standard | Year: 1978
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M483.html
-  ;; ====================================================================
   (symbol "M483" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M483" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1342,6 +1092,10 @@
     (property "Year" "1978" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M483" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M483_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M483_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1352,16 +1106,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M499
-  ;; Title: Insertion Switcher
-  ;; Category: UNSORTED | Series: Standard | Year: 1990
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M499.html
-  ;; ====================================================================
   (symbol "M499" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M499" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1375,6 +1119,10 @@
     (property "Year" "1990" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Insertion Switcher" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M499_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M499_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1385,16 +1133,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M500
-  ;; Title: M500
-  ;; Category: UNSORTED | Series: Standard | Year: 1968
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M500.html
-  ;; ====================================================================
   (symbol "M500" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M500" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1408,6 +1146,10 @@
     (property "Year" "1968" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M500" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M500_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M500_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1418,16 +1160,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M501
-  ;; Title: M501
-  ;; Category: UNSORTED | Series: Standard | Year: 1968
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M501.html
-  ;; ====================================================================
   (symbol "M501" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M501" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1441,6 +1173,10 @@
     (property "Year" "1968" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M501" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M501_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M501_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1451,16 +1187,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M503
-  ;; Title: M503
-  ;; Category: UNSORTED | Series: Standard | Year: 1968
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M503.html
-  ;; ====================================================================
   (symbol "M503" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M503" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1474,6 +1200,10 @@
     (property "Year" "1968" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M503" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M503_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M503_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1484,16 +1214,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M510
-  ;; Title: M510
-  ;; Category: UNSORTED | Series: Standard | Year: 1969
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M510.html
-  ;; ====================================================================
   (symbol "M510" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M510" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1507,6 +1227,10 @@
     (property "Year" "1969" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M510" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M510_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M510_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1517,16 +1241,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M530
-  ;; Title: M530
-  ;; Category: UNSORTED | Series: Standard | Year: 1985
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M530.html
-  ;; ====================================================================
   (symbol "M530" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M530" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1540,6 +1254,10 @@
     (property "Year" "1985" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M530" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M530_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M530_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1550,16 +1268,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M900
-  ;; Title: M900
-  ;; Category: UNSORTED | Series: Standard | Year: 1994
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M900.html
-  ;; ====================================================================
   (symbol "M900" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M900" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1573,6 +1281,10 @@
     (property "Year" "1994" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M900" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M900_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M900_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1583,16 +1295,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M901
-  ;; Title: M901
-  ;; Category: UNSORTED | Series: Standard | Year: 1994
-  ;; Power: See manual
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M901.html
-  ;; ====================================================================
   (symbol "M901" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M901" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1606,6 +1308,10 @@
     (property "Year" "1994" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "See manual" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M901" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M901_0_1" (rectangle (start -48.26 7.62) (end 48.26 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M901_1_1"
       (pin input line (at -53.34 5.08 0) (length 5.08) (name "CUE CHANNEL TOGGLES ON AND OFF" (effects (font (size 1.27 1.27)))) (number "41" (effects (font (size 1.27 1.27)))))
@@ -1615,16 +1321,6 @@
       (pin power_in line (at 2.54 -12.70 90) (length 5.08) (name "MOMENTARY CLOSURE TO CONTROL COMMON VIA AN" (effects (font (size 1.27 1.27)))) (number "36" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M901A
-  ;; Title: Input Module
-  ;; Category: UNSORTED | Series: Standard | Year: 1994
-  ;; Power: See manual
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M901A.html
-  ;; ====================================================================
   (symbol "M901A" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M901A" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1638,6 +1334,10 @@
     (property "Year" "1994" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "See manual" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Input Module" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M901A_0_1" (rectangle (start -48.26 7.62) (end 48.26 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M901A_1_1"
       (pin input line (at -53.34 5.08 0) (length 5.08) (name "CUE CHANNEL TOGGLES ON AND OFF" (effects (font (size 1.27 1.27)))) (number "41" (effects (font (size 1.27 1.27)))))
@@ -1647,16 +1347,6 @@
       (pin power_in line (at 2.54 -12.70 90) (length 5.08) (name "MOMENTARY CLOSURE TO CONTROL COMMON VIA AN" (effects (font (size 1.27 1.27)))) (number "36" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M901B
-  ;; Title: Mic Input Module
-  ;; Category: UNSORTED | Series: Standard | Year: 1994
-  ;; Power: See manual
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M901B.html
-  ;; ====================================================================
   (symbol "M901B" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M901B" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1670,6 +1360,10 @@
     (property "Year" "1994" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "See manual" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Mic Input Module" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M901B_0_1" (rectangle (start -48.26 7.62) (end 48.26 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M901B_1_1"
       (pin input line (at -53.34 5.08 0) (length 5.08) (name "CUE CHANNEL TOGGLES ON AND OFF" (effects (font (size 1.27 1.27)))) (number "41" (effects (font (size 1.27 1.27)))))
@@ -1679,16 +1373,6 @@
       (pin power_in line (at 2.54 -12.70 90) (length 5.08) (name "MOMENTARY CLOSURE TO CONTROL COMMON VIA AN" (effects (font (size 1.27 1.27)))) (number "36" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M901BY
-  ;; Title: CONNECTOR DETAIL
-  ;; Category: UNSORTED | Series: Standard | Year: 1994
-  ;; Power: See manual
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M901BY.html
-  ;; ====================================================================
   (symbol "M901BY" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M901BY" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1702,6 +1386,10 @@
     (property "Year" "1994" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "See manual" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "CONNECTOR DETAIL" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M901BY_0_1" (rectangle (start -48.26 7.62) (end 48.26 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M901BY_1_1"
       (pin input line (at -53.34 5.08 0) (length 5.08) (name "CUE CHANNEL TOGGLES ON AND OFF" (effects (font (size 1.27 1.27)))) (number "41" (effects (font (size 1.27 1.27)))))
@@ -1711,16 +1399,6 @@
       (pin power_in line (at 2.54 -12.70 90) (length 5.08) (name "MOMENTARY CLOSURE TO CONTROL COMMON VIA AN" (effects (font (size 1.27 1.27)))) (number "36" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M901C
-  ;; Title: Stereo Line Input Module
-  ;; Category: UNSORTED | Series: Standard | Year: 1994
-  ;; Power: See manual
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M901C.html
-  ;; ====================================================================
   (symbol "M901C" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M901C" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1734,6 +1412,10 @@
     (property "Year" "1994" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "See manual" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Stereo Line Input Module" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M901C_0_1" (rectangle (start -48.26 7.62) (end 48.26 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M901C_1_1"
       (pin input line (at -53.34 5.08 0) (length 5.08) (name "CUE CHANNEL TOGGLES ON AND OFF" (effects (font (size 1.27 1.27)))) (number "41" (effects (font (size 1.27 1.27)))))
@@ -1743,16 +1425,6 @@
       (pin power_in line (at 2.54 -12.70 90) (length 5.08) (name "MOMENTARY CLOSURE TO CONTROL COMMON VIA AN" (effects (font (size 1.27 1.27)))) (number "36" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M901CY
-  ;; Title: M901CY
-  ;; Category: UNSORTED | Series: Standard | Year: 1994
-  ;; Power: See manual
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M901CY.html
-  ;; ====================================================================
   (symbol "M901CY" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M901CY" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1766,6 +1438,10 @@
     (property "Year" "1994" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "See manual" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M901CY" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M901CY_0_1" (rectangle (start -48.26 7.62) (end 48.26 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M901CY_1_1"
       (pin input line (at -53.34 5.08 0) (length 5.08) (name "CUE CHANNEL TOGGLES ON AND OFF" (effects (font (size 1.27 1.27)))) (number "41" (effects (font (size 1.27 1.27)))))
@@ -1775,16 +1451,6 @@
       (pin power_in line (at 2.54 -12.70 90) (length 5.08) (name "MOMENTARY CLOSURE TO CONTROL COMMON VIA AN" (effects (font (size 1.27 1.27)))) (number "36" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M901D
-  ;; Title: Input Module
-  ;; Category: UNSORTED | Series: Standard | Year: 1995
-  ;; Power: See manual
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M901D.html
-  ;; ====================================================================
   (symbol "M901D" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M901D" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1798,6 +1464,10 @@
     (property "Year" "1995" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "See manual" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Input Module" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M901D_0_1" (rectangle (start -48.26 7.62) (end 48.26 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M901D_1_1"
       (pin input line (at -53.34 5.08 0) (length 5.08) (name "CUE CHANNEL TOGGLES ON AND OFF" (effects (font (size 1.27 1.27)))) (number "41" (effects (font (size 1.27 1.27)))))
@@ -1807,16 +1477,6 @@
       (pin power_in line (at 2.54 -12.70 90) (length 5.08) (name "MOMENTARY CLOSURE TO CONTROL COMMON VIA AN" (effects (font (size 1.27 1.27)))) (number "36" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M901NW
-  ;; Title: M901NW
-  ;; Category: UNSORTED | Series: Standard | Year: 1994
-  ;; Power: See manual
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M901NW.html
-  ;; ====================================================================
   (symbol "M901NW" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M901NW" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1830,6 +1490,10 @@
     (property "Year" "1994" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "See manual" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M901NW" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M901NW_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M901NW_1_1"
       (pin bidirectional line (at 30.48 5.08 180) (length 5.08) (name "41" (effects (font (size 1.27 1.27)))) (number "41" (effects (font (size 1.27 1.27)))))
@@ -1837,16 +1501,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "ALTERNATELY AN EXTERNAL GROUND" (effects (font (size 1.27 1.27)))) (number "43" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M905A
-  ;; Title: Cr Monitcr Module
-  ;; Category: UNSORTED | Series: Standard | Year: 1994
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M905A.html
-  ;; ====================================================================
   (symbol "M905A" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M905A" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1860,6 +1514,10 @@
     (property "Year" "1994" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Cr Monitcr Module" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M905A_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M905A_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1870,16 +1528,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M905B
-  ;; Title: Studio Monitor Module
-  ;; Category: UNSORTED | Series: Standard | Year: 1994
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M905B.html
-  ;; ====================================================================
   (symbol "M905B" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M905B" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1893,6 +1541,10 @@
     (property "Year" "1994" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Studio Monitor Module" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M905B_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M905B_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1903,16 +1555,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M907
-  ;; Title: Summing/Output Module
-  ;; Category: UNSORTED | Series: Standard | Year: 1994
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M907.html
-  ;; ====================================================================
   (symbol "M907" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M907" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1926,6 +1568,10 @@
     (property "Year" "1994" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Summing/Output Module" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M907_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M907_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1936,16 +1582,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M908
-  ;; Title: Dual Stereo Line Selector
-  ;; Category: UNSORTED | Series: Standard | Year: 1994
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M908.html
-  ;; ====================================================================
   (symbol "M908" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M908" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1959,6 +1595,10 @@
     (property "Year" "1994" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Dual Stereo Line Selector" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M908_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M908_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -1969,16 +1609,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M909
-  ;; Title: Custom Meter
-  ;; Category: UNSORTED | Series: Standard | Year: 1994
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M909.html
-  ;; ====================================================================
   (symbol "M909" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M909" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -1992,6 +1622,10 @@
     (property "Year" "1994" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Custom Meter" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M909_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M909_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -2002,16 +1636,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M920
-  ;; Title: M920
-  ;; Category: UNSORTED | Series: Standard | Year: 1994
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M920.html
-  ;; ====================================================================
   (symbol "M920" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M920" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -2025,6 +1649,10 @@
     (property "Year" "1994" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M920" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M920_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M920_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -2035,16 +1663,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M921
-  ;; Title: M921
-  ;; Category: UNSORTED | Series: Standard | Year: 1996
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M921.html
-  ;; ====================================================================
   (symbol "M921" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M921" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -2058,6 +1676,10 @@
     (property "Year" "1996" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M921" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M921_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M921_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -2068,16 +1690,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M923
-  ;; Title: M923
-  ;; Category: UNSORTED | Series: Standard | Year: 1994
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M923.html
-  ;; ====================================================================
   (symbol "M923" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M923" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -2091,6 +1703,10 @@
     (property "Year" "1994" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M923" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M923_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M923_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -2101,16 +1717,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M923A
-  ;; Title: M923A
-  ;; Category: UNSORTED | Series: Standard | Year: 1994
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M923A.html
-  ;; ====================================================================
   (symbol "M923A" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M923A" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -2124,6 +1730,10 @@
     (property "Year" "1994" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M923A" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M923A_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M923A_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -2134,16 +1744,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M923B
-  ;; Title: M923B
-  ;; Category: UNSORTED | Series: Standard | Year: 1994
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M923B.html
-  ;; ====================================================================
   (symbol "M923B" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M923B" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -2157,6 +1757,10 @@
     (property "Year" "1994" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M923B" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M923B_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M923B_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -2167,16 +1771,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M923C
-  ;; Title: M923C
-  ;; Category: UNSORTED | Series: Standard | Year: 1994
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M923C.html
-  ;; ====================================================================
   (symbol "M923C" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M923C" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -2190,6 +1784,10 @@
     (property "Year" "1994" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M923C" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M923C_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M923C_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -2200,16 +1798,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M923D
-  ;; Title: M923D
-  ;; Category: UNSORTED | Series: Standard | Year: 1994
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M923D.html
-  ;; ====================================================================
   (symbol "M923D" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M923D" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -2223,6 +1811,10 @@
     (property "Year" "1994" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M923D" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M923D_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M923D_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -2233,16 +1825,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M923E
-  ;; Title: M923E
-  ;; Category: UNSORTED | Series: Standard | Year: 1994
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M923E.html
-  ;; ====================================================================
   (symbol "M923E" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M923E" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -2256,6 +1838,10 @@
     (property "Year" "1994" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M923E" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M923E_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M923E_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -2266,16 +1852,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M923F
-  ;; Title: M923F
-  ;; Category: UNSORTED | Series: Standard | Year: 1994
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M923F.html
-  ;; ====================================================================
   (symbol "M923F" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M923F" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -2289,6 +1865,10 @@
     (property "Year" "1994" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M923F" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M923F_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M923F_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -2299,16 +1879,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M923H
-  ;; Title: M923H
-  ;; Category: UNSORTED | Series: Standard | Year: 1994
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M923H.html
-  ;; ====================================================================
   (symbol "M923H" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M923H" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -2322,6 +1892,10 @@
     (property "Year" "1994" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M923H" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M923H_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M923H_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -2332,16 +1906,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M924
-  ;; Title: Kbs Power Supply
-  ;; Category: UNSORTED | Series: Standard | Year: 1994
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M924.html
-  ;; ====================================================================
   (symbol "M924" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M924" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -2355,6 +1919,10 @@
     (property "Year" "1994" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Kbs Power Supply" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M924_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M924_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -2365,16 +1933,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M924A
-  ;; Title: Power Supply
-  ;; Category: UNSORTED | Series: Standard | Year: 1994
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M924A.html
-  ;; ====================================================================
   (symbol "M924A" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M924A" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -2388,6 +1946,10 @@
     (property "Year" "1994" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Power Supply" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M924A_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M924A_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -2398,16 +1960,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M926
-  ;; Title: M926
-  ;; Category: UNSORTED | Series: Standard | Year: 1994
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M926.html
-  ;; ====================================================================
   (symbol "M926" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M926" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -2421,6 +1973,10 @@
     (property "Year" "1994" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M926" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M926_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M926_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -2431,16 +1987,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M927
-  ;; Title: M927
-  ;; Category: UNSORTED | Series: Standard | Year: 1997
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M927.html
-  ;; ====================================================================
   (symbol "M927" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M927" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -2454,6 +2000,10 @@
     (property "Year" "1997" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M927" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M927_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M927_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -2464,16 +2014,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M999
-  ;; Title: M999
-  ;; Category: UNSORTED | Series: Standard | Year: 1993
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M999.html
-  ;; ====================================================================
   (symbol "M999" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M999" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -2487,6 +2027,10 @@
     (property "Year" "1993" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M999" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M999_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M999_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -2497,16 +2041,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: RM424S
-  ;; Title: Shielded -Prewired Jackfield
-  ;; Category: UNSORTED | Series: Standard | Year: 1975
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/RM424S.html
-  ;; ====================================================================
   (symbol "RM424S" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "RM424S" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -2520,6 +2054,10 @@
     (property "Year" "1975" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Shielded -Prewired Jackfield" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "RM424S_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "RM424S_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -2530,16 +2068,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: RM650
-  ;; Title: RM650
-  ;; Category: UNSORTED | Series: Standard | Year: 1974
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/RM650.html
-  ;; ====================================================================
   (symbol "RM650" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "RM650" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -2553,6 +2081,10 @@
     (property "Year" "1974" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "RM650" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "RM650_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "RM650_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))

@@ -1,14 +1,4 @@
 (kicad_symbol_lib (version 20231120) (generator "WBSps KiCad - M402B") (generator_version "2.0")
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M402B
-  ;; Title: Effects Equalizer
-  ;; Category: FILTERS | Series: S400 | Year: 1970
-  ;; Power: VCC-AUDIO +48V, VCC-LAMP +24V
-  ;; Impedance: Line in: 600Ω, Out: 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M402B.html
-  ;; ====================================================================
   (symbol "M402B" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 17.78 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M402B" (at 0 -17.78 0) (effects (font (size 1.27 1.27))))
@@ -22,6 +12,10 @@
     (property "Year" "1970" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC-AUDIO +48V, VCC-LAMP +24V" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Line in: 600Ω, Out: 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Effects Equalizer" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "S400" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M402B_0_1" (rectangle (start -58.42 12.70) (end 58.42 -12.70) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M402B_1_1"
       (pin input line (at -63.50 10.16 0) (length 5.08) (name "EQ IN LEFT +" (effects (font (size 1.27 1.27)))) (number "5" (effects (font (size 1.27 1.27)))))

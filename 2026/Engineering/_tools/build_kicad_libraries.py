@@ -486,18 +486,8 @@ def generate_kicad_symbol_sexpr(sym):
     half_w = sym['half_w']
     half_h = sym['half_h']
 
-    comments = [
-        "  ;; ====================================================================",
-        f"  ;; Ward-Beck Systems Ltd. — Model: {code}",
-        f"  ;; Title: {sym.get('name') or ''}",
-        f"  ;; Category: {sym.get('category', 'UNSORTED')} | Series: {sym.get('series') or 'Standard'} | Year: {sym.get('year') or 'N/A'}",
-        f"  ;; Power: {sym.get('power_summary') or 'See datasheet'}",
-        f"  ;; Impedance: {sym.get('impedance_summary') or 'N/A'}",
-        f"  ;; Connector: {sym.get('connector') or 'Card-edge'}",
-        f"  ;; Verified: {sym.get('verified') or 'Archive technical documentation'}",
-        f"  ;; Archive: {sym.get('datasheet') or f'https://wbsps.ca/PAGES/{code}.html'}",
-        "  ;; ===================================================================="
-    ]
+    # KiCad's reader takes no ";;" comments (KiCad 9: "Unable to load library"): the
+    # facts ride as hidden properties instead.
 
     font = '(effects (font (size 1.27 1.27)))'
     hidden = '(effects (font (size 1.27 1.27)) hide)'
@@ -511,7 +501,6 @@ def generate_kicad_symbol_sexpr(sym):
         )
 
     lines = [
-        *comments,
         f'  (symbol {q(safe_name)} (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)',
         f'    (property "Reference" "U" (at 0 {half_h + 2 * G:.2f} 0) {font})',
         f'    (property "Value" {q(code)} (at 0 {-half_h - 2 * G:.2f} 0) {font})',
@@ -525,6 +514,10 @@ def generate_kicad_symbol_sexpr(sym):
         f'    (property "Year" {q(str(sym.get("year", "")))} (at 0 0 0) {hidden})',
         f'    (property "Power" {q(sym.get("power_summary", ""))} (at 0 0 0) {hidden})',
         f'    (property "Impedance" {q(sym.get("impedance_summary", ""))} (at 0 0 0) {hidden})',
+        f'    (property "Title" {q(sym.get("name") or "")} (at 0 0 0) {hidden})',
+        f'    (property "Series" {q(sym.get("series") or "Standard")} (at 0 0 0) {hidden})',
+        f'    (property "Connector" {q(sym.get("connector") or "Card-edge")} (at 0 0 0) {hidden})',
+        f'    (property "Verified" {q(sym.get("verified") or "Archive technical documentation")} (at 0 0 0) {hidden})',
         f'    (symbol {q(safe_name + "_0_1")} (rectangle (start {-half_w:.2f} {half_h:.2f}) (end {half_w:.2f} {-half_h:.2f})'
         f' (stroke (width 0.254) (type default)) (fill (type background))))',
         f'    (symbol {q(safe_name + "_1_1")}',

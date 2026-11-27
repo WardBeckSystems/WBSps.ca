@@ -1,14 +1,4 @@
 (kicad_symbol_lib (version 20231120) (generator "WBSps KiCad - Category RTO") (generator_version "2.0")
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M433-
-  ;; Title: M433-434 - Peak Program Meter
-  ;; Category: RTO | Series: Standard | Year: N/A
-  ;; Power: VCC
-  ;; Impedance: Out: 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M433-.html
-  ;; ====================================================================
   (symbol "M433-" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M433-" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -22,6 +12,10 @@
     (property "Year" "" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Out: 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M433-434 - Peak Program Meter" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M433-_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M433-_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -32,16 +26,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M435-
-  ;; Title: M435-436 - VU Meter
-  ;; Category: RTO | Series: Standard | Year: N/A
-  ;; Power: VCC
-  ;; Impedance: Out: 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M435-.html
-  ;; ====================================================================
   (symbol "M435-" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M435-" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -55,6 +39,10 @@
     (property "Year" "" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Out: 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M435-436 - VU Meter" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M435-_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M435-_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -65,16 +53,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M435/M436
-  ;; Title: VU METER
-  ;; Category: RTO | Series: Standard | Year: N/A
-  ;; Power: VCC
-  ;; Impedance: Out: 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M435/M436.html
-  ;; ====================================================================
   (symbol "M435_M436" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M435/M436" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -88,6 +66,10 @@
     (property "Year" "" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Out: 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "VU METER" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M435_M436_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M435_M436_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -98,16 +80,6 @@
       (pin power_in line (at 0.00 -12.70 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M461AB
-  ;; Title: Microphone Preamp
-  ;; Category: RTO | Series: Standard | Year: N/A
-  ;; Power: VEE-AUDIO -25V, VCC-AUDIO +25V, VCC-LAMP +24V
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M461AB.html
-  ;; ====================================================================
   (symbol "M461AB" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 33.02 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M461AB" (at 0 -33.02 0) (effects (font (size 1.27 1.27))))
@@ -121,6 +93,10 @@
     (property "Year" "" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VEE-AUDIO -25V, VCC-AUDIO +25V, VCC-LAMP +24V" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "Microphone Preamp" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M461AB_0_1" (rectangle (start -40.64 27.94) (end 40.64 -27.94) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M461AB_1_1"
       (pin input line (at -45.72 25.40 0) (length 5.08) (name "Mic In +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
@@ -162,16 +138,6 @@
       (pin power_in line (at 2.54 -33.02 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "18" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M497-
-  ;; Title: M497-Dual-Master-Module
-  ;; Category: RTO | Series: Standard | Year: N/A
-  ;; Power: VEE-AUDIO -25V, VCC-AUDIO +25V
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M497-.html
-  ;; ====================================================================
   (symbol "M497-" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 27.94 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M497-" (at 0 -27.94 0) (effects (font (size 1.27 1.27))))
@@ -185,6 +151,10 @@
     (property "Year" "" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VEE-AUDIO -25V, VCC-AUDIO +25V" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M497-Dual-Master-Module" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M497-_0_1" (rectangle (start -38.10 22.86) (end 38.10 -22.86) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M497-_1_1"
       (pin input line (at -43.18 20.32 0) (length 5.08) (name "Left Sum IN +" (effects (font (size 1.27 1.27)))) (number "P2-1" (effects (font (size 1.27 1.27)))))
@@ -216,16 +186,6 @@
       (pin power_in line (at 0.00 -27.94 90) (length 5.08) (name "GND" (effects (font (size 1.27 1.27)))) (number "P2-20" (effects (font (size 1.27 1.27)))))
     )
   )
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: RTO-144
-  ;; Title: DOCUMENT NUMBER DRAWING NAME NAME
-  ;; Category: RTO | Series: Standard | Year: 2020
-  ;; Power: VCC
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/RTO-144.html
-  ;; ====================================================================
   (symbol "RTO-144" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 12.70 0) (effects (font (size 1.27 1.27))))
     (property "Value" "RTO-144" (at 0 -12.70 0) (effects (font (size 1.27 1.27))))
@@ -239,6 +199,10 @@
     (property "Year" "2020" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "VCC" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "DOCUMENT NUMBER DRAWING NAME NAME" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "RTO-144_0_1" (rectangle (start -25.40 7.62) (end 25.40 -7.62) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "RTO-144_1_1"
       (pin input line (at -30.48 5.08 0) (length 5.08) (name "IN +" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))

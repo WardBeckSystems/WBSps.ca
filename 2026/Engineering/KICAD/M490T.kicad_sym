@@ -1,14 +1,4 @@
 (kicad_symbol_lib (version 20231120) (generator "WBSps KiCad - M490T") (generator_version "2.0")
-  ;; ====================================================================
-  ;; Ward-Beck Systems Ltd. — Model: M490T
-  ;; Title: M490T
-  ;; Category: INPUT-PRE-AMPS | Series: Standard | Year: 1978
-  ;; Power: -25 V, +25 V
-  ;; Impedance: Standard 600Ω
-  ;; Connector: Card-edge
-  ;; Verified: Archive technical documentation
-  ;; Archive: https://wbsps.ca/PAGES/M490T.html
-  ;; ====================================================================
   (symbol "M490T" (pin_names (offset 1.016)) (exclude_from_sim yes) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 60.96 0) (effects (font (size 1.27 1.27))))
     (property "Value" "M490T" (at 0 -60.96 0) (effects (font (size 1.27 1.27))))
@@ -22,6 +12,10 @@
     (property "Year" "1978" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Power" "-25 V, +25 V" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (property "Impedance" "Standard 600Ω" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Title" "M490T" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Series" "Standard" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Connector" "Card-edge" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+    (property "Verified" "Archive technical documentation" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
     (symbol "M490T_0_1" (rectangle (start -38.10 55.88) (end 38.10 -55.88) (stroke (width 0.254) (type default)) (fill (type background))))
     (symbol "M490T_1_1"
       (pin input line (at -43.18 53.34 0) (length 5.08) (name "MIC IN A" (effects (font (size 1.27 1.27)))) (number "A" (effects (font (size 1.27 1.27)))))
