@@ -37,6 +37,7 @@ OWNER = 'WardBeckSystems'
 PILES = {('1960-1969', '1967-1969'), ('1970-1979', '1970-1979'), ('1980-1989', '1980-1989'), ('1980-1989', '1989-1999')}
 STAGE = os.path.join(os.environ.get('STAGE_DIR', '/tmp'), 'project-stage')
 STATE = os.path.join(TOP, 'tools', 'project_repos.json')   # repo name -> {kind, title, folders, sha}
+EXTRA = os.path.join(TOP, 'tools', 'project_repos_extra.json')   # projects started as repos, not from 2026/Consoles
 TRAILER = '\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>'
 
 
@@ -182,9 +183,14 @@ def make_repo(repo, about):
 
 def load_state():
     try:
-        return json.load(open(STATE))
+        state = json.load(open(STATE))
     except OSError:
-        return {}
+        state = {}
+    try:
+        state.update(json.load(open(EXTRA)))
+    except OSError:
+        pass
+    return state
 
 
 def build(ps, dry):
@@ -214,7 +220,7 @@ def index():
     state = load_state()
     for kind, (name, full, title, about) in J.REPOS.items():
         repo = os.path.join(G, name)
-        mine = {r: s for r, s in state.items() if s['kind'] == kind}
+        mine = {r: s for r, s in state.items() if s['kind'] == kind and s['sha']}
         keep = {'.git', '.gitmodules', '.gitignore', 'Microcom', 'Microcom-Simulator'}
         tracked = sh('git', '-C', repo, 'ls-files', '-z').stdout.split('\0')
         tops = {t.split('/')[0] for t in tracked if t} - keep

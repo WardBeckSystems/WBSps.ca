@@ -131,5 +131,368 @@
   "sha": "66716101f4577691c4bc731999a4e2e309abbaee",
   "title": "730035 - CJOH TV, Ottawa",
   "year": "1973"
+ },
+ "CONSOLE.730050": {
+  "files": 308,
+  "folders": [
+   "1970-1979/73050 - T1202"
+  ],
+  "job": "730050",
+  "kind": "console",
+  "sha": "18026a3d2f65d762e9989d586353bd0c4218684c",
+  "title": "730050",
+  "year": "1973"
+ },
+ "CONSOLE.730065": {
+  "files": 10,
+  "folders": [
+   "1970-1979/73065"
+  ],
+  "job": "730065",
+  "kind": "console",
+  "sha": "2cf09486ecfa42efd77e034564d6b01a25645fd8",
+  "title": "730065",
+  "year": "1973"
+ },
+ "CONSOLE.740062": {
+  "files": 4,
+  "folders": [
+   "1970-1979/74062"
+  ],
+  "job": "740062",
+  "kind": "console",
+  "sha": "be130854e01e7ca87d257dc32f151f884bdfc121",
+  "title": "740062",
+  "year": "1974"
+ },
+ "CONSOLE.740066": {
+  "files": 4,
+  "folders": [
+   "1970-1979/74066"
+  ],
+  "job": "740066",
+  "kind": "console",
+  "sha": "5f0f6dac7cde9e65abc8b3ceecdd372ff891bc17",
+  "title": "740066",
+  "year": "1974"
+ },
+ "CONSOLE.740071": {
+  "files": 8,
+  "folders": [
+   "1970-1979/74071"
+  ],
+  "job": "740071",
+  "kind": "console",
+  "sha": "ee539d3f2811803cd363ae2c5075c551c8523009",
+  "title": "740071",
+  "year": "1974"
+ },
+ "CONSOLE.740075": {
+  "files": 4,
+  "folders": [
+   "1970-1979/74075"
+  ],
+  "job": "740075",
+  "kind": "console",
+  "sha": "7d70208c74433c4fb702fe73448fefb9678edc48",
+  "title": "740075",
+  "year": "1974"
+ },
+ "CONSOLE.740076": {
+  "files": 4,
+  "folders": [
+   "1970-1979/74076"
+  ],
+  "job": "740076",
+  "kind": "console",
+  "sha": "c1de066b84a322ce9fae26102d3729627a07c889",
+  "title": "740076",
+  "year": "1974"
+ },
+ "CONSOLE.740083": {
+  "files": 4,
+  "folders": [
+   "1970-1979/74083"
+  ],
+  "job": "740083",
+  "kind": "console",
+  "sha": "c546f7906d0f29c6318fbc27f2d19c72e68d6421",
+  "title": "740083",
+  "year": "1974"
+ },
+ "CONSOLE.740097": {
+  "files": 16,
+  "folders": [
+   "1970-1979/74097"
+  ],
+  "job": "740097",
+  "kind": "console",
+  "sha": "6fa1a12a6d394695fa8a70223a145081b55e19d4",
+  "title": "740097",
+  "year": "1974"
+ },
+ "CONSOLE.750015": {
+  "files": 4,
+  "folders": [
+   "1970-1979/75015"
+  ],
+  "job": "750015",
+  "kind": "console",
+  "sha": "76a5a5f6c538f8b31b328e997453a190aed43564",
+  "title": "750015",
+  "year": "1975"
+ },
+ "CONSOLE.750024": {
+  "files": 8,
+  "folders": [
+   "1970-1979/75024"
+  ],
+  "job": "750024",
+  "kind": "console",
+  "sha": "9fe5edc50267bcd0d3e9c66433f6b86b23c73e9d",
+  "title": "750024",
+  "year": "1975"
+ },
+ "CONSOLE.750046": {
+  "files": 8,
+  "folders": [
+   "1970-1979/75046"
+  ],
+  "job": "750046",
+  "kind": "console",
+  "sha": "14a20ed418bc178557ab9d9a331e7174b5c18e70",
+  "title": "750046",
+  "year": "1975"
+ },
+ "CONSOLE.750056": {
+  "files": 4,
+  "folders": [
+   "1970-1979/75056"
+  ],
+  "job": "750056",
+  "kind": "console",
+  "sha": "2d0bfb891deef13a4f0ef2c216e6beb1f4ab2fc6",
+  "title": "750056",
+  "year": "1975"
+ },
+ "CONSOLE.760019": {
+  "files": 12,
+  "folders": [
+   "1970-1979/76019"
+  ],
+  "job": "760019",
+  "kind": "console",
+  "sha": "4d206757c7935a92f516c784b1009532ed764e17",
+  "title": "760019",
+  "year": "1976"
+ },
+ "CONSOLE.760036": {
+  "files": 4,
+  "folders": [
+   "1970-1979/76036"
+  ],
+  "job": "760036",
+  "kind": "console",
+  "sha": "652ecf1cf063a946b554a1af90dd52bb76f1ae10",
+  "title": "760036",
+  "year": "1976"
+ },
+ "CONSOLE.760042-Mobile-Audio-Console": {
+  "files": 2,
+  "folders": [
+   "1970-1979/76042 - Mobile Audio Console"
+  ],
+  "job": "760042",
+  "kind": "console",
+  "sha": "b180e73058b8b0f1ab52c79d14e6d21207649143",
+  "title": "760042 - Mobile Audio Console",
+  "year": "1976"
+ },
+ "CONSOLE.760045-CFTO": {
+  "files": 684,
+  "folders": [
+   "1970-1979/76045 - CFTO"
+  ],
+  "job": "760045",
+  "kind": "console",
+  "sha": "d4963b4f648620686540b18acd25d7efd5a8ae4d",
+  "title": "760045 - CFTO",
+  "year": "1976"
+ },
+ "CONSOLE.770012-04-002-L2042-layout-iss-5": {
+  "files": 76,
+  "folders": [
+   "1970-1979/77012 - 04-002 L2042 layout iss 5"
+  ],
+  "job": "770012",
+  "kind": "console",
+  "sha": "5777191f60eecf6b6230846275df343b8798a612",
+  "title": "770012 - 04-002 L2042 layout iss 5",
+  "year": "1977"
+ },
+ "CONSOLE.770024": {
+  "files": 8,
+  "folders": [
+   "1970-1979/77024"
+  ],
+  "job": "770024",
+  "kind": "console",
+  "sha": "0a56ed5c816f50c5fe34dcab68ad26ad21bb7eaf",
+  "title": "770024",
+  "year": "1977"
+ },
+ "CONSOLE.770038-04-001-L3242-layout-iss-1": {
+  "files": 60,
+  "folders": [
+   "1970-1979/77038 - 04-001 L3242 layout iss 1"
+  ],
+  "job": "770038",
+  "kind": "console",
+  "sha": "2702ce391eabb8131e6feb974a39273f4c6d46fa",
+  "title": "770038 - 04-001 L3242 layout iss 1",
+  "year": "1977"
+ },
+ "CONSOLE.780035-04-002-L3242A-layout-iss-1": {
+  "files": 48,
+  "folders": [
+   "1970-1979/78035 - 04-002 L3242A layout iss 1"
+  ],
+  "job": "780035",
+  "kind": "console",
+  "sha": "a7ff746eb4156ca2ac6083c483830921f9c8c054",
+  "title": "780035 - 04-002 L3242A layout iss 1",
+  "year": "1978"
+ },
+ "CONSOLE.780050-04-002-L2042A-layout": {
+  "files": 48,
+  "folders": [
+   "1970-1979/78050 - 04-002 L2042A layout"
+  ],
+  "job": "780050",
+  "kind": "console",
+  "sha": "005a9f11c4398d64ec8aba0cb7859870b9797585",
+  "title": "780050 - 04-002 L2042A layout",
+  "year": "1978"
+ },
+ "CONSOLE.790236-Maryland-L3242A": {
+  "files": 1010,
+  "folders": [
+   "1970-1979/790236 - Maryland L3242A"
+  ],
+  "job": "790236",
+  "kind": "console",
+  "sha": "5056adea2ddd84370fbe7fef648a6c6969091521",
+  "title": "790236 - Maryland L3242A",
+  "year": "1979"
+ },
+ "CONSOLE.800278": {
+  "files": 2,
+  "folders": [
+   "1980-1989/800278"
+  ],
+  "job": "800278",
+  "kind": "console",
+  "sha": "093fced393e80758ceba0e0da45c84aa207b90d8",
+  "title": "800278",
+  "year": "1980"
+ },
+ "CONSOLE.800595": {
+  "files": 18,
+  "folders": [
+   "1980-1989/800595"
+  ],
+  "job": "800595",
+  "kind": "console",
+  "sha": "654ed954c7384299367ebdcf6526d8d9e9c052a9",
+  "title": "800595",
+  "year": "1980"
+ },
+ "CONSOLE.820321": {
+  "files": 4,
+  "folders": [
+   "1980-1989/820321"
+  ],
+  "job": "820321",
+  "kind": "console",
+  "sha": "22875683af8ebdb656b6141d9f9cdce88ee4ea58",
+  "title": "820321",
+  "year": "1982"
+ },
+ "CONSOLE.820322-Console": {
+  "files": 4,
+  "folders": [
+   "1980-1989/820322 - Console"
+  ],
+  "job": "820322",
+  "kind": "console",
+  "sha": "c11934c3489d0c4575ec7e10d625e5efb10ac1b9",
+  "title": "820322 - Console",
+  "year": "1982"
+ },
+ "CONSOLE.830132-CFBK-RADIO-HUNTSVILLE-R1000-RADIO-CONSOLE": {
+  "files": 2,
+  "folders": [
+   "1980-1989/830132 - CFBK RADIO HUNTSVILLE - R1000 RADIO CONSOLE"
+  ],
+  "job": "830132",
+  "kind": "console",
+  "sha": "ef63fe32da8cd0ff91c864eb8c188b9d55da4974",
+  "title": "830132 - CFBK RADIO HUNTSVILLE - R1000 RADIO CONSOLE",
+  "year": "1983"
+ },
+ "CONSOLE.840300": {
+  "files": 196,
+  "folders": [
+   "1980-1989/840300 - 04-003"
+  ],
+  "job": "840300",
+  "kind": "console",
+  "sha": "8a0d007be5bff5dd9e7b9e90b11605b759ee5226",
+  "title": "840300",
+  "year": "1984"
+ },
+ "CONSOLE.850450": {
+  "files": 4,
+  "folders": [
+   "1980-1989/850450"
+  ],
+  "job": "850450",
+  "kind": "console",
+  "sha": "806fb2c06ad27f527fa1743c8ad9ef5822fc2e18",
+  "title": "850450",
+  "year": "1985"
+ },
+ "CONSOLE.851052": {
+  "files": 16,
+  "folders": [
+   "1980-1989/851052"
+  ],
+  "job": "851052",
+  "kind": "console",
+  "sha": "d54b900fc11ed449b282f51599b0afe9c995f69d",
+  "title": "851052",
+  "year": "1985"
+ },
+ "CONSOLE.860401-RNZ-WELLINGTON-R1400-RADIO-CONSOLE": {
+  "files": 10,
+  "folders": [
+   "1980-1989/860401 - RNZ WELLINGTON - R1400 RADIO CONSOLE"
+  ],
+  "job": "860401",
+  "kind": "console",
+  "sha": "7f2ee036f36c4860d2bf65ebd00ce488bb2405d9",
+  "title": "860401 - RNZ WELLINGTON - R1400 RADIO CONSOLE",
+  "year": "1986"
+ },
+ "INTERCOM.860485-CFTM-TELEVISION-CUSTOM-INTERCOM-MATRIX": {
+  "files": 4,
+  "folders": [
+   "1980-1989/860485 - CFTM TELEVISION - CUSTOM INTERCOM MATRIX"
+  ],
+  "job": "860485",
+  "kind": "intercom",
+  "sha": "d13cdeabfe635743ad755afaf8aaa18d900837b6",
+  "title": "860485 - CFTM TELEVISION - CUSTOM INTERCOM MATRIX",
+  "year": "1986"
  }
 }

@@ -112,3 +112,6 @@ site/
 
 # local clones of every WardBeckSystems repo
 /WBSps.ca/Github.WardBeckSystems/
+
+# 7 GB of recovered drives, distributed to repos by hand
+hard drive recovery/
