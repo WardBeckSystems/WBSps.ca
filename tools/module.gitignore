@@ -54,3 +54,6 @@
 !PINOUTS/* - RTO-144 Connections.pdf
 !KICAD/**
 !SOFTWARE/**/*.svg
+
+# Rust build output of the module plugin (cargo): regenerated, never archived
+SOFTWARE/plugin/target/
