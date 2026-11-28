@@ -20,7 +20,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Words (OCR):** 128 in 85 lines: INPUT · MoPULEs 3-16 · PiN · 16 · RED · 20 · eze Gc BLK (SEpAAATE RUNS) · 19 · Ge · vio · NPUT Mobules (7-20 · PIN
 - **Wiring (first pass):** 7 connected wire groups from 74 runs
 
-Every curve, box, word and wire group: [1976 - 76045 - 76045-01-010 - VIO MINAL BLOCKS SHIELDS ETC REQUIRED (traced).json](1976%20-%2076045%20-%2076045-01-010%20-%20VIO%20MINAL%20BLOCKS%20SHIELDS%20ETC%20REQUIRED%20%28traced%29.json) (the CAD file: `1976 - 76045 - 76045-01-010 - VIO MINAL BLOCKS SHIELDS ETC REQUIRED (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76045 - 76045-01-010 - VIO MINAL BLOCKS SHIELDS ETC REQUIRED (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1976%20-%2076045%20-%2076045-01-010%20-%20VIO%20MINAL%20BLOCKS%20SHIELDS%20ETC%20REQUIRED%20%28traced%29.json) (the CAD file: `1976 - 76045 - 76045-01-010 - VIO MINAL BLOCKS SHIELDS ETC REQUIRED (traced).dxf`).
 
 ## Full text
 

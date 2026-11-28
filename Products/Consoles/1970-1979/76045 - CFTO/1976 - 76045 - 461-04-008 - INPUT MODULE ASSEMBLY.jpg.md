@@ -19,7 +19,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Circles and arcs:** 21 circles, 0 arcs; largest r 8.3 @ (25.4, 184.3), r 7.8 @ (26.3, 295.4), r 4.8 @ (25.9, 232.9), r 4.7 @ (26.4, 295.6)
 - **Closed boxes:** 39
 
-Every curve, box, word and wire group: [1976 - 76045 - 461-04-008 - INPUT MODULE ASSEMBLY (traced).json](1976%20-%2076045%20-%20461-04-008%20-%20INPUT%20MODULE%20ASSEMBLY%20%28traced%29.json) (the CAD file: `1976 - 76045 - 461-04-008 - INPUT MODULE ASSEMBLY (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76045 - 461-04-008 - INPUT MODULE ASSEMBLY (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1976%20-%2076045%20-%20461-04-008%20-%20INPUT%20MODULE%20ASSEMBLY%20%28traced%29.json) (the CAD file: `1976 - 76045 - 461-04-008 - INPUT MODULE ASSEMBLY (traced).dxf`).
 
 ## Full text
 

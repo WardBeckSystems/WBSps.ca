@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 50 in 47 lines: E 800 · 10-600 · REC'D · PMCHES · REO D · 0.750 · 2,000 · PTCHES · DETAIL · CETAL · RFC'D: · DCTAL
 - **Title block:** (345, 22)–(429, 39) mm: WBS · WARD-BECK SYSTEMS · dRC ULSD)
 
-Every curve, box, word and wire group: [1996 - 960191 - DOC - 960191-03-001 - DETAIL DETAIL DETAIL DETAIL REAR PANEL (traced).json](1996%20-%20960191%20-%20DOC%20-%20960191-03-001%20-%20DETAIL%20DETAIL%20DETAIL%20DETAIL%20REAR%20PANEL%20%28traced%29.json) (the CAD file: `1996 - 960191 - DOC - 960191-03-001 - DETAIL DETAIL DETAIL DETAIL REAR PANEL (traced).dxf`).
+Every curve, box, word and wire group: [1996 - 960191 - DOC - 960191-03-001 - DETAIL DETAIL DETAIL DETAIL REAR PANEL (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.960191/1996%20-%20960191%20-%20DOC%20-%20960191-03-001%20-%20DETAIL%20DETAIL%20DETAIL%20DETAIL%20REAR%20PANEL%20%28traced%29.json) (the CAD file: `1996 - 960191 - DOC - 960191-03-001 - DETAIL DETAIL DETAIL DETAIL REAR PANEL (traced).dxf`).
 
 ## Full text
 

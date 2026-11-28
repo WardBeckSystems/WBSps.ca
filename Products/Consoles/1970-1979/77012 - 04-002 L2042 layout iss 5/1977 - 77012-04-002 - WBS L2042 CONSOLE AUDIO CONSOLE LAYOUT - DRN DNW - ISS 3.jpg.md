@@ -32,7 +32,7 @@ Audio console layout drawing of the WBS L2042 console with title block at bottom
 - **Words (OCR):** 36 in 30 lines: Optiohal · JacKFIELD · LOUALIIERS · JaCKS · SELECTORS · 4477 · ANCILLARY · Optiohal PATCHADLE · #OOULES · HASTLR · EQ/FLTR · 4478 Input HOOULES
 - **Title block:** (328, 5)–(432, 36) mm: WBS WAAD-Arck · LTD: · DTE · WBS L2042 CONSOLE · cKD. · AUdIO CONSOLE
 
-Every curve, box, word and wire group: [1977 - 77012-04-002 - WBS L2042 CONSOLE AUDIO CONSOLE LAYOUT - DRN DNW - ISS 3 (traced).json](1977%20-%2077012-04-002%20-%20WBS%20L2042%20CONSOLE%20AUDIO%20CONSOLE%20LAYOUT%20-%20DRN%20DNW%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1977 - 77012-04-002 - WBS L2042 CONSOLE AUDIO CONSOLE LAYOUT - DRN DNW - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 77012-04-002 - WBS L2042 CONSOLE AUDIO CONSOLE LAYOUT - DRN DNW - ISS 3 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.770012-04-002-L2042-layout-iss-5/1977%20-%2077012-04-002%20-%20WBS%20L2042%20CONSOLE%20AUDIO%20CONSOLE%20LAYOUT%20-%20DRN%20DNW%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1977 - 77012-04-002 - WBS L2042 CONSOLE AUDIO CONSOLE LAYOUT - DRN DNW - ISS 3 (traced).dxf`).
 
 ## Full text
 

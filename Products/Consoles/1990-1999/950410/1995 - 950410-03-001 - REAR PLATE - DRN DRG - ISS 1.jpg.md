@@ -32,7 +32,7 @@ Wiki page: [Job-950410](../../../../PAGES/Job-950410.md)
 - **Words (OCR):** 34 in 31 lines: 7-no0 · 0,080 ThIC · DETAL · REC'D · 01-72 · 0.234 · ~ROcEs · 06z] REF · TFR A · EXTAUS · IDENT EXRUSICN · SANOBLAST THJ MEDI
 - **Title block:** (681, 12)–(858, 79) mm: WBS · WARD-BECK SYSTEMS · REAR PLATE · ScALE · CODES · 950410-03-001
 
-Every curve, box, word and wire group: [1995 - 950410-03-001 - REAR PLATE - DRN DRG - ISS 1 (traced).json](1995%20-%20950410-03-001%20-%20REAR%20PLATE%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 950410-03-001 - REAR PLATE - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 950410-03-001 - REAR PLATE - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.950410-CBC-MONTREAL-CUSTOM-UTILITY-AMPLIFIER/950410/1995%20-%20950410-03-001%20-%20REAR%20PLATE%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 950410-03-001 - REAR PLATE - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

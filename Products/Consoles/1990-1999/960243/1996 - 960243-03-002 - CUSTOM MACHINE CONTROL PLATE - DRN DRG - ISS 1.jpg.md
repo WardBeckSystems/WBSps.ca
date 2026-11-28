@@ -33,7 +33,7 @@ Custom machine control plate drawing with title block at bottom right.
 - **Words (OCR):** 50 in 42 lines: FITCH(I_COD) · 04-40 UNC REO D 28 · 83 · DATU · PLATE · 5,0n0 · 1.850 · MATERIAL ExTRUSOY #49916 · 960741 · 03-002-5 IDENT EXTRUSION · 96024-03-007-4 SVAPLATE · MATERIAL: ALUM
 - **Title block:** (676, 33)–(845, 66) mm: HEHSC · WBS · WARD-BECK   SYSTEMS
 
-Every curve, box, word and wire group: [1996 - 960243-03-002 - CUSTOM MACHINE CONTROL PLATE - DRN DRG - ISS 1 (traced).json](1996%20-%20960243-03-002%20-%20CUSTOM%20MACHINE%20CONTROL%20PLATE%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1996 - 960243-03-002 - CUSTOM MACHINE CONTROL PLATE - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1996 - 960243-03-002 - CUSTOM MACHINE CONTROL PLATE - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.960243/1996%20-%20960243-03-002%20-%20CUSTOM%20MACHINE%20CONTROL%20PLATE%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1996 - 960243-03-002 - CUSTOM MACHINE CONTROL PLATE - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

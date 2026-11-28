@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 31 in 26 lines: 2790 · 940356-03-004- · DATUM · 02C · Ro'D · ALOO · PITCH(SCOO} · 940556 · SUB FLATE · In 447 · DATC · PUNCH 0,640 5C RCO D
 - **Title block:** (341, 24)–(427, 44) mm: ISSLELDATEL · WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1994 - 940356 - DOC - 940356-03-004 - GRIT AND PAINT TEXTURED BEIGE (traced).json](1994%20-%20940356%20-%20DOC%20-%20940356-03-004%20-%20GRIT%20AND%20PAINT%20TEXTURED%20BEIGE%20%28traced%29.json) (the CAD file: `1994 - 940356 - DOC - 940356-03-004 - GRIT AND PAINT TEXTURED BEIGE (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940356 - DOC - 940356-03-004 - GRIT AND PAINT TEXTURED BEIGE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940356-CBC/940356%20-%20CBC/1994%20-%20940356%20-%20DOC%20-%20940356-03-004%20-%20GRIT%20AND%20PAINT%20TEXTURED%20BEIGE%20%28traced%29.json) (the CAD file: `1994 - 940356 - DOC - 940356-03-004 - GRIT AND PAINT TEXTURED BEIGE (traced).dxf`).
 
 ## Full text
 

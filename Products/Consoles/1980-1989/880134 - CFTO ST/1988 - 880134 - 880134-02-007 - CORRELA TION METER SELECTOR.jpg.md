@@ -22,7 +22,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Words (OCR):** 116 in 113 lines: CORRELA TION · METER · SELECTOR · TB2 · 73,74 · MON · OUTPUTS · (75) · dBm , · 600 OHMS · 76,77 · (78)
 - **Wiring (first pass):** 104 connected wire groups from 520 runs; labelled ends: 1517 mm → 25,26; 1455 mm → SUB, MODULES, TB2, 121,122; 63 mm → TB2, 73,74; 63 mm → 25,26, P2, 25,24; 62 mm → (75), 76,77
 
-Every curve, box, word and wire group: [1988 - 880134 - 880134-02-007 - CORRELA TION METER SELECTOR (traced).json](1988%20-%20880134%20-%20880134-02-007%20-%20CORRELA%20TION%20METER%20SELECTOR%20%28traced%29.json) (the CAD file: `1988 - 880134 - 880134-02-007 - CORRELA TION METER SELECTOR (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 880134-02-007 - CORRELA TION METER SELECTOR (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%20880134-02-007%20-%20CORRELA%20TION%20METER%20SELECTOR%20%28traced%29.json) (the CAD file: `1988 - 880134 - 880134-02-007 - CORRELA TION METER SELECTOR (traced).dxf`).
 
 ## Full text
 

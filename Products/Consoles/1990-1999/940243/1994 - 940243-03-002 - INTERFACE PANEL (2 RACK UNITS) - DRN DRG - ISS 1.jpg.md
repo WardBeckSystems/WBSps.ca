@@ -33,7 +33,7 @@ Interface panel (2 rack units) drawing with title block at bottom right.
 - **Words (OCR):** 32 in 30 lines: RI · ALLD · Thic · 12] Gr · TE' TURED · PL CCS · 0.550 · DM · DFTA · PLACS · PLACES · 10 Joi
 - **Title block:** (681, 30)–(849, 64) mm: WBS WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1994 - 940243-03-002 - INTERFACE PANEL (2 RACK UNITS) - DRN DRG - ISS 1 (traced).json](1994%20-%20940243-03-002%20-%20INTERFACE%20PANEL%20%282%20RACK%20UNITS%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940243-03-002 - INTERFACE PANEL (2 RACK UNITS) - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940243-03-002 - INTERFACE PANEL (2 RACK UNITS) - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.940243-Centennial-College/940243/1994%20-%20940243-03-002%20-%20INTERFACE%20PANEL%20%282%20RACK%20UNITS%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940243-03-002 - INTERFACE PANEL (2 RACK UNITS) - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

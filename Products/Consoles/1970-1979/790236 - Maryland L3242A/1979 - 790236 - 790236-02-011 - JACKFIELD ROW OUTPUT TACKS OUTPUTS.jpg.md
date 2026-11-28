@@ -21,7 +21,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 77 connected wire groups from 400 runs
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-02-011 - JACKFIELD ROW OUTPUT TACKS OUTPUTS (traced).json](1979%20-%20790236%20-%20790236-02-011%20-%20JACKFIELD%20ROW%20OUTPUT%20TACKS%20OUTPUTS%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-011 - JACKFIELD ROW OUTPUT TACKS OUTPUTS (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-02-011 - JACKFIELD ROW OUTPUT TACKS OUTPUTS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-02-011%20-%20JACKFIELD%20ROW%20OUTPUT%20TACKS%20OUTPUTS%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-011 - JACKFIELD ROW OUTPUT TACKS OUTPUTS (traced).dxf`).
 
 ## Full text
 

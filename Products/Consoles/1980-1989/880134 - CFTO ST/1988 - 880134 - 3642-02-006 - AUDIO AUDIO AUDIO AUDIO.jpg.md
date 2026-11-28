@@ -21,7 +21,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Words (OCR):** 52 in 47 lines: SUB 1-R · SUB 2-L · SUB · 2-R · M1-L · M435 · M435 · 435 · M435 · P2 · P2 · P2
 - **Wiring (first pass):** 65 connected wire groups from 882 runs; labelled ends: 1207 mm → P1, 7,8, AUDIO; 1197 mm → P1, 7,8, AUDIO; 251 mm → P2, P1, 7,8; 247 mm → 10, P1, 7,8; 239 mm → P1, 7,8
 
-Every curve, box, word and wire group: [1988 - 880134 - 3642-02-006 - AUDIO AUDIO AUDIO AUDIO (traced).json](1988%20-%20880134%20-%203642-02-006%20-%20AUDIO%20AUDIO%20AUDIO%20AUDIO%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-006 - AUDIO AUDIO AUDIO AUDIO (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 3642-02-006 - AUDIO AUDIO AUDIO AUDIO (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-006%20-%20AUDIO%20AUDIO%20AUDIO%20AUDIO%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-006 - AUDIO AUDIO AUDIO AUDIO (traced).dxf`).
 
 ## Full text
 

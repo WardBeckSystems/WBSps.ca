@@ -33,7 +33,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Dots (junctions):** 3
 - **Wiring (first pass):** 23 connected wire groups from 256 runs
 
-Every curve, box, word and wire group: [1977 - 76045-02-005 - AUX CHANNEL SCHEMATIC - DRN ELJ - ISS 1 (traced).json](1977%20-%2076045-02-005%20-%20AUX%20CHANNEL%20SCHEMATIC%20-%20DRN%20ELJ%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1977 - 76045-02-005 - AUX CHANNEL SCHEMATIC - DRN ELJ - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 76045-02-005 - AUX CHANNEL SCHEMATIC - DRN ELJ - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1977%20-%2076045-02-005%20-%20AUX%20CHANNEL%20SCHEMATIC%20-%20DRN%20ELJ%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1977 - 76045-02-005 - AUX CHANNEL SCHEMATIC - DRN ELJ - ISS 1 (traced).dxf`).
 
 ## Full text
 

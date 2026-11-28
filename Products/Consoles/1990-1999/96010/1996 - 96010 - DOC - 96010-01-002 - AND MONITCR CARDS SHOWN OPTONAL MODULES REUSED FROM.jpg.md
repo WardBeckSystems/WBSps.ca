@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (339, 21)–(423, 37) mm: WBS · WARD-BECK   SYSTEMS · CBC OTTAWA
 - **Wiring (first pass):** 131 connected wire groups from 11,122 runs, 1916 dotted junctions; labelled ends: 162 mm → A44444, 444, 44; 113 mm → Jii; 50 mm → WBS, DiSc NG; 18 mm → WARD-BECK   SYSTEMS; 12 mm → A44444
 
-Every curve, box, word and wire group: [1996 - 96010 - DOC - 96010-01-002 - AND MONITCR CARDS SHOWN OPTONAL MODULES REUSED FROM (traced).json](1996%20-%2096010%20-%20DOC%20-%2096010-01-002%20-%20AND%20MONITCR%20CARDS%20SHOWN%20OPTONAL%20MODULES%20REUSED%20FROM%20%28traced%29.json) (the CAD file: `1996 - 96010 - DOC - 96010-01-002 - AND MONITCR CARDS SHOWN OPTONAL MODULES REUSED FROM (traced).dxf`).
+Every curve, box, word and wire group: [1996 - 96010 - DOC - 96010-01-002 - AND MONITCR CARDS SHOWN OPTONAL MODULES REUSED FROM (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.960010/1996%20-%2096010%20-%20DOC%20-%2096010-01-002%20-%20AND%20MONITCR%20CARDS%20SHOWN%20OPTONAL%20MODULES%20REUSED%20FROM%20%28traced%29.json) (the CAD file: `1996 - 96010 - DOC - 96010-01-002 - AND MONITCR CARDS SHOWN OPTONAL MODULES REUSED FROM (traced).dxf`).
 
 ## Full text
 

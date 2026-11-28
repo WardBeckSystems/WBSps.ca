@@ -21,7 +21,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Words (OCR):** 146 in 125 lines: COMMUNICATIONS · CHANNEL · P2 · I,A · 6ojfm · OaBm · OVGILLATOR · QUTPUTS · 3,C · U1o · 7,8 · BaBm
 - **Wiring (first pass):** 141 connected wire groups from 415 runs, 1 dotted junctions; labelled ends: 758 mm → MI-STEREO, 14, 13, 16; 636 mm → P2; 487 mm → TO, To, TB2, 97,98; 66 mm → (147), 139,140; 52 mm → COMMUNICATIONS
 
-Every curve, box, word and wire group: [1988 - 880134 - 3642-02-008 - UVCLLATOR OABM QUTPUTS (traced).json](1988%20-%20880134%20-%203642-02-008%20-%20UVCLLATOR%20OABM%20QUTPUTS%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-008 - UVCLLATOR OABM QUTPUTS (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 3642-02-008 - UVCLLATOR OABM QUTPUTS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-008%20-%20UVCLLATOR%20OABM%20QUTPUTS%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-008 - UVCLLATOR OABM QUTPUTS (traced).dxf`).
 
 ## Full text
 

@@ -21,7 +21,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Words (OCR):** 206 in 187 lines: 20d6 Paey · Alud · INPJT · CHIANNEL-L · mG_ 4r · cla' #4+IL (m4 · 8o) · INSeRt · CHANNEL · i0dBm · 78 | · Mic
 - **Wiring (first pass):** 108 connected wire groups from 457 runs, 2 dotted junctions; labelled ends: 122 mm → PESELEGIORS, M4-3A, A1; 99 mm → M47eA, DUT, Te3, 124, 25; 62 mm → PFL, Bus; 53 mm → 3X1, LINE, Swr, 05 16 (47); 45 mm → 27,128(129) 6, J4).131 (132)
 
-Every curve, box, word and wire group: [1976 - 76045 - 76045-01-001 - SUMMING TES MICA DCSIL AMES (traced).json](1976%20-%2076045%20-%2076045-01-001%20-%20SUMMING%20TES%20MICA%20DCSIL%20AMES%20%28traced%29.json) (the CAD file: `1976 - 76045 - 76045-01-001 - SUMMING TES MICA DCSIL AMES (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76045 - 76045-01-001 - SUMMING TES MICA DCSIL AMES (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1976%20-%2076045%20-%2076045-01-001%20-%20SUMMING%20TES%20MICA%20DCSIL%20AMES%20%28traced%29.json) (the CAD file: `1976 - 76045 - 76045-01-001 - SUMMING TES MICA DCSIL AMES (traced).dxf`).
 
 ## Full text
 

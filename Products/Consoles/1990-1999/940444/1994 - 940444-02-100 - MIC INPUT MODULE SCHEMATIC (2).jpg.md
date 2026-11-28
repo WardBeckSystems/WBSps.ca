@@ -30,7 +30,7 @@ Photo of a rotated WBS mic input module schematic sheet 2, title block partly cr
 - **Closed boxes:** 21
 - **Wiring (first pass):** 105 connected wire groups from 755 runs
 
-Every curve, box, word and wire group: [1994 - 940444-02-100 - MIC INPUT MODULE SCHEMATIC (2) (traced).json](1994%20-%20940444-02-100%20-%20MIC%20INPUT%20MODULE%20SCHEMATIC%20%282%29%20%28traced%29.json) (the CAD file: `1994 - 940444-02-100 - MIC INPUT MODULE SCHEMATIC (2) (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940444-02-100 - MIC INPUT MODULE SCHEMATIC (2) (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940444-WBZ-Boston/940444/1994%20-%20940444-02-100%20-%20MIC%20INPUT%20MODULE%20SCHEMATIC%20%282%29%20%28traced%29.json) (the CAD file: `1994 - 940444-02-100 - MIC INPUT MODULE SCHEMATIC (2) (traced).dxf`).
 
 ## Full text
 

@@ -33,7 +33,7 @@ Upside-down controller schematic with title block at top left.
 - **Closed boxes:** 96
 - **Wiring (first pass):** 76 connected wire groups from 1,209 runs
 
-Every curve, box, word and wire group: [1988 - 3642-02-012 - CONTROLLER SCHEMATIC - ISS 2 (traced).json](1988%20-%203642-02-012%20-%20CONTROLLER%20SCHEMATIC%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1988 - 3642-02-012 - CONTROLLER SCHEMATIC - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 3642-02-012 - CONTROLLER SCHEMATIC - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.ST3642/1988%20-%203642-02-012%20-%20CONTROLLER%20SCHEMATIC%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1988 - 3642-02-012 - CONTROLLER SCHEMATIC - ISS 2 (traced).dxf`).
 
 ## Full text
 

@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (340, 5)–(428, 39) mm: WARD-BECK SYSTEMS · WBS · CFTR BOOTH · RENAISSANCE · MkI · FUNCTIONAL · SCALE disc NO; · 940333-01-001 · CODE:
 - **Wiring (first pass):** 255 connected wire groups from 1,593 runs; labelled ends: 283 mm → QUE_AUX; 179 mm → RichT; 179 mm → MUSC; 179 mm → MUSC, RicHT; 159 mm → QUE_AUX, R]cRCVCNITOR
 
-Every curve, box, word and wire group: [1994 - 940333 - DOC - 940333-01-001 - METER MNUS MODULE ISSUEI REMSION (traced).json](1994%20-%20940333%20-%20DOC%20-%20940333-01-001%20-%20METER%20MNUS%20MODULE%20ISSUEI%20REMSION%20%28traced%29.json) (the CAD file: `1994 - 940333 - DOC - 940333-01-001 - METER MNUS MODULE ISSUEI REMSION (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940333 - DOC - 940333-01-001 - METER MNUS MODULE ISSUEI REMSION (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940333-CFTR/1994%20-%20940333%20-%20DOC%20-%20940333-01-001%20-%20METER%20MNUS%20MODULE%20ISSUEI%20REMSION%20%28traced%29.json) (the CAD file: `1994 - 940333 - DOC - 940333-01-001 - METER MNUS MODULE ISSUEI REMSION (traced).dxf`).
 
 ## Full text
 

@@ -35,7 +35,7 @@ Wiki page: [T1202A](../../../../PAGES/T1202A.md)
 - **Title block:** (65, 1)–(432, 68) mm: BINDING · (ISSUE |DATE · REVISION · APP · SYSTEMS · PoSTS · CHAsSIS · M4BOB 1TO 12 PIN 22 #22 AWG · GN · GROUND · WBS WARD-BECK SYSTEMS · 6M487 · 162 · e M481B · Ac · DRN_ · JP SEF8z · GROUND · M482B 
 - **Wiring (first pass):** 49 connected wire groups from 294 runs; labelled ends: 251 mm → PHANTOM POWER, M480c; 143 mm → BINDING, PoSTS; 132 mm → #16, AwG; 116 mm → M485B, BINDING; 107 mm → SYSTEMS, GROUND, 1i5, 230 VAC
 
-Every curve, box, word and wire group: [1982 - 1202-02-017 - POWER DISTRIBUTION SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).json](1982%20-%201202-02-017%20-%20POWER%20DISTRIBUTION%20SCHEMATIC%20-%20DRN%20JP%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1982 - 1202-02-017 - POWER DISTRIBUTION SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - 1202-02-017 - POWER DISTRIBUTION SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.T1202A/1982%20-%201202-02-017%20-%20POWER%20DISTRIBUTION%20SCHEMATIC%20-%20DRN%20JP%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1982 - 1202-02-017 - POWER DISTRIBUTION SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).dxf`).
 
 ## Full text
 

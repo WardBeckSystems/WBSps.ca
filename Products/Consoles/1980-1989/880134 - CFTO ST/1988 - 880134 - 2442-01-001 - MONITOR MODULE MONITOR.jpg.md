@@ -21,7 +21,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 204 connected wire groups from 1,011 runs, 1 dotted junctions
 
-Every curve, box, word and wire group: [1988 - 880134 - 2442-01-001 - MONITOR MODULE MONITOR (traced).json](1988%20-%20880134%20-%202442-01-001%20-%20MONITOR%20MODULE%20MONITOR%20%28traced%29.json) (the CAD file: `1988 - 880134 - 2442-01-001 - MONITOR MODULE MONITOR (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 2442-01-001 - MONITOR MODULE MONITOR (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%202442-01-001%20-%20MONITOR%20MODULE%20MONITOR%20%28traced%29.json) (the CAD file: `1988 - 880134 - 2442-01-001 - MONITOR MODULE MONITOR (traced).dxf`).
 
 ## Full text
 

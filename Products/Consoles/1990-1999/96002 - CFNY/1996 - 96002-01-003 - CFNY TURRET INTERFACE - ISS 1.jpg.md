@@ -35,7 +35,7 @@ CFNY turret interface switching matrix diagram.
 - **Title block:** (258, 40)–(407, 213) mm: HOWARD · SWITCHER CONTROLS · FRED · SWITCHER CONTROLS · NEWS / TRAFFIC · SWITCHER CONTROLS · TO · MONITOR · AMPS · WES WARD-BECK SYSTEMS · CFNY
 - **Wiring (first pass):** 99 connected wire groups from 384 runs, 1 dotted junctions; labelled ends: 56 mm → M8208
 
-Every curve, box, word and wire group: [1996 - 96002-01-003 - CFNY TURRET INTERFACE - ISS 1 (traced).json](1996%20-%2096002-01-003%20-%20CFNY%20TURRET%20INTERFACE%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1996 - 96002-01-003 - CFNY TURRET INTERFACE - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1996 - 96002-01-003 - CFNY TURRET INTERFACE - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.960002-CFNY/1996%20-%2096002-01-003%20-%20CFNY%20TURRET%20INTERFACE%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1996 - 96002-01-003 - CFNY TURRET INTERFACE - ISS 1 (traced).dxf`).
 
 ## Full text
 

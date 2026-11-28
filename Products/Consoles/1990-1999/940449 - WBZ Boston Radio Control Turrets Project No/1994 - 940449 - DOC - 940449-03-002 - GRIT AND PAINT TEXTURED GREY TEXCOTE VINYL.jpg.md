@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 30 in 26 lines: 16 F10 · PITCHES 7.555 · 0,200 · RFC'D · 0172 · INSERT · 440 · 38"FERcEDE · 02c0 · 0.680 · 5.i0 · 410
 - **Title block:** (342, 22)–(427, 39) mm: WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1994 - 940449 - DOC - 940449-03-002 - GRIT AND PAINT TEXTURED GREY TEXCOTE VINYL (traced).json](1994%20-%20940449%20-%20DOC%20-%20940449-03-002%20-%20GRIT%20AND%20PAINT%20TEXTURED%20GREY%20TEXCOTE%20VINYL%20%28traced%29.json) (the CAD file: `1994 - 940449 - DOC - 940449-03-002 - GRIT AND PAINT TEXTURED GREY TEXCOTE VINYL (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940449 - DOC - 940449-03-002 - GRIT AND PAINT TEXTURED GREY TEXCOTE VINYL (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940449-WBZ-Boston-Radio-Control-Turrets-Project-No/940449%20-%20WBZ%20Boston%20Radio%20Control%20Turrets%20Project%20No/1994%20-%20940449%20-%20DOC%20-%20940449-03-002%20-%20GRIT%20AND%20PAINT%20TEXTURED%20GREY%20TEXCOTE%20VINYL%20%28traced%29.json) (the CAD file: `1994 - 940449 - DOC - 940449-03-002 - GRIT AND PAINT TEXTURED GREY TEXCOTE VINYL (traced).dxf`).
 
 ## Full text
 

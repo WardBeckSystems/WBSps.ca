@@ -34,7 +34,7 @@ Wiki page: [Job-94033](../../../../PAGES/Job-94033.md)
 - **Title block:** (670, 5)–(853, 81) mm: SSUEI · REMISION · APP; · WBS · WARD-BECK SYSTEMS · DRN: DRG · CENTENNIAL COLLEGE · ENG; · RADIO INTERCOM · CKD · APP · BCALE DISCIND; 456 · 94033-01-001 · ISSUE · CCDE: 94033-01
 - **Wiring (first pass):** 420 connected wire groups from 1,370 runs; labelled ends: 396 mm → MULTIPIN; 71 mm → NEWS; 54 mm → Jabeleell, alzlelalelel; 35 mm → 5.255, alzlelalelel; 35 mm → 5.255
 
-Every curve, box, word and wire group: [1994 - 94033-01-001 - CENTENTIAL COLLEGE RADIO INTERCOM - DRN DRG - ISS 1 (traced).json](1994%20-%2094033-01-001%20-%20CENTENTIAL%20COLLEGE%20RADIO%20INTERCOM%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 94033-01-001 - CENTENTIAL COLLEGE RADIO INTERCOM - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 94033-01-001 - CENTENTIAL COLLEGE RADIO INTERCOM - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.940033-CENTENNIAL-COLLEGE/1994%20-%2094033-01-001%20-%20CENTENTIAL%20COLLEGE%20RADIO%20INTERCOM%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 94033-01-001 - CENTENTIAL COLLEGE RADIO INTERCOM - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

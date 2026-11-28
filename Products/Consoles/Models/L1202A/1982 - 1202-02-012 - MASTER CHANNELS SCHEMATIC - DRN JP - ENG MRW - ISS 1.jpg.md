@@ -36,7 +36,7 @@ Wiki page: [L1202A](../../../../PAGES/L1202A.md)
 - **Title block:** (286, 1)–(432, 69) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK systems · DRN 9/82 JP · ENG. · MRw · MASTER · CHANNELS · CKD: 1x · SCHEMATIC · APP · SCALE · ISSUE · 1202-02-012
 - **Wiring (first pass):** 71 connected wire groups from 356 runs, 1 dotted junctions; labelled ends: 523 mm → ZA, 1@T, To, 822; 410 mm → M2, L3S, 10, ALM; 216 mm → 17,0, To MON € METER, 70 Ma81B, 455; 74 mm → (-15d8), 248; 71 mm → 048, (-1548)
 
-Every curve, box, word and wire group: [1982 - 1202-02-012 - MASTER CHANNELS SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).json](1982%20-%201202-02-012%20-%20MASTER%20CHANNELS%20SCHEMATIC%20-%20DRN%20JP%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1982 - 1202-02-012 - MASTER CHANNELS SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - 1202-02-012 - MASTER CHANNELS SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.L1202A/1982%20-%201202-02-012%20-%20MASTER%20CHANNELS%20SCHEMATIC%20-%20DRN%20JP%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1982 - 1202-02-012 - MASTER CHANNELS SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).dxf`).
 
 ## Full text
 

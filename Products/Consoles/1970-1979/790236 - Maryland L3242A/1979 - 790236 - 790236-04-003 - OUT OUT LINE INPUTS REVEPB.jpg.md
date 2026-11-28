@@ -18,7 +18,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Closed boxes:** 105; named: ADA 8 AA16 MON OUT Out OUT; VI Te MON 1N AUX out; 21; 22; 23; 2 4; 177; 14; 15; 16; 18; 19
 - **Words (OCR):** 337 in 210 lines: ADA 8 AA16 · EQ2 · AuDimAX · MON OUT · Out OUT · MON 1N · AUX · VI · Te · OSc · JUT IN · OUT
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-04-003 - OUT OUT LINE INPUTS REVEPB (traced).json](1979%20-%20790236%20-%20790236-04-003%20-%20OUT%20OUT%20LINE%20INPUTS%20REVEPB%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-04-003 - OUT OUT LINE INPUTS REVEPB (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-04-003 - OUT OUT LINE INPUTS REVEPB (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-04-003%20-%20OUT%20OUT%20LINE%20INPUTS%20REVEPB%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-04-003 - OUT OUT LINE INPUTS REVEPB (traced).dxf`).
 
 ## Full text
 

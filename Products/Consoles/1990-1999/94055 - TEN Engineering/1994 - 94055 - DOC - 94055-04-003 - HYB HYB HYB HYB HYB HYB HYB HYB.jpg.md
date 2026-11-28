@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 7 in 7 lines: 12.25 · WBS · WARD-BECK SYSTEMS · TEN   ENGINEERING · ASSIGNMENT CONTROL PANEL · AYOUT · 94055-04-003
 - **Title block:** (344, 22)–(428, 39) mm: WBS · WARD-BECK SYSTEMS · TEN   ENGINEERING
 
-Every curve, box, word and wire group: [1994 - 94055 - DOC - 94055-04-003 - HYB HYB HYB HYB HYB HYB HYB HYB (traced).json](1994%20-%2094055%20-%20DOC%20-%2094055-04-003%20-%20HYB%20HYB%20HYB%20HYB%20HYB%20HYB%20HYB%20HYB%20%28traced%29.json) (the CAD file: `1994 - 94055 - DOC - 94055-04-003 - HYB HYB HYB HYB HYB HYB HYB HYB (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 94055 - DOC - 94055-04-003 - HYB HYB HYB HYB HYB HYB HYB HYB (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.940055-TEN-ENGINEERING/94055%20-%20TEN%20Engineering/1994%20-%2094055%20-%20DOC%20-%2094055-04-003%20-%20HYB%20HYB%20HYB%20HYB%20HYB%20HYB%20HYB%20HYB%20%28traced%29.json) (the CAD file: `1994 - 94055 - DOC - 94055-04-003 - HYB HYB HYB HYB HYB HYB HYB HYB (traced).dxf`).
 
 ## Full text
 

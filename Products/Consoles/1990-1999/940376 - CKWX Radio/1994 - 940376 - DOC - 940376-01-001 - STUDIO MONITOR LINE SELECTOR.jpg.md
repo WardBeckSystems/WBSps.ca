@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (48, 16)–(430, 99) mm: POWER · WBS · POWER · WBS · CONSOLE MODULES · SUPPLY · 0924 · SUPPLY · 0924 · COVMON · LINE · OFIPCTOR #1 · FOR FUTURE · REDUNDANT USE · NQIFS; · CONSOLE FRAME IS WIRED FOR M9O5B STUDIO MONITOR · X0 ·
 - **Wiring (first pass):** 258 connected wire groups from 1,425 runs; labelled ends: 595 mm → K0, XO, 70, 78 10; 323 mm → Mix, CUE, MNS, MUSIC; 247 mm → MUSIC; 219 mm → CUE, AUX AUX, CR MONITCR; 217 mm → Mix, CUE, MNS
 
-Every curve, box, word and wire group: [1994 - 940376 - DOC - 940376-01-001 - STUDIO MONITOR LINE SELECTOR (traced).json](1994%20-%20940376%20-%20DOC%20-%20940376-01-001%20-%20STUDIO%20MONITOR%20LINE%20SELECTOR%20%28traced%29.json) (the CAD file: `1994 - 940376 - DOC - 940376-01-001 - STUDIO MONITOR LINE SELECTOR (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940376 - DOC - 940376-01-001 - STUDIO MONITOR LINE SELECTOR (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940376-CKWX-Radio/1994%20-%20940376%20-%20DOC%20-%20940376-01-001%20-%20STUDIO%20MONITOR%20LINE%20SELECTOR%20%28traced%29.json) (the CAD file: `1994 - 940376 - DOC - 940376-01-001 - STUDIO MONITOR LINE SELECTOR (traced).dxf`).
 
 ## Full text
 

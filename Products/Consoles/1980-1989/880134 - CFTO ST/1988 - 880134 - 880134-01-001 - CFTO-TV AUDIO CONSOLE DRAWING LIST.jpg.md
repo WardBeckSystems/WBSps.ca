@@ -21,7 +21,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Title block:** (22, 403)–(122, 427) mm: WAAD-BECK · Systems LTD.
 - **Wiring (first pass):** 3 connected wire groups from 13 runs; labelled ends: 38 mm → LIST, DRAWING
 
-Every curve, box, word and wire group: [1988 - 880134 - 880134-01-001 - CFTO-TV AUDIO CONSOLE DRAWING LIST (traced).json](1988%20-%20880134%20-%20880134-01-001%20-%20CFTO-TV%20AUDIO%20CONSOLE%20DRAWING%20LIST%20%28traced%29.json) (the CAD file: `1988 - 880134 - 880134-01-001 - CFTO-TV AUDIO CONSOLE DRAWING LIST (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 880134-01-001 - CFTO-TV AUDIO CONSOLE DRAWING LIST (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%20880134-01-001%20-%20CFTO-TV%20AUDIO%20CONSOLE%20DRAWING%20LIST%20%28traced%29.json) (the CAD file: `1988 - 880134 - 880134-01-001 - CFTO-TV AUDIO CONSOLE DRAWING LIST (traced).dxf`).
 
 ## Full text
 

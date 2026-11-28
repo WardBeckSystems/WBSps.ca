@@ -20,7 +20,7 @@ Wiki page: [Job-78050](../../../../PAGES/Job-78050.md)
 - **Words (OCR):** 9 in 9 lines: D4TL · WBS · WARD-DeCK SYSTEMS · L2042A   CONSOLE · WBS · AuoIO · CONsOLE OuTLINE · 78050-04-001 · 1.10
 - **Title block:** (361, 11)–(432, 35) mm: D4TL · WBS · WARD-DeCK SYSTEMS · L2042A   CONSOLE · WBS · AuoIO · CONsOLE OuTLINE
 
-Every curve, box, word and wire group: [1978 - 78050 - 78050-04-001 - CONSOLE AUDIO CONSOLE OUTLINE (traced).json](1978%20-%2078050%20-%2078050-04-001%20-%20CONSOLE%20AUDIO%20CONSOLE%20OUTLINE%20%28traced%29.json) (the CAD file: `1978 - 78050 - 78050-04-001 - CONSOLE AUDIO CONSOLE OUTLINE (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 78050 - 78050-04-001 - CONSOLE AUDIO CONSOLE OUTLINE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.780050-04-002-L2042A-layout/1978%20-%2078050%20-%2078050-04-001%20-%20CONSOLE%20AUDIO%20CONSOLE%20OUTLINE%20%28traced%29.json) (the CAD file: `1978 - 78050 - 78050-04-001 - CONSOLE AUDIO CONSOLE OUTLINE (traced).dxf`).
 
 ## Full text
 

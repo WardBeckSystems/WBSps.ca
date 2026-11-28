@@ -23,7 +23,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Title block:** (356, 3)–(432, 41) mm: LEaT*14 Jcjor ACeAC 4 · ISSUE DATE · Revision · WBS WARD · BECk SYSTEMS · DRNgene · MARYLAND · ENG W Mc Flsen PUBLIC BROADCASTING · CKD · FUNCTIONAL DIAGRAM · SCALE · L3242A · 790236- 01 = 001 · T5Sun
 - **Wiring (first pass):** 169 connected wire groups from 842 runs; labelled ends: 290 mm → SUmming, PEL; 136 mm → Bdum, dAIm, MasTER, SumMinG; 93 mm → cont, MODULe, Mute, DIR; 78 mm → 0472; 75 mm → 50L0
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-01-001 - UJA EFFECT JAREV EXT ADU SUYKINC HOST JACRS (traced).json](1979%20-%20790236%20-%20790236-01-001%20-%20UJA%20EFFECT%20JAREV%20EXT%20ADU%20SUYKINC%20HOST%20JACRS%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-01-001 - UJA EFFECT JAREV EXT ADU SUYKINC HOST JACRS (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-01-001 - UJA EFFECT JAREV EXT ADU SUYKINC HOST JACRS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-01-001%20-%20UJA%20EFFECT%20JAREV%20EXT%20ADU%20SUYKINC%20HOST%20JACRS%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-01-001 - UJA EFFECT JAREV EXT ADU SUYKINC HOST JACRS (traced).dxf`).
 
 ## Full text
 

@@ -34,7 +34,7 @@ Wiki page: [Job-880651](../../../../PAGES/Job-880651.md)
 - **Title block:** (339, 8)–(428, 40) mm: CHANGED PoTS_1o 2k Lin · ISSUEIDATE · REMSION · WBS · WARD-BECK · SYSTEMS · DRNPA1o/88 · ENG · INPUT CHANNELS SCHEMATIC · SCALE DISC NC:] · 254 LB 880651-02-001 · SSUE · CODE: B0651501
 - **Wiring (first pass):** 82 connected wire groups from 599 runs; labelled ends: 326 mm → INPUI_CHANNELS, Laol, 2*6<8, MCv Mix; 299 mm → 1_12_ARE_IDENTICAL, OUTPUT-], SOL0, soco; 191 mm → To ALL; 140 mm → 14R, CNANNLL, NSIRTS, JQUALIZER; 105 mm → To ALL
 
-Every curve, box, word and wire group: [1988 - 880651-02-001 - INPUT CHANNELS SCHEMATIC - DRN PA - ENG PA - ISS 2 (traced).json](1988%20-%20880651-02-001%20-%20INPUT%20CHANNELS%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1988 - 880651-02-001 - INPUT CHANNELS SCHEMATIC - DRN PA - ENG PA - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880651-02-001 - INPUT CHANNELS SCHEMATIC - DRN PA - ENG PA - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880651-TVO-M1204B/1988%20-%20880651-02-001%20-%20INPUT%20CHANNELS%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1988 - 880651-02-001 - INPUT CHANNELS SCHEMATIC - DRN PA - ENG PA - ISS 2 (traced).dxf`).
 
 ## Full text
 

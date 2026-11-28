@@ -36,7 +36,7 @@ Monitor mixdown schematic with title block at bottom right.
 - **Title block:** (695, 36)–(864, 78) mm: SSUEI DATE · REMSICH · WBS WARD-BECK SYSTEMS · I0/BB
 - **Wiring (first pass):** 472 connected wire groups from 3,226 runs; labelled ends: 497 mm → NPUT*, DDAC; 402 mm → conmro; 271 mm → NPUT*; 174 mm → NPUT*; 163 mm → TRACK
 
-Every curve, box, word and wire group: [1988 - 880651-02-008 - MONITOR MIXDOWN SCHEMATIC - DRN PA - ENG PA - ISS 1 (2) (traced).json](1988%20-%20880651-02-008%20-%20MONITOR%20MIXDOWN%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%201%20%282%29%20%28traced%29.json) (the CAD file: `1988 - 880651-02-008 - MONITOR MIXDOWN SCHEMATIC - DRN PA - ENG PA - ISS 1 (2) (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880651-02-008 - MONITOR MIXDOWN SCHEMATIC - DRN PA - ENG PA - ISS 1 (2) (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880651-TVO-M1204B/1988%20-%20880651-02-008%20-%20MONITOR%20MIXDOWN%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%201%20%282%29%20%28traced%29.json) (the CAD file: `1988 - 880651-02-008 - MONITOR MIXDOWN SCHEMATIC - DRN PA - ENG PA - ISS 1 (2) (traced).dxf`).
 
 ## Full text
 

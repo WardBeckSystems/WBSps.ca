@@ -32,7 +32,7 @@ Wiki page: [Job-940444](../../../../PAGES/Job-940444.md)
 - **Words (OCR):** 38 in 32 lines: RECOCCRDGLY · REQ'D · DETAI · HEDD · RCo"d · CCTAL · 3 8 · GC · 0.6IC · 0.3oz · 0sceto · 0,750
 - **Title block:** (687, 46)–(857, 79) mm: PEot · WBS) · WARD-BECK SYSTEMS · MK SERIES
 
-Every curve, box, word and wire group: [1994 - 940444-03-001 - MK SERIES CONNECTOR PANEL (REAR R.H.S.) - DRN DRG - ISS 1 (traced).json](1994%20-%20940444-03-001%20-%20MK%20SERIES%20CONNECTOR%20PANEL%20%28REAR%20R.H.S.%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940444-03-001 - MK SERIES CONNECTOR PANEL (REAR R.H.S.) - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940444-03-001 - MK SERIES CONNECTOR PANEL (REAR R.H.S.) - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940444-WBZ-Boston/940444/1994%20-%20940444-03-001%20-%20MK%20SERIES%20CONNECTOR%20PANEL%20%28REAR%20R.H.S.%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940444-03-001 - MK SERIES CONNECTOR PANEL (REAR R.H.S.) - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

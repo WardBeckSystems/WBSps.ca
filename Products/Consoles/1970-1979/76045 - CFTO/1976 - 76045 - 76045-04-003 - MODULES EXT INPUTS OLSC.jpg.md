@@ -18,7 +18,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Circles and arcs:** 118 circles, 0 arcs; largest r 6.7 @ (34.7, 180.0), r 6.7 @ (51.1, 180.0), r 6.7 @ (296.4, 144.6), r 6.7 @ (395.2, 144.7)
 - **Closed boxes:** 43
 
-Every curve, box, word and wire group: [1976 - 76045 - 76045-04-003 - MODULES EXT INPUTS OLSC (traced).json](1976%20-%2076045%20-%2076045-04-003%20-%20MODULES%20EXT%20INPUTS%20OLSC%20%28traced%29.json) (the CAD file: `1976 - 76045 - 76045-04-003 - MODULES EXT INPUTS OLSC (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76045 - 76045-04-003 - MODULES EXT INPUTS OLSC (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1976%20-%2076045%20-%2076045-04-003%20-%20MODULES%20EXT%20INPUTS%20OLSC%20%28traced%29.json) (the CAD file: `1976 - 76045 - 76045-04-003 - MODULES EXT INPUTS OLSC (traced).dxf`).
 
 ## Full text
 

@@ -22,7 +22,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Title block:** (154, 6)–(307, 74) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK systEMS · DRN · ENG Srh · MOTION CONTPO_ · SCHEMAT IC · CKD_ · Rc- · APP · SCALE · LB 790236-02- 013 · ISSUE
 - **Wiring (first pass):** 33 connected wire groups from 167 runs
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-02-013 - ARE PUSHBUTTONS HOHENTARY SWITCRES (traced).json](1979%20-%20790236%20-%20790236-02-013%20-%20ARE%20PUSHBUTTONS%20HOHENTARY%20SWITCRES%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-013 - ARE PUSHBUTTONS HOHENTARY SWITCRES (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-02-013 - ARE PUSHBUTTONS HOHENTARY SWITCRES (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-02-013%20-%20ARE%20PUSHBUTTONS%20HOHENTARY%20SWITCRES%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-013 - ARE PUSHBUTTONS HOHENTARY SWITCRES (traced).dxf`).
 
 ## Full text
 

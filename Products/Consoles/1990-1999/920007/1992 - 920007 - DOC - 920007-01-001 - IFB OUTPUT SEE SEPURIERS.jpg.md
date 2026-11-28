@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (343, 21)–(428, 39) mm: WBS · WARD-BECK SYSTEMS · TORONTO · BROADCAST   CENTRE
 - **Wiring (first pass):** 257 connected wire groups from 5,900 runs, 72 dotted junctions; labelled ends: 1309 mm → BLOCK; 115 mm → LTCz; 62 mm → BLOCK; 62 mm → BLOCK; 62 mm → BLOCK
 
-Every curve, box, word and wire group: [1992 - 920007 - DOC - 920007-01-001 - IFB OUTPUT SEE SEPURIERS (traced).json](1992%20-%20920007%20-%20DOC%20-%20920007-01-001%20-%20IFB%20OUTPUT%20SEE%20SEPURIERS%20%28traced%29.json) (the CAD file: `1992 - 920007 - DOC - 920007-01-001 - IFB OUTPUT SEE SEPURIERS (traced).dxf`).
+Every curve, box, word and wire group: [1992 - 920007 - DOC - 920007-01-001 - IFB OUTPUT SEE SEPURIERS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.920007/1992%20-%20920007%20-%20DOC%20-%20920007-01-001%20-%20IFB%20OUTPUT%20SEE%20SEPURIERS%20%28traced%29.json) (the CAD file: `1992 - 920007 - DOC - 920007-01-001 - IFB OUTPUT SEE SEPURIERS (traced).dxf`).
 
 ## Full text
 

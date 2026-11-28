@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 35 in 31 lines: 4500 · 16.602 · pitc-es · Dis DIA · 2102 · 2.050 · DETAT · DETAI · 0,40 0 · 0254 · PLICES · Dtin
 - **Title block:** (332, 20)–(415, 36) mm: WBS WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1996 - 960195 - DOC - 960195-03-001 - FOR SILKSCREEN ARTWORK SEE (traced).json](1996%20-%20960195%20-%20DOC%20-%20960195-03-001%20-%20FOR%20SILKSCREEN%20ARTWORK%20SEE%20%28traced%29.json) (the CAD file: `1996 - 960195 - DOC - 960195-03-001 - FOR SILKSCREEN ARTWORK SEE (traced).dxf`).
+Every curve, box, word and wire group: [1996 - 960195 - DOC - 960195-03-001 - FOR SILKSCREEN ARTWORK SEE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.960195-CBC/960195%20-%20CBC/1996%20-%20960195%20-%20DOC%20-%20960195-03-001%20-%20FOR%20SILKSCREEN%20ARTWORK%20SEE%20%28traced%29.json) (the CAD file: `1996 - 960195 - DOC - 960195-03-001 - FOR SILKSCREEN ARTWORK SEE (traced).dxf`).
 
 ## Full text
 

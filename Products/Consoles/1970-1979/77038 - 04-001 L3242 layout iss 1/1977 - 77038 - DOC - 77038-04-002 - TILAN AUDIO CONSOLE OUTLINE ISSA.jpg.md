@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 9 in 8 lines: DATE · Rtvison · WBS WARD-Beck sybtemB · WBS L3242 · CONSOLE · CKD · AUDIO CONsOLE OUTLINE · 77038-04-002
 - **Title block:** (348, 5)–(432, 41) mm: DATE · Rtvison · WBS WARD-Beck sybtemB · WBS L3242 · CONSOLE · CKD · AUDIO CONsOLE OUTLINE
 
-Every curve, box, word and wire group: [1977 - 77038 - DOC - 77038-04-002 - TILAN AUDIO CONSOLE OUTLINE ISSA (traced).json](1977%20-%2077038%20-%20DOC%20-%2077038-04-002%20-%20TILAN%20AUDIO%20CONSOLE%20OUTLINE%20ISSA%20%28traced%29.json) (the CAD file: `1977 - 77038 - DOC - 77038-04-002 - TILAN AUDIO CONSOLE OUTLINE ISSA (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 77038 - DOC - 77038-04-002 - TILAN AUDIO CONSOLE OUTLINE ISSA (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.770038-04-001-L3242-layout-iss-1/1977%20-%2077038%20-%20DOC%20-%2077038-04-002%20-%20TILAN%20AUDIO%20CONSOLE%20OUTLINE%20ISSA%20%28traced%29.json) (the CAD file: `1977 - 77038 - DOC - 77038-04-002 - TILAN AUDIO CONSOLE OUTLINE ISSA (traced).dxf`).
 
 ## Full text
 

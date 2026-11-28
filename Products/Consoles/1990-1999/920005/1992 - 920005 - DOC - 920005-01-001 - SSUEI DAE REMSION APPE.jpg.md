@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (337, 6)–(426, 39) mm: WBS · WARD-BECK SYSTEMS · TORONTO BROADCAST  CENTRE · 48x48   INTERCOM SYSTEM · STUDIO · FUNCTIONAL · SCALE · 920005 · 001
 - **Wiring (first pass):** 280 connected wire groups from 6,027 runs, 161 dotted junctions; labelled ends: 17 mm → LTGS, LTG4; 16 mm → MpIME; 9 mm → ICEND; 7 mm → LtG?; 7 mm → LtG?
 
-Every curve, box, word and wire group: [1992 - 920005 - DOC - 920005-01-001 - SSUEI DAE REMSION APPE (traced).json](1992%20-%20920005%20-%20DOC%20-%20920005-01-001%20-%20SSUEI%20DAE%20REMSION%20APPE%20%28traced%29.json) (the CAD file: `1992 - 920005 - DOC - 920005-01-001 - SSUEI DAE REMSION APPE (traced).dxf`).
+Every curve, box, word and wire group: [1992 - 920005 - DOC - 920005-01-001 - SSUEI DAE REMSION APPE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.920005/1992%20-%20920005%20-%20DOC%20-%20920005-01-001%20-%20SSUEI%20DAE%20REMSION%20APPE%20%28traced%29.json) (the CAD file: `1992 - 920005 - DOC - 920005-01-001 - SSUEI DAE REMSION APPE (traced).dxf`).
 
 ## Full text
 

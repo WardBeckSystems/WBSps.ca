@@ -31,7 +31,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (92, 23)–(426, 138) mm: ENG (PL) · LiC BOARD · VTR (PL) · LTG DIR · DUNERS · MDEQ · SATcHEF · Anio · NOTES: · FULLI · VODULES Consist · INPUS · OUTPUS · VATRI   INPUTS · supeusd · +IJBJ · DESICHAIICNS · DETERUINED · CUSTCHER
 - **Wiring (first pass):** 152 connected wire groups from 3,605 runs, 72 dotted junctions; labelled ends: 158 mm → LTG4; 73 mm → WBS, TORONTO, 48*48   INTERCOM; 54 mm → 920009-01-001, FUNCTIONAL; 32 mm → SEE DaG; 15 mm → LTG]
 
-Every curve, box, word and wire group: [2000 - 920009 - DOC - 920009-01-001 - TORONTO BROADCAST CENTRE ENG (traced).json](2000%20-%20920009%20-%20DOC%20-%20920009-01-001%20-%20TORONTO%20BROADCAST%20CENTRE%20ENG%20%28traced%29.json) (the CAD file: `2000 - 920009 - DOC - 920009-01-001 - TORONTO BROADCAST CENTRE ENG (traced).dxf`).
+Every curve, box, word and wire group: [2000 - 920009 - DOC - 920009-01-001 - TORONTO BROADCAST CENTRE ENG (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.920009/2000%20-%20920009%20-%20DOC%20-%20920009-01-001%20-%20TORONTO%20BROADCAST%20CENTRE%20ENG%20%28traced%29.json) (the CAD file: `2000 - 920009 - DOC - 920009-01-001 - TORONTO BROADCAST CENTRE ENG (traced).dxf`).
 
 ## Full text
 

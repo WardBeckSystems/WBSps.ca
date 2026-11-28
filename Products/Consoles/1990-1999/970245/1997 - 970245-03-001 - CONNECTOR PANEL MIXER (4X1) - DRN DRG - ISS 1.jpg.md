@@ -31,7 +31,7 @@ Wiki page: [Job-970245](../../../../PAGES/Job-970245.md)
 - **Words (OCR):** 32 in 32 lines: DELUL · DEIALA · QICCP · PLACES · 04o · DEIAIL · DEINLD · DEIAL E · DETAIL · PLACES · DITCHES · odo
 - **Title block:** (662, 49)–(831, 82) mm: WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1997 - 970245-03-001 - CONNECTOR PANEL MIXER (4X1) - DRN DRG - ISS 1 (traced).json](1997%20-%20970245-03-001%20-%20CONNECTOR%20PANEL%20MIXER%20%284X1%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1997 - 970245-03-001 - CONNECTOR PANEL MIXER (4X1) - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1997 - 970245-03-001 - CONNECTOR PANEL MIXER (4X1) - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.970245/1997%20-%20970245-03-001%20-%20CONNECTOR%20PANEL%20MIXER%20%284X1%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1997 - 970245-03-001 - CONNECTOR PANEL MIXER (4X1) - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

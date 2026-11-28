@@ -31,7 +31,7 @@ Wiki page: [Job-940350](../../../../PAGES/Job-940350.md)
 - **Words (OCR):** 62 in 51 lines: 0250 · REQ D · DATUM · 0.200 · WB8 · M907 · 0.100 DiA-c'Sk · 0.180.DIA · REQ"D · 1.925 · 05T · #2-56 UNC
 - **Title block:** (677, 10)–(862, 87) mm: SSUE] DATE · REVISION · APP; · WBS · WARD-BECK SYSTEMS · DRN · DRG · M9o7 · CKD; · CUSTOM MODULE · APP: · TOP PLATE · SCALE DISC NO: · CCDE: 9435quo) · 940350-03-002 · ISSUE
 
-Every curve, box, word and wire group: [1994 - 940350-03-002 - M907 CUSTOM MODULE TOP PLATE - DRN DRG - ISS 1 (traced).json](1994%20-%20940350-03-002%20-%20M907%20CUSTOM%20MODULE%20TOP%20PLATE%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940350-03-002 - M907 CUSTOM MODULE TOP PLATE - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940350-03-002 - M907 CUSTOM MODULE TOP PLATE - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940350/1994%20-%20940350-03-002%20-%20M907%20CUSTOM%20MODULE%20TOP%20PLATE%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940350-03-002 - M907 CUSTOM MODULE TOP PLATE - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

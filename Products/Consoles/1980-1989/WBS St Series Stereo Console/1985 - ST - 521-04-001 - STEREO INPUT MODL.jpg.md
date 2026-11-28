@@ -19,7 +19,7 @@ Wiki page: [Consoles](../../../../PAGES/Consoles.md)
 - **Words (OCR):** 35 in 31 lines: WBS · M5?1 · BAL · MODE · PEAK · SENS · AUX · PRE PST · AUX · PRE · PST · AUX 2
 - **Title block:** (12, 0)–(182, 432) mm: WBS · M5?1 · BAL · MODE · PEAK · SENS · AUX · PRE PST · AUX · PRE · PST · AUX 2 · PRE · PST · AUX · PRE · Pst · Ch · ON · {ISSUE DATE · REVISION · WBS WAAD-BECK sybt · DRN BL) · M521 · ENG · STEREO IN
 
-Every curve, box, word and wire group: [1985 - ST - 521-04-001 - STEREO INPUT MODL (traced).json](1985%20-%20ST%20-%20521-04-001%20-%20STEREO%20INPUT%20MODL%20%28traced%29.json) (the CAD file: `1985 - ST - 521-04-001 - STEREO INPUT MODL (traced).dxf`).
+Every curve, box, word and wire group: [1985 - ST - 521-04-001 - STEREO INPUT MODL (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.WBS-St-Series-Stereo-Console/1985%20-%20ST%20-%20521-04-001%20-%20STEREO%20INPUT%20MODL%20%28traced%29.json) (the CAD file: `1985 - ST - 521-04-001 - STEREO INPUT MODL (traced).dxf`).
 
 ## Full text
 

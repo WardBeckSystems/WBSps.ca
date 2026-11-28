@@ -22,7 +22,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Circles and arcs:** 2 circles, 0 arcs; largest r 1.7 @ (228.4, 25.3), r 1.5 @ (37.2, 55.7)
 - **Closed boxes:** 39
 
-Every curve, box, word and wire group: [1976 - 76045 - 76045-04-002 - TELEVISION AUDIO CONSOLE (traced).json](1976%20-%2076045%20-%2076045-04-002%20-%20TELEVISION%20AUDIO%20CONSOLE%20%28traced%29.json) (the CAD file: `1976 - 76045 - 76045-04-002 - TELEVISION AUDIO CONSOLE (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76045 - 76045-04-002 - TELEVISION AUDIO CONSOLE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1976%20-%2076045%20-%2076045-04-002%20-%20TELEVISION%20AUDIO%20CONSOLE%20%28traced%29.json) (the CAD file: `1976 - 76045 - 76045-04-002 - TELEVISION AUDIO CONSOLE (traced).dxf`).
 
 ## Full text
 

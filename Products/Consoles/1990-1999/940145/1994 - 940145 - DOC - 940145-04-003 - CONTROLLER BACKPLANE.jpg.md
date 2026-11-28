@@ -24,7 +24,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 39 in 28 lines: 15 · 14_240 · +ZvO 14-240 · 1_198 · CONTRCLLER · BACKPLANE · CCNIROLLER · BACKPLANE · BUFFER AmpuneR · 14 · 13 · 12
 - **Title block:** (248, 11)–(419, 78) mm: ISSUE · REVSION · APP · WBS WARD-BECK SYSTEMS · DRN: W.S · INPUT BUFFER CONTROL · ENG: W.S · SYSTEM REAR · CKD · APP_ · LA YOUT · SCALE DISC NO: 459 · ISSUE · CODE: · 94145L03 · 940145-04-003
 
-Every curve, box, word and wire group: [1994 - 940145 - DOC - 940145-04-003 - CONTROLLER BACKPLANE (traced).json](1994%20-%20940145%20-%20DOC%20-%20940145-04-003%20-%20CONTROLLER%20BACKPLANE%20%28traced%29.json) (the CAD file: `1994 - 940145 - DOC - 940145-04-003 - CONTROLLER BACKPLANE (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940145 - DOC - 940145-04-003 - CONTROLLER BACKPLANE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940145/1994%20-%20940145%20-%20DOC%20-%20940145-04-003%20-%20CONTROLLER%20BACKPLANE%20%28traced%29.json) (the CAD file: `1994 - 940145 - DOC - 940145-04-003 - CONTROLLER BACKPLANE (traced).dxf`).
 
 ## Full text
 

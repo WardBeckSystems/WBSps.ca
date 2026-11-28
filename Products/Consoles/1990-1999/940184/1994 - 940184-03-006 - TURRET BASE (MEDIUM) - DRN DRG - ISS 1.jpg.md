@@ -31,7 +31,7 @@ Wiki page: [Job-940184](../../../../PAGES/Job-940184.md)
 - **Words (OCR):** 28 in 22 lines: SUAFACES · MATERIAL CRS · THICK · MATERIAL: C,R.S 0.105 THICK . · 1007 · 0.756 · 6.2J0 · REC'D · MATERIAL: SEE BODY OF DRAWING, · FINISH: SAND · EXIURED BROWN (438C) · 120 Grit AND PAINT
 - **Title block:** (672, 37)–(851, 79) mm: REVSD · WBS WARD-BECK  SYSTEMS · DRN: · TURRET BASE · (MEDIUM)
 
-Every curve, box, word and wire group: [1994 - 940184-03-006 - TURRET BASE (MEDIUM) - DRN DRG - ISS 1 (traced).json](1994%20-%20940184-03-006%20-%20TURRET%20BASE%20%28MEDIUM%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940184-03-006 - TURRET BASE (MEDIUM) - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940184-03-006 - TURRET BASE (MEDIUM) - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940184-GLENN-GOULD-STUDIO/940184/1994%20-%20940184-03-006%20-%20TURRET%20BASE%20%28MEDIUM%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940184-03-006 - TURRET BASE (MEDIUM) - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

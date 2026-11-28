@@ -24,7 +24,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 24 in 18 lines: 0250 · REC D · MATERIAL: CR.S; 0.048   THICK · FINISH: SAND 120 GRIT AND PAINT · TEXTURED    BEIGE (452C) · TEXCOTE VIN · (EXTRA  FINE TEXTURE) · BLaRS SHAR? EDGCS · 4225 · TOLA NCES · (SPECiA }-&.cos · WBS
 - **Title block:** (342, 23)–(427, 40) mm: WBS · WARD-BECK SYSTEMS · M907
 
-Every curve, box, word and wire group: [1994 - 940238 - DOC - 907-08-001 - ENG CUSTOM MODULE TOP PLATE (traced).json](1994%20-%20940238%20-%20DOC%20-%20907-08-001%20-%20ENG%20CUSTOM%20MODULE%20TOP%20PLATE%20%28traced%29.json) (the CAD file: `1994 - 940238 - DOC - 907-08-001 - ENG CUSTOM MODULE TOP PLATE (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940238 - DOC - 907-08-001 - ENG CUSTOM MODULE TOP PLATE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940238-CKNW/940238%20-%20CKNW/1994%20-%20940238%20-%20DOC%20-%20907-08-001%20-%20ENG%20CUSTOM%20MODULE%20TOP%20PLATE%20%28traced%29.json) (the CAD file: `1994 - 940238 - DOC - 907-08-001 - ENG CUSTOM MODULE TOP PLATE (traced).dxf`).
 
 ## Full text
 

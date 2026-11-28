@@ -21,7 +21,7 @@ Wiki page: [Job-880651](../../../../PAGES/Job-880651.md)
 - **Words (OCR):** 38 in 38 lines: ED · 110 · 1k2 · 1/2 · 10 · (TWISTED) · CoMM · +25v · K1o · K8 · K9 · K12
 - **Wiring (first pass):** 174 connected wire groups from 412 runs; labelled ends: 126 mm → 0 - TRACK; 34 mm → IN4OOJ; 20 mm → (TWISTED); 16 mm → 10; 14 mm → "OVERDUB"
 
-Every curve, box, word and wire group: [1988 - 880651 - 880651-02-008 - MONITOR LEVEL CONTROLS TRACK (traced).json](1988%20-%20880651%20-%20880651-02-008%20-%20MONITOR%20LEVEL%20CONTROLS%20TRACK%20%28traced%29.json) (the CAD file: `1988 - 880651 - 880651-02-008 - MONITOR LEVEL CONTROLS TRACK (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880651 - 880651-02-008 - MONITOR LEVEL CONTROLS TRACK (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880651-TVO-M1204B/1988%20-%20880651%20-%20880651-02-008%20-%20MONITOR%20LEVEL%20CONTROLS%20TRACK%20%28traced%29.json) (the CAD file: `1988 - 880651 - 880651-02-008 - MONITOR LEVEL CONTROLS TRACK (traced).dxf`).
 
 ## Full text
 

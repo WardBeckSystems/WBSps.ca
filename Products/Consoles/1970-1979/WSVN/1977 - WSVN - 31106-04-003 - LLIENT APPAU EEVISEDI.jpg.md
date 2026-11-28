@@ -21,7 +21,7 @@ Wiki page: [Consoles](../../../../PAGES/Consoles.md)
 - **Words (OCR):** 17 in 15 lines: LEGEND · ROW · STRAP · JumpER · FIns H · 4a · Normal · HOMp (Pletie · Rleudyittal Not nECUIeo · cueR · 3/44 · WBS WARD-BECK SYSTEMS
 - **Title block:** (358, 19)–(432, 34) mm: WBS WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1977 - WSVN - 31106-04-003 - LLIENT APPAU EEVISEDI (traced).json](1977%20-%20WSVN%20-%2031106-04-003%20-%20LLIENT%20APPAU%20EEVISEDI%20%28traced%29.json) (the CAD file: `1977 - WSVN - 31106-04-003 - LLIENT APPAU EEVISEDI (traced).dxf`).
+Every curve, box, word and wire group: [1977 - WSVN - 31106-04-003 - LLIENT APPAU EEVISEDI (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.WSVN/1977%20-%20WSVN%20-%2031106-04-003%20-%20LLIENT%20APPAU%20EEVISEDI%20%28traced%29.json) (the CAD file: `1977 - WSVN - 31106-04-003 - LLIENT APPAU EEVISEDI (traced).dxf`).
 
 ## Full text
 

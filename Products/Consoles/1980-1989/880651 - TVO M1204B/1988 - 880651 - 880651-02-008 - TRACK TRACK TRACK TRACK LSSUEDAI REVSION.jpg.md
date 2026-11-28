@@ -22,7 +22,7 @@ Wiki page: [Job-880651](../../../../PAGES/Job-880651.md)
 - **Title block:** (347, 18)–(432, 39) mm: SSUEI DATE · REMSICN · WBS WARD-BECK  SYSTEMS · ID/BB
 - **Wiring (first pass):** 154 connected wire groups from 2,029 runs; labelled ends: 255 mm → NPUT*; 138 mm → TRACR; 136 mm → NPUT*; 87 mm → TRACK; 87 mm → NPUT*
 
-Every curve, box, word and wire group: [1988 - 880651 - 880651-02-008 - TRACK TRACK TRACK TRACK LSSUEDAI REVSION (traced).json](1988%20-%20880651%20-%20880651-02-008%20-%20TRACK%20TRACK%20TRACK%20TRACK%20LSSUEDAI%20REVSION%20%28traced%29.json) (the CAD file: `1988 - 880651 - 880651-02-008 - TRACK TRACK TRACK TRACK LSSUEDAI REVSION (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880651 - 880651-02-008 - TRACK TRACK TRACK TRACK LSSUEDAI REVSION (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880651-TVO-M1204B/1988%20-%20880651%20-%20880651-02-008%20-%20TRACK%20TRACK%20TRACK%20TRACK%20LSSUEDAI%20REVSION%20%28traced%29.json) (the CAD file: `1988 - 880651 - 880651-02-008 - TRACK TRACK TRACK TRACK LSSUEDAI REVSION (traced).dxf`).
 
 ## Full text
 

@@ -22,7 +22,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Title block:** (339, 3)–(430, 42) mm: 2/88] M20z [2 ADdeD · ISSUEIDAIE · 2/26 CARIFD SEX OCONHECICR PLNs · RaMsIO" · WBS · WARD-BECK SYSTEMS · DRN,_D.S: 5/88 · M625B · ENG. · CKD: · POWER · SUPPLIES · App · SCHEMATIC · SCALE IDISC NO: · 3
 - **Wiring (first pass):** 166 connected wire groups from 1,149 runs; labelled ends: 228 mm → 04 5515, REQUIRED, GROUNO, cCNUROL; 178 mm → 5 /88], 2/87], e/e6_, 2/88]; 93 mm → OPT_e; 91 mm → 144C0s; 87 mm → 144C0s
 
-Every curve, box, word and wire group: [1988 - 880134 - 3642-02-011 - CONNECTOR PINS VEWED MOLEX (traced).json](1988%20-%20880134%20-%203642-02-011%20-%20CONNECTOR%20PINS%20VEWED%20MOLEX%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-011 - CONNECTOR PINS VEWED MOLEX (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 3642-02-011 - CONNECTOR PINS VEWED MOLEX (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-011%20-%20CONNECTOR%20PINS%20VEWED%20MOLEX%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-011 - CONNECTOR PINS VEWED MOLEX (traced).dxf`).
 
 ## Full text
 

@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (345, 23)–(430, 40) mm: PER CUSTCMER · WARD-BECK SYSTEMS · WBS · CBC OTTAWA
 - **Wiring (first pass):** 228 connected wire groups from 4,235 runs; labelled ends: 134 mm → WBS, CODE 94294F01, FUNCTIONAL, 940294-01-; 48 mm → INPUTS; 22 mm → PROCAAK, INPUTS; 21 mm → JEAUSATEUR; 18 mm → SECTC5"
 
-Every curve, box, word and wire group: [1994 - 940294 - DOC - 940294-01-001 - SION IFBOUTPUTS IFB OUTPUTS (traced).json](1994%20-%20940294%20-%20DOC%20-%20940294-01-001%20-%20SION%20IFBOUTPUTS%20IFB%20OUTPUTS%20%28traced%29.json) (the CAD file: `1994 - 940294 - DOC - 940294-01-001 - SION IFBOUTPUTS IFB OUTPUTS (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940294 - DOC - 940294-01-001 - SION IFBOUTPUTS IFB OUTPUTS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.940294-CBC-Ottawa/1994%20-%20940294%20-%20DOC%20-%20940294-01-001%20-%20SION%20IFBOUTPUTS%20IFB%20OUTPUTS%20%28traced%29.json) (the CAD file: `1994 - 940294 - DOC - 940294-01-001 - SION IFBOUTPUTS IFB OUTPUTS (traced).dxf`).
 
 ## Full text
 

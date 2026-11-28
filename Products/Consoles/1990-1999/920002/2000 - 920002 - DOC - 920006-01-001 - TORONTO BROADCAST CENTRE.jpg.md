@@ -31,7 +31,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (92, 6)–(426, 138) mm: REVOIE · ASSEMDLT · ENG (PL) · VTR (PL) · DS20052-01-001 · LTG BoaRd Licz · IFB BUFFERS · Mdgo · ScriPT AssT · ScapT · Smcher · NCO · piRECTOR · NOTES: · FULY MIRED FOR · INPUTS · OUTPUTS · UATR@ KPUT
 - **Wiring (first pass):** 152 connected wire groups from 3,558 runs, 76 dotted junctions; labelled ends: 62 mm → MATRIX, ALLOCk; 62 mm → MATRIX; 62 mm → MATRIX; 62 mm → ALLOCk; 62 mm → MATRIX
 
-Every curve, box, word and wire group: [2000 - 920002 - DOC - 920006-01-001 - TORONTO BROADCAST CENTRE (traced).json](2000%20-%20920002%20-%20DOC%20-%20920006-01-001%20-%20TORONTO%20BROADCAST%20CENTRE%20%28traced%29.json) (the CAD file: `2000 - 920002 - DOC - 920006-01-001 - TORONTO BROADCAST CENTRE (traced).dxf`).
+Every curve, box, word and wire group: [2000 - 920002 - DOC - 920006-01-001 - TORONTO BROADCAST CENTRE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.920002/2000%20-%20920002%20-%20DOC%20-%20920006-01-001%20-%20TORONTO%20BROADCAST%20CENTRE%20%28traced%29.json) (the CAD file: `2000 - 920002 - DOC - 920006-01-001 - TORONTO BROADCAST CENTRE (traced).dxf`).
 
 ## Full text
 

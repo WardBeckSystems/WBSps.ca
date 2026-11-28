@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (48, 9)–(429, 92) mm: POWER · WBS · POWER · WBS · To CONSOLE MODULES · K8 · SUPPLY · M924 · SUPPLY · V924 · COVMON · LINE SELECICR #1 · OUTPUTS · REDUNDANT USE · FOR FUTURE · NQIES: · CONSOLE FRAME IS WRED FOR FUTURE M90s8
 - **Wiring (first pass):** 253 connected wire groups from 1,415 runs, 2 dotted junctions; labelled ends: 484 mm → MuSI, VCICE, PGM2 LEFT; 432 mm → SEL; 327 mm → CUE, AUX AUX, MNS I, R]cRCUONTOR; 255 mm → 10X1, SEL; 243 mm → VCA, HX HNUS, XCP2, X0
 
-Every curve, box, word and wire group: [1994 - 940446 - DOC - 940446-01-001 - CALLY INTEGRATED INTO THE CONSOLE (traced).json](1994%20-%20940446%20-%20DOC%20-%20940446-01-001%20-%20CALLY%20INTEGRATED%20INTO%20THE%20CONSOLE%20%28traced%29.json) (the CAD file: `1994 - 940446 - DOC - 940446-01-001 - CALLY INTEGRATED INTO THE CONSOLE (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940446 - DOC - 940446-01-001 - CALLY INTEGRATED INTO THE CONSOLE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940446/1994%20-%20940446%20-%20DOC%20-%20940446-01-001%20-%20CALLY%20INTEGRATED%20INTO%20THE%20CONSOLE%20%28traced%29.json) (the CAD file: `1994 - 940446 - DOC - 940446-01-001 - CALLY INTEGRATED INTO THE CONSOLE (traced).dxf`).
 
 ## Full text
 

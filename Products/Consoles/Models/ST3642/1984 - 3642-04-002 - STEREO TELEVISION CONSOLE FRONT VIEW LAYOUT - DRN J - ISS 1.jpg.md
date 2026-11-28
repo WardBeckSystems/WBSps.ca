@@ -30,7 +30,7 @@ Wiki page: [ST3642](../../../../PAGES/ST3642.md)
 - **Outlines:** line 1,054 rings, 9,121 straight (23,056 mm) / 1,298 curved (3,020 mm); text 90 rings, 821 straight (1,788 mm) / 188 curved (520 mm)
 - **Closed boxes:** 17
 
-Every curve, box, word and wire group: [1984 - 3642-04-002 - STEREO TELEVISION CONSOLE FRONT VIEW LAYOUT - DRN J - ISS 1 (traced).json](1984%20-%203642-04-002%20-%20STEREO%20TELEVISION%20CONSOLE%20FRONT%20VIEW%20LAYOUT%20-%20DRN%20J%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1984 - 3642-04-002 - STEREO TELEVISION CONSOLE FRONT VIEW LAYOUT - DRN J - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - 3642-04-002 - STEREO TELEVISION CONSOLE FRONT VIEW LAYOUT - DRN J - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.ST3642/1984%20-%203642-04-002%20-%20STEREO%20TELEVISION%20CONSOLE%20FRONT%20VIEW%20LAYOUT%20-%20DRN%20J%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1984 - 3642-04-002 - STEREO TELEVISION CONSOLE FRONT VIEW LAYOUT - DRN J - ISS 1 (traced).dxf`).
 
 ## Full text
 

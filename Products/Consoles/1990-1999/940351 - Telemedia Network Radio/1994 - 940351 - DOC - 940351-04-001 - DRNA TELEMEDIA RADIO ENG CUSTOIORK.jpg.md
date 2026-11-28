@@ -24,7 +24,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Dots (junctions):** 1
 - **Words (OCR):** 6 in 6 lines: WBSS · WARD-BECK SYSTEMS · TELEMEDIA · AcSTOORK RADIO · RENAISSYOCF MKII · 940351-04-001
 
-Every curve, box, word and wire group: [1994 - 940351 - DOC - 940351-04-001 - DRNA TELEMEDIA RADIO ENG CUSTOIORK (traced).json](1994%20-%20940351%20-%20DOC%20-%20940351-04-001%20-%20DRNA%20TELEMEDIA%20RADIO%20ENG%20CUSTOIORK%20%28traced%29.json) (the CAD file: `1994 - 940351 - DOC - 940351-04-001 - DRNA TELEMEDIA RADIO ENG CUSTOIORK (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940351 - DOC - 940351-04-001 - DRNA TELEMEDIA RADIO ENG CUSTOIORK (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940351-Telemedia-Network-Radio/940351%20-%20Telemedia%20Network%20Radio/1994%20-%20940351%20-%20DOC%20-%20940351-04-001%20-%20DRNA%20TELEMEDIA%20RADIO%20ENG%20CUSTOIORK%20%28traced%29.json) (the CAD file: `1994 - 940351 - DOC - 940351-04-001 - DRNA TELEMEDIA RADIO ENG CUSTOIORK (traced).dxf`).
 
 ## Full text
 

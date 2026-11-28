@@ -22,7 +22,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 111 connected wire groups from 551 runs
 
-Every curve, box, word and wire group: [1988 - 880134 - 880134-02-017 - CORRELA TION METER SELECTOR (traced).json](1988%20-%20880134%20-%20880134-02-017%20-%20CORRELA%20TION%20METER%20SELECTOR%20%28traced%29.json) (the CAD file: `1988 - 880134 - 880134-02-017 - CORRELA TION METER SELECTOR (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 880134-02-017 - CORRELA TION METER SELECTOR (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%20880134-02-017%20-%20CORRELA%20TION%20METER%20SELECTOR%20%28traced%29.json) (the CAD file: `1988 - 880134 - 880134-02-017 - CORRELA TION METER SELECTOR (traced).dxf`).
 
 ## Full text
 

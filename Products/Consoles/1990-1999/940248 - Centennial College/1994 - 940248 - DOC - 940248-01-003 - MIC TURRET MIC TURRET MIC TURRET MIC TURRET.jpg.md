@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (176, 22)–(410, 166) mm: WBS · PRODUCTION · V7012 · RENAISSANCE · INTERCOM · MATRIX · Mki · MASTER · PACGAAU · TURRET · BE FED · TURRET · (STUDIO 2) · TURRET · Stfrfc · EFR T · TURRET · TURRE [ · WBS · WARD-BECK SYSTEMS · CEN
 - **Wiring (first pass):** 8 connected wire groups from 86 runs, 3 dotted junctions; labelled ends: 163 mm → WARD-BECK SYSTEMS, WBS, 940248, 003; 57 mm → RENAISSANCE, INTERCOM; 16 mm → MURRET
 
-Every curve, box, word and wire group: [1994 - 940248 - DOC - 940248-01-003 - MIC TURRET MIC TURRET MIC TURRET MIC TURRET (traced).json](1994%20-%20940248%20-%20DOC%20-%20940248-01-003%20-%20MIC%20TURRET%20MIC%20TURRET%20MIC%20TURRET%20MIC%20TURRET%20%28traced%29.json) (the CAD file: `1994 - 940248 - DOC - 940248-01-003 - MIC TURRET MIC TURRET MIC TURRET MIC TURRET (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940248 - DOC - 940248-01-003 - MIC TURRET MIC TURRET MIC TURRET MIC TURRET (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940248-CENTENNIAL-COLLEGE/940248%20-%20Centennial%20College/1994%20-%20940248%20-%20DOC%20-%20940248-01-003%20-%20MIC%20TURRET%20MIC%20TURRET%20MIC%20TURRET%20MIC%20TURRET%20%28traced%29.json) (the CAD file: `1994 - 940248 - DOC - 940248-01-003 - MIC TURRET MIC TURRET MIC TURRET MIC TURRET (traced).dxf`).
 
 ## Full text
 

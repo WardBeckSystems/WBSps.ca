@@ -23,7 +23,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Title block:** (360, 18)–(432, 33) mm: uA · REVTsiON · WBS WAAD-Beck SysteMS · L3242A
 - **Wiring (first pass):** 122 connected wire groups from 598 runs; labelled ends: 40 mm → uA; 32 mm → WBS, FUNCTIONAL, scae; 12 mm → LNE |; 6 mm → loGiIc, DIAGRAA, 790236-01-002
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-01-002 - TALLY LOGI FUNCTIONAL WIRING DIAGRAM (traced).json](1979%20-%20790236%20-%20790236-01-002%20-%20TALLY%20LOGI%20FUNCTIONAL%20WIRING%20DIAGRAM%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-01-002 - TALLY LOGI FUNCTIONAL WIRING DIAGRAM (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-01-002 - TALLY LOGI FUNCTIONAL WIRING DIAGRAM (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-01-002%20-%20TALLY%20LOGI%20FUNCTIONAL%20WIRING%20DIAGRAM%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-01-002 - TALLY LOGI FUNCTIONAL WIRING DIAGRAM (traced).dxf`).
 
 ## Full text
 

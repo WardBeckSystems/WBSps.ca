@@ -23,7 +23,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Title block:** (289, 4)–(411, 30) mm: COUTROL · ISS HOp CKD · USED ON · MATL_ · WBS WAAD-BeCK bybteMB LTD · DRN · Srh · L32+2A CONEOLE · FimiSH · DATE Aue 79 · CKD · MONITOR CHANNELS · SCALE · SCHEMATIC · TOLS · 790236-02 003
 - **Wiring (first pass):** 112 connected wire groups from 614 runs; labelled ends: 312 mm → aXLSALECTAB, AUX, Aux 2, AUY3; 98 mm → OM, Zuy, 4254, +24v; 70 mm → M475, MONITOR, sR(32); 65 mm → Ie=, M475; 54 mm → M415
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-02-003 - MON MUTE MON HUTE MLOTRCL CON MON (traced).json](1979%20-%20790236%20-%20790236-02-003%20-%20MON%20MUTE%20MON%20HUTE%20MLOTRCL%20CON%20MON%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-003 - MON MUTE MON HUTE MLOTRCL CON MON (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-02-003 - MON MUTE MON HUTE MLOTRCL CON MON (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-02-003%20-%20MON%20MUTE%20MON%20HUTE%20MLOTRCL%20CON%20MON%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-003 - MON MUTE MON HUTE MLOTRCL CON MON (traced).dxf`).
 
 ## Full text
 

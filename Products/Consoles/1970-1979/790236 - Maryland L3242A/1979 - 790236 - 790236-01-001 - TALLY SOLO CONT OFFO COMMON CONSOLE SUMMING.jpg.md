@@ -22,7 +22,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Words (OCR):** 125 in 115 lines: K9 · M1 · OUt · MASTER · +8 dBm · MI,M2 IDENTICAL) · K10 · BRIDGING LOAD · M1 · Vi · K11 · K12
 - **Wiring (first pass):** 91 connected wire groups from 362 runs, 7 dotted junctions; labelled ends: 289 mm → MASTER, C19, 8dBm, SQLO; 133 mm → MASTER, FADER, C13; 110 mm → E1; 88 mm → LINE KEY, MLO, TALLY; 66 mm → M477, MODULE
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-01-001 - TALLY SOLO CONT OFFO COMMON CONSOLE SUMMING (traced).json](1979%20-%20790236%20-%20790236-01-001%20-%20TALLY%20SOLO%20CONT%20OFFO%20COMMON%20CONSOLE%20SUMMING%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-01-001 - TALLY SOLO CONT OFFO COMMON CONSOLE SUMMING (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-01-001 - TALLY SOLO CONT OFFO COMMON CONSOLE SUMMING (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-01-001%20-%20TALLY%20SOLO%20CONT%20OFFO%20COMMON%20CONSOLE%20SUMMING%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-01-001 - TALLY SOLO CONT OFFO COMMON CONSOLE SUMMING (traced).dxf`).
 
 ## Full text
 

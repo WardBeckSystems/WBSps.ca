@@ -34,7 +34,7 @@ CFNY system interconnect block diagram of console, turret interface and wallplat
 - **Title block:** (163, 45)–(409, 189) mm: BY WBS(1OFT) · (25FT) · NEWS RoOM WALLPLATE · WBS · WARD-BECK · SYSTEMS · TURRET · CFNY
 - **Wiring (first pass):** 9 connected wire groups from 57 runs; labelled ends: 83 mm → STUDIO WALLPLATE, TURRET 2; 81 mm → TURRET INTERFACE, STUDIO WALLPLATE; 48 mm → TURRET INTERFACE; 48 mm → TURRET; 23 mm → TURRET INTERFACE
 
-Every curve, box, word and wire group: [1996 - 96002-01-001 - CFNY SYSTEM INTERCONNECT - ISS 1 (traced).json](1996%20-%2096002-01-001%20-%20CFNY%20SYSTEM%20INTERCONNECT%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1996 - 96002-01-001 - CFNY SYSTEM INTERCONNECT - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1996 - 96002-01-001 - CFNY SYSTEM INTERCONNECT - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.960002-CFNY/1996%20-%2096002-01-001%20-%20CFNY%20SYSTEM%20INTERCONNECT%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1996 - 96002-01-001 - CFNY SYSTEM INTERCONNECT - ISS 1 (traced).dxf`).
 
 ## Full text
 

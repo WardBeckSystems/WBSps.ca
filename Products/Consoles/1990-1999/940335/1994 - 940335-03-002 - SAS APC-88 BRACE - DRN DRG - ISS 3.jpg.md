@@ -31,7 +31,7 @@ Wiki page: [Job-940335](../../../../PAGES/Job-940335.md)
 - **Words (OCR):** 27 in 26 lines: DATUU · DATU · (2:1) · 0.883 TP · DATU · (NSALL · ExO PLATES) · MATERIAL: · SEE BODY OF DRAMNG. · DATI · SAND 120 CRIT AND · PAINT
 - **Title block:** (681, 10)–(860, 79) mm: WBS · WARD-BECK SYSTEMS · IDRN: · SAS · APC-88 · BRACE · SCALE CSC *1 · CCOE · 940335-03-002
 
-Every curve, box, word and wire group: [1994 - 940335-03-002 - SAS APC-88 BRACE - DRN DRG - ISS 3 (traced).json](1994%20-%20940335-03-002%20-%20SAS%20APC-88%20BRACE%20-%20DRN%20DRG%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1994 - 940335-03-002 - SAS APC-88 BRACE - DRN DRG - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940335-03-002 - SAS APC-88 BRACE - DRN DRG - ISS 3 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940335-CHFI/940335/1994%20-%20940335-03-002%20-%20SAS%20APC-88%20BRACE%20-%20DRN%20DRG%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1994 - 940335-03-002 - SAS APC-88 BRACE - DRN DRG - ISS 3 (traced).dxf`).
 
 ## Full text
 

@@ -31,7 +31,7 @@ Wiki page: [Job-960077](../../../../PAGES/Job-960077.md)
 - **Words (OCR):** 28 in 26 lines: 16,070 · DETA · DEMA · 0463 · CUNC · 0.252 · 0.710 · 0.844 · 2.050 · 0,800 · DETAIL · PMCHES
 - **Title block:** (683, 42)–(849, 75) mm: WARD-BECK  SYSTEMS · REY SICA · WBS
 
-Every curve, box, word and wire group: [1996 - 960077-03-003 - STUDIO INTERFACE PANEL - DRN DRG - ISS 1 (traced).json](1996%20-%20960077-03-003%20-%20STUDIO%20INTERFACE%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1996 - 960077-03-003 - STUDIO INTERFACE PANEL - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1996 - 960077-03-003 - STUDIO INTERFACE PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.960077/1996%20-%20960077-03-003%20-%20STUDIO%20INTERFACE%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1996 - 960077-03-003 - STUDIO INTERFACE PANEL - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

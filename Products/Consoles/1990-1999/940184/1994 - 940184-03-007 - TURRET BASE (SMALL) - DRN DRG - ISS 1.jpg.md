@@ -31,7 +31,7 @@ Wiki page: [Job-940184](../../../../PAGES/Job-940184.md)
 - **Words (OCR):** 27 in 23 lines: PARALLEI · 4049 · MATFRIAL · CR,S · RECd/BASF · 0,76 RAD(J) · Lion · MATERIAL CRS 0,105 miCK. · 5.900 · MATERIAL: SEE BODY CF DRAWING, · FINISH: SAND 120 GRIT AND PAINT · TEXTURED BROWN (438C)
 - **Title block:** (682, 45)–(852, 80) mm: WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1994 - 940184-03-007 - TURRET BASE (SMALL) - DRN DRG - ISS 1 (traced).json](1994%20-%20940184-03-007%20-%20TURRET%20BASE%20%28SMALL%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940184-03-007 - TURRET BASE (SMALL) - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940184-03-007 - TURRET BASE (SMALL) - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940184-GLENN-GOULD-STUDIO/940184/1994%20-%20940184-03-007%20-%20TURRET%20BASE%20%28SMALL%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940184-03-007 - TURRET BASE (SMALL) - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

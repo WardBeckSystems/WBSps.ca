@@ -20,7 +20,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Words (OCR):** 71 in 57 lines: PFL/CUE · LAc | · INSERT JACKFIELD ( I20 · Ring-SLEEvE JacKS) · 46 8 R · assignment MODULES ( 28) · M4784 · 4466 · Ha6 · EQUALiZeRS · LINE · AND
 - **Title block:** (298, 3)–(411, 32) mm: ISS MOD CKD · USED · MATL · ji · WBS WAAD-BeCK bybteMs LTD · Tor'Joner aniSF · DRA: KOl_h · FINISH · DATEIAJA · 28/4/2 TELEVISION AUDIO CONSOLE · CKD · SCALE · LAYOUT · TOLS _ · 76 0 4 5 0 4 - 001
 
-Every curve, box, word and wire group: [1976 - 76045 - 7645-04-001 - ORIR JAAMADI KEOMED MCTICA (traced).json](1976%20-%2076045%20-%207645-04-001%20-%20ORIR%20JAAMADI%20KEOMED%20MCTICA%20%28traced%29.json) (the CAD file: `1976 - 76045 - 7645-04-001 - ORIR JAAMADI KEOMED MCTICA (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76045 - 7645-04-001 - ORIR JAAMADI KEOMED MCTICA (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1976%20-%2076045%20-%207645-04-001%20-%20ORIR%20JAAMADI%20KEOMED%20MCTICA%20%28traced%29.json) (the CAD file: `1976 - 76045 - 7645-04-001 - ORIR JAAMADI KEOMED MCTICA (traced).dxf`).
 
 ## Full text
 

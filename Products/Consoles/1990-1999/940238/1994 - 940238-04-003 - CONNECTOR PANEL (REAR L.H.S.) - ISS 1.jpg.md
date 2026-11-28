@@ -29,7 +29,7 @@ Wiki page: [Job-940238](../../../../PAGES/Job-940238.md)
 - **Words (OCR):** 39 in 36 lines: OCTAL · 0liso Dia · deTA · REc 0 · 3050 · DETAL · DETAIL · OCTAL · 0,280 · CCANERST4) · 0.Szo · 0.707
 - **Title block:** (687, 44)–(857, 79) mm: RMSCN · WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1994 - 940238-04-003 - CONNECTOR PANEL (REAR L.H.S.) - ISS 1 (traced).json](1994%20-%20940238-04-003%20-%20CONNECTOR%20PANEL%20%28REAR%20L.H.S.%29%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940238-04-003 - CONNECTOR PANEL (REAR L.H.S.) - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940238-04-003 - CONNECTOR PANEL (REAR L.H.S.) - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940238-CKNW/940238/1994%20-%20940238-04-003%20-%20CONNECTOR%20PANEL%20%28REAR%20L.H.S.%29%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940238-04-003 - CONNECTOR PANEL (REAR L.H.S.) - ISS 1 (traced).dxf`).
 
 ## Full text
 

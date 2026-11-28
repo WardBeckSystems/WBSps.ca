@@ -31,7 +31,7 @@ Line input module schematic. Title block at top right reading downward.
 - **Closed boxes:** 17
 - **Wiring (first pass):** 151 connected wire groups from 1,139 runs
 
-Every curve, box, word and wire group: [1994 - 940444-02-200 - M901CY LINE INPUT MODULE SCHEMATIC - ISS 2 (traced).json](1994%20-%20940444-02-200%20-%20M901CY%20LINE%20INPUT%20MODULE%20SCHEMATIC%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1994 - 940444-02-200 - M901CY LINE INPUT MODULE SCHEMATIC - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940444-02-200 - M901CY LINE INPUT MODULE SCHEMATIC - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940444-WBZ-Boston/940444/1994%20-%20940444-02-200%20-%20M901CY%20LINE%20INPUT%20MODULE%20SCHEMATIC%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1994 - 940444-02-200 - M901CY LINE INPUT MODULE SCHEMATIC - ISS 2 (traced).dxf`).
 
 ## Full text
 

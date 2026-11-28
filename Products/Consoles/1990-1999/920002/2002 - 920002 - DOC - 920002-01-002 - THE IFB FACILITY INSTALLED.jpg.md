@@ -30,7 +30,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (337, 23)–(421, 39) mm: ReMsION · WBS · WARD BECK   SYSTEMS · STUDIOS 82 & C1
 - **Wiring (first pass):** 160 connected wire groups from 545 runs; labelled ends: 40 mm → 37; 24 mm → SCF; 19 mm → 37; 19 mm → 37; 15 mm → 07)
 
-Every curve, box, word and wire group: [2002 - 920002 - DOC - 920002-01-002 - THE IFB FACILITY INSTALLED (traced).json](2002%20-%20920002%20-%20DOC%20-%20920002-01-002%20-%20THE%20IFB%20FACILITY%20INSTALLED%20%28traced%29.json) (the CAD file: `2002 - 920002 - DOC - 920002-01-002 - THE IFB FACILITY INSTALLED (traced).dxf`).
+Every curve, box, word and wire group: [2002 - 920002 - DOC - 920002-01-002 - THE IFB FACILITY INSTALLED (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.920002/2002%20-%20920002%20-%20DOC%20-%20920002-01-002%20-%20THE%20IFB%20FACILITY%20INSTALLED%20%28traced%29.json) (the CAD file: `2002 - 920002 - DOC - 920002-01-002 - THE IFB FACILITY INSTALLED (traced).dxf`).
 
 ## Full text
 

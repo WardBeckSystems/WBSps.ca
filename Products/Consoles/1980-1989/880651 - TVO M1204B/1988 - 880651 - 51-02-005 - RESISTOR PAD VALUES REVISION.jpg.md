@@ -19,7 +19,7 @@ Wiki page: [Job-880651](../../../../PAGES/Job-880651.md)
 - **Circles and arcs:** 0 circles, 3 arcs
 - **Wiring (first pass):** 18 connected wire groups from 130 runs
 
-Every curve, box, word and wire group: [1988 - 880651 - 51-02-005 - RESISTOR PAD VALUES REVISION (traced).json](1988%20-%20880651%20-%2051-02-005%20-%20RESISTOR%20PAD%20VALUES%20REVISION%20%28traced%29.json) (the CAD file: `1988 - 880651 - 51-02-005 - RESISTOR PAD VALUES REVISION (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880651 - 51-02-005 - RESISTOR PAD VALUES REVISION (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880651-TVO-M1204B/1988%20-%20880651%20-%2051-02-005%20-%20RESISTOR%20PAD%20VALUES%20REVISION%20%28traced%29.json) (the CAD file: `1988 - 880651 - 51-02-005 - RESISTOR PAD VALUES REVISION (traced).dxf`).
 
 ## Full text
 

@@ -21,7 +21,7 @@ Wiki page: [Job-900438](../../../../PAGES/Job-900438.md)
 - **Words (OCR):** 70 in 49 lines: MC INPUL · CHANNELS (1-31 · CH ON · START/ON · CONTROL · EXTERNAL CH OFF · CONTROLS · STOP /OFF · CONTROL · CUE ON · TIMER RESET · SELECTOR
 - **Wiring (first pass):** 106 connected wire groups from 294 runs; labelled ends: 270 mm → MQDULS; 199 mm → LOAD_TRANSEER; 125 mm → CHANNELS (1-31, MC, INPUL; 120 mm → CHANNELS (1-31; 112 mm → MODULES _(=14)
 
-Every curve, box, word and wire group: [1990 - 900438 - 900438-01-002 - TIMER RESET OFF TALLY SELECTOR COM (traced).json](1990%20-%20900438%20-%20900438-01-002%20-%20TIMER%20RESET%20OFF%20TALLY%20SELECTOR%20COM%20%28traced%29.json) (the CAD file: `1990 - 900438 - 900438-01-002 - TIMER RESET OFF TALLY SELECTOR COM (traced).dxf`).
+Every curve, box, word and wire group: [1990 - 900438 - 900438-01-002 - TIMER RESET OFF TALLY SELECTOR COM (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.900438-CHIN-Radio/1990%20-%20900438%20-%20900438-01-002%20-%20TIMER%20RESET%20OFF%20TALLY%20SELECTOR%20COM%20%28traced%29.json) (the CAD file: `1990 - 900438 - 900438-01-002 - TIMER RESET OFF TALLY SELECTOR COM (traced).dxf`).
 
 ## Full text
 

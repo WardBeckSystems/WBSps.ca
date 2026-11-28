@@ -34,7 +34,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Title block:** (154, 6)–(307, 74) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK systeMS · DRN · ENG Srh · MOTION CONTPOL · SCHEMAT IC · CKD · Rc: · APP · SCALE · ISSUE · 790236-02- 013
 - **Wiring (first pass):** 36 connected wire groups from 215 runs; labelled ends: 363 mm → APP; 26 mm → 056 I50; 10 mm → 056 I50
 
-Every curve, box, word and wire group: [1979 - 790236-02-013 - MOTION CONTROL SCHEMATIC - DRN SRH - ENG SRH - ISS 1 (traced).json](1979%20-%20790236-02-013%20-%20MOTION%20CONTROL%20SCHEMATIC%20-%20DRN%20SRH%20-%20ENG%20SRH%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1979 - 790236-02-013 - MOTION CONTROL SCHEMATIC - DRN SRH - ENG SRH - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236-02-013 - MOTION CONTROL SCHEMATIC - DRN SRH - ENG SRH - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236-02-013%20-%20MOTION%20CONTROL%20SCHEMATIC%20-%20DRN%20SRH%20-%20ENG%20SRH%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1979 - 790236-02-013 - MOTION CONTROL SCHEMATIC - DRN SRH - ENG SRH - ISS 1 (traced).dxf`).
 
 ## Full text
 

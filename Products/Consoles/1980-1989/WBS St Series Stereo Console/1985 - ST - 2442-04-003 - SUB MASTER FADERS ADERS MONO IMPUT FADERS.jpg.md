@@ -20,7 +20,7 @@ Wiki page: [Consoles](../../../../PAGES/Consoles.md)
 - **Words (OCR):** 38 in 33 lines: 4527 · 45124 · processinc HOOULES · TAAEO FOUAL · INsERT · output · JACKFIELD · 4527 · 4525 · future · Hohito 4ohiTOF · 4525
 - **Title block:** (351, 10)–(432, 49) mm: DATE · RLVEIOH · WBS WARD- BECk ByBTe · Jk · ST2442 · STEREO TELEVISKON CON · CKD · TOP VIEW LAYOUT · sc
 
-Every curve, box, word and wire group: [1985 - ST - 2442-04-003 - SUB MASTER FADERS ADERS MONO IMPUT FADERS (traced).json](1985%20-%20ST%20-%202442-04-003%20-%20SUB%20MASTER%20FADERS%20ADERS%20MONO%20IMPUT%20FADERS%20%28traced%29.json) (the CAD file: `1985 - ST - 2442-04-003 - SUB MASTER FADERS ADERS MONO IMPUT FADERS (traced).dxf`).
+Every curve, box, word and wire group: [1985 - ST - 2442-04-003 - SUB MASTER FADERS ADERS MONO IMPUT FADERS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.WBS-St-Series-Stereo-Console/1985%20-%20ST%20-%202442-04-003%20-%20SUB%20MASTER%20FADERS%20ADERS%20MONO%20IMPUT%20FADERS%20%28traced%29.json) (the CAD file: `1985 - ST - 2442-04-003 - SUB MASTER FADERS ADERS MONO IMPUT FADERS (traced).dxf`).
 
 ## Full text
 

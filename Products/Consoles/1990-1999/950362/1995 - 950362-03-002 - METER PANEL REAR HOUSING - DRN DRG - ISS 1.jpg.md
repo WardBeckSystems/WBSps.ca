@@ -32,7 +32,7 @@ Wiki page: [Job-950362](../../../../PAGES/Job-950362.md)
 - **Words (OCR):** 31 in 29 lines: 0 PLADES · C4 EACH SIDE · 0.150 · SRER · 44-40 UNC REO'D · 0 312 · 1.544 · +0.003 Dia- INSTAL · 6.375 · NUT 5+40-2 · OM IER · PLACEC
 - **Title block:** (680, 4)–(854, 73) mm: MsIo" · WBS · WARD-BECK SYSTEMS · CRN; DRcNC 95) · METER PANEL · REAR HOUSING · SCALE · Icoce: 95362u02 · 950362-03-002
 
-Every curve, box, word and wire group: [1995 - 950362-03-002 - METER PANEL REAR HOUSING - DRN DRG - ISS 1 (traced).json](1995%20-%20950362-03-002%20-%20METER%20PANEL%20REAR%20HOUSING%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 950362-03-002 - METER PANEL REAR HOUSING - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 950362-03-002 - METER PANEL REAR HOUSING - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.950362/1995%20-%20950362-03-002%20-%20METER%20PANEL%20REAR%20HOUSING%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 950362-03-002 - METER PANEL REAR HOUSING - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

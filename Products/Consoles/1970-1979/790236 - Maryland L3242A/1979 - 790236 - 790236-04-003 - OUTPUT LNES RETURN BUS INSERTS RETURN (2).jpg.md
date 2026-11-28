@@ -18,7 +18,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Closed boxes:** 62; named: 23; 24; 19; 21; 22; 17; 18; 16; 13; 14; 15; 12
 - **Words (OCR):** 321 in 224 lines: 10 · 12 · 13 · 14 · 15 · 16 · 17 · 18 · 19 · 20 · 21 · 22
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-04-003 - OUTPUT LNES RETURN BUS INSERTS RETURN (2) (traced).json](1979%20-%20790236%20-%20790236-04-003%20-%20OUTPUT%20LNES%20RETURN%20BUS%20INSERTS%20RETURN%20%282%29%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-04-003 - OUTPUT LNES RETURN BUS INSERTS RETURN (2) (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-04-003 - OUTPUT LNES RETURN BUS INSERTS RETURN (2) (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-04-003%20-%20OUTPUT%20LNES%20RETURN%20BUS%20INSERTS%20RETURN%20%282%29%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-04-003 - OUTPUT LNES RETURN BUS INSERTS RETURN (2) (traced).dxf`).
 
 ## Full text
 

@@ -28,7 +28,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Title block:** (14, 12)–(278, 64) mm: Iss · MOD ICKD · USED ON · MATL . · WBS WARD-BECK systeMs LTD; · 3423 · PB · DRN: · GEB · DATE · AuG76 · M459A · FINISH · E FFECTS · SWItChER · CKD · Rc · [SCALE · MoDULE · SCHEMATIC · TOLS _ · 459 -0
 - **Wiring (first pass):** 44 connected wire groups from 266 runs, 1 dotted junctions; labelled ends: 197 mm → 300; 76 mm → Vzw; 72 mm → 305, 300; 42 mm → Iss; 37 mm → 305
 
-Every curve, box, word and wire group: [1979 - 790236 - 459-02-002 - FECTS SWITCHER DULE SCHEMATIC (traced).json](1979%20-%20790236%20-%20459-02-002%20-%20FECTS%20SWITCHER%20DULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1979 - 790236 - 459-02-002 - FECTS SWITCHER DULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 459-02-002 - FECTS SWITCHER DULE SCHEMATIC (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20459-02-002%20-%20FECTS%20SWITCHER%20DULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1979 - 790236 - 459-02-002 - FECTS SWITCHER DULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

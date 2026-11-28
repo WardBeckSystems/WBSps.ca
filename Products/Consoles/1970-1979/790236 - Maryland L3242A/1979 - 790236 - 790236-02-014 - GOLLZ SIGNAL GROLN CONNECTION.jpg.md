@@ -21,7 +21,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Words (OCR):** 69 in 48 lines: TBI2 · M 8 - 103 · POwER · SUPPLY · 7-/2 · CHANGE OVER · P4 B · Carb · Ki · KRP IlDG 24v · 7B13 · I- 6
 - **Wiring (first pass):** 73 connected wire groups from 370 runs; labelled ends: 754 mm → CHANGE OVER, Carb, PS; 427 mm → P2, PS, Pe, Ps2; 322 mm → Carb, Pe; 193 mm → GROLNI, STATION GROUND, #6AWG, MA7OAINPUT; 146 mm → STATION GROUND, #6AWG, MA7OAINPUT, CONNECTION
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-02-014 - GOLLZ SIGNAL GROLN CONNECTION (traced).json](1979%20-%20790236%20-%20790236-02-014%20-%20GOLLZ%20SIGNAL%20GROLN%20CONNECTION%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-014 - GOLLZ SIGNAL GROLN CONNECTION (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-02-014 - GOLLZ SIGNAL GROLN CONNECTION (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-02-014%20-%20GOLLZ%20SIGNAL%20GROLN%20CONNECTION%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-014 - GOLLZ SIGNAL GROLN CONNECTION (traced).dxf`).
 
 ## Full text
 

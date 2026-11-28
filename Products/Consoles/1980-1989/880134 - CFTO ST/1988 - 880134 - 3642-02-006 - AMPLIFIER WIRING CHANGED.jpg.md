@@ -23,7 +23,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Title block:** (339, 6)–(429, 44) mm: 0I185 AUPUNer · RepRAT · MRING CWCED · ISSUEDATE · REVISICN · APP_ · WBS WARD-BECK SYSTEMS · ENc · DRN: · 5/88 · METER · CKD; · SCHEMATIC · APP, · SCALE DISC NO: · CODE: 5642506 · 3642-02-006 · SSUE
 - **Wiring (first pass):** 156 connected wire groups from 1,453 runs; labelled ends: 856 mm → AUDII, AUDIO; 661 mm → AUDIO; 385 mm → AudIO; 277 mm → AUDIO; 271 mm → AUDIO, PAE, ArD
 
-Every curve, box, word and wire group: [1988 - 880134 - 3642-02-006 - AMPLIFIER WIRING CHANGED (traced).json](1988%20-%20880134%20-%203642-02-006%20-%20AMPLIFIER%20WIRING%20CHANGED%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-006 - AMPLIFIER WIRING CHANGED (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 3642-02-006 - AMPLIFIER WIRING CHANGED (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-006%20-%20AMPLIFIER%20WIRING%20CHANGED%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-006 - AMPLIFIER WIRING CHANGED (traced).dxf`).
 
 ## Full text
 

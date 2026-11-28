@@ -19,7 +19,7 @@ Wiki page: [Consoles](../../../../PAGES/Consoles.md)
 - **Words (OCR):** 27 in 25 lines: ooin.480 · ooin:-70.20mmi1422.40Mm · 45.6Oln. · 160.24mm · 860. · oomm · soln · 1166.7omm · caBLE Duct Opening doin · 1473.20mm · 50.0oin · 70.20nm
 - **Title block:** (353, 0)–(432, 36) mm: WBS WARD-BECk SYBTE · DRREP · ST2442 · ENG; · STEREO TELEVISKON CONS · OUTLINE · SCALE · 2442 · 04-001 · 7:1
 
-Every curve, box, word and wire group: [1985 - ST - 2442-04-001 - CABLE DUCT OPENING OOIN (traced).json](1985%20-%20ST%20-%202442-04-001%20-%20CABLE%20DUCT%20OPENING%20OOIN%20%28traced%29.json) (the CAD file: `1985 - ST - 2442-04-001 - CABLE DUCT OPENING OOIN (traced).dxf`).
+Every curve, box, word and wire group: [1985 - ST - 2442-04-001 - CABLE DUCT OPENING OOIN (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.WBS-St-Series-Stereo-Console/1985%20-%20ST%20-%202442-04-001%20-%20CABLE%20DUCT%20OPENING%20OOIN%20%28traced%29.json) (the CAD file: `1985 - ST - 2442-04-001 - CABLE DUCT OPENING OOIN (traced).dxf`).
 
 ## Full text
 

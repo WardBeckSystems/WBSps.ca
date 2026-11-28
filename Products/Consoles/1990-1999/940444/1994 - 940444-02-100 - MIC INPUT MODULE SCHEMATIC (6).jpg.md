@@ -31,7 +31,7 @@ Photo of a rotated WBS mic input module schematic sheet 3, title block partly cr
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 106 connected wire groups from 644 runs, 2 dotted junctions
 
-Every curve, box, word and wire group: [1994 - 940444-02-100 - MIC INPUT MODULE SCHEMATIC (6) (traced).json](1994%20-%20940444-02-100%20-%20MIC%20INPUT%20MODULE%20SCHEMATIC%20%286%29%20%28traced%29.json) (the CAD file: `1994 - 940444-02-100 - MIC INPUT MODULE SCHEMATIC (6) (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940444-02-100 - MIC INPUT MODULE SCHEMATIC (6) (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940444-WBZ-Boston/940444/1994%20-%20940444-02-100%20-%20MIC%20INPUT%20MODULE%20SCHEMATIC%20%286%29%20%28traced%29.json) (the CAD file: `1994 - 940444-02-100 - MIC INPUT MODULE SCHEMATIC (6) (traced).dxf`).
 
 ## Full text
 

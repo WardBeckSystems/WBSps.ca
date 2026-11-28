@@ -20,7 +20,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Closed boxes:** 18
 - **Wiring (first pass):** 75 connected wire groups from 505 runs
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-02-014 - SIGNAL GROLNE CONNECTION (traced).json](1979%20-%20790236%20-%20790236-02-014%20-%20SIGNAL%20GROLNE%20CONNECTION%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-014 - SIGNAL GROLNE CONNECTION (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-02-014 - SIGNAL GROLNE CONNECTION (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-02-014%20-%20SIGNAL%20GROLNE%20CONNECTION%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-014 - SIGNAL GROLNE CONNECTION (traced).dxf`).
 
 ## Full text
 

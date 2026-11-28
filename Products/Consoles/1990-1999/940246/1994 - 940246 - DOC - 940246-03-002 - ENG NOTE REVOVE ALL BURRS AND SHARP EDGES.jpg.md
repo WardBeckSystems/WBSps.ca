@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 29 in 24 lines: 83 · DATM · 15z8 · 1017 · 0,257 · REC D · 470012 · 0.9e5 · DETAIL · DETAIL · 5080 · MATERIAL:
 - **Title block:** (344, 23)–(428, 39) mm: WBS · WARD-BECK  SYSTEMS
 
-Every curve, box, word and wire group: [1994 - 940246 - DOC - 940246-03-002 - ENG NOTE REVOVE ALL BURRS AND SHARP EDGES (traced).json](1994%20-%20940246%20-%20DOC%20-%20940246-03-002%20-%20ENG%20NOTE%20REVOVE%20ALL%20BURRS%20AND%20SHARP%20EDGES%20%28traced%29.json) (the CAD file: `1994 - 940246 - DOC - 940246-03-002 - ENG NOTE REVOVE ALL BURRS AND SHARP EDGES (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940246 - DOC - 940246-03-002 - ENG NOTE REVOVE ALL BURRS AND SHARP EDGES (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.940246/1994%20-%20940246%20-%20DOC%20-%20940246-03-002%20-%20ENG%20NOTE%20REVOVE%20ALL%20BURRS%20AND%20SHARP%20EDGES%20%28traced%29.json) (the CAD file: `1994 - 940246 - DOC - 940246-03-002 - ENG NOTE REVOVE ALL BURRS AND SHARP EDGES (traced).dxf`).
 
 ## Full text
 

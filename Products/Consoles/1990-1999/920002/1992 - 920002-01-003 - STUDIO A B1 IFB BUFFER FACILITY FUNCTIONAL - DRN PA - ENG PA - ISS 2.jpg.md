@@ -36,7 +36,7 @@ Studio A/B1 IFB buffer facility functional diagram with title block at bottom ri
 - **Title block:** (672, 20)–(850, 96) mm: ISSUE] DATE · REVSION · WBS WARD-BECK SYSTEMS · DRN: · STUDIO A/B1 · IFB BUFFER FACILITY · FUNCTIONAL · SCALE DISC_NO: 406 · CODE: 92002F0z · 920002-01-003 · SSUE
 - **Wiring (first pass):** 166 connected wire groups from 812 runs; labelled ends: 249 mm → can; 233 mm → CO4N; 130 mm → ZG RIN ,; 102 mm → Cotk; 66 mm → VCII
 
-Every curve, box, word and wire group: [1992 - 920002-01-003 - STUDIO A B1 IFB BUFFER FACILITY FUNCTIONAL - DRN PA - ENG PA - ISS 2 (traced).json](1992%20-%20920002-01-003%20-%20STUDIO%20A%20B1%20IFB%20BUFFER%20FACILITY%20FUNCTIONAL%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1992 - 920002-01-003 - STUDIO A B1 IFB BUFFER FACILITY FUNCTIONAL - DRN PA - ENG PA - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1992 - 920002-01-003 - STUDIO A B1 IFB BUFFER FACILITY FUNCTIONAL - DRN PA - ENG PA - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.920002/1992%20-%20920002-01-003%20-%20STUDIO%20A%20B1%20IFB%20BUFFER%20FACILITY%20FUNCTIONAL%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1992 - 920002-01-003 - STUDIO A B1 IFB BUFFER FACILITY FUNCTIONAL - DRN PA - ENG PA - ISS 2 (traced).dxf`).
 
 ## Full text
 

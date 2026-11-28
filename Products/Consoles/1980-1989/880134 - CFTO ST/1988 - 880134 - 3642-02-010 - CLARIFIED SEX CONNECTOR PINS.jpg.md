@@ -22,7 +22,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Title block:** (339, 3)–(430, 42) mm: Ur+R · PSIO ADDED · ISSUE DATE · CLARIFIaD · REMSION · CONNECTCR PINS · APP_ · WBS · WARD-BECK SYSTEMS · DRN;_D.S; 188 · M611 · POWER · SUPPLIES · CKD_ · APP_ · SCHEMATIC · SCALE DISC NO: 233 · 3642-0
 - **Wiring (first pass):** 173 connected wire groups from 1,149 runs; labelled ends: 163 mm → MaTS;, 0r75i; 150 mm → FROM SIGNAL GND BAR; 123 mm → MaTS;, 0r75i; 122 mm → 8_103, QAD_RRANEERI, CONIROL, EQBL42K; 118 mm → 8_103, QAD_RRANEERI, CONIROL
 
-Every curve, box, word and wire group: [1988 - 880134 - 3642-02-010 - CLARIFIED SEX CONNECTOR PINS (traced).json](1988%20-%20880134%20-%203642-02-010%20-%20CLARIFIED%20SEX%20CONNECTOR%20PINS%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-010 - CLARIFIED SEX CONNECTOR PINS (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 3642-02-010 - CLARIFIED SEX CONNECTOR PINS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-010%20-%20CLARIFIED%20SEX%20CONNECTOR%20PINS%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-010 - CLARIFIED SEX CONNECTOR PINS (traced).dxf`).
 
 ## Full text
 

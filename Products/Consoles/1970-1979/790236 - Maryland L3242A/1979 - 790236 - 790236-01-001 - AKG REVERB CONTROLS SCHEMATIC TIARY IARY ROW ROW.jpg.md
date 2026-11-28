@@ -21,7 +21,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Title block:** (22, 403)–(131, 428) mm: WAAD-BECK · Systems LTD_
 - **Wiring (first pass):** 5 connected wire groups from 22 runs; labelled ends: 53 mm → NDEX, Functional Diagram, DRAWING, 790236-01-001; 48 mm → L32424, NDEX, MANUAL, ResuIts; 26 mm → MCPB_, L32424, MANUAL, NDEX
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-01-001 - AKG REVERB CONTROLS SCHEMATIC TIARY IARY ROW ROW (traced).json](1979%20-%20790236%20-%20790236-01-001%20-%20AKG%20REVERB%20CONTROLS%20SCHEMATIC%20TIARY%20IARY%20ROW%20ROW%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-01-001 - AKG REVERB CONTROLS SCHEMATIC TIARY IARY ROW ROW (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-01-001 - AKG REVERB CONTROLS SCHEMATIC TIARY IARY ROW ROW (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-01-001%20-%20AKG%20REVERB%20CONTROLS%20SCHEMATIC%20TIARY%20IARY%20ROW%20ROW%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-01-001 - AKG REVERB CONTROLS SCHEMATIC TIARY IARY ROW ROW (traced).dxf`).
 
 ## Full text
 

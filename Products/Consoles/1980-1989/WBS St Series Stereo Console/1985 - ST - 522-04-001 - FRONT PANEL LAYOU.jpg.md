@@ -19,7 +19,7 @@ Wiki page: [Consoles](../../../../PAGES/Consoles.md)
 - **Words (OCR):** 18 in 16 lines: WBS · Msz2 · KHI · 200 · ISSU |DATE · REVision · WBS WAAD-BECK bYBTE · DRN · M522 · ENG · MONO EQUALIZER · CKd
 - **Title block:** (20, 2)–(177, 419) mm: WBS · Msz2 · KHI · 200 · ISSU |DATE · REVision · WBS WAAD-BECK bYBTE · DRN · M522 · ENG · MONO EQUALIZER · CKd · FRONT PANEL LAYOU · App: K · SCALE · 522-04-001
 
-Every curve, box, word and wire group: [1985 - ST - 522-04-001 - FRONT PANEL LAYOU (traced).json](1985%20-%20ST%20-%20522-04-001%20-%20FRONT%20PANEL%20LAYOU%20%28traced%29.json) (the CAD file: `1985 - ST - 522-04-001 - FRONT PANEL LAYOU (traced).dxf`).
+Every curve, box, word and wire group: [1985 - ST - 522-04-001 - FRONT PANEL LAYOU (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.WBS-St-Series-Stereo-Console/1985%20-%20ST%20-%20522-04-001%20-%20FRONT%20PANEL%20LAYOU%20%28traced%29.json) (the CAD file: `1985 - ST - 522-04-001 - FRONT PANEL LAYOU (traced).dxf`).
 
 ## Full text
 

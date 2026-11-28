@@ -32,7 +32,7 @@ Wiki page: [Job-940449](../../../../PAGES/Job-940449.md)
 - **Words (OCR):** 35 in 29 lines: 0o-710 · PITCHES 7.555 15 110 · PITcHES · 4050 · 0.2C0 · REC'D · 440 · 'OTPERcEIDE · D.ZUC · 0.680 · 4710 · 0.800
 - **Title block:** (682, 53)–(850, 86) mm: WARD-BECK SYSTEMS · WBS
 
-Every curve, box, word and wire group: [1995 - 940449-03-001 - HOST TURRET FRONT PANEL - DRN DRG - ISS 1 (traced).json](1995%20-%20940449-03-001%20-%20HOST%20TURRET%20FRONT%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 940449-03-001 - HOST TURRET FRONT PANEL - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 940449-03-001 - HOST TURRET FRONT PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940449-WBZ-Boston-Radio-Control-Turrets-Project-No/940449/1995%20-%20940449-03-001%20-%20HOST%20TURRET%20FRONT%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 940449-03-001 - HOST TURRET FRONT PANEL - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

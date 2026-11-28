@@ -20,7 +20,7 @@ Wiki page: [Job-880651](../../../../PAGES/Job-880651.md)
 - **Closed boxes:** 14
 - **Wiring (first pass):** 66 connected wire groups from 305 runs
 
-Every curve, box, word and wire group: [1988 - 880651 - 880651-02-008 - NOTE MOMENTARY SWITCHES ARE DIALIGHT (traced).json](1988%20-%20880651%20-%20880651-02-008%20-%20NOTE%20MOMENTARY%20SWITCHES%20ARE%20DIALIGHT%20%28traced%29.json) (the CAD file: `1988 - 880651 - 880651-02-008 - NOTE MOMENTARY SWITCHES ARE DIALIGHT (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880651 - 880651-02-008 - NOTE MOMENTARY SWITCHES ARE DIALIGHT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880651-TVO-M1204B/1988%20-%20880651%20-%20880651-02-008%20-%20NOTE%20MOMENTARY%20SWITCHES%20ARE%20DIALIGHT%20%28traced%29.json) (the CAD file: `1988 - 880651 - 880651-02-008 - NOTE MOMENTARY SWITCHES ARE DIALIGHT (traced).dxf`).
 
 ## Full text
 

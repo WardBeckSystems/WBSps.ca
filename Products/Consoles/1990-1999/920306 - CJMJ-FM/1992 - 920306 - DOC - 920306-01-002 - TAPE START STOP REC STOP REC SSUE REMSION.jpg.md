@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (344, 23)–(428, 40) mm: WBS · WARD-BECK SYSTEMS · CJMJ-FM
 - **Wiring (first pass):** 55 connected wire groups from 725 runs; labelled ends: 132 mm → WBS, DGC NC, DC FUNCTIONAL, 920306-01-; 51 mm → TRAYSFER CONTRCL; 36 mm → Powek_CABLE, LENGT; 25 mm → Powek_CABLE; 20 mm → RLSCI
 
-Every curve, box, word and wire group: [1992 - 920306 - DOC - 920306-01-002 - TAPE START STOP REC STOP REC SSUE REMSION (traced).json](1992%20-%20920306%20-%20DOC%20-%20920306-01-002%20-%20TAPE%20START%20STOP%20REC%20STOP%20REC%20SSUE%20REMSION%20%28traced%29.json) (the CAD file: `1992 - 920306 - DOC - 920306-01-002 - TAPE START STOP REC STOP REC SSUE REMSION (traced).dxf`).
+Every curve, box, word and wire group: [1992 - 920306 - DOC - 920306-01-002 - TAPE START STOP REC STOP REC SSUE REMSION (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.920306-CJMJ-FM/1992%20-%20920306%20-%20DOC%20-%20920306-01-002%20-%20TAPE%20START%20STOP%20REC%20STOP%20REC%20SSUE%20REMSION%20%28traced%29.json) (the CAD file: `1992 - 920306 - DOC - 920306-01-002 - TAPE START STOP REC STOP REC SSUE REMSION (traced).dxf`).
 
 ## Full text
 

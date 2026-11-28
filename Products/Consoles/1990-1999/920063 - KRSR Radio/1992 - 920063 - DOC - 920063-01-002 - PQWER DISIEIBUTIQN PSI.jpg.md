@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (339, 6)–(431, 44) mm: [LSSUE · REVSION · APP · WBS WARD-BECK   SYSTEMS · DRN: · ENG: · KRSR RADIO · CONSOLE · CKD_ · RADIO · DC_FUNCTIONAL · APP · SCALE DISC NO: 410 · CODE: 20063F02 · 920063-01-002 ISSUE
 - **Wiring (first pass):** 36 connected wire groups from 438 runs; labelled ends: 82 mm → M49QA, M49OA_MICRQPHONE_INPUI_MQDULE; 80 mm → M49OEA_SIFREQ, STEREQ_INPUIMQDULE; 77 mm → M49QA, MC_NPUI; 47 mm → STEREQ_INPUIMQDULE, M49OEA_SIFREQ; 47 mm → M49OA_MICRQPHONE_INPUI_MQDULE
 
-Every curve, box, word and wire group: [1992 - 920063 - DOC - 920063-01-002 - PQWER DISIEIBUTIQN PSI (traced).json](1992%20-%20920063%20-%20DOC%20-%20920063-01-002%20-%20PQWER%20DISIEIBUTIQN%20PSI%20%28traced%29.json) (the CAD file: `1992 - 920063 - DOC - 920063-01-002 - PQWER DISIEIBUTIQN PSI (traced).dxf`).
+Every curve, box, word and wire group: [1992 - 920063 - DOC - 920063-01-002 - PQWER DISIEIBUTIQN PSI (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.920063-KRSR-Radio/1992%20-%20920063%20-%20DOC%20-%20920063-01-002%20-%20PQWER%20DISIEIBUTIQN%20PSI%20%28traced%29.json) (the CAD file: `1992 - 920063 - DOC - 920063-01-002 - PQWER DISIEIBUTIQN PSI (traced).dxf`).
 
 ## Full text
 

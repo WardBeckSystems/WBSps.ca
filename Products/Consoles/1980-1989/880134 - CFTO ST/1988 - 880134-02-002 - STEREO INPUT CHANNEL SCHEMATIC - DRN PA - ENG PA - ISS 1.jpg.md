@@ -35,7 +35,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Title block:** (691, 49)–(860, 84) mm: WARD-BECK  SYSTEMS · WBS
 - **Wiring (first pass):** 306 connected wire groups from 2,559 runs, 5 dotted junctions; labelled ends: 2294 mm → 62; 1189 mm → 62; 304 mm → WBS, STEREO, 880134-02-002; 12 mm → 62; 9 mm → HObi
 
-Every curve, box, word and wire group: [1988 - 880134-02-002 - STEREO INPUT CHANNEL SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).json](1988%20-%20880134-02-002%20-%20STEREO%20INPUT%20CHANNEL%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1988 - 880134-02-002 - STEREO INPUT CHANNEL SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134-02-002 - STEREO INPUT CHANNEL SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134-02-002%20-%20STEREO%20INPUT%20CHANNEL%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1988 - 880134-02-002 - STEREO INPUT CHANNEL SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).dxf`).
 
 ## Full text
 

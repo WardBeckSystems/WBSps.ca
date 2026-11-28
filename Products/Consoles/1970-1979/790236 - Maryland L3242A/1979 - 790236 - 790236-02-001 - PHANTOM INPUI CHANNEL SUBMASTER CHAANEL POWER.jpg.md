@@ -21,7 +21,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Words (OCR):** 96 in 78 lines: PHANTOM INPUL CHANNEL · SUBMASTER_CHAANEL · POwER · SuE · (Ch| To Ch32 ARE · IDENTICAL) · SUE · To SUB 4 ARE · VU · 7e ( · MIC 'A' · MizOA
 - **Wiring (first pass):** 119 connected wire groups from 676 runs; labelled ends: 228 mm → 9"+4, LE-D, COM, 22; 94 mm → Fin ^, 50 4, 10 PFL], Sozo Dc; 90 mm → 58570 @, 40"1, Solo, Sod; 64 mm → 14f0 2; 63 mm → SUBMASTER_CHAANEL, BABr1, SUBMASTER, NeI
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-02-001 - PHANTOM INPUI CHANNEL SUBMASTER CHAANEL POWER (traced).json](1979%20-%20790236%20-%20790236-02-001%20-%20PHANTOM%20INPUI%20CHANNEL%20SUBMASTER%20CHAANEL%20POWER%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-001 - PHANTOM INPUI CHANNEL SUBMASTER CHAANEL POWER (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-02-001 - PHANTOM INPUI CHANNEL SUBMASTER CHAANEL POWER (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-02-001%20-%20PHANTOM%20INPUI%20CHANNEL%20SUBMASTER%20CHAANEL%20POWER%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-001 - PHANTOM INPUI CHANNEL SUBMASTER CHAANEL POWER (traced).dxf`).
 
 ## Full text
 

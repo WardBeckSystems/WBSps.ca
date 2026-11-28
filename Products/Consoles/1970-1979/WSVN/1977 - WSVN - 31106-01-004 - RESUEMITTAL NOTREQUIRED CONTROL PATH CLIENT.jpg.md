@@ -23,7 +23,7 @@ Wiki page: [Consoles](../../../../PAGES/Consoles.md)
 - **Title block:** (358, 0)–(432, 30) mm: WBSS WARO-BECK systems · LSC · KUNE · SCALE · 31106-01-004
 - **Wiring (first pass):** 206 connected wire groups from 1,508 runs; labelled ends: 96 mm → 777477777; 95 mm → 777477777; 90 mm → 777477777; 88 mm → 777477777; 80 mm → 777477777
 
-Every curve, box, word and wire group: [1977 - WSVN - 31106-01-004 - RESUEMITTAL NOTREQUIRED CONTROL PATH CLIENT (traced).json](1977%20-%20WSVN%20-%2031106-01-004%20-%20RESUEMITTAL%20NOTREQUIRED%20CONTROL%20PATH%20CLIENT%20%28traced%29.json) (the CAD file: `1977 - WSVN - 31106-01-004 - RESUEMITTAL NOTREQUIRED CONTROL PATH CLIENT (traced).dxf`).
+Every curve, box, word and wire group: [1977 - WSVN - 31106-01-004 - RESUEMITTAL NOTREQUIRED CONTROL PATH CLIENT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.WSVN/1977%20-%20WSVN%20-%2031106-01-004%20-%20RESUEMITTAL%20NOTREQUIRED%20CONTROL%20PATH%20CLIENT%20%28traced%29.json) (the CAD file: `1977 - WSVN - 31106-01-004 - RESUEMITTAL NOTREQUIRED CONTROL PATH CLIENT (traced).dxf`).
 
 ## Full text
 

@@ -36,7 +36,7 @@ Wiki page: [Job-940145](../../../../PAGES/Job-940145.md)
 - **Words (OCR):** 46 in 46 lines: FACFS · 94145402 · DETI · SAND 120 · TEXCOTE · 0,550 · 7.630 · 1,052 · 050 Ma · DETAIL · DFTUL · 0.106 +0C01 diA
 - **Title block:** (681, 11)–(857, 79) mm: WBS · WARD-BECK   SYSTEMS · XLR PANEL · RACK   UNITS) · SCALE · 940145-03-002
 
-Every curve, box, word and wire group: [1994 - 940145-03-002 - XLR PANEL (3 RACK UNITS) - DRN WS - ENG WS - ISS 1 (traced).json](1994%20-%20940145-03-002%20-%20XLR%20PANEL%20%283%20RACK%20UNITS%29%20-%20DRN%20WS%20-%20ENG%20WS%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940145-03-002 - XLR PANEL (3 RACK UNITS) - DRN WS - ENG WS - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940145-03-002 - XLR PANEL (3 RACK UNITS) - DRN WS - ENG WS - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940145/1994%20-%20940145-03-002%20-%20XLR%20PANEL%20%283%20RACK%20UNITS%29%20-%20DRN%20WS%20-%20ENG%20WS%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940145-03-002 - XLR PANEL (3 RACK UNITS) - DRN WS - ENG WS - ISS 1 (traced).dxf`).
 
 ## Full text
 

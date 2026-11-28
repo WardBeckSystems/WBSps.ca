@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (341, 20)–(426, 40) mm: ISSUEI · WBS · WARD- · BECK SYSTEMS · SONY OF CANADA LTD
 - **Wiring (first pass):** 149 connected wire groups from 3,291 runs; labelled ends: 50 mm → WBS, CCOE; 05341F01; 18 mm → sctonsi; 16 mm → BUS 22; 14 mm → BUS 22; 12 mm → 43512
 
-Every curve, box, word and wire group: [1995 - 950341 - DOC - 950341-01-001 - OHVS FUTURE IFB OUTPUTS (traced).json](1995%20-%20950341%20-%20DOC%20-%20950341-01-001%20-%20OHVS%20FUTURE%20IFB%20OUTPUTS%20%28traced%29.json) (the CAD file: `1995 - 950341 - DOC - 950341-01-001 - OHVS FUTURE IFB OUTPUTS (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 950341 - DOC - 950341-01-001 - OHVS FUTURE IFB OUTPUTS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.950341/1995%20-%20950341%20-%20DOC%20-%20950341-01-001%20-%20OHVS%20FUTURE%20IFB%20OUTPUTS%20%28traced%29.json) (the CAD file: `1995 - 950341 - DOC - 950341-01-001 - OHVS FUTURE IFB OUTPUTS (traced).dxf`).
 
 ## Full text
 

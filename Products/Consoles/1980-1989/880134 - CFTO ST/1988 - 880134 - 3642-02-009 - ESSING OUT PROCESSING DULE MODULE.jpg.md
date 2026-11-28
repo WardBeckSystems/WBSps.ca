@@ -21,7 +21,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Words (OCR):** 31 in 26 lines: 620 · 620 · OUT · 15.16 PROCESSIG · OUT · 15,16 PROCESSING · MODULE · MODULE · 1215 · (GR METER) · 12,13 · 25v
 - **Wiring (first pass):** 93 connected wire groups from 382 runs; labelled ends: 2055 mm → 15.16, SIGNAL GROUND, CHASSIS GROUND; 537 mm → 15.16; 245 mm → 15.16; 9 mm → 620; 8 mm → 620
 
-Every curve, box, word and wire group: [1988 - 880134 - 3642-02-009 - ESSING OUT PROCESSING DULE MODULE (traced).json](1988%20-%20880134%20-%203642-02-009%20-%20ESSING%20OUT%20PROCESSING%20DULE%20MODULE%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-009 - ESSING OUT PROCESSING DULE MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 3642-02-009 - ESSING OUT PROCESSING DULE MODULE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-009%20-%20ESSING%20OUT%20PROCESSING%20DULE%20MODULE%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-009 - ESSING OUT PROCESSING DULE MODULE (traced).dxf`).
 
 ## Full text
 

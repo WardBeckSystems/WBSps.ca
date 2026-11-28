@@ -22,7 +22,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Title block:** (141, 29)–(415, 80) mm: USED ON · MATL . · IsS MOD.ICKD: · WBS WAAD-BECK sysTeMs LTD · DRN SRh · L3242A · CONSCLE · FIMISH · DATE 4va.4/79 · iNPUT Slb ETaStER CAANNELS · CKD · KC · SCALE · SCHEMATIC · TOLS · 790236 02-001 · 
 - **Wiring (first pass):** 131 connected wire groups from 692 runs; labelled ends: 155 mm → TOLS; 154 mm → TOLS; 121 mm → IOo0, 'Izw, +24v, I0o n; 94 mm → MASTER, 68, FADER, (~-iSdB); 85 mm → 20, Com
 
-Every curve, box, word and wire group: [1979 - 790236 - B 790236-02-001 - L3242A CONSOLE - INPUT, SUB & MASTER CHANNELS - SCHEMATIC (traced).json](1979%20-%20790236%20-%20B%20790236-02-001%20-%20L3242A%20CONSOLE%20-%20INPUT%2C%20SUB%20%26%20MASTER%20CHANNELS%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1979 - 790236 - B 790236-02-001 - L3242A CONSOLE - INPUT, SUB & MASTER CHANNELS - SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - B 790236-02-001 - L3242A CONSOLE - INPUT, SUB & MASTER CHANNELS - SCHEMATIC (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20B%20790236-02-001%20-%20L3242A%20CONSOLE%20-%20INPUT,%20SUB%20&%20MASTER%20CHANNELS%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1979 - 790236 - B 790236-02-001 - L3242A CONSOLE - INPUT, SUB & MASTER CHANNELS - SCHEMATIC (traced).dxf`).
 
 ## Full text
 

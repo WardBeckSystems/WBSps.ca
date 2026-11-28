@@ -19,7 +19,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Words (OCR):** 53 in 51 lines: Systems · LTD_ · WAAD-BECK · CFTO-TV · AUDIO_CONSOLE · DRAWING · LIST · 880134-04-004 · Rear View Layout · 3642-04-005 · TBl Layout · 3642-04-006
 - **Title block:** (22, 402)–(122, 426) mm: Systems · WAAD-BECK
 
-Every curve, box, word and wire group: [1988 - 880134 - 880134-04-004 - CFTO-TV AUDIO CONSOLE DRAWING LISI (traced).json](1988%20-%20880134%20-%20880134-04-004%20-%20CFTO-TV%20AUDIO%20CONSOLE%20DRAWING%20LISI%20%28traced%29.json) (the CAD file: `1988 - 880134 - 880134-04-004 - CFTO-TV AUDIO CONSOLE DRAWING LISI (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 880134-04-004 - CFTO-TV AUDIO CONSOLE DRAWING LISI (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%20880134-04-004%20-%20CFTO-TV%20AUDIO%20CONSOLE%20DRAWING%20LISI%20%28traced%29.json) (the CAD file: `1988 - 880134 - 880134-04-004 - CFTO-TV AUDIO CONSOLE DRAWING LISI (traced).dxf`).
 
 ## Full text
 

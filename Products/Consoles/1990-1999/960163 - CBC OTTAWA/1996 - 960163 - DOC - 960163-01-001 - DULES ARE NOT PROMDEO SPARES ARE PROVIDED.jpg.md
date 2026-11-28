@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (341, 20)–(426, 36) mm: WARD-BECK SYSTEMS · WBS · CBC OTTAWA
 - **Wiring (first pass):** 168 connected wire groups from 11,229 runs, 1549 dotted junctions; labelled ends: 21758 mm → JoT, 'TJr, 9"D, JET; 63 mm → 9"D, JET; 51 mm → WBS, PARLIMENTARY BUREAU, SCA, DSC *; 19 mm → TEr; 12 mm → 'Dl
 
-Every curve, box, word and wire group: [1996 - 960163 - DOC - 960163-01-001 - DULES ARE NOT PROMDEO SPARES ARE PROVIDED (traced).json](1996%20-%20960163%20-%20DOC%20-%20960163-01-001%20-%20DULES%20ARE%20NOT%20PROMDEO%20SPARES%20ARE%20PROVIDED%20%28traced%29.json) (the CAD file: `1996 - 960163 - DOC - 960163-01-001 - DULES ARE NOT PROMDEO SPARES ARE PROVIDED (traced).dxf`).
+Every curve, box, word and wire group: [1996 - 960163 - DOC - 960163-01-001 - DULES ARE NOT PROMDEO SPARES ARE PROVIDED (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.960163-CBC-OTTAWA/1996%20-%20960163%20-%20DOC%20-%20960163-01-001%20-%20DULES%20ARE%20NOT%20PROMDEO%20SPARES%20ARE%20PROVIDED%20%28traced%29.json) (the CAD file: `1996 - 960163 - DOC - 960163-01-001 - DULES ARE NOT PROMDEO SPARES ARE PROVIDED (traced).dxf`).
 
 ## Full text
 

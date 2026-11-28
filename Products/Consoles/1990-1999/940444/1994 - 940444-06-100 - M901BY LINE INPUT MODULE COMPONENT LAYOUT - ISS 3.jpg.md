@@ -31,7 +31,7 @@ Line input module component layout. Title block at top right reading downward.
 - **Dots (junctions):** 21
 - **Words (OCR):** 75 in 72 lines: 0282 · 28 82y3 · Isg · zel8 · cted · 6443 · NszijtL · SMS · 8ala · 8928 · L614 · 88
 
-Every curve, box, word and wire group: [1994 - 940444-06-100 - M901BY LINE INPUT MODULE COMPONENT LAYOUT - ISS 3 (traced).json](1994%20-%20940444-06-100%20-%20M901BY%20LINE%20INPUT%20MODULE%20COMPONENT%20LAYOUT%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1994 - 940444-06-100 - M901BY LINE INPUT MODULE COMPONENT LAYOUT - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940444-06-100 - M901BY LINE INPUT MODULE COMPONENT LAYOUT - ISS 3 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940444-WBZ-Boston/940444/1994%20-%20940444-06-100%20-%20M901BY%20LINE%20INPUT%20MODULE%20COMPONENT%20LAYOUT%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1994 - 940444-06-100 - M901BY LINE INPUT MODULE COMPONENT LAYOUT - ISS 3 (traced).dxf`).
 
 ## Full text
 

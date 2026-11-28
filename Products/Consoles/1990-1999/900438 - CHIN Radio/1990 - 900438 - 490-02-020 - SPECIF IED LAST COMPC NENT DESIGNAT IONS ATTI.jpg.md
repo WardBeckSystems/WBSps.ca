@@ -24,7 +24,7 @@ Wiki page: [Job-900438](../../../../PAGES/Job-900438.md)
 - **Title block:** (342, 34)–(431, 50) mm: WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 192 connected wire groups from 1,429 runs; labelled ends: 225 mm → "4074, ILCICR, 1882, 74w 7; 191 mm → J2, Trzi02, J0/25, FlUNO; 121 mm → 1CR3Us, 22/25, Rok, 77/25; 99 mm → ALSAN, 4s5iC; 92 mm → 18, JJ/I6
 
-Every curve, box, word and wire group: [1990 - 900438 - 490-02-020 - SPECIF IED LAST COMPC NENT DESIGNAT IONS ATTI (traced).json](1990%20-%20900438%20-%20490-02-020%20-%20SPECIF%20IED%20LAST%20COMPC%20NENT%20DESIGNAT%20IONS%20ATTI%20%28traced%29.json) (the CAD file: `1990 - 900438 - 490-02-020 - SPECIF IED LAST COMPC NENT DESIGNAT IONS ATTI (traced).dxf`).
+Every curve, box, word and wire group: [1990 - 900438 - 490-02-020 - SPECIF IED LAST COMPC NENT DESIGNAT IONS ATTI (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.900438-CHIN-Radio/1990%20-%20900438%20-%20490-02-020%20-%20SPECIF%20IED%20LAST%20COMPC%20NENT%20DESIGNAT%20IONS%20ATTI%20%28traced%29.json) (the CAD file: `1990 - 900438 - 490-02-020 - SPECIF IED LAST COMPC NENT DESIGNAT IONS ATTI (traced).dxf`).
 
 ## Full text
 

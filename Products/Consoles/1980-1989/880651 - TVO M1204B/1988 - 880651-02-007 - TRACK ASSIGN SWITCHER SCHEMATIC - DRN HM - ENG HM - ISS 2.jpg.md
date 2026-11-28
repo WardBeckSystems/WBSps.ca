@@ -31,7 +31,7 @@ Wiki page: [Job-880651](../../../../PAGES/Job-880651.md)
 - **Circles and arcs:** 0 circles, 2 arcs
 - **Wiring (first pass):** 16 connected wire groups from 106 runs
 
-Every curve, box, word and wire group: [1988 - 880651-02-007 - TRACK ASSIGN SWITCHER SCHEMATIC - DRN HM - ENG HM - ISS 2 (traced).json](1988%20-%20880651-02-007%20-%20TRACK%20ASSIGN%20SWITCHER%20SCHEMATIC%20-%20DRN%20HM%20-%20ENG%20HM%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1988 - 880651-02-007 - TRACK ASSIGN SWITCHER SCHEMATIC - DRN HM - ENG HM - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880651-02-007 - TRACK ASSIGN SWITCHER SCHEMATIC - DRN HM - ENG HM - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880651-TVO-M1204B/1988%20-%20880651-02-007%20-%20TRACK%20ASSIGN%20SWITCHER%20SCHEMATIC%20-%20DRN%20HM%20-%20ENG%20HM%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1988 - 880651-02-007 - TRACK ASSIGN SWITCHER SCHEMATIC - DRN HM - ENG HM - ISS 2 (traced).dxf`).
 
 ## Full text
 

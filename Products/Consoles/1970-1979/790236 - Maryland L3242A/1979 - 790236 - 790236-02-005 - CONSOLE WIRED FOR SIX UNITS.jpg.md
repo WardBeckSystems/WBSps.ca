@@ -22,7 +22,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Words (OCR):** 23 in 21 lines: TB3 · M492 · 6162 · BKISWITCHER · MOPULE · '3p · 7B4 · inPUts · OUTPUT · NoI; · 620 · 337
 - **Wiring (first pass):** 29 connected wire groups from 185 runs, 7 dotted junctions; labelled ends: 354 mm → BKISWITCHER, 337, TB3A, 38; 168 mm → BKISWITCHER, M492, '3p; 54 mm → (CONSOLE, Six; 39 mm → '3p; 37 mm → TB3, 6162
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-02-005 - CONSOLE WIRED FOR SIX UNITS (traced).json](1979%20-%20790236%20-%20790236-02-005%20-%20CONSOLE%20WIRED%20FOR%20SIX%20UNITS%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-005 - CONSOLE WIRED FOR SIX UNITS (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-02-005 - CONSOLE WIRED FOR SIX UNITS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-02-005%20-%20CONSOLE%20WIRED%20FOR%20SIX%20UNITS%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-005 - CONSOLE WIRED FOR SIX UNITS (traced).dxf`).
 
 ## Full text
 

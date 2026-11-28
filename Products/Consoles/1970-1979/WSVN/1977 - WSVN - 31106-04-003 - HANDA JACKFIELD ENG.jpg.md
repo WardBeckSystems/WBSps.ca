@@ -20,7 +20,7 @@ Wiki page: [Consoles](../../../../PAGES/Consoles.md)
 - **Dots (junctions):** 2
 - **Words (OCR):** 11 in 10 lines: LEGEND · ROW · Audid · JulER · COTGOLE LINE · PRELIMINARY · Horyal · 4ez · WBSs WAAD-DECK SYSTEMS · 31106-04-003/2
 
-Every curve, box, word and wire group: [1977 - WSVN - 31106-04-003 - HANDA JACKFIELD ENG (traced).json](1977%20-%20WSVN%20-%2031106-04-003%20-%20HANDA%20JACKFIELD%20ENG%20%28traced%29.json) (the CAD file: `1977 - WSVN - 31106-04-003 - HANDA JACKFIELD ENG (traced).dxf`).
+Every curve, box, word and wire group: [1977 - WSVN - 31106-04-003 - HANDA JACKFIELD ENG (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.WSVN/1977%20-%20WSVN%20-%2031106-04-003%20-%20HANDA%20JACKFIELD%20ENG%20%28traced%29.json) (the CAD file: `1977 - WSVN - 31106-04-003 - HANDA JACKFIELD ENG (traced).dxf`).
 
 ## Full text
 

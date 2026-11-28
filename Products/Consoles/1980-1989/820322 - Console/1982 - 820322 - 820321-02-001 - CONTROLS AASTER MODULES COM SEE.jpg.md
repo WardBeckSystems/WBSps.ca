@@ -23,7 +23,7 @@ Wiki page: [Job-820322](../../../../PAGES/Job-820322.md)
 - **Title block:** (208, 1)–(432, 48) mm: Froh · Ict · WBs*10 029 · 90- N477 · LQLZ · SUANASTER · OliUles · cor · For INTERLOCK · Se5 Owg · 0B2032/-01- · CONTROLS · 007 · IsSUE DATE · REVISION · 424V · COM · WBS WARD-BECK SYSTEMS · (-1548) 82
 - **Wiring (first pass):** 125 connected wire groups from 807 runs, 1 dotted junctions; labelled ends: 273 mm → SUB NAS TER, LQDWILE, 10*2), 04; 102 mm → SEE Note), pZ-7; 80 mm → 70", Ei, 70*, 708; 77 mm → MASTER ^HAWNEL, (Hi AND, DaskeE, 44A*Bab; 70 mm → chZo AREIDENTICAQ, 70", 70*, M47AA
 
-Every curve, box, word and wire group: [1982 - 820322 - 820321-02-001 - CONTROLS AASTER MODULES COM SEE (traced).json](1982%20-%20820322%20-%20820321-02-001%20-%20CONTROLS%20AASTER%20MODULES%20COM%20SEE%20%28traced%29.json) (the CAD file: `1982 - 820322 - 820321-02-001 - CONTROLS AASTER MODULES COM SEE (traced).dxf`).
+Every curve, box, word and wire group: [1982 - 820322 - 820321-02-001 - CONTROLS AASTER MODULES COM SEE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.820322-Console/1982%20-%20820322%20-%20820321-02-001%20-%20CONTROLS%20AASTER%20MODULES%20COM%20SEE%20%28traced%29.json) (the CAD file: `1982 - 820322 - 820321-02-001 - CONTROLS AASTER MODULES COM SEE (traced).dxf`).
 
 ## Full text
 

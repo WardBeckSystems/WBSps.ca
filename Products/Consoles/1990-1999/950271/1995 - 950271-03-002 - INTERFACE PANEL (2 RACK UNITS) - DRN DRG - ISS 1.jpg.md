@@ -31,7 +31,7 @@ Wiki page: [Job-950271](../../../../PAGES/Job-950271.md)
 - **Words (OCR):** 28 in 26 lines: ALPONEC ThICk · MATERUL · ANIS · GRET TEXCOTE · FLACES · PLACES · Lo0 · FTCHFS · 1a Ico · PLACES · L.280 · 93027-
 - **Title block:** (694, 49)–(863, 91) mm: ISSUL DATEL · WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1995 - 950271-03-002 - INTERFACE PANEL (2 RACK UNITS) - DRN DRG - ISS 1 (traced).json](1995%20-%20950271-03-002%20-%20INTERFACE%20PANEL%20%282%20RACK%20UNITS%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 950271-03-002 - INTERFACE PANEL (2 RACK UNITS) - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 950271-03-002 - INTERFACE PANEL (2 RACK UNITS) - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.950271/1995%20-%20950271-03-002%20-%20INTERFACE%20PANEL%20%282%20RACK%20UNITS%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 950271-03-002 - INTERFACE PANEL (2 RACK UNITS) - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

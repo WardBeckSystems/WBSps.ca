@@ -35,7 +35,7 @@ Wiki page: [L1202A](../../../../PAGES/L1202A.md)
 - **Title block:** (285, 2)–(432, 70) mm: ISSUE DATE · REViSION · APp · WBS WARD-BECK SYSTEMs · DRN 9/8 JP · ENG MRw · OSC, CUEISOLO, RE-ENTRY & AUX LEVEL · CKD Ve~ · SCHEMATIC · APP · SCALE · ISSUE · 1202-02-016
 - **Wiring (first pass):** 45 connected wire groups from 178 runs; labelled ends: 508 mm → 028, 0L4, M2, Pin1,-; 157 mm → 028, 0L4, 8rN, Aea; 66 mm → Aea, 20, +25v; 34 mm → IOL, To VU SEL; 32 mm → 13,P, TS
 
-Every curve, box, word and wire group: [1982 - 1202-02-016 - OSC, CUE SOLO, RE-ENTRY & AUX LEVEL SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).json](1982%20-%201202-02-016%20-%20OSC%2C%20CUE%20SOLO%2C%20RE-ENTRY%20%26%20AUX%20LEVEL%20SCHEMATIC%20-%20DRN%20JP%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1982 - 1202-02-016 - OSC, CUE SOLO, RE-ENTRY & AUX LEVEL SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - 1202-02-016 - OSC, CUE SOLO, RE-ENTRY & AUX LEVEL SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.L1202A/1982%20-%201202-02-016%20-%20OSC,%20CUE%20SOLO,%20RE-ENTRY%20&%20AUX%20LEVEL%20SCHEMATIC%20-%20DRN%20JP%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1982 - 1202-02-016 - OSC, CUE SOLO, RE-ENTRY & AUX LEVEL SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).dxf`).
 
 ## Full text
 

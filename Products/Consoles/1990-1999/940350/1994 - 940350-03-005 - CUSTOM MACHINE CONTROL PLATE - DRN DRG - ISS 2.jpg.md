@@ -33,7 +33,7 @@ Custom machine control plate drawing with title block at bottom right.
 - **Words (OCR):** 30 in 26 lines: REC D · 940350-03-005 TOP PLATE · MAIERIAL · ALLOY 0.0BO  IHICK. · REO D · 940350-03-005 · SuB PLATE · UMORial: · ALUY ALLOY 0.100 THICK- · DATU · 0,640 · MATERIAL:
 - **Title block:** (683, 48)–(851, 80) mm: WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1994 - 940350-03-005 - CUSTOM MACHINE CONTROL PLATE - DRN DRG - ISS 2 (traced).json](1994%20-%20940350-03-005%20-%20CUSTOM%20MACHINE%20CONTROL%20PLATE%20-%20DRN%20DRG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1994 - 940350-03-005 - CUSTOM MACHINE CONTROL PLATE - DRN DRG - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940350-03-005 - CUSTOM MACHINE CONTROL PLATE - DRN DRG - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940350/1994%20-%20940350-03-005%20-%20CUSTOM%20MACHINE%20CONTROL%20PLATE%20-%20DRN%20DRG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1994 - 940350-03-005 - CUSTOM MACHINE CONTROL PLATE - DRN DRG - ISS 2 (traced).dxf`).
 
 ## Full text
 

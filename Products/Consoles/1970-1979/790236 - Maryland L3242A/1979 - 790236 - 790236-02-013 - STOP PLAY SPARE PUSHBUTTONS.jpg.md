@@ -23,7 +23,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Title block:** (336, 6)–(432, 74) mm: ISSUE DATE · WBS WARD-BEC · DRN · ENG S34 · MoTiON · CON · SCHEMATIC · CKD: · Rc: · APP · SCALE · 790236-02-0
 - **Wiring (first pass):** 80 connected wire groups from 336 runs, 3 dotted junctions; labelled ends: 64 mm → PLAY, aLo; 45 mm → 433 /39; 30 mm → 433 /39; 29 mm → 433 /39; 27 mm → 164
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-02-013 - STOP PLAY SPARE PUSHBUTTONS (traced).json](1979%20-%20790236%20-%20790236-02-013%20-%20STOP%20PLAY%20SPARE%20PUSHBUTTONS%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-013 - STOP PLAY SPARE PUSHBUTTONS (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-02-013 - STOP PLAY SPARE PUSHBUTTONS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-02-013%20-%20STOP%20PLAY%20SPARE%20PUSHBUTTONS%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-013 - STOP PLAY SPARE PUSHBUTTONS (traced).dxf`).
 
 ## Full text
 

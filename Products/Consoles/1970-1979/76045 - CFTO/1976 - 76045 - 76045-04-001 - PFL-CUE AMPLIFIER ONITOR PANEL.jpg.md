@@ -18,7 +18,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Dots (junctions):** 3
 - **Words (OCR):** 25 in 15 lines: PS 2 · EMG D C · AUX AUX 2 · INSERT JACKFIELD ( 120 Tip-Ring-SLEEVE JACKS) · M455 · LIZERS OR · AUx · ILTERS · MODULES · M453 PFLCUE AMPLIFIER · Onitor PANEL · M452 OSCiLLATOR
 
-Every curve, box, word and wire group: [1976 - 76045 - 76045-04-001 - PFL-CUE AMPLIFIER ONITOR PANEL (traced).json](1976%20-%2076045%20-%2076045-04-001%20-%20PFL-CUE%20AMPLIFIER%20ONITOR%20PANEL%20%28traced%29.json) (the CAD file: `1976 - 76045 - 76045-04-001 - PFL-CUE AMPLIFIER ONITOR PANEL (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76045 - 76045-04-001 - PFL-CUE AMPLIFIER ONITOR PANEL (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1976%20-%2076045%20-%2076045-04-001%20-%20PFL-CUE%20AMPLIFIER%20ONITOR%20PANEL%20%28traced%29.json) (the CAD file: `1976 - 76045 - 76045-04-001 - PFL-CUE AMPLIFIER ONITOR PANEL (traced).dxf`).
 
 ## Full text
 

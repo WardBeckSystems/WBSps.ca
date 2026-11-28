@@ -20,7 +20,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Closed boxes:** 21
 - **Wiring (first pass):** 263 connected wire groups from 899 runs
 
-Every curve, box, word and wire group: [1988 - 880134 - 3642-02-003 - ALL FADERS CHASSIS MOUNT CONNECTOR NAZISS-E (traced).json](1988%20-%20880134%20-%203642-02-003%20-%20ALL%20FADERS%20CHASSIS%20MOUNT%20CONNECTOR%20NAZISS-E%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-003 - ALL FADERS CHASSIS MOUNT CONNECTOR NAZISS-E (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 3642-02-003 - ALL FADERS CHASSIS MOUNT CONNECTOR NAZISS-E (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-003%20-%20ALL%20FADERS%20CHASSIS%20MOUNT%20CONNECTOR%20NAZISS-E%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-003 - ALL FADERS CHASSIS MOUNT CONNECTOR NAZISS-E (traced).dxf`).
 
 ## Full text
 

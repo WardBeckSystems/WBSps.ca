@@ -30,7 +30,7 @@ Studio monitor module component layout. Title block at top right reading downwar
 - **Closed boxes:** 31
 - **Dots (junctions):** 4
 
-Every curve, box, word and wire group: [1994 - 940444-06-302 - M905B STUDIO MONITOR MODULE COMPONENT LAYOUT - ISS 1 (traced).json](1994%20-%20940444-06-302%20-%20M905B%20STUDIO%20MONITOR%20MODULE%20COMPONENT%20LAYOUT%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940444-06-302 - M905B STUDIO MONITOR MODULE COMPONENT LAYOUT - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940444-06-302 - M905B STUDIO MONITOR MODULE COMPONENT LAYOUT - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940444-WBZ-Boston/940444/1994%20-%20940444-06-302%20-%20M905B%20STUDIO%20MONITOR%20MODULE%20COMPONENT%20LAYOUT%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940444-06-302 - M905B STUDIO MONITOR MODULE COMPONENT LAYOUT - ISS 1 (traced).dxf`).
 
 ## Full text
 

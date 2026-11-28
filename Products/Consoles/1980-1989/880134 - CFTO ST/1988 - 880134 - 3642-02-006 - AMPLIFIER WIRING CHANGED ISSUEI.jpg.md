@@ -20,7 +20,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Closed boxes:** 45
 - **Wiring (first pass):** 45 connected wire groups from 526 runs
 
-Every curve, box, word and wire group: [1988 - 880134 - 3642-02-006 - AMPLIFIER WIRING CHANGED ISSUEI (traced).json](1988%20-%20880134%20-%203642-02-006%20-%20AMPLIFIER%20WIRING%20CHANGED%20ISSUEI%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-006 - AMPLIFIER WIRING CHANGED ISSUEI (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 3642-02-006 - AMPLIFIER WIRING CHANGED ISSUEI (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-006%20-%20AMPLIFIER%20WIRING%20CHANGED%20ISSUEI%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-006 - AMPLIFIER WIRING CHANGED ISSUEI (traced).dxf`).
 
 ## Full text
 

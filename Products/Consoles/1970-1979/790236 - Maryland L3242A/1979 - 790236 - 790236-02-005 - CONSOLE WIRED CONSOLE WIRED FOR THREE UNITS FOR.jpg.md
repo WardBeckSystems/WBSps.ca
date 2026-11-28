@@ -26,7 +26,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Title block:** (194, 9)–(431, 60) mm: ISS MOD CKD: · USED ON · MATL . · WBS WAAD-BECK · DRN: Srh · L3242A Co · DATE AUg 79 · FINISH · Bx / LINE SELECTORS & A · CKD. · Rc · SCHEMA · SCALE · TCLS · 790236- 02
 - **Wiring (first pass):** 24 connected wire groups from 252 runs; labelled ends: 239 mm → 20, Coh, +25v, -25v; 150 mm → (5.16, 20, 19, 26; 41 mm → EQUALIZER, 19; 36 mm → EQUALIZER; 31 mm → I5u6
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-02-005 - CONSOLE WIRED CONSOLE WIRED FOR THREE UNITS FOR (traced).json](1979%20-%20790236%20-%20790236-02-005%20-%20CONSOLE%20WIRED%20CONSOLE%20WIRED%20FOR%20THREE%20UNITS%20FOR%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-005 - CONSOLE WIRED CONSOLE WIRED FOR THREE UNITS FOR (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-02-005 - CONSOLE WIRED CONSOLE WIRED FOR THREE UNITS FOR (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-02-005%20-%20CONSOLE%20WIRED%20CONSOLE%20WIRED%20FOR%20THREE%20UNITS%20FOR%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-005 - CONSOLE WIRED CONSOLE WIRED FOR THREE UNITS FOR (traced).dxf`).
 
 ## Full text
 

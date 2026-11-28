@@ -20,7 +20,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Closed boxes:** 84
 - **Wiring (first pass):** 203 connected wire groups from 986 runs
 
-Every curve, box, word and wire group: [1988 - 880134 - 2442-01-001 - SWICHER MODULES MONO LIVE INPUTS (traced).json](1988%20-%20880134%20-%202442-01-001%20-%20SWICHER%20MODULES%20MONO%20LIVE%20INPUTS%20%28traced%29.json) (the CAD file: `1988 - 880134 - 2442-01-001 - SWICHER MODULES MONO LIVE INPUTS (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 2442-01-001 - SWICHER MODULES MONO LIVE INPUTS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%202442-01-001%20-%20SWICHER%20MODULES%20MONO%20LIVE%20INPUTS%20%28traced%29.json) (the CAD file: `1988 - 880134 - 2442-01-001 - SWICHER MODULES MONO LIVE INPUTS (traced).dxf`).
 
 ## Full text
 

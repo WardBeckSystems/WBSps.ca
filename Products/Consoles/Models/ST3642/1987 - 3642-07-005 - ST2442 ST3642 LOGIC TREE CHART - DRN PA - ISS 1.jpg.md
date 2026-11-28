@@ -32,7 +32,7 @@ Logic tree chart grid, title block at bottom left reading sideways.
 - **Circles and arcs:** 4 circles, 0 arcs; largest r 3.4 @ (7.6, 253.5), r 3.4 @ (7.6, 32.3), r 3.4 @ (7.9, 142.2), r 1.4 @ (378.8, 75.8)
 - **Closed boxes:** 864
 
-Every curve, box, word and wire group: [1987 - 3642-07-005 - ST2442 ST3642 LOGIC TREE CHART - DRN PA - ISS 1 (traced).json](1987%20-%203642-07-005%20-%20ST2442%20ST3642%20LOGIC%20TREE%20CHART%20-%20DRN%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1987 - 3642-07-005 - ST2442 ST3642 LOGIC TREE CHART - DRN PA - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - 3642-07-005 - ST2442 ST3642 LOGIC TREE CHART - DRN PA - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.ST3642/1987%20-%203642-07-005%20-%20ST2442%20ST3642%20LOGIC%20TREE%20CHART%20-%20DRN%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1987 - 3642-07-005 - ST2442 ST3642 LOGIC TREE CHART - DRN PA - ISS 1 (traced).dxf`).
 
 ## Full text
 

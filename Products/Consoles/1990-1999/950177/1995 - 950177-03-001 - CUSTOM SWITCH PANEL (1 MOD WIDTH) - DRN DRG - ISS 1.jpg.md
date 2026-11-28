@@ -35,7 +35,7 @@ Custom switch panel (1 module width) drawing with title block at bottom right.
 - **Words (OCR):** 29 in 25 lines: 9 3 · 3 3 · VNc_Csk · 488 8 · ck · DAn · 41-72 · 7-697 · PMCH(0.762) (19) · 0455 · 17,775 · DAnJiN 4
 - **Title block:** (681, 43)–(849, 76) mm: WBS · WARD-BECK SYSTEMS · DRT6/95)
 
-Every curve, box, word and wire group: [1995 - 950177-03-001 - CUSTOM SWITCH PANEL (1 MOD WIDTH) - DRN DRG - ISS 1 (traced).json](1995%20-%20950177-03-001%20-%20CUSTOM%20SWITCH%20PANEL%20%281%20MOD%20WIDTH%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 950177-03-001 - CUSTOM SWITCH PANEL (1 MOD WIDTH) - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 950177-03-001 - CUSTOM SWITCH PANEL (1 MOD WIDTH) - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.950177/1995%20-%20950177-03-001%20-%20CUSTOM%20SWITCH%20PANEL%20%281%20MOD%20WIDTH%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 950177-03-001 - CUSTOM SWITCH PANEL (1 MOD WIDTH) - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

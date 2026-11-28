@@ -34,7 +34,7 @@ Close photo of the audio console DC control schematic title block. Title block a
 - **Title block:** (7, 87)–(300, 202) mm: WBS WARD-BECK · DRN · DATE Oct 73 · CKd Rc · AUpio · SCALE · DC CONTROL
 - **Wiring (first pass):** 49 connected wire groups from 157 runs; labelled ends: 102 mm → ISS, 173050-02_009; 54 mm → ScHEMATIC, 173050-02_009, CONTROL; 52 mm → DC; 39 mm → ISS; 38 mm → 173050-02_009
 
-Every curve, box, word and wire group: [1973 - 73050-02-009 - AUDIO CONSOLE DC CONTROL SCHEMATIC - DRN PC (traced).json](1973%20-%2073050-02-009%20-%20AUDIO%20CONSOLE%20DC%20CONTROL%20SCHEMATIC%20-%20DRN%20PC%20%28traced%29.json) (the CAD file: `1973 - 73050-02-009 - AUDIO CONSOLE DC CONTROL SCHEMATIC - DRN PC (traced).dxf`).
+Every curve, box, word and wire group: [1973 - 73050-02-009 - AUDIO CONSOLE DC CONTROL SCHEMATIC - DRN PC (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.730050/1973%20-%2073050-02-009%20-%20AUDIO%20CONSOLE%20DC%20CONTROL%20SCHEMATIC%20-%20DRN%20PC%20%28traced%29.json) (the CAD file: `1973 - 73050-02-009 - AUDIO CONSOLE DC CONTROL SCHEMATIC - DRN PC (traced).dxf`).
 
 ## Full text
 

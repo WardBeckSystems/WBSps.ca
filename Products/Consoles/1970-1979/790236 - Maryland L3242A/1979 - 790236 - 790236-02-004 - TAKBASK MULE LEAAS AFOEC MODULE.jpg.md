@@ -21,7 +21,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Words (OCR):** 86 in 72 lines: TB7 · E21 · I3,P · M4BI · J2o · TB · +8c8m, 66l · PATCH · M452 · IR · 2o · SSGLLAtoR
 - **Wiring (first pass):** 72 connected wire groups from 336 runs; labelled ends: 131 mm → 20, -25v, +25v, 21; 92 mm → 2d, t25v, ?5v, 22; 92 mm → IR, SSGLLAtoR, Inzu, nde); 86 mm → TB7; 73 mm → Rn
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-02-004 - TAKBASK MULE LEAAS AFOEC MODULE (traced).json](1979%20-%20790236%20-%20790236-02-004%20-%20TAKBASK%20MULE%20LEAAS%20AFOEC%20MODULE%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-004 - TAKBASK MULE LEAAS AFOEC MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-02-004 - TAKBASK MULE LEAAS AFOEC MODULE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-02-004%20-%20TAKBASK%20MULE%20LEAAS%20AFOEC%20MODULE%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-004 - TAKBASK MULE LEAAS AFOEC MODULE (traced).dxf`).
 
 ## Full text
 

@@ -36,7 +36,7 @@ Wiki page: [L1202A](../../../../PAGES/L1202A.md)
 - **Title block:** (287, 0)–(432, 67) mm: ISSUE DATE · REViSION · APP · WBS WARD-BECK SysTEMs · DRN. 9/82 JP · ENG Mrw · MONITOR CHANNELS · CKd · 6s1; · SCHEMATIC · APP · SCALE · 1202-02-013 · ISSUE
 - **Wiring (first pass):** 57 connected wire groups from 295 runs; labelled ends: 1956 mm → 2,3, 5556, 022, MODULE; 238 mm → 59,607; 195 mm → 23, 42, 419,20, 84e; 190 mm → M1, 25, 29, +25v; 110 mm → 419,20, 84e, 01214, 0"5
 
-Every curve, box, word and wire group: [1982 - 1202-02-013 - MONITOR CHANNELS SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).json](1982%20-%201202-02-013%20-%20MONITOR%20CHANNELS%20SCHEMATIC%20-%20DRN%20JP%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1982 - 1202-02-013 - MONITOR CHANNELS SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - 1202-02-013 - MONITOR CHANNELS SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.L1202A/1982%20-%201202-02-013%20-%20MONITOR%20CHANNELS%20SCHEMATIC%20-%20DRN%20JP%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1982 - 1202-02-013 - MONITOR CHANNELS SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).dxf`).
 
 ## Full text
 

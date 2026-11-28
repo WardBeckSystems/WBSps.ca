@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (56, 6)–(429, 86) mm: MCNO? · MONOT · 70 Monoi · 70 Mix · WBS · KBS · MONOS · MCNO2 · MONO} · SUPPL: · POWER · SUPPLY · POWER · CONSOLE VODULES · TELCO · M924 · M924 · CommoN · METERING INPUTS · TELCO #2 · FOR REDUNDANT · 
 - **Wiring (first pass):** 286 connected wire groups from 1,314 runs, 3 dotted junctions; labelled ends: 630 mm → Music, VOICE, CUE, MNS; 457 mm → VOICE; 346 mm → MNS, CUE, CR MONITOR; 294 mm → CUE, AUX AUX, CR MONITOR; 273 mm → MUTE
 
-Every curve, box, word and wire group: [1994 - 940332 - DOC - 940332-01-001 - TORPEY TIME CLOCK COMPLETE (traced).json](1994%20-%20940332%20-%20DOC%20-%20940332-01-001%20-%20TORPEY%20TIME%20CLOCK%20COMPLETE%20%28traced%29.json) (the CAD file: `1994 - 940332 - DOC - 940332-01-001 - TORPEY TIME CLOCK COMPLETE (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940332 - DOC - 940332-01-001 - TORPEY TIME CLOCK COMPLETE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940332/1994%20-%20940332%20-%20DOC%20-%20940332-01-001%20-%20TORPEY%20TIME%20CLOCK%20COMPLETE%20%28traced%29.json) (the CAD file: `1994 - 940332 - DOC - 940332-01-001 - TORPEY TIME CLOCK COMPLETE (traced).dxf`).
 
 ## Full text
 

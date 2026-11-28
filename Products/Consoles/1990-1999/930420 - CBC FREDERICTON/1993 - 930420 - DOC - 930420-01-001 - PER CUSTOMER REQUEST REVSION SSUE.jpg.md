@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (336, 24)–(419, 40) mm: WBS) · WARD-BECK SYSTEMS · CBC  FREDERICTON
 - **Wiring (first pass):** 471 connected wire groups from 6,594 runs; labelled ends: 71 mm → WARD-BECK SYSTEMS, INTERCOM FUNCTIONAL, 930420-01-001; 64 mm → WBS), INTERCOM FUNCTIONAL; 9 mm → (12 SECTIONS)
 
-Every curve, box, word and wire group: [1993 - 930420 - DOC - 930420-01-001 - PER CUSTOMER REQUEST REVSION SSUE (traced).json](1993%20-%20930420%20-%20DOC%20-%20930420-01-001%20-%20PER%20CUSTOMER%20REQUEST%20REVSION%20SSUE%20%28traced%29.json) (the CAD file: `1993 - 930420 - DOC - 930420-01-001 - PER CUSTOMER REQUEST REVSION SSUE (traced).dxf`).
+Every curve, box, word and wire group: [1993 - 930420 - DOC - 930420-01-001 - PER CUSTOMER REQUEST REVSION SSUE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.930420-CBC-FREDERICTON/1993%20-%20930420%20-%20DOC%20-%20930420-01-001%20-%20PER%20CUSTOMER%20REQUEST%20REVSION%20SSUE%20%28traced%29.json) (the CAD file: `1993 - 930420 - DOC - 930420-01-001 - PER CUSTOMER REQUEST REVSION SSUE (traced).dxf`).
 
 ## Full text
 

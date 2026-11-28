@@ -20,7 +20,7 @@ Wiki page: [Consoles](../../../../PAGES/Consoles.md)
 - **Words (OCR):** 21 in 19 lines: Utilite · Heter · AUI · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN · BD8 · M529A · ENG · AUXILIARY MASTER MODULE
 - **Title block:** (74, 1)–(224, 77) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN · BD8 · M529A · ENG · AUXILIARY MASTER MODULE · CKD · FRONT PANEL LAYOUT · APP · Ka · SCALE · 529-04-002 · ISSUE
 
-Every curve, box, word and wire group: [1985 - ST - 529-04-002 - UTILITY METER AUX AUX AUX (traced).json](1985%20-%20ST%20-%20529-04-002%20-%20UTILITY%20METER%20AUX%20AUX%20AUX%20%28traced%29.json) (the CAD file: `1985 - ST - 529-04-002 - UTILITY METER AUX AUX AUX (traced).dxf`).
+Every curve, box, word and wire group: [1985 - ST - 529-04-002 - UTILITY METER AUX AUX AUX (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.WBS-St-Series-Stereo-Console/1985%20-%20ST%20-%20529-04-002%20-%20UTILITY%20METER%20AUX%20AUX%20AUX%20%28traced%29.json) (the CAD file: `1985 - ST - 529-04-002 - UTILITY METER AUX AUX AUX (traced).dxf`).
 
 ## Full text
 

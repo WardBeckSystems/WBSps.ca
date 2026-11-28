@@ -24,7 +24,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 11 in 8 lines: WBS · WARD-BECK SYSTEMS · CBC TORONTO · STUDIO 26/27 · INTERCOM PANEL · AYOUT · 0444JL01 · 940443 04-001
 - **Title block:** (336, 32)–(420, 48) mm: WBS · WARD-BECK SYSTEMS · CBC TORONTO · STUDIO 26/27
 
-Every curve, box, word and wire group: [1994 - 940443 - DOC - 940443-04-001 - INTERCOM PANEL LAYOUT (traced).json](1994%20-%20940443%20-%20DOC%20-%20940443-04-001%20-%20INTERCOM%20PANEL%20LAYOUT%20%28traced%29.json) (the CAD file: `1994 - 940443 - DOC - 940443-04-001 - INTERCOM PANEL LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940443 - DOC - 940443-04-001 - INTERCOM PANEL LAYOUT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.940443/1994%20-%20940443%20-%20DOC%20-%20940443-04-001%20-%20INTERCOM%20PANEL%20LAYOUT%20%28traced%29.json) (the CAD file: `1994 - 940443 - DOC - 940443-04-001 - INTERCOM PANEL LAYOUT (traced).dxf`).
 
 ## Full text
 

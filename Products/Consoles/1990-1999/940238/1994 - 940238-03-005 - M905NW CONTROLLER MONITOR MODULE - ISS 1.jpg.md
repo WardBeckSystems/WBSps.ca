@@ -30,7 +30,7 @@ Wiki page: [Job-940238](../../../../PAGES/Job-940238.md)
 - **Words (OCR):** 39 in 34 lines: 5 33 · 02801 · 0200 · PUNCH 0_a0 · RCAR · 0,070 · 0,095 · 6.610 · SFCTI · DETAIL · 40 711 · MATERIAL: ALUM ALLOY 0.125 MhICK
 - **Title block:** (686, 46)–(854, 79) mm: WBS · WARD-BECK SYSTEMS · MgO5NW
 
-Every curve, box, word and wire group: [1994 - 940238-03-005 - M905NW CONTROLLER MONITOR MODULE - ISS 1 (traced).json](1994%20-%20940238-03-005%20-%20M905NW%20CONTROLLER%20MONITOR%20MODULE%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940238-03-005 - M905NW CONTROLLER MONITOR MODULE - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940238-03-005 - M905NW CONTROLLER MONITOR MODULE - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940238-CKNW/940238/1994%20-%20940238-03-005%20-%20M905NW%20CONTROLLER%20MONITOR%20MODULE%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940238-03-005 - M905NW CONTROLLER MONITOR MODULE - ISS 1 (traced).dxf`).
 
 ## Full text
 

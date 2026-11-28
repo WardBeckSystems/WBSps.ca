@@ -35,7 +35,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Title block:** (679, 10)–(857, 86) mm: ISSUEI DAIE · REVSION · APP_ · WBS · WARD-BECK SYSTEMS · DRNPA_0B/88 · MASTER CHANNEL · ENG: · CKD: · SCHEMATIC · SCALE DISc · 880134-02-004 · SSUE · CCDE 80134504_
 - **Wiring (first pass):** 115 connected wire groups from 1,180 runs; labelled ends: 1545 mm → steREO, 25v, SIGNAL GND, +25v; 212 mm → Couk; 168 mm → rouboyTShms, dBm;; 85 mm → rouboyTShms, dBm;; 60 mm → 37 Je
 
-Every curve, box, word and wire group: [1988 - 880134-02-004 - MASTER CHANNEL SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).json](1988%20-%20880134-02-004%20-%20MASTER%20CHANNEL%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1988 - 880134-02-004 - MASTER CHANNEL SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134-02-004 - MASTER CHANNEL SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134-02-004%20-%20MASTER%20CHANNEL%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1988 - 880134-02-004 - MASTER CHANNEL SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -20,7 +20,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Words (OCR):** 53 in 46 lines: JACKFIELD Row · TB · TB · TB7 34(5) · Tb2 1,2 (3) · 4,5 (6) · 9,(u) · 15,6(7) · 7,8(9) · 21,22(23) · 21,22 · 19,20
 - **Wiring (first pass):** 65 connected wire groups from 266 runs; labelled ends: 48 mm → Tb7; 40 mm → 19,20; 39 mm → 45,4; 37 mm → 25,26; 36 mm → 3940
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-02-010 - LINE INPUT CONSOLE INPUT JACKS CHIANNELS (traced).json](1979%20-%20790236%20-%20790236-02-010%20-%20LINE%20INPUT%20CONSOLE%20INPUT%20JACKS%20CHIANNELS%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-010 - LINE INPUT CONSOLE INPUT JACKS CHIANNELS (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-02-010 - LINE INPUT CONSOLE INPUT JACKS CHIANNELS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-02-010%20-%20LINE%20INPUT%20CONSOLE%20INPUT%20JACKS%20CHIANNELS%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-010 - LINE INPUT CONSOLE INPUT JACKS CHIANNELS (traced).dxf`).
 
 ## Full text
 

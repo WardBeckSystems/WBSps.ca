@@ -18,7 +18,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Outlines:** line 129 rings, 2,170 straight (7,160 mm) / 243 curved (354 mm); text 181 rings, 1,296 straight (1,809 mm) / 387 curved (636 mm)
 - **Closed boxes:** 15
 
-Every curve, box, word and wire group: [1988 - 880134 - 880134-04-004 - STEREO TELEVISION CONSOLE (traced).json](1988%20-%20880134%20-%20880134-04-004%20-%20STEREO%20TELEVISION%20CONSOLE%20%28traced%29.json) (the CAD file: `1988 - 880134 - 880134-04-004 - STEREO TELEVISION CONSOLE (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 880134-04-004 - STEREO TELEVISION CONSOLE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%20880134-04-004%20-%20STEREO%20TELEVISION%20CONSOLE%20%28traced%29.json) (the CAD file: `1988 - 880134 - 880134-04-004 - STEREO TELEVISION CONSOLE (traced).dxf`).
 
 ## Full text
 

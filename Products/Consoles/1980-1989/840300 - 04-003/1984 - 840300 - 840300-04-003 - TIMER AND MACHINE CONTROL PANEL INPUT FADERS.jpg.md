@@ -20,7 +20,7 @@ Wiki page: [Job-840300](../../../../PAGES/Job-840300.md)
 - **Dots (junctions):** 1
 - **Words (OCR):** 102 in 69 lines: ESE370 DIGitAL timer · (SUPPLIED BY Customer) · M1 · M2 · Mono · Aux1 · AUX2 · Aux3 · AUx4 · 86 · M1 · M2
 
-Every curve, box, word and wire group: [1984 - 840300 - 840300-04-003 - TIMER AND MACHINE CONTROL PANEL INPUT FADERS (traced).json](1984%20-%20840300%20-%20840300-04-003%20-%20TIMER%20AND%20MACHINE%20CONTROL%20PANEL%20INPUT%20FADERS%20%28traced%29.json) (the CAD file: `1984 - 840300 - 840300-04-003 - TIMER AND MACHINE CONTROL PANEL INPUT FADERS (traced).dxf`).
+Every curve, box, word and wire group: [1984 - 840300 - 840300-04-003 - TIMER AND MACHINE CONTROL PANEL INPUT FADERS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.840300/1984%20-%20840300%20-%20840300-04-003%20-%20TIMER%20AND%20MACHINE%20CONTROL%20PANEL%20INPUT%20FADERS%20%28traced%29.json) (the CAD file: `1984 - 840300 - 840300-04-003 - TIMER AND MACHINE CONTROL PANEL INPUT FADERS (traced).dxf`).
 
 ## Full text
 

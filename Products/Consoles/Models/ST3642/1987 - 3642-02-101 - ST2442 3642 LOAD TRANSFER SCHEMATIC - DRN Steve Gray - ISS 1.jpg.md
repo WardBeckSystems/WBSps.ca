@@ -35,7 +35,7 @@ Wiki page: [ST3642](../../../../PAGES/ST3642.md)
 - **Title block:** (344, 24)–(428, 41) mm: ISSUCIDATE · WBS · WARD-BECK SYSTEMS
 - **Wiring (first pass):** 89 connected wire groups from 423 runs; labelled ends: 354 mm → USE, TKIS; 151 mm → WBS, 3642-02-101, SCHEMATIC, Codf; 50425101; 70 mm → 425v; 64 mm → RELALcL; 52 mm → 62
 
-Every curve, box, word and wire group: [1987 - 3642-02-101 - ST2442 3642 LOAD TRANSFER SCHEMATIC - DRN Steve Gray - ISS 1 (traced).json](1987%20-%203642-02-101%20-%20ST2442%203642%20LOAD%20TRANSFER%20SCHEMATIC%20-%20DRN%20Steve%20Gray%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1987 - 3642-02-101 - ST2442 3642 LOAD TRANSFER SCHEMATIC - DRN Steve Gray - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - 3642-02-101 - ST2442 3642 LOAD TRANSFER SCHEMATIC - DRN Steve Gray - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.ST3642/1987%20-%203642-02-101%20-%20ST2442%203642%20LOAD%20TRANSFER%20SCHEMATIC%20-%20DRN%20Steve%20Gray%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1987 - 3642-02-101 - ST2442 3642 LOAD TRANSFER SCHEMATIC - DRN Steve Gray - ISS 1 (traced).dxf`).
 
 ## Full text
 

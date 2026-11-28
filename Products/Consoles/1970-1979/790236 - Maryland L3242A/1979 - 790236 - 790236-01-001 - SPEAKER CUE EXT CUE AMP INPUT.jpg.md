@@ -20,7 +20,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Closed boxes:** 15
 - **Wiring (first pass):** 70 connected wire groups from 372 runs
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-01-001 - SPEAKER CUE EXT CUE AMP INPUT (traced).json](1979%20-%20790236%20-%20790236-01-001%20-%20SPEAKER%20CUE%20EXT%20CUE%20AMP%20INPUT%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-01-001 - SPEAKER CUE EXT CUE AMP INPUT (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-01-001 - SPEAKER CUE EXT CUE AMP INPUT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-01-001%20-%20SPEAKER%20CUE%20EXT%20CUE%20AMP%20INPUT%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-01-001 - SPEAKER CUE EXT CUE AMP INPUT (traced).dxf`).
 
 ## Full text
 

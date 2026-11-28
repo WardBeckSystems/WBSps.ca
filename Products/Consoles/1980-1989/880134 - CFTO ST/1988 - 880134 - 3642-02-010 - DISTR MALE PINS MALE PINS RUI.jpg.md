@@ -21,7 +21,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Words (OCR):** 107 in 93 lines: FEMALE PINS · MALE PINS · TB102 · #22 AWG · PSI · +12v · #22 AWG · PS2 +12v · #22 AWG · PST   TRANSFER CTL · #22 AWG · PS2  TRANSFER CT
 - **Wiring (first pass):** 127 connected wire groups from 618 runs; labelled ends: 174 mm → 9,10,11; 172 mm → 022, AWG, 16; 90 mm → TB101; 87 mm → TB102; 87 mm → 10
 
-Every curve, box, word and wire group: [1988 - 880134 - 3642-02-010 - DISTR MALE PINS MALE PINS RUI (traced).json](1988%20-%20880134%20-%203642-02-010%20-%20DISTR%20MALE%20PINS%20MALE%20PINS%20RUI%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-010 - DISTR MALE PINS MALE PINS RUI (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 3642-02-010 - DISTR MALE PINS MALE PINS RUI (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-010%20-%20DISTR%20MALE%20PINS%20MALE%20PINS%20RUI%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-010 - DISTR MALE PINS MALE PINS RUI (traced).dxf`).
 
 ## Full text
 

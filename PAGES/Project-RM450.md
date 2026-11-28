@@ -14,7 +14,7 @@ tags: ["project", "1970s"]
 | Years | 1973 (from the dated files in this project) |
 | Files | 1 |
 | Job number | none found yet |
-| Folder | [Consoles/Models/RM450](../Products/Consoles/Models/RM450/) |
+| Folder | [Consoles/Models/RM450](../WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.RM450/) |
 
 ## Modules
 
@@ -24,4 +24,4 @@ tags: ["project", "1970s"]
 
 | Year | File |  |
 |---|---|---|
-| ? | [19xx - RM450 - $_57-3.jpg](../Consoles/Models/RM450/19xx%20-%20RM450%20-%20%24_57-3.jpg) | [note](../Products/Consoles/Models/RM450/19xx%20-%20RM450%20-%20$_57-3.jpg.md) |
+| ? | [19xx - RM450 - $_57-3.jpg](../Consoles/Models/RM450/19xx%20-%20RM450%20-%20%24_57-3.jpg) | [note](../WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.RM450/19xx%20-%20RM450%20-%20$_57-3.jpg.md) |

@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (337, 6)–(426, 40) mm: WBS · WARD-BECK SYSTEMS · ALGONQUIN COLLEGE · 48x48 INTERCOM FUNCTIONAL · INTEGRA TED MEDIA CENTRE · SCALE · CCOC 05271F02 · 950271-01 002
 - **Wiring (first pass):** 129 connected wire groups from 5,849 runs, 1669 dotted junctions; labelled ends: 12606 mm → ji; 225 mm → ji, 3 2 3, 8 8; 150 mm → ji; 29 mm → 3 2 3, NeXS SUPER; 20 mm → ji
 
-Every curve, box, word and wire group: [1995 - 950271 - DOC - 950271-01-002 - STUDIO ROCV NEWS SUPER EDIT EDIT TRUCK MHEATRE (traced).json](1995%20-%20950271%20-%20DOC%20-%20950271-01-002%20-%20STUDIO%20ROCV%20NEWS%20SUPER%20EDIT%20EDIT%20TRUCK%20MHEATRE%20%28traced%29.json) (the CAD file: `1995 - 950271 - DOC - 950271-01-002 - STUDIO ROCV NEWS SUPER EDIT EDIT TRUCK MHEATRE (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 950271 - DOC - 950271-01-002 - STUDIO ROCV NEWS SUPER EDIT EDIT TRUCK MHEATRE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.950271/1995%20-%20950271%20-%20DOC%20-%20950271-01-002%20-%20STUDIO%20ROCV%20NEWS%20SUPER%20EDIT%20EDIT%20TRUCK%20MHEATRE%20%28traced%29.json) (the CAD file: `1995 - 950271 - DOC - 950271-01-002 - STUDIO ROCV NEWS SUPER EDIT EDIT TRUCK MHEATRE (traced).dxf`).
 
 ## Full text
 

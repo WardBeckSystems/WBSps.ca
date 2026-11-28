@@ -32,7 +32,7 @@ Wiki page: [T1202A](../../../../PAGES/T1202A.md)
 - **Words (OCR):** 9 in 8 lines: 13.0 · 27.8 · 28.0 · Issu Date · WBS · WBS T1202A CONSOLE · OUTLINE · 1202-04-005
 - **Title block:** (302, 10)–(413, 59) mm: Issu Date · WBS · WBS T1202A CONSOLE · OUTLINE
 
-Every curve, box, word and wire group: [1982 - 1202-04-005 - WBS T1202A CONSOLE OUTLINE - DRN DN - ENG Schubert - ISS 1 (traced).json](1982%20-%201202-04-005%20-%20WBS%20T1202A%20CONSOLE%20OUTLINE%20-%20DRN%20DN%20-%20ENG%20Schubert%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1982 - 1202-04-005 - WBS T1202A CONSOLE OUTLINE - DRN DN - ENG Schubert - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - 1202-04-005 - WBS T1202A CONSOLE OUTLINE - DRN DN - ENG Schubert - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.T1202A/1982%20-%201202-04-005%20-%20WBS%20T1202A%20CONSOLE%20OUTLINE%20-%20DRN%20DN%20-%20ENG%20Schubert%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1982 - 1202-04-005 - WBS T1202A CONSOLE OUTLINE - DRN DN - ENG Schubert - ISS 1 (traced).dxf`).
 
 ## Full text
 

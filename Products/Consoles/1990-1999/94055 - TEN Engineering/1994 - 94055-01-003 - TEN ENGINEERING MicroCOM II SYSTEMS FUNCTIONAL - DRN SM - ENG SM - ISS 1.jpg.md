@@ -34,7 +34,7 @@ Wiki page: [Job-94055](../../../../PAGES/Job-94055.md)
 - **Title block:** (683, 10)–(851, 73) mm: WARD-BECK  SYSTEMS · WBS · TEN   ENGINEERING · MicroCOM · SYSTEMS FUNCTIONAL · GCI · 94055-01-003
 - **Wiring (first pass):** 110 connected wire groups from 1,776 runs; labelled ends: 6 mm → WBS; 6 mm → WBS; 6 mm → WARD-BECK  SYSTEMS; 5 mm → Hod FEEM
 
-Every curve, box, word and wire group: [1994 - 94055-01-003 - TEN ENGINEERING MicroCOM II SYSTEMS FUNCTIONAL - DRN SM - ENG SM - ISS 1 (traced).json](1994%20-%2094055-01-003%20-%20TEN%20ENGINEERING%20MicroCOM%20II%20SYSTEMS%20FUNCTIONAL%20-%20DRN%20SM%20-%20ENG%20SM%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 94055-01-003 - TEN ENGINEERING MicroCOM II SYSTEMS FUNCTIONAL - DRN SM - ENG SM - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 94055-01-003 - TEN ENGINEERING MicroCOM II SYSTEMS FUNCTIONAL - DRN SM - ENG SM - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.940055-TEN-ENGINEERING/94055%20-%20TEN%20Engineering/1994%20-%2094055-01-003%20-%20TEN%20ENGINEERING%20MicroCOM%20II%20SYSTEMS%20FUNCTIONAL%20-%20DRN%20SM%20-%20ENG%20SM%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 94055-01-003 - TEN ENGINEERING MicroCOM II SYSTEMS FUNCTIONAL - DRN SM - ENG SM - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -36,7 +36,7 @@ Wiki page: [Job-93039](../../../../PAGES/Job-93039.md)
 - **Title block:** (670, 0)–(845, 58) mm: SSUFIDATF · WBS · WARD-BECK SYSTEMS · CBC SR-398 · CONTROL UNIT · FUNCTIONAL · SCALE
 - **Wiring (first pass):** 166 connected wire groups from 1,717 runs; labelled ends: 6 mm → SSUFIDATF, WARD-BECK SYSTEMS; 6 mm → SSUFIDATF, WBS; 6 mm → SSUFIDATF, WBS; 5 mm → WARD-BECK SYSTEMS; 5 mm → WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1993 - 93039-01-002 - CBC SR-398 CONTROL UNIT FUNCTIONAL - DRN DRG - ENG RB - ISS 1 (traced).json](1993%20-%2093039-01-002%20-%20CBC%20SR-398%20CONTROL%20UNIT%20FUNCTIONAL%20-%20DRN%20DRG%20-%20ENG%20RB%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1993 - 93039-01-002 - CBC SR-398 CONTROL UNIT FUNCTIONAL - DRN DRG - ENG RB - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - 93039-01-002 - CBC SR-398 CONTROL UNIT FUNCTIONAL - DRN DRG - ENG RB - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.930039-CBC/1993%20-%2093039-01-002%20-%20CBC%20SR-398%20CONTROL%20UNIT%20FUNCTIONAL%20-%20DRN%20DRG%20-%20ENG%20RB%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1993 - 93039-01-002 - CBC SR-398 CONTROL UNIT FUNCTIONAL - DRN DRG - ENG RB - ISS 1 (traced).dxf`).
 
 ## Full text
 

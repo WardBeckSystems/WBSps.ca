@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (333, 0)–(420, 31) mm: WBS) · WARD-BECK SYSTEMS · NEWS CENTER · CTS · 48X48 MicroCom · INTERCOM · FUNCTIONAL · SCALE NSC NO; · 93032- · 001
 - **Wiring (first pass):** 100 connected wire groups from 5,714 runs, 1133 dotted junctions; labelled ends: 30 mm → CAVERA, 4tbeos; 15 mm → UCHTNC; 11 mm → utubjg, V9z20, PHOYE; 10 mm → CAVERA; 10 mm → UCHTNC
 
-Every curve, box, word and wire group: [1993 - 93032 - DOC - 93032-01-001 - IRIX OUTPUTS JSSUEL REVSION (traced).json](1993%20-%2093032%20-%20DOC%20-%2093032-01-001%20-%20IRIX%20OUTPUTS%20JSSUEL%20REVSION%20%28traced%29.json) (the CAD file: `1993 - 93032 - DOC - 93032-01-001 - IRIX OUTPUTS JSSUEL REVSION (traced).dxf`).
+Every curve, box, word and wire group: [1993 - 93032 - DOC - 93032-01-001 - IRIX OUTPUTS JSSUEL REVSION (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.930032-CTS/1993%20-%2093032%20-%20DOC%20-%2093032-01-001%20-%20IRIX%20OUTPUTS%20JSSUEL%20REVSION%20%28traced%29.json) (the CAD file: `1993 - 93032 - DOC - 93032-01-001 - IRIX OUTPUTS JSSUEL REVSION (traced).dxf`).
 
 ## Full text
 

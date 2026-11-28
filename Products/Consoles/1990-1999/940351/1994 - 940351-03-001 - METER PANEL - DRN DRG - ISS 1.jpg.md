@@ -31,7 +31,7 @@ Wiki page: [Job-940351](../../../../PAGES/Job-940351.md)
 - **Words (OCR):** 43 in 37 lines: 3 3 · REC D · 0.310 · 0650 · 1058 · INSIRT FRouTHIS_ · 140_12 · PIcH · 4175 · 2.062 · 3,S0 · 1.875
 - **Title block:** (681, 11)–(858, 79) mm: EVSIdy · WBS · WARD-BECK   SYSTEMS · METER PANEL · ScALE DISC No: · 940351-03-001
 
-Every curve, box, word and wire group: [1994 - 940351-03-001 - METER PANEL - DRN DRG - ISS 1 (traced).json](1994%20-%20940351-03-001%20-%20METER%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940351-03-001 - METER PANEL - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940351-03-001 - METER PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940351-Telemedia-Network-Radio/940351/1994%20-%20940351-03-001%20-%20METER%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940351-03-001 - METER PANEL - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

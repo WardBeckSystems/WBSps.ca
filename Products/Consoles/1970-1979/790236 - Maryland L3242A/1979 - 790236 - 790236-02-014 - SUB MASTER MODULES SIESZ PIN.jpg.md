@@ -21,7 +21,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Words (OCR):** 168 in 111 lines: M47CA iNPUT MODULE? · chi-Chiz Pin] · P2-2i 4/6 AwG · RD · 92.5 · KNG · Pe - /9 · FNG Vi · M4toa iNput VobULES · Chi3-Chig 90 ; Ce-?1 · Ane 50 · Fz-?C
 - **Wiring (first pass):** 76 connected wire groups from 313 runs; labelled ends: 342 mm → LL; 328 mm → TBI2; 265 mm → LL; 232 mm → M473A SUBMASTER MODULE S; 42 mm → M479
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-02-014 - SUB MASTER MODULES SIESZ PIN (traced).json](1979%20-%20790236%20-%20790236-02-014%20-%20SUB%20MASTER%20MODULES%20SIESZ%20PIN%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-014 - SUB MASTER MODULES SIESZ PIN (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-02-014 - SUB MASTER MODULES SIESZ PIN (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-02-014%20-%20SUB%20MASTER%20MODULES%20SIESZ%20PIN%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-014 - SUB MASTER MODULES SIESZ PIN (traced).dxf`).
 
 ## Full text
 

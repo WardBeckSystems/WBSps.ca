@@ -24,7 +24,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 37 in 32 lines: 14 · 14240 · +Z0v0 · 145240 · +Z0v0 · 14-198 · CONROLLBR · BACKPLNNE · CONIROLLER · BACKPLNE · 13 · 12
 - **Title block:** (251, 12)–(422, 79) mm: SSUE · REVISION · APP · WBS · WARD-BECK SYSTEMS · CONTROL · DRN; · WKW · INPUT BUFFER · ENG_ WKW · CKD · SYSTEM REAR · LAYOUT · APP_ · SCALE DISC NO: SYSO1 · ISSUE · 950271-04-003 · CODE: 95271L03
 
-Every curve, box, word and wire group: [1995 - 950271 - DOC - 950271-04-003 - CONTROLLBR BACXPLANE (traced).json](1995%20-%20950271%20-%20DOC%20-%20950271-04-003%20-%20CONTROLLBR%20BACXPLANE%20%28traced%29.json) (the CAD file: `1995 - 950271 - DOC - 950271-04-003 - CONTROLLBR BACXPLANE (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 950271 - DOC - 950271-04-003 - CONTROLLBR BACXPLANE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.950271/1995%20-%20950271%20-%20DOC%20-%20950271-04-003%20-%20CONTROLLBR%20BACXPLANE%20%28traced%29.json) (the CAD file: `1995 - 950271 - DOC - 950271-04-003 - CONTROLLBR BACXPLANE (traced).dxf`).
 
 ## Full text
 

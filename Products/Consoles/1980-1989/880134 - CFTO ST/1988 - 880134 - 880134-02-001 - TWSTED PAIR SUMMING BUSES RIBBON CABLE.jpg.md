@@ -22,7 +22,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Words (OCR):** 127 in 119 lines: MONO INPUT · BACKPLANE ( " `  TIONS · CHANNELS · CONNECTIONS · 1,2 · S1-L · P1 · '20 · 51,52 · S1-R · 2,21 · 53
 - **Wiring (first pass):** 201 connected wire groups from 704 runs; labelled ends: 2709 mm → '20, 2,21, 3,22, 4,23; 53 mm → 1,2; 40 mm → 1,2, INSERT; 39 mm → OUT, 1,2; 38 mm → OdBm
 
-Every curve, box, word and wire group: [1988 - 880134 - 880134-02-001 - TWSTED PAIR SUMMING BUSES RIBBON CABLE (traced).json](1988%20-%20880134%20-%20880134-02-001%20-%20TWSTED%20PAIR%20SUMMING%20BUSES%20RIBBON%20CABLE%20%28traced%29.json) (the CAD file: `1988 - 880134 - 880134-02-001 - TWSTED PAIR SUMMING BUSES RIBBON CABLE (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 880134-02-001 - TWSTED PAIR SUMMING BUSES RIBBON CABLE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%20880134-02-001%20-%20TWSTED%20PAIR%20SUMMING%20BUSES%20RIBBON%20CABLE%20%28traced%29.json) (the CAD file: `1988 - 880134 - 880134-02-001 - TWSTED PAIR SUMMING BUSES RIBBON CABLE (traced).dxf`).
 
 ## Full text
 

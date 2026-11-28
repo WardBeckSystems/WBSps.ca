@@ -26,7 +26,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Title block:** (6, 7)–(280, 59) mm: DSS MOD ICKD: · USED ON · MATL . · WBS WAAD-BECK systeMs LTD- · DRN: Srh · L3242A CoNSOLE · FIMISH · [DATE AUg 79 · CKD · Rc · Bx | LINE SELECTORS $ ANOLUAR { EqUIPMENT · SCALE · scheMaTIC · TCLS · 79
 - **Wiring (first pass):** 18 connected wire groups from 180 runs; labelled ends: 126 mm → [5,16, 20, CoM, t2Sv; 23 mm → [5,16; 10 mm → Bx | LINE SELECTORS $ ANOLUAR { EqUIPMENT, ISS_; 8 mm → E8; 6 mm → CoM
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-02-005 - CONSOLE WIRED FOR TWO UNITS SSMODICKD USED (traced).json](1979%20-%20790236%20-%20790236-02-005%20-%20CONSOLE%20WIRED%20FOR%20TWO%20UNITS%20SSMODICKD%20USED%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-005 - CONSOLE WIRED FOR TWO UNITS SSMODICKD USED (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-02-005 - CONSOLE WIRED FOR TWO UNITS SSMODICKD USED (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-02-005%20-%20CONSOLE%20WIRED%20FOR%20TWO%20UNITS%20SSMODICKD%20USED%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-005 - CONSOLE WIRED FOR TWO UNITS SSMODICKD USED (traced).dxf`).
 
 ## Full text
 

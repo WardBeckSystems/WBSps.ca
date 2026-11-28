@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 70 in 55 lines: 2.595 · 2.030 · 090 · 420 · 035 · 060 · 06o · 035 · noo · 4oo · 465 · 340
 - **Title block:** (139, 17)–(375, 69) mm: PA 075262 · Iss MOD   CKD: · USED ON · MATL · Rc Remove Fifish rote" ALum ALLoy · WBS WAAD-BECK · 6063-Ts · DRM AF · DATE 12 ACQil 77 · Extrusion · FINISH · MoDule Suppolt · CKD RAJ · SCALE · Less Tri
 
-Every curve, box, word and wire group: [1973 - 73030 - DOC - 73030-03-001 - EXTRUSION FIMISH MODULE SUPPOLV (traced).json](1973%20-%2073030%20-%20DOC%20-%2073030-03-001%20-%20EXTRUSION%20FIMISH%20MODULE%20SUPPOLV%20%28traced%29.json) (the CAD file: `1973 - 73030 - DOC - 73030-03-001 - EXTRUSION FIMISH MODULE SUPPOLV (traced).dxf`).
+Every curve, box, word and wire group: [1973 - 73030 - DOC - 73030-03-001 - EXTRUSION FIMISH MODULE SUPPOLV (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.730030/1973%20-%2073030%20-%20DOC%20-%2073030-03-001%20-%20EXTRUSION%20FIMISH%20MODULE%20SUPPOLV%20%28traced%29.json) (the CAD file: `1973 - 73030 - DOC - 73030-03-001 - EXTRUSION FIMISH MODULE SUPPOLV (traced).dxf`).
 
 ## Full text
 

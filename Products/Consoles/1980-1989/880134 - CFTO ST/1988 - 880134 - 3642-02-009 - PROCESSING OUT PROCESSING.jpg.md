@@ -21,7 +21,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Words (OCR):** 29 in 24 lines: 620 · 620 · 15.16 PROCESSING · OUT · 15.16 PROCESSING · MODULE · MODULE · 1213 · (GR METER) · 12.13 · 512 · 620
 - **Wiring (first pass):** 125 connected wire groups from 483 runs; labelled ends: 2020 mm → 15.16; 1028 mm → 512, T12, 15.16; 8 mm → 620; 7 mm → 620; 7 mm → 512, 620
 
-Every curve, box, word and wire group: [1988 - 880134 - 3642-02-009 - PROCESSING OUT PROCESSING (traced).json](1988%20-%20880134%20-%203642-02-009%20-%20PROCESSING%20OUT%20PROCESSING%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-009 - PROCESSING OUT PROCESSING (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 3642-02-009 - PROCESSING OUT PROCESSING (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-009%20-%20PROCESSING%20OUT%20PROCESSING%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-009 - PROCESSING OUT PROCESSING (traced).dxf`).
 
 ## Full text
 

@@ -20,7 +20,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Closed boxes:** 37
 - **Dots (junctions):** 2
 
-Every curve, box, word and wire group: [1976 - 76045 - 463-04-008 - SUB MASTER MODULE ASSEMBLY (2) (traced).json](1976%20-%2076045%20-%20463-04-008%20-%20SUB%20MASTER%20MODULE%20ASSEMBLY%20%282%29%20%28traced%29.json) (the CAD file: `1976 - 76045 - 463-04-008 - SUB MASTER MODULE ASSEMBLY (2) (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76045 - 463-04-008 - SUB MASTER MODULE ASSEMBLY (2) (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1976%20-%2076045%20-%20463-04-008%20-%20SUB%20MASTER%20MODULE%20ASSEMBLY%20%282%29%20%28traced%29.json) (the CAD file: `1976 - 76045 - 463-04-008 - SUB MASTER MODULE ASSEMBLY (2) (traced).dxf`).
 
 ## Full text
 

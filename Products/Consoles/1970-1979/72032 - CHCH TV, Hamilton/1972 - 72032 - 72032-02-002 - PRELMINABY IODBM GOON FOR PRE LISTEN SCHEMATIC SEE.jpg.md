@@ -23,7 +23,7 @@ Wiki page: [Job-72032](../../../../PAGES/Job-72032.md)
 - **Title block:** (350, 4)–(387, 27) mm: WBS · ESCALE
 - **Wiring (first pass):** 181 connected wire groups from 1,231 runs, 1 dotted junctions; labelled ends: 510 mm → M4ti, I502; 359 mm → M4ti, PRE; 310 mm → S6zo; 217 mm → S6zo; 110 mm → Sh0WVN, 8055
 
-Every curve, box, word and wire group: [1972 - 72032 - 72032-02-002 - PRELMINABY IODBM GOON FOR PRE LISTEN SCHEMATIC SEE (traced).json](1972%20-%2072032%20-%2072032-02-002%20-%20PRELMINABY%20IODBM%20GOON%20FOR%20PRE%20LISTEN%20SCHEMATIC%20SEE%20%28traced%29.json) (the CAD file: `1972 - 72032 - 72032-02-002 - PRELMINABY IODBM GOON FOR PRE LISTEN SCHEMATIC SEE (traced).dxf`).
+Every curve, box, word and wire group: [1972 - 72032 - 72032-02-002 - PRELMINABY IODBM GOON FOR PRE LISTEN SCHEMATIC SEE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.720032-CHCH-TV-Hamilton/72032%20-%20CHCH%20TV,%20Hamilton/1972%20-%2072032%20-%2072032-02-002%20-%20PRELMINABY%20IODBM%20GOON%20FOR%20PRE%20LISTEN%20SCHEMATIC%20SEE%20%28traced%29.json) (the CAD file: `1972 - 72032 - 72032-02-002 - PRELMINABY IODBM GOON FOR PRE LISTEN SCHEMATIC SEE (traced).dxf`).
 
 ## Full text
 

@@ -32,7 +32,7 @@ Wiki page: [Job-940117](../../../../PAGES/Job-940117.md)
 - **Words (OCR):** 33 in 29 lines: REOCCORDINGLY · DETA · 5.020 · CETAL · Zti0 · DETAI · J60D · DATUM · D-Jon · 0Jou · MATERIAL: CR.S: 0.059 · THICK
 - **Title block:** (684, 46)–(853, 79) mm: WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1994 - 940117-03-001 - MK SERIES CONNECTOR PANEL - DRN DRG - ISS 1 (traced).json](1994%20-%20940117-03-001%20-%20MK%20SERIES%20CONNECTOR%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940117-03-001 - MK SERIES CONNECTOR PANEL - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940117-03-001 - MK SERIES CONNECTOR PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940117/1994%20-%20940117-03-001%20-%20MK%20SERIES%20CONNECTOR%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940117-03-001 - MK SERIES CONNECTOR PANEL - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 42 in 35 lines: INSFRT · Dupew Mill DCBD DEEP PLACES · D-J00 · 0 630 · 0TJo · 2 Coc · REO D · PUNCH · REOTD · PUNCH · 0,575 · 0,579
 - **Title block:** (349, 26)–(432, 43) mm: WARD-BECK SYSTEMS · WBS
 
-Every curve, box, word and wire group: [1995 - 950069 - DOC - 950069-03-005 - NQIES REMOVE ALL BURRS AND SHARP EDGES TOL (traced).json](1995%20-%20950069%20-%20DOC%20-%20950069-03-005%20-%20NQIES%20REMOVE%20ALL%20BURRS%20AND%20SHARP%20EDGES%20TOL%20%28traced%29.json) (the CAD file: `1995 - 950069 - DOC - 950069-03-005 - NQIES REMOVE ALL BURRS AND SHARP EDGES TOL (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 950069 - DOC - 950069-03-005 - NQIES REMOVE ALL BURRS AND SHARP EDGES TOL (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.950069-CBc-Toronto-Machine-and-Logo-Control-Panel/950069%20-%20CBc%20Toronto%20Machine%20and%20Logo%20Control%20Panel/1995%20-%20950069%20-%20DOC%20-%20950069-03-005%20-%20NQIES%20REMOVE%20ALL%20BURRS%20AND%20SHARP%20EDGES%20TOL%20%28traced%29.json) (the CAD file: `1995 - 950069 - DOC - 950069-03-005 - NQIES REMOVE ALL BURRS AND SHARP EDGES TOL (traced).dxf`).
 
 ## Full text
 

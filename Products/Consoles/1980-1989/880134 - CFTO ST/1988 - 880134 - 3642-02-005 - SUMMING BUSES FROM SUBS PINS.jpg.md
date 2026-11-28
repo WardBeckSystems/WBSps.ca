@@ -20,7 +20,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Words (OCR):** 78 in 66 lines: SUMMING · BUSES FROM SUBS · AUX · & 25,26 · PINS 23,24 · AUX INSERT · P2 · dBm · 9,K · LEFT · U19 · W1g
 - **Wiring (first pass):** 31 connected wire groups from 191 runs; labelled ends: 1466 mm → U20, U21, PINS, PIN-21; 64 mm → U19; 63 mm → U23; 62 mm → U2; 34 mm → U20
 
-Every curve, box, word and wire group: [1988 - 880134 - 3642-02-005 - SUMMING BUSES FROM SUBS PINS (traced).json](1988%20-%20880134%20-%203642-02-005%20-%20SUMMING%20BUSES%20FROM%20SUBS%20PINS%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-005 - SUMMING BUSES FROM SUBS PINS (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 3642-02-005 - SUMMING BUSES FROM SUBS PINS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-005%20-%20SUMMING%20BUSES%20FROM%20SUBS%20PINS%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-005 - SUMMING BUSES FROM SUBS PINS (traced).dxf`).
 
 ## Full text
 

@@ -31,7 +31,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (336, 4)–(425, 43) mm: ISSUE DATEL · WBS WARD- · BECK SYSTEMS · TORONTO  BROADCAST CENTRE · 48x48  INTERCOM SYSTEM · STUDIO · FUNCTIONAL · SCALE disc No: · 920004-01 001
 - **Wiring (first pass):** 266 connected wire groups from 5,988 runs, 155 dotted junctions; labelled ends: 210 mm → 6920, c Lola; 42 mm → DIRECTOR; 34 mm → WouT  ASSEMBLY; 30 mm → DIRECTOR; 19 mm → c Lola
 
-Every curve, box, word and wire group: [2004 - 920002 - DOC - 920004-01-001 - TORONTO ENG BROADCAST CENTRE (traced).json](2004%20-%20920002%20-%20DOC%20-%20920004-01-001%20-%20TORONTO%20ENG%20BROADCAST%20CENTRE%20%28traced%29.json) (the CAD file: `2004 - 920002 - DOC - 920004-01-001 - TORONTO ENG BROADCAST CENTRE (traced).dxf`).
+Every curve, box, word and wire group: [2004 - 920002 - DOC - 920004-01-001 - TORONTO ENG BROADCAST CENTRE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.920002/2004%20-%20920002%20-%20DOC%20-%20920004-01-001%20-%20TORONTO%20ENG%20BROADCAST%20CENTRE%20%28traced%29.json) (the CAD file: `2004 - 920002 - DOC - 920004-01-001 - TORONTO ENG BROADCAST CENTRE (traced).dxf`).
 
 ## Full text
 

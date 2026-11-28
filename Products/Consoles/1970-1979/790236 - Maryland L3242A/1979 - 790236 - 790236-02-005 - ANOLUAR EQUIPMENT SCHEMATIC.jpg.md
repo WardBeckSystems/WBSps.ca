@@ -21,7 +21,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 25 connected wire groups from 277 runs
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-02-005 - ANOLUAR EQUIPMENT SCHEMATIC (traced).json](1979%20-%20790236%20-%20790236-02-005%20-%20ANOLUAR%20EQUIPMENT%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-005 - ANOLUAR EQUIPMENT SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-02-005 - ANOLUAR EQUIPMENT SCHEMATIC (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-02-005%20-%20ANOLUAR%20EQUIPMENT%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-005 - ANOLUAR EQUIPMENT SCHEMATIC (traced).dxf`).
 
 ## Full text
 

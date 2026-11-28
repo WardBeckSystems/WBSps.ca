@@ -19,7 +19,7 @@ Wiki page: [Consoles](../../../../PAGES/Consoles.md)
 - **Words (OCR):** 19 in 16 lines: WBS · Ms384 · ISSUE |DATE · RE VISION · WBS WARD-BECK sybten · DRN FDTE · M538A · ENG. · MeiJ 4x2 MONO SWITCHER MODL · CKD. · E54 ` · FRONT PANEL LAYOUT
 - **Title block:** (22, 2)–(157, 407) mm: WBS · Ms384 · ISSUE |DATE · RE VISION · WBS WARD-BECK sybten · DRN FDTE · M538A · ENG. · MeiJ 4x2 MONO SWITCHER MODL · CKD. · E54 ` · FRONT PANEL LAYOUT · APP · SCALE · 538-04-002
 
-Every curve, box, word and wire group: [1985 - ST - 538-04-002 - MONO SWITCHER MODL (traced).json](1985%20-%20ST%20-%20538-04-002%20-%20MONO%20SWITCHER%20MODL%20%28traced%29.json) (the CAD file: `1985 - ST - 538-04-002 - MONO SWITCHER MODL (traced).dxf`).
+Every curve, box, word and wire group: [1985 - ST - 538-04-002 - MONO SWITCHER MODL (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.WBS-St-Series-Stereo-Console/1985%20-%20ST%20-%20538-04-002%20-%20MONO%20SWITCHER%20MODL%20%28traced%29.json) (the CAD file: `1985 - ST - 538-04-002 - MONO SWITCHER MODL (traced).dxf`).
 
 ## Full text
 

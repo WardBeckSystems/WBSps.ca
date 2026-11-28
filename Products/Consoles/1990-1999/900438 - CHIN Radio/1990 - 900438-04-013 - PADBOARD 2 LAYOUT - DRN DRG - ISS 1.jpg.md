@@ -30,7 +30,7 @@ Wiki page: [Job-900438](../../../../PAGES/Job-900438.md)
 - **Closed boxes:** 47
 - **Dots (junctions):** 14
 
-Every curve, box, word and wire group: [1990 - 900438-04-013 - PADBOARD 2 LAYOUT - DRN DRG - ISS 1 (traced).json](1990%20-%20900438-04-013%20-%20PADBOARD%202%20LAYOUT%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1990 - 900438-04-013 - PADBOARD 2 LAYOUT - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1990 - 900438-04-013 - PADBOARD 2 LAYOUT - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.900438-CHIN-Radio/1990%20-%20900438-04-013%20-%20PADBOARD%202%20LAYOUT%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1990 - 900438-04-013 - PADBOARD 2 LAYOUT - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

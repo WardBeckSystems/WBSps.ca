@@ -35,7 +35,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Title block:** (157, 6)–(310, 74) mm: Nov AdditionaL WP 2P APEP · 38 · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN ERh · ENG sRti · EFFECTS SWITCHER · CKD Cc · SCHEMATIC · APP · SCALE · ISSUE · LB · 730232-02-306
 - **Wiring (first pass):** 66 connected wire groups from 467 runs; labelled ends: 141 mm → 0"2, Qws, '1l2; 75 mm → '1l2; 60 mm → Ch (, Ch2; 50 mm → 135,0, JodB~; 37 mm → -IOAB, Tb6, 127128
 
-Every curve, box, word and wire group: [1979 - 790236-02-006 - EFFECTS SWITCHER SCHEMATIC - DRN SRH - ENG SRH - ISS 2 (3) (traced).json](1979%20-%20790236-02-006%20-%20EFFECTS%20SWITCHER%20SCHEMATIC%20-%20DRN%20SRH%20-%20ENG%20SRH%20-%20ISS%202%20%283%29%20%28traced%29.json) (the CAD file: `1979 - 790236-02-006 - EFFECTS SWITCHER SCHEMATIC - DRN SRH - ENG SRH - ISS 2 (3) (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236-02-006 - EFFECTS SWITCHER SCHEMATIC - DRN SRH - ENG SRH - ISS 2 (3) (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236-02-006%20-%20EFFECTS%20SWITCHER%20SCHEMATIC%20-%20DRN%20SRH%20-%20ENG%20SRH%20-%20ISS%202%20%283%29%20%28traced%29.json) (the CAD file: `1979 - 790236-02-006 - EFFECTS SWITCHER SCHEMATIC - DRN SRH - ENG SRH - ISS 2 (3) (traced).dxf`).
 
 ## Full text
 

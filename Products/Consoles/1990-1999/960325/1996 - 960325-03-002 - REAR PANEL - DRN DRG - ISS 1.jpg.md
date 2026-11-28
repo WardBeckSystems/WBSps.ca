@@ -33,7 +33,7 @@ Rear panel drawing with title block at bottom right.
 - **Words (OCR):** 47 in 41 lines: 9,070 · Pitches · 4.872 · 0.540 · 4195 · REC'D · 5.700 · 4500 · 1.B270 · O.6c0 · 5200 · Cluticy
 - **Title block:** (676, 18)–(854, 83) mm: WBS · WARD-BECK   SYSTEMS · REAR PANEL · SCALE DISC NO; Stsol · 960325 03-002 · 96125002
 
-Every curve, box, word and wire group: [1996 - 960325-03-002 - REAR PANEL - DRN DRG - ISS 1 (traced).json](1996%20-%20960325-03-002%20-%20REAR%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1996 - 960325-03-002 - REAR PANEL - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1996 - 960325-03-002 - REAR PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.960325-CBC-EHQ-CUSTOM-IFB-MATRIX-SYSTEM/960325/1996%20-%20960325-03-002%20-%20REAR%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1996 - 960325-03-002 - REAR PANEL - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 28 in 23 lines: 3 3 · 0,650 · J500 0,203 CA · 9.712 · MATERIAL: ALUM ALLOY 0.080 THICK · Rod · 1218 4 · 42532 · FINISH: SAND 120 · TEXTURED  BEIGE (452C) · GRiT AND PAINT · TEXCOTE VINM
 - **Title block:** (344, 22)–(428, 39) mm: WBS · WARD-BECK SYSTEMS · M907
 
-Every curve, box, word and wire group: [1994 - 940350 - DOC - 940350-03-001 - INSERT FROV OTHER SIDE (traced).json](1994%20-%20940350%20-%20DOC%20-%20940350-03-001%20-%20INSERT%20FROV%20OTHER%20SIDE%20%28traced%29.json) (the CAD file: `1994 - 940350 - DOC - 940350-03-001 - INSERT FROV OTHER SIDE (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940350 - DOC - 940350-03-001 - INSERT FROV OTHER SIDE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940350/1994%20-%20940350%20-%20DOC%20-%20940350-03-001%20-%20INSERT%20FROV%20OTHER%20SIDE%20%28traced%29.json) (the CAD file: `1994 - 940350 - DOC - 940350-03-001 - INSERT FROV OTHER SIDE (traced).dxf`).
 
 ## Full text
 

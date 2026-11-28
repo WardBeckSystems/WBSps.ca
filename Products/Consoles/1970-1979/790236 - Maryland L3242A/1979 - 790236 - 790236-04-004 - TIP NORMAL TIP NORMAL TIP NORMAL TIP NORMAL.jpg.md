@@ -20,7 +20,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Dots (junctions):** 4
 - **Words (OCR):** 33 in 33 lines: 22 · 20 · Tip · 9986 · T 39 · NORMAL · 45441 · 129 '30030) · 442(43) · Tip · Tbio · 912809 2
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-04-004 - TIP NORMAL TIP NORMAL TIP NORMAL TIP NORMAL (traced).json](1979%20-%20790236%20-%20790236-04-004%20-%20TIP%20NORMAL%20TIP%20NORMAL%20TIP%20NORMAL%20TIP%20NORMAL%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-04-004 - TIP NORMAL TIP NORMAL TIP NORMAL TIP NORMAL (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-04-004 - TIP NORMAL TIP NORMAL TIP NORMAL TIP NORMAL (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-04-004%20-%20TIP%20NORMAL%20TIP%20NORMAL%20TIP%20NORMAL%20TIP%20NORMAL%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-04-004 - TIP NORMAL TIP NORMAL TIP NORMAL TIP NORMAL (traced).dxf`).
 
 ## Full text
 

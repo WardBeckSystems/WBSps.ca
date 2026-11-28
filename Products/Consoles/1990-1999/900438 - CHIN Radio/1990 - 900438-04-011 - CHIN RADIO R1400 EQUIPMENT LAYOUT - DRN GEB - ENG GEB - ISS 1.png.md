@@ -30,7 +30,7 @@ Wiki page: [Job-900438](../../../../PAGES/Job-900438.md)
 - **Outlines:** line 389 rings, 4,512 straight (13,053 mm) / 642 curved (989 mm); text 231 rings, 1,389 straight (1,657 mm) / 460 curved (655 mm)
 - **Closed boxes:** 34
 
-Every curve, box, word and wire group: [1990 - 900438-04-011 - CHIN RADIO R1400 EQUIPMENT LAYOUT - DRN GEB - ENG GEB - ISS 1 (traced).json](1990%20-%20900438-04-011%20-%20CHIN%20RADIO%20R1400%20EQUIPMENT%20LAYOUT%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1990 - 900438-04-011 - CHIN RADIO R1400 EQUIPMENT LAYOUT - DRN GEB - ENG GEB - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1990 - 900438-04-011 - CHIN RADIO R1400 EQUIPMENT LAYOUT - DRN GEB - ENG GEB - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.900438-CHIN-Radio/1990%20-%20900438-04-011%20-%20CHIN%20RADIO%20R1400%20EQUIPMENT%20LAYOUT%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1990 - 900438-04-011 - CHIN RADIO R1400 EQUIPMENT LAYOUT - DRN GEB - ENG GEB - ISS 1 (traced).dxf`).
 
 ## Full text
 

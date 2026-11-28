@@ -22,7 +22,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Words (OCR):** 53 in 49 lines: BACKPLANE  CONNECTIONS · PART Of · TMSTED · SA91-025 · TWSTED · RibBON CABLE · RIBBON CAB · 7B- · LINE · LINE · INPUTS · -15/+15
 - **Wiring (first pass):** 83 connected wire groups from 357 runs; labelled ends: 478 mm → +25v, 25v, 20, 22; 208 mm → CONN, 9,10, 12,13; 62 mm → RibBON CABLE; 38 mm → BACKPLANE  CONNECTIONS; 30 mm → R2
 
-Every curve, box, word and wire group: [1988 - 880134 - 880134-02-002 - INSERT TWSTED OABM RIBBON CAE PART (traced).json](1988%20-%20880134%20-%20880134-02-002%20-%20INSERT%20TWSTED%20OABM%20RIBBON%20CAE%20PART%20%28traced%29.json) (the CAD file: `1988 - 880134 - 880134-02-002 - INSERT TWSTED OABM RIBBON CAE PART (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 880134-02-002 - INSERT TWSTED OABM RIBBON CAE PART (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%20880134-02-002%20-%20INSERT%20TWSTED%20OABM%20RIBBON%20CAE%20PART%20%28traced%29.json) (the CAD file: `1988 - 880134 - 880134-02-002 - INSERT TWSTED OABM RIBBON CAE PART (traced).dxf`).
 
 ## Full text
 

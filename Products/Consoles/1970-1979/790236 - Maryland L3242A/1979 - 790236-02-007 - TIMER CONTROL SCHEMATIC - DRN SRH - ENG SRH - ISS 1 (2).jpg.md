@@ -34,7 +34,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Title block:** (292, 8)–(432, 76) mm: ISSUE DATE · REVISION · WBS WARD-BECK SYSTEMS · DRN Srh · ENG_ Srt · TIMER CONTROL SCHEMATiC · CKD; · APP · SCALE · ISSUE · 790236-02 007
 - **Wiring (first pass):** 34 connected wire groups from 275 runs; labelled ends: 115 mm → Mom, MoM, MOM, BR; 27 mm → E8E370, RIGLJAL, TimER; 21 mm → MOMENTARY; 14 mm → Reset, Mom; 12 mm → Stop, MoM
 
-Every curve, box, word and wire group: [1979 - 790236-02-007 - TIMER CONTROL SCHEMATIC - DRN SRH - ENG SRH - ISS 1 (2) (traced).json](1979%20-%20790236-02-007%20-%20TIMER%20CONTROL%20SCHEMATIC%20-%20DRN%20SRH%20-%20ENG%20SRH%20-%20ISS%201%20%282%29%20%28traced%29.json) (the CAD file: `1979 - 790236-02-007 - TIMER CONTROL SCHEMATIC - DRN SRH - ENG SRH - ISS 1 (2) (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236-02-007 - TIMER CONTROL SCHEMATIC - DRN SRH - ENG SRH - ISS 1 (2) (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236-02-007%20-%20TIMER%20CONTROL%20SCHEMATIC%20-%20DRN%20SRH%20-%20ENG%20SRH%20-%20ISS%201%20%282%29%20%28traced%29.json) (the CAD file: `1979 - 790236-02-007 - TIMER CONTROL SCHEMATIC - DRN SRH - ENG SRH - ISS 1 (2) (traced).dxf`).
 
 ## Full text
 

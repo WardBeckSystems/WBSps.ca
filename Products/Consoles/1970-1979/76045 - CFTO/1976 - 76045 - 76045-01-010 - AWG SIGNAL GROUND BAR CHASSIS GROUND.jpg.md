@@ -21,7 +21,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Words (OCR):** 204 in 125 lines: M461M · NPUT · MODULES 1-4 · PIN 21 · 16 Ga RED · 20 · 22 Ga Blk (SEPARATE RUNS) · 19 · 16 Ga Vio · M46M · INPUT MoDULES · 5-8 PIN 21
 - **Wiring (first pass):** 94 connected wire groups from 422 runs; labelled ends: 140 mm → control; 115 mm → M4; 104 mm → GrOUND, BAR, CHASSIS; 42 mm → #6Awg, SIGNAL; 40 mm → SIGNAL, GROUND
 
-Every curve, box, word and wire group: [1976 - 76045 - 76045-01-010 - AWG SIGNAL GROUND BAR CHASSIS GROUND (traced).json](1976%20-%2076045%20-%2076045-01-010%20-%20AWG%20SIGNAL%20GROUND%20BAR%20CHASSIS%20GROUND%20%28traced%29.json) (the CAD file: `1976 - 76045 - 76045-01-010 - AWG SIGNAL GROUND BAR CHASSIS GROUND (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76045 - 76045-01-010 - AWG SIGNAL GROUND BAR CHASSIS GROUND (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1976%20-%2076045%20-%2076045-01-010%20-%20AWG%20SIGNAL%20GROUND%20BAR%20CHASSIS%20GROUND%20%28traced%29.json) (the CAD file: `1976 - 76045 - 76045-01-010 - AWG SIGNAL GROUND BAR CHASSIS GROUND (traced).dxf`).
 
 ## Full text
 

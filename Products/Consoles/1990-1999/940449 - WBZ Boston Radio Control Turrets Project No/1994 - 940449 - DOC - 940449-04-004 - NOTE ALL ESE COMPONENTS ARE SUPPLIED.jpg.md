@@ -23,7 +23,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 12 in 11 lines: TIMER · CLOCK · TIMER · UP {Dow · SUPPLILD · WBS · WARD-BECK SYSTEMS · WBZ · CONTROL ROOM TURRET · AYOUT · 940449- 04-004
 - **Title block:** (345, 23)–(429, 40) mm: WBS · WARD-BECK SYSTEMS · WBZ
 
-Every curve, box, word and wire group: [1994 - 940449 - DOC - 940449-04-004 - NOTE ALL ESE COMPONENTS ARE SUPPLIED (traced).json](1994%20-%20940449%20-%20DOC%20-%20940449-04-004%20-%20NOTE%20ALL%20ESE%20COMPONENTS%20ARE%20SUPPLIED%20%28traced%29.json) (the CAD file: `1994 - 940449 - DOC - 940449-04-004 - NOTE ALL ESE COMPONENTS ARE SUPPLIED (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940449 - DOC - 940449-04-004 - NOTE ALL ESE COMPONENTS ARE SUPPLIED (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940449-WBZ-Boston-Radio-Control-Turrets-Project-No/940449%20-%20WBZ%20Boston%20Radio%20Control%20Turrets%20Project%20No/1994%20-%20940449%20-%20DOC%20-%20940449-04-004%20-%20NOTE%20ALL%20ESE%20COMPONENTS%20ARE%20SUPPLIED%20%28traced%29.json) (the CAD file: `1994 - 940449 - DOC - 940449-04-004 - NOTE ALL ESE COMPONENTS ARE SUPPLIED (traced).dxf`).
 
 ## Full text
 

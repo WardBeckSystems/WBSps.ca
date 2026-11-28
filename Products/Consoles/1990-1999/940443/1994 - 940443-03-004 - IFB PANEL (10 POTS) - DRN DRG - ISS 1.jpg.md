@@ -32,7 +32,7 @@ Wiki page: [Job-940443](../../../../PAGES/Job-940443.md)
 - **Words (OCR):** 53 in 51 lines: 47.40 · 16710 · PITCHES · J5.10 · 1.0C0 · 0.200 · 0,080 OTPLERCES · SIDE · 0 2o0 · 440 · 0.492 · 1810 1n
 - **Title block:** (688, 46)–(857, 79) mm: WBS · WARD-BECK   SYSTEMS
 
-Every curve, box, word and wire group: [1994 - 940443-03-004 - IFB PANEL (10 POTS) - DRN DRG - ISS 1 (traced).json](1994%20-%20940443-03-004%20-%20IFB%20PANEL%20%2810%20POTS%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940443-03-004 - IFB PANEL (10 POTS) - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940443-03-004 - IFB PANEL (10 POTS) - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.940443/1994%20-%20940443-03-004%20-%20IFB%20PANEL%20%2810%20POTS%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940443-03-004 - IFB PANEL (10 POTS) - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

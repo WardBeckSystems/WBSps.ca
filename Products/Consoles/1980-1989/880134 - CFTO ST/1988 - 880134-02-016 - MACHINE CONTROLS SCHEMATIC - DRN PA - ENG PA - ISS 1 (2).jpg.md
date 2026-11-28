@@ -32,7 +32,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Closed boxes:** 15
 - **Wiring (first pass):** 32 connected wire groups from 251 runs
 
-Every curve, box, word and wire group: [1988 - 880134-02-016 - MACHINE CONTROLS SCHEMATIC - DRN PA - ENG PA - ISS 1 (2) (traced).json](1988%20-%20880134-02-016%20-%20MACHINE%20CONTROLS%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%201%20%282%29%20%28traced%29.json) (the CAD file: `1988 - 880134-02-016 - MACHINE CONTROLS SCHEMATIC - DRN PA - ENG PA - ISS 1 (2) (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134-02-016 - MACHINE CONTROLS SCHEMATIC - DRN PA - ENG PA - ISS 1 (2) (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134-02-016%20-%20MACHINE%20CONTROLS%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%201%20%282%29%20%28traced%29.json) (the CAD file: `1988 - 880134-02-016 - MACHINE CONTROLS SCHEMATIC - DRN PA - ENG PA - ISS 1 (2) (traced).dxf`).
 
 ## Full text
 

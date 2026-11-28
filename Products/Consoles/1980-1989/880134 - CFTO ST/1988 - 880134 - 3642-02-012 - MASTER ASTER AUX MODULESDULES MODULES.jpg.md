@@ -23,7 +23,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Title block:** (341, 4)–(429, 38) mm: WBS · WARD-BECK SYSTEMS · CONTROLLER · SCHEMATIC · SCALE DISC NC; · 3642-02-012
 - **Wiring (first pass):** 103 connected wire groups from 1,507 runs; labelled ends: 1130 mm → 77777777; 50 mm → WBS, Reora, WARD-BECK SYSTEMS; 43 mm → 77777777; 35 mm → 77777777; 16 mm → 77777777
 
-Every curve, box, word and wire group: [1988 - 880134 - 3642-02-012 - MASTER ASTER AUX MODULESDULES MODULES (traced).json](1988%20-%20880134%20-%203642-02-012%20-%20MASTER%20ASTER%20AUX%20MODULESDULES%20MODULES%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-012 - MASTER ASTER AUX MODULESDULES MODULES (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 3642-02-012 - MASTER ASTER AUX MODULESDULES MODULES (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-012%20-%20MASTER%20ASTER%20AUX%20MODULESDULES%20MODULES%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-012 - MASTER ASTER AUX MODULESDULES MODULES (traced).dxf`).
 
 ## Full text
 

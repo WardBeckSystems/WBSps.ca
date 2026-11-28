@@ -21,7 +21,7 @@ Wiki page: [Job-880651](../../../../PAGES/Job-880651.md)
 - **Words (OCR):** 56 in 42 lines: +25v LED · FLV 110 · 1/2 · 1k2 · 1/2 · CONTROL · COMMON · dBm · TRACK PLA YBACK · CH1 LINE INPUT · TRACK PLA YBACK · CH2 LINE INPUT
 - **Wiring (first pass):** 106 connected wire groups from 750 runs; labelled ends: 215 mm → PLA YBACK, INPUT; 208 mm → PLA YBACK, CH2 LINE INPUT; 195 mm → 19,22; 137 mm → CONTROL, COMMON; 134 mm → +25v, LED, FLV 110
 
-Every curve, box, word and wire group: [1988 - 880651 - 880651-02-008 - LINE INPUT TRACK PLA YBACK (traced).json](1988%20-%20880651%20-%20880651-02-008%20-%20LINE%20INPUT%20TRACK%20PLA%20YBACK%20%28traced%29.json) (the CAD file: `1988 - 880651 - 880651-02-008 - LINE INPUT TRACK PLA YBACK (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880651 - 880651-02-008 - LINE INPUT TRACK PLA YBACK (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880651-TVO-M1204B/1988%20-%20880651%20-%20880651-02-008%20-%20LINE%20INPUT%20TRACK%20PLA%20YBACK%20%28traced%29.json) (the CAD file: `1988 - 880651 - 880651-02-008 - LINE INPUT TRACK PLA YBACK (traced).dxf`).
 
 ## Full text
 

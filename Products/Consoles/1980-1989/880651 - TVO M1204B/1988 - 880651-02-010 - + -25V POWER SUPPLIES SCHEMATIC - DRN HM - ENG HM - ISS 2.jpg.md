@@ -33,7 +33,7 @@ Wiki page: [Job-880651](../../../../PAGES/Job-880651.md)
 - **Closed boxes:** 53
 - **Wiring (first pass):** 91 connected wire groups from 779 runs
 
-Every curve, box, word and wire group: [1988 - 880651-02-010 - + -25V POWER SUPPLIES SCHEMATIC - DRN HM - ENG HM - ISS 2 (traced).json](1988%20-%20880651-02-010%20-%20%2B%20-25V%20POWER%20SUPPLIES%20SCHEMATIC%20-%20DRN%20HM%20-%20ENG%20HM%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1988 - 880651-02-010 - + -25V POWER SUPPLIES SCHEMATIC - DRN HM - ENG HM - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880651-02-010 - + -25V POWER SUPPLIES SCHEMATIC - DRN HM - ENG HM - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880651-TVO-M1204B/1988%20-%20880651-02-010%20-%20+%20-25V%20POWER%20SUPPLIES%20SCHEMATIC%20-%20DRN%20HM%20-%20ENG%20HM%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1988 - 880651-02-010 - + -25V POWER SUPPLIES SCHEMATIC - DRN HM - ENG HM - ISS 2 (traced).dxf`).
 
 ## Full text
 

@@ -23,7 +23,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 48 in 43 lines: R1400_RADIQ_CONSQLE · ERONL_VEW · METER PANEL · TB1 · TB2 · TB3 · TB4 · 7.00 in · 10 FT CABLE · TB5 · TB6 · 7.00
 - **Title block:** (264, 25)–(432, 94) mm: REVISION · APP · ISSUE DATE · WBS · WARD-BECK · SYSTEMS · DRN · GEB · CHIN · RADIO R1400 · ENG. · GEB 90 · CKD · EQUIPMENT LAYOUT · APP · SCALE DISC NO: · ISSUE · 371 · 900438-04-011 · CODE: 00438L11
 
-Every curve, box, word and wire group: [1990 - 900438 - DOC - 900438-04-011 - RADIQ CONSOLE ERONT VEW (traced).json](1990%20-%20900438%20-%20DOC%20-%20900438-04-011%20-%20RADIQ%20CONSOLE%20ERONT%20VEW%20%28traced%29.json) (the CAD file: `1990 - 900438 - DOC - 900438-04-011 - RADIQ CONSOLE ERONT VEW (traced).dxf`).
+Every curve, box, word and wire group: [1990 - 900438 - DOC - 900438-04-011 - RADIQ CONSOLE ERONT VEW (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.900438-CHIN-Radio/1990%20-%20900438%20-%20DOC%20-%20900438-04-011%20-%20RADIQ%20CONSOLE%20ERONT%20VEW%20%28traced%29.json) (the CAD file: `1990 - 900438 - DOC - 900438-04-011 - RADIQ CONSOLE ERONT VEW (traced).dxf`).
 
 ## Full text
 

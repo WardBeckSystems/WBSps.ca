@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (340, 5)–(429, 39) mm: WBS · WARD-BECK SYSTEMS · WOWF · R1Ooo RADIO CONSOLE · FUNC TIONAL · SCALE · 920384-01- 001 · COCE; 20384f01
 - **Wiring (first pass):** 139 connected wire groups from 1,129 runs; labelled ends: 1724 mm → PBOGBAM, PROGRA, SIEBEQ IEUL CHWNE : CHL_CHiQ; 220 mm → Movoy, MONO;; 191 mm → SIREQ QUPPUIS, SERT, MoNo, MONO;; 91 mm → PBOGBAM; 64 mm → EXEERNAL_PQKER_SUPPLY
 
-Every curve, box, word and wire group: [1992 - 920384 - DOC - 920384-01-001 - START STOP RESET LINE SELECTOR CUTPUTS (traced).json](1992%20-%20920384%20-%20DOC%20-%20920384-01-001%20-%20START%20STOP%20RESET%20LINE%20SELECTOR%20CUTPUTS%20%28traced%29.json) (the CAD file: `1992 - 920384 - DOC - 920384-01-001 - START STOP RESET LINE SELECTOR CUTPUTS (traced).dxf`).
+Every curve, box, word and wire group: [1992 - 920384 - DOC - 920384-01-001 - START STOP RESET LINE SELECTOR CUTPUTS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.920384/1992%20-%20920384%20-%20DOC%20-%20920384-01-001%20-%20START%20STOP%20RESET%20LINE%20SELECTOR%20CUTPUTS%20%28traced%29.json) (the CAD file: `1992 - 920384 - DOC - 920384-01-001 - START STOP RESET LINE SELECTOR CUTPUTS (traced).dxf`).
 
 ## Full text
 

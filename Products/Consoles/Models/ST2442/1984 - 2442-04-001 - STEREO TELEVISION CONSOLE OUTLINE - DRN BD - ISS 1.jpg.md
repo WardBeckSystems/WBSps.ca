@@ -30,7 +30,7 @@ Wiki page: [ST2442](../../../../PAGES/ST2442.md)
 - **Outlines:** line 1,131 rings, 12,892 straight (25,818 mm) / 2,284 curved (4,878 mm); text 129 rings, 1,409 straight (2,792 mm) / 331 curved (910 mm)
 - **Closed boxes:** 17
 
-Every curve, box, word and wire group: [1984 - 2442-04-001 - STEREO TELEVISION CONSOLE OUTLINE - DRN BD - ISS 1 (traced).json](1984%20-%202442-04-001%20-%20STEREO%20TELEVISION%20CONSOLE%20OUTLINE%20-%20DRN%20BD%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1984 - 2442-04-001 - STEREO TELEVISION CONSOLE OUTLINE - DRN BD - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - 2442-04-001 - STEREO TELEVISION CONSOLE OUTLINE - DRN BD - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.ST2442/1984%20-%202442-04-001%20-%20STEREO%20TELEVISION%20CONSOLE%20OUTLINE%20-%20DRN%20BD%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1984 - 2442-04-001 - STEREO TELEVISION CONSOLE OUTLINE - DRN BD - ISS 1 (traced).dxf`).
 
 ## Full text
 

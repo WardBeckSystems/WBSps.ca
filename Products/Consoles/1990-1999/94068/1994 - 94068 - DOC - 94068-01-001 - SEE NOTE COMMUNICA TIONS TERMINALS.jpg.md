@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (338, 5)–(428, 43) mm: ISSUE · REMSION · WES · WARD-BECK SYSTEMS · DRN: DRG · BBS NORTH BAY · ENG_ · MiniCOM · CKD_ · FUNCTIONAL · APP · SCALE DISC ND: 483 · SSUE · CODE: 94068F01 · 94068-01-001
 - **Wiring (first pass):** 226 connected wire groups from 3,920 runs; labelled ends: 149 mm → COMMUNICA TIONS   TERMINALS; 49 mm → UNIARY PROGRAM_SQUND_INPUIS; 36 mm → CAMERA, CTV MASTER; 23 mm → IFB   OUTPUTS; 18 mm → CTV, [e512
 
-Every curve, box, word and wire group: [1994 - 94068 - DOC - 94068-01-001 - SEE NOTE COMMUNICA TIONS TERMINALS (traced).json](1994%20-%2094068%20-%20DOC%20-%2094068-01-001%20-%20SEE%20NOTE%20COMMUNICA%20TIONS%20TERMINALS%20%28traced%29.json) (the CAD file: `1994 - 94068 - DOC - 94068-01-001 - SEE NOTE COMMUNICA TIONS TERMINALS (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 94068 - DOC - 94068-01-001 - SEE NOTE COMMUNICA TIONS TERMINALS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940068/1994%20-%2094068%20-%20DOC%20-%2094068-01-001%20-%20SEE%20NOTE%20COMMUNICA%20TIONS%20TERMINALS%20%28traced%29.json) (the CAD file: `1994 - 94068 - DOC - 94068-01-001 - SEE NOTE COMMUNICA TIONS TERMINALS (traced).dxf`).
 
 ## Full text
 

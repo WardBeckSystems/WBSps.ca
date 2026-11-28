@@ -20,7 +20,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Closed boxes:** 8
 - **Wiring (first pass):** 20 connected wire groups from 207 runs
 
-Every curve, box, word and wire group: [1988 - 880134 - 2442-01-001 - STEREO TELEVISION CONSOLE (traced).json](1988%20-%20880134%20-%202442-01-001%20-%20STEREO%20TELEVISION%20CONSOLE%20%28traced%29.json) (the CAD file: `1988 - 880134 - 2442-01-001 - STEREO TELEVISION CONSOLE (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 2442-01-001 - STEREO TELEVISION CONSOLE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%202442-01-001%20-%20STEREO%20TELEVISION%20CONSOLE%20%28traced%29.json) (the CAD file: `1988 - 880134 - 2442-01-001 - STEREO TELEVISION CONSOLE (traced).dxf`).
 
 ## Full text
 

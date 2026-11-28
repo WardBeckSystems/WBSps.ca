@@ -20,7 +20,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Closed boxes:** 10
 - **Wiring (first pass):** 40 connected wire groups from 275 runs
 
-Every curve, box, word and wire group: [1988 - 880134 - 3642-02-006 - NOTE LED'S ARE NOT PROVIDED WITH (traced).json](1988%20-%20880134%20-%203642-02-006%20-%20NOTE%20LED%27S%20ARE%20NOT%20PROVIDED%20WITH%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-006 - NOTE LED'S ARE NOT PROVIDED WITH (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 3642-02-006 - NOTE LED'S ARE NOT PROVIDED WITH (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-006%20-%20NOTE%20LED%27S%20ARE%20NOT%20PROVIDED%20WITH%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-006 - NOTE LED'S ARE NOT PROVIDED WITH (traced).dxf`).
 
 ## Full text
 

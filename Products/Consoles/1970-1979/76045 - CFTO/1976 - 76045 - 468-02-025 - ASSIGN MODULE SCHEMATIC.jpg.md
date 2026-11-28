@@ -22,7 +22,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Dots (junctions):** 2
 - **Wiring (first pass):** 66 connected wire groups from 515 runs, 2 dotted junctions
 
-Every curve, box, word and wire group: [1976 - 76045 - 468-02-025 - ASSIGN MODULE SCHEMATIC (traced).json](1976%20-%2076045%20-%20468-02-025%20-%20ASSIGN%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1976 - 76045 - 468-02-025 - ASSIGN MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76045 - 468-02-025 - ASSIGN MODULE SCHEMATIC (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1976%20-%2076045%20-%20468-02-025%20-%20ASSIGN%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1976 - 76045 - 468-02-025 - ASSIGN MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

@@ -31,7 +31,7 @@ Wiki page: [Job-940447](../../../../PAGES/Job-940447.md)
 - **Words (OCR):** 40 in 33 lines: 13 · REC'D · 48 · 0 507 · DETAILIB · PUNCH · 2,062 · 0,985 · 14875 · DETAIL · DETAIL · 1.025
 - **Title block:** (687, 46)–(857, 79) mm: REWSIO" · WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1994 - 940447-03-001 - METER PANEL - DRN DRG - ISS 1 (traced).json](1994%20-%20940447-03-001%20-%20METER%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940447-03-001 - METER PANEL - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940447-03-001 - METER PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940447/1994%20-%20940447-03-001%20-%20METER%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940447-03-001 - METER PANEL - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

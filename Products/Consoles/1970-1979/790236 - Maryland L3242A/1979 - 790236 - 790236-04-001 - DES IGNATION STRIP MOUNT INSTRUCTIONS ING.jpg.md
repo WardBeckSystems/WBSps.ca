@@ -19,7 +19,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Words (OCR):** 91 in 69 lines: LTD. · WAAD-BECK Systems · MCPB_L32424 · MANUAL · LNDEX · 790236-04-001 · Console Outline · 790236-04-002 · Console Layout · Jackfield Row A-H · 790236-04-003 · 790236-04- 004
 - **Title block:** (23, 402)–(132, 427) mm: WAAD-BECK Systems
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-04-001 - DES IGNATION STRIP MOUNT INSTRUCTIONS ING (traced).json](1979%20-%20790236%20-%20790236-04-001%20-%20DES%20IGNATION%20STRIP%20MOUNT%20INSTRUCTIONS%20ING%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-04-001 - DES IGNATION STRIP MOUNT INSTRUCTIONS ING (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-04-001 - DES IGNATION STRIP MOUNT INSTRUCTIONS ING (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-04-001%20-%20DES%20IGNATION%20STRIP%20MOUNT%20INSTRUCTIONS%20ING%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-04-001 - DES IGNATION STRIP MOUNT INSTRUCTIONS ING (traced).dxf`).
 
 ## Full text
 

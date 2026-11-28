@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (338, 7)–(426, 41) mm: WBS · WARD-BECK SYSTEMS · CBC VANCOUVER · INTERCOM FUNCTIONAL · STUDIO · SCALE · CoDE · 95033-01-001
 - **Wiring (first pass):** 89 connected wire groups from 5,633 runs, 1180 dotted junctions
 
-Every curve, box, word and wire group: [1995 - 95033 - DOC - 95033-01-001 - VAIRX DUTPUTS HAYM TERUNA QUMURI (traced).json](1995%20-%2095033%20-%20DOC%20-%2095033-01-001%20-%20VAIRX%20DUTPUTS%20HAYM%20TERUNA%20QUMURI%20%28traced%29.json) (the CAD file: `1995 - 95033 - DOC - 95033-01-001 - VAIRX DUTPUTS HAYM TERUNA QUMURI (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 95033 - DOC - 95033-01-001 - VAIRX DUTPUTS HAYM TERUNA QUMURI (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.950033/1995%20-%2095033%20-%20DOC%20-%2095033-01-001%20-%20VAIRX%20DUTPUTS%20HAYM%20TERUNA%20QUMURI%20%28traced%29.json) (the CAD file: `1995 - 95033 - DOC - 95033-01-001 - VAIRX DUTPUTS HAYM TERUNA QUMURI (traced).dxf`).
 
 ## Full text
 

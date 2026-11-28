@@ -34,7 +34,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Title block:** (158, 6)–(312, 74) mm: (ISSUE |DATE · REVISION · APP · WBS WARD-BECK · SYSTEMS · DRN Srh · ENG_ Srh · JACKFIELD Row K · CKD_ · SCHEMATIC · APP · SCALE · 790236-02 012 · ISSUE
 - **Wiring (first pass):** 51 connected wire groups from 414 runs; labelled ends: 24 mm → 103,104; 23 mm → 91,92; 21 mm → 18, 121,122; 21 mm → 7820; 21 mm → 139,140, 183
 
-Every curve, box, word and wire group: [1979 - 790236-02-012 - JACKFIELD ROW K SCHEMATIC - DRN SRH - ENG SRH - ISS 1 (2) (traced).json](1979%20-%20790236-02-012%20-%20JACKFIELD%20ROW%20K%20SCHEMATIC%20-%20DRN%20SRH%20-%20ENG%20SRH%20-%20ISS%201%20%282%29%20%28traced%29.json) (the CAD file: `1979 - 790236-02-012 - JACKFIELD ROW K SCHEMATIC - DRN SRH - ENG SRH - ISS 1 (2) (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236-02-012 - JACKFIELD ROW K SCHEMATIC - DRN SRH - ENG SRH - ISS 1 (2) (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236-02-012%20-%20JACKFIELD%20ROW%20K%20SCHEMATIC%20-%20DRN%20SRH%20-%20ENG%20SRH%20-%20ISS%201%20%282%29%20%28traced%29.json) (the CAD file: `1979 - 790236-02-012 - JACKFIELD ROW K SCHEMATIC - DRN SRH - ENG SRH - ISS 1 (2) (traced).dxf`).
 
 ## Full text
 

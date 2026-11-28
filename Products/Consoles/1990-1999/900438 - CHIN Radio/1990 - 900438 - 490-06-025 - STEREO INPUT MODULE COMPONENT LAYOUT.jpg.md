@@ -20,7 +20,7 @@ Wiki page: [Job-900438](../../../../PAGES/Job-900438.md)
 - **Closed boxes:** 28
 - **Dots (junctions):** 4
 
-Every curve, box, word and wire group: [1990 - 900438 - 490-06-025 - STEREO INPUT MODULE COMPONENT LAYOUT (traced).json](1990%20-%20900438%20-%20490-06-025%20-%20STEREO%20INPUT%20MODULE%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1990 - 900438 - 490-06-025 - STEREO INPUT MODULE COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1990 - 900438 - 490-06-025 - STEREO INPUT MODULE COMPONENT LAYOUT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.900438-CHIN-Radio/1990%20-%20900438%20-%20490-06-025%20-%20STEREO%20INPUT%20MODULE%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1990 - 900438 - 490-06-025 - STEREO INPUT MODULE COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 

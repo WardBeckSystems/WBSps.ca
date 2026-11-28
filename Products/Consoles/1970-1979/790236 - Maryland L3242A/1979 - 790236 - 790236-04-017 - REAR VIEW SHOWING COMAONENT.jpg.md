@@ -19,7 +19,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Words (OCR):** 27 in 21 lines: Tbio · TBI/ · MOTIoN · CT · Sep-71 · ISSUE DATE · REVISION · APP · WBS · WARD-BECK sysTEMS · DRN Srh · L3242A CONSOLE
 - **Title block:** (147, 7)–(300, 75) mm: Sep-71 · ISSUE DATE · REVISION · APP · WBS · WARD-BECK sysTEMS · DRN Srh · L3242A CONSOLE · ENG Srh · REAR View · CKD. · APP · LAYoUT · SCALE · Bi · 790236-04-017 · ISSUE
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-04-017 - REAR VIEW SHOWING COMAONENT (traced).json](1979%20-%20790236%20-%20790236-04-017%20-%20REAR%20VIEW%20SHOWING%20COMAONENT%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-04-017 - REAR VIEW SHOWING COMAONENT (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-04-017 - REAR VIEW SHOWING COMAONENT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-04-017%20-%20REAR%20VIEW%20SHOWING%20COMAONENT%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-04-017 - REAR VIEW SHOWING COMAONENT (traced).dxf`).
 
 ## Full text
 

@@ -20,7 +20,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Dots (junctions):** 1
 - **Words (OCR):** 74 in 49 lines: 20 21 · 22 · 23 · 24 · CART · MULT · VMPB · MON HOUSE TIME PGM · PGM · CIMITER · OUT · LINE OUT -
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-04-004 - AIR OUT TOUE CODE ATR ATR SONT (traced).json](1979%20-%20790236%20-%20790236-04-004%20-%20AIR%20OUT%20TOUE%20CODE%20ATR%20ATR%20SONT%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-04-004 - AIR OUT TOUE CODE ATR ATR SONT (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-04-004 - AIR OUT TOUE CODE ATR ATR SONT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-04-004%20-%20AIR%20OUT%20TOUE%20CODE%20ATR%20ATR%20SONT%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-04-004 - AIR OUT TOUE CODE ATR ATR SONT (traced).dxf`).
 
 ## Full text
 

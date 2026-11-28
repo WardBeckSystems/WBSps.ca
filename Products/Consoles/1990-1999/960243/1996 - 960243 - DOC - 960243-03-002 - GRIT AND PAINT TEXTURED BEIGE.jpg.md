@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 50 in 42 lines: 04-40 UNC REO D 28 · 83 · 9,130,200 · DATU · ALUK ALLOY 0,080 ThICK, · 5,0n0 · 1.850 · 0,67 Ref · MATERIAL EXTRUSOY #49916 · 960741 · 002=5 · IDENT EXTRUSION
 - **Title block:** (338, 16)–(422, 33) mm: WBS · WARD-BECK   SYSTEMS
 
-Every curve, box, word and wire group: [1996 - 960243 - DOC - 960243-03-002 - GRIT AND PAINT TEXTURED BEIGE (traced).json](1996%20-%20960243%20-%20DOC%20-%20960243-03-002%20-%20GRIT%20AND%20PAINT%20TEXTURED%20BEIGE%20%28traced%29.json) (the CAD file: `1996 - 960243 - DOC - 960243-03-002 - GRIT AND PAINT TEXTURED BEIGE (traced).dxf`).
+Every curve, box, word and wire group: [1996 - 960243 - DOC - 960243-03-002 - GRIT AND PAINT TEXTURED BEIGE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.960243/1996%20-%20960243%20-%20DOC%20-%20960243-03-002%20-%20GRIT%20AND%20PAINT%20TEXTURED%20BEIGE%20%28traced%29.json) (the CAD file: `1996 - 960243 - DOC - 960243-03-002 - GRIT AND PAINT TEXTURED BEIGE (traced).dxf`).
 
 ## Full text
 

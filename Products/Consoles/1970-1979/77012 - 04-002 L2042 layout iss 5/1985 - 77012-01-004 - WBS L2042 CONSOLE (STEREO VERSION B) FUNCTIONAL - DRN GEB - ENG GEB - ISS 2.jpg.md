@@ -34,7 +34,7 @@ Wiki page: [Job-77012](../../../../PAGES/Job-77012.md)
 - **Title block:** (227, 6)–(335, 64) mm: Revision · WBS WARD-BECK ByBTeMB · WBS L2042 · CONSOLE · (STEREO VERSION B ) · CKD: · FUNCTIONAL · APP · SCALE · 77012-01-004 · ISSUE
 - **Wiring (first pass):** 110 connected wire groups from 677 runs; labelled ends: 159 mm → 0 CONT; 154 mm → buS; 133 mm → Mon, S0L0, cont; 124 mm → 'ubm CIS, Mon, MOm; 123 mm → Udbm, Hon, S0L0, comt
 
-Every curve, box, word and wire group: [1985 - 77012-01-004 - WBS L2042 CONSOLE (STEREO VERSION B) FUNCTIONAL - DRN GEB - ENG GEB - ISS 2 (traced).json](1985%20-%2077012-01-004%20-%20WBS%20L2042%20CONSOLE%20%28STEREO%20VERSION%20B%29%20FUNCTIONAL%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1985 - 77012-01-004 - WBS L2042 CONSOLE (STEREO VERSION B) FUNCTIONAL - DRN GEB - ENG GEB - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - 77012-01-004 - WBS L2042 CONSOLE (STEREO VERSION B) FUNCTIONAL - DRN GEB - ENG GEB - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.770012-04-002-L2042-layout-iss-5/1985%20-%2077012-01-004%20-%20WBS%20L2042%20CONSOLE%20%28STEREO%20VERSION%20B%29%20FUNCTIONAL%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1985 - 77012-01-004 - WBS L2042 CONSOLE (STEREO VERSION B) FUNCTIONAL - DRN GEB - ENG GEB - ISS 2 (traced).dxf`).
 
 ## Full text
 

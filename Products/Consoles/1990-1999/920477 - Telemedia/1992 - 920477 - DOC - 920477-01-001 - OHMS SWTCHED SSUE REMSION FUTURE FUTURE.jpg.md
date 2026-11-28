@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (346, 22)–(430, 40) mm: WBS · WARD-BECK SYSTEMS · TELEMEDIA
 - **Wiring (first pass):** 154 connected wire groups from 1,694 runs; labelled ends: 2374 mm → PcU | PGU, MC_NNPUI CHAKNELS (18J), PROGBAM, CSOLLAToR; 337 mm → UNE_SELECIORS; 170 mm → uohitor; 164 mm → DIRECT, IALKBACK; 122 mm → (-4 CB)
 
-Every curve, box, word and wire group: [1992 - 920477 - DOC - 920477-01-001 - OHMS SWTCHED SSUE REMSION FUTURE FUTURE (traced).json](1992%20-%20920477%20-%20DOC%20-%20920477-01-001%20-%20OHMS%20SWTCHED%20SSUE%20REMSION%20FUTURE%20FUTURE%20%28traced%29.json) (the CAD file: `1992 - 920477 - DOC - 920477-01-001 - OHMS SWTCHED SSUE REMSION FUTURE FUTURE (traced).dxf`).
+Every curve, box, word and wire group: [1992 - 920477 - DOC - 920477-01-001 - OHMS SWTCHED SSUE REMSION FUTURE FUTURE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.920477-Telemedia/920477%20-%20Telemedia/1992%20-%20920477%20-%20DOC%20-%20920477-01-001%20-%20OHMS%20SWTCHED%20SSUE%20REMSION%20FUTURE%20FUTURE%20%28traced%29.json) (the CAD file: `1992 - 920477 - DOC - 920477-01-001 - OHMS SWTCHED SSUE REMSION FUTURE FUTURE (traced).dxf`).
 
 ## Full text
 

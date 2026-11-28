@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (344, 16)–(428, 37) mm: ISSUEDAIE · WARD-BECK SYSTEMS · WBS · CBC SR · 398
 - **Wiring (first pass):** 43 connected wire groups from 574 runs; labelled ends: 421 mm → POWER SUPPLY; 39 mm → WBS; 6 mm → 93039-01-003; 6 mm → OPTION 8.3, FUNCTIONAL, 93039-01-003
 
-Every curve, box, word and wire group: [1993 - 93039 - DOC - 93039-01-003 - INCLUDED FOR DISCUSSION PURPOSES (traced).json](1993%20-%2093039%20-%20DOC%20-%2093039-01-003%20-%20INCLUDED%20FOR%20DISCUSSION%20PURPOSES%20%28traced%29.json) (the CAD file: `1993 - 93039 - DOC - 93039-01-003 - INCLUDED FOR DISCUSSION PURPOSES (traced).dxf`).
+Every curve, box, word and wire group: [1993 - 93039 - DOC - 93039-01-003 - INCLUDED FOR DISCUSSION PURPOSES (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.930039-CBC/1993%20-%2093039%20-%20DOC%20-%2093039-01-003%20-%20INCLUDED%20FOR%20DISCUSSION%20PURPOSES%20%28traced%29.json) (the CAD file: `1993 - 93039 - DOC - 93039-01-003 - INCLUDED FOR DISCUSSION PURPOSES (traced).dxf`).
 
 ## Full text
 
