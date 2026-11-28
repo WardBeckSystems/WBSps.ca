@@ -14,16 +14,19 @@ Two steps, both per module repository (WBSps.ca/Github.WardBeckSystems/MODULES.<
 2. Symbols, from RTO.json alone, all from one layout (inputs left, outputs right, power top, grounds bottom, each port's
    + / - together, no-connects hidden), coloured by the module's category (CATEGORY_COLOURS):
 
-     KICAD/<M>.kicad_sym        the KiCad symbol (KiCad 8 and later)
-     KICAD/<M>-symbol.svg       a picture of it (the site, the README)
-     KICAD/<M>-symbol.dxf       for CAD (layers per kind of pin)
-     KICAD/<M>-symbol.pptx      a slide: the symbol drawn as shapes, to use in a schematic or a talk
-     KICAD/<M>-symbol.vsdx      the same for Visio
+     KICAD/<M>.kicad_sym          the KiCad symbol (KiCad 8 and later)
+     KICAD/<M>.pptx               beside it, a PowerPoint deck: the symbol, the front panel, the back panel (every shape editable)
+     KICAD/<M>.vsdx               the same three pages for Visio
+     KICAD/<M>-symbol.svg         the symbol as a picture (the site, the README); <M>-symbol.dxf for CAD (layers per kind of pin)
+     KICAD/<M>-front-panel.svg    the best front panel the archive has (tools/make_panels.py: panel art, traced drawing, layout,
+                                  photo), when there is one
+     KICAD/<M>-back-panel.svg     the connectors as seen from the rear, every contact with its signal, coloured by kind: what
+                                  to wire to
 
 Every output says it was synthesized and from what; edit RTO.json (or the readings it is made from), never the outputs.
 --check: report what would change, write nothing. A module with no pinout read anywhere gets no symbol (listed).
 """
-import json, math, os, re, sys, zipfile
+import json, math, os, re, sys
 from xml.sax.saxutils import escape as xesc
 
 TOP = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -294,45 +297,6 @@ def name_at(p):
             270: (bx, by - off, 'end', -90), 90: (bx, by + off, 'start', -90)}[p['rot']]
 
 
-def svg(lay, meta):
-    x0, y0, x1, y1 = lay['body']
-    pad = 4 * G
-    minx = min([x0] + [p['x'] for p in lay['pins']]) - pad - 6 * CH
-    maxx = max([x1] + [p['x'] for p in lay['pins']]) + pad + 6 * CH
-    miny = min(y0, lay['value'][1]) - pad
-    maxy = max(y1, lay['ref'][1]) + pad
-    k = 10                              # px per mm
-    X = lambda x: (x - minx) * k
-    Y = lambda y: (maxy - y) * k
-    o = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {(maxx - minx) * k:.0f} {(maxy - miny) * k:.0f}" '
-         f'font-family="Overpass Mono, ui-monospace, monospace">',
-         f'<title>{xesc(lay["code"])}: {xesc(meta["description"])}</title>',
-         f'<rect width="100%" height="100%" fill="#ffffff"/>',
-         f'<rect x="{X(x0):.1f}" y="{Y(y1):.1f}" width="{(x1 - x0) * k:.1f}" height="{(y1 - y0) * k:.1f}" fill="{lay["fill"]}" '
-         f'stroke="{lay["line"]}" stroke-width="2.5"/>']
-    for p in lay['pins']:
-        if p.get('hide'):
-            continue
-        (ax, ay), (bx, by) = pin_end(p)
-        o.append(f'<line x1="{X(ax):.1f}" y1="{Y(ay):.1f}" x2="{X(bx):.1f}" y2="{Y(by):.1f}" stroke="{p["colour"]}" stroke-width="2"/>')
-        o.append(f'<circle cx="{X(ax):.1f}" cy="{Y(ay):.1f}" r="3" fill="#fff" stroke="{p["colour"]}" stroke-width="1.5"/>')
-        nx, ny, anchor, rot = name_at(p)
-        o.append(f'<text x="{X(nx):.1f}" y="{Y(ny):.1f}" font-size="12.7" dominant-baseline="middle" text-anchor="{anchor}" fill="#1f1e1c"'
-                 + (f' transform="rotate({rot} {X(nx):.1f} {Y(ny):.1f})"' if rot else '') + f'>{xesc(p["name"])}</text>')
-        mx, my = (ax + bx) / 2, (ay + by) / 2
-        if p['rot'] in (0, 180):
-            o.append(f'<text x="{X(mx):.1f}" y="{Y(my) - 4:.1f}" font-size="10" text-anchor="middle" fill="{p["colour"]}">{xesc(p["num"])}</text>')
-        else:
-            o.append(f'<text x="{X(mx) - 4:.1f}" y="{Y(my):.1f}" font-size="10" text-anchor="middle" fill="{p["colour"]}" '
-                     f'transform="rotate(-90 {X(mx) - 4:.1f} {Y(my):.1f})">{xesc(p["num"])}</text>')
-    o.append(f'<text x="{X(lay["ref"][0]):.1f}" y="{Y(lay["ref"][1]):.1f}" font-size="14" font-weight="700" text-anchor="middle" fill="{lay["line"]}">'
-             f'{xesc(lay["code"])}</text>')
-    o.append(f'<text x="{X(lay["value"][0]):.1f}" y="{Y(lay["value"][1]):.1f}" font-size="11" text-anchor="middle" fill="#6d6a63">'
-             f'{xesc(lay["cat"].title())}{" · " + xesc(lay["connector"]) if lay["connector"] else ""} · Ward-Beck Systems</text>')
-    o.append('</svg>')
-    return '\n'.join(o)
-
-
 def dxf(lay, meta, path):
     import ezdxf
     from ezdxf.enums import TextEntityAlignment
@@ -369,152 +333,101 @@ def dxf(lay, meta, path):
     doc.saveas(path)
 
 
-def page_box(lay):
+def symbol_page(lay):
+    """The symbol as page primitives (tools/symbol_sheets.py)."""
     x0, y0, x1, y1 = lay['body']
-    xs = [x0, x1] + [p['x'] for p in lay['pins'] if not p.get('hide')]
-    ys = [y0, y1, lay['ref'][1], lay['value'][1]] + [p['y'] for p in lay['pins'] if not p.get('hide')]
-    return min(xs) - 12 * CH, max(xs) + 12 * CH, min(ys) - 2 * G, max(ys) + 2 * G
-
-
-def pptx(lay, meta, path):
-    from pptx import Presentation
-    from pptx.util import Mm, Pt
-    from pptx.dml.color import RGBColor
-    from pptx.enum.shapes import MSO_SHAPE, MSO_CONNECTOR
-    from pptx.enum.text import PP_ALIGN, MSO_ANCHOR
-    minx, maxx, miny, maxy = page_box(lay)
-    prs = Presentation()
-    SW, SH = (338.7, 190.5) if (maxx - minx) > (maxy - miny) else (190.5, 338.7)   # 16:9, turned upright for a tall symbol
-    prs.slide_width, prs.slide_height = Mm(SW), Mm(SH)
-    s = min((SW - 20) / (maxx - minx), (SH - 30) / (maxy - miny))      # mm on the slide per symbol mm
-    ox, oy = (SW - (maxx - minx) * s) / 2, 14 + (SH - 30 - (maxy - miny) * s) / 2
-    X = lambda x: Mm(ox + (x - minx) * s)
-    Y = lambda y: Mm(oy + (maxy - y) * s)
-    slide = prs.slides.add_slide(prs.slide_layouts[6])
-    col = lambda h: RGBColor(*rgb(h))
-    tb = slide.shapes.add_textbox(Mm(10), Mm(4), Mm(SW - 20), Mm(10))
-    tp = tb.text_frame.paragraphs[0]; tp.text = f'{lay["code"]} · {meta["title"] or lay["cat"].title()}'
-    tp.runs[0].font.size, tp.runs[0].font.bold, tp.runs[0].font.color.rgb = Pt(20), True, col(lay['line'])
-    x0, y0, x1, y1 = lay['body']
-    body = slide.shapes.add_shape(MSO_SHAPE.RECTANGLE, X(x0), Y(y1), Mm((x1 - x0) * s), Mm((y1 - y0) * s))
-    body.fill.solid(); body.fill.fore_color.rgb = col(lay['fill'])
-    body.line.color.rgb, body.line.width = col(lay['line']), Pt(2)
-    body.shadow.inherit = False
-    body.name = f'{lay["code"]} body'
-    fs = max(6, min(14, 1.27 * s * 3.3))     # the KiCad font's 1.27 mm, in points on the slide
-    def text(t, x, y, w, h, size, colour, align=PP_ALIGN.LEFT, rot=0, bold=False):
-        b = slide.shapes.add_textbox(x, y, w, h)
-        tf = b.text_frame; tf.word_wrap = False; tf.vertical_anchor = MSO_ANCHOR.MIDDLE
-        for m in ('margin_left', 'margin_right', 'margin_top', 'margin_bottom'):
-            setattr(tf, m, 0)
-        p = tf.paragraphs[0]; p.text = t; p.alignment = align
-        p.runs[0].font.size, p.runs[0].font.color.rgb, p.runs[0].font.bold = Pt(size), col(colour), bold
-        p.runs[0].font.name = 'Consolas'
-        b.rotation = rot
-        return b
+    P = [('rect', x0, y0, x1, y1, lay['fill'], lay['line'], 0.3, f'{lay["code"]} body')]
     for p in lay['pins']:
         if p.get('hide'):
             continue
         (ax, ay), (bx, by) = pin_end(p)
-        ln = slide.shapes.add_connector(MSO_CONNECTOR.STRAIGHT, X(ax), Y(ay), X(bx), Y(by))
-        ln.line.color.rgb, ln.line.width = col(p['colour']), Pt(1.5)
-        ln.name = f'pin {p["num"]} {p["name"]}'
+        P.append(('line', ax, ay, bx, by, p['colour'], 0.25, f'pin {p["num"]} {p["name"]}'))
+        P.append(('circle', ax, ay, 0.35, '#ffffff', p['colour'], 0.15))
         nx, ny, anchor, rot = name_at(p)
-        tw = Mm(len(p['name']) * CH * s * 1.15 + 2)
-        th = Mm(2.2 * s)
-        if rot == 0:
-            left = X(nx) if anchor == 'start' else X(nx) - tw
-            text(p['name'], left, Y(ny) - th // 2, tw, th, fs, '#1F1E1C', PP_ALIGN.LEFT if anchor == 'start' else PP_ALIGN.RIGHT)
-            text(p['num'], X(min(ax, bx)), Y(ay) - th, Mm(abs(bx - ax) * s), th, fs * .8, p['colour'], PP_ALIGN.CENTER)
-        else:   # a vertical name: a box laid along the pin, turned a quarter
-            cx, cy = X(nx), (Y(ny) + tw // 2 if anchor == 'end' else Y(ny) - tw // 2)
-            text(p['name'], cx - tw // 2, cy - th // 2, tw, th, fs, '#1F1E1C',
-                 PP_ALIGN.RIGHT if anchor == 'end' else PP_ALIGN.LEFT, rot=270)
-    text(f'{lay["cat"].title()}{" · " + lay["connector"] if lay["connector"] else ""} · synthesized from RTO.json',
-         Mm(10), Mm(SH - 12), Mm(SW - 20), Mm(8), 10, '#6D6A63', PP_ALIGN.CENTER)
-    prs.core_properties.title = f'{lay["code"]} symbol'
-    prs.core_properties.author = 'Ward-Beck Systems'
-    prs.save(path)
+        P.append(('text', nx, ny, p['name'], 1.7, '#1F1E1C', anchor, -rot, False))
+        mx, my = (ax + bx) / 2, (ay + by) / 2
+        P.append(('text', mx, my + 0.9, p['num'], 1.3, p['colour'], 'middle', 0, False) if p['rot'] in (0, 180)
+                 else ('text', mx - 0.9, my, p['num'], 1.3, p['colour'], 'middle', 90, False))
+    P.append(('text', lay['ref'][0], lay['ref'][1], lay['code'], 2.6, lay['line'], 'middle', 0, True))
+    P.append(('text', lay['value'][0], lay['value'][1], f'{lay["cat"].title()}{" · " + lay["connector"] if lay["connector"] else ""}'
+              ' · Ward-Beck Systems', 1.6, '#6D6A63', 'middle', 0, False))
+    return P
 
 
-def vsdx(lay, meta, path):
-    """A Visio drawing (one page) written by hand: the OPC parts Visio 2013+ and LibreOffice read."""
-    IN = 25.4
-    minx, maxx, miny, maxy = page_box(lay)
-    pw, ph = (maxx - minx) / IN, (maxy - miny) / IN + 0.6
-    X = lambda x: (x - minx) / IN
-    Y = lambda y: (y - miny) / IN
-    NS = 'xmlns="http://schemas.microsoft.com/office/visio/2012/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"'
-    shapes, sid = [], [0]
-    def cells(**c):
-        return ''.join(f'<Cell N="{k}" V="{v}"/>' for k, v in c.items())
-    def shape(x, y, w, h, geom, text='', fill=None, line='#000000', weight=0.01, size=0.1, colour='#1F1E1C', align=0, angle=0, nofill=True, name=''):
-        sid[0] += 1
-        g = ''.join(f'<Row T="{t}" IX="{i + 1}"><Cell N="X" V="{gx}"/><Cell N="Y" V="{gy}"/></Row>' for i, (t, gx, gy) in enumerate(geom))
-        f = cells(FillForegnd=fill, FillPattern=1) if fill else cells(FillPattern=0)
-        txt = (f'<Section N="Character"><Row IX="0"><Cell N="Size" V="{size}" U="IN"/><Cell N="Color" V="{colour}"/><Cell N="Font" V="Consolas"/></Row></Section>'
-               f'<Section N="Paragraph"><Row IX="0"><Cell N="HorzAlign" V="{align}"/></Row></Section><Text>{xesc(text)}</Text>') if text else ''
-        shapes.append(f'<Shape ID="{sid[0]}" NameU="{xesc(name or "Shape" + str(sid[0]))}" Type="Shape" LineStyle="0" FillStyle="0" TextStyle="0">'
-                      + cells(PinX=f'{x + w / 2:.4f}', PinY=f'{y + h / 2:.4f}', Width=f'{w:.4f}', Height=f'{h:.4f}', LocPinX=f'{w / 2:.4f}',
-                              LocPinY=f'{h / 2:.4f}', Angle=f'{angle:.6f}', LineColor=line, LineWeight=f'{weight}', VerticalAlign=1,
-                              LeftMargin=0, RightMargin=0, TopMargin=0, BottomMargin=0)
-                      + f + (f'<Section N="Geometry" IX="0">{cells(NoFill=1 if nofill else 0, NoLine=0 if geom else 1)}{g}</Section>' if geom else
-                             f'<Section N="Geometry" IX="0">{cells(NoFill=1, NoLine=1)}</Section>') + txt + '</Shape>')
-    x0, y0, x1, y1 = lay['body']
-    w, h = (x1 - x0) / IN, (y1 - y0) / IN
-    shape(X(x0), Y(y0), w, h, [('MoveTo', 0, 0), ('LineTo', w, 0), ('LineTo', w, h), ('LineTo', 0, h), ('LineTo', 0, 0)],
-          fill=lay['fill'], line=lay['line'], weight=0.02, nofill=False, name=f'{lay["code"]} body')
-    fs = 0.075                                   # inches: the KiCad font's 1.27 mm as Visio draws Consolas
-    for p in lay['pins']:
-        if p.get('hide'):
-            continue
-        (ax, ay), (bx, by) = pin_end(p)
-        lx, ly, ww, hh = min(X(ax), X(bx)), min(Y(ay), Y(by)), abs(X(bx) - X(ax)) or 0.0001, abs(Y(by) - Y(ay)) or 0.0001
-        geom = [('MoveTo', X(ax) - lx, Y(ay) - ly), ('LineTo', X(bx) - lx, Y(by) - ly)]
-        shape(lx, ly, ww, hh, geom, line=p['colour'], weight=0.014, name=f'pin {p["num"]}')
-        nx, ny, anchor, rot = name_at(p)
-        tw, th = len(p['name']) * CH / IN * 1.1 + 0.05, 0.09
-        if rot == 0:
-            left = X(nx) if anchor == 'start' else X(nx) - tw
-            shape(left, Y(ny) - th / 2, tw, th, [], p['name'], align=0 if anchor == 'start' else 2, size=fs)
-            shape(lx, Y(ay) + 0.005, abs(X(bx) - X(ax)), th, [], p['num'], size=fs * .8, colour=p['colour'], align=1)
-        else:
-            cy = Y(ny) - tw / 2 if anchor == 'end' else Y(ny) + tw / 2
-            shape(X(nx) - tw / 2, cy - th / 2, tw, th, [], p['name'], align=2 if anchor == 'end' else 0, size=fs, angle=math.pi / 2)
-    shape(X(lay['ref'][0]) - 1, Y(lay['ref'][1]) - 0.1, 2, 0.2, [], lay['code'], size=0.09, colour=lay['line'], align=1)
-    shape(X(lay['value'][0]) - 2, Y(lay['value'][1]) - 0.08, 4, 0.16, [], f'{lay["cat"].title()} · Ward-Beck Systems', size=0.06,
-          colour='#6D6A63', align=1)
-    parts = {
-        '[Content_Types].xml': '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types">'
-            '<Default Extension="rels" ContentType="application/vnd.openxmlformats-package.relationships+xml"/><Default Extension="xml" ContentType="application/xml"/>'
-            '<Override PartName="/visio/document.xml" ContentType="application/vnd.ms-visio.drawing.main+xml"/>'
-            '<Override PartName="/visio/pages/pages.xml" ContentType="application/vnd.ms-visio.pages+xml"/>'
-            '<Override PartName="/visio/pages/page1.xml" ContentType="application/vnd.ms-visio.page+xml"/>'
-            '<Override PartName="/docProps/core.xml" ContentType="application/vnd.openxmlformats-package.core-properties+xml"/>'
-            '<Override PartName="/docProps/app.xml" ContentType="application/vnd.openxmlformats-officedocument.extended-properties+xml"/></Types>',
-        '_rels/.rels': '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">'
-            '<Relationship Id="rId1" Type="http://schemas.microsoft.com/visio/2010/relationships/document" Target="visio/document.xml"/>'
-            '<Relationship Id="rId2" Type="http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties" Target="docProps/core.xml"/>'
-            '<Relationship Id="rId3" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/extended-properties" Target="docProps/app.xml"/></Relationships>',
-        'docProps/core.xml': '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><cp:coreProperties xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties" '
-            f'xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:title>{xesc(lay["code"])} symbol</dc:title><dc:creator>Ward-Beck Systems</dc:creator></cp:coreProperties>',
-        'docProps/app.xml': '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Properties xmlns="http://schemas.openxmlformats.org/officeDocument/2006/extended-properties">'
-            '<Application>Microsoft Visio</Application></Properties>',
-        'visio/document.xml': f'<?xml version="1.0" encoding="UTF-8" standalone="yes"?><VisioDocument {NS}><DocumentSettings/><Colors/><FaceNames/>'
-            '<StyleSheets><StyleSheet ID="0" NameU="No Style" Name="No Style">' + cells(LineWeight=0.01, LineColor='#000000', LinePattern=1,
-            FillForegnd='#FFFFFF', FillPattern=1, VerticalAlign=1) + '<Section N="Character"><Row IX="0"><Cell N="Size" V="0.1"/><Cell N="Color" V="#000000"/>'
-            '</Row></Section></StyleSheet></StyleSheets></VisioDocument>',
-        'visio/_rels/document.xml.rels': '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">'
-            '<Relationship Id="rId1" Type="http://schemas.microsoft.com/visio/2010/relationships/pages" Target="pages/pages.xml"/></Relationships>',
-        'visio/pages/pages.xml': f'<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Pages {NS}><Page ID="0" NameU="{xesc(lay["code"])}" Name="{xesc(lay["code"])}">'
-            f'<PageSheet>{cells(PageWidth=f"{pw:.4f}", PageHeight=f"{ph:.4f}", PageScale=1, DrawingScale=1)}</PageSheet><Rel r:id="rId1"/></Page></Pages>',
-        'visio/pages/_rels/pages.xml.rels': '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">'
-            '<Relationship Id="rId1" Type="http://schemas.microsoft.com/visio/2010/relationships/page" Target="page1.xml"/></Relationships>',
-        'visio/pages/page1.xml': f'<?xml version="1.0" encoding="UTF-8" standalone="yes"?><PageContents {NS}><Shapes>{"".join(shapes)}</Shapes></PageContents>',
-    }
-    with zipfile.ZipFile(path, 'w', zipfile.ZIP_DEFLATED) as z:
-        for name, data in parts.items():
-            z.writestr(zipfile.ZipInfo(name, (2026, 1, 1, 0, 0, 0)), data)
+EDGE = 'ABCDEFHJKLMNPRSTUVWXYZ'      # the letter side of a Ward-Beck edge connector (no G, I, O, Q): A is opposite 1
+
+
+def back_page(lay, data):
+    """The back panel: each connector as seen from the rear, every contact with its signal, coloured by kind — what to wire."""
+    by_conn = {}
+    for p in data['pins']:
+        by_conn.setdefault(p.get('connector') or '', []).append(p)
+    P, x, pitch = [], 0, 3.96
+    for conn in sorted(by_conn, key=lambda c: (c == '', c)):
+        pins = by_conn[conn]
+        rows = {}
+        for p in pins:
+            n = str(p['pin'])
+            if n.isdigit():
+                rows.setdefault(int(n), [None, None])[0] = p
+            elif n.upper() in EDGE:
+                rows.setdefault(EDGE.index(n.upper()) + 1, [None, None])[1] = p
+            else:
+                rows.setdefault(1000 + len(rows), [None, None])[0] = p
+        nrow = max(rows) if rows and max(rows) < 1000 else len(rows)
+        lw = max([len(label(p)) for r in rows.values() for p in r if p] + [6]) * 1.7 * 0.6
+        cx = x + lw + 12
+        top = (nrow + 1) * pitch / 2
+        P.append(('text', cx, top + 6, f'{conn or "Connector"} · rear view', 2.2, '#1F1E1C', 'middle', 0, True))
+        P.append(('rect', cx - 7, -top - 1, cx + 7, top + 1, '#E9E4D4', '#6D6A63', 0.3, f'{conn} edge'))
+        for i, r in enumerate(sorted(rows)):
+            y = top - (i + 1) * pitch if max(rows) >= 1000 else top - r * pitch
+            for side, p in zip((-1, 1), rows[r]):
+                padx0, padx1 = (cx - 6, cx - 0.6) if side < 0 else (cx + 0.6, cx + 6)
+                kind = COLOUR_OF.get((p or {}).get('kind'), 'other') if p and p.get('kind') not in ('nc', 'unread') else None
+                fill = PIN_COLOURS[kind] if kind else '#FFFFFF'
+                P.append(('rect', padx0, y - 1.4, padx1, y + 1.4, fill, '#6D6A63', 0.15, f'{conn}-{p["pin"] if p else ""}'))
+                pin_name = (str(r) if side < 0 else (EDGE[r - 1] if r <= len(EDGE) else '')) if max(rows) < 1000 else str((p or {}).get('pin', ''))
+                P.append(('text', (padx0 + padx1) / 2, y, pin_name, 1.5, '#FFFFFF' if kind else '#6D6A63', 'middle', 0, True))
+                if p:
+                    t = label(p) if p.get('kind') not in ('nc',) else 'N/C'
+                    P.append(('text', padx0 - 1.2 if side < 0 else padx1 + 1.2, y, t, 1.7,
+                              PIN_COLOURS[kind] if kind else '#999999', 'end' if side < 0 else 'start', 0, False))
+        x = cx + 7 + lw + 14
+    legend = [('input', 'in'), ('output', 'out'), ('power', 'power'), ('ground / shield', 'ground'), ('control', 'control'), ('other', 'other')]
+    y0 = min(pp[2] for pp in P if pp[0] == 'rect') - 6
+    for i, (t, k) in enumerate(legend):
+        P.append(('rect', i * 24, y0 - 1.2, i * 24 + 2.4, y0 + 1.2, PIN_COLOURS[k], None, 0, ''))
+        P.append(('text', i * 24 + 3.4, y0, t, 1.6, '#1F1E1C', 'start', 0, False))
+    return P
+
+
+def front_page(repo, code, work):
+    """The front panel: the best picture of the module's face the archive has (tools/make_panels.py), or None."""
+    src = os.path.join(repo, 'MECHANICAL', f'{code} - front panel.svg')
+    if not os.path.exists(src):
+        return None, None, None
+    head = open(src, encoding='utf-8', errors='replace').read(2000)
+    kind = (re.search(r'data-kind="([a-z]+)"', head) or [None, ''])[1]
+    if kind in ('', 'none'):
+        return None, None, None
+    frm = (re.search(r'data-from="([^"]*)"', head) or [None, ''])[1]
+    vb = [float(v) for v in (re.search(r'viewBox="([-\d. ]+)"', head) or [None, '0 0 100 600'])[1].split()]
+    png = os.path.join(work, f'{code}-front.png')
+    import subprocess
+    subprocess.run(['inkscape', src, '--export-type=png', f'--export-filename={png}', '--export-height=2400',
+                    '--export-background=#ffffff', '--export-background-opacity=1'], capture_output=True, timeout=180,
+                   env={'HOME': os.environ.get('HOME', '/tmp'), 'PATH': '/usr/bin:/bin'})   # clean: a snap's libraries break it
+    if not os.path.exists(png):
+        return None, None, None
+    H = 200.0
+    W = H * vb[2] / vb[3]
+    how = {'cad': 'the panel art', 'traced': 'a traced front-panel drawing', 'layout': 'the module layout drawing',
+           'drawing': 'a front-panel drawing', 'photo': 'a photograph, squared up'}.get(kind, kind)
+    P = [('image', png, -W / 2, -H / 2, W / 2, H / 2, f'{code} front panel'),
+         ('rect', -W / 2, -H / 2, W / 2, H / 2, None, '#6D6A63', 0.3, 'outline'),
+         ('text', 0, -H / 2 - 5, f'from {how}: {os.path.basename(frm)}'[:110], 1.8, '#6D6A63', 'middle', 0, False)]
+    return P, src, kind
 
 
 # ---------------------------------------------------------------- run --------------------------------------------------------
@@ -524,25 +437,45 @@ def title_of(repo, code):
     return m.group(1).replace('-', ' ') if m else ''
 
 
-OUTPUTS = ('{c}.kicad_sym', '{c}-symbol.svg', '{c}-symbol.dxf', '{c}-symbol.pptx', '{c}-symbol.vsdx')
+OUTPUTS = ('{c}.kicad_sym', '{c}.pptx', '{c}.vsdx', '{c}-symbol.svg', '{c}-symbol.dxf', '{c}-front-panel.svg', '{c}-back-panel.svg')
+OLD = ('{c}-symbol.pptx', '{c}-symbol.vsdx')       # the first outputs, folded into <M>.pptx / <M>.vsdx
 
 
 def synth_one(code, cat, repo, data):
-    """Every symbol output of one module into its KICAD/ folder, from its RTO.json (data). tools/pinout_build.py calls it too."""
+    """Every drawing of one module into its KICAD/ folder, from its RTO.json (data): the KiCad symbol, and beside it the same
+    symbol with the module's front and back panels as a PowerPoint deck, a Visio document and SVGs, and the symbol as DXF.
+    tools/pinout_build.py calls it too."""
+    import shutil, tempfile
+    import symbol_sheets as sh
     title = title_of(repo, code)
     lay = layout(code, cat, data, title)
     src = (data.get('built_from') or {}).get('synthesized') or 'tools/pinout_build.py, from the pinout pictures'
     meta = {'title': title, 'source': f'synthesized by tools/symbol_synth.py (WBSps.ca) from this repository\'s RTO.json ({src})',
             'description': f'{code} {title} ({cat.title()}), Ward-Beck Systems. Pinout from RTO.json.'}
     kd = os.path.join(repo, 'KICAD'); os.makedirs(kd, exist_ok=True)
-    paths = [os.path.join(kd, o.format(c=code)) for o in OUTPUTS]
-    for p in paths:   # a hard link (or symlink) into Engineering: this module's own file from now on
-        if os.path.islink(p) or (os.path.exists(p) and os.stat(p).st_nlink > 1):
-            os.unlink(p)
-    open(paths[0], 'w').write(kicad_sym(lay, meta))
-    open(paths[1], 'w').write(svg(lay, meta))
-    dxf(lay, meta, paths[2]); pptx(lay, meta, paths[3]); vsdx(lay, meta, paths[4])
-    return paths
+    out = {o: os.path.join(kd, o.format(c=code)) for o in OUTPUTS}
+    for p in list(out.values()) + [os.path.join(kd, o.format(c=code)) for o in OLD]:
+        if os.path.islink(p) or (os.path.exists(p) and os.stat(p).st_nlink > 1) or any(p.endswith(o.format(c=code)) for o in OLD):
+            if os.path.lexists(p):
+                os.unlink(p)    # a link into Engineering becomes this module's own file; the first outputs' names go
+    name = f'{code} {title}'.strip()
+    foot = f'{code} · {cat.title()} · Ward-Beck Systems · synthesized from RTO.json'
+    with tempfile.TemporaryDirectory() as work:
+        sym = symbol_page(lay)
+        back = back_page(lay, data)
+        front, front_src, _ = front_page(repo, code, work)
+        pages = [(f'{name} · symbol', sym)] + ([(f'{code} · front panel', front)] if front else []) + [(f'{code} · back panel: the connectors, rear view', back)]
+        open(out['{c}.kicad_sym'], 'w').write(kicad_sym(lay, meta))
+        sh.pptx(pages, out['{c}.pptx'], f'{code} symbol and panels', foot)
+        sh.vsdx(pages, out['{c}.vsdx'], f'{code} symbol and panels')
+        open(out['{c}-symbol.svg'], 'w').write(sh.svg(sym, f'{name}: symbol'))
+        open(out['{c}-back-panel.svg'], 'w').write(sh.svg(back, f'{name}: back panel, rear view of the connectors'))
+        if front_src:
+            shutil.copyfile(front_src, out['{c}-front-panel.svg'])
+        elif os.path.exists(out['{c}-front-panel.svg']):
+            os.unlink(out['{c}-front-panel.svg'])
+        dxf(lay, meta, out['{c}-symbol.dxf'])
+    return [p for p in out.values() if os.path.exists(p)]
 
 
 def category_of(repo):
