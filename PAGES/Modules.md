@@ -18,7 +18,7 @@ Plug-in modules (M4xx–M6xx and friends), grouped by the categories used in `PU
 - [MONITORING](Category-MONITORING.md) — 12
 - [POWER](Category-POWER.md) — 15
 - [RAVENNA AES67](Category-RAVENNA-AES67.md) — 8 (8 dated)
-- [RENAISSANCE](Category-RENAISSANCE.md) — 30
+- [RENAISSANCE](Category-RENAISSANCE.md) — 23
 - [ROUTING](Category-ROUTING.md) — 27
 - [SUMMING](Category-SUMMING.md) — 25
 - [UNSORTED](Category-UNSORTED.md) — 14

@@ -47,14 +47,14 @@ def main():
         head = git(new, 'rev-parse', 'HEAD').stdout.strip()
         if not rec or git(new, 'merge-base', '--is-ancestor', rec, head).returncode:
             problems.append(f'{old}: clone {hit[0]} HEAD {head[:9]} does not contain the recorded {str(rec)[:9]}'); out.append(b); continue
-        if git(new, 'status', '--porcelain', '-uno').stdout.strip():
+        if git(new, 'status', '--porcelain', '-uno', '--ignore-submodules=all').stdout.strip():
             problems.append(f'{old}: clone {hit[0]} has uncommitted changes'); out.append(b); continue
         origin = git(new, 'remote', 'get-url', 'origin').stdout.strip() or u.group(1)
         b = b.replace(m.group(0), m.group(0).replace(old, new)).replace(u.group(0), u.group(0).replace(u.group(1), origin))
         out.append(b)
         moves[old] = new
         if not dry:
-            git('.', 'rm', '-q', '--cached', old, check=True)
+            git('.', 'update-index', '--force-remove', old, check=True)
             git('.', 'update-index', '--add', '--cacheinfo', f'160000,{head},{new}', check=True)
     for p in problems:
         print('SKIP', p)

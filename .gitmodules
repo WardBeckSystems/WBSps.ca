@@ -962,27 +962,6 @@
 [submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923"]
 	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923
 	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M923.git
-[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923A"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923A
-	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M923A.git
-[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923B"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923B
-	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M923B.git
-[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923C"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923C
-	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M923C.git
-[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923D"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923D
-	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M923D.git
-[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923E"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923E
-	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M923E.git
-[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923F"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923F
-	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M923F.git
-[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923H"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923H
-	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M923H.git
 [submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M924-Power-Supply"]
 	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M924-Power-Supply
 	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M924-Power-Supply.git

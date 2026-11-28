@@ -27,13 +27,6 @@ title: "RENAISSANCE"
 | [M921](M921.md) |  | [1996\|29](Year-1996.md) | high | 5 |
 | [M922](M922.md) | Mono Equalizer | [1994\|27](Year-1994.md) | medium | 24 |
 | [M923](M923.md) |  | [1994\|27](Year-1994.md) | medium | 14 |
-| [M923A](M923A.md) |  | [1994\|27](Year-1994.md) | family | 1 |
-| [M923B](M923B.md) |  | [1994\|27](Year-1994.md) | family | 1 |
-| [M923C](M923C.md) |  | [1994\|27](Year-1994.md) | family | 1 |
-| [M923D](M923D.md) |  | [1994\|27](Year-1994.md) | family | 1 |
-| [M923E](M923E.md) |  | [1994\|27](Year-1994.md) | family | 1 |
-| [M923F](M923F.md) |  | [1994\|27](Year-1994.md) | family | 1 |
-| [M923H](M923H.md) |  | [1994\|27](Year-1994.md) | family | 1 |
 | [M924](M924.md) | Kbs Power Supply | [1994\|27](Year-1994.md) | high | 43 |
 | [M924A](M924A.md) | Power Supply | [1994\|27](Year-1994.md) | high | 4 |
 | [M926](M926.md) |  | [1994\|27](Year-1994.md) | medium | 15 |
