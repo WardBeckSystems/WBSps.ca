@@ -161,8 +161,8 @@
 [submodule "2026/Modules/COMMUNICATION/M701"]
 	path = WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M701-Intercom-Input-Amplifier
 	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M701-Intercom-Input-Amplifier.git
-[submodule "Premote.WBSps.ca"]
-	path = 2026/Premo
+[submodule "WBSps.ca/Github.WardBeckSystems/Premote.WBSps.ca"]
+	path = WBSps.ca/Github.WardBeckSystems/Premote.WBSps.ca
 	url = https://github.com/WardBeckSystems/Premote.WBSps.ca.git
 [submodule "2026/Modules/COMMUNICATION/M7012C"]
 	path = WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7012C-Intercom-Module

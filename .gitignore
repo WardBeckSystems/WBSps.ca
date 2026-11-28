@@ -116,6 +116,7 @@ site/
 # the rest stay ignored until they are registered (tools/move_submodules_home.py)
 /WBSps.ca/Github.WardBeckSystems/*
 !/WBSps.ca/Github.WardBeckSystems/MODULES.*
+!/WBSps.ca/Github.WardBeckSystems/Premote.WBSps.ca
 
 # 7 GB of recovered drives, distributed to repos by hand
 hard drive recovery/
