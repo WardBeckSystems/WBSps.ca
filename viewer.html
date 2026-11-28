@@ -73,6 +73,18 @@ pre { margin:0; padding:16px; white-space:pre-wrap; word-break:break-word; font:
 #ocr .hd b { flex:1 } #ocr button { font:inherit; font-size:13px; cursor:pointer; border:1px solid var(--line); background:var(--bg); color:var(--ink); border-radius:4px; padding:2px 8px }
 #ocr pre { flex:1; overflow:auto; margin:0; padding:12px 14px; white-space:pre-wrap; word-break:break-word; font:13px/1.5 ui-monospace, monospace; user-select:text }
 #ocr h4 { margin:12px 0 4px; font:700 12px system-ui, sans-serif; color:var(--muted); text-transform:uppercase }
+/* KiCad: KiCanvas fills the view; its checks (ERC / DRC) in a side panel like the OCR text */
+main kicanvas-embed { width:100%; height:100% }
+body:has(main kicanvas-embed) #close { top:auto; bottom:64px; right:64px }   /* clear of KiCanvas's own toolbar on the right */
+#ckbtn { font:inherit; color:var(--accent); background:none; border:1px solid var(--line); border-radius:4px; padding:1px 8px; cursor:pointer }
+#ckbtn.bad { color:#c8102e; border-color:#c8102e66 } #ckbtn.on { background:var(--accent); color:#fff }
+#ck { position:fixed; right:0; top:0; bottom:0; width:min(460px, 94vw); z-index:25; background:var(--panel); border-left:1px solid var(--line);
+  box-shadow:-8px 0 24px #0003; display:flex; flex-direction:column }
+#ck[hidden] { display:none } #ck .hd { display:flex; gap:10px; align-items:center; padding:10px 14px; border-bottom:1px solid var(--line) }
+#ck .hd b { flex:1 } #ck button { font:inherit; font-size:13px; cursor:pointer; border:1px solid var(--line); background:var(--bg); color:var(--ink); border-radius:4px; padding:2px 8px }
+#cktext { flex:1; overflow:auto; padding:10px 14px; font-size:13px } .ckabout { color:var(--muted); margin:0 0 10px }
+#cktext details { border-top:1px solid var(--line); padding:6px 0 } #cktext summary { cursor:pointer }
+#cktext ul { margin:6px 0 0; padding-left:18px } #cktext li { margin:3px 0 } #cktext li.error::marker { color:#c8102e } #cktext li.warning::marker { color:#b8860b }
 </style>
 <link rel="stylesheet" href="_catalog/wbs_skin.css?v=a167fc3f" data-wbs-skin></head>
 <body>
@@ -84,6 +96,8 @@ pre { margin:0; padding:16px; white-space:pre-wrap; word-break:break-word; font:
     <a id="orig" href="#">Original file</a>
     <a id="note" href="#">Note (.md)</a>
     <button id="ocrbtn" type="button" hidden title="The words read off this file (OCR): select and copy them">Text read on it</button>
+    <button id="ckbtn" type="button" hidden title="KiCad's own checks on this file: ERC (schematic) or DRC (board)">Checks</button>
+    <a href="PAGES/KiCad-Checks.html" id="cklink" hidden>All KiCad checks</a>
     <a href="index.html">Index</a>
   </header>
   <div id="mods" hidden></div>
@@ -96,6 +110,8 @@ pre { margin:0; padding:16px; white-space:pre-wrap; word-break:break-word; font:
 <button id="close" title="Close (Esc)" aria-label="Close the viewer">✕</button>
 <aside id="ocr" hidden aria-label="Text read on this file"><div class="hd"><b>Text read on it</b><button id="ocrcopy" type="button">Copy all</button>
   <button id="ocrclose" type="button" title="Close">✕</button></div><pre id="ocrtext"></pre></aside>
+<aside id="ck" hidden aria-label="KiCad checks on this file"><div class="hd"><b>KiCad checks</b><a href="PAGES/KiCad-Checks.html">every file</a>
+  <button id="ckclose" type="button" title="Close">✕</button></div><div id="cktext"></div></aside>
 <script src="_previews/manifest.js"></script>
 <script src="_catalog/hotspots.js"></script>
 <script src="_catalog/drive_lookup.js"></script>
@@ -126,8 +142,58 @@ function show(path) {
   else if (e === '.pdf' || e === '.html') { view.innerHTML = `<iframe src="${url}" title="document"></iframe>`; if (e === '.pdf') pdfTraced(path); }
   else if (e === '.txt' || e === '.md') view.innerHTML = `<iframe src="${url}" title="text"></iframe>`;
   else if (e === '.kicad_sym') return showKicadSym(path);
+  else if (e === '.kicad_sch' || e === '.kicad_pcb') return showKicad(path);
   else return false;
   return true;
+}
+
+// a KiCad schematic or board: drawn by KiCanvas (_lib/kicanvas, MIT), with KiCad's own checks on it beside it — ERC for a
+// schematic, DRC for a board (kicad-cli, tools/kicad_checks.py → _catalog/kicad_checks/). A file too big for the website is
+// read from its repository on GitHub.
+const KICAD = /\.kicad_(sch|pcb)$/i;
+function showKicad(path) {
+  const g = path.match(/Github\.WardBeckSystems\/([^\/]+)\/(.+)$/);
+  const raw = g ? `https://raw.githubusercontent.com/WardBeckSystems/${g[1]}/main/${enc(g[2])}` : null;
+  view.innerHTML = '<div class="none"><p>Drawing the KiCad file…</p></div>';
+  const draw = src => {
+    view.innerHTML = `<kicanvas-embed src="${src}" controls="full" style="display:block;width:100%;height:100%"></kicanvas-embed>`;
+    if (!customElements.get('kicanvas-embed')) document.head.appendChild(Object.assign(document.createElement('script'), { type: 'module', src: '_lib/kicanvas/kicanvas.js' }));   // a module: its names stay its own
+  };
+  fetch(enc(path), { method: 'HEAD' }).then(r => r.ok || !raw ? draw(enc(path)) : (draw(raw), document.getElementById('meta').textContent += ' · from its repository on GitHub'))
+    .catch(() => draw(raw || enc(path)));
+  if (g) kicadChecks(g[1], g[2]);
+  return true;
+}
+function kicadChecks(repo, file) {
+  const btn = document.getElementById('ckbtn'), panel = document.getElementById('ck'), body = document.getElementById('cktext');
+  fetch(`_catalog/kicad_checks/${encodeURIComponent(repo)}.json`).then(r => r.ok ? r.json() : {}).then(all => {
+    const c = all[file];
+    if (!c) return;
+    const esc = s => String(s).replace(/[&<>]/g, ch => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' })[ch]);
+    const n = c.v.reduce((o, v) => (o[v[0]] = (o[v[0]] || 0) + 1, o), {});
+    const name = c.check.toUpperCase();
+    btn.textContent = c.total ? `${name}: ${c.total} found` : `${name}: clean`;
+    btn.classList.toggle('bad', !!n.error);
+    btn.hidden = false;
+    const kinds = {};
+    c.v.forEach(v => (kinds[v[1]] = kinds[v[1]] || []).push(v));
+    body.innerHTML = `<p class="ckabout">${c.check === 'erc' ? 'Electrical rules check (ERC) of the schematic' : 'Design rules check (DRC) of the board'},
+      by KiCad's own <code>kicad-cli</code>: ${c.total} found${c.total > c.v.length ? ` (the first ${c.v.length} listed)` : ''}.
+      <span id="cktraced"></span></p>` +
+      Object.entries(kinds).sort((a, b) => b[1].length - a[1].length).map(([k, vs]) =>
+        `<details${Object.keys(kinds).length < 4 ? ' open' : ''}><summary><b>${esc(k.replace(/_/g, ' '))}</b> · ${vs.length} · ${esc(vs[0][2])}</summary><ul>` +
+        vs.slice(0, 200).map(v => `<li class="${v[0]}">${v[3].map(i => `${esc(i[0])} <small>(${i[1]}, ${i[2]} ${c.units})</small>`).join('<br>')}</li>`).join('') +
+        `</ul></details>`).join('');
+    // a schematic the tracer made from a scan is lines only, no parts yet: its open wire ends are where the parts will sit
+    fetch(raw0()).then(r => r.ok ? r.text() : '').then(t => {
+      if (/wbsps_tracer/.test(t.slice(0, 400)) && c.check === 'erc')
+        document.getElementById('cktraced').textContent = 'This schematic was traced from a scan (lines, no parts yet), so its open wire ends are where the parts will be drawn in: they are expected until it is redrawn with symbols.';
+    }).catch(() => {});
+  }).catch(() => {});
+  const raw0 = () => enc(rel);
+  const show = on => { panel.hidden = !on; btn.classList.toggle('on', on); };
+  btn.onclick = () => show(panel.hidden);
+  document.getElementById('ckclose').onclick = () => show(false);
 }
 
 function showKicadSym(path) {
@@ -214,7 +280,7 @@ if (!rel) {
     <p><a href="${enc(rel)}">Download the original</a> · see <a href="FILE-TYPES.md">FILE-TYPES.md</a>.</p></div>`;
 }
 // online (GitHub Pages) the scans are not uploaded: say so, and show the file's note with its meta links instead
-if (rel && /^https?:/.test(location.protocol)) {
+if (rel && /^https?:/.test(location.protocol) && !KICAD.test(rel)) {   // (a KiCad file finds its own way: showKicad)
   fetch(enc(rel), { method: 'HEAD' }).then(r => {
     if (r.ok) return;
     // a module's clone path (WBSps.ca/Github.WardBeckSystems/MODULES.<CAT>.<M>-<Fn>/<file>) is on the Drive map as Modules/<CAT>/<M>/<file>

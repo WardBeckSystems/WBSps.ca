@@ -1,0 +1,1 @@
+KiCanvas (https://github.com/theacodes/kicanvas), MIT license, (c) Alethea Katherine Flowers; the build bundled with the KiCad Studio Kit VS Code extension 2.7.17. Used by viewer.html to draw KiCad schematics and boards.

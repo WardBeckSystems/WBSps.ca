@@ -1,0 +1,88 @@
+<!doctype html><html data-skin="wiki" lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>KiCad checks · WBSps.ca Archive</title><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&display=swap"><script src="../_catalog/drive_lookup.js"></script><style>
+:root { --desk:#2b2a27; --paper:#fbfaf4; --ink:#1f1e1c; --faint:#6d6a63; --rule:#cfcabc; --link:#1f3f6b; --hl:#efe9d2; }
+* { box-sizing:border-box }
+html { background:var(--desk) }
+body { margin:0; padding:28px 16px 60px; color:var(--ink); font:15px/1.55 "Courier Prime","Courier New",Courier,monospace }
+.sheet { position:relative; max-width:8.5in; margin:0 auto; background:var(--paper);
+  padding:clamp(24px,6vw,64px) clamp(18px,7vw,72px) 56px clamp(30px,9vw,92px);
+  box-shadow:0 1px 0 #d8d4c6, 0 18px 40px rgba(0,0,0,.5) }
+.sheet::before { content:""; position:absolute; left:clamp(10px,2.6vw,28px); top:10%; bottom:10%; width:16px;
+  background:radial-gradient(circle, var(--desk) 7px, rgba(0,0,0,.18) 8px, transparent 9px) 0 0/16px 33.3% repeat-y }
+.top { display:flex; flex-wrap:wrap; gap:4px 16px; margin-bottom:18px; color:var(--faint) }
+a { color:var(--link); text-underline-offset:3px; text-decoration-thickness:1px } a:hover { background:var(--hl) }
+h1 { font-size:20px; margin:0 0 14px; text-transform:uppercase; letter-spacing:.04em; text-decoration:underline; text-underline-offset:5px }
+h2 { font-size:16px; margin:26px 0 8px; text-transform:uppercase; text-decoration:underline; text-underline-offset:4px }
+h3 { font-size:15px; margin:18px 0 6px }
+table { border-collapse:collapse; width:100%; margin:6px 0 12px; font-size:14px }
+th, td { text-align:left; vertical-align:top; padding:3px 10px 3px 0; border-bottom:1px dotted var(--rule) }
+th { color:var(--faint); font-weight:400; text-decoration:underline }
+code { font:inherit; background:#f1ede0; padding:0 3px }
+blockquote { margin:6px 0; padding-left:12px; border-left:2px solid var(--rule); color:var(--faint) }
+.thumbs { display:grid; grid-template-columns:repeat(auto-fill,minmax(130px,1fr)); gap:12px; margin:10px 0 18px }
+.thumbs a { display:block; text-decoration:none; color:var(--ink); font-size:11px; line-height:1.3; word-break:break-word }
+.sheet .offline { display:inline-block; border:1px dashed var(--rule); color:var(--faint); font-size:12px; padding:30px 18px; margin:4px 8px 4px 0 }
+.thumbs .offline { display:grid; place-items:center; height:110px; border:1px dashed var(--rule); color:var(--faint); font-size:12px; text-align:center; padding:6px }
+.thumbs canvas { max-width:100%; max-height:110px; width:auto; height:auto; margin:0 auto; background:#fff; border:1px solid var(--rule); display:block }
+.sheet p canvas { max-width:100%; max-height:320px; border:1px solid var(--rule); background:#fff; margin:4px 8px 4px 0 }
+.thumbs img { width:100%; height:110px; object-fit:contain; background:#fff; border:1px solid var(--rule); display:block; margin-bottom:4px }
+.sheet details.json pre { max-height:420px; overflow:auto; font-size:12px; background:#f1ede0; padding:8px; white-space:pre }
+.sheet details.json pre { max-height:420px; overflow:auto; font-size:12px; background:#f1ede0; padding:8px; white-space:pre }
+.wbs-conn { display:flex; gap:16px; align-items:flex-start } .wbs-conn .wbs-panel { flex:none; width:96px; height:auto; margin-top:6px }
+.wbs-face { flex:none; display:flex; flex-direction:column; gap:8px; align-items:center } .wbs-face .wbs-live:not(:empty) + .wbs-panel { display:none }
+.wbs-face .flip { font-size:12px; cursor:pointer; color:var(--link); text-decoration:underline; background:none; border:0; font-family:inherit }
+.wbs-conn .wbs-main { flex:1; min-width:0 } svg.wbs-panel.solo { width:110px; height:auto; display:block; margin:6px 0 12px }
+@media (max-width:600px) { .wbs-conn .wbs-panel { width:58px } .wbs-conn { gap:8px } }
+.foot { margin-top:36px; text-align:center; color:var(--faint) }
+.sheet details { border-left:3px solid var(--rule); padding:2px 0 2px 12px; margin:8px 0 2px } .sheet details summary { cursor:pointer; font-weight:700 }
+.sheet details p { white-space:normal; font-size:13.5px; max-width:80ch } .sheet details .bp { color:var(--faint); font-size:12.5px }
+.sheet p img { max-width:100%; height:auto; max-height:320px; border:1px solid var(--rule); background:#fff; margin:4px 8px 4px 0;
+  vertical-align:top; box-shadow:0 2px 6px rgba(0,0,0,.12) }
+@media (max-width:600px) { .sheet::before { display:none } table { font-size:12.5px } }
+
+.cnt { white-space:nowrap } .err { color:#a52a22; font-weight:700 } .warn { color:#8a6a10 } .ok { color:#2e6b34 }
+#q { font:inherit; width:100%; padding:4px 8px; border:1px solid var(--rule); background:#fff; margin:6px 0 10px }
+.kinds { color:var(--faint); font-size:12px } .tabs button { font:inherit; border:1px solid var(--rule); background:#fff; padding:2px 10px; cursor:pointer }
+.tabs button.on { background:var(--ink); color:var(--paper) }
+</style></head><body><main class="sheet">
+<div class="top"><a href="../index.html">WBSps.ca archive</a><a href="../search.html">Search</a><a href="../viewer.html">Viewer</a></div>
+<h1>KiCad checks</h1>
+<p>KiCad's own rule checks on every KiCad file in the archive's public repositories: the <b>electrical rules check (ERC)</b> on each
+schematic and the <b>design rules check (DRC)</b> on each board, run by <code>kicad-cli</code> (<code>tools/kicad_checks.py</code>).
+Open a file to see it drawn (KiCanvas) with its findings beside it.</p>
+<p id="sum">Loading…</p>
+<p class="tabs"><button data-t="all" class="on">All</button> <button data-t="drc">Boards (DRC)</button> <button data-t="erc">Schematics (ERC)</button>
+ <button data-t="kicad">Drawn in KiCad</button> <button data-t="traced">Traced from scans</button></p>
+<blockquote>Schematics traced from a scan are lines only, no parts yet: their open wire ends are where the parts will be drawn in, so
+their ERC counts say how far each is from a finished schematic, not that the drawing is wrong.</blockquote>
+<input id="q" placeholder="Filter: a module, a repository, a file name, a kind of finding…">
+<table><thead><tr><th>File</th><th>Check</th><th>Errors</th><th>Warnings</th><th>Commonest</th></tr></thead><tbody id="rows"></tbody></table>
+</main>
+<script>
+const enc = p => p.split('/').map(encodeURIComponent).join('/');
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'})[c]);
+let ALL = [], TAB = 'all';
+fetch('../_catalog/kicad_checks/index.json').then(r => r.json()).then(d => {
+  ALL = d.files; const t = d.totals || {};
+  const f = k => (t[k] || 0).toLocaleString();
+  document.getElementById('sum').innerHTML = `${ALL.length.toLocaleString()} files: ${ALL.filter(r => r.check === 'drc').length} boards
+    (DRC: <span class="err">${f('drc error')} errors</span>, <span class="warn">${f('drc warning')} warnings</span>) and
+    ${ALL.filter(r => r.check === 'erc').length} schematics (ERC: <span class="err">${f('erc error')} errors</span>, <span class="warn">${f('erc warning')} warnings</span>).`;
+  draw();
+});
+function traced(r) { return r.check === 'erc' && (r.kinds || []).every(k => /wire_dangling|unconnected_wire_endpoint/.test(k[0])); }
+function draw() {
+  const q = document.getElementById('q').value.toLowerCase();
+  const rows = ALL.filter(r => (TAB === 'all' || r.check === TAB || (TAB === 'traced' && traced(r)) || (TAB === 'kicad' && !traced(r)))
+    && (!q || (r.repo + '/' + r.path + ' ' + (r.kinds || []).map(k => k[0]).join(' ')).toLowerCase().includes(q)));
+  rows.sort((a, b) => ((b.n || {}).error || 0) - ((a.n || {}).error || 0));
+  document.getElementById('rows').innerHTML = rows.slice(0, 800).map(r => {
+    const n = r.n || {}, p = 'WBSps.ca/Github.WardBeckSystems/' + r.repo + '/' + r.path;
+    return `<tr><td><a href="../viewer.html?f=${encodeURIComponent(p)}">${esc(r.path.split('/').pop())}</a><br><small class="kinds">${esc(r.repo)}</small></td>
+      <td>${r.check.toUpperCase()}</td><td class="cnt ${n.error ? 'err' : 'ok'}">${r.failed ? 'not checked' : (n.error || 0)}</td><td class="cnt warn">${n.warning || 0}</td>
+      <td class="kinds">${(r.kinds || []).slice(0, 3).map(k => esc(k[0].replace(/_/g, ' ')) + ' ' + k[1]).join(' · ')}</td></tr>`;
+  }).join('') + (rows.length > 800 ? `<tr><td colspan="5">…and ${rows.length - 800} more: filter to narrow the list.</td></tr>` : '');
+}
+document.getElementById('q').addEventListener('input', draw);
+document.querySelector('.tabs').addEventListener('click', e => { const b = e.target.closest('button'); if (!b) return;
+  TAB = b.dataset.t; document.querySelectorAll('.tabs button').forEach(x => x.classList.toggle('on', x === b)); draw(); });
+</script></body></html>
