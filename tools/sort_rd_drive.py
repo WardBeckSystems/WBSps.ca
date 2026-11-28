@@ -54,12 +54,19 @@ RULES = {   # name: (source folder, rule(rel) -> (repo, path in repo), only thes
                                           'SCHEMATICS/ORCAD/M719/' + rel.split('/', 1)[-1] if rel.startswith('ORCAD/') else 'SCHEMATICS/ORCAD/M719/' + rel)),
     'm8205': (f'{H}/M82X_OLD/M8205', lambda rel: ('MODULES.AMPLIFIERS.M8205-Audio-Distribution-Amplifier', 'SCHEMATICS/ORCAD/M8205/' + rel)),
     'mcom325': (f'{H}/mcom325 Microcom software', lambda rel: ('Microcom', 'mcom325 Microcom software/' + rel)),
+    'pod-old': (f'{H}/POD_OLD', lambda rel: ('PRODUCTS.PODS', (lambda top, rest: f'{top}/SCHEMATICS/ORCAD/{top}/{rest}'
+                if re.fullmatch(r'POD\d+[A-Z]?', top) and rest else f'SERIES/SCHEMATICS/{rel}')(*(rel.split('/', 1) + [''])[:2]))),
+    'd2000': (f'{H}/D2000 Digital rack', lambda rel: ('PRODUCTS.D2000', rel)),
+    'd8212f': (f'{H}/D8212F', lambda rel: ('PRODUCTS.D8212F', rel)),
 }
 RM = {   # folders removed from the R&D repo once all their rules are clean
     f'{REN}': ['ren-m920', 'ren-m921', 'ren-m923', 'ren-m926', 'ren-tvfunc'],
     f'{H}/M7XX': ['m703d', 'm719'],
     f'{H}/M82X_OLD': ['m8205'],
     f'{H}/mcom325 Microcom software': ['mcom325'],
+    f'{H}/POD_OLD': ['pod-old'],
+    f'{H}/D2000 Digital rack': ['d2000'],
+    f'{H}/D8212F': ['d8212f'],
 }
 
 
@@ -121,14 +128,18 @@ def main():
         print(f'{repo}: {len(items)} files' + (' (dry run)' if dry else ''))
         if dry:
             continue
-        git(d, 'fetch', '-q', 'origin')
-        ahead = int(git(d, 'rev-list', '--count', '@{u}..HEAD').strip() or 0)   # someone's unpushed commits
+        remote = bool(git(d, 'remote').strip())
+        if remote:
+            git(d, 'fetch', '-q', 'origin')
+        ahead = int(git(d, 'rev-list', '--count', '@{u}..HEAD', check=False).strip() or 0) if remote else 0
         for p, dest in items:
             os.makedirs(os.path.dirname(os.path.join(d, dest)), exist_ok=True)
             shutil.copy2(p, os.path.join(d, dest))
         paths = [dest for _, dest in items]
         git(d, 'add', '-f', '--', *paths)
         git(d, 'commit', '-qm', f'R&D drive: {len(items)} engineering files from ENGINEERING.RD-H-Drive / RD-APK sorted here (tools/sort_rd_drive.py){TRAILER}', '--', *paths)
+        if not remote:
+            print(f'   {repo}: committed, not pushed (no GitHub repo yet: tools/create_repos.py pushes it)'); continue
         if ahead:
             print(f'   {repo}: committed, NOT pushed ({ahead} earlier unpushed commits there are not mine)'); continue
         git(d, 'pull', '-q', '--rebase', 'origin', 'main')
