@@ -1,0 +1,84 @@
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-152/MANUALS/19xx - SA14-152C - PARTS LIST - MONO FILTER ASSEMBLY.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-152/MANUALS/19xx - SA14-152C - PARTS LIST - MONO FILTER ASSEMBLY.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M522-Equalizer-Module/MANUALS/19xx - SA14-152C - PARTS LIST - MONO FILTER ASSEMBLY.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M522-Equalizer-Module/MANUALS/19xx - SA14-152C - PARTS LIST - MONO FILTER ASSEMBLY.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-246/MANUALS/19xx - SA14-246H - CIRCUIT DESCRIPTION - KEYSWITCH ASSEMBLY.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-246/MANUALS/19xx - SA14-246H - CIRCUIT DESCRIPTION - KEYSWITCH ASSEMBLY.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7880H-Intercom-Module/MANUALS/19xx - SA14-246H - CIRCUIT DESCRIPTION - KEYSWITCH ASSEMBLY.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7880H-Intercom-Module/MANUALS/19xx - SA14-246H - CIRCUIT DESCRIPTION - KEYSWITCH ASSEMBLY.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-246/MANUALS/19xx - SA14-246HA - CIRCUIT DESCRIPTION - KEYSWITCH ASSEMBLY (M7880HA).pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-246/MANUALS/19xx - SA14-246HA - CIRCUIT DESCRIPTION - KEYSWITCH ASSEMBLY (M7880HA).wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7880H-Intercom-Module/MANUALS/19xx - SA14-246HA - CIRCUIT DESCRIPTION - KEYSWITCH ASSEMBLY (M7880HA).pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7880H-Intercom-Module/MANUALS/19xx - SA14-246HA - CIRCUIT DESCRIPTION - KEYSWITCH ASSEMBLY (M7880HA).wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7880H-Intercom-Module/MANUALS/19xx - SA14-247H - CIRCUIT DESCRIPTION - LOGIC ASSEMBLY.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7880H-Intercom-Module/MANUALS/19xx - SA14-247H - CIRCUIT DESCRIPTION - LOGIC ASSEMBLY.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7880-Intercom-System/MANUALS/19xx - SA14-271B - CIRCUIT DESCRIPTION - AUDIO ASSEMBLY (M7882 M7883).pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7880-Intercom-System/MANUALS/19xx - SA14-271B - CIRCUIT DESCRIPTION - AUDIO ASSEMBLY (M7882 M7883).wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-273-10X1-Stereo-Selector-Assembly/MANUALS/1994 - SA14-273 - MANUAL - 10x1 STEREO SELECTOR ASSEMBLY.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-273-10X1-Stereo-Selector-Assembly/MANUALS/1994 - SA14-273 - MANUAL - 10x1 STEREO SELECTOR ASSEMBLY.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M905B-Studio-Monitor-Module/MANUALS/1994 - SA14-273 - MANUAL - 10x1 STEREO SELECTOR ASSEMBLY.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M905B-Studio-Monitor-Module/MANUALS/1994 - SA14-273 - MANUAL - 10x1 STEREO SELECTOR ASSEMBLY.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-292/MANUALS/1995 - SA14-292 - MANUAL - VU METER AMPLIFIER.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-292/MANUALS/1995 - SA14-292 - MANUAL - VU METER AMPLIFIER.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-292/MANUALS/1995 - SA14-292B - PARTS LIST - EXTENDED RANGE VU METER AMPLIFIER ASSEMBLY.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-292/MANUALS/1995 - SA14-292B - PARTS LIST - EXTENDED RANGE VU METER AMPLIFIER ASSEMBLY.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-302-IKR-10A-Intercom-Key-Control-Audio/MANUALS/19xx - SA14-302 - PARTS LIST - IKR-10A INTERCOM PANEL AUDIO AND KEY CONTROL.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-302-IKR-10A-Intercom-Key-Control-Audio/MANUALS/19xx - SA14-302 - PARTS LIST - IKR-10A INTERCOM PANEL AUDIO AND KEY CONTROL.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7000-7000-Series-Intercom/MANUALS/19xx - SA14-302 - PARTS LIST - IKR-10A INTERCOM PANEL AUDIO AND KEY CONTROL.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7000-7000-Series-Intercom/MANUALS/19xx - SA14-302 - PARTS LIST - IKR-10A INTERCOM PANEL AUDIO AND KEY CONTROL.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-307-Extended-Range-Meter-Light-Bar/MANUALS/1995 - SA14-307A - MANUAL - EXTENDED RANGE METER LIGHT BAR.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-307-Extended-Range-Meter-Light-Bar/MANUALS/1995 - SA14-307A - MANUAL - EXTENDED RANGE METER LIGHT BAR.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.METER.M445-Extended-Range-Meter/MANUALS/1995 - SA14-307A - MANUAL - EXTENDED RANGE METER LIGHT BAR.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.METER.M445-Extended-Range-Meter/MANUALS/1995 - SA14-307A - MANUAL - EXTENDED RANGE METER LIGHT BAR.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-307-Extended-Range-Meter-Light-Bar/MANUALS/1995 - SA14-307 - MANUAL - EXTENDED RANGE METER LIGHT BAR.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-307-Extended-Range-Meter-Light-Bar/MANUALS/1995 - SA14-307 - MANUAL - EXTENDED RANGE METER LIGHT BAR.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.METER.M445-Extended-Range-Meter/MANUALS/1995 - SA14-307 - MANUAL - EXTENDED RANGE METER LIGHT BAR.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.METER.M445-Extended-Range-Meter/MANUALS/1995 - SA14-307 - MANUAL - EXTENDED RANGE METER LIGHT BAR.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.METER.M445-Extended-Range-Meter/MANUALS/1995 - SA14-304 - CIRCUIT DESCRIPTION - LCD-ENCODER BOARD.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.METER.M445-Extended-Range-Meter/MANUALS/1995 - SA14-304 - CIRCUIT DESCRIPTION - LCD-ENCODER BOARD.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-311-Speaker-Driver/MANUALS/1995 - SA14-311 - CIRCUIT DESCRIPTION - SPEAKER DRIVER ASSEMBLY.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-311-Speaker-Driver/MANUALS/1995 - SA14-311 - CIRCUIT DESCRIPTION - SPEAKER DRIVER ASSEMBLY.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.METER.M445-Extended-Range-Meter/MANUALS/1995 - SA14-311 - CIRCUIT DESCRIPTION - SPEAKER DRIVER ASSEMBLY.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.METER.M445-Extended-Range-Meter/MANUALS/1995 - SA14-311 - CIRCUIT DESCRIPTION - SPEAKER DRIVER ASSEMBLY.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-311-Speaker-Driver/MANUALS/1996 - SA14-311 - CIRCUIT DESCRIPTION - SPEAKER DRIVER ASSEMBLY.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-311-Speaker-Driver/MANUALS/1996 - SA14-311 - CIRCUIT DESCRIPTION - SPEAKER DRIVER ASSEMBLY.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.METER.M445-Extended-Range-Meter/MANUALS/1996 - SA14-311 - CIRCUIT DESCRIPTION - SPEAKER DRIVER ASSEMBLY.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.METER.M445-Extended-Range-Meter/MANUALS/1996 - SA14-311 - CIRCUIT DESCRIPTION - SPEAKER DRIVER ASSEMBLY.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-312/MANUALS/1995 - SA14-312 - PARTS LIST - AUDIO TERMINAL ASSEMBLY BACKPLANE.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-312/MANUALS/1995 - SA14-312 - PARTS LIST - AUDIO TERMINAL ASSEMBLY BACKPLANE.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-300-Control-Assembly/MANUALS/1995 - SA14-300 - CIRCUIT DESCRIPTION - CONTROL ASSEMBLY (RS8216).pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-300-Control-Assembly/MANUALS/1995 - SA14-300 - CIRCUIT DESCRIPTION - CONTROL ASSEMBLY (RS8216).wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/DOCUMENTS/Manuals + tech DOCUMENTS/Products/RS8216/1995 - SA14-300 - CIRCUIT DESCRIPTION - CONTROL ASSEMBLY (RS8216).pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/DOCUMENTS/Manuals + tech DOCUMENTS/Products/RS8216/1995 - SA14-300 - CIRCUIT DESCRIPTION - CONTROL ASSEMBLY (RS8216).wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-301/MANUALS/1995 - SA14-301 - CIRCUIT DESCRIPTION - PUSHBUTTON ASSEMBLY (RS8216).pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-301/MANUALS/1995 - SA14-301 - CIRCUIT DESCRIPTION - PUSHBUTTON ASSEMBLY (RS8216).wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/DOCUMENTS/Manuals + tech DOCUMENTS/Products/RS8216/1995 - SA14-301 - CIRCUIT DESCRIPTION - PUSHBUTTON ASSEMBLY (RS8216).pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/DOCUMENTS/Manuals + tech DOCUMENTS/Products/RS8216/1995 - SA14-301 - CIRCUIT DESCRIPTION - PUSHBUTTON ASSEMBLY (RS8216).wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/DOCUMENTS/Manuals + tech DOCUMENTS/Products/SA14-288/1995 - SA14-288 - PARTS LIST - BACKPLANE ASSEMBLY.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/DOCUMENTS/Manuals + tech DOCUMENTS/Products/SA14-288/1995 - SA14-288 - PARTS LIST - BACKPLANE ASSEMBLY.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/DOCUMENTS/Manuals + tech DOCUMENTS/Products/SA14-289/1995 - SA14-289 - PARTS LIST - POWER SUPPLY ASSEMBLY.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/DOCUMENTS/Manuals + tech DOCUMENTS/Products/SA14-289/1995 - SA14-289 - PARTS LIST - POWER SUPPLY ASSEMBLY.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/DOCUMENTS/Manuals + tech DOCUMENTS/Products/SA14-313/1995 - SA14-313 - PARTS LIST - EDAC TERMINAL BACKPLANE.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/DOCUMENTS/Manuals + tech DOCUMENTS/Products/SA14-313/1995 - SA14-313 - PARTS LIST - EDAC TERMINAL BACKPLANE.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7000-7000-Series-Intercom/MANUALS/1995 - IKR-10 - MANUAL - INTERCOM CONTROL PANEL.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7000-7000-Series-Intercom/MANUALS/1995 - IKR-10 - MANUAL - INTERCOM CONTROL PANEL.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7000-7000-Series-Intercom/MANUALS/1995 - IKR-10A - MANUAL - INTERCOM CONTROL PANEL.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7000-7000-Series-Intercom/MANUALS/1995 - IKR-10A - MANUAL - INTERCOM CONTROL PANEL.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-302-IKR-10A-Intercom-Key-Control-Audio/MANUALS/1995 - IKR-10A - MANUAL - INTERCOM CONTROL PANEL.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-302-IKR-10A-Intercom-Key-Control-Audio/MANUALS/1995 - IKR-10A - MANUAL - INTERCOM CONTROL PANEL.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7000-7000-Series-Intercom/MANUALS/1995 - IKR-4A - MANUAL - INTERCOM CONTROL PANEL.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7000-7000-Series-Intercom/MANUALS/1995 - IKR-4A - MANUAL - INTERCOM CONTROL PANEL.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7000-7000-Series-Intercom/MANUALS/19xx - IPH-1E - MANUAL - IFB BELTPACK.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7000-7000-Series-Intercom/MANUALS/19xx - IPH-1E - MANUAL - IFB BELTPACK.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7000-7000-Series-Intercom/MANUALS/19xx - IPH-4E - MANUAL - 4-WIRE BELTPACK.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7000-7000-Series-Intercom/MANUALS/19xx - IPH-4E - MANUAL - 4-WIRE BELTPACK.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/PRODUCTS.MF8200/MANUALS/1995 - MF82-4 - MANUAL - QUAD DA FRAME.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/PRODUCTS.MF8200/MANUALS/1995 - MF82-4 - MANUAL - QUAD DA FRAME.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/DOCUMENTS/Manuals + tech DOCUMENTS/Products/RS8216/1995 - RS8216 - MANUAL - ROUTING SWITCHER.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/DOCUMENTS/Manuals + tech DOCUMENTS/Products/RS8216/1995 - RS8216 - MANUAL - ROUTING SWITCHER.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/DOCUMENTS/Manuals + tech DOCUMENTS/Products/CLK1/1994 - CLK1 - MANUAL - CLOCK.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/DOCUMENTS/Manuals + tech DOCUMENTS/Products/CLK1/1994 - CLK1 - MANUAL - CLOCK.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/DOCUMENTS/Manuals + tech DOCUMENTS/Products/TMR1/1994 - TMR1 - MANUAL - TIMER.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/DOCUMENTS/Manuals + tech DOCUMENTS/Products/TMR1/1994 - TMR1 - MANUAL - TIMER.wp
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/DOCUMENTS/Manuals + tech DOCUMENTS/Products/AES3/1992 - AES3 - SPECIFICATION - SERIAL DIGITAL AUDIO DISTRIBUTION AMPLIFIER.pdf
+/home/anthony/Documents/GitProjects/WBSps.ca/WBSps.ca/Github.WardBeckSystems/DOCUMENTS/Manuals + tech DOCUMENTS/Products/AES3/1992 - AES3 - SPECIFICATION - SERIAL DIGITAL AUDIO DISTRIBUTION AMPLIFIER.wp
