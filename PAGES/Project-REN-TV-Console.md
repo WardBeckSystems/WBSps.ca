@@ -15,8 +15,8 @@ tags: ["project", "1990s"]
 | Files | 69 |
 | Job number | none found yet |
 | Folder | [DOCUMENTS/XXX - REN TV Console-20221115T024141Z-001/REN TV Console](../DOCUMENTS/XXX%20-%20REN%20TV%20Console-20221115T024141Z-001/REN%20TV%20Console/) |
-| Folder | [Modules/FILTERS/M922](../WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M922-Equalizer-Module/) |
-| Folder | [Modules/UNSORTED/M920](../WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M920/) |
+| Folder | [Modules/FILTERS/M922](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M922-Equalizer-Module/) |
+| Folder | [Modules/UNSORTED/M920](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M920/) |
 
 ## Modules
 

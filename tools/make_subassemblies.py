@@ -114,6 +114,7 @@ SAN = re.compile(r'\bSA ?14-(\d{3})([A-Z]?)\b')
 DTYPE = {'01': 'functional', '02': 'schematic', '03': 'assembly', '04': 'mechanical', '06': 'component layout'}
 SKIP_TOP = {'Intercom', 'Console', 'CONSOLES', 'WBSps.ca', '_audit', '_stage', 'PHOTOS', 'DOCUMENTS'}
 DERIVED = re.compile(r'\((traced|EXTRACTED)\)|\.(md|json|html|bak|kicad_sch|svg|dxf)$', re.I)
+DRAWN = re.compile(r'\.(jpe?g|png|gif|tiff?|bmp|pdf|dwg)$', re.I)   # drawings; OrCAD sets go separately
 AUDIT = os.path.join(TOP, 'tools', 'dwg_number_audit.tsv')
 
 
@@ -144,12 +145,12 @@ def scan_variants():
     out = defaultdict(lambda: defaultdict(list))
     seen = set()
     for top in sorted(os.listdir(G)):
-        if top in SKIP_TOP or top.startswith('SUBASSEMBLY.') or not os.path.isdir(os.path.join(G, top)):
+        if top in SKIP_TOP or top.startswith(('SUBASSEMBLY.', 'ENGINEERING.')) or not os.path.isdir(os.path.join(G, top)):
             continue
         for dp, dns, fns in os.walk(os.path.join(G, top)):
             dns[:] = [d for d in dns if d not in ('.git', 'OCR', '_traces')]
             for fn in fns:
-                if DERIVED.search(fn):
+                if DERIVED.search(fn) or not DRAWN.search(fn):
                     continue
                 path = os.path.join(dp, fn)
                 m, s = DWG.search(fn), SAN.search(fn)
@@ -169,6 +170,128 @@ def scan_variants():
                 seen.add(key)
                 out[nnn].setdefault(letter, []).append((num,) + key)
     return out
+
+
+ORCAD_EXT = re.compile(r'\.(DSN|SCH|PLT|BOM|NET|LIB|OLB|DBK|INF|INX|CFG|BCF|LST|TXT|LOG|DAT)$', re.I)
+SANUM = re.compile(r'(?<![\dA-Z])(?:SA)?\s?14-?(\d{3})(?!\d)', re.I)
+
+
+def sha(path):
+    import hashlib
+    h = hashlib.sha256()
+    with open(path, 'rb') as f:
+        for b in iter(lambda: f.read(1 << 20), b''):
+            h.update(b)
+    return h.hexdigest()
+
+
+def companions(path):
+    """The drawing and what was made from it: (traced)/(EXTRACTED) siblings, the OCR note, the KiCad sheet."""
+    dp, fn = os.path.split(path)
+    stem = os.path.splitext(fn)[0]
+    repo = repo_of(path)
+    out = [(path, None)]
+    for x in os.listdir(dp):
+        if x != fn and (x.startswith(stem + ' (traced)') or x.startswith(stem + ' (EXTRACTED)') or x == fn + '.md'):
+            out.append((os.path.join(dp, x), None))
+    for kind, name in (('OCR', fn + '.md'), ('KICAD', stem + '.kicad_sch')):
+        q = os.path.join(repo, kind, name)
+        if os.path.isfile(q):
+            out.append((q, kind))
+    return out
+
+
+def copy_in(src, dest_dir, have, log):
+    """Copy src into dest_dir unless the same bytes are already anywhere in that sub-assembly repo (one copy of each
+    file per repo); a different file of the same name gets (2)."""
+    repo = os.path.join(G, os.path.relpath(dest_dir, G).split(os.sep)[0])
+    if repo not in have:
+        have[repo] = set()
+        for dp, dns, fns in os.walk(repo):
+            dns[:] = [d for d in dns if d != '.git']
+            have[repo] |= {sha(os.path.join(dp, f)) for f in fns if f not in ('README.md', '.gitignore')}
+    h = sha(src)
+    if h in have[repo]:
+        return
+    os.makedirs(dest_dir, exist_ok=True)
+    fn = os.path.basename(src)
+    dst = os.path.join(dest_dir, fn)
+    k = 2
+    while os.path.exists(dst):
+        b, e = os.path.splitext(fn)
+        dst = os.path.join(dest_dir, f'{b} ({k}){e}')
+        k += 1
+    shutil.copy2(src, dst)
+    have[repo].add(h)
+    log.append((os.path.relpath(src, G), os.path.relpath(dst, G)))
+
+
+def copy_drawings(sa, names, dry):
+    """Every sub-assembly's drawings duplicated into its own repo from the repo they come from (originals stay):
+    the variant drawings and their companions, and the OrCAD sets (SA14nnn / 14-nnn .DSN .SCH .PLT ...)."""
+    log, have = [], {}
+    vs = scan_variants()
+    for nnn, byv in vs.items():
+        name = names.get(nnn)
+        if not name:
+            continue
+        for v, ds in byv.items():
+            for num, repo, rel in ds:
+                if repo.startswith('RECOVERY.'):
+                    continue
+                src = os.path.join(G, repo, rel)
+                kind = rel.split(os.sep)[0] if os.sep in rel and rel.split(os.sep)[0] in KINDS else 'SCHEMATICS'
+                for p, k in companions(src):
+                    if not dry:
+                        copy_in(p, os.path.join(G, name, k or kind), have, log)
+                    else:
+                        log.append((os.path.relpath(p, G), os.path.join(name, k or kind)))
+    inside = {}
+    if os.path.exists(AUDIT):
+        import csv
+        for r in csv.DictReader(open(AUDIT, encoding='utf-8'), delimiter='\t'):
+            nums = {n.split('-')[1] for n in r['numbers'].split() if n.startswith('14-')}
+            if len(nums) == 1:
+                inside[os.path.join(G, r['path'])] = nums.pop()
+    done = {os.path.join(G, f) for f, _ in log}
+    generic = {'ORCAD', 'ORCADWIN', 'ACAD', 'TANGO', 'SCHEMATICS', 'MECHANICAL', 'MECHANIC', 'ISS1', 'ISS2', 'OLD', 'OBSOLETE', 'PCB'}
+    for top in sorted(os.listdir(G)):   # OrCAD sets and AutoCAD drawings: Engineering and the module repos
+        if top in SKIP_TOP or top.startswith(('SUBASSEMBLY.', 'RECOVERY.', 'ENGINEERING.')) or not os.path.isdir(os.path.join(G, top)):
+            continue
+        for dp, dns, fns in os.walk(os.path.join(G, top)):
+            dns[:] = [d for d in dns if d not in ('.git', 'OCR', '_traces')]
+            anc = []   # the SA14-nnn folder this is in (up to three levels up)
+            q = dp
+            for _ in range(3):
+                m = SANUM.match(os.path.basename(q))
+                if m:
+                    anc = [m.group(1), os.path.basename(q)]
+                    break
+                q = os.path.dirname(q)
+            for f in fns:
+                cad = re.search(r'\.(dwg|dxf)$', f, re.I)
+                if not (ORCAD_EXT.search(f) or cad) or DERIVED.search(f.replace('.dxf', '')) or '(traced)' in f:
+                    continue
+                path = os.path.join(dp, f)
+                if path in done:
+                    continue
+                m = SANUM.search(f)
+                nnn = m.group(1) if m else inside.get(path) or (anc[0] if anc else None)
+                name = names.get(nnn)
+                if not name:
+                    continue
+                label = anc[1] if anc and anc[0] == nnn else next(
+                    (x for x in (os.path.basename(dp), os.path.basename(os.path.dirname(dp)))
+                     if x.upper() not in generic), os.path.basename(dp))
+                dest = os.path.join(G, name, 'MECHANICAL' if cad else 'SCHEMATICS', 'ACAD' if cad else 'ORCAD', label)
+                if dry:
+                    log.append((os.path.relpath(path, G), os.path.relpath(dest, G)))
+                else:
+                    copy_in(path, dest, have, log)
+    import csv
+    with open(os.path.join(TOP, 'tools', 'subassembly_copies.tsv'), 'w', newline='') as fh:
+        w = csv.writer(fh, delimiter='\t'); w.writerow(['from', 'to']); w.writerows(log)
+    print(f'{len(log)} files {"would be " if dry else ""}duplicated into the sub-assembly repos (tools/subassembly_copies.tsv)')
 
 
 def gh(repo, rel):
@@ -263,6 +386,8 @@ def main():
         open(os.path.join(d, 'README.md'), 'w', encoding='utf-8').write(readme(n, e, name))
         if gi and not os.path.exists(os.path.join(d, '.gitignore')):
             open(os.path.join(d, '.gitignore'), 'w').write(gi)
+    if '--copy-drawings' in sys.argv:
+        copy_drawings(sa, {f'{int(n):03d}': repo_name(n, e) for n, e in sa.items()}, dry)
     if not dry:
         json.dump(index, open(os.path.join(TOP, 'tools', 'subassemblies.json'), 'w'), indent=1)
     print(f'{len(sa)} sub-assemblies' + (' (dry run)' if dry else f' in {G}'))

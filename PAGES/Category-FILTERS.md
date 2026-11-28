@@ -9,6 +9,8 @@ title: "FILTERS"
 
 | Code | Name | Earliest evidence | Confidence | Files |
 |---|---|---|---|---|
+| [M129](M129.md) |  | [1968\|1](Year-1968.md) | high | 3 |
+| [M144](M144.md) |  | [1968\|1](Year-1968.md) | high | 2 |
 | [M402](M402.md) |  | [1968\|1](Year-1968.md) | high | 50 |
 | [M402A](M402A.md) | Spec Sheet | [1968\|1](Year-1968.md) | family | 60 |
 | [M402B](M402B.md) | Effects Equalizer | [1970\|3](Year-1970.md) | high | 69 |
@@ -25,4 +27,3 @@ title: "FILTERS"
 | [M522B](M522B.md) |  | [1995\|28](Year-1995.md) | low (named by) | 40 |
 | [M522C](M522C.md) |  | [1995\|28](Year-1995.md) | low (named by) | 10 |
 | [M562C](M562C.md) | Stereo Equalizer Module | [1985\|18](Year-1985.md) | high | 53 |
-| [M922](M922.md) | Mono Equalizer | [1994\|27](Year-1994.md) | medium | 24 |

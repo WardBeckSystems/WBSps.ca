@@ -17,7 +17,7 @@ Console series: [R2K](Series-R2K.md) · [R2K Cool Grey](Series-R2K-Cool-Grey.md)
 | Files | 111 |
 | Job number | none found yet |
 | Folder | [Consoles/1990-1999/R2K](../Products/Consoles/1990-1999/R2K/) |
-| Folder | [Modules/UNSORTED/M908](../WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M908-Dual-Stereo-Line-Selector/) |
+| Folder | [Modules/UNSORTED/M908](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M908-Dual-Stereo-Line-Selector/) |
 
 ## Modules
 

@@ -25,7 +25,7 @@
    "pol": null,
    "src": {
     "sha": "08d57c1968e2378774686becf34d14eda79551b3ce473fedad0d9a6a84e19e89",
-    "file": "Modules/UNSORTED/M901A/MANUALS/1995 - M901A - 901-01-002 - COMPONENT LAYOUT.wp",
+    "file": "Modules/RENAISSANCE/M901A/MANUALS/1995 - M901A - 901-01-002 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "A momentary closure to control common via an open collector transistor which follows source selection is available at module connector P2 pin 36 and P2 pin 35 for the A and B inputs respectively.",
@@ -44,7 +44,7 @@
    "pol": null,
    "src": {
     "sha": "08d57c1968e2378774686becf34d14eda79551b3ce473fedad0d9a6a84e19e89",
-    "file": "Modules/UNSORTED/M901A/MANUALS/1995 - M901A - 901-01-002 - COMPONENT LAYOUT.wp",
+    "file": "Modules/RENAISSANCE/M901A/MANUALS/1995 - M901A - 901-01-002 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "A momentary closure to control common via an open collector transistor which follows source selection is available at module connector P2 pin 36 and P2 pin 35 for the A and B inputs respectively.",
@@ -63,7 +63,7 @@
    "pol": null,
    "src": {
     "sha": "08d57c1968e2378774686becf34d14eda79551b3ce473fedad0d9a6a84e19e89",
-    "file": "Modules/UNSORTED/M901A/MANUALS/1995 - M901A - 901-01-002 - COMPONENT LAYOUT.wp",
+    "file": "Modules/RENAISSANCE/M901A/MANUALS/1995 - M901A - 901-01-002 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "This alternate action can be invoked by either momentarily closing Cue switch SW1 (Q), or momentarily grounding the external Cue control input at module connector P2 pin 41.",
@@ -82,7 +82,7 @@
    "pol": null,
    "src": {
     "sha": "08d57c1968e2378774686becf34d14eda79551b3ce473fedad0d9a6a84e19e89",
-    "file": "Modules/UNSORTED/M901A/MANUALS/1995 - M901A - 901-01-002 - COMPONENT LAYOUT.wp",
+    "file": "Modules/RENAISSANCE/M901A/MANUALS/1995 - M901A - 901-01-002 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "The lamp integral to the Channel Off switch is uncommitted and available at module connector P2 pins 45 and 46.",
@@ -101,7 +101,7 @@
    "pol": null,
    "src": {
     "sha": "08d57c1968e2378774686becf34d14eda79551b3ce473fedad0d9a6a84e19e89",
-    "file": "Modules/UNSORTED/M901A/MANUALS/1995 - M901A - 901-01-002 - COMPONENT LAYOUT.wp",
+    "file": "Modules/RENAISSANCE/M901A/MANUALS/1995 - M901A - 901-01-002 - COMPONENT LAYOUT.wp",
     "page": 1
    },
    "quote": "The lamp integral to the Channel Off switch is uncommitted and available at module connector P2 pins 45 and 46.",

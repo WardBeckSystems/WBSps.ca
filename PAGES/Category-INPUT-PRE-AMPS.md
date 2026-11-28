@@ -9,6 +9,9 @@ title: "INPUT-PRE-AMPS"
 
 | Code | Name | Earliest evidence | Confidence | Files |
 |---|---|---|---|---|
+| [M020](M020.md) |  | [1978\|11](Year-1978.md) | estimate | 1 |
+| [M181](M181.md) |  | [1973\|6](Year-1973.md) | high | 4 |
+| [M420](M420.md) |  | [1969\|2](Year-1969.md) | high | 14 |
 | [M441](M441.md) |  | [1971\|4](Year-1971.md) | high | 59 |
 | [M441F](M441F.md) |  | [1972\|5](Year-1972.md) | medium | 3 |
 | [M441M](M441M.md) | Channel Amplifier | [1973\|6](Year-1973.md) | high | 85 |
@@ -53,9 +56,10 @@ title: "INPUT-PRE-AMPS"
 | [M490M](M490M.md) | Stereo Input Module | [1988\|21](Year-1988.md) | high | 48 |
 | [M490N](M490N.md) | Stereo Input Module | [1985\|18](Year-1985.md) | medium | 49 |
 | [M490T](M490T.md) |  | [1978\|11](Year-1978.md) | family | 3 |
+| [M501](M501.md) |  | [1968\|1](Year-1968.md) | high | 6 |
 | [M520](M520.md) | Mono Input Module | [1988\|21](Year-1988.md) | low (in use by) | 109 |
+| [M5200A](M5200A.md) |  | [1985\|18](Year-1985.md) | high | 159 |
 | [M520A](M520A.md) |  | [1988\|21](Year-1988.md) | high | 117 |
 | [M520K](M520K.md) | Stereo Input | [1988\|21](Year-1988.md) | family | 12 |
 | [M521](M521.md) | Sterio Input Module Connector Layout | [1985\|18](Year-1985.md) | high | 125 |
 | [M521A](M521A.md) | Stereo Input Module | [1982\|15](Year-1982.md) | medium | 39 |
-| [M5200A](M5200A.md) |  | [1985\|18](Year-1985.md) | high | 159 |

@@ -9,9 +9,13 @@ title: "COMMUNICATION"
 
 | Code | Name | Earliest evidence | Confidence | Files |
 |---|---|---|---|---|
+| [M168](M168.md) |  | [1970\|3](Year-1970.md) | medium | 1 |
+| [M174](M174.md) |  | [1970\|3](Year-1970.md) | high | 1 |
 | [M494](M494.md) | Remote Line Tb Module | [1978\|11](Year-1978.md) | high | 42 |
 | [M529](M529.md) | Communication Modules | [1985\|18](Year-1985.md) | high | 68 |
+| [M7000](M7000.md) |  | [1977\|10](Year-1977.md) | medium | 28 |
 | [M701](M701.md) | Intercom Input Amplifier | [1975\|8](Year-1975.md) | medium | 63 |
+| [M7012C](M7012C.md) |  | [1995\|28](Year-1995.md) | medium | 1 |
 | [M701D](M701D.md) |  | [1996\|29](Year-1996.md) | medium | 1 |
 | [M702](M702.md) | Intercom Output Amplifier | [1997\|30](Year-1997.md) | medium | 76 |
 | [M702D](M702D.md) | Intercom Output Amplifier | [1996\|29](Year-1996.md) | high | 2 |
@@ -53,9 +57,6 @@ title: "COMMUNICATION"
 | [M777](M777.md) |  | [1982\|15](Year-1982.md) | high | 7 |
 | [M778](M778.md) |  | [1982\|15](Year-1982.md) | low (named by) | 1 |
 | [M780](M780.md) |  | [1981\|14](Year-1981.md) | high | 4 |
-| [M812B](M812B.md) | Audio Inputs 12x1 Switcher | [1975\|8](Year-1975.md) | estimate | 5 |
-| [M7000](M7000.md) |  | [1977\|10](Year-1977.md) | medium | 28 |
-| [M7012C](M7012C.md) |  | [1995\|28](Year-1995.md) | medium | 1 |
 | [M7800](M7800.md) |  | [1981\|14](Year-1981.md) | low (named by) | 5 |
 | [M7810](M7810.md) |  | [1982\|15](Year-1982.md) | low (named by) | 2 |
 | [M7820](M7820.md) |  | [1982\|15](Year-1982.md) | low (named by) | 1 |
@@ -67,3 +68,4 @@ title: "COMMUNICATION"
 | [M7880H](M7880H.md) |  | [1994\|27](Year-1994.md) | medium | 4 |
 | [M7884](M7884.md) |  | [1995\|28](Year-1995.md) | low (named by) | 7 |
 | [M7885A](M7885A.md) |  | [1994\|27](Year-1994.md) | medium | 4 |
+| [M812B](M812B.md) | Audio Inputs 12x1 Switcher | [1975\|8](Year-1975.md) | estimate | 5 |

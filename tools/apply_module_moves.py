@@ -7,7 +7,7 @@ Fix: the timeline database (every text column that holds a path), 2026/_catalog 
      hotspots.js, folders/, rotation, traces …), and every .md / .html / .js / .json page under 2026 that links a module
      file, raw or URL-encoded (%20). Only exact, whole file names are replaced.
 
-    python3 tools/apply_module_moves.py [--db-only|--files-only] [--dry]
+    python3 tools/apply_module_moves.py [--moves MOVES.tsv] [--db-only|--files-only] [--dry]
 """
 import json
 import os
@@ -18,7 +18,8 @@ from urllib.parse import quote
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 Y2026 = os.path.join(ROOT, '2026')
 DB = os.path.join(Y2026, 'timelines', 'wbs_timeline.db')
-MOVES = os.path.join(ROOT, 'tools', 'module_moves.tsv')
+MOVES = (sys.argv[sys.argv.index('--moves') + 1] if '--moves' in sys.argv     # e.g. tools/module_category_moves.tsv
+         else os.path.join(ROOT, 'tools', 'module_moves.tsv'))
 DRY = '--dry' in sys.argv
 TEXT_EXT = {'.md', '.html', '.js', '.json', '.csv', '.svg', '.txt'}
 SKIP_DIRS = {'.git', 'node_modules', 'venv', 'venv-gpu', '__pycache__', 'extractors', '_packages', 'target', 'thumbs', 'pdfjs'}

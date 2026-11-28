@@ -9,6 +9,8 @@ title: "DYNAMICS"
 
 | Code | Name | Earliest evidence | Confidence | Files |
 |---|---|---|---|---|
+| [M146](M146.md) |  | [1968\|1](Year-1968.md) | high | 6 |
+| [M147](M147.md) |  | [1968\|1](Year-1968.md) | high | 3 |
 | [M406](M406.md) | Compressor - Limiter | [1968\|1](Year-1968.md) | high | 48 |
 | [M406A](M406A.md) |  | [1968\|1](Year-1968.md) | family | 1 |
 | [M406B](M406B.md) | Compressor/Limiter | [1969\|2](Year-1969.md) | medium | 75 |

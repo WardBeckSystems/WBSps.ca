@@ -21,8 +21,12 @@ title: "ROUTING"
 | [M468A](M468A.md) |  | [1970\|3](Year-1970.md) | family | 2 |
 | [M468AN](M468AN.md) | Routing Switcher Module | [1970\|3](Year-1970.md) | family | 3 |
 | [M468M](M468M.md) |  | [1976\|9](Year-1976.md) | high | 5 |
+| [M469](M469.md) | Assignment Module | [1978\|11](Year-1978.md) | high | 9 |
+| [M478](M478.md) | Assign Module | [1976\|9](Year-1976.md) | low (in use by) | 12 |
+| [M478H](M478H.md) | Slate Assign Module | [1984\|17](Year-1984.md) | high | 11 |
 | [M498](M498.md) | Stereo Setector | [1977\|10](Year-1977.md) | low (in use by) | 103 |
 | [M498A](M498A.md) | 10 X 1 Selector | [1984\|17](Year-1984.md) | low (in use by) | 6 |
+| [M499](M499.md) | Insertion Switcher | [1990\|23](Year-1990.md) | low (in use by) | 40 |
 | [M538](M538.md) | Aicw 8x1 Stereo Switcher | [1985\|18](Year-1985.md) | high | 68 |
 | [M538C](M538C.md) |  | [1985\|18](Year-1985.md) | low (named by) | 17 |
 | [M559A](M559A.md) |  | [1995\|28](Year-1995.md) | estimate | 18 |
@@ -31,3 +35,4 @@ title: "ROUTING"
 | [M568P](M568P.md) |  | [1995\|28](Year-1995.md) | low (named by) | 24 |
 | [M568Q](M568Q.md) | Stereoassignment Module | [1995\|28](Year-1995.md) | low (named by) | 16 |
 | [M568W](M568W.md) |  | [1985\|18](Year-1985.md) | estimate | 4 |
+| [M804](M804.md) |  | [1973\|6](Year-1973.md) | high | 1 |

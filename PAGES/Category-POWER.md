@@ -9,8 +9,11 @@ title: "POWER"
 
 | Code | Name | Earliest evidence | Confidence | Files |
 |---|---|---|---|---|
+| [M117](M117.md) |  | [1987\|20](Year-1987.md) | medium | 1 |
 | [M128](M128.md) |  | [1968\|1](Year-1968.md) | high | 11 |
+| [M136](M136.md) |  | [1970\|3](Year-1970.md) | low (named by) | 1 |
 | [M207](M207.md) | Phantom Power Card | [1982\|15](Year-1982.md) | high | 39 |
+| [M448](M448.md) |  | [1969\|2](Year-1969.md) | high | 1 |
 | [M485](M485.md) |  | [1979\|12](Year-1979.md) | high | 7 |
 | [M485B](M485B.md) | SERIES REG BASE | [1978\|11](Year-1978.md) | high | 48 |
 | [M611](M611.md) |  | [1982\|15](Year-1982.md) | high | 20 |

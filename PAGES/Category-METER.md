@@ -21,5 +21,6 @@ title: "METER"
 | [M435](M435.md) |  | [1994\|27](Year-1994.md) | high | 22 |
 | [M436L](M436L.md) |  | [2014\|47](Year-2014.md) | certain | 2 |
 | [M445](M445.md) | Extended Range Meter | [1996\|29](Year-1996.md) | high | 98 |
+| [M458](M458.md) |  | [1977\|10](Year-1977.md) | high | 6 |
 | [RM401](RM401.md) |  | [1968\|1](Year-1968.md) | estimate | 20 |
 | [RM405](RM405.md) |  | [1971\|4](Year-1971.md) | low (named by) | 2 |
