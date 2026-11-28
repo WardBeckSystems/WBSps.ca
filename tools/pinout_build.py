@@ -10,7 +10,7 @@ For each module this merges:
 
 into `RTO.json` (every contact: connector, pin, signal, kind, port, polarity, which pictures
 read it, whether the sheet agrees; the ports, the inserts as send / return pairs, the straps,
-every disagreement) and `KICAD/<code>.kicad_sym`: inputs on the left, outputs on the right,
+every disagreement); then the symbol, always synthesized from RTO.json by tools/symbol_synth.py: inputs on the left, outputs on the right,
 each insert a block of its own (send, then return, together), power on top, grounds at the
 bottom. The symbol keeps the header (title, category, year …) of the one it replaces.
 
@@ -639,11 +639,9 @@ def write_module(d, code, doc):
         src = os.path.join(ENG, 'RTO-144', code, f'{code}.kicad_sym')
         old = open(src, encoding='utf-8').read() if os.path.exists(src) else None
     readme_section(d)
-    os.makedirs(os.path.dirname(sym), exist_ok=True)
-    if os.path.islink(sym) or (os.path.exists(sym) and os.stat(sym).st_nlink > 1):
-        os.unlink(sym)   # a hard link into Engineering: this module's own symbol now
-    with open(sym, 'w', encoding='utf-8') as fh:
-        fh.write(symbol(code, doc, old))
+    # the symbol (KiCad, SVG, DXF, PowerPoint, Visio) is always synthesized from RTO.json, by one tool: tools/symbol_synth.py
+    import symbol_synth
+    symbol_synth.synth_one(code, symbol_synth.category_of(d), d, doc)
 
 
 if __name__ == '__main__':
