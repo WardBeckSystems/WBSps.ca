@@ -1067,3 +1067,1335 @@
 [submodule "Intercom"]
 	path = WBSps.ca/Github.WardBeckSystems/Intercom
 	url = https://github.com/WardBeckSystems/Intercom.git
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.1968-Little-Green-Giant-LGG-baby-Beck"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.1968-Little-Green-Giant-LGG-baby-Beck
+	url = https://github.com/WardBeckSystems/CONSOLE.1968-Little-Green-Giant-LGG-baby-Beck.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.1984-T1202A-serial-8405073"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.1984-T1202A-serial-8405073
+	url = https://github.com/WardBeckSystems/CONSOLE.1984-T1202A-serial-8405073.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.1990-900412-ST-console-9004121"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.1990-900412-ST-console-9004121
+	url = https://github.com/WardBeckSystems/CONSOLE.1990-900412-ST-console-9004121.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.24x12-console-brochure"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.24x12-console-brochure
+	url = https://github.com/WardBeckSystems/CONSOLE.24x12-console-brochure.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.710023-CBC-Montreal"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.710023-CBC-Montreal
+	url = https://github.com/WardBeckSystems/CONSOLE.710023-CBC-Montreal.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.710032-CKEY-Radio-Toronto"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.710032-CKEY-Radio-Toronto
+	url = https://github.com/WardBeckSystems/CONSOLE.710032-CKEY-Radio-Toronto.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.710036-CFTO-TV-Toronto"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.710036-CFTO-TV-Toronto
+	url = https://github.com/WardBeckSystems/CONSOLE.710036-CFTO-TV-Toronto.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.710050-WWL-TV-New-Orleans"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.710050-WWL-TV-New-Orleans
+	url = https://github.com/WardBeckSystems/CONSOLE.710050-WWL-TV-New-Orleans.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.720012-CHAN-TV-Vancouver"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.720012-CHAN-TV-Vancouver
+	url = https://github.com/WardBeckSystems/CONSOLE.720012-CHAN-TV-Vancouver.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.720028-Boston-title-block-cut-off-in-the-ad"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.720028-Boston-title-block-cut-off-in-the-ad
+	url = https://github.com/WardBeckSystems/CONSOLE.720028-Boston-title-block-cut-off-in-the-ad.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.720032-CHCH-TV-Hamilton"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.720032-CHCH-TV-Hamilton
+	url = https://github.com/WardBeckSystems/CONSOLE.720032-CHCH-TV-Hamilton.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.730001-ABC-WLS-TV-Chicago"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.730001-ABC-WLS-TV-Chicago
+	url = https://github.com/WardBeckSystems/CONSOLE.730001-ABC-WLS-TV-Chicago.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.730028-CKWX-Vancouver"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.730028-CKWX-Vancouver
+	url = https://github.com/WardBeckSystems/CONSOLE.730028-CKWX-Vancouver.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.730030"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.730030
+	url = https://github.com/WardBeckSystems/CONSOLE.730030.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.730034-WBEN-Buffalo-NY"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.730034-WBEN-Buffalo-NY
+	url = https://github.com/WardBeckSystems/CONSOLE.730034-WBEN-Buffalo-NY.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.730035-CJOH-TV-Ottawa"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.730035-CJOH-TV-Ottawa
+	url = https://github.com/WardBeckSystems/CONSOLE.730035-CJOH-TV-Ottawa.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.730050"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.730050
+	url = https://github.com/WardBeckSystems/CONSOLE.730050.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.730065"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.730065
+	url = https://github.com/WardBeckSystems/CONSOLE.730065.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.740062"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.740062
+	url = https://github.com/WardBeckSystems/CONSOLE.740062.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.740066"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.740066
+	url = https://github.com/WardBeckSystems/CONSOLE.740066.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.740071"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.740071
+	url = https://github.com/WardBeckSystems/CONSOLE.740071.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.740075"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.740075
+	url = https://github.com/WardBeckSystems/CONSOLE.740075.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.740076"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.740076
+	url = https://github.com/WardBeckSystems/CONSOLE.740076.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.740083"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.740083
+	url = https://github.com/WardBeckSystems/CONSOLE.740083.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.750015"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.750015
+	url = https://github.com/WardBeckSystems/CONSOLE.750015.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.750024"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.750024
+	url = https://github.com/WardBeckSystems/CONSOLE.750024.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.750046"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.750046
+	url = https://github.com/WardBeckSystems/CONSOLE.750046.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.750056"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.750056
+	url = https://github.com/WardBeckSystems/CONSOLE.750056.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.760019"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.760019
+	url = https://github.com/WardBeckSystems/CONSOLE.760019.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.760036"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.760036
+	url = https://github.com/WardBeckSystems/CONSOLE.760036.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.760042-Mobile-Audio-Console"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.760042-Mobile-Audio-Console
+	url = https://github.com/WardBeckSystems/CONSOLE.760042-Mobile-Audio-Console.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO
+	url = https://github.com/WardBeckSystems/CONSOLE.760045-CFTO.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.770012-04-002-L2042-layout-iss-5"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.770012-04-002-L2042-layout-iss-5
+	url = https://github.com/WardBeckSystems/CONSOLE.770012-04-002-L2042-layout-iss-5.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.770024"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.770024
+	url = https://github.com/WardBeckSystems/CONSOLE.770024.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.770038-04-001-L3242-layout-iss-1"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.770038-04-001-L3242-layout-iss-1
+	url = https://github.com/WardBeckSystems/CONSOLE.770038-04-001-L3242-layout-iss-1.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.780035-04-002-L3242A-layout-iss-1"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.780035-04-002-L3242A-layout-iss-1
+	url = https://github.com/WardBeckSystems/CONSOLE.780035-04-002-L3242A-layout-iss-1.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.780050-04-002-L2042A-layout"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.780050-04-002-L2042A-layout
+	url = https://github.com/WardBeckSystems/CONSOLE.780050-04-002-L2042A-layout.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A
+	url = https://github.com/WardBeckSystems/CONSOLE.790236-Maryland-L3242A.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.800278"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.800278
+	url = https://github.com/WardBeckSystems/CONSOLE.800278.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.800595"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.800595
+	url = https://github.com/WardBeckSystems/CONSOLE.800595.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.802-console-8x2"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.802-console-8x2
+	url = https://github.com/WardBeckSystems/CONSOLE.802-console-8x2.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.820321"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.820321
+	url = https://github.com/WardBeckSystems/CONSOLE.820321.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.820322-Console"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.820322-Console
+	url = https://github.com/WardBeckSystems/CONSOLE.820322-Console.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.830132-CFBK-RADIO-HUNTSVILLE-R1000-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.830132-CFBK-RADIO-HUNTSVILLE-R1000-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.830132-CFBK-RADIO-HUNTSVILLE-R1000-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.840300"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.840300
+	url = https://github.com/WardBeckSystems/CONSOLE.840300.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.850450"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.850450
+	url = https://github.com/WardBeckSystems/CONSOLE.850450.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.851052"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.851052
+	url = https://github.com/WardBeckSystems/CONSOLE.851052.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.860401-RNZ-WELLINGTON-R1400-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.860401-RNZ-WELLINGTON-R1400-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.860401-RNZ-WELLINGTON-R1400-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.860601-WIOD-WAIA-PRODUCTION-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.860601-WIOD-WAIA-PRODUCTION-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.860601-WIOD-WAIA-PRODUCTION-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.860715-TURNER-BROADCASTING-SYSTEM-MICROPHONE-PREAMPLIFIER-ASSEMBLY"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.860715-TURNER-BROADCASTING-SYSTEM-MICROPHONE-PREAMPLIFIER-ASSEMBLY
+	url = https://github.com/WardBeckSystems/CONSOLE.860715-TURNER-BROADCASTING-SYSTEM-MICROPHONE-PREAMPLIFIER-ASSEMBLY.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.860718-CNN-MICROPHONE-PREAMPLIFIER-ASSEMBLY"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.860718-CNN-MICROPHONE-PREAMPLIFIER-ASSEMBLY
+	url = https://github.com/WardBeckSystems/CONSOLE.860718-CNN-MICROPHONE-PREAMPLIFIER-ASSEMBLY.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.870131-CFBK-RADIO-HUNTSVILLE-R1400-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.870131-CFBK-RADIO-HUNTSVILLE-R1400-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.870131-CFBK-RADIO-HUNTSVILLE-R1400-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.870132-CFBK-RADIO-HUNTSVILLE-R1000-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.870132-CFBK-RADIO-HUNTSVILLE-R1000-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.870132-CFBK-RADIO-HUNTSVILLE-R1000-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.870135-CJCL-RADIO-R2200-MCR-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.870135-CJCL-RADIO-R2200-MCR-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.870135-CJCL-RADIO-R2200-MCR-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.870136-CJCL-RADIO-R2200-PRODUCTION-1-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.870136-CJCL-RADIO-R2200-PRODUCTION-1-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.870136-CJCL-RADIO-R2200-PRODUCTION-1-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.870137-TELEMEDIA-BROADCAST-SYSTEM-R2200-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.870137-TELEMEDIA-BROADCAST-SYSTEM-R2200-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.870137-TELEMEDIA-BROADCAST-SYSTEM-R2200-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.870147-ADOLPH-COORS-COMPANY-CUSTOM-R600-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.870147-ADOLPH-COORS-COMPANY-CUSTOM-R600-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.870147-ADOLPH-COORS-COMPANY-CUSTOM-R600-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.870155-CKNM-FM-R1000-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.870155-CKNM-FM-R1000-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.870155-CKNM-FM-R1000-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.870197-CKBI-TELEVISION-R600-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.870197-CKBI-TELEVISION-R600-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.870197-CKBI-TELEVISION-R600-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.870374-CKPR-RADIO-R1000-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.870374-CKPR-RADIO-R1000-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.870374-CKPR-RADIO-R1000-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.870412-RNZ-WELLINGTON-R2200-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.870412-RNZ-WELLINGTON-R2200-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.870412-RNZ-WELLINGTON-R2200-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.870504-WPLN-RADIO-NASHVILLE-CUSTOM-R2200-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.870504-WPLN-RADIO-NASHVILLE-CUSTOM-R2200-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.870504-WPLN-RADIO-NASHVILLE-CUSTOM-R2200-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.870555-WOI-FM-R2200-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.870555-WOI-FM-R2200-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.870555-WOI-FM-R2200-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.870642-CHXL-R1000-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.870642-CHXL-R1000-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.870642-CHXL-R1000-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.870643-TELEMEDIA-BROADCASTING-SYSTEMS-R1000-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.870643-TELEMEDIA-BROADCASTING-SYSTEMS-R1000-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.870643-TELEMEDIA-BROADCASTING-SYSTEMS-R1000-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.870648-CING-FM-R2200-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.870648-CING-FM-R2200-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.870648-CING-FM-R2200-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.870750-RNZ-WELLINGTON-R200-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.870750-RNZ-WELLINGTON-R200-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.870750-RNZ-WELLINGTON-R200-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.870782-WTOP-RADIO-ANNOUNCE-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.870782-WTOP-RADIO-ANNOUNCE-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.870782-WTOP-RADIO-ANNOUNCE-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.870785-WTOP-RADIO-PRODUCTION-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.870785-WTOP-RADIO-PRODUCTION-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.870785-WTOP-RADIO-PRODUCTION-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.870860-KDKA-RADIO-R1000-NEWS-PRODUCTION-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.870860-KDKA-RADIO-R1000-NEWS-PRODUCTION-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.870860-KDKA-RADIO-R1000-NEWS-PRODUCTION-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.870936-WKIS-R1000-EXPANDER-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.870936-WKIS-R1000-EXPANDER-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.870936-WKIS-R1000-EXPANDER-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.870952-WBZ-RADIO-STUDIO-B-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.870952-WBZ-RADIO-STUDIO-B-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.870952-WBZ-RADIO-STUDIO-B-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.880000"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.880000
+	url = https://github.com/WardBeckSystems/CONSOLE.880000.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.880042-WSIX-AM-NASHVILLE-CUSTOM-RADIO-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.880042-WSIX-AM-NASHVILLE-CUSTOM-RADIO-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.880042-WSIX-AM-NASHVILLE-CUSTOM-RADIO-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.880063-CKTY-2TK-CUSTOM-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.880063-CKTY-2TK-CUSTOM-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.880063-CKTY-2TK-CUSTOM-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.880079-CHNS-CHFX-R2200-PRODUCTION-1-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.880079-CHNS-CHFX-R2200-PRODUCTION-1-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.880079-CHNS-CHFX-R2200-PRODUCTION-1-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.880096-CHXL-R1000-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.880096-CHXL-R1000-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.880096-CHXL-R1000-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.880097-SENECA-COLLEGE-R1000-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.880097-SENECA-COLLEGE-R1000-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.880097-SENECA-COLLEGE-R1000-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST
+	url = https://github.com/WardBeckSystems/CONSOLE.880134-CFTO-ST.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.880238-VIDEO-TELECOM-INTERNATIONAL-R1400-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.880238-VIDEO-TELECOM-INTERNATIONAL-R1400-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.880238-VIDEO-TELECOM-INTERNATIONAL-R1400-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.880273-WXEL-FM-CUSTOM-R1400-18-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.880273-WXEL-FM-CUSTOM-R1400-18-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.880273-WXEL-FM-CUSTOM-R1400-18-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.880391-2-DAY-FM-SYDNEY-R2200-RADIO-CONSOLES"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.880391-2-DAY-FM-SYDNEY-R2200-RADIO-CONSOLES
+	url = https://github.com/WardBeckSystems/CONSOLE.880391-2-DAY-FM-SYDNEY-R2200-RADIO-CONSOLES.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.880400"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.880400
+	url = https://github.com/WardBeckSystems/CONSOLE.880400.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.880651-TVO-M1204B"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.880651-TVO-M1204B
+	url = https://github.com/WardBeckSystems/CONSOLE.880651-TVO-M1204B.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.890220-TELEMEDIA-R1600-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.890220-TELEMEDIA-R1600-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.890220-TELEMEDIA-R1600-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.890354"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.890354
+	url = https://github.com/WardBeckSystems/CONSOLE.890354.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.890371-WMAQ-RADIO-ON-AIR-_M_-CUSTOM-R1000-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.890371-WMAQ-RADIO-ON-AIR-_M_-CUSTOM-R1000-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.890371-WMAQ-RADIO-ON-AIR-_M_-CUSTOM-R1000-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.890372-WMAQ-RADIO-ON-AIR-STUDIO-A-R1000-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.890372-WMAQ-RADIO-ON-AIR-STUDIO-A-R1000-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.890372-WMAQ-RADIO-ON-AIR-STUDIO-A-R1000-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.890373-WMAQ-RADIO-ON-AIR-STUDIO-Q-R1000-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.890373-WMAQ-RADIO-ON-AIR-STUDIO-Q-R1000-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.890373-WMAQ-RADIO-ON-AIR-STUDIO-Q-R1000-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.890374-WMAQ-EDIT-BOOTH-_1-CUSTOM-R1000-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.890374-WMAQ-EDIT-BOOTH-_1-CUSTOM-R1000-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.890374-WMAQ-EDIT-BOOTH-_1-CUSTOM-R1000-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.890376-WMAQ-EDIT-BOOTH-_4-CUSTOM-R1000-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.890376-WMAQ-EDIT-BOOTH-_4-CUSTOM-R1000-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.890376-WMAQ-EDIT-BOOTH-_4-CUSTOM-R1000-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.890378-WMAQ-RADIO-NPA-NORTH-CUSTOM-R600-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.890378-WMAQ-RADIO-NPA-NORTH-CUSTOM-R600-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.890378-WMAQ-RADIO-NPA-NORTH-CUSTOM-R600-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.890379-WMAQ-RADIO-NPA-SOUTH-CUSTOM-R600-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.890379-WMAQ-RADIO-NPA-SOUTH-CUSTOM-R600-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.890379-WMAQ-RADIO-NPA-SOUTH-CUSTOM-R600-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.890380-WMAQ-RADIO-PRODUCTION-STUDIO-_W_-CUSTOM-R2200-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.890380-WMAQ-RADIO-PRODUCTION-STUDIO-_W_-CUSTOM-R2200-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.890380-WMAQ-RADIO-PRODUCTION-STUDIO-_W_-CUSTOM-R2200-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.890381-WMAQ-RADIO-CUSTOM-PRODUCTION-TURRET"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.890381-WMAQ-RADIO-CUSTOM-PRODUCTION-TURRET
+	url = https://github.com/WardBeckSystems/CONSOLE.890381-WMAQ-RADIO-CUSTOM-PRODUCTION-TURRET.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.890393-CKCW-MONCTON-R1400-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.890393-CKCW-MONCTON-R1400-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.890393-CKCW-MONCTON-R1400-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.890640-3MMM-RADIO-MELBOURNE-R1000-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.890640-3MMM-RADIO-MELBOURNE-R1000-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.890640-3MMM-RADIO-MELBOURNE-R1000-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.890641-KQZY-R1000-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.890641-KQZY-R1000-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.890641-KQZY-R1000-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.890679-CKBC-R1600-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.890679-CKBC-R1600-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.890679-CKBC-R1600-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.890680-CKBC-R1600-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.890680-CKBC-R1600-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.890680-CKBC-R1600-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.890801-3MMM-RADIO-MELBOURNE-R2200-RADIO-CONSOLES"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.890801-3MMM-RADIO-MELBOURNE-R2200-RADIO-CONSOLES
+	url = https://github.com/WardBeckSystems/CONSOLE.890801-3MMM-RADIO-MELBOURNE-R2200-RADIO-CONSOLES.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.893047"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.893047
+	url = https://github.com/WardBeckSystems/CONSOLE.893047.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.900052-WMAQ-RADIO-CUSTOM-SWR-PGM-MIXER"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.900052-WMAQ-RADIO-CUSTOM-SWR-PGM-MIXER
+	url = https://github.com/WardBeckSystems/CONSOLE.900052-WMAQ-RADIO-CUSTOM-SWR-PGM-MIXER.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.900180-WBZ-RADIO-R1000-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.900180-WBZ-RADIO-R1000-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.900180-WBZ-RADIO-R1000-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.900310-CUSTOM-R600-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.900310-CUSTOM-R600-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.900310-CUSTOM-R600-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.900416-KFBK-KAER"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.900416-KFBK-KAER
+	url = https://github.com/WardBeckSystems/CONSOLE.900416-KFBK-KAER.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.900438-CHIN-Radio"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.900438-CHIN-Radio
+	url = https://github.com/WardBeckSystems/CONSOLE.900438-CHIN-Radio.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.900573"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.900573
+	url = https://github.com/WardBeckSystems/CONSOLE.900573.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.910034-CJCL-CUSTOM-R600-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.910034-CJCL-CUSTOM-R600-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.910034-CJCL-CUSTOM-R600-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.910044-NBC"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.910044-NBC
+	url = https://github.com/WardBeckSystems/CONSOLE.910044-NBC.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.910071-CKNX-RADIO-R1600-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.910071-CKNX-RADIO-R1600-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.910071-CKNX-RADIO-R1600-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.910199-WCAL-RADIO-R600-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.910199-WCAL-RADIO-R600-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.910199-WCAL-RADIO-R600-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.910481-CHTZ-RADIO-R2200-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.910481-CHTZ-RADIO-R2200-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.910481-CHTZ-RADIO-R2200-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.920004"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.920004
+	url = https://github.com/WardBeckSystems/CONSOLE.920004.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.920005"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.920005
+	url = https://github.com/WardBeckSystems/CONSOLE.920005.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.920006"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.920006
+	url = https://github.com/WardBeckSystems/CONSOLE.920006.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.920009"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.920009
+	url = https://github.com/WardBeckSystems/CONSOLE.920009.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.920010"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.920010
+	url = https://github.com/WardBeckSystems/CONSOLE.920010.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.920063-KRSR-Radio"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.920063-KRSR-Radio
+	url = https://github.com/WardBeckSystems/CONSOLE.920063-KRSR-Radio.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.920150-WLYF-WMRZ"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.920150-WLYF-WMRZ
+	url = https://github.com/WardBeckSystems/CONSOLE.920150-WLYF-WMRZ.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.920170-CHYM-CKGL"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.920170-CHYM-CKGL
+	url = https://github.com/WardBeckSystems/CONSOLE.920170-CHYM-CKGL.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.920216"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.920216
+	url = https://github.com/WardBeckSystems/CONSOLE.920216.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.920306-CJMJ-FM"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.920306-CJMJ-FM
+	url = https://github.com/WardBeckSystems/CONSOLE.920306-CJMJ-FM.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.920383-WOWF"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.920383-WOWF
+	url = https://github.com/WardBeckSystems/CONSOLE.920383-WOWF.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.920384"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.920384
+	url = https://github.com/WardBeckSystems/CONSOLE.920384.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.920477-Telemedia"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.920477-Telemedia
+	url = https://github.com/WardBeckSystems/CONSOLE.920477-Telemedia.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.930021-TTC"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.930021-TTC
+	url = https://github.com/WardBeckSystems/CONSOLE.930021-TTC.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.930031"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.930031
+	url = https://github.com/WardBeckSystems/CONSOLE.930031.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.930038"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.930038
+	url = https://github.com/WardBeckSystems/CONSOLE.930038.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.930039-CBC"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.930039-CBC
+	url = https://github.com/WardBeckSystems/CONSOLE.930039-CBC.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.930047-MOVING-PICTURES-TVNZ"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.930047-MOVING-PICTURES-TVNZ
+	url = https://github.com/WardBeckSystems/CONSOLE.930047-MOVING-PICTURES-TVNZ.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.930049"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.930049
+	url = https://github.com/WardBeckSystems/CONSOLE.930049.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.930177-TORONTO-BROADCAST-CENTRE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.930177-TORONTO-BROADCAST-CENTRE
+	url = https://github.com/WardBeckSystems/CONSOLE.930177-TORONTO-BROADCAST-CENTRE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.930188-ST.-OLAF-COLLEGE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.930188-ST.-OLAF-COLLEGE
+	url = https://github.com/WardBeckSystems/CONSOLE.930188-ST.-OLAF-COLLEGE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.930233"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.930233
+	url = https://github.com/WardBeckSystems/CONSOLE.930233.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.930351"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.930351
+	url = https://github.com/WardBeckSystems/CONSOLE.930351.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940021-GLEN-GOULD-STUDIO"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940021-GLEN-GOULD-STUDIO
+	url = https://github.com/WardBeckSystems/CONSOLE.940021-GLEN-GOULD-STUDIO.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940031-CENTENNIAL-COLLEGE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940031-CENTENNIAL-COLLEGE
+	url = https://github.com/WardBeckSystems/CONSOLE.940031-CENTENNIAL-COLLEGE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940038"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940038
+	url = https://github.com/WardBeckSystems/CONSOLE.940038.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940052"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940052
+	url = https://github.com/WardBeckSystems/CONSOLE.940052.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940054"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940054
+	url = https://github.com/WardBeckSystems/CONSOLE.940054.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940063-CBC-REGINA"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940063-CBC-REGINA
+	url = https://github.com/WardBeckSystems/CONSOLE.940063-CBC-REGINA.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940064-WBZ-Boston"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940064-WBZ-Boston
+	url = https://github.com/WardBeckSystems/CONSOLE.940064-WBZ-Boston.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940068"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940068
+	url = https://github.com/WardBeckSystems/CONSOLE.940068.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940114"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940114
+	url = https://github.com/WardBeckSystems/CONSOLE.940114.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940117"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940117
+	url = https://github.com/WardBeckSystems/CONSOLE.940117.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940145"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940145
+	url = https://github.com/WardBeckSystems/CONSOLE.940145.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940153-RENAISSANCE-MKI-STEREO-AUDIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940153-RENAISSANCE-MKI-STEREO-AUDIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.940153-RENAISSANCE-MKI-STEREO-AUDIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940177"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940177
+	url = https://github.com/WardBeckSystems/CONSOLE.940177.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940184-GLENN-GOULD-STUDIO"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940184-GLENN-GOULD-STUDIO
+	url = https://github.com/WardBeckSystems/CONSOLE.940184-GLENN-GOULD-STUDIO.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940224"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940224
+	url = https://github.com/WardBeckSystems/CONSOLE.940224.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940238-CKNW"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940238-CKNW
+	url = https://github.com/WardBeckSystems/CONSOLE.940238-CKNW.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940248-CENTENNIAL-COLLEGE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940248-CENTENNIAL-COLLEGE
+	url = https://github.com/WardBeckSystems/CONSOLE.940248-CENTENNIAL-COLLEGE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940305-Telemedia-Sudbury"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940305-Telemedia-Sudbury
+	url = https://github.com/WardBeckSystems/CONSOLE.940305-Telemedia-Sudbury.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940332"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940332
+	url = https://github.com/WardBeckSystems/CONSOLE.940332.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940333-CFTR"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940333-CFTR
+	url = https://github.com/WardBeckSystems/CONSOLE.940333-CFTR.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940334"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940334
+	url = https://github.com/WardBeckSystems/CONSOLE.940334.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940335-CHFI"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940335-CHFI
+	url = https://github.com/WardBeckSystems/CONSOLE.940335-CHFI.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940350"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940350
+	url = https://github.com/WardBeckSystems/CONSOLE.940350.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940351-Telemedia-Network-Radio"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940351-Telemedia-Network-Radio
+	url = https://github.com/WardBeckSystems/CONSOLE.940351-Telemedia-Network-Radio.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940356-CBC"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940356-CBC
+	url = https://github.com/WardBeckSystems/CONSOLE.940356-CBC.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940376-CKWX-Radio"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940376-CKWX-Radio
+	url = https://github.com/WardBeckSystems/CONSOLE.940376-CKWX-Radio.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940410"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940410
+	url = https://github.com/WardBeckSystems/CONSOLE.940410.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940444-WBZ-Boston"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940444-WBZ-Boston
+	url = https://github.com/WardBeckSystems/CONSOLE.940444-WBZ-Boston.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940446"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940446
+	url = https://github.com/WardBeckSystems/CONSOLE.940446.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940447"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940447
+	url = https://github.com/WardBeckSystems/CONSOLE.940447.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940448"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940448
+	url = https://github.com/WardBeckSystems/CONSOLE.940448.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.940449-WBZ-Boston-Radio-Control-Turrets-Project-No"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.940449-WBZ-Boston-Radio-Control-Turrets-Project-No
+	url = https://github.com/WardBeckSystems/CONSOLE.940449-WBZ-Boston-Radio-Control-Turrets-Project-No.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.950009-CBC-RENAISSANCE-MKII-STEREO-AUDIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.950009-CBC-RENAISSANCE-MKII-STEREO-AUDIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.950009-CBC-RENAISSANCE-MKII-STEREO-AUDIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.950012"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.950012
+	url = https://github.com/WardBeckSystems/CONSOLE.950012.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.950015"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.950015
+	url = https://github.com/WardBeckSystems/CONSOLE.950015.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.950023-CJAD"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.950023-CJAD
+	url = https://github.com/WardBeckSystems/CONSOLE.950023-CJAD.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.950024"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.950024
+	url = https://github.com/WardBeckSystems/CONSOLE.950024.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.950033"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.950033
+	url = https://github.com/WardBeckSystems/CONSOLE.950033.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.950069-CBc-Toronto-Machine-and-Logo-Control-Panel"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.950069-CBc-Toronto-Machine-and-Logo-Control-Panel
+	url = https://github.com/WardBeckSystems/CONSOLE.950069-CBc-Toronto-Machine-and-Logo-Control-Panel.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.950089-SHAW-RADIO-RENAISSANCE-MKII-STEREO-AUDIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.950089-SHAW-RADIO-RENAISSANCE-MKII-STEREO-AUDIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.950089-SHAW-RADIO-RENAISSANCE-MKII-STEREO-AUDIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.950144"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.950144
+	url = https://github.com/WardBeckSystems/CONSOLE.950144.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.950177"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.950177
+	url = https://github.com/WardBeckSystems/CONSOLE.950177.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.950190"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.950190
+	url = https://github.com/WardBeckSystems/CONSOLE.950190.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.950208"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.950208
+	url = https://github.com/WardBeckSystems/CONSOLE.950208.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.950224"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.950224
+	url = https://github.com/WardBeckSystems/CONSOLE.950224.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.950225"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.950225
+	url = https://github.com/WardBeckSystems/CONSOLE.950225.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.950250"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.950250
+	url = https://github.com/WardBeckSystems/CONSOLE.950250.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.950272-TTC"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.950272-TTC
+	url = https://github.com/WardBeckSystems/CONSOLE.950272-TTC.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.950351"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.950351
+	url = https://github.com/WardBeckSystems/CONSOLE.950351.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.950361"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.950361
+	url = https://github.com/WardBeckSystems/CONSOLE.950361.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.950362"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.950362
+	url = https://github.com/WardBeckSystems/CONSOLE.950362.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.950410-CBC-MONTREAL-CUSTOM-UTILITY-AMPLIFIER"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.950410-CBC-MONTREAL-CUSTOM-UTILITY-AMPLIFIER
+	url = https://github.com/WardBeckSystems/CONSOLE.950410-CBC-MONTREAL-CUSTOM-UTILITY-AMPLIFIER.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.960002-CFNY"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.960002-CFNY
+	url = https://github.com/WardBeckSystems/CONSOLE.960002-CFNY.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.960004"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.960004
+	url = https://github.com/WardBeckSystems/CONSOLE.960004.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.960010"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.960010
+	url = https://github.com/WardBeckSystems/CONSOLE.960010.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.960017"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.960017
+	url = https://github.com/WardBeckSystems/CONSOLE.960017.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.960019"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.960019
+	url = https://github.com/WardBeckSystems/CONSOLE.960019.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.960043"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.960043
+	url = https://github.com/WardBeckSystems/CONSOLE.960043.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.960077"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.960077
+	url = https://github.com/WardBeckSystems/CONSOLE.960077.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.960121"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.960121
+	url = https://github.com/WardBeckSystems/CONSOLE.960121.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.960140"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.960140
+	url = https://github.com/WardBeckSystems/CONSOLE.960140.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.960162-CJCB-RADIO-RENAISSANCE-MKII-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.960162-CJCB-RADIO-RENAISSANCE-MKII-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.960162-CJCB-RADIO-RENAISSANCE-MKII-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.960188-CIMF-RADIO-RENAISSANCE-MKIII-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.960188-CIMF-RADIO-RENAISSANCE-MKIII-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.960188-CIMF-RADIO-RENAISSANCE-MKIII-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.960191"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.960191
+	url = https://github.com/WardBeckSystems/CONSOLE.960191.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.960195-CBC"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.960195-CBC
+	url = https://github.com/WardBeckSystems/CONSOLE.960195-CBC.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.960196"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.960196
+	url = https://github.com/WardBeckSystems/CONSOLE.960196.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.960208"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.960208
+	url = https://github.com/WardBeckSystems/CONSOLE.960208.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.960243"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.960243
+	url = https://github.com/WardBeckSystems/CONSOLE.960243.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.960244"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.960244
+	url = https://github.com/WardBeckSystems/CONSOLE.960244.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.960296-CBC-REGINA"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.960296-CBC-REGINA
+	url = https://github.com/WardBeckSystems/CONSOLE.960296-CBC-REGINA.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.960366"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.960366
+	url = https://github.com/WardBeckSystems/CONSOLE.960366.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.960370-TORONTO-CHINESE-RADIO-RENAISSANCE-MKII-RADIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.960370-TORONTO-CHINESE-RADIO-RENAISSANCE-MKII-RADIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.960370-TORONTO-CHINESE-RADIO-RENAISSANCE-MKII-RADIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.960525"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.960525
+	url = https://github.com/WardBeckSystems/CONSOLE.960525.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.970004-NEW-ZEALAND-PUBLIC-RADIO-RNZI-A-RENAISSANCE-MKII-STEREO-AUDIO-CONSOLE"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.970004-NEW-ZEALAND-PUBLIC-RADIO-RNZI-A-RENAISSANCE-MKII-STEREO-AUDIO-CONSOLE
+	url = https://github.com/WardBeckSystems/CONSOLE.970004-NEW-ZEALAND-PUBLIC-RADIO-RNZI-A-RENAISSANCE-MKII-STEREO-AUDIO-CONSOLE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.970029-ONTARIO-JOCKEY-CLUB-CUSTOM-CONTROL-PANEL"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.970029-ONTARIO-JOCKEY-CLUB-CUSTOM-CONTROL-PANEL
+	url = https://github.com/WardBeckSystems/CONSOLE.970029-ONTARIO-JOCKEY-CLUB-CUSTOM-CONTROL-PANEL.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.970177-CBC"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.970177-CBC
+	url = https://github.com/WardBeckSystems/CONSOLE.970177-CBC.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.970245"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.970245
+	url = https://github.com/WardBeckSystems/CONSOLE.970245.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.980032-12-channel-monitor-mixer"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.980032-12-channel-monitor-mixer
+	url = https://github.com/WardBeckSystems/CONSOLE.980032-12-channel-monitor-mixer.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.ABC-Hollywood-TV-production-console"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.ABC-Hollywood-TV-production-console
+	url = https://github.com/WardBeckSystems/CONSOLE.ABC-Hollywood-TV-production-console.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.Antoinette-WBSps-project"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.Antoinette-WBSps-project
+	url = https://github.com/WardBeckSystems/CONSOLE.Antoinette-WBSps-project.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.Ash-and-Wood-console"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.Ash-and-Wood-console
+	url = https://github.com/WardBeckSystems/CONSOLE.Ash-and-Wood-console.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.Bravo-Audio-MuchMusic-ST-console"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.Bravo-Audio-MuchMusic-ST-console
+	url = https://github.com/WardBeckSystems/CONSOLE.Bravo-Audio-MuchMusic-ST-console.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.CBC-automated-network-switching-system"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.CBC-automated-network-switching-system
+	url = https://github.com/WardBeckSystems/CONSOLE.CBC-automated-network-switching-system.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.CFQC-L2042-Mixing-Console"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.CFQC-L2042-Mixing-Console
+	url = https://github.com/WardBeckSystems/CONSOLE.CFQC-L2042-Mixing-Console.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.Film-consoles"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.Film-consoles
+	url = https://github.com/WardBeckSystems/CONSOLE.Film-consoles.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.J-Fong-at-console-brochure"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.J-Fong-at-console-brochure
+	url = https://github.com/WardBeckSystems/CONSOLE.J-Fong-at-console-brochure.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.KWWL-New-Orleans"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.KWWL-New-Orleans
+	url = https://github.com/WardBeckSystems/CONSOLE.KWWL-New-Orleans.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.L2042"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.L2042
+	url = https://github.com/WardBeckSystems/CONSOLE.MODEL.L2042.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.L2484"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.L2484
+	url = https://github.com/WardBeckSystems/CONSOLE.MODEL.L2484.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.L2642"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.L2642
+	url = https://github.com/WardBeckSystems/CONSOLE.MODEL.L2642.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.L3242"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.L3242
+	url = https://github.com/WardBeckSystems/CONSOLE.MODEL.L3242.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.M1002"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.M1002
+	url = https://github.com/WardBeckSystems/CONSOLE.MODEL.M1002.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.M1022"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.M1022
+	url = https://github.com/WardBeckSystems/CONSOLE.MODEL.M1022.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.M1025"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.M1025
+	url = https://github.com/WardBeckSystems/CONSOLE.MODEL.M1025.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.M1026"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.M1026
+	url = https://github.com/WardBeckSystems/CONSOLE.MODEL.M1026.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.M1121"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.M1121
+	url = https://github.com/WardBeckSystems/CONSOLE.MODEL.M1121.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.M1204"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.M1204
+	url = https://github.com/WardBeckSystems/CONSOLE.MODEL.M1204.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.M1204A"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.M1204A
+	url = https://github.com/WardBeckSystems/CONSOLE.MODEL.M1204A.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.M1204B"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.M1204B
+	url = https://github.com/WardBeckSystems/CONSOLE.MODEL.M1204B.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.M2406"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.M2406
+	url = https://github.com/WardBeckSystems/CONSOLE.MODEL.M2406.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.M2484B"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.M2484B
+	url = https://github.com/WardBeckSystems/CONSOLE.MODEL.M2484B.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.R1400"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.R1400
+	url = https://github.com/WardBeckSystems/CONSOLE.MODEL.R1400.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.RM450"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.RM450
+	url = https://github.com/WardBeckSystems/CONSOLE.MODEL.RM450.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.ST2442"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.ST2442
+	url = https://github.com/WardBeckSystems/CONSOLE.MODEL.ST2442.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.ST3642"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.ST3642
+	url = https://github.com/WardBeckSystems/CONSOLE.MODEL.ST3642.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.T1202A"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.T1202A
+	url = https://github.com/WardBeckSystems/CONSOLE.MODEL.T1202A.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.ON-THE-AIR-console"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.ON-THE-AIR-console
+	url = https://github.com/WardBeckSystems/CONSOLE.ON-THE-AIR-console.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.Olympics-ST-console"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.Olympics-ST-console
+	url = https://github.com/WardBeckSystems/CONSOLE.Olympics-ST-console.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.Ontario-Place-Forum-console"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.Ontario-Place-Forum-console
+	url = https://github.com/WardBeckSystems/CONSOLE.Ontario-Place-Forum-console.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.Red-Deer-WBS"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.Red-Deer-WBS
+	url = https://github.com/WardBeckSystems/CONSOLE.Red-Deer-WBS.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.WBS-1979-custom-L-series-full-size"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.WBS-1979-custom-L-series-full-size
+	url = https://github.com/WardBeckSystems/CONSOLE.WBS-1979-custom-L-series-full-size.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.WBS-St-Series-Stereo-Console"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.WBS-St-Series-Stereo-Console
+	url = https://github.com/WardBeckSystems/CONSOLE.WBS-St-Series-Stereo-Console.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.WSVN"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.WSVN
+	url = https://github.com/WardBeckSystems/CONSOLE.WSVN.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.Ward-Beck-Systems-24x12-Console"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.Ward-Beck-Systems-24x12-Console
+	url = https://github.com/WardBeckSystems/CONSOLE.Ward-Beck-Systems-24x12-Console.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.Wood-cabinet-console"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.Wood-cabinet-console
+	url = https://github.com/WardBeckSystems/CONSOLE.Wood-cabinet-console.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/Microcom-Simulator"]
+	path = WBSps.ca/Github.WardBeckSystems/Microcom-Simulator
+	url = https://github.com/WardBeckSystems/Microcom-Simulator.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.860485-CFTM-TELEVISION-CUSTOM-INTERCOM-MATRIX"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.860485-CFTM-TELEVISION-CUSTOM-INTERCOM-MATRIX
+	url = https://github.com/WardBeckSystems/INTERCOM.860485-CFTM-TELEVISION-CUSTOM-INTERCOM-MATRIX.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.860602-WIOD-WAIA-CUSTOM-INTERCOM-MATRIX"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.860602-WIOD-WAIA-CUSTOM-INTERCOM-MATRIX
+	url = https://github.com/WardBeckSystems/INTERCOM.860602-WIOD-WAIA-CUSTOM-INTERCOM-MATRIX.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.860693-NBC-TV-MICROCOM-STUDIO-3K-INTERCONNECT-SCHEMATICS"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.860693-NBC-TV-MICROCOM-STUDIO-3K-INTERCONNECT-SCHEMATICS
+	url = https://github.com/WardBeckSystems/INTERCOM.860693-NBC-TV-MICROCOM-STUDIO-3K-INTERCONNECT-SCHEMATICS.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.860800"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.860800
+	url = https://github.com/WardBeckSystems/INTERCOM.860800.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.870126-CANADIAN-BROADCASTING-CORPORATION-INTERCOM-MATRIX"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.870126-CANADIAN-BROADCASTING-CORPORATION-INTERCOM-MATRIX
+	url = https://github.com/WardBeckSystems/INTERCOM.870126-CANADIAN-BROADCASTING-CORPORATION-INTERCOM-MATRIX.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.870168-CFRE-TELEVISION-CUSTOM-INTERCOM-MATRIX"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.870168-CFRE-TELEVISION-CUSTOM-INTERCOM-MATRIX
+	url = https://github.com/WardBeckSystems/INTERCOM.870168-CFRE-TELEVISION-CUSTOM-INTERCOM-MATRIX.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.870200-CFPL-TV-CUSTOM-MICROCOM-SYSTEM"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.870200-CFPL-TV-CUSTOM-MICROCOM-SYSTEM
+	url = https://github.com/WardBeckSystems/INTERCOM.870200-CFPL-TV-CUSTOM-MICROCOM-SYSTEM.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.870439-TCN-9-SYDNEY-CUSTOM-INTERCOM"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.870439-TCN-9-SYDNEY-CUSTOM-INTERCOM
+	url = https://github.com/WardBeckSystems/INTERCOM.870439-TCN-9-SYDNEY-CUSTOM-INTERCOM.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.880323-WCCO-RADIO-CUSTOM-INTERCOM-MATRIX"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.880323-WCCO-RADIO-CUSTOM-INTERCOM-MATRIX
+	url = https://github.com/WardBeckSystems/INTERCOM.880323-WCCO-RADIO-CUSTOM-INTERCOM-MATRIX.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.880478-TCN-9-SYDNEY-CUSTOM-MicroCOM-II-SYSTEM"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.880478-TCN-9-SYDNEY-CUSTOM-MicroCOM-II-SYSTEM
+	url = https://github.com/WardBeckSystems/INTERCOM.880478-TCN-9-SYDNEY-CUSTOM-MicroCOM-II-SYSTEM.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.880545-COMMUNICATIONS-ENGINEERING-48x48-MicroCOM-SYSTEM"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.880545-COMMUNICATIONS-ENGINEERING-48x48-MicroCOM-SYSTEM
+	url = https://github.com/WardBeckSystems/INTERCOM.880545-COMMUNICATIONS-ENGINEERING-48x48-MicroCOM-SYSTEM.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.880675-ATLANTIC-TV-SYSTEM-LIMITED-CUSTOM-IFB"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.880675-ATLANTIC-TV-SYSTEM-LIMITED-CUSTOM-IFB
+	url = https://github.com/WardBeckSystems/INTERCOM.880675-ATLANTIC-TV-SYSTEM-LIMITED-CUSTOM-IFB.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.880851-TV-3-NETWORK-PLANT-96-X-144-MICROCOM-II-SYSTEM-BOOK-1"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.880851-TV-3-NETWORK-PLANT-96-X-144-MICROCOM-II-SYSTEM-BOOK-1
+	url = https://github.com/WardBeckSystems/INTERCOM.880851-TV-3-NETWORK-PLANT-96-X-144-MICROCOM-II-SYSTEM-BOOK-1.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.880855-TV-3-NETWORK-WELLINGTON-MINICOM"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.880855-TV-3-NETWORK-WELLINGTON-MINICOM
+	url = https://github.com/WardBeckSystems/INTERCOM.880855-TV-3-NETWORK-WELLINGTON-MINICOM.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.880857"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.880857
+	url = https://github.com/WardBeckSystems/INTERCOM.880857.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.890009-CBC-EDMONTON-MICROCOM-II-SYSTEM"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.890009-CBC-EDMONTON-MICROCOM-II-SYSTEM
+	url = https://github.com/WardBeckSystems/INTERCOM.890009-CBC-EDMONTON-MICROCOM-II-SYSTEM.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.890068-CBC-STUDIO-1-12x12-INTERCOM-MATRIX"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.890068-CBC-STUDIO-1-12x12-INTERCOM-MATRIX
+	url = https://github.com/WardBeckSystems/INTERCOM.890068-CBC-STUDIO-1-12x12-INTERCOM-MATRIX.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.890276-CKVR-TELEVISION-48-x-48-MicroCOM-II-SYSTEM"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.890276-CKVR-TELEVISION-48-x-48-MicroCOM-II-SYSTEM
+	url = https://github.com/WardBeckSystems/INTERCOM.890276-CKVR-TELEVISION-48-x-48-MicroCOM-II-SYSTEM.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.890291-COMPLETE-POST-PRODUCTION-48x48-MicroCOM-II-System"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.890291-COMPLETE-POST-PRODUCTION-48x48-MicroCOM-II-System
+	url = https://github.com/WardBeckSystems/INTERCOM.890291-COMPLETE-POST-PRODUCTION-48x48-MicroCOM-II-System.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.890300-MODERN-VIDEOFILM-MiniCom"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.890300-MODERN-VIDEOFILM-MiniCom
+	url = https://github.com/WardBeckSystems/INTERCOM.890300-MODERN-VIDEOFILM-MiniCom.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.890349-WTBS-TELEVISION-MICROCOM-II-SYSTEM"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.890349-WTBS-TELEVISION-MICROCOM-II-SYSTEM
+	url = https://github.com/WardBeckSystems/INTERCOM.890349-WTBS-TELEVISION-MICROCOM-II-SYSTEM.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.890391-MINICOM"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.890391-MINICOM
+	url = https://github.com/WardBeckSystems/INTERCOM.890391-MINICOM.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.890416-GRC-PRODUCTIONS-MINICOM"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.890416-GRC-PRODUCTIONS-MINICOM
+	url = https://github.com/WardBeckSystems/INTERCOM.890416-GRC-PRODUCTIONS-MINICOM.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.890422-TV-3-NETWORK-CHRISTCHURCH-MINICOM"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.890422-TV-3-NETWORK-CHRISTCHURCH-MINICOM
+	url = https://github.com/WardBeckSystems/INTERCOM.890422-TV-3-NETWORK-CHRISTCHURCH-MINICOM.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.890423-TV-3-NETWORK-PARLIAMENT-MINICOM"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.890423-TV-3-NETWORK-PARLIAMENT-MINICOM
+	url = https://github.com/WardBeckSystems/INTERCOM.890423-TV-3-NETWORK-PARLIAMENT-MINICOM.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.890799-GROUP-W-NEWS-FEED-MINICOM"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.890799-GROUP-W-NEWS-FEED-MINICOM
+	url = https://github.com/WardBeckSystems/INTERCOM.890799-GROUP-W-NEWS-FEED-MINICOM.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.890834-CBC-OTTAWA-MINICOM"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.890834-CBC-OTTAWA-MINICOM
+	url = https://github.com/WardBeckSystems/INTERCOM.890834-CBC-OTTAWA-MINICOM.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.900170-TV-JOVEM-PAN-LTDA-CUSTOM-MiniCOM"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.900170-TV-JOVEM-PAN-LTDA-CUSTOM-MiniCOM
+	url = https://github.com/WardBeckSystems/INTERCOM.900170-TV-JOVEM-PAN-LTDA-CUSTOM-MiniCOM.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.900172-TV-JOVEM-PAN-LTDA-7012B-INTERCOM-MATRIX"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.900172-TV-JOVEM-PAN-LTDA-7012B-INTERCOM-MATRIX
+	url = https://github.com/WardBeckSystems/INTERCOM.900172-TV-JOVEM-PAN-LTDA-7012B-INTERCOM-MATRIX.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.900186-TV-JOVEM-PAN-LTDA-7012B-INTERCOM-MATRIX"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.900186-TV-JOVEM-PAN-LTDA-7012B-INTERCOM-MATRIX
+	url = https://github.com/WardBeckSystems/INTERCOM.900186-TV-JOVEM-PAN-LTDA-7012B-INTERCOM-MATRIX.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.900359-GRC-PRODUCTIONS-48-x-48-MicroCOM-II-SYSTEM"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.900359-GRC-PRODUCTIONS-48-x-48-MicroCOM-II-SYSTEM
+	url = https://github.com/WardBeckSystems/INTERCOM.900359-GRC-PRODUCTIONS-48-x-48-MicroCOM-II-SYSTEM.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.900436-TV-ONTARIO-MINICOM-SYSTEM"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.900436-TV-ONTARIO-MINICOM-SYSTEM
+	url = https://github.com/WardBeckSystems/INTERCOM.900436-TV-ONTARIO-MINICOM-SYSTEM.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.910055"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.910055
+	url = https://github.com/WardBeckSystems/INTERCOM.910055.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.910233-TV-ONTARIO-MiniCOM-SYSTEM"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.910233-TV-ONTARIO-MiniCOM-SYSTEM
+	url = https://github.com/WardBeckSystems/INTERCOM.910233-TV-ONTARIO-MiniCOM-SYSTEM.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.910251-CTV-TELEVISION-NETWORK-LTD-48-x-48-MicroCOM-II-INTERCOM-SYSTEM"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.910251-CTV-TELEVISION-NETWORK-LTD-48-x-48-MicroCOM-II-INTERCOM-SYSTEM
+	url = https://github.com/WardBeckSystems/INTERCOM.910251-CTV-TELEVISION-NETWORK-LTD-48-x-48-MicroCOM-II-INTERCOM-SYSTEM.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.910277-UNITEL-MOBILE-VIDEO-CUSTOM-INTERCOM"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.910277-UNITEL-MOBILE-VIDEO-CUSTOM-INTERCOM
+	url = https://github.com/WardBeckSystems/INTERCOM.910277-UNITEL-MOBILE-VIDEO-CUSTOM-INTERCOM.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.910320"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.910320
+	url = https://github.com/WardBeckSystems/INTERCOM.910320.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.920001"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.920001
+	url = https://github.com/WardBeckSystems/INTERCOM.920001.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.920002"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.920002
+	url = https://github.com/WardBeckSystems/INTERCOM.920002.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.920003-CBC-TORONTO-BROADCAST-CENTRE-STUDIO-A-B1-96-X-96-MicroCOM-II-COMMUNICATIONS-SY"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.920003-CBC-TORONTO-BROADCAST-CENTRE-STUDIO-A-B1-96-X-96-MicroCOM-II-COMMUNICATIONS-SY
+	url = https://github.com/WardBeckSystems/INTERCOM.920003-CBC-TORONTO-BROADCAST-CENTRE-STUDIO-A-B1-96-X-96-MicroCOM-II-COMMUNICATIONS-SY.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.920007"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.920007
+	url = https://github.com/WardBeckSystems/INTERCOM.920007.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.920008"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.920008
+	url = https://github.com/WardBeckSystems/INTERCOM.920008.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.920018"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.920018
+	url = https://github.com/WardBeckSystems/INTERCOM.920018.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.920256-CROSSPOINT-TV-CULTURA-96-X-96-MicroCOM-II-COMMUNICATIONS-SYSTEM"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.920256-CROSSPOINT-TV-CULTURA-96-X-96-MicroCOM-II-COMMUNICATIONS-SYSTEM
+	url = https://github.com/WardBeckSystems/INTERCOM.920256-CROSSPOINT-TV-CULTURA-96-X-96-MicroCOM-II-COMMUNICATIONS-SYSTEM.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.920342-Motorolla-Central-Switch-Project-No.-1of4"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.920342-Motorolla-Central-Switch-Project-No.-1of4
+	url = https://github.com/WardBeckSystems/INTERCOM.920342-Motorolla-Central-Switch-Project-No.-1of4.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.920380-TCN9-96-X-96-MicroCOM-II-COMMUNICATIONS-SYSTEM"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.920380-TCN9-96-X-96-MicroCOM-II-COMMUNICATIONS-SYSTEM
+	url = https://github.com/WardBeckSystems/INTERCOM.920380-TCN9-96-X-96-MicroCOM-II-COMMUNICATIONS-SYSTEM.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.930007-CICI-TV-CKNC-TV-SUDBURY"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.930007-CICI-TV-CKNC-TV-SUDBURY
+	url = https://github.com/WardBeckSystems/INTERCOM.930007-CICI-TV-CKNC-TV-SUDBURY.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.930010"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.930010
+	url = https://github.com/WardBeckSystems/INTERCOM.930010.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.930018"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.930018
+	url = https://github.com/WardBeckSystems/INTERCOM.930018.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.930032-CTS"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.930032-CTS
+	url = https://github.com/WardBeckSystems/INTERCOM.930032-CTS.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.930044-TORONTO-BROADCAST-CENTRE"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.930044-TORONTO-BROADCAST-CENTRE
+	url = https://github.com/WardBeckSystems/INTERCOM.930044-TORONTO-BROADCAST-CENTRE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.930091-TELE-METROPOLE-MiniCOM-COMMUNICATIONS-SYSTEM"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.930091-TELE-METROPOLE-MiniCOM-COMMUNICATIONS-SYSTEM
+	url = https://github.com/WardBeckSystems/INTERCOM.930091-TELE-METROPOLE-MiniCOM-COMMUNICATIONS-SYSTEM.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.930279"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.930279
+	url = https://github.com/WardBeckSystems/INTERCOM.930279.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.930420-CBC-FREDERICTON"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.930420-CBC-FREDERICTON
+	url = https://github.com/WardBeckSystems/INTERCOM.930420-CBC-FREDERICTON.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.930430"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.930430
+	url = https://github.com/WardBeckSystems/INTERCOM.930430.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.940009-KCET"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.940009-KCET
+	url = https://github.com/WardBeckSystems/INTERCOM.940009-KCET.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.940011"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.940011
+	url = https://github.com/WardBeckSystems/INTERCOM.940011.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.940022-CENTENNIAL-COLLEGE"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.940022-CENTENNIAL-COLLEGE
+	url = https://github.com/WardBeckSystems/INTERCOM.940022-CENTENNIAL-COLLEGE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.940033-CENTENNIAL-COLLEGE"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.940033-CENTENNIAL-COLLEGE
+	url = https://github.com/WardBeckSystems/INTERCOM.940033-CENTENNIAL-COLLEGE.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.940055-TEN-ENGINEERING"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.940055-TEN-ENGINEERING
+	url = https://github.com/WardBeckSystems/INTERCOM.940055-TEN-ENGINEERING.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.940061"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.940061
+	url = https://github.com/WardBeckSystems/INTERCOM.940061.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.940243-Centennial-College"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.940243-Centennial-College
+	url = https://github.com/WardBeckSystems/INTERCOM.940243-Centennial-College.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.940246"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.940246
+	url = https://github.com/WardBeckSystems/INTERCOM.940246.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.940249"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.940249
+	url = https://github.com/WardBeckSystems/INTERCOM.940249.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.940294-CBC-Ottawa"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.940294-CBC-Ottawa
+	url = https://github.com/WardBeckSystems/INTERCOM.940294-CBC-Ottawa.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.940443"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.940443
+	url = https://github.com/WardBeckSystems/INTERCOM.940443.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.950006"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.950006
+	url = https://github.com/WardBeckSystems/INTERCOM.950006.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.950014"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.950014
+	url = https://github.com/WardBeckSystems/INTERCOM.950014.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.950020"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.950020
+	url = https://github.com/WardBeckSystems/INTERCOM.950020.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.950021"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.950021
+	url = https://github.com/WardBeckSystems/INTERCOM.950021.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.950049"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.950049
+	url = https://github.com/WardBeckSystems/INTERCOM.950049.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.950125"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.950125
+	url = https://github.com/WardBeckSystems/INTERCOM.950125.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.950226"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.950226
+	url = https://github.com/WardBeckSystems/INTERCOM.950226.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.950271"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.950271
+	url = https://github.com/WardBeckSystems/INTERCOM.950271.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.950278"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.950278
+	url = https://github.com/WardBeckSystems/INTERCOM.950278.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.950341"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.950341
+	url = https://github.com/WardBeckSystems/INTERCOM.950341.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.960134"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.960134
+	url = https://github.com/WardBeckSystems/INTERCOM.960134.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.960163-CBC-OTTAWA"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.960163-CBC-OTTAWA
+	url = https://github.com/WardBeckSystems/INTERCOM.960163-CBC-OTTAWA.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.960312"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.960312
+	url = https://github.com/WardBeckSystems/INTERCOM.960312.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.960325-CBC-EHQ-CUSTOM-IFB-MATRIX-SYSTEM"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.960325-CBC-EHQ-CUSTOM-IFB-MATRIX-SYSTEM
+	url = https://github.com/WardBeckSystems/INTERCOM.960325-CBC-EHQ-CUSTOM-IFB-MATRIX-SYSTEM.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/INTERCOM.970081"]
+	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.970081
+	url = https://github.com/WardBeckSystems/INTERCOM.970081.git
+	branch = main
