@@ -899,9 +899,6 @@
 [submodule "2026/Modules/UNSORTED/M731"]
 	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M731-20V-Power-Supply
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M731-20V-Power-Supply.git
-[submodule "2026/Modules/UNSORTED/M740"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M740-Lamp-Driver
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M740-Lamp-Driver.git
 [submodule "2026/Modules/UNSORTED/M741"]
 	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M741-Register-Module
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M741-Register-Module.git
@@ -1031,9 +1028,9 @@
 [submodule "2026/Modules/UNSORTED/M909"]
 	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M909-Custom-Meter
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M909-Custom-Meter.git
-[submodule "2026/Modules/UNSORTED/M920"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M920
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M920.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M920"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M920
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M920.git
 [submodule "2026/Modules/UNSORTED/M921"]
 	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M921
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M921.git

@@ -107,6 +107,102 @@ def gather():
     return dict(sorted(sa.items(), key=lambda x: int(x[0])))
 
 
+# Drawing numbers 14-nnn-tt-sss: nnn the sub-assembly, tt the kind of drawing, sss the variant
+# (001 = SA14-nnn, 002 = SA14-nnnA, 003 = SA14-nnnB ...): 109 = M527, 109A = M462C/M562C, 109B = M528.
+DWG = re.compile(r'(?<![\d-])B?\s?14-(\d{3})-(\d{2})-(\d{3})(?![\d])')
+SAN = re.compile(r'\bSA ?14-(\d{3})([A-Z]?)\b')
+DTYPE = {'01': 'functional', '02': 'schematic', '03': 'assembly', '04': 'mechanical', '06': 'component layout'}
+SKIP_TOP = {'Intercom', 'Console', 'CONSOLES', 'WBSps.ca', '_audit', '_stage', 'PHOTOS', 'DOCUMENTS'}
+DERIVED = re.compile(r'\((traced|EXTRACTED)\)|\.(md|json|html|bak|kicad_sch|svg|dxf)$', re.I)
+AUDIT = os.path.join(TOP, 'tools', 'dwg_number_audit.tsv')
+
+
+def variant(sss):
+    k = int(sss) - 1
+    return '' if k <= 0 else chr(ord('A') + k - 1) if k <= 26 else f'/{sss}'
+
+
+def repo_of(path):
+    p = os.path.dirname(path)
+    while p.startswith(G) and p != G:
+        if os.path.exists(os.path.join(p, '.git')):
+            return p
+        p = os.path.dirname(p)
+    return None
+
+
+def scan_variants():
+    """{nnn: {variant letter: [(drawing number or '', repo, path in repo)]}} from the repo clones: the number in
+    the file name, the number read off the drawing (tools/dwg_number_audit.tsv), or SA14-nnnX in the name."""
+    inside = {}
+    if os.path.exists(AUDIT):
+        import csv
+        for r in csv.DictReader(open(AUDIT, encoding='utf-8'), delimiter='\t'):
+            nums = [n for n in r['numbers'].split() if n.startswith('14-')]
+            if len(nums) == 1:
+                inside[os.path.join(G, r['path'])] = nums[0]
+    out = defaultdict(lambda: defaultdict(list))
+    seen = set()
+    for top in sorted(os.listdir(G)):
+        if top in SKIP_TOP or top.startswith('SUBASSEMBLY.') or not os.path.isdir(os.path.join(G, top)):
+            continue
+        for dp, dns, fns in os.walk(os.path.join(G, top)):
+            dns[:] = [d for d in dns if d not in ('.git', 'OCR', '_traces')]
+            for fn in fns:
+                if DERIVED.search(fn):
+                    continue
+                path = os.path.join(dp, fn)
+                m, s = DWG.search(fn), SAN.search(fn)
+                num = '-'.join(('14',) + m.groups()) if m else inside.get(path, '')
+                if num:
+                    nnn, letter = num.split('-')[1], variant(num.split('-')[3])
+                elif s:
+                    nnn, letter = s.group(1), s.group(2)
+                else:
+                    continue
+                repo = repo_of(path)
+                if not repo:
+                    continue
+                key = (os.path.basename(repo), os.path.relpath(path, repo))
+                if key in seen:
+                    continue
+                seen.add(key)
+                out[nnn].setdefault(letter, []).append((num,) + key)
+    return out
+
+
+def gh(repo, rel):
+    from urllib.parse import quote
+    return f'https://github.com/{OWNER}/{repo}/blob/HEAD/{quote(rel)}'
+
+
+def variants_md(n, vs):
+    """The variants table and, per variant, its drawings (drawing-numbered first)."""
+    if not vs:
+        return []
+    nnn = f'{int(n):03d}'
+    lines = ['## Variants', '',
+             f'Drawing numbers read `14-{nnn}-tt-sss`: tt the kind of drawing (02 schematic, 06 component layout …), '
+             'sss the variant (001 this board, 002 A, 003 B …).', '',
+             '| Variant | Drawing numbers | Used in |', '|---|---|---|']
+    order = sorted(vs, key=lambda v: (len(v), v))
+    for v in order:
+        nums = sorted({d[0] for d in vs[v] if d[0]})
+        used = sorted({re.sub(r'^(MODULES\.[A-Z-]+\.|CONSOLE\.(MODEL\.)?|INTERCOM\.|PRODUCTS\.|RECOVERY\.)', '', d[1]).split('-')[0]
+                       for d in vs[v] if not d[1].startswith('RECOVERY.')})
+        lines.append(f'| SA14-{nnn}{v} | ' + (' · '.join(f'{x} ({DTYPE.get(x.split("-")[2], "type " + x.split("-")[2])})'
+                                                        for x in nums) or '—') + f' | {" · ".join(used)} |')
+    lines.append('')
+    for v in order:
+        lines += [f'### SA14-{nnn}{v}', '']
+        for num, repo, rel in sorted(vs[v], key=lambda d: (not d[0], d[0], d[1], d[2])):
+            name = os.path.basename(rel)   # RECOVERY.* is private: named, not linked
+            lines.append((f'- {name}' if repo.startswith('RECOVERY.') else f'- [{name}]({gh(repo, rel)})') + (f' — {num}' if num and num not in rel else '')
+                         + f' · `{repo}`')
+        lines.append('')
+    return lines
+
+
 def repo_name(n, e):
     slug = re.sub(r'[^A-Za-z0-9]+', '-', e['title']).strip('-')
     return f'SUBASSEMBLY.SA14-{n}' + (f'-{slug}' if slug else '')
@@ -131,7 +227,9 @@ def readme(n, e, name):
         lines += ['## Boards', ''] + [f'- `{b}`' for b in e['boards']] + ['']
     if e['orcad']:
         lines += ['## OrCAD', ''] + [f'- `{o}`' for o in e['orcad']] + ['']
-    if e['drawings']:
+    if e.get('variants'):   # the drawings found in the repo clones, by variant (replaces the old site links)
+        lines += variants_md(n, e['variants'])
+    elif e['drawings']:
         lines += ['## Drawings (in the module and console repos)', '']
         for name, href in e['drawings']:
             h = href if href.startswith('http') else SITE + os.path.normpath(os.path.join('PAGES', href)).replace(os.sep, '/')
@@ -145,6 +243,9 @@ def readme(n, e, name):
 def main():
     dry = '--dry-run' in sys.argv
     sa = gather()
+    vs = scan_variants()
+    for n, e in sa.items():
+        e['variants'] = vs.get(f'{int(n):03d}', {})
     gi = open(os.path.join(TOP, 'tools', 'module.gitignore')).read() if os.path.exists(os.path.join(TOP, 'tools', 'module.gitignore')) else ''
     index = {}
     for n, e in sa.items():
