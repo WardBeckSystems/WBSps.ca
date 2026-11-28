@@ -1,0 +1,38 @@
+# The published site: WBSps.ca plus every public submodule, small files only (tools/pages_build.py).
+# GitHub's own Pages build checked out every submodule in full (36 GB of module repos) and ran out of disk.
+name: Pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          submodules: false
+          lfs: false
+      - name: Site (files up to 1 MB; larger ones open from their repo on GitHub)
+        run: python3 tools/pages_build.py _site --max-bytes 1000000 --jobs 16
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

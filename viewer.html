@@ -223,7 +223,7 @@ if (rel && /^https?:/.test(location.protocol)) {
     return look(rel).then(dv => dv || (mm ? look(`Modules/${mm[1]}/${mm[2]}/${mm[3]}`) : null)).then(dv => dv ? showOffline(dv) : showGitHub() || showOffline(null));
   }).catch(() => {});
 }
-// a file too big for the website (tools/pages_build.py publishes up to 2 MB) is in its repository on GitHub
+// a file too big for the website (tools/pages_build.py publishes up to 1 MB) is in its repository on GitHub
 function showGitHub() {
   const g = rel.match(/Github\.WardBeckSystems\/([^\/]+)\/(.+)$/);
   if (!g) return false;
