@@ -119,12 +119,14 @@ def readme(n, e, name):
              '. A circuit-board assembly used inside modules and products; issues A, B … are kept here together.', '']
     if e['used']:
         lines += ['## Used in', '', ' · '.join(f'[{u}]({SITE}PAGES/{u.replace(" ", "%20")}.html)' for u in sorted(e['used'])), '']
-    lines += ['| Folder | What is in it |', '|---|---|',
-              '| [SCHEMATICS/](SCHEMATICS/) | schematics, component layouts, OrCAD projects (SCHEMATICS/ORCAD) |',
-              '| [MECHANICAL/](MECHANICAL/) | board outlines, brackets, assemblies |',
-              '| [KICAD/](KICAD/) | the board files converted to KiCad (one folder per board issue), top and bottom renders |',
-              '| [MANUALS/](MANUALS/) | parts lists, manual pages |', '| [PHOTOS/](PHOTOS/) | photographs of the board |',
-              '| [OCR/](OCR/) | the note of every file |', '']
+    what = {'SCHEMATICS': 'schematics, component layouts, OrCAD projects (SCHEMATICS/ORCAD)',
+            'MECHANICAL': 'board outlines, brackets, assemblies',
+            'KICAD': 'the board files converted to KiCad (one folder per board issue), top and bottom renders',
+            'MANUALS': 'parts lists, manual pages', 'PHOTOS': 'photographs of the board', 'OCR': 'the note of every file'}
+    here = os.path.join(G, name)
+    full = [k for k in KINDS if os.path.isdir(os.path.join(here, k)) and any(os.scandir(os.path.join(here, k)))]
+    if full:   # only the folders that hold something
+        lines += ['| Folder | What is in it |', '|---|---|'] + [f'| [{k}/]({k}/) | {what[k]} |' for k in full] + ['']
     if e['boards']:
         lines += ['## Boards', ''] + [f'- `{b}`' for b in e['boards']] + ['']
     if e['orcad']:
@@ -156,8 +158,7 @@ def main():
                re.match(rf'SUBASSEMBLY\.SA14-{n}(?:-|$)', x)]
         for o in old:   # renamed since the last run (a better title)
             os.rename(os.path.join(G, o), d) if not os.path.exists(d) else None
-        for k in KINDS:
-            os.makedirs(os.path.join(d, k), exist_ok=True)
+        os.makedirs(d, exist_ok=True)   # kind folders only when something goes in them (no empty folders)
         open(os.path.join(d, 'README.md'), 'w', encoding='utf-8').write(readme(n, e, name))
         if gi and not os.path.exists(os.path.join(d, '.gitignore')):
             open(os.path.join(d, '.gitignore'), 'w').write(gi)
