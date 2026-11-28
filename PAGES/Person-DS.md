@@ -45,7 +45,7 @@ tags: ["person"]
 | D 3642-02-010 | M611 / POWER SUPPLIES / SCHEMATIC | [1988\|21](Year-1988.md) | [DS](Person-DS.md) |  | 4 | [file](../Modules/POWER/M611/1988%20-%203642-02-010%20-%20POWER%20SUPPLIES%20SCHEMATIC%20-%20DRN%20DS%20-%20ENG%20PA%20-%20ISS%204%20%282%29.jpg) |
 | D 3642-02-011 | M625B / POWER SUPPLIES / SCHEMATIC | [1988\|21](Year-1988.md) | [DS](Person-DS.md) |  | 6 | [file](../Modules/POWER/M625B/1988%20-%203642-02-011%20-%20POWER%20SUPPLIES%20SCHEMATIC%20-%20DRN%20DS%20-%20ISS%206.jpg) |
 | — | Sulu Tally Att Sense |  | [DS](Person-DS.md) |  |  | [file](../Modules/INPUT-PRE-AMPS/M520/1988%20-%20M520%20-%20520-02-002%20-%20SOLO%20TALLY%20ATT%20SENSE.jpg) |
-| — | Aeel Stereo Channel Amplifier Smbassf Halt |  | [DS](Person-DS.md) |  |  | [file](../Modules/INPUT-PRE-AMPS/M521A/1982%20-%20M521A%20-%20521-04-002%20-%20MODULE%20LAYOUT.jpg) |
+| — | Aeel Stereo Channel Amplifier Smbassf Halt |  | [DS](Person-DS.md) |  |  | [file](../Modules/INPUT-PRE-AMPS/M521A/1982%20-%20M521A%20-%20%5BDWG%2014-075-06-001%5D%20-%20521-04-002%20-%20MODULE%20LAYOUT.jpg) |
 | 3642-02-003 | Controller Data Bus Looped Subs |  | [DS](Person-DS.md) |  |  | [file](../Consoles/1980-1989/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-003%20-%20CONTROLLER%20DATA%20BUS%20LOOPED%20SUBS.jpg) |
 | 3642-02-003 | Redrawn Iissue |  | [DS](Person-DS.md) |  |  | [file](../Consoles/1980-1989/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-003%20-%20REDRAWN%20IISSUE.jpg) |
 | 3642-02-005 | Overload Module Pin |  | [DS](Person-DS.md) |  |  | [file](../Consoles/1980-1989/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-005%20-%20OVERLOAD%20MODULE%20PIN.jpg) |
@@ -61,9 +61,9 @@ tags: ["person"]
 | 3642-02-011 | Control Quired Ground Bar Ground Bar |  | [DS](Person-DS.md) |  |  | [file](../Consoles/1980-1989/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-011%20-%20CONTROL%20QUIRED%20GROUND%20BAR%20GROUND%20BAR.jpg) |
 | 520-01-002 | Aux Aux Pre/Post Aux Aux |  | [DS](Person-DS.md) |  | 0 | [file](../Modules/INPUT-PRE-AMPS/M520/1988%20-%20M520%20-%20520-01-002%20-%20AUX%20AUX%20PRE-POST%20AUX%20AUX.jpg) |
 | 520-02-002 | Solo Tally Att Sense |  | [DS](Person-DS.md) |  | D | [file](../Modules/INPUT-PRE-AMPS/M520/1988%20-%20M520%20-%20520-02-002%20-%20SOLO%20TALLY%20ATT%20SENSE.jpg) |
-| 521-02-002 | Solo Tally Att Sense |  | [DS](Person-DS.md) |  |  | [file](../Modules/INPUT-PRE-AMPS/M521A/1982%20-%20M521A%20-%20521-02-002%20-%20SOLO%20TALLY%20ATT%20SENSE.jpg) |
-| 521-02-002 | Stereo Inpt Mopule |  | [DS](Person-DS.md) |  | E | [file](../Modules/INPUT-PRE-AMPS/M521A/1982%20-%20M521A%20-%20521-02-002%20-%20STEREO%20INPT%20MOPULE.jpg) |
-| 521-04-002 | Module Layout |  | [DS](Person-DS.md) |  |  | [file](../Modules/INPUT-PRE-AMPS/M521A/1982%20-%20M521A%20-%20521-04-002%20-%20MODULE%20LAYOUT.jpg) |
+| 521-02-002 | Solo Tally Att Sense |  | [DS](Person-DS.md) |  |  | [file](../Modules/INPUT-PRE-AMPS/M521A/1982%20-%20M521A%20-%20%5BDWG%2014-075-06-001%5D%20-%20521-02-002%20-%20SOLO%20TALLY%20ATT%20SENSE.jpg) |
+| 521-02-002 | Stereo Inpt Mopule |  | [DS](Person-DS.md) |  | E | [file](../Modules/INPUT-PRE-AMPS/M521A/1982%20-%20M521A%20-%20%5BDWG%2014-075-06-001%5D%20-%20521-02-002%20-%20STEREO%20INPT%20MOPULE.jpg) |
+| 521-04-002 | Module Layout |  | [DS](Person-DS.md) |  |  | [file](../Modules/INPUT-PRE-AMPS/M521A/1982%20-%20M521A%20-%20%5BDWG%2014-075-06-001%5D%20-%20521-04-002%20-%20MODULE%20LAYOUT.jpg) |
 | 750-02-091 | Line Receiver Deiver |  | [DS](Person-DS.md) |  |  | [file](../Modules/COMMUNICATION/M750/19xx%20-%20M750%20-%20DOC%20-%20750-02-091%20-%20LINE%20RECEIVER%20DEIVER.jpg) |
 | 88000-03-004 | Notes Unless Otherwise Specified Remove All Burrs And |  | [DS](Person-DS.md) |  | 2 | [file](../Consoles/1980-1989/88000/1988%20-%2088000%20-%20DOC%20-%2088000-03-004%20-%20NOTES%20UNLESS%20OTHERWISE%20SPECIFIED%20REMOVE%20ALL%20BURRS%20AND.jpg) |
 | 880134-04-012 |  |  | [DS](Person-DS.md) |  |  | [file](../Consoles/1980-1989/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%20880134-04-012.jpg) |

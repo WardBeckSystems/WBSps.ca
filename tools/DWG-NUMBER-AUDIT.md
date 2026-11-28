@@ -1,38 +1,39 @@
 # Drawing-number audit — `[DWG ##-###-##-###]`
 
-Drawings scanned: **10,778** (schematic / mechanical / CAD files under `WBSps.ca/Github.WardBeckSystems`; traced/extracted derivatives, manuals and photos left out).
+Drawings scanned: **11,272** (schematic / mechanical / CAD files under `WBSps.ca/Github.WardBeckSystems`; traced/extracted derivatives, manuals and photos left out).
 
 Sources searched per drawing: file name, title-block sidecar (`- **Drawing:**`, traced json `sheet.number`), full OCR text, and text inside the file (PDF text, DXF/SVG text, DWG strings).
 
 | Status | Drawings | Meaning |
 |---|---:|---|
 | OK-bracketed | 0 | name already has `[DWG ##-###-##-###]` |
-| in-name-not-bracketed | 318 | number is in the name, not in `[DWG …]` form |
-| found-inside-not-in-name | 294 | number read on the drawing, missing from the name |
-| near-miss-only | 4,205 | only a short/joined form (`701-02-101`, `8-109-02-002`, `14701-02-101`) |
-| none-found | 5,961 | no drawing number of this style anywhere |
+| in-name-not-bracketed | 508 | number is in the name, not in `[DWG …]` form |
+| found-inside-not-in-name | 423 | number read on the drawing, missing from the name |
+| near-miss-only | 4,226 | only a short/joined form (`701-02-101`, `8-109-02-002`, `14701-02-101`) |
+| none-found | 6,115 | no drawing number of this style anywhere |
 
 ## By repo kind
 
 | Kind | OK-bracketed | in-name-not-bracketed | found-inside-not-in-name | near-miss-only | none-found |
 |---|---:|---:|---:|---:|---:|
+| ADVERTISEMENTS | 0 | 0 | 0 | 0 | 1 |
 | CONSOLE | 0 | 25 | 16 | 389 | 980 |
 | DOCUMENTS | 0 | 1 | 1 | 204 | 217 |
+| ENGINEERING | 0 | 0 | 65 | 26 | 204 |
 | Engineering | 0 | 0 | 93 | 43 | 212 |
 | INTERCOM | 0 | 0 | 0 | 30 | 81 |
-| Intercom | 0 | 0 | 0 | 30 | 81 |
-| MODULES | 0 | 189 | 58 | 3483 | 848 |
+| MODULES | 0 | 189 | 58 | 3505 | 862 |
 | PRODUCTS | 0 | 0 | 21 | 0 | 3030 |
 | RECOVERY | 0 | 103 | 0 | 0 | 0 |
-| SUBASSEMBLY | 0 | 0 | 2 | 0 | 90 |
+| SUBASSEMBLY | 0 | 190 | 66 | 3 | 106 |
 | Transformers | 0 | 0 | 0 | 0 | 89 |
 | WBSps | 0 | 0 | 103 | 26 | 333 |
 
-Distinct `##-###-##-###` numbers seen: **169**. Drawings showing more than one number (need a human pick): **25**.
+Distinct `##-###-##-###` numbers seen: **169**. Drawings showing more than one number (need a human pick): **40**.
 
 Full row-per-drawing list: `tools/dwg_number_audit.tsv`.
 
-## in-name-not-bracketed (318) — first 60
+## in-name-not-bracketed (508) — first 60
 
 - `CONSOLE.760045-CFTO/1976 - 76045 - 76-045-02-003c.pdf` — 76-045-02-003 (name,ocr)
 - `CONSOLE.760045-CFTO/1976 - 76045 - 76-045-02-006c.pdf` — 76-045-02-006 (name,ocr)
@@ -95,7 +96,7 @@ Full row-per-drawing list: `tools/dwg_number_audit.tsv`.
 - `MODULES.AMPLIFIERS.M612A-Audio-Distribution-Amplifier/SCHEMATICS/19xx - 14-066-02-001 (2).jpg` — 14-066-02-001 (name,title,ocr)
 - `MODULES.AMPLIFIERS.M612A-Audio-Distribution-Amplifier/SCHEMATICS/19xx - 14-066-02-001.jpg` — 14-066-02-001 (name,title,ocr)
 
-## found-inside-not-in-name (294) — first 60
+## found-inside-not-in-name (423) — first 60
 
 - `CONSOLE.740097/1974 - 74097 - B 74097-02-005 - POWER DISTRIBUTION.jpg` — 74-097-02-005 (ocr)
 - `CONSOLE.760045-CFTO/1976 - 76045 - 76045-02-003 - SUB CHANNEL (2).jpg` — 76-045-02-003 (ocr)
@@ -114,51 +115,51 @@ Full row-per-drawing list: `tools/dwg_number_audit.tsv`.
 - `CONSOLE.MODEL.L1202A/L1202A - P47 - Output Line Selector Schematic.jpg` — 14-002-02-001 (ocr)
 - `CONSOLE.MODEL.T1202A/1980 - 1980-1989 - 1202-04-007 - OSCILLATOR CUE-SOLO RE-ENTRY AND AUX LEVEL SCHEMATIC.jpg` — 14-001-02-001 14-002-02-001 (ocr)
 - `DOCUMENTS/Done/Done - L1202A Console/19xx - DOC - 1202-04-007 - OSCILLATOR CUE-SOLO RE-ENTRY AND AUX LEVEL SCHEMATIC.jpg` — 14-001-02-001 14-002-02-001 (ocr)
-- `Engineering/H drive/CONSOLES/REN TV Console/921/OLD/SA14326.SCH` — 14-326-02-001 (content)
-- `Engineering/H drive/CONSOLES/REN TV Console/921/OLD/SA14326A.SCH` — 14-326-02-001 (content)
-- `Engineering/H drive/CONSOLES/REN TV Console/921/OLD/SA14326B.SCH` — 14-326-02-001 (content)
-- `Engineering/H drive/CONSOLES/REN TV Console/M920/OLD/SA14331A.SCH` — 14-331-02-001 (content)
-- `Engineering/H drive/CONSOLES/REN TV Console/M920/OLD/SA14331B.SCH` — 14-331-02-001 (content)
-- `Engineering/H drive/CONSOLES/REN TV Console/M920/OLD/SA14331C.SCH` — 14-331-02-001 (content)
-- `Engineering/H drive/CONSOLES/REN TV Console/M920/OLD/SA14331D.SCH` — 14-331-02-001 (content)
-- `Engineering/H drive/D2000 Digital rack/D2000/ORCAD/SA14330/SA14330A.DSN` — 14-330-02-001 (content)
-- `Engineering/H drive/D2000 Digital rack/D2000/ORCAD/SA14330/SA14330A.SCH` — 14-330-02-001 (content)
-- `Engineering/H drive/IKR/IKR10/14-302.PCB` — 14-300-06-001 (content)
-- `Engineering/H drive/IKR/IKR10/FAIKR10.DWG` — 14-302-01-001 (content)
-- `Engineering/H drive/IKR/IKR10/LMIKR101.DWG` — 14-302-04-001 (content)
-- `Engineering/H drive/IKR/IKR10/LMIKR102.DWG` — 14-302-04-002 (content)
-- `Engineering/H drive/IKR/IKR10/LMIKR103.DWG` — 14-302-04-003 (content)
-- `Engineering/H drive/IKR/IKR10/SMIKR10.DWG` — 14-302-02-001 (content)
-- `Engineering/H drive/IKR/IKR10A/FAIKR10A.DWG` — 14-302-01-003 (content)
-- `Engineering/H drive/IKR/IKR10A/FUNC10AM.DWG` — 14-302-01-003 (content)
-- `Engineering/H drive/IKR/IKR10A/FUNC10AM.DXF` — 14-302-01-003 (content)
-- `Engineering/H drive/IKR/IKR10A/LMIKR104.DWG` — 14-302-04-008 (content)
-- `Engineering/H drive/IKR/IKR10A/LMIKR105.DWG` — 14-302-04-009 (content)
-- `Engineering/H drive/IKR/IKR10A/LMIKR10A.DWG` — 14-302-04-007 (content)
-- `Engineering/H drive/IKR/IKR10A/SMIKR101.DWG` — 14-302-02-002 (content)
-- `Engineering/H drive/IKR/IKR10A/SMIKR102.DWG` — 14-302-02-003 (content)
-- `Engineering/H drive/IKR/IKR10B/FAIKR10B.DWG` — 14-302-01-004 (content)
-- `Engineering/H drive/IKR/IKR10B/LMIKR106.DWG` — 14-302-04-010 (content)
-- `Engineering/H drive/IKR/IKR10B/SMIKR102.DWG` — 14-302-02-003 (content)
-- `Engineering/H drive/IKR/IKR4A/FAIKR4A.DWG` — 14-302-01-002 (content)
-- `Engineering/H drive/IKR/IKR4A/LMIKR4A1.DWG` — 14-302-04-004 (content)
-- `Engineering/H drive/IKR/IKR4A/LMIKR4A2.DWG` — 14-302-04-005 (content)
-- `Engineering/H drive/IKR/IKR4A/LMIKR4A3.DWG` — 14-302-04-006 (content)
-- `Engineering/H drive/IKR/IKR4A/SMIKR4A.DWG` — 14-302-02-004 (content)
-- `Engineering/H drive/IKR/LMIKR101.DWG` — 14-302-04-001 (content)
-- `Engineering/H drive/POD_OLD/POD3/SM143081.SCH` — 14-308-02-001 (content)
-- `Engineering/H drive/POD_OLD/POD3/SM143082.SCH` — 14-308-02-002 (content)
-- `Engineering/H drive/POD_OLD/POD3/SM143083.SCH` — 14-308-02-003 (content)
-- `Engineering/H drive/POD_OLD/POD3/SM143084.SCH` — 14-308-02-004 (content)
-- `Engineering/H drive/POD_OLD/POD3/SM143085.SCH` — 14-308-02-005 (content)
-- `Engineering/H drive/POD_OLD/POD3/SM14308A.SCH` — 14-308-02-001 (content)
-- `Engineering/H drive/POD_OLD/POD3/SM14308B.SCH` — 14-308-02-002 (content)
-- `Engineering/H drive/POD_OLD/POD3/SM14308C.SCH` — 14-308-02-003 (content)
-- `Engineering/H drive/POD_OLD/POD3/SM14309.SCH` — 14-309-02-001 (content)
-- `Engineering/H drive/POD_OLD/POD4/POD4A.SCH` — 14-306-02-001 (content)
-- `Engineering/H drive/POD_OLD/POD4/POD4B.SCH` — 14-306-02-001 (content)
+- `ENGINEERING.RD-H-Drive/CONSOLES/REN TV Console/921/OLD/SA14326.SCH` — 14-326-02-001 (content)
+- `ENGINEERING.RD-H-Drive/CONSOLES/REN TV Console/921/OLD/SA14326A.SCH` — 14-326-02-001 (content)
+- `ENGINEERING.RD-H-Drive/CONSOLES/REN TV Console/921/OLD/SA14326B.SCH` — 14-326-02-001 (content)
+- `ENGINEERING.RD-H-Drive/CONSOLES/REN TV Console/M920/OLD/SA14331A.SCH` — 14-331-02-001 (content)
+- `ENGINEERING.RD-H-Drive/CONSOLES/REN TV Console/M920/OLD/SA14331B.SCH` — 14-331-02-001 (content)
+- `ENGINEERING.RD-H-Drive/CONSOLES/REN TV Console/M920/OLD/SA14331C.SCH` — 14-331-02-001 (content)
+- `ENGINEERING.RD-H-Drive/CONSOLES/REN TV Console/M920/OLD/SA14331D.SCH` — 14-331-02-001 (content)
+- `ENGINEERING.RD-H-Drive/D2000 Digital rack/D2000/ORCAD/SA14330/SA14330A.DSN` — 14-330-02-001 (content)
+- `ENGINEERING.RD-H-Drive/D2000 Digital rack/D2000/ORCAD/SA14330/SA14330A.SCH` — 14-330-02-001 (content)
+- `ENGINEERING.RD-H-Drive/IKR/IKR10/14-302.PCB` — 14-300-06-001 (content)
+- `ENGINEERING.RD-H-Drive/IKR/IKR10/FAIKR10.DWG` — 14-302-01-001 (content)
+- `ENGINEERING.RD-H-Drive/IKR/IKR10/LMIKR101.DWG` — 14-302-04-001 (content)
+- `ENGINEERING.RD-H-Drive/IKR/IKR10/LMIKR102.DWG` — 14-302-04-002 (content)
+- `ENGINEERING.RD-H-Drive/IKR/IKR10/LMIKR103.DWG` — 14-302-04-003 (content)
+- `ENGINEERING.RD-H-Drive/IKR/IKR10/SMIKR10.DWG` — 14-302-02-001 (content)
+- `ENGINEERING.RD-H-Drive/IKR/IKR10A/FAIKR10A.DWG` — 14-302-01-003 (content)
+- `ENGINEERING.RD-H-Drive/IKR/IKR10A/FUNC10AM.DWG` — 14-302-01-003 (content)
+- `ENGINEERING.RD-H-Drive/IKR/IKR10A/FUNC10AM.DXF` — 14-302-01-003 (content)
+- `ENGINEERING.RD-H-Drive/IKR/IKR10A/LMIKR104.DWG` — 14-302-04-008 (content)
+- `ENGINEERING.RD-H-Drive/IKR/IKR10A/LMIKR105.DWG` — 14-302-04-009 (content)
+- `ENGINEERING.RD-H-Drive/IKR/IKR10A/LMIKR10A.DWG` — 14-302-04-007 (content)
+- `ENGINEERING.RD-H-Drive/IKR/IKR10A/SMIKR101.DWG` — 14-302-02-002 (content)
+- `ENGINEERING.RD-H-Drive/IKR/IKR10A/SMIKR102.DWG` — 14-302-02-003 (content)
+- `ENGINEERING.RD-H-Drive/IKR/IKR10B/FAIKR10B.DWG` — 14-302-01-004 (content)
+- `ENGINEERING.RD-H-Drive/IKR/IKR10B/LMIKR106.DWG` — 14-302-04-010 (content)
+- `ENGINEERING.RD-H-Drive/IKR/IKR10B/SMIKR102.DWG` — 14-302-02-003 (content)
+- `ENGINEERING.RD-H-Drive/IKR/IKR4A/FAIKR4A.DWG` — 14-302-01-002 (content)
+- `ENGINEERING.RD-H-Drive/IKR/IKR4A/LMIKR4A1.DWG` — 14-302-04-004 (content)
+- `ENGINEERING.RD-H-Drive/IKR/IKR4A/LMIKR4A2.DWG` — 14-302-04-005 (content)
+- `ENGINEERING.RD-H-Drive/IKR/IKR4A/LMIKR4A3.DWG` — 14-302-04-006 (content)
+- `ENGINEERING.RD-H-Drive/IKR/IKR4A/SMIKR4A.DWG` — 14-302-02-004 (content)
+- `ENGINEERING.RD-H-Drive/IKR/LMIKR101.DWG` — 14-302-04-001 (content)
+- `ENGINEERING.RD-H-Drive/POD_OLD/POD3/SM143081.SCH` — 14-308-02-001 (content)
+- `ENGINEERING.RD-H-Drive/POD_OLD/POD3/SM143082.SCH` — 14-308-02-002 (content)
+- `ENGINEERING.RD-H-Drive/POD_OLD/POD3/SM143083.SCH` — 14-308-02-003 (content)
+- `ENGINEERING.RD-H-Drive/POD_OLD/POD3/SM143084.SCH` — 14-308-02-004 (content)
+- `ENGINEERING.RD-H-Drive/POD_OLD/POD3/SM143085.SCH` — 14-308-02-005 (content)
+- `ENGINEERING.RD-H-Drive/POD_OLD/POD3/SM14308A.SCH` — 14-308-02-001 (content)
+- `ENGINEERING.RD-H-Drive/POD_OLD/POD3/SM14308B.SCH` — 14-308-02-002 (content)
+- `ENGINEERING.RD-H-Drive/POD_OLD/POD3/SM14308C.SCH` — 14-308-02-003 (content)
+- `ENGINEERING.RD-H-Drive/POD_OLD/POD3/SM14309.SCH` — 14-309-02-001 (content)
+- `ENGINEERING.RD-H-Drive/POD_OLD/POD4/POD4A.SCH` — 14-306-02-001 (content)
+- `ENGINEERING.RD-H-Drive/POD_OLD/POD4/POD4B.SCH` — 14-306-02-001 (content)
 
-## near-miss-only (4,205) — first 60
+## near-miss-only (4,226) — first 60
 
 - `CONSOLE.720032-CHCH-TV-Hamilton/72032 - CHCH TV, Hamilton/1972 - 72032 - 72032-02-002 - PRELMINABY IODBM GOON FOR PRE LISTEN SCHEMATIC SEE.jpg` — 72-032-02-002(joined) (near)
 - `CONSOLE.720032-CHCH-TV-Hamilton/72032 - Typical Input System Audio Schematic.jpg/1973 - 72032-02-001 - TYPICAL INPUT SYSTEM AUDIO SCHEMATIC - DRN GEB - ISS 1.jpg` — 72-032-02-001(joined) 72-032-02-002(joined) (near)
