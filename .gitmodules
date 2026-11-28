@@ -1062,8 +1062,8 @@
 	path = YOU_TUBE
 	url = https://github.com/WardBeckSystems/YOU_TUBE.git
 [submodule "Console"]
-	path = Products/Console
+	path = WBSps.ca/Github.WardBeckSystems/Console
 	url = https://github.com/WardBeckSystems/Console.git
 [submodule "Intercom"]
-	path = Products/Intercom
+	path = WBSps.ca/Github.WardBeckSystems/Intercom
 	url = https://github.com/WardBeckSystems/Intercom.git

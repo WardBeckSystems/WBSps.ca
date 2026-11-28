@@ -117,6 +117,8 @@ site/
 /WBSps.ca/Github.WardBeckSystems/*
 !/WBSps.ca/Github.WardBeckSystems/MODULES.*
 !/WBSps.ca/Github.WardBeckSystems/Premote.WBSps.ca
+!/WBSps.ca/Github.WardBeckSystems/Console
+!/WBSps.ca/Github.WardBeckSystems/Intercom
 
 # 7 GB of recovered drives, distributed to repos by hand
 hard drive recovery/

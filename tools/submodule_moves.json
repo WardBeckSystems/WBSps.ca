@@ -1,4 +1,6 @@
 {
+ "Products/Console": "WBSps.ca/Github.WardBeckSystems/Console",
+ "Products/Intercom": "WBSps.ca/Github.WardBeckSystems/Intercom",
  "Products/Modules/AMPLIFIERS/M124": "WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M124-Line-Amplifier",
  "Products/Modules/AMPLIFIERS/M166A": "WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M166A-Active-Summing-Module",
  "Products/Modules/AMPLIFIERS/M411": "WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M411-Transcription-Preamplifier",
