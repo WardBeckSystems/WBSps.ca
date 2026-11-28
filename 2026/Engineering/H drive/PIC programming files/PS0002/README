@@ -1,9 +1,0 @@
-FEB 13, 1995   fix for GLENN GOULD studio M718 code
-
-DO NOT USE K21.OBJ
-
-use the fixed.obj file
-
-k21.obj makes the 4 bit digital output active low but the NEVE console
-needs an active high digital signal so use FIXED.OBJ which is active high.
-

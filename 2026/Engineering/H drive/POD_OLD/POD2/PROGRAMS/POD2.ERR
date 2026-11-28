@@ -1,4 +1,0 @@
-Message[302] M:\POD\POD2\POD2.ASM 35 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] M:\POD\POD2\POD2.ASM 36 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] M:\POD\POD2\POD2.ASM 38 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Warning[202] M:\POD\POD2\POD2.ASM 126 : Argument out of range.  Least significant bits used.
