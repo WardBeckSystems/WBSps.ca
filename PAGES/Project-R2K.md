@@ -21,7 +21,7 @@ Console series: [R2K](Series-R2K.md) · [R2K Cool Grey](Series-R2K-Cool-Grey.md)
 
 ## Modules
 
-- [M908](M908.md) — Dual Stereo Line Selector _(UNSORTED)_
+- [M908](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M908-Dual-Stereo-Line-Selector/) — Dual Stereo Line Selector _(UNSORTED)_
 
 ## Files (111)
 

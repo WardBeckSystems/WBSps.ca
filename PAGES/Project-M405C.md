@@ -18,7 +18,7 @@ tags: ["project", "1970s"]
 
 ## Modules
 
-- [M405C](M405C.md) — Rack Mounted Extended Range VU Meter _(METER)_
+- [M405C](../WBSps.ca/Github.WardBeckSystems/MODULES.METER.M405C-Rack-Mounted-Extended-Range-VU-Meter/) — Rack Mounted Extended Range VU Meter _(METER)_
 
 ## Files (10)
 

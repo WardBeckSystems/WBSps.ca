@@ -1,5 +1,5 @@
 # 1976 - EQUALIZER MODULE SCHEMATIC.jpg
-Wiki page: [M462](../../PAGES/M462.md)
+Wiki page: [M462](../../WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M462-Equalizer-Module/)
 
 
 - **Year:** 1976 (title block date)

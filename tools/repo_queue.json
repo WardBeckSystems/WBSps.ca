@@ -206,61 +206,71 @@
   "name": "SUBASSEMBLY.SA14-109-Universal-Amplifier-Assembly",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-109-Universal-Amplifier-Assembly",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-109 Universal Amplifier Assembly, used in M462C, M527, M528, M562C"
+  "description": "Ward-Beck Systems sub-assembly SA14-109 Universal Amplifier Assembly, used in M462C, M527, M528, M562C",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-120-Stereo-Preamplifier",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-120-Stereo-Preamplifier",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-120 Stereo Preamplifier, used in M490M, M490N"
+  "description": "Ward-Beck Systems sub-assembly SA14-120 Stereo Preamplifier, used in M490M, M490N",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-121-VU-Meter-Amplifier",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-121-VU-Meter-Amplifier",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-121 VU Meter Amplifier, used in M435, MP1"
+  "description": "Ward-Beck Systems sub-assembly SA14-121 VU Meter Amplifier, used in M435, MP1",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-123-Machine-Control-Interface-Assembly",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-123-Machine-Control-Interface-Assembly",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-123 Machine Control Interface Assembly, used in M5200A"
+  "description": "Ward-Beck Systems sub-assembly SA14-123 Machine Control Interface Assembly, used in M5200A",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-124-Oscillator-Assembly",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-124-Oscillator-Assembly",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-124 Oscillator Assembly, used in M529"
+  "description": "Ward-Beck Systems sub-assembly SA14-124 Oscillator Assembly, used in M529",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-140-Dual-Booster-Amplifier",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-140-Dual-Booster-Amplifier",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-140 Dual Booster Amplifier, used in M475, M475A"
+  "description": "Ward-Beck Systems sub-assembly SA14-140 Dual Booster Amplifier, used in M475, M475A",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-141-Driver",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-141-Driver",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-141 Driver, used in M5201"
+  "description": "Ward-Beck Systems sub-assembly SA14-141 Driver, used in M5201",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-152",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-152",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-152, used in M522, M522B, M522C, M901, M922"
+  "description": "Ward-Beck Systems sub-assembly SA14-152, used in M522, M522B, M522C, M901, M922",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-161-Machine-Control-Assembly",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-161-Machine-Control-Assembly",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-161 Machine Control Assembly, used in M5201"
+  "description": "Ward-Beck Systems sub-assembly SA14-161 Machine Control Assembly, used in M5201",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-172",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-172",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-172, used in M7880, M7880G, microCOM, microCOMII"
+  "description": "Ward-Beck Systems sub-assembly SA14-172, used in M7880, M7880G, microCOM, microCOMII",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-182-Amplifier-Assembly",
@@ -561,5 +571,17 @@
   "path": "WBSps.ca/Github.WardBeckSystems/PRODUCTS.PODS",
   "visibility": "public",
   "description": "Ward-Beck Systems POD series: audio interfaces and amplifiers"
+ },
+ {
+  "name": "ENGINEERING.RD-APK",
+  "path": "WBSps.ca/Github.WardBeckSystems/ENGINEERING.RD-APK",
+  "visibility": "private",
+  "description": "Ward-Beck Systems R&D: WBS Engineering (APK), 2010s Eagle boards, drawings, OpenGear M6205 (private)"
+ },
+ {
+  "name": "RECOVERY.APK-Archives",
+  "path": "WBSps.ca/Github.WardBeckSystems/RECOVERY.APK-Archives",
+  "visibility": "private",
+  "description": "Recovered APK-WBS archives: Quarantine, Canadaw.ca, business files (private)"
  }
 ]

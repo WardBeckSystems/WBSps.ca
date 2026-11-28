@@ -17,7 +17,7 @@ tags: ["module", "unsorted", "1980s"]
 | Earliest dated evidence | [1987](Year-1987.md) — estimate from a dated variant |
 | Evidence | from M920 |
 | Confidence | family |
-| Variants | [M920](M920.md), [M920WRK](M920WRK.md) |
+| Variants | [M920](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M920/), [M920WRK](M920WRK.md) |
 | Folder | [Modules/UNSORTED/M920TMP](../Modules/UNSORTED/M920TMP/) |
 
 ## Drawings & design files (1)

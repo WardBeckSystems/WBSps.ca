@@ -37,7 +37,7 @@ title: "Power transformers (80-n)"
 
 [1967|0](Year-1967.md) · drawn [R BECK](Person-R-BECK.md) · 1 drawing
 
-Used in: [M648](M648.md)
+Used in: [M648](../WBSps.ca/Github.WardBeckSystems/MODULES.POWER.M648-Power-Supply/)
 
 [1967 - 80-7 - POWER TRANSFORMER TYPE 80-7 - DRN R BECK - ISS 5.png](../PHOTOS/Drawings/1967%20-%2080-7%20-%20POWER%20TRANSFORMER%20TYPE%2080-7%20-%20DRN%20R%20BECK%20-%20ISS%205.png)
 
@@ -55,7 +55,7 @@ Used in: [M648](M648.md)
 
 [1979|12](Year-1979.md) · drawn [GEB (Gerry E. Bell)](Person-GEB.md) · 1 drawing
 
-Used in: [M624](M624.md)
+Used in: [M624](../WBSps.ca/Github.WardBeckSystems/MODULES.POWER.M624-24V-Power-Supply/)
 
 [1979 - B 80-9 - 80-9 POWER TRANSFORMER - DRN GEB - ENG RKB - ISS 4.png](../PHOTOS/Drawings/1979%20-%20B%2080-9%20-%2080-9%20POWER%20TRANSFORMER%20-%20DRN%20GEB%20-%20ENG%20RKB%20-%20ISS%204.png)
 
@@ -65,7 +65,7 @@ Used in: [M624](M624.md)
 
 [1968|1](Year-1968.md) · drawn [R BECK](Person-R-BECK.md) · 2 drawings
 
-Used in: [RM401](RM401.md)
+Used in: [RM401](../WBSps.ca/Github.WardBeckSystems/MODULES.METER.RM401-Noise-Suppressor/)
 
 [1968 - 80-10 - POWER TRANSFORMER TYPE 80-10 - CKD R. Bell - ISS 2.png](../PHOTOS/Drawings/1968%20-%2080-10%20-%20POWER%20TRANSFORMER%20TYPE%2080-10%20-%20CKD%20R.%20Bell%20-%20ISS%202.png), [1968 - 80-10 - POWER TRANSFORMER TYPE 80-10 - DRN R. Beck - ISS 2.png](../PHOTOS/Drawings/1968%20-%2080-10%20-%20POWER%20TRANSFORMER%20TYPE%2080-10%20-%20DRN%20R.%20Beck%20-%20ISS%202.png)
 
@@ -75,7 +75,7 @@ Used in: [RM401](RM401.md)
 
 [1975|8](Year-1975.md) · drawn [D MFARLANE](Person-D-MFARLANE.md) · 2 drawings
 
-Used in: [M411](M411.md), [M415](M415.md)
+Used in: [M411](../WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M411-Transcription-Preamplifier/), [M415](../WBSps.ca/Github.WardBeckSystems/MODULES.DYNAMICS.M415-Mic-Line-Amplifier-with-Compression/)
 
 [1975 - B 9317 - 80-11 POWER TRANSFORMER - DRN D. M'FARLANE - ISS 1.png](../PHOTOS/Drawings/1975%20-%20B%209317%20-%2080-11%20POWER%20TRANSFORMER%20-%20DRN%20D.%20M%27FARLANE%20-%20ISS%201.png), [1975 - B 9317 - 80-11 POWER TRANSFORMER - DRN D. M'FARLANE.png](../PHOTOS/Drawings/1975%20-%20B%209317%20-%2080-11%20POWER%20TRANSFORMER%20-%20DRN%20D.%20M%27FARLANE.png)
 
@@ -93,7 +93,7 @@ Used in: [M411](M411.md), [M415](M415.md)
 
 [1969|2](Year-1969.md) · 2 drawings
 
-Used in: [M621](M621.md)
+Used in: [M621](../WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M621-20-Watt-Monitor-Amplifier/)
 
 [1969 - 80-13 - POWER TRANSFORMER TYPE 80-13 (2).png](../PHOTOS/Drawings/1969%20-%2080-13%20-%20POWER%20TRANSFORMER%20TYPE%2080-13%20%282%29.png), [1969 - 80-13 - POWER TRANSFORMER TYPE 80-13.png](../PHOTOS/Drawings/1969%20-%2080-13%20-%20POWER%20TRANSFORMER%20TYPE%2080-13.png)
 
@@ -119,7 +119,7 @@ Used in: [M621](M621.md)
 
 [1970|3](Year-1970.md) · 1 drawing
 
-Used in: [M610](M610.md)
+Used in: [M610](../WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M610-10-Watt-Monitor-Amplifier/)
 
 [1970 - 80-16 - POWER TRANSFORMER TYPE 80-16 - ISS 2.png](../PHOTOS/Drawings/1970%20-%2080-16%20-%20POWER%20TRANSFORMER%20TYPE%2080-16%20-%20ISS%202.png)
 
@@ -137,7 +137,7 @@ Used in: [M610](M610.md)
 
 [1972|5](Year-1972.md) · 1 drawing
 
-Used in: [M625A](M625A.md)
+Used in: [M625A](../WBSps.ca/Github.WardBeckSystems/MODULES.POWER.M625A-Power-Supply/)
 
 [1972 - 80-18 - POWER TRANSFORMER TYPE 80-18 - ISS 4.png](../PHOTOS/Drawings/1972%20-%2080-18%20-%20POWER%20TRANSFORMER%20TYPE%2080-18%20-%20ISS%204.png)
 
@@ -155,7 +155,7 @@ Used in: [M625A](M625A.md)
 
 [1977|10](Year-1977.md) · 2 drawings
 
-Used in: [M485](M485.md), [M485B](M485B.md)
+Used in: [M485](../WBSps.ca/Github.WardBeckSystems/MODULES.POWER.M485-25V-Power-Supply/), [M485B](../WBSps.ca/Github.WardBeckSystems/MODULES.POWER.M485B-25V-Power-Supply/)
 
 [1977 - 80-20 - POWER TRANSFORMER TYPE 80-20 - ISS 2 (2).png](../PHOTOS/Drawings/1977%20-%2080-20%20-%20POWER%20TRANSFORMER%20TYPE%2080-20%20-%20ISS%202%20%282%29.png), [1977 - 80-20 - POWER TRANSFORMER TYPE 80-20 - ISS 2.png](../PHOTOS/Drawings/1977%20-%2080-20%20-%20POWER%20TRANSFORMER%20TYPE%2080-20%20-%20ISS%202.png)
 
@@ -173,7 +173,7 @@ Used in: [M485](M485.md), [M485B](M485B.md)
 
 [1979|12](Year-1979.md) · drawn [MRW](Person-MRW.md) · 1 drawing
 
-Used in: [M632](M632.md)
+Used in: [M632](../WBSps.ca/Github.WardBeckSystems/MODULES.POWER.M632-Power-Supply/)
 
 [1979 - B 80-22 - 80-22 POWER TRANSFORMER - DRN MRW - ENG RKB - ISS 5.png](../PHOTOS/Drawings/1979%20-%20B%2080-22%20-%2080-22%20POWER%20TRANSFORMER%20-%20DRN%20MRW%20-%20ENG%20RKB%20-%20ISS%205.png)
 
@@ -183,7 +183,7 @@ Used in: [M632](M632.md)
 
 [1978|11](Year-1978.md) · drawn [GEB (Gerry E. Bell)](Person-GEB.md) · 1 drawing
 
-Used in: [M605A](M605A.md)
+Used in: [M605A](../WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M605A-Audio-Distribution-Amplifier/)
 
 [1978 - B 80-23 - POWER TRANSFORMER TYPE 80-23 - DRN GEB - ENG GEB - ISS 3.png](../PHOTOS/Drawings/1978%20-%20B%2080-23%20-%20POWER%20TRANSFORMER%20TYPE%2080-23%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%203.png)
 
@@ -193,7 +193,7 @@ Used in: [M605A](M605A.md)
 
 [1979|12](Year-1979.md) · drawn [MRW](Person-MRW.md) · 2 drawings
 
-Used in: [M611](M611.md)
+Used in: [M611](../WBSps.ca/Github.WardBeckSystems/MODULES.POWER.M611-Power-Supply/)
 
 [1979 - 80-24 POWER TRANSFORMER - DRN MRW - ENG RKB.png](../PHOTOS/Drawings/1979%20-%2080-24%20POWER%20TRANSFORMER%20-%20DRN%20MRW%20-%20ENG%20RKB.png), [1979 - B 80-24 - 80-24 POWER TRANSFORMER - DRN MRW - ENG RKB - ISS 4.png](../PHOTOS/Drawings/1979%20-%20B%2080-24%20-%2080-24%20POWER%20TRANSFORMER%20-%20DRN%20MRW%20-%20ENG%20RKB%20-%20ISS%204.png)
 
@@ -243,7 +243,7 @@ Used in: [M611](M611.md)
 
 [1983|16](Year-1983.md) · drawn [GEB (Gerry E. Bell)](Person-GEB.md) · 1 drawing
 
-Used in: [M611](M611.md)
+Used in: [M611](../WBSps.ca/Github.WardBeckSystems/MODULES.POWER.M611-Power-Supply/)
 
 [1983 - B 80-30 - 80-30 POWER TRANSFORMER - DRN GEB - ENG RKB - ISS 3.png](../PHOTOS/Drawings/1983%20-%20B%2080-30%20-%2080-30%20POWER%20TRANSFORMER%20-%20DRN%20GEB%20-%20ENG%20RKB%20-%20ISS%203.png)
 

@@ -1,5 +1,5 @@
 # 19xx - 14-140-02-001 - SA14-140 DUAL BOOSTER AMPLIFIER SCHEMATIC - ISS 1.jpg
-Wiki page: [M475A](../../PAGES/M475A.md)
+Wiki page: [M475A](../../WBSps.ca/Github.WardBeckSystems/MODULES.MONITORING.M475A-Stereo-Monitor-Module/)
 
 
 - **Year:** unknown (title block (read by eye))

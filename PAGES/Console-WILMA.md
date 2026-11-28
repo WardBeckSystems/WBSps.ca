@@ -30,7 +30,7 @@ _It carries on each time it is re-homed._
 
 ## Modules in it
 
-M470R · [M462B](M462B.md) · [M462A](M462A.md) · [M462](M462.md) · [M466](M466.md) · [M436L](M436L.md) · [M473A](M473A.md) · [M451](M451.md) · [M475](M475.md) · [M475A](M475A.md) · [M495](M495.md)
+M470R · [M462B](../WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M462B-Equalizer-Module/) · [M462A](../WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M462A-Equalizer-Module/) · [M462](../WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M462-Equalizer-Module/) · [M466](../WBSps.ca/Github.WardBeckSystems/MODULES.DYNAMICS.M466-Limiter-Compressor-Module/) · [M436L](../WBSps.ca/Github.WardBeckSystems/MODULES.METER.M436L-VU-Meter/) · [M473A](../WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M473A-Submaster-Module/) · [M451](../WBSps.ca/Github.WardBeckSystems/MODULES.MONITORING.M451-Talkback-Module/) · [M475](../WBSps.ca/Github.WardBeckSystems/MODULES.MONITORING.M475-Stereo-Monitor-Module/) · [M475A](../WBSps.ca/Github.WardBeckSystems/MODULES.MONITORING.M475A-Stereo-Monitor-Module/) · [M495](../WBSps.ca/Github.WardBeckSystems/MODULES.MONITORING.M495-Stereo-Monitor-Module/)
 
 ## Photos & documents (22)
 

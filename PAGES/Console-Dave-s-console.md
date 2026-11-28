@@ -25,7 +25,7 @@ _It carries on each time it is re-homed._
 
 ## Modules in it
 
-[M460A](M460A.md) · [M1204](M1204.md) · M460S
+[M460A](../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460A-Input-Module/) · [M1204](M1204.md) · M460S
 
 ## Photos & documents (14)
 

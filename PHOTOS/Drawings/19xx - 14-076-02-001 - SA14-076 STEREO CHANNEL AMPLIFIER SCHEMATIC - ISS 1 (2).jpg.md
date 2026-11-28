@@ -1,5 +1,5 @@
 # 19xx - 14-076-02-001 - SA14-076 STEREO CHANNEL AMPLIFIER SCHEMATIC - ISS 1 (2).jpg
-Wiki page: [M521](../../PAGES/M521.md)
+Wiki page: [M521](../../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M521-Stereo-Input-Module/)
 
 
 - **Year:** unknown (title block (read by eye))

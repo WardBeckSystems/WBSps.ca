@@ -1,5 +1,5 @@
 # 19xx - 14-101-02-001 - SA14-101 AUDIO AMPLIFIER ASSEMBLY SCHEMATIC - ISS 2.jpg
-Wiki page: [M609](../../PAGES/M609.md)
+Wiki page: [M609](../../WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M609-Remote-Sensitivity-Distribution-Amplifier/)
 
 
 - **Year:** unknown (title block (read by eye))

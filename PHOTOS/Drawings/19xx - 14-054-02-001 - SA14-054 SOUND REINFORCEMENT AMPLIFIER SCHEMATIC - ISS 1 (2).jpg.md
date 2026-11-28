@@ -1,5 +1,5 @@
 # 19xx - 14-054-02-001 - SA14-054 SOUND REINFORCEMENT AMPLIFIER SCHEMATIC - ISS 1 (2).jpg
-Wiki page: [M460M](../../PAGES/M460M.md)
+Wiki page: [M460M](../../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460M-Input-Module/)
 
 
 - **Year:** unknown (title block (read by eye))

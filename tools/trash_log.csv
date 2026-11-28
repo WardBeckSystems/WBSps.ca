@@ -433,3 +433,4 @@ date,path,why,kept
 2026-11-27,WBSps.ca/Github.WardBeckSystems/ENGINEERING.RD-H-Drive/POD_OLD,7 CorelDraw files left after the sort (ignored in RD-H-Drive); committed in PRODUCTS.PODS,WBSps.ca/Github.WardBeckSystems/PRODUCTS.PODS
 2026-11-27,Products/Console,old checkout of the Console index (stale layout; its 161 unique pictures moved into their CONSOLE.* repos first; the rest hard links of files in those repos),WBSps.ca/Github.WardBeckSystems/Console
 2026-11-27,Products/Intercom,old checkout of the Intercom index (every file in the INTERCOM.* repos),WBSps.ca/Github.WardBeckSystems/Intercom
+2026-11-27,PAGES/<module>.html and .md (710),duplicates of each module's own page (its repo's index.html / README); replaced by redirects,WBSps.ca/Github.WardBeckSystems/<module clone>/

@@ -1,5 +1,5 @@
 # 19xx - 14-060-02-001 - SA14-060 PPM AMPLIFIER ASSEMBLY SCHEMATIC - ISS 7.jpg
-Wiki page: [M433](../../PAGES/M433.md)
+Wiki page: [M433](../../WBSps.ca/Github.WardBeckSystems/MODULES.METER.M433-Peak-Program-Meter/)
 
 
 - **Year:** unknown (title block (read by eye))

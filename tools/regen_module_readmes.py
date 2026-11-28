@@ -25,6 +25,8 @@ def main():
         if want and code not in want:
             continue
         real = os.path.realpath(d)
+        if not os.path.isdir(real):   # merged into another module and archived
+            continue
         if not dry:
             sh('git', '-C', real, 'pull', '-q', '--rebase')
         drop = []
@@ -49,6 +51,10 @@ def main():
             if push and sh('git', '-C', real, 'push', '-q').returncode:
                 print('PUSH FAILED', code)
             done += 1
+        elif push and 'ahead' in sh('git', '-C', real, 'status', '-sb').stdout.split('\n')[0]:
+            sh('git', '-C', real, 'pull', '-q', '--rebase')
+            if sh('git', '-C', real, 'push', '-q').returncode:
+                print('PUSH FAILED', code)
     print(done, 'repos changed')
 
 

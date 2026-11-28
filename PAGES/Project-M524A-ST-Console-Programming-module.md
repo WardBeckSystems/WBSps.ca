@@ -18,7 +18,7 @@ tags: ["project", "1980s"]
 
 ## Modules
 
-- [M524A](M524A.md) _(COMPUTERS)_
+- [M524A](../WBSps.ca/Github.WardBeckSystems/MODULES.COMPUTERS.M524A-24V-Dual-Lamp-Relay-Power-Supply/) _(COMPUTERS)_
 
 ## Files (63)
 

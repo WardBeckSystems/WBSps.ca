@@ -18,7 +18,7 @@ tags: ["project", "1990s"]
 
 ## Modules
 
-- [M7880](M7880.md) _(COMMUNICATION)_
+- [M7880](../WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7880-Intercom-System/) _(COMMUNICATION)_
 
 ## Files (7)
 

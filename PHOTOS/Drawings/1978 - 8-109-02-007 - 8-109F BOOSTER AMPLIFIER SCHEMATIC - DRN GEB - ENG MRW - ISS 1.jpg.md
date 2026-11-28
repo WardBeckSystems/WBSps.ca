@@ -1,5 +1,5 @@
 # 1978 - 8-109-02-007 - 8-109F BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1.jpg
-Wiki page: [M463AB](../../PAGES/M463AB.md)
+Wiki page: [M463AB](../../WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M463AB-Submaster-Module/)
 
 
 - **Year:** 1978 (title block date)

@@ -217,8 +217,24 @@ if (!rel) {
 if (rel && /^https?:/.test(location.protocol)) {
   fetch(enc(rel), { method: 'HEAD' }).then(r => {
     if (r.ok) return;
-    return (window.driveLookup ? window.driveLookup(rel) : Promise.resolve(null)).then(dv => showOffline(dv));
+    // a module's clone path (WBSps.ca/Github.WardBeckSystems/MODULES.<CAT>.<M>-<Fn>/<file>) is on the Drive map as Modules/<CAT>/<M>/<file>
+    const mm = rel.match(/Github\.WardBeckSystems\/MODULES\.([A-Z0-9-]+)\.(R?[A-Z]*\d+[A-Z0-9]*?)(?:-[^\/]+)?\/(.+)$/);
+    const look = k => window.driveLookup ? window.driveLookup(k) : Promise.resolve(null);
+    return look(rel).then(dv => dv || (mm ? look(`Modules/${mm[1]}/${mm[2]}/${mm[3]}`) : null)).then(dv => dv ? showOffline(dv) : showGitHub() || showOffline(null));
   }).catch(() => {});
+}
+// a file too big for the website (tools/pages_build.py publishes up to 2 MB) is in its repository on GitHub
+function showGitHub() {
+  const g = rel.match(/Github\.WardBeckSystems\/([^\/]+)\/(.+)$/);
+  if (!g) return false;
+  const raw = `https://github.com/WardBeckSystems/${g[1]}/raw/main/${enc(g[2])}`;
+  view.innerHTML = /\.(jpe?g|png|gif|webp)$/i.test(rel)
+    ? `<div class="img"><div class="pg"><img src="${raw}" alt="">${spotsHtml(1)}</div></div>`
+    : `<div class="none"><p><b>This file is in its repository on GitHub.</b></p><p><a href="${raw}">Open or download it</a> · <a href="https://github.com/WardBeckSystems/${g[1]}/blob/main/${enc(g[2])}">see it on GitHub</a></p></div>`;
+  document.getElementById('orig').href = raw;
+  document.getElementById('meta').textContent += ' · from its repository on GitHub';
+  if (/\.(jpe?g|png|gif|webp)$/i.test(rel)) { turnImages(); trace(); }
+  return true;
 }
 function showOffline(dv) {
   {

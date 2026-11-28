@@ -20,7 +20,7 @@ tags: ["project", "1980s"]
 
 ## Modules
 
-- [M521](M521.md) — Sterio Input Module Connector Layout _(INPUT-PRE-AMPS)_
+- [M521](../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M521-Stereo-Input-Module/) — Sterio Input Module Connector Layout _(INPUT-PRE-AMPS)_
 
 ## Drawings (73)
 
