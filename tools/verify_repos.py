@@ -14,9 +14,12 @@ import os
 import subprocess
 import sys
 from concurrent.futures import ThreadPoolExecutor
+import sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import modules_home  # noqa: E402
 
 TOP = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SOURCES = ['Products/Modules', '2026/PHOTOS', '2026/DOCUMENTS', '2026/Engineering', 'Intercom', 'hard drive recovery',
+SOURCES = ['WBSps.ca/Github.WardBeckSystems', '2026/PHOTOS', '2026/DOCUMENTS', '2026/Engineering', 'Intercom', 'hard drive recovery',
            'WBSps.ca/Github.WardBeckSystems/_stage']
 
 
@@ -73,11 +76,9 @@ def leftovers():
             # a WBSps.ca tree or a checkout: what git there doesn't track (the media that should have moved)
             sub = subprocess.run(['git', '-C', p, 'ls-files', '-o', '-z'], capture_output=True).stdout
             rels = [x for x in sub.split(b'\0') if x and not x.endswith(b'index.html')]
-            if s == 'Products/Modules':   # every module folder is its own checkout
+            if s == 'WBSps.ca/Github.WardBeckSystems':   # every module is its own clone
                 rels = []
-                for cat in os.listdir(p):
-                    for m in os.listdir(os.path.join(p, cat)) if os.path.isdir(os.path.join(p, cat)) else []:
-                        d = os.path.join(p, cat, m)
+                for d in [x for _, _, x in modules_home.modules()]:
                         if os.path.exists(os.path.join(d, '.git')):
                             r = subprocess.run(['git', '-C', d, 'ls-files', '-o', '-z'], capture_output=True).stdout
                             rels += [x for x in r.split(b'\0') if x and not x.endswith(b'index.html')]

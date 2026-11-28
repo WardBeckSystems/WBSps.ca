@@ -104,7 +104,7 @@ tags: ["project", "1980s"]
 
 | Year | File |  |
 |---|---|---|
-| 1985 | [1985 - M521 - Sterio Input Module Connector Layout.jpg](../../Products/Modules/INPUT-PRE-AMPS/M521/PINOUTS/1985%20-%20M521%20-%20Sterio%20Input%20Module%20Connector%20Layout.jpg) | [note](../../Products/Modules/INPUT-PRE-AMPS/M521/OCR/1985%20-%20M521%20-%20Sterio%20Input%20Module%20Connector%20Layout.jpg.md) |
+| 1985 | [1985 - M521 - Sterio Input Module Connector Layout.jpg](../../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M521-Stereo-Input-Module/PINOUTS/1985%20-%20M521%20-%20Sterio%20Input%20Module%20Connector%20Layout.jpg) | [note](../../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M521-Stereo-Input-Module/OCR/1985%20-%20M521%20-%20Sterio%20Input%20Module%20Connector%20Layout.jpg.md) |
 | 1988 | [1988 - 880134 - 02-001.psd](../Consoles/1980-1989/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%2002-001.psd) | [note](../Consoles/1980-1989/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%2002-001.psd.md) |
 | 1988 | [1988 - 880134 - 02-002.psd](../Consoles/1980-1989/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%2002-002.psd) | [note](../Consoles/1980-1989/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%2002-002.psd.md) |
 | 1988 | [1988 - 880134 - 04-001.psd](../Consoles/1980-1989/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%2004-001.psd) | [note](../Consoles/1980-1989/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%2004-001.psd.md) |

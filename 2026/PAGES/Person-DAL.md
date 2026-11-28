@@ -22,5 +22,5 @@ tags: ["person"]
 
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
-| B 412-02-001 | M412 OSCILLATOR / SCHEMATIC | [1970\|3](Year-1970.md) | [DPS](Person-DPS.md) | [DAL](Person-DAL.md) | 5 | [file](../../Products/Modules/MONITORING/M412/SCHEMATICS/1970%20-%20412-02-001%20-%20OSCILLATOR%20SCHEMATIC%20-%20DRN%20DPS%20-%20ISS%205.jpg) |
-| B 412-02-001 | M412 OSCILLATOR / SCHEMATIC | [1970\|3](Year-1970.md) | [DPS](Person-DPS.md) | [DAL](Person-DAL.md) | 5 | [file](../../Products/Modules/MONITORING/M412/SCHEMATICS/1970%20-%20412-02-001%20-%20OSCILLATOR%20SCHEMATIC%20-%20DRN%20DPS%20-%20ISS%205%20%282%29.jpg) |
+| B 412-02-001 | M412 OSCILLATOR / SCHEMATIC | [1970\|3](Year-1970.md) | [DPS](Person-DPS.md) | [DAL](Person-DAL.md) | 5 | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.MONITORING.M412-Selectable-Frequency-Oscillator/SCHEMATICS/1970%20-%20412-02-001%20-%20OSCILLATOR%20SCHEMATIC%20-%20DRN%20DPS%20-%20ISS%205.jpg) |
+| B 412-02-001 | M412 OSCILLATOR / SCHEMATIC | [1970\|3](Year-1970.md) | [DPS](Person-DPS.md) | [DAL](Person-DAL.md) | 5 | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.MONITORING.M412-Selectable-Frequency-Oscillator/SCHEMATICS/1970%20-%20412-02-001%20-%20OSCILLATOR%20SCHEMATIC%20-%20DRN%20DPS%20-%20ISS%205%20%282%29.jpg) |

@@ -14,7 +14,7 @@ tags: ["project", "1980s"]
 | Years | 1986 (from the dated files in this project) |
 | Files | 63 |
 | Job number | none found yet |
-| Folder | [Modules/COMPUTERS/M524A](../Products/Modules/COMPUTERS/M524A/) |
+| Folder | [Modules/COMPUTERS/M524A](../WBSps.ca/Github.WardBeckSystems/MODULES.COMPUTERS.M524A-24V-Dual-Lamp-Relay-Power-Supply/) |
 
 ## Modules
 

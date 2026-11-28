@@ -22,7 +22,7 @@ tags: ["product", "micro-series", "1980s"]
 | Used in jobs | [860800](Job-860800.md) (1986\|19), [880851](Job-880851.md) (1988\|21), [880478](Job-880478.md) (1988\|21), [890009](Job-890009.md) (1989\|22), [890276](Job-890276.md) (1989\|22), [890349](Job-890349.md) (1989\|22), [890291](Job-890291.md) (1989\|22), [900359](Job-900359.md) (1990\|23), [910251](Job-910251.md) (1991\|24), [910320](Job-910320.md) (1991\|24), [920342](Job-920342.md) (1992\|25), [920256](Job-920256.md) (1992\|25), [920003](Job-920003.md) (1992\|25), [920380](Job-920380.md) (1992\|25), [930007](Job-930007.md) (1993\|26), [930420](Job-930420.md) (1993\|26), [940011](Job-940011.md) (1994\|27), [940009](Job-940009.md) (1994\|27), [950271](Job-950271.md) (1995\|28), [950226](Job-950226.md) (1995\|28), [960163](Job-960163.md) (1996\|29), [960134](Job-960134.md) (1996\|29) |
 | Folder | [DOCUMENTS/RAW Photos/WBS BINDER SPINE PICTURES](../DOCUMENTS/RAW%20Photos/WBS%20BINDER%20SPINE%20PICTURES/) |
 | Folder | [DOCUMENTS/WBSps - Word Perfect Manuals-20221115T024240Z-001/WBSps - Word Perfect Manuals](../DOCUMENTS/WBSps%20-%20Word%20Perfect%20Manuals-20221115T024240Z-001/WBSps%20-%20Word%20Perfect%20Manuals/) |
-| Folder | [Modules/COMMUNICATION/M7880](../../Products/Modules/COMMUNICATION/M7880/) |
+| Folder | [Modules/COMMUNICATION/M7880](../../WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7880-Intercom-System/) |
 
 ## Connections
 
@@ -50,7 +50,7 @@ The microCOM II is not in the engineering [software listings](Software.md) (1998
 
 ## Ads & brochures
 
-- [19xx - M7880 - AD - WBSPS - AD - Microcom II 0012.jpg](../../Products/Modules/COMMUNICATION/M7880/MANUALS/19xx%20-%20M7880%20-%20AD%20-%20WBSPS%20-%20AD%20-%20Microcom%20II%200012.jpg)
+- [19xx - M7880 - AD - WBSPS - AD - Microcom II 0012.jpg](../../WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7880-Intercom-System/MANUALS/19xx%20-%20M7880%20-%20AD%20-%20WBSPS%20-%20AD%20-%20Microcom%20II%200012.jpg)
 - [19xx - microCOM II - AD - WBSPS - AD - Microcom II 001.jpg](../Products/MICRO%20SERIES/microCOM%20II/19xx%20-%20microCOM%20II%20-%20AD%20-%20WBSPS%20-%20AD%20-%20Microcom%20II%20001.jpg)
 - [19xx - microCOM II - AD - WBSPS - AD - Microcom II 0012.jpg](../Products/MICRO%20SERIES/microCOM%20II/19xx%20-%20microCOM%20II%20-%20AD%20-%20WBSPS%20-%20AD%20-%20Microcom%20II%200012.jpg)
 - [19xx - microCOM II - AD - WBSPS - AD - Microcom II 003.jpg](../Products/MICRO%20SERIES/microCOM%20II/19xx%20-%20microCOM%20II%20-%20AD%20-%20WBSPS%20-%20AD%20-%20Microcom%20II%20003.jpg)
@@ -64,7 +64,7 @@ The microCOM II is not in the engineering [software listings](Software.md) (1998
 |---|---|---|
 | 1988 | [1988 - microCOM II - II Communications System.pdf](../Products/MICRO%20SERIES/microCOM%20II/1988%20-%20microCOM%20II%20-%20II%20Communications%20System.pdf) | [note](../Products/MICRO%20SERIES/microCOM%20II/1988%20-%20microCOM%20II%20-%20II%20Communications%20System.pdf.md) |
 | ? | [19xx - DOC - M7880 - 14-172-02-004 - COMPONENT LAYOUT.wp](../DOCUMENTS/WBSps%20-%20Word%20Perfect%20Manuals-20221115T024240Z-001/WBSps%20-%20Word%20Perfect%20Manuals/19xx%20-%20DOC%20-%20M7880%20-%2014-172-02-004%20-%20COMPONENT%20LAYOUT.wp) | [note](../DOCUMENTS/WBSps%20-%20Word%20Perfect%20Manuals-20221115T024240Z-001/WBSps%20-%20Word%20Perfect%20Manuals/19xx%20-%20DOC%20-%20M7880%20-%2014-172-02-004%20-%20COMPONENT%20LAYOUT.wp.md) |
-| ? | [19xx - M7880 - DOC - M7880 - 14-172-02-004 - COMPONENT LAYOUT.wp](../../Products/Modules/COMMUNICATION/M7880/MANUALS/19xx%20-%20M7880%20-%20DOC%20-%20M7880%20-%2014-172-02-004%20-%20COMPONENT%20LAYOUT.wp) | [note](../../Products/Modules/COMMUNICATION/M7880/OCR/19xx%20-%20M7880%20-%20DOC%20-%20M7880%20-%2014-172-02-004%20-%20COMPONENT%20LAYOUT.wp.md) |
+| ? | [19xx - M7880 - DOC - M7880 - 14-172-02-004 - COMPONENT LAYOUT.wp](../../WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7880-Intercom-System/MANUALS/19xx%20-%20M7880%20-%20DOC%20-%20M7880%20-%2014-172-02-004%20-%20COMPONENT%20LAYOUT.wp) | [note](../../WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7880-Intercom-System/OCR/19xx%20-%20M7880%20-%20DOC%20-%20M7880%20-%2014-172-02-004%20-%20COMPONENT%20LAYOUT.wp.md) |
 | ? | [19xx - microCOM II - DOC - M7880 - 14-172-02-004 - COMPONENT LAYOUT.wp](../Products/MICRO%20SERIES/microCOM%20II/19xx%20-%20microCOM%20II%20-%20DOC%20-%20M7880%20-%2014-172-02-004%20-%20COMPONENT%20LAYOUT.wp) | [note](../Products/MICRO%20SERIES/microCOM%20II/19xx%20-%20microCOM%20II%20-%20DOC%20-%20M7880%20-%2014-172-02-004%20-%20COMPONENT%20LAYOUT.wp.md) |
 | ? | [19xx - microCOM - DOC - M7880 - 14-172-02-004 - COMPONENT LAYOUT.wp](../Products/MICRO%20SERIES/microCOM/19xx%20-%20microCOM%20-%20DOC%20-%20M7880%20-%2014-172-02-004%20-%20COMPONENT%20LAYOUT.wp) | [note](../Products/MICRO%20SERIES/microCOM/19xx%20-%20microCOM%20-%20DOC%20-%20M7880%20-%2014-172-02-004%20-%20COMPONENT%20LAYOUT.wp.md) |
 

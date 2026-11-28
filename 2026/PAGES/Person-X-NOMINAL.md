@@ -22,7 +22,7 @@ tags: ["person"]
 
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
-| 8-109-02-001 | Nominal Value |  | [GEB (Gerry E. Bell)](Person-GEB.md) |  | R | [file](../../Products/Modules/INPUT-PRE-AMPS/M460M/SCHEMATICS/1974%20-%20M460M%20-%208-109-02-001%20-%20NOMINAL%20VALUE.jpg) |
-| 8-109-02-001 | Nominal Value |  |  |  | R | [file](../../Products/Modules/INPUT-PRE-AMPS/M460M/SCHEMATICS/1974%20-%20M460M%20-%208-109-02-001%20-%20NOMINAL%20VALUE%20%282%29.jpg) |
-| 8-109-02-001 | Booster Amplifier Schematic |  | [GEB (Gerry E. Bell)](Person-GEB.md) | EEL | 8 | [file](../../Products/Modules/INPUT-PRE-AMPS/M460M/SCHEMATICS/1974%20-%20M460M%20-%208-109-02-001%20-%20NOMINAL%20VALUE.jpg) |
-| 8-109-02-004 | Nominal Value |  | [GEB (Gerry E. Bell)](Person-GEB.md) | [RZ](Person-RZ.md) | B | [file](../../Products/Modules/SUMMING/M497B/SCHEMATICS/1983%20-%20M497B%20-%208-109-02-004%20-%20NOMINAL%20VALUE%20%282%29.jpg) |
+| 8-109-02-001 | Nominal Value |  | [GEB (Gerry E. Bell)](Person-GEB.md) |  | R | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460M-Input-Module/SCHEMATICS/1974%20-%20M460M%20-%208-109-02-001%20-%20NOMINAL%20VALUE.jpg) |
+| 8-109-02-001 | Nominal Value |  |  |  | R | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460M-Input-Module/SCHEMATICS/1974%20-%20M460M%20-%208-109-02-001%20-%20NOMINAL%20VALUE%20%282%29.jpg) |
+| 8-109-02-001 | Booster Amplifier Schematic |  | [GEB (Gerry E. Bell)](Person-GEB.md) | EEL | 8 | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460M-Input-Module/SCHEMATICS/1974%20-%20M460M%20-%208-109-02-001%20-%20NOMINAL%20VALUE.jpg) |
+| 8-109-02-004 | Nominal Value |  | [GEB (Gerry E. Bell)](Person-GEB.md) | [RZ](Person-RZ.md) | B | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M497B-Dual-Master-Module/SCHEMATICS/1983%20-%20M497B%20-%208-109-02-004%20-%20NOMINAL%20VALUE%20%282%29.jpg) |

@@ -22,5 +22,5 @@ tags: ["person"]
 
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
-| 7-112-06-002 | Ent Side Issu |  | [TR](Person-TR.md) | [KAK](Person-KAK.md) | U | [file](../../Products/Modules/INPUT-PRE-AMPS/M490L/SCHEMATICS/1983%20-%20M490L%20-%207-112-06-002%20-%20ENT%20SIDE%20ISSU.jpg) |
-| 7-112-06-002 | Channel Amplifier Component Layout Issur |  | [TR](Person-TR.md) | [KAK](Person-KAK.md) | U | [file](../../Products/Modules/INPUT-PRE-AMPS/M490L/SCHEMATICS/1983%20-%20M490L%20-%207-112-06-002%20-%20ENT%20SIDE%20ISSU.jpg) |
+| 7-112-06-002 | Ent Side Issu |  | [TR](Person-TR.md) | [KAK](Person-KAK.md) | U | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490L-Stereo-Input-Module/SCHEMATICS/1983%20-%20M490L%20-%207-112-06-002%20-%20ENT%20SIDE%20ISSU.jpg) |
+| 7-112-06-002 | Channel Amplifier Component Layout Issur |  | [TR](Person-TR.md) | [KAK](Person-KAK.md) | U | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490L-Stereo-Input-Module/SCHEMATICS/1983%20-%20M490L%20-%207-112-06-002%20-%20ENT%20SIDE%20ISSU.jpg) |

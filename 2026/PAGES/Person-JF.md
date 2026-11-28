@@ -23,6 +23,6 @@ tags: ["person"]
 
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
-| LB 473-02-003 | M473B / STEREO SUBMASTER MODULE / SCHEMATIC | [1984\|17](Year-1984.md) | [JF](Person-JF.md) | [TC](Person-TC.md) | 3 | [file](../../Products/Modules/SUMMING/M473/SCHEMATICS/1984%20-%20473-02-003%20-%20M473B%20STEREO%20SUBMASTER%20MODULE%20SCHEMATIC%20-%20DRN%20JF%20-%20ISS%203.jpg) |
-| 470-04-013 | Connector Rear View |  | [JF](Person-JF.md) |  | 3 | [file](../../Products/Modules/INPUT-PRE-AMPS/M470E/MANUALS/1984%20-%20M470E%20-%20Input%20Module.pdf) p.27 |
-| 470-04-013 | Input Module Connector Rear View |  | [JF](Person-JF.md) |  |  | [file](../../Products/Modules/INPUT-PRE-AMPS/M470E/PINOUTS/1984%20-%20M470E%20-%20470-04-013%20-%20CONNECTOR%20REAR%20VIEW.jpg) |
+| LB 473-02-003 | M473B / STEREO SUBMASTER MODULE / SCHEMATIC | [1984\|17](Year-1984.md) | [JF](Person-JF.md) | [TC](Person-TC.md) | 3 | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M473-Submaster-Module/SCHEMATICS/1984%20-%20473-02-003%20-%20M473B%20STEREO%20SUBMASTER%20MODULE%20SCHEMATIC%20-%20DRN%20JF%20-%20ISS%203.jpg) |
+| 470-04-013 | Connector Rear View |  | [JF](Person-JF.md) |  | 3 | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M470E-Input-Module/MANUALS/1984%20-%20M470E%20-%20Input%20Module.pdf) p.27 |
+| 470-04-013 | Input Module Connector Rear View |  | [JF](Person-JF.md) |  |  | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M470E-Input-Module/PINOUTS/1984%20-%20M470E%20-%20470-04-013%20-%20CONNECTOR%20REAR%20VIEW.jpg) |

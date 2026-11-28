@@ -22,5 +22,5 @@ tags: ["person"]
 
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
-| 473-01-002 | Rol Common Solo Control |  | [GEB (Gerry E. Bell)](Person-GEB.md) | [REU](Person-REU.md) | 3 | [file](../../Products/Modules/SUMMING/M473A/MANUALS/1977%20-%20M473A%20-%20Submaster%20Module.pdf) p.22 |
+| 473-01-002 | Rol Common Solo Control |  | [GEB (Gerry E. Bell)](Person-GEB.md) | [REU](Person-REU.md) | 3 | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M473A-Submaster-Module/MANUALS/1977%20-%20M473A%20-%20Submaster%20Module.pdf) p.22 |
 | 484-02-001 | Dual Oumming Ameean |  | [REU](Person-REU.md) |  |  | [file](../Modules/SUMMING/M484/SCHEMATICS/1975%20-%20M484%20-%20484-02-001%20-%20DUAL%20OUMMING%20AMEEAN.jpg) |

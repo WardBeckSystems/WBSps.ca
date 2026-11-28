@@ -22,5 +22,5 @@ tags: ["person"]
 
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
-| 460-04-008 | Xterna Controi Functions Note That The |  |  | [TUL](Person-TUL.md) |  | [file](../../Products/Modules/INPUT-PRE-AMPS/M460A/MECHANICAL/1976%20-%20M460A%20-%20460-04-008%20-%20XTERNA%20CONTROI%20FUNCTIONS%20NOTE%20THAT%20THE.jpg) |
-| 465-04-004 | Solo Output Bus Feeds Pre- Fade |  |  | [TUL](Person-TUL.md) | U | [file](../../Products/Modules/DYNAMICS/M465/MECHANICAL/1974%20-%20M465%20-%20465-04-004%20-%20SOLO%20OUTPUT%20BUS%20NOTE%20THAT%20THE.jpg) |
+| 460-04-008 | Xterna Controi Functions Note That The |  |  | [TUL](Person-TUL.md) |  | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460A-Input-Module/MECHANICAL/1976%20-%20M460A%20-%20460-04-008%20-%20XTERNA%20CONTROI%20FUNCTIONS%20NOTE%20THAT%20THE.jpg) |
+| 465-04-004 | Solo Output Bus Feeds Pre- Fade |  |  | [TUL](Person-TUL.md) | U | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.DYNAMICS.M465-Reverb-Module/MECHANICAL/1974%20-%20M465%20-%20465-04-004%20-%20SOLO%20OUTPUT%20BUS%20NOTE%20THAT%20THE.jpg) |

@@ -3,7 +3,7 @@
 to its Google Drive copy (from 2026/_catalog/drive, made by make_drive_links.py).
 
     python3 tools/make_module_readmes.py                      # every module
-    python3 tools/make_module_readmes.py Products/Modules/AMPLIFIERS/M124 ...
+    python3 tools/make_module_readmes.py 2026/Modules/AMPLIFIERS/M124 ...
 """
 import glob
 import json
@@ -16,6 +16,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import module_repo_names
 from module_layout import KINDS, module_files  # noqa: E402
 from sort_module_folders import ABOUT  # noqa: E402
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import modules_home  # noqa: E402  the module folders (2026/Modules/<CAT>/<M> -> clones)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 Y2026 = os.path.join(ROOT, '2026')
@@ -279,8 +281,7 @@ def main():
         print(f'{n} READMEs given their data')
         return
     drive = load_drive()
-    dirs = [os.path.abspath(a) for a in sys.argv[1:]] or sorted(
-        p for p in glob.glob(os.path.join(ROOT, 'Products', 'Modules', '*', '*')) if os.path.isdir(p))
+    dirs = [os.path.abspath(a) for a in sys.argv[1:]] or modules_home.module_dirs()
     for d in dirs:
         n, miss = readme(d, drive)
         print(f'{os.path.relpath(d, ROOT)}: {n} images, {miss} not on Drive')

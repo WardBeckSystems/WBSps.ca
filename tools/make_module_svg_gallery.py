@@ -14,6 +14,9 @@ import json
 import os
 import re
 from urllib.parse import quote
+import sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import modules_home  # noqa: E402  the module folders (2026/Modules/<CAT>/<M> -> clones)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MODS = os.path.join(ROOT, 'Products', 'Modules')
@@ -57,7 +60,7 @@ def module(moddir):
                        for s in svgs):
                 untraced.append((k, n))
     src = panel_source(panel) if os.path.exists(panel) else None
-    return {'cat': cat, 'code': code, 'panel': os.path.exists(panel), 'blank': src == 'none',
+    return {'cat': cat, 'code': code, 'real': os.path.realpath(moddir), 'panel': os.path.exists(panel), 'blank': src == 'none',
             'src': src or '', 'traced': traced, 'untraced': untraced}
 
 
@@ -70,7 +73,8 @@ def best_drawing(traced):
 
 
 def card(m):
-    base = f"{m['cat']}/{m['code']}"
+    base = os.path.relpath(m['real'], MODS).replace(os.sep, '/')          # the clone, from this page
+    froot = os.path.relpath(m['real'], ROOT).replace(os.sep, '/')         # the clone, from the root viewer
     state = 'blank' if m['blank'] else 'panel' if m['panel'] else 'nopanel'
     if m['panel']:
         fig = (f'<a href="{u(base)}/MECHANICAL/{u(m["code"])}%20-%20front%20panel.svg"><img decoding="async" alt="{e(m["code"])} '
@@ -93,7 +97,7 @@ def card(m):
         label = n[:-len(' (EXTRACTED).svg')]
         items.append(f'<li><a href="{href}"><img loading="lazy" alt="" src="{href}"></a><span><small>{k}</small> {e(label)}</span></li>')
     for k, n in m['untraced']:
-        items.append(f'<li class="todo"><a href="../viewer.html?f=Modules/{u(base)}/{k}/{u(n)}"><div class="none">not traced yet</div>'
+        items.append(f'<li class="todo"><a href="../../viewer.html?f={u(froot)}/{k}/{u(n)}"><div class="none">not traced yet</div>'
                      f'</a><span><small>{k}</small> {e(n)}</span></li>')
     total = len(m['traced']) + len(m['untraced'])
     drawings = ''
@@ -156,7 +160,7 @@ def products():
 
 
 def main():
-    mods = [module(d.rstrip(os.sep)) for d in sorted(glob.glob(os.path.join(MODS, '*', '*', '')))]
+    mods = [module(d.rstrip(os.sep)) for d in modules_home.module_dirs()]
     n_panel = sum(m['panel'] and not m['blank'] for m in mods)
     n_blank = sum(m['blank'] for m in mods)
     n_tr = sum(len(m['traced']) for m in mods)

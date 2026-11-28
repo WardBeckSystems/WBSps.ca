@@ -22,5 +22,5 @@ tags: ["person"]
 
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
-| — | Socel Rzi |  | [MRW](Person-MRW.md) | [RM](Person-RM.md) |  | [file](../../Products/Modules/POWER/M625A/MANUALS/1978%20-%20M625A%20-%20Power%20Supply.pdf) p.17 |
-| 457-01-001 | Pre Summing Output Line Input |  | [DB](Person-DB.md) |  | 2 | [file](../../Products/Modules/ROUTING/M457/SCHEMATICS/1975%20-%20M457%20-%20457-01-001%20-%20PRE%20SUMMING%20OUTPUT%20LINE%20INPUT.jpg) |
+| — | Socel Rzi |  | [MRW](Person-MRW.md) | [RM](Person-RM.md) |  | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.POWER.M625A-Power-Supply/MANUALS/1978%20-%20M625A%20-%20Power%20Supply.pdf) p.17 |
+| 457-01-001 | Pre Summing Output Line Input |  | [DB](Person-DB.md) |  | 2 | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M457-Pre-Mixer-Module/SCHEMATICS/1975%20-%20M457%20-%20457-01-001%20-%20PRE%20SUMMING%20OUTPUT%20LINE%20INPUT.jpg) |

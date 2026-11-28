@@ -22,4 +22,4 @@ tags: ["person"]
 
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
-| — | Lio Compressor/Limiter Schematic | [1976\|9](Year-1976.md) | [MAW](Person-MAW.md) | Z SCALE |  | [file](../../Products/Modules/DYNAMICS/M466/MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter.pdf) p.48 |
+| — | Lio Compressor/Limiter Schematic | [1976\|9](Year-1976.md) | [MAW](Person-MAW.md) | Z SCALE |  | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.DYNAMICS.M466-Limiter-Compressor-Module/MANUALS/1976%20-%20M466%20-%20Compressor%20-%20Limiter.pdf) p.48 |

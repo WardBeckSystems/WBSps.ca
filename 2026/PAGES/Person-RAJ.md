@@ -24,5 +24,5 @@ tags: ["person"]
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
 | — | Equalizer Module Component Layout Mimish |  | [MRW](Person-MRW.md) | [RAJ](Person-RAJ.md) |  | [file](../Modules/FILTERS/M472/SCHEMATICS/1977%20-%20M472%20-%20472-06-001%20-%20ISCALE%20COMPONENT%20LAYOUT.jpg) |
-| 455-02-001 | Fimish Auxiliary Module Schematic |  | [DN](Person-DN.md) | [RAJ](Person-RAJ.md) |  | [file](../../Products/Modules/ROUTING/M455/SCHEMATICS/1974%20-%20M455%20-%20455-02-001%20-%20AND%20ALL%20CAPACITORS.jpg) |
+| 455-02-001 | Fimish Auxiliary Module Schematic |  | [DN](Person-DN.md) | [RAJ](Person-RAJ.md) |  | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M455-Auxiliary-Module/SCHEMATICS/1974%20-%20M455%20-%20455-02-001%20-%20AND%20ALL%20CAPACITORS.jpg) |
 | 81455-02-001 | And All Capacitors |  |  | [RAJ](Person-RAJ.md) |  | [file](../Consoles/1970-1979/76045%20-%20CFTO/1976%20-%2076045%20-%2081455-02-001%20-%20AND%20ALL%20CAPACITORS%20%282%29.jpg) |

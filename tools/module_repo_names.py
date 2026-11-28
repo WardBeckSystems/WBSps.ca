@@ -39,11 +39,11 @@ def title(mod, names=None):
 
 
 def submodules():
-    """(path, cat, mod, current repo name) for every Products/Modules submodule in .gitmodules."""
+    """(path, cat, mod, current repo name) for every module submodule (WBSps.ca/Github.WardBeckSystems/MODULES.*)."""
     s = open(os.path.join(ROOT, '.gitmodules'), encoding='utf-8').read()
-    for path, url in re.findall(r'path = (Products/Modules/[^\n]+)\n\s*url = (\S+)', s):
-        _, _, cat, mod = path.split('/')
-        yield path, cat, mod, url.rstrip('/').split('/')[-1].removesuffix('.git')
+    for path, url in re.findall(r'path = (WBSps\.ca/Github\.WardBeckSystems/MODULES\.[^\n]+)\n\s*url = (\S+)', s):
+        m = re.match(r'MODULES\.([A-Z0-9-]+)\.(R?[A-Z]*\d+[A-Z0-9]*?)(?:-.+)?$', os.path.basename(path))
+        yield path, m.group(1), m.group(2), url.rstrip('/').split('/')[-1].removesuffix('.git')
 
 
 def gh(*args):

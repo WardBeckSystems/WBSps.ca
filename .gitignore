@@ -106,14 +106,16 @@ site/
 /microcom-sim/
 /rust_image_data_suite/
 /2026/timelines/
-# the pipeline sees the module repos at 2026/Modules (they live in Products/Modules)
+# the pipeline sees the module repos at 2026/Modules/<CAT>/<M>: links to their clones (tools/modules_home.py)
 /2026/Modules
 /2026/extractors/rust_analyzer/
 .vscode/
 
 
-# local clones of every WardBeckSystems repo
-/WBSps.ca/Github.WardBeckSystems/
+# local clones of every WardBeckSystems repo: the one local copy. Registered ones are submodules (un-ignored below);
+# the rest stay ignored until they are registered (tools/move_submodules_home.py)
+/WBSps.ca/Github.WardBeckSystems/*
+!/WBSps.ca/Github.WardBeckSystems/MODULES.*
 
 # 7 GB of recovered drives, distributed to repos by hand
 hard drive recovery/

@@ -15,7 +15,7 @@ tags: ["project", "1990s"]
 | Files | 111 |
 | Job number | none found yet |
 | Folder | [Consoles/1990-1999/R2K](../Consoles/1990-1999/R2K/) |
-| Folder | [Modules/UNSORTED/M908/MANUALS](../../Products/Modules/UNSORTED/M908/MANUALS/) |
+| Folder | [Modules/UNSORTED/M908/MANUALS](../../WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M908-Dual-Stereo-Line-Selector/MANUALS/) |
 
 ## Modules
 
@@ -135,4 +135,4 @@ tags: ["project", "1990s"]
 | 1994 | [1994 - R2K - r210pg2.pdf](../Consoles/1990-1999/R2K/1994%20-%20R2K%20-%20r210pg2.pdf) | [note](../Consoles/1990-1999/R2K/1994%20-%20R2K%20-%20r210pg2.pdf.md) |
 | 1994 | [1994 - R2K - r210pg3 (1).pdf](../Consoles/1990-1999/R2K/1994%20-%20R2K%20-%20r210pg3%20%281%29.pdf) | [note](../Consoles/1990-1999/R2K/1994%20-%20R2K%20-%20r210pg3%20%281%29.pdf.md) |
 | 1994 | [1994 - R2K - r210pg4 (1).pdf](../Consoles/1990-1999/R2K/1994%20-%20R2K%20-%20r210pg4%20%281%29.pdf) | [note](../Consoles/1990-1999/R2K/1994%20-%20R2K%20-%20r210pg4%20%281%29.pdf.md) |
-| 1994 | [1994 - M908 - Modify M908.docx](../../Products/Modules/UNSORTED/M908/MANUALS/1994%20-%20M908%20-%20Modify%20M908.docx) | [note](../../Products/Modules/UNSORTED/M908/OCR/1994%20-%20M908%20-%20Modify%20M908.docx.md) |
+| 1994 | [1994 - M908 - Modify M908.docx](../../WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M908-Dual-Stereo-Line-Selector/MANUALS/1994%20-%20M908%20-%20Modify%20M908.docx) | [note](../../WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M908-Dual-Stereo-Line-Selector/OCR/1994%20-%20M908%20-%20Modify%20M908.docx.md) |

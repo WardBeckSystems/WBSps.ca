@@ -22,4 +22,4 @@ tags: ["person"]
 
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
-| 126-02-001 | Amplif Ier Schematic |  |  | [SE](Person-SE.md) |  | [file](../../Products/Modules/SUMMING/M463/MANUALS/1974%20-%20M463%20-%20Submaster%20Module%20%282%29.pdf) p.54 |
+| 126-02-001 | Amplif Ier Schematic |  |  | [SE](Person-SE.md) |  | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M463-Submaster-Module/MANUALS/1974%20-%20M463%20-%20Submaster%20Module%20%282%29.pdf) p.54 |

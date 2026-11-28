@@ -22,7 +22,7 @@ tags: ["person"]
 
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
-| — | Output Amplifier Schematic |  | [GEB (Gerry E. Bell)](Person-GEB.md) |  | 8 | [file](../../Products/Modules/SUMMING/M463AB/SCHEMATICS/1986%20-%20M463AB%20-%208-109-02-002%20-%20OUTPUT%20AMPLIFIER%20CKDAL%20SCHEMATIC.jpg) |
-| 8-109-02-001 |  |  | [GEB (Gerry E. Bell)](Person-GEB.md) |  |  | [file](../../Products/Modules/INPUT-PRE-AMPS/M460B/SCHEMATICS/1976%20-%20M460B%20-%208-109-02-001.jpg) |
-| 8-109-02-002 | Output Amplifier Ckdeal Schematic |  | [GEB (Gerry E. Bell)](Person-GEB.md) |  | B | [file](../../Products/Modules/SUMMING/M463J/SCHEMATICS/1972%20-%20M463J%20-%208-109-02-002%20-%20OUTPUT%20AMPLIFIER%20CKDEAL%20SCHEMATIC.jpg) |
-| 8-109-02-002 | Output Amplifier Ckdal Schematic |  | [GEB (Gerry E. Bell)](Person-GEB.md) |  | B | [file](../../Products/Modules/SUMMING/M463AB/SCHEMATICS/1986%20-%20M463AB%20-%208-109-02-002%20-%20OUTPUT%20AMPLIFIER%20CKDAL%20SCHEMATIC.jpg) |
+| — | Output Amplifier Schematic |  | [GEB (Gerry E. Bell)](Person-GEB.md) |  | 8 | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M463AB-Submaster-Module/SCHEMATICS/1986%20-%20M463AB%20-%208-109-02-002%20-%20OUTPUT%20AMPLIFIER%20CKDAL%20SCHEMATIC.jpg) |
+| 8-109-02-001 |  |  | [GEB (Gerry E. Bell)](Person-GEB.md) |  |  | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460B-Input-Module/SCHEMATICS/1976%20-%20M460B%20-%208-109-02-001.jpg) |
+| 8-109-02-002 | Output Amplifier Ckdeal Schematic |  | [GEB (Gerry E. Bell)](Person-GEB.md) |  | B | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M463J-Submaster-Module/SCHEMATICS/1972%20-%20M463J%20-%208-109-02-002%20-%20OUTPUT%20AMPLIFIER%20CKDEAL%20SCHEMATIC.jpg) |
+| 8-109-02-002 | Output Amplifier Ckdal Schematic |  | [GEB (Gerry E. Bell)](Person-GEB.md) |  | B | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M463AB-Submaster-Module/SCHEMATICS/1986%20-%20M463AB%20-%208-109-02-002%20-%20OUTPUT%20AMPLIFIER%20CKDAL%20SCHEMATIC.jpg) |

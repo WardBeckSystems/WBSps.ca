@@ -94,7 +94,7 @@ tags: ["person"]
 | 790236-02-004 | Talkback Oscillto |  | [SRH](Person-SRH.md) |  |  | [file](../Consoles/1970-1979/790236%20-%20Maryland%20L3242A/1979%20-%20790236%20-%20790236-02-004%20-%20TALKBACK%20OSCILLTO.jpg) |
 | 790236-02-004 | Iiss Mod |  | [SRH](Person-SRH.md) |  |  | [file](../Consoles/1970-1979/790236%20-%20Maryland%20L3242A/1979%20-%20790236%20-%20790236-02-004%20-%20IISS%20MOD.jpg) |
 | 790236-02-005 | Console Wired For Two Units Ssmodickd Used |  | [SRH](Person-SRH.md) | [RC](Person-RC.md) |  | [file](../Consoles/1970-1979/790236%20-%20Maryland%20L3242A/1979%20-%20790236%20-%20790236-02-005%20-%20CONSOLE%20WIRED%20FOR%20TWO%20UNITS%20SSMODICKD%20USED.jpg) |
-| 790236-02-006 |  |  | [SRH](Person-SRH.md) | [RC](Person-RC.md) |  | [file](../../Products/Modules/ROUTING/M459/SCHEMATICS/1979%20-%20M459%20-%20790236-02-006%20%282%29.jpg) |
+| 790236-02-006 |  |  | [SRH](Person-SRH.md) | [RC](Person-RC.md) |  | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M459-Effects-Switcher-Module/SCHEMATICS/1979%20-%20M459%20-%20790236-02-006%20%282%29.jpg) |
 | 790236-02-007 | Digljal Timer Stop Mom Start Mom |  | [SRH](Person-SRH.md) |  |  | [file](../Consoles/1970-1979/790236%20-%20Maryland%20L3242A/1979%20-%20790236%20-%20790236-02-007%20-%20DIGLJAL%20TIMER%20STOP%20MOM%20START%20MOM.jpg) |
 | 790236-02-007 | Timer Control Schematic |  | [SRH](Person-SRH.md) |  | 3 | [file](../Consoles/1970-1979/790236%20-%20Maryland%20L3242A/1979%20-%20790236%20-%20790236-02-007%20-%20TIMER%20CONTROL%20SCHEMATIC.jpg) |
 | 790236-02-008 |  |  | [SRH](Person-SRH.md) |  |  | [file](../Consoles/1970-1979/790236%20-%20Maryland%20L3242A/1979%20-%20790236%20-%20790236-02-008.jpg) |

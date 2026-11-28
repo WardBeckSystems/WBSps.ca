@@ -26,7 +26,7 @@ tags: ["person"]
 | 1400-04-004 |  |  | [GEB (Gerry E. Bell)](Person-GEB.md) | [LA](Person-LA.md) | I | [file](../Consoles/1990-1999/900438%20-%20CHIN%20Radio/1990%20-%20900438%20-%201400-04-004.jpg) |
 | 3642-04-005 | Redrawn Issuei |  |  | [LA](Person-LA.md) | I | [file](../Consoles/1980-1989/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-04-005%20-%20REDRAWN%20ISSUEI%20%282%29.jpg) |
 | 3642-04-006 | Redrawn Issuei |  | [SG](Person-SG.md) | [LA](Person-LA.md) | I | [file](../Consoles/1980-1989/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-04-006%20-%20REDRAWN%20ISSUEI.jpg) |
-| 528-04-001 | Dual Auxiliary Module Front Panel Layout |  | [BD](Person-BD.md) | [LA](Person-LA.md) |  | [file](../../Products/Modules/SUMMING/M528/MECHANICAL/19xx%20-%20M528%20-%20DOC%20-%20528-04-001%20-%20FRONT%20PANEL%20LAYOUT%20ARP.jpg) |
+| 528-04-001 | Dual Auxiliary Module Front Panel Layout |  | [BD](Person-BD.md) | [LA](Person-LA.md) |  | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M528-Dual-Auxiliary-Module/MECHANICAL/19xx%20-%20M528%20-%20DOC%20-%20528-04-001%20-%20FRONT%20PANEL%20LAYOUT%20ARP.jpg) |
 | 528-04-001 | Dual Auxiliary Module Front Panel Layout |  | [BD](Person-BD.md) | [LA](Person-LA.md) |  | [file](../Consoles/1980-1989/WBS%20St%20Series%20Stereo%20Console/1985%20-%20ST%20-%20Binder1.pdf) p.52 |
 | 880651-04-001 | Track Recording Console |  | OX |  | 1 | [file](../Consoles/1980-1989/880651%20-%20TVO%20M1204B/1988%20-%20880651%20-%20880651-04-001%20-%20TRACK%20RECORDING%20CONSOLE.jpg) |
 | 900438-04-007 |  |  | [GEB (Gerry E. Bell)](Person-GEB.md) | [LA](Person-LA.md) | I | [file](../Consoles/1990-1999/900438%20-%20CHIN%20Radio/1990%20-%20900438%20-%20900438-04-007.jpg) |

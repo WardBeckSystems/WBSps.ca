@@ -22,9 +22,9 @@ tags: ["person"]
 
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
-| 8-109-06-001 | Booster Amplifier |  | [GEB (Gerry E. Bell)](Person-GEB.md) | [RZK](Person-RZK.md) |  | [file](../../Products/Modules/INPUT-PRE-AMPS/M460M/SCHEMATICS/1974%20-%20M460M%20-%208-109-06-001%20-%20BOOSTER%20AMPLIFIER.jpg) |
-| 8-109-06-002 | Output Amplifier |  | [GEB (Gerry E. Bell)](Person-GEB.md) | [RA](Person-RA.md) |  | [file](../../Products/Modules/SUMMING/M463/SCHEMATICS/1972%20-%20M463%20-%208-109-06-002%20-%20OUTPUT%20AMPLIFIER.jpg) |
-| 8-109-06-002 | Output Amplifier |  | [GEB (Gerry E. Bell)](Person-GEB.md) | [RRY](Person-RRY.md) | 3 | [file](../../Products/Modules/FILTERS/M462/SCHEMATICS/1974%20-%20M462%20-%208-109-06-002%20-%20OUTPUT%20AMPLIFIER.jpg) |
-| 8-109-06-002 | Output Amplifier |  | [GEB (Gerry E. Bell)](Person-GEB.md) | [RRY](Person-RRY.md) | 3 | [file](../../Products/Modules/INPUT-PRE-AMPS/M460M/SCHEMATICS/1974%20-%20M460M%20-%208-109-06-002%20-%20OUTPUT%20AMPLIFIER.jpg) |
-| 8-109-06-002 | Output Amplifier |  | [GEB (Gerry E. Bell)](Person-GEB.md) | [RAS](Person-RAS.md) |  | [file](../../Products/Modules/SUMMING/M463AB/SCHEMATICS/1986%20-%20M463AB%20-%208-109-06-002%20-%20OUTPUT%20AMPLIFIER.jpg) |
-| 8-109-06-006 | Booster Amplifier |  | [GEB (Gerry E. Bell)](Person-GEB.md) | [EUL](Person-EUL.md) |  | [file](../../Products/Modules/SUMMING/M497A/SCHEMATICS/1978%20-%20M497A%20-%208-109-06-006%20-%20BOOSTER%20AMPLIFIER.jpg) |
+| 8-109-06-001 | Booster Amplifier |  | [GEB (Gerry E. Bell)](Person-GEB.md) | [RZK](Person-RZK.md) |  | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460M-Input-Module/SCHEMATICS/1974%20-%20M460M%20-%208-109-06-001%20-%20BOOSTER%20AMPLIFIER.jpg) |
+| 8-109-06-002 | Output Amplifier |  | [GEB (Gerry E. Bell)](Person-GEB.md) | [RA](Person-RA.md) |  | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M463-Submaster-Module/SCHEMATICS/1972%20-%20M463%20-%208-109-06-002%20-%20OUTPUT%20AMPLIFIER.jpg) |
+| 8-109-06-002 | Output Amplifier |  | [GEB (Gerry E. Bell)](Person-GEB.md) | [RRY](Person-RRY.md) | 3 | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M462-Equalizer-Module/SCHEMATICS/1974%20-%20M462%20-%208-109-06-002%20-%20OUTPUT%20AMPLIFIER.jpg) |
+| 8-109-06-002 | Output Amplifier |  | [GEB (Gerry E. Bell)](Person-GEB.md) | [RRY](Person-RRY.md) | 3 | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460M-Input-Module/SCHEMATICS/1974%20-%20M460M%20-%208-109-06-002%20-%20OUTPUT%20AMPLIFIER.jpg) |
+| 8-109-06-002 | Output Amplifier |  | [GEB (Gerry E. Bell)](Person-GEB.md) | [RAS](Person-RAS.md) |  | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M463AB-Submaster-Module/SCHEMATICS/1986%20-%20M463AB%20-%208-109-06-002%20-%20OUTPUT%20AMPLIFIER.jpg) |
+| 8-109-06-006 | Booster Amplifier |  | [GEB (Gerry E. Bell)](Person-GEB.md) | [EUL](Person-EUL.md) |  | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M497A-Dual-Master-Module/SCHEMATICS/1978%20-%20M497A%20-%208-109-06-006%20-%20BOOSTER%20AMPLIFIER.jpg) |

@@ -22,4 +22,4 @@ tags: ["person"]
 
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
-| 463-04-016 | Sub- Master Module Connector Rear View |  | [OCL](Person-OCL.md) |  | B | [file](../../Products/Modules/SUMMING/M463K/MANUALS/1974%20-%20M463K%20-%20Submaster%20Module.pdf) p.47 |
+| 463-04-016 | Sub- Master Module Connector Rear View |  | [OCL](Person-OCL.md) |  | B | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M463K-Submaster-Module/MANUALS/1974%20-%20M463K%20-%20Submaster%20Module.pdf) p.47 |

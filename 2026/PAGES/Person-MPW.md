@@ -22,5 +22,5 @@ tags: ["person"]
 
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
-| — | Sio Was Soj Sibi Was Soobia |  | [MPW](Person-MPW.md) |  | 3 | [file](../../Products/Modules/INPUT-PRE-AMPS/M520/MANUALS/19xx%20-%20M520%20-%20DOC%20-%20SIO%20WAS%20SOJ%20SIBI%20WAS%20SOOBIA.jpg) |
-| 777-03-009 | Remove Burrs Sharp Edges |  | [MPW](Person-MPW.md) |  |  | [file](../../Products/Modules/COMMUNICATION/M777/MECHANICAL/19xx%20-%20M777%20-%20DOC%20-%20777-03-009%20-%20REMOVE%20BURRS%20SHARP%20EDGES.jpg) |
+| — | Sio Was Soj Sibi Was Soobia |  | [MPW](Person-MPW.md) |  | 3 | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M520-Mono-Input-Module/MANUALS/19xx%20-%20M520%20-%20DOC%20-%20SIO%20WAS%20SOJ%20SIBI%20WAS%20SOOBIA.jpg) |
+| 777-03-009 | Remove Burrs Sharp Edges |  | [MPW](Person-MPW.md) |  |  | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M777-Status-Monitor-Module/MECHANICAL/19xx%20-%20M777%20-%20DOC%20-%20777-03-009%20-%20REMOVE%20BURRS%20SHARP%20EDGES.jpg) |

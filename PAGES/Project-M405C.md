@@ -14,7 +14,7 @@ tags: ["project", "1970s"]
 | Years | 1975 (from the dated files in this project) |
 | Files | 10 |
 | Job number | none found yet |
-| Folder | [Modules/METER/M405C](../Products/Modules/METER/M405C/) |
+| Folder | [Modules/METER/M405C](../WBSps.ca/Github.WardBeckSystems/MODULES.METER.M405C-Rack-Mounted-Extended-Range-VU-Meter/) |
 
 ## Modules
 

@@ -15,13 +15,13 @@ tags: ["product", "micro-series"]
 | Earliest dated evidence | not dated yet |
 | Evidence | — |
 | Confidence | — |
-| Folder | [Modules/COMMUNICATION/M7880](../../Products/Modules/COMMUNICATION/M7880/) |
+| Folder | [Modules/COMMUNICATION/M7880](../../WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7880-Intercom-System/) |
 | Folder | [Products/MICRO SERIES/MicroCOM](../Products/MICRO%20SERIES/MicroCOM/) |
 | Folder | [Products/MICRO SERIES/MicroCOM II](../Products/MICRO%20SERIES/MicroCOM%20II/) |
 
 ## Ads & brochures
 
-- [19xx - M7880 - AD - WBSPS - AD - Microcom II 0012.jpg](../../Products/Modules/COMMUNICATION/M7880/MANUALS/19xx%20-%20M7880%20-%20AD%20-%20WBSPS%20-%20AD%20-%20Microcom%20II%200012.jpg)
+- [19xx - M7880 - AD - WBSPS - AD - Microcom II 0012.jpg](../../WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7880-Intercom-System/MANUALS/19xx%20-%20M7880%20-%20AD%20-%20WBSPS%20-%20AD%20-%20Microcom%20II%200012.jpg)
 - [19xx - MicroCOM II - AD - WBSPS - AD - Microcom II 0012.jpg](../Products/MICRO%20SERIES/MicroCOM%20II/19xx%20-%20MicroCOM%20II%20-%20AD%20-%20WBSPS%20-%20AD%20-%20Microcom%20II%200012.jpg)
 - [19xx - MicroCOM II - AD - WBSPS - AD - Microcom II 003.jpg](../Products/MICRO%20SERIES/MicroCOM%20II/19xx%20-%20MicroCOM%20II%20-%20AD%20-%20WBSPS%20-%20AD%20-%20Microcom%20II%20003.jpg)
 - [19xx - MicroCOM - AD - WBSPS - AD - Microcom II 0012.jpg](../Products/MICRO%20SERIES/MicroCOM/19xx%20-%20MicroCOM%20-%20AD%20-%20WBSPS%20-%20AD%20-%20Microcom%20II%200012.jpg)

@@ -22,5 +22,5 @@ tags: ["person"]
 
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
-| 525-04-001 | Ext Ext Ext Ext Aux Aux Aux Aux |  | [B DEP](Person-B-DEP.md) | [LN](Person-LN.md) | L | [file](../../Products/Modules/MONITORING/M525/MECHANICAL/19xx%20-%20M525%20-%20DOC%20-%20525-04-001%20-%20EXT%20EXT%20EXT%20EXT%20AUX%20AUX%20AUX.jpg) |
+| 525-04-001 | Ext Ext Ext Ext Aux Aux Aux Aux |  | [B DEP](Person-B-DEP.md) | [LN](Person-LN.md) | L | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.MONITORING.M525-Stereo-Monitor-Module/MECHANICAL/19xx%20-%20M525%20-%20DOC%20-%20525-04-001%20-%20EXT%20EXT%20EXT%20EXT%20AUX%20AUX%20AUX.jpg) |
 | 525-04-001 | Stereo Monitor Modul Front Panel Layout Issu |  | [B DEP](Person-B-DEP.md) | [LN](Person-LN.md) | U | [file](../Consoles/1980-1989/WBS%20St%20Series%20Stereo%20Console/1985%20-%20ST%20-%20Series%20Stereo%20Console.pdf) p.50 |

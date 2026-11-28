@@ -18,7 +18,7 @@ tags: ["module", "meter", "1970s"]
 | Evidence | from M405 |
 | Confidence | family |
 | Variants | [M405](M405.md), [M405C](M405C.md), [M405D](M405D.md), [M405F](M405F.md), [M405M](M405M.md), [M405P](M405P.md) |
-| Folder | [Modules/METER/M405PSS](../Products/Modules/METER/M405PSS/) |
+| Folder | [Modules/METER/M405PSS](../WBSps.ca/Github.WardBeckSystems/MODULES.METER.M405PSS-Extended-Range-VU-Meter/) |
 
 ## Connections
 

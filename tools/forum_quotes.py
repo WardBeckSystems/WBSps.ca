@@ -31,6 +31,8 @@ import sqlite3
 import subprocess
 import sys
 from collections import defaultdict
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import modules_home  # noqa: E402  the module folders (2026/Modules/<CAT>/<M> -> clones)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 Y2026 = os.path.join(ROOT, '2026')
@@ -154,7 +156,7 @@ def when(ts):
 # ---- modules -------------------------------------------------------------------------------------------------------
 def module_dirs():
     out = {}
-    for d in glob.glob(os.path.join(ROOT, 'Products', 'Modules', '*', '*')):
+    for d in modules_home.module_dirs():
         if os.path.isdir(d) and re.match(r'R?M\d', os.path.basename(d)):
             out[os.path.basename(d)] = d
     return out

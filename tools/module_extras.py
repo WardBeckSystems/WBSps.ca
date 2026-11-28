@@ -13,7 +13,7 @@
 
 Files are hard links to the pipeline's copies (one set of bytes); run again after a rebuild, it only adds what changed.
 
-    python3 tools/module_extras.py [Products/Modules/CAT/M ...]
+    python3 tools/module_extras.py [2026/Modules/CAT/M ...]
 """
 import glob
 import json
@@ -23,6 +23,8 @@ import shutil
 import sqlite3
 import subprocess
 import sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import modules_home  # noqa: E402  the module folders (2026/Modules/<CAT>/<M> -> clones)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 Y2026 = os.path.join(ROOT, '2026')
@@ -184,8 +186,7 @@ def extras(moddir, traced, pairs):
 def main():
     con = sqlite3.connect(f'file:{DB}?mode=ro', uri=True)
     traced = traces_by_module(con)
-    dirs = [os.path.abspath(a) for a in sys.argv[1:]] or sorted(
-        p for p in glob.glob(os.path.join(ROOT, 'Products', 'Modules', '*', '*')) if os.path.isdir(p))
+    dirs = [os.path.abspath(a) for a in sys.argv[1:]] or modules_home.module_dirs()
     pairs, tot = [], {}
     for d in dirs:
         for k, v in extras(d, traced, pairs).items():

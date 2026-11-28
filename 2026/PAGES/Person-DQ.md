@@ -22,5 +22,5 @@ tags: ["person"]
 
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
-| 4-110-06-001 | For Scaematic See Dra Wing |  | [DQ](Person-DQ.md) | [RM](Person-RM.md) |  | [file](../../Products/Modules/INPUT-PRE-AMPS/M460B/SCHEMATICS/1976%20-%20M460B%20-%204-110-06-001%20-%20FOR%20SCAEMATIC%20SEE%20DRA%20WING.jpg) |
-| 4-110-06-001 | For Schematic See |  | [DQ](Person-DQ.md) | [RM](Person-RM.md) |  | [file](../../Products/Modules/INPUT-PRE-AMPS/M460M/SCHEMATICS/1974%20-%20M460M%20-%204-110-06-001%20-%20FOR%20SCHEMATIC%20SEE%20%283%29.jpg) |
+| 4-110-06-001 | For Scaematic See Dra Wing |  | [DQ](Person-DQ.md) | [RM](Person-RM.md) |  | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460B-Input-Module/SCHEMATICS/1976%20-%20M460B%20-%204-110-06-001%20-%20FOR%20SCAEMATIC%20SEE%20DRA%20WING.jpg) |
+| 4-110-06-001 | For Schematic See |  | [DQ](Person-DQ.md) | [RM](Person-RM.md) |  | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460M-Input-Module/SCHEMATICS/1974%20-%20M460M%20-%204-110-06-001%20-%20FOR%20SCHEMATIC%20SEE%20%283%29.jpg) |

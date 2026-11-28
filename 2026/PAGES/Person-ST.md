@@ -23,5 +23,5 @@ tags: ["person"]
 
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
-| — | Mcnlior Module Ohms Ssuei Remsion Direct |  | [ST](Person-ST.md) |  |  | [file](../../Products/Modules/SUMMING/M497C/MANUALS/19xx%20-%20M497C%20-%20DOC%20-%20MCNLIOR%20MODULE%20OHMS%20SSUEI%20REMSION%20DIRECT.jpg) |
+| — | Mcnlior Module Ohms Ssuei Remsion Direct |  | [ST](Person-ST.md) |  |  | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M497C-Dual-Master-Module/MANUALS/19xx%20-%20M497C%20-%20DOC%20-%20MCNLIOR%20MODULE%20OHMS%20SSUEI%20REMSION%20DIRECT.jpg) |
 | 930188-01-002 | Control Length Feet Lqad Iranseeb |  | [ST](Person-ST.md) | [DC](Person-DC.md) | L | [file](../Consoles/1990-1999/930188%20-%20ST.%20OLAF%20COLLEGE/1993%20-%20930188%20-%20DOC%20-%20930188-01-002%20-%20CONTROL%20LENGTH%20FEET%20LQAD%20IRANSEEB.jpg) |

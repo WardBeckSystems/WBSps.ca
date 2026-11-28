@@ -16,7 +16,7 @@ tags: ["project", "1980s"]
 | Job number | none found yet |
 | Folder | [Consoles/1980-1989/WBS St Series Stereo Console](../Products/Consoles/1980-1989/WBS%20St%20Series%20Stereo%20Console/) |
 | Folder | [DOCUMENTS/WBSPS - To Be edited/WBS St Series Stereo Console](../DOCUMENTS/WBSPS%20-%20To%20Be%20edited/WBS%20St%20Series%20Stereo%20Console/) |
-| Folder | [Modules/COMMUNICATION/M529](../Products/Modules/COMMUNICATION/M529/) |
+| Folder | [Modules/COMMUNICATION/M529](../WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M529-Communications-Module/) |
 
 ## Drawings (58)
 

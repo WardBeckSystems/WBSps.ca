@@ -3,6 +3,13 @@
 Goal (Anthony, 2026-11-27): `2026/` emptied, every file in its repository, the site at the root linking them.
 No duplicate copies on disk or on the site.
 
+> **Changed 2026-11-27 (user):** "this is where I expect everything to live AND this is where all the sub modules shall live",
+> "Products should be phased out … i want WBSps.ca/Github.WardBeckSystems to be the base". Every repo's one local copy is
+> its clone in `WBSps.ca/Github.WardBeckSystems/<repo>`, and every submodule is registered there
+> (`tools/move_submodules_home.py`). Done: the 382 module repos (was `Products/Modules/<CAT>/<M>`). The pipeline sees them
+> as `2026/Modules/<CAT>/<M>` links (`tools/modules_home.py`). Next: Console and Intercom, then the `Products/<SERIES>`
+> folders into their `PRODUCTS.*` repos, and then `Products/` is gone. The layout below is superseded where it says `Products/`.
+
 ## Target layout
 
 ```

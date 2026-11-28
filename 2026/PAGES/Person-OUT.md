@@ -23,6 +23,6 @@ tags: ["person"]
 
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
-| 405-04-016 | Eng Extended Range |  | [JRG](Person-JRG.md) |  | I | [file](../../Products/Modules/METER/M405P/MANUALS/1990%20-%20M405P%20-%20manual.pdf) p.16 |
-| 456-04-006 | Dual Xduwn Module Connector Rear View |  | [OUT](Person-OUT.md) |  |  | [file](../../Products/Modules/ROUTING/M456B/MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module.pdf) p.28 |
+| 405-04-016 | Eng Extended Range |  | [JRG](Person-JRG.md) |  | I | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.METER.M405P-Extended-Range-VU-Meter/MANUALS/1990%20-%20M405P%20-%20manual.pdf) p.16 |
+| 456-04-006 | Dual Xduwn Module Connector Rear View |  | [OUT](Person-OUT.md) |  |  | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M456B-Dual-Mixdown-Module/MANUALS/1975%20-%20M456B%20-%20Dual%20Mixdown%20Module.pdf) p.28 |
 | 790236-02-003 | Lajd Sij Mon Honj Laudlo |  | [OUT](Person-OUT.md) |  |  | [file](../Consoles/1970-1979/790236%20-%20Maryland%20L3242A/1979%20-%20790236%20-%20790236-02-003%20-%20LAJD%20SIJ%20MON%20HONJ%20LAUDLO.jpg) |

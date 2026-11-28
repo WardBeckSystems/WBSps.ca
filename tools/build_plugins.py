@@ -2,7 +2,7 @@
 # Copyright (c) 2026 Ward-Beck Systems (Ward-Beck.com - Ward-Beck.ca). All rights reserved.
 """Build, test and deploy every module plugin, then prove REAPER boots and loads each one.
 
-For every Products/Modules/<CAT>/<M>/SOFTWARE/plugin crate:
+For every 2026/Modules/<CAT>/<M> (links to the clones)/SOFTWARE/plugin crate:
   1. cargo test --no-default-features          the DSP's own tests
   2. cargo xtask bundle <crate> --release       target/bundled/<crate>.vst3 and .clap
   3. deploy                                     the VST3 into ~/.vst3 and the CLAP into ~/.clap, the folders on
@@ -28,6 +28,8 @@ import subprocess
 import sys
 import tempfile
 import time
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import modules_home  # noqa: E402  the module folders (2026/Modules/<CAT>/<M> -> clones)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CORE = os.path.join(ROOT, 'Ward-Beck-Plugin-Core')
@@ -43,7 +45,8 @@ FLAGS = {a for a in sys.argv[1:] if a.startswith('--')}
 
 def crates():
     out = []
-    for toml in sorted(glob.glob(os.path.join(ROOT, 'Products', 'Modules', '*', '*', 'SOFTWARE', 'plugin', 'Cargo.toml'))):
+    for toml in sorted(os.path.join(m, 'SOFTWARE', 'plugin', 'Cargo.toml') for m in modules_home.module_dirs()
+                       if os.path.exists(os.path.join(m, 'SOFTWARE', 'plugin', 'Cargo.toml'))):
         d = os.path.dirname(toml)
         code = d.split(os.sep)[-3]
         if ARGS and code not in ARGS:

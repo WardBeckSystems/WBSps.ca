@@ -2,7 +2,7 @@
 # Copyright (c) 2026 Ward-Beck Systems (Ward-Beck.com - Ward-Beck.ca). All rights reserved.
 """File each module's part of the earlier C++ plugin suite (2030.env/vst) into the module's own folder / repo:
 
-    Products/Modules/<CAT>/<Mxxx>/SOFTWARE/cpp/
+    2026/Modules/<CAT>/<Mxxx>/SOFTWARE/cpp/
         README.md          what is here and where it came from
         <Mxxx>.json        the module's catalog entry (web/module_catalog.py): title, circuit summary, signal path,
                            plus its CLAP descriptor and its index in the suite
@@ -25,6 +25,8 @@ import os
 import re
 import shutil
 import sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import modules_home  # noqa: E402  the module folders (2026/Modules/<CAT>/<M> -> clones)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ENV = os.path.join(ROOT, '2030.env')
@@ -52,8 +54,7 @@ MODULES = [
 
 
 def module_dir(code):
-    hits = [d for d in glob.glob(os.path.join(ROOT, 'Products', 'Modules', '*', code)) if os.path.isdir(d)]
-    return hits[0] if hits else None
+    return modules_home.module_dir(code)
 
 
 def block(text, start_pat):

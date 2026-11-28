@@ -35,10 +35,12 @@ import subprocess
 import sys
 import tempfile
 from html import escape
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import modules_home  # noqa: E402  the module folders (2026/Modules/<CAT>/<M> -> clones)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 Y2026 = os.path.join(ROOT, '2026')
-MODULES = os.path.join(ROOT, 'Products', 'Modules')
+MODULES = modules_home.FARM   # <CAT>/<M> links to the clones (tools/modules_home.py)
 OUT = os.path.join(Y2026, '_catalog', 'panels')
 DB = os.path.join(Y2026, 'timelines', 'wbs_timeline.db')
 TRACER = os.path.join(Y2026, 'timelines', 'trace_svg.cjs')
