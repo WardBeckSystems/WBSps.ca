@@ -431,3 +431,5 @@ date,path,why,kept
 2026-11-27,WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923F,a sheet of the M923 schematic taken for a module; its sheet preview merged into M923; repo archived,WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923
 2026-11-27,WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923H,a sheet of the M923 schematic taken for a module; its sheet preview merged into M923; repo archived,WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923
 2026-11-27,WBSps.ca/Github.WardBeckSystems/ENGINEERING.RD-H-Drive/POD_OLD,7 CorelDraw files left after the sort (ignored in RD-H-Drive); committed in PRODUCTS.PODS,WBSps.ca/Github.WardBeckSystems/PRODUCTS.PODS
+2026-11-27,Products/Console,old checkout of the Console index (stale layout; its 161 unique pictures moved into their CONSOLE.* repos first; the rest hard links of files in those repos),WBSps.ca/Github.WardBeckSystems/Console
+2026-11-27,Products/Intercom,old checkout of the Intercom index (every file in the INTERCOM.* repos),WBSps.ca/Github.WardBeckSystems/Intercom
