@@ -353,246 +353,287 @@
   "name": "SUBASSEMBLY.SA14-281-Input-Amplifier-Assembly",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-281-Input-Amplifier-Assembly",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-281 Input Amplifier Assembly, used in M901C, M901NW"
+  "description": "Ward-Beck Systems sub-assembly SA14-281 Input Amplifier Assembly, used in M901C, M901NW",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-283",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-283",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-283, used in AP93001"
+  "description": "Ward-Beck Systems sub-assembly SA14-283, used in AP93001",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-284",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-284",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-284"
+  "description": "Ward-Beck Systems sub-assembly SA14-284",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-285",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-285",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-285"
+  "description": "Ward-Beck Systems sub-assembly SA14-285",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-286",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-286",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-286"
+  "description": "Ward-Beck Systems sub-assembly SA14-286",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-290",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-290",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-290, used in AP94005, M522, M901, M922"
+  "description": "Ward-Beck Systems sub-assembly SA14-290, used in AP94005, M522, M901, M922",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-291",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-291",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-291, used in M718, M718A"
+  "description": "Ward-Beck Systems sub-assembly SA14-291, used in M718, M718A",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-292",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-292",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-292, used in M405M"
+  "description": "Ward-Beck Systems sub-assembly SA14-292, used in M405M",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-293",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-293",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-293, used in AP93001"
+  "description": "Ward-Beck Systems sub-assembly SA14-293, used in AP93001",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-295-Opto-isolator-Assembly",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-295-Opto-isolator-Assembly",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-295 Opto-isolator Assembly, used in M405P"
+  "description": "Ward-Beck Systems sub-assembly SA14-295 Opto-isolator Assembly, used in M405P",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-300-Control-Assembly",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-300-Control-Assembly",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-300 Control Assembly"
+  "description": "Ward-Beck Systems sub-assembly SA14-300 Control Assembly",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-301",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-301",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-301"
+  "description": "Ward-Beck Systems sub-assembly SA14-301",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-302-IKR-10A-Intercom-Key-Control-Audio",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-302-IKR-10A-Intercom-Key-Control-Audio",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-302 IKR-10A Intercom Key Control & Audio, used in IKR-10A, IKR10"
+  "description": "Ward-Beck Systems sub-assembly SA14-302 IKR-10A Intercom Key Control & Audio, used in IKR-10A, IKR10",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-305-Stereo-Extended-Range-Meter",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-305-Stereo-Extended-Range-Meter",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-305 Stereo Extended Range Meter, used in M445"
+  "description": "Ward-Beck Systems sub-assembly SA14-305 Stereo Extended Range Meter, used in M445",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-306-POD4-Dual-Microphone-Preamplifier",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-306-POD4-Dual-Microphone-Preamplifier",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-306 POD4 Dual Microphone Preamplifier, used in POD4"
+  "description": "Ward-Beck Systems sub-assembly SA14-306 POD4 Dual Microphone Preamplifier, used in POD4",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-307-Extended-Range-Meter-Light-Bar",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-307-Extended-Range-Meter-Light-Bar",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-307 Extended Range Meter Light Bar, used in M445, POD7"
+  "description": "Ward-Beck Systems sub-assembly SA14-307 Extended Range Meter Light Bar, used in M445, POD7",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-311-Speaker-Driver",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-311-Speaker-Driver",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-311 Speaker Driver, used in M445"
+  "description": "Ward-Beck Systems sub-assembly SA14-311 Speaker Driver, used in M445",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-312",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-312",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-312, used in D8212, D8212E, M8202A"
+  "description": "Ward-Beck Systems sub-assembly SA14-312, used in D8212, D8212E, M8202A",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-316-Control-Room-Interface-Unit",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-316-Control-Room-Interface-Unit",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-316 Control Room Interface Unit, used in POD7"
+  "description": "Ward-Beck Systems sub-assembly SA14-316 Control Room Interface Unit, used in POD7",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-317-10-Watt-Power-Amplifier",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-317-10-Watt-Power-Amplifier",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-317 10 Watt Power Amplifier, used in M719"
+  "description": "Ward-Beck Systems sub-assembly SA14-317 10 Watt Power Amplifier, used in M719",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-318",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-318",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-318, used in M703D"
+  "description": "Ward-Beck Systems sub-assembly SA14-318, used in M703D",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-320",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-320",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-320"
+  "description": "Ward-Beck Systems sub-assembly SA14-320",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-321-Bipolar-DC-to-DC-Convertor",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-321-Bipolar-DC-to-DC-Convertor",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-321 Bipolar DC to DC Convertor"
+  "description": "Ward-Beck Systems sub-assembly SA14-321 Bipolar DC to DC Convertor",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-322",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-322",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-322, used in M926"
+  "description": "Ward-Beck Systems sub-assembly SA14-322, used in M926",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-323",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-323",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-323, used in M926"
+  "description": "Ward-Beck Systems sub-assembly SA14-323, used in M926",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-325",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-325",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-325, used in M921"
+  "description": "Ward-Beck Systems sub-assembly SA14-325, used in M921",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-326-Stereo-Line-Preamplifier",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-326-Stereo-Line-Preamplifier",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-326 Stereo Line Preamplifier+"
+  "description": "Ward-Beck Systems sub-assembly SA14-326 Stereo Line Preamplifier+",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-327",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-327",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-327"
+  "description": "Ward-Beck Systems sub-assembly SA14-327",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-328",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-328",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-328"
+  "description": "Ward-Beck Systems sub-assembly SA14-328",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-329",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-329",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-329"
+  "description": "Ward-Beck Systems sub-assembly SA14-329",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-330-Amplifier-Backplane-Assembly",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-330-Amplifier-Backplane-Assembly",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-330 Amplifier Backplane Assembly, used in D2000"
+  "description": "Ward-Beck Systems sub-assembly SA14-330 Amplifier Backplane Assembly, used in D2000",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-332",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-332",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-332, used in D2000"
+  "description": "Ward-Beck Systems sub-assembly SA14-332, used in D2000",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-333",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-333",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-333, used in D2000"
+  "description": "Ward-Beck Systems sub-assembly SA14-333, used in D2000",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-334",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-334",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-334, used in D2000"
+  "description": "Ward-Beck Systems sub-assembly SA14-334, used in D2000",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-335",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-335",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-335, used in D2000"
+  "description": "Ward-Beck Systems sub-assembly SA14-335, used in D2000",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-337",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-337",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-337, used in D2000"
+  "description": "Ward-Beck Systems sub-assembly SA14-337, used in D2000",
+  "done": true
  },
  {
   "name": "PRODUCTS.D2000",
   "path": "WBSps.ca/Github.WardBeckSystems/PRODUCTS.D2000",
   "visibility": "public",
-  "description": "Ward-Beck Systems D2000 digital audio rack"
+  "description": "Ward-Beck Systems D2000 digital audio rack",
+  "done": true
  },
  {
   "name": "PRODUCTS.D8212F",
   "path": "WBSps.ca/Github.WardBeckSystems/PRODUCTS.D8212F",
   "visibility": "public",
-  "description": "Ward-Beck Systems D8212F audio distribution system"
+  "description": "Ward-Beck Systems D8212F audio distribution system",
+  "done": true
  },
  {
   "name": "PRODUCTS.PODS",
   "path": "WBSps.ca/Github.WardBeckSystems/PRODUCTS.PODS",
   "visibility": "public",
-  "description": "Ward-Beck Systems POD series: audio interfaces and amplifiers"
+  "description": "Ward-Beck Systems POD series: audio interfaces and amplifiers",
+  "done": true
  },
  {
   "name": "ENGINEERING.RD-APK",
   "path": "WBSps.ca/Github.WardBeckSystems/ENGINEERING.RD-APK",
   "visibility": "private",
-  "description": "Ward-Beck Systems R&D: WBS Engineering (APK), 2010s Eagle boards, drawings, OpenGear M6205 (private)"
+  "description": "Ward-Beck Systems R&D: WBS Engineering (APK), 2010s Eagle boards, drawings, OpenGear M6205 (private)",
+  "done": true
  },
  {
   "name": "RECOVERY.APK-Archives",
   "path": "WBSps.ca/Github.WardBeckSystems/RECOVERY.APK-Archives",
   "visibility": "private",
-  "description": "Recovered APK-WBS archives: Quarantine, Canadaw.ca, business files (private)"
+  "description": "Recovered APK-WBS archives: Quarantine, Canadaw.ca, business files (private)",
+  "done": true
  }
 ]
