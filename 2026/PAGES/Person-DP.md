@@ -23,7 +23,7 @@ tags: ["person"]
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
 | 166-06-001 | Min Bend Rad Umless Specified | [1970\|3](Year-1970.md) | [DP](Person-DP.md) |  |  | [file](../Modules/SUMMING/M166/SCHEMATICS/19xx%20-%20M166%20-%20166-06-001%20-%20MIN%20BEND%20RAD%20UMLESS%20SPECIFIED.jpg) |
-| 16-03-003 | Thick Black Plexiglass Type | [1973\|6](Year-1973.md) | [DP](Person-DP.md) |  |  | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M416-Cue-Amplifier/MECHANICAL/1973%20-%20M416%20-%20DOC%20-%2016-03-003%20-%20THICK%20BLACK%20PLEXIGLASS%20TYPE.jpg) |
+| 16-03-003 | Thick Black Plexiglass Type | [1973\|6](Year-1973.md) | [DP](Person-DP.md) |  |  | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M416-Cue-Amplifier/MECHANICAL/1973%20-%20M416%20-%20DOC%20-%2016-03-003%20-%20THICK%20BLACK%20PLEXIGLASS%20TYPE.jpg) |
 | — | Watt Monitor Amp System Wring |  | [DP](Person-DP.md) |  |  | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M621-20-Watt-Monitor-Amplifier/MANUALS/1973%20-%20M621%20-%20621T%20-%2020W%20Monitor%20Amp.pdf) p.26 |
 | — | Watt Monitor Amp System Wiring |  | [DP](Person-DP.md) |  | 5 | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M621-20-Watt-Monitor-Amplifier/SCHEMATICS/1970%20-%20M621%20-%20621-02-002%20-%20WATT%20MONITOR%20AMP.jpg) |
 | — | Heat Sinjk Drone Bgio |  | [DP](Person-DP.md) |  |  | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M610-10-Watt-Monitor-Amplifier/SCHEMATICS/19xx%20-%20M610%20-%20171-06-001%20-%20HEAT%20SINJK%20DRONE%20BGIO.jpg) |

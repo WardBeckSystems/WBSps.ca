@@ -23,7 +23,7 @@ Faint schematic with transistor stages and latch matrix, title block at lower ri
 - **Kind:** drawing
 - **Device:** M753 — wiki: [M753](../../2026/PAGES/M753.md)
 - **Original file:** `WBSps.env/WBS Photos-1-001/WBSps.ca -2021-3-15-19-3-51 (40).jpg`
-- **Copy in 2026:** [`2026/Modules/UNSORTED/M753/SCHEMATICS/1971 - 753-02-001 - MEMORY LATCH LOCK UP CONTROL SCHEMATIC - DRN GP - ISS 2.jpg`](../../2026/Modules/UNSORTED/M753/SCHEMATICS/1971%20-%20753-02-001%20-%20MEMORY%20LATCH%20LOCK%20UP%20CONTROL%20SCHEMATIC%20-%20DRN%20GP%20-%20ISS%202.jpg)
+- **Copy in 2026:** [`2026/Modules/COMMUNICATION/M753/SCHEMATICS/1971 - 753-02-001 - MEMORY LATCH LOCK UP CONTROL SCHEMATIC - DRN GP - ISS 2.jpg`](../../2026/Modules/COMMUNICATION/M753/SCHEMATICS/1971%20-%20753-02-001%20-%20MEMORY%20LATCH%20LOCK%20UP%20CONTROL%20SCHEMATIC%20-%20DRN%20GP%20-%20ISS%202.jpg)
 - **SHA-256:** `9ee8d1307ee4ec96da5bd02d34aa8503b23e7d3d6cb8b85cd691beef183e21fa`
 - **Read by:** whole image looked at by eye; title-block corner read by eye
 - **Note:** Part of a schematic (C20, C21, C22 68/16 capacitors); no title block

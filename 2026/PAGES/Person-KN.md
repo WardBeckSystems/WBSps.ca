@@ -22,5 +22,5 @@ tags: ["person"]
 
 | Drawing | Title | Date | [Drawn by](People.md#drawing-staff) | [Checked by](People.md#drawing-staff) | Iss. | Source |
 |---|---|---|---|---|---|---|
-| 420-03-003 | Symmetrical Aboot E'S Unless Stated | [1969\|2](Year-1969.md) | [DJG](Person-DJG.md) | [KN](Person-KN.md) | 44 | [file](../../Products/Modules/UNSORTED/M420/MECHANICAL/1969%20-%20M420%20-%20DOC%20-%20420-03-003%20-%20SYMMETRICAL%20ABOOT%20E'S%20UNLESS%20STATED.jpg) |
+| 420-03-003 | Symmetrical Aboot E'S Unless Stated | [1969\|2](Year-1969.md) | [DJG](Person-DJG.md) | [KN](Person-KN.md) | 44 | [file](../../Products/Modules/INPUT-PRE-AMPS/M420/MECHANICAL/1969%20-%20M420%20-%20DOC%20-%20420-03-003%20-%20SYMMETRICAL%20ABOOT%20E'S%20UNLESS%20STATED.jpg) |
 | 608-04-001 | Audio Distribution Amplifier Rear Connector Layout |  | R MALONEY | [KN](Person-KN.md) |  | [file](../../WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M608-Audio-Distribution-Amplifier/MECHANICAL/1975%20-%20M608%20-%20608-04-001%20-%20AUDIO%20DISTRIBUTION%20AMPLIFIER.jpg) |
