@@ -1,0 +1,863 @@
+{
+ "SUBASSEMBLY.SA14-001-Cue-Line-Selector": {
+  "sa": "SA14-001",
+  "title": "Cue Line Selector",
+  "used": [
+   "L1202A",
+   "M207",
+   "M480C",
+   "M481B",
+   "M485B",
+   "M487"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-002-Output-Line-Selector": {
+  "sa": "SA14-002",
+  "title": "Output Line Selector",
+  "used": [
+   "L1202A",
+   "M207",
+   "M462",
+   "M480C",
+   "M481B",
+   "M485B",
+   "M487"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-012-Intercom-Turret-Audio-Amplifier": {
+  "sa": "SA14-012",
+  "title": "Intercom Turret Audio Amplifier",
+  "used": [
+   "M608",
+   "microCOM"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-013-Intercom-Turret-Controller": {
+  "sa": "SA14-013",
+  "title": "Intercom Turret Controller",
+  "used": [
+   "microCOM"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-017": {
+  "sa": "SA14-017",
+  "title": "",
+  "used": [
+   "M608"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-018-Lever-Key-Assembly": {
+  "sa": "SA14-018",
+  "title": "Lever Key Assembly",
+  "used": [
+   "microCOM"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-033-Controller-Daughter-Board-Assy": {
+  "sa": "SA14-033",
+  "title": "Controller Daughter Board Assy.",
+  "used": [
+   "microCOM"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-054-Sound-Reinforcement-Amplifier": {
+  "sa": "SA14-054",
+  "title": "Sound Reinforcement Amplifier",
+  "used": [
+   "M460",
+   "M460M"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-058-Regulator-Assembly": {
+  "sa": "SA14-058",
+  "title": "Regulator Assembly",
+  "used": [
+   "M648"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-060-Amplifier-Assembly": {
+  "sa": "SA14-060",
+  "title": "Amplifier Assembly",
+  "used": [
+   "AP94005",
+   "M433",
+   "MP1"
+  ],
+  "boards": [
+   "14-060 - AP94005"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-065": {
+  "sa": "SA14-065",
+  "title": "",
+  "used": [
+   "M612A"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-066-Output-Splitter-Networks": {
+  "sa": "SA14-066",
+  "title": "Output Splitter Networks",
+  "used": [
+   "M609",
+   "M612",
+   "M612A"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-075-Stereo-Preamplifier-Assembly": {
+  "sa": "SA14-075",
+  "title": "Stereo Preamplifier Assembly",
+  "used": [
+   "M471",
+   "M471C",
+   "M521",
+   "M521A"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-076-Stereo-Channel-Amplifier": {
+  "sa": "SA14-076",
+  "title": "Stereo Channel Amplifier",
+  "used": [
+   "M521",
+   "M521A"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-077-Control-Assembly": {
+  "sa": "SA14-077",
+  "title": "Control Assembly",
+  "used": [
+   "M520",
+   "M520A",
+   "M521",
+   "M521A",
+   "M523"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-081-Preamplifier-Assembly": {
+  "sa": "SA14-081",
+  "title": "Preamplifier Assembly",
+  "used": [
+   "M520",
+   "M520A"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-086-Summing-Amplifier-Assembly": {
+  "sa": "SA14-086",
+  "title": "Summing Amplifier Assembly",
+  "used": [
+   "M523",
+   "M612A"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-087-Output-Amplifier": {
+  "sa": "SA14-087",
+  "title": "Output Amplifier",
+  "used": [
+   "M523"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-089-Display-Readout-Assembly": {
+  "sa": "SA14-089",
+  "title": "Display Readout Assembly",
+  "used": [
+   "M5201"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-094-Controller-Assembly": {
+  "sa": "SA14-094",
+  "title": "Controller Assembly",
+  "used": [
+   "M5200",
+   "M5200A"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-095-Interface-Assembly": {
+  "sa": "SA14-095",
+  "title": "Interface Assembly",
+  "used": [
+   "M5200",
+   "M5200A"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-096-Display-Assembly": {
+  "sa": "SA14-096",
+  "title": "Display Assembly",
+  "used": [
+   "M5200",
+   "M5200A",
+   "M5201"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-101": {
+  "sa": "SA14-101",
+  "title": "",
+  "used": [
+   "M462C",
+   "M609"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-106-Lower-Mono-Input-Modules": {
+  "sa": "SA14-106",
+  "title": "Lower Mono Input Modules",
+  "used": [
+   "M405P"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-107-Upper-Stereo-Input-Modules": {
+  "sa": "SA14-107",
+  "title": "Upper Stereo Input Modules",
+  "used": [
+   "M405P"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-109-Universal-Amplifier-Assembly": {
+  "sa": "SA14-109",
+  "title": "Universal Amplifier Assembly",
+  "used": [
+   "M462C",
+   "M527",
+   "M528",
+   "M562C"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-120-Stereo-Preamplifier": {
+  "sa": "SA14-120",
+  "title": "Stereo Preamplifier",
+  "used": [
+   "M490M",
+   "M490N"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-121-VU-Meter-Amplifier": {
+  "sa": "SA14-121",
+  "title": "VU Meter Amplifier",
+  "used": [
+   "M435",
+   "MP1"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-123-Machine-Control-Interface-Assembly": {
+  "sa": "SA14-123",
+  "title": "Machine Control Interface Assembly",
+  "used": [
+   "M5200A"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-124-Oscillator-Assembly": {
+  "sa": "SA14-124",
+  "title": "Oscillator Assembly",
+  "used": [
+   "M529"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-140-Dual-Booster-Amplifier": {
+  "sa": "SA14-140",
+  "title": "Dual Booster Amplifier",
+  "used": [
+   "M475",
+   "M475A"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-141-Driver": {
+  "sa": "SA14-141",
+  "title": "Driver",
+  "used": [
+   "M5201"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-152": {
+  "sa": "SA14-152",
+  "title": "",
+  "used": [
+   "M522",
+   "M522B",
+   "M522C",
+   "M901",
+   "M922"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-161-Machine-Control-Assembly": {
+  "sa": "SA14-161",
+  "title": "Machine Control Assembly",
+  "used": [
+   "M5201"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-172": {
+  "sa": "SA14-172",
+  "title": "",
+  "used": [
+   "M7880",
+   "M7880G",
+   "microCOM",
+   "microCOMII"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-182-Amplifier-Assembly": {
+  "sa": "SA14-182",
+  "title": "Amplifier Assembly",
+  "used": [
+   "M568P",
+   "M568Q"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-218-Assembly-Front-Panel": {
+  "sa": "SA14-218",
+  "title": "Assembly - Front Panel",
+  "used": [
+   "M7885A"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-219-Assembly-Front-Panel": {
+  "sa": "SA14-219",
+  "title": "Assembly - Front Panel",
+  "used": [
+   "M7885A"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-246": {
+  "sa": "SA14-246",
+  "title": "",
+  "used": [
+   "M7880H"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-265": {
+  "sa": "SA14-265",
+  "title": "",
+  "used": [
+   "AP93001",
+   "M8204"
+  ],
+  "boards": [
+   "14-265 - AP93001",
+   "14-265 - M8204"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-266": {
+  "sa": "SA14-266",
+  "title": "",
+  "used": [
+   "AP93001"
+  ],
+  "boards": [
+   "14-266 - AP93001"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-268-VU-Meter-Illumination-Assembly": {
+  "sa": "SA14-268",
+  "title": "VU Meter Illumination Assembly",
+  "used": [
+   "AP93001"
+  ],
+  "boards": [
+   "14-268 - AP93001"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-273-10X1-Stereo-Selector-Assembly": {
+  "sa": "SA14-273",
+  "title": "10X1 Stereo Selector Assembly",
+  "used": [
+   "AP93001",
+   "M905B"
+  ],
+  "boards": [
+   "14-273 - SA14-273 10X1 STEREO SELECTOR ASSEMBLY",
+   "14-273A - AP93001"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-277": {
+  "sa": "SA14-277",
+  "title": "",
+  "used": [],
+  "boards": [
+   "14-277 - SA14-277",
+   "14-277B - SA14-277"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-279": {
+  "sa": "SA14-279",
+  "title": "",
+  "used": [],
+  "boards": [
+   "14-279 - SA14-279"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-280-Input-Amplifier-Assembly": {
+  "sa": "SA14-280",
+  "title": "Input Amplifier Assembly",
+  "used": [
+   "M901B"
+  ],
+  "boards": [
+   "14-280 - SA14-280 INPUT AMPLIFIER ASSEMBLY",
+   "14-280A - SA14-280"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-281-Input-Amplifier-Assembly": {
+  "sa": "SA14-281",
+  "title": "Input Amplifier Assembly",
+  "used": [
+   "M901C",
+   "M901NW"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-283": {
+  "sa": "SA14-283",
+  "title": "",
+  "used": [
+   "AP93001"
+  ],
+  "boards": [
+   "14-283 - AP93001"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-284": {
+  "sa": "SA14-284",
+  "title": "",
+  "used": [],
+  "boards": [
+   "14-284 - SA14-284"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-285": {
+  "sa": "SA14-285",
+  "title": "",
+  "used": [],
+  "boards": [
+   "14-285 - SA14-285"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-286": {
+  "sa": "SA14-286",
+  "title": "",
+  "used": [],
+  "boards": [
+   "14-286 - SA14-286"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-290": {
+  "sa": "SA14-290",
+  "title": "",
+  "used": [
+   "AP94005",
+   "M522",
+   "M901",
+   "M922"
+  ],
+  "boards": [
+   "14-290",
+   "14-290A",
+   "14-290A - AP94005"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-291": {
+  "sa": "SA14-291",
+  "title": "",
+  "used": [
+   "M718",
+   "M718A"
+  ],
+  "boards": [
+   "14-291A - M718A"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-292": {
+  "sa": "SA14-292",
+  "title": "",
+  "used": [
+   "M405M"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-293": {
+  "sa": "SA14-293",
+  "title": "",
+  "used": [
+   "AP93001"
+  ],
+  "boards": [
+   "14-293NW - AP93001"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-295-Opto-isolator-Assembly": {
+  "sa": "SA14-295",
+  "title": "Opto-isolator Assembly",
+  "used": [
+   "M405P"
+  ],
+  "boards": [
+   "14-295",
+   "14-295 - SA14-295"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-300-Control-Assembly": {
+  "sa": "SA14-300",
+  "title": "Control Assembly",
+  "used": [],
+  "boards": [
+   "14-300 - SA14-300 CONTROL ASSEMBLY"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-301": {
+  "sa": "SA14-301",
+  "title": "",
+  "used": [],
+  "boards": [
+   "14-301 - SA14-301"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-302-IKR-10A-Intercom-Key-Control-Audio": {
+  "sa": "SA14-302",
+  "title": "IKR-10A Intercom Key Control & Audio",
+  "used": [
+   "IKR-10A",
+   "IKR10"
+  ],
+  "boards": [
+   "14-302 - IKR-10A INTERCOM KEY CONTROL & AUDIO FUNCTIONAL"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-305-Stereo-Extended-Range-Meter": {
+  "sa": "SA14-305",
+  "title": "Stereo Extended Range Meter",
+  "used": [
+   "M445"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-306-POD4-Dual-Microphone-Preamplifier": {
+  "sa": "SA14-306",
+  "title": "POD4 Dual Microphone Preamplifier",
+  "used": [
+   "POD4"
+  ],
+  "boards": [
+   "14-306 - POD4 DUAL MICROPHONE PRAMPLIFIER"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-307-Extended-Range-Meter-Light-Bar": {
+  "sa": "SA14-307",
+  "title": "Extended Range Meter Light Bar",
+  "used": [
+   "M445",
+   "POD7"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-311-Speaker-Driver": {
+  "sa": "SA14-311",
+  "title": "Speaker Driver",
+  "used": [
+   "M445"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-312": {
+  "sa": "SA14-312",
+  "title": "",
+  "used": [
+   "D8212",
+   "D8212E",
+   "M8202A"
+  ],
+  "boards": [],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-316-Control-Room-Interface-Unit": {
+  "sa": "SA14-316",
+  "title": "Control Room Interface Unit",
+  "used": [
+   "POD7"
+  ],
+  "boards": [
+   "14-316 - POD 7 - CONTROL ROOM INTERFACE"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-317-10-Watt-Power-Amplifier": {
+  "sa": "SA14-317",
+  "title": "10 Watt Power Amplifier",
+  "used": [
+   "M719"
+  ],
+  "boards": [
+   "14-317 - 10 WATT POWER AMPLIFIER"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-318": {
+  "sa": "SA14-318",
+  "title": "",
+  "used": [
+   "M703D"
+  ],
+  "boards": [
+   "14-318"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-320": {
+  "sa": "SA14-320",
+  "title": "",
+  "used": [],
+  "boards": [
+   "14-320"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-321-Bipolar-DC-to-DC-Convertor": {
+  "sa": "SA14-321",
+  "title": "Bipolar DC to DC Convertor",
+  "used": [],
+  "boards": [
+   "14-321 - SA14-321A BIPOLAR DC TO DC CONVERTOR",
+   "14-321A - SA14-321A BIPOLAR DC TO DC CONVERTOR"
+  ],
+  "orcad": [
+   "SA14-XXX - SA14-321 - ORCADWIN"
+  ]
+ },
+ "SUBASSEMBLY.SA14-322": {
+  "sa": "SA14-322",
+  "title": "",
+  "used": [
+   "M926"
+  ],
+  "boards": [
+   "14-322"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-323": {
+  "sa": "SA14-323",
+  "title": "",
+  "used": [
+   "M926"
+  ],
+  "boards": [
+   "14-323"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-325": {
+  "sa": "SA14-325",
+  "title": "",
+  "used": [
+   "M921"
+  ],
+  "boards": [
+   "14-325",
+   "14-325 - M921",
+   "14-325A"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-326-Stereo-Line-Preamplifier": {
+  "sa": "SA14-326",
+  "title": "Stereo Line Preamplifier+",
+  "used": [],
+  "boards": [
+   "14-326 - SA14-326 STEREO LINE PREAMPLIFIER",
+   "14-326 - SA14-326 STEREO LINE PREAMPLIFIER+"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-327": {
+  "sa": "SA14-327",
+  "title": "",
+  "used": [],
+  "boards": [
+   "14-327"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-328": {
+  "sa": "SA14-328",
+  "title": "",
+  "used": [],
+  "boards": [
+   "14-328"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-329": {
+  "sa": "SA14-329",
+  "title": "",
+  "used": [],
+  "boards": [
+   "14-329"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-330-Amplifier-Backplane-Assembly": {
+  "sa": "SA14-330",
+  "title": "Amplifier Backplane Assembly",
+  "used": [
+   "D2000"
+  ],
+  "boards": [
+   "14-330"
+  ],
+  "orcad": [
+   "SA14-XXX - SA14-330 - ORCAD"
+  ]
+ },
+ "SUBASSEMBLY.SA14-332": {
+  "sa": "SA14-332",
+  "title": "",
+  "used": [
+   "D2000"
+  ],
+  "boards": [
+   "14-332"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-333": {
+  "sa": "SA14-333",
+  "title": "",
+  "used": [
+   "D2000"
+  ],
+  "boards": [
+   "14-333"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-334": {
+  "sa": "SA14-334",
+  "title": "",
+  "used": [
+   "D2000"
+  ],
+  "boards": [
+   "14-334"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-335": {
+  "sa": "SA14-335",
+  "title": "",
+  "used": [
+   "D2000"
+  ],
+  "boards": [
+   "14-335"
+  ],
+  "orcad": []
+ },
+ "SUBASSEMBLY.SA14-337": {
+  "sa": "SA14-337",
+  "title": "",
+  "used": [
+   "D2000"
+  ],
+  "boards": [
+   "14-337",
+   "14-337A"
+  ],
+  "orcad": []
+ }
+}
