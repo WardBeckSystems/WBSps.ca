@@ -19,10 +19,13 @@ sh = lambda *a, **k: subprocess.run(a, capture_output=True, text=True, **k)
 
 def main():
     dry = '--dry-run' in sys.argv
-    queue = json.load(open(Q))
-    for e in queue:
-        if e.get('done'):
-            continue
+    seen = set()
+    while True:   # entries added to the queue while this runs are taken too
+        todo = [e for e in json.load(open(Q)) if not e.get('done') and e['name'] not in seen]
+        if not todo:
+            break
+        e = todo[0]
+        seen.add(e['name'])
         name, path = e['name'], os.path.join(TOP, e['path'])
         print(f'{name}: {e.get("visibility", "public")}', flush=True)
         if dry:
@@ -43,8 +46,11 @@ def main():
         if r.returncode:
             print(f'  push failed: {r.stderr.strip()[:300]}', flush=True)
             continue
-        e['done'] = True
-        json.dump(queue, open(Q, 'w'), indent=1)
+        fresh = json.load(open(Q))   # the queue may have grown while this ran: mark this one done in the file as it is now
+        for f in fresh:
+            if f['name'] == name:
+                f['done'] = True
+        json.dump(fresh, open(Q, 'w'), indent=1)
         print('  pushed', flush=True)
 
 

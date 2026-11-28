@@ -3,175 +3,204 @@
   "name": "ENGINEERING.RD-H-Drive",
   "path": "WBSps.ca/Github.WardBeckSystems/ENGINEERING.RD-H-Drive",
   "visibility": "private",
-  "description": "Ward-Beck Systems R&D: the engineering H drive (private)"
+  "description": "Ward-Beck Systems R&D: the engineering H drive (private)",
+  "done": true
  },
  {
   "name": "Ward-Beck-VST-Plugins",
   "path": "Ward-Beck-VST-Plugins",
   "visibility": "public",
-  "description": "Ward-Beck Systems C++ VST3/CLAP plugins for the modules, XTM meters, POD22 and intercom panels (free)"
+  "description": "Ward-Beck Systems C++ VST3/CLAP plugins for the modules, XTM meters, POD22 and intercom panels (free)",
+  "done": true
  },
  {
   "name": "ADVERTISEMENTS",
   "path": "WBSps.ca/Github.WardBeckSystems/ADVERTISEMENTS",
   "visibility": "public",
-  "description": "Ward-Beck Systems advertisements, brochures and press, each with its note"
+  "description": "Ward-Beck Systems advertisements, brochures and press, each with its note",
+  "done": true
  },
  {
   "name": "Transformers",
   "path": "WBSps.ca/Github.WardBeckSystems/Transformers",
   "visibility": "public",
-  "description": "Ward-Beck Systems transformers: 60-n input, 70-n output, 80-n power types, their drawings and the modules each is used in"
+  "description": "Ward-Beck Systems transformers: 60-n input, 70-n output, 80-n power types, their drawings and the modules each is used in",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-001-Cue-Line-Selector",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-001-Cue-Line-Selector",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-001 Cue Line Selector, used in L1202A, M207, M480C, M481B, M485B, M487"
+  "description": "Ward-Beck Systems sub-assembly SA14-001 Cue Line Selector, used in L1202A, M207, M480C, M481B, M485B, M487",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-002-Output-Line-Selector",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-002-Output-Line-Selector",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-002 Output Line Selector, used in L1202A, M207, M462, M480C, M481B, M485B"
+  "description": "Ward-Beck Systems sub-assembly SA14-002 Output Line Selector, used in L1202A, M207, M462, M480C, M481B, M485B",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-012-Intercom-Turret-Audio-Amplifier",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-012-Intercom-Turret-Audio-Amplifier",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-012 Intercom Turret Audio Amplifier, used in M608, microCOM"
+  "description": "Ward-Beck Systems sub-assembly SA14-012 Intercom Turret Audio Amplifier, used in M608, microCOM",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-013-Intercom-Turret-Controller",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-013-Intercom-Turret-Controller",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-013 Intercom Turret Controller, used in microCOM"
+  "description": "Ward-Beck Systems sub-assembly SA14-013 Intercom Turret Controller, used in microCOM",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-017",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-017",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-017, used in M608"
+  "description": "Ward-Beck Systems sub-assembly SA14-017, used in M608",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-018-Lever-Key-Assembly",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-018-Lever-Key-Assembly",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-018 Lever Key Assembly, used in microCOM"
+  "description": "Ward-Beck Systems sub-assembly SA14-018 Lever Key Assembly, used in microCOM",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-033-Controller-Daughter-Board-Assy",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-033-Controller-Daughter-Board-Assy",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-033 Controller Daughter Board Assy., used in microCOM"
+  "description": "Ward-Beck Systems sub-assembly SA14-033 Controller Daughter Board Assy., used in microCOM",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-054-Sound-Reinforcement-Amplifier",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-054-Sound-Reinforcement-Amplifier",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-054 Sound Reinforcement Amplifier, used in M460, M460M"
+  "description": "Ward-Beck Systems sub-assembly SA14-054 Sound Reinforcement Amplifier, used in M460, M460M",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-058-Regulator-Assembly",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-058-Regulator-Assembly",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-058 Regulator Assembly, used in M648"
+  "description": "Ward-Beck Systems sub-assembly SA14-058 Regulator Assembly, used in M648",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-060-Amplifier-Assembly",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-060-Amplifier-Assembly",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-060 Amplifier Assembly, used in AP94005, M433, MP1"
+  "description": "Ward-Beck Systems sub-assembly SA14-060 Amplifier Assembly, used in AP94005, M433, MP1",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-065",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-065",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-065, used in M612A"
+  "description": "Ward-Beck Systems sub-assembly SA14-065, used in M612A",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-066-Output-Splitter-Networks",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-066-Output-Splitter-Networks",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-066 Output Splitter Networks, used in M609, M612, M612A"
+  "description": "Ward-Beck Systems sub-assembly SA14-066 Output Splitter Networks, used in M609, M612, M612A",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-075-Stereo-Preamplifier-Assembly",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-075-Stereo-Preamplifier-Assembly",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-075 Stereo Preamplifier Assembly, used in M471, M471C, M521, M521A"
+  "description": "Ward-Beck Systems sub-assembly SA14-075 Stereo Preamplifier Assembly, used in M471, M471C, M521, M521A",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-076-Stereo-Channel-Amplifier",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-076-Stereo-Channel-Amplifier",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-076 Stereo Channel Amplifier, used in M521, M521A"
+  "description": "Ward-Beck Systems sub-assembly SA14-076 Stereo Channel Amplifier, used in M521, M521A",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-077-Control-Assembly",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-077-Control-Assembly",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-077 Control Assembly, used in M520, M520A, M521, M521A, M523"
+  "description": "Ward-Beck Systems sub-assembly SA14-077 Control Assembly, used in M520, M520A, M521, M521A, M523",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-081-Preamplifier-Assembly",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-081-Preamplifier-Assembly",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-081 Preamplifier Assembly, used in M520, M520A"
+  "description": "Ward-Beck Systems sub-assembly SA14-081 Preamplifier Assembly, used in M520, M520A",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-086-Summing-Amplifier-Assembly",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-086-Summing-Amplifier-Assembly",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-086 Summing Amplifier Assembly, used in M523, M612A"
+  "description": "Ward-Beck Systems sub-assembly SA14-086 Summing Amplifier Assembly, used in M523, M612A",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-087-Output-Amplifier",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-087-Output-Amplifier",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-087 Output Amplifier, used in M523"
+  "description": "Ward-Beck Systems sub-assembly SA14-087 Output Amplifier, used in M523",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-089-Display-Readout-Assembly",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-089-Display-Readout-Assembly",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-089 Display Readout Assembly, used in M5201"
+  "description": "Ward-Beck Systems sub-assembly SA14-089 Display Readout Assembly, used in M5201",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-094-Controller-Assembly",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-094-Controller-Assembly",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-094 Controller Assembly, used in M5200, M5200A"
+  "description": "Ward-Beck Systems sub-assembly SA14-094 Controller Assembly, used in M5200, M5200A",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-095-Interface-Assembly",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-095-Interface-Assembly",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-095 Interface Assembly, used in M5200, M5200A"
+  "description": "Ward-Beck Systems sub-assembly SA14-095 Interface Assembly, used in M5200, M5200A",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-096-Display-Assembly",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-096-Display-Assembly",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-096 Display Assembly, used in M5200, M5200A, M5201"
+  "description": "Ward-Beck Systems sub-assembly SA14-096 Display Assembly, used in M5200, M5200A, M5201",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-101",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-101",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-101, used in M462C, M609"
+  "description": "Ward-Beck Systems sub-assembly SA14-101, used in M462C, M609",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-106-Lower-Mono-Input-Modules",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-106-Lower-Mono-Input-Modules",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-106 Lower Mono Input Modules, used in M405P"
+  "description": "Ward-Beck Systems sub-assembly SA14-106 Lower Mono Input Modules, used in M405P",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-107-Upper-Stereo-Input-Modules",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-107-Upper-Stereo-Input-Modules",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-107 Upper Stereo Input Modules, used in M405P"
+  "description": "Ward-Beck Systems sub-assembly SA14-107 Upper Stereo Input Modules, used in M405P",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-109-Universal-Amplifier-Assembly",
@@ -514,5 +543,23 @@
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-337",
   "visibility": "public",
   "description": "Ward-Beck Systems sub-assembly SA14-337, used in D2000"
+ },
+ {
+  "name": "PRODUCTS.D2000",
+  "path": "WBSps.ca/Github.WardBeckSystems/PRODUCTS.D2000",
+  "visibility": "public",
+  "description": "Ward-Beck Systems D2000 digital audio rack"
+ },
+ {
+  "name": "PRODUCTS.D8212F",
+  "path": "WBSps.ca/Github.WardBeckSystems/PRODUCTS.D8212F",
+  "visibility": "public",
+  "description": "Ward-Beck Systems D8212F audio distribution system"
+ },
+ {
+  "name": "PRODUCTS.PODS",
+  "path": "WBSps.ca/Github.WardBeckSystems/PRODUCTS.PODS",
+  "visibility": "public",
+  "description": "Ward-Beck Systems POD series: audio interfaces and amplifiers"
  }
 ]

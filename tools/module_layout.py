@@ -191,7 +191,7 @@ def module_files(moddir):
             if name == 'OCR':
                 continue
             for n in sorted(os.listdir(p)):
-                if not n.startswith('.') and n != 'README.md':
+                if not n.startswith('.') and n not in ('README.md', 'index.html'):   # the folder's own page is not a file of the module
                     out.append((name, n, os.path.join(p, n)))
         elif name not in TOP and not is_note(name) and not name.startswith('.'):
             out.append((None, name, p))

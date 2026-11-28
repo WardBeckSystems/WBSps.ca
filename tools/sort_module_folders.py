@@ -80,12 +80,8 @@ def tracked_files(moddir):
 
 def apply(moddir, moves):
     newpath_of = {os.path.join(moddir, a): os.path.join(moddir, b) for a, b in moves}
-    for k in KINDS:
+    for k in {b.split('/')[0] for a, b in moves}:   # a kind folder only when something goes in it (no placeholder README)
         os.makedirs(os.path.join(moddir, k), exist_ok=True)
-        r = os.path.join(moddir, k, 'README.md')
-        if not os.path.exists(r):
-            with open(r, 'w', encoding='utf-8') as fh:
-                fh.write(f'# {k}\n\n{ABOUT[k]}\n\nThe pictures are on Google Drive: see the module\'s README one folder up.\n')
     known = tracked_files(moddir)
     by_kind = {}
     for a, b in moves:

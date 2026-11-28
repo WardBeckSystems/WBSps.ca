@@ -200,7 +200,8 @@ def readme(moddir, drive):
         n = sum(1 for kk, _, _ in files if kk == k) if k != 'OCR' else \
             len([x for x in os.listdir(os.path.join(moddir, 'OCR')) if x.endswith('.md') and x != 'README.md']) \
             if os.path.isdir(os.path.join(moddir, 'OCR')) else 0
-        out.append(f'| [{k}/]({k}/) | {SHORT[k]} | {n} |')
+        if n:   # an empty folder is not data: only the folders that hold something
+            out.append(f'| [{k}/]({k}/) | {SHORT[k]} | {n} |')
     out.append('')
     block = forum_line(moddir) + spec_section(moddir) + circuit_section(moddir)
     out += ([BEGIN, ''] + block + [END, ''] if block else [])
@@ -231,8 +232,6 @@ def readme(moddir, drive):
         if private:
             out += ['Shared privately on Google Drive (opens after sign-in): ' +
                     ' · '.join(f'[{esc(caption(n, mod))}]({drive_view(d)})' for n, d in private), '']
-        if miss:
-            out += ['Not on Google Drive yet: ' + ', '.join(f'`{m}`' for m in miss), '']
         total += len(cells)
         missing += len(miss)
         if k == 'PINOUTS':
