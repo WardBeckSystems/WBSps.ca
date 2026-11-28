@@ -123,6 +123,12 @@ site/
 !/WBSps.ca/Github.WardBeckSystems/INTERCOM.*
 !/WBSps.ca/Github.WardBeckSystems/Microcom-Simulator
 !/WBSps.ca/Github.WardBeckSystems/Ward-Beck-VST-Plugins
+!/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.*
+!/WBSps.ca/Github.WardBeckSystems/Transformers
+!/WBSps.ca/Github.WardBeckSystems/ADVERTISEMENTS
+!/WBSps.ca/Github.WardBeckSystems/PRODUCTS.PODS
+!/WBSps.ca/Github.WardBeckSystems/PRODUCTS.D2000
+!/WBSps.ca/Github.WardBeckSystems/PRODUCTS.D8212F
 
 # 7 GB of recovered drives, distributed to repos by hand
 hard drive recovery/

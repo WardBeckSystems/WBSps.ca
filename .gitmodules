@@ -2423,3 +2423,351 @@
 	path = WBSps.ca/Github.WardBeckSystems/Ward-Beck-VST-Plugins
 	url = https://github.com/WardBeckSystems/Ward-Beck-VST-Plugins.git
 	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-001-Cue-Line-Selector"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-001-Cue-Line-Selector
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-001-Cue-Line-Selector.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-002-Output-Line-Selector"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-002-Output-Line-Selector
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-002-Output-Line-Selector.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-012-Intercom-Turret-Audio-Amplifier"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-012-Intercom-Turret-Audio-Amplifier
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-012-Intercom-Turret-Audio-Amplifier.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-013-Intercom-Turret-Controller"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-013-Intercom-Turret-Controller
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-013-Intercom-Turret-Controller.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-017"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-017
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-017.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-018-Lever-Key-Assembly"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-018-Lever-Key-Assembly
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-018-Lever-Key-Assembly.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-033-Controller-Daughter-Board-Assy"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-033-Controller-Daughter-Board-Assy
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-033-Controller-Daughter-Board-Assy.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-054-Sound-Reinforcement-Amplifier"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-054-Sound-Reinforcement-Amplifier
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-054-Sound-Reinforcement-Amplifier.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-058-Regulator-Assembly"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-058-Regulator-Assembly
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-058-Regulator-Assembly.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-060-Amplifier-Assembly"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-060-Amplifier-Assembly
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-060-Amplifier-Assembly.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-065"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-065
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-065.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-066-Output-Splitter-Networks"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-066-Output-Splitter-Networks
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-066-Output-Splitter-Networks.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-075-Stereo-Preamplifier-Assembly"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-075-Stereo-Preamplifier-Assembly
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-075-Stereo-Preamplifier-Assembly.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-076-Stereo-Channel-Amplifier"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-076-Stereo-Channel-Amplifier
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-076-Stereo-Channel-Amplifier.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-077-Control-Assembly"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-077-Control-Assembly
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-077-Control-Assembly.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-081-Preamplifier-Assembly"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-081-Preamplifier-Assembly
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-081-Preamplifier-Assembly.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-086-Summing-Amplifier-Assembly"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-086-Summing-Amplifier-Assembly
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-086-Summing-Amplifier-Assembly.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-087-Output-Amplifier"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-087-Output-Amplifier
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-087-Output-Amplifier.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-089-Display-Readout-Assembly"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-089-Display-Readout-Assembly
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-089-Display-Readout-Assembly.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-094-Controller-Assembly"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-094-Controller-Assembly
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-094-Controller-Assembly.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-095-Interface-Assembly"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-095-Interface-Assembly
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-095-Interface-Assembly.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-096-Display-Assembly"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-096-Display-Assembly
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-096-Display-Assembly.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-101"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-101
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-101.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-106-Lower-Mono-Input-Modules"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-106-Lower-Mono-Input-Modules
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-106-Lower-Mono-Input-Modules.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-107-Upper-Stereo-Input-Modules"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-107-Upper-Stereo-Input-Modules
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-107-Upper-Stereo-Input-Modules.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-109-Universal-Amplifier-Assembly"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-109-Universal-Amplifier-Assembly
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-109-Universal-Amplifier-Assembly.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-120-Stereo-Preamplifier"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-120-Stereo-Preamplifier
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-120-Stereo-Preamplifier.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-121-VU-Meter-Amplifier"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-121-VU-Meter-Amplifier
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-121-VU-Meter-Amplifier.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-123-Machine-Control-Interface-Assembly"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-123-Machine-Control-Interface-Assembly
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-123-Machine-Control-Interface-Assembly.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-124-Oscillator-Assembly"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-124-Oscillator-Assembly
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-124-Oscillator-Assembly.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-140-Dual-Booster-Amplifier"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-140-Dual-Booster-Amplifier
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-140-Dual-Booster-Amplifier.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-141-Driver"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-141-Driver
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-141-Driver.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-152"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-152
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-152.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-161-Machine-Control-Assembly"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-161-Machine-Control-Assembly
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-161-Machine-Control-Assembly.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-172"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-172
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-172.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-182-Amplifier-Assembly"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-182-Amplifier-Assembly
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-182-Amplifier-Assembly.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-218-Assembly-Front-Panel"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-218-Assembly-Front-Panel
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-218-Assembly-Front-Panel.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-219-Assembly-Front-Panel"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-219-Assembly-Front-Panel
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-219-Assembly-Front-Panel.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-246"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-246
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-246.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-265"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-265
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-265.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-266"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-266
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-266.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-268-VU-Meter-Illumination-Assembly"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-268-VU-Meter-Illumination-Assembly
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-268-VU-Meter-Illumination-Assembly.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-273-10X1-Stereo-Selector-Assembly"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-273-10X1-Stereo-Selector-Assembly
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-273-10X1-Stereo-Selector-Assembly.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-277"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-277
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-277.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-279"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-279
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-279.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-280-Input-Amplifier-Assembly"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-280-Input-Amplifier-Assembly
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-280-Input-Amplifier-Assembly.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-281-Input-Amplifier-Assembly"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-281-Input-Amplifier-Assembly
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-281-Input-Amplifier-Assembly.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-283"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-283
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-283.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-284"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-284
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-284.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-285"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-285
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-285.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-286"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-286
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-286.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-290"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-290
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-290.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-291"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-291
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-291.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-292"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-292
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-292.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-293"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-293
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-293.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-295-Opto-isolator-Assembly"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-295-Opto-isolator-Assembly
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-295-Opto-isolator-Assembly.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-300-Control-Assembly"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-300-Control-Assembly
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-300-Control-Assembly.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-301"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-301
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-301.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-302-IKR-10A-Intercom-Key-Control-Audio"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-302-IKR-10A-Intercom-Key-Control-Audio
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-302-IKR-10A-Intercom-Key-Control-Audio.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-305-Stereo-Extended-Range-Meter"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-305-Stereo-Extended-Range-Meter
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-305-Stereo-Extended-Range-Meter.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-306-POD4-Dual-Microphone-Preamplifier"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-306-POD4-Dual-Microphone-Preamplifier
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-306-POD4-Dual-Microphone-Preamplifier.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-307-Extended-Range-Meter-Light-Bar"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-307-Extended-Range-Meter-Light-Bar
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-307-Extended-Range-Meter-Light-Bar.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-311-Speaker-Driver"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-311-Speaker-Driver
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-311-Speaker-Driver.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-312"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-312
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-312.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-316-Control-Room-Interface-Unit"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-316-Control-Room-Interface-Unit
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-316-Control-Room-Interface-Unit.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-317-10-Watt-Power-Amplifier"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-317-10-Watt-Power-Amplifier
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-317-10-Watt-Power-Amplifier.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-318"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-318
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-318.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-320"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-320
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-320.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-321-Bipolar-DC-to-DC-Convertor"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-321-Bipolar-DC-to-DC-Convertor
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-321-Bipolar-DC-to-DC-Convertor.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-322"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-322
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-322.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-323"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-323
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-323.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-325"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-325
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-325.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-326-Stereo-Line-Preamplifier"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-326-Stereo-Line-Preamplifier
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-326-Stereo-Line-Preamplifier.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-327"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-327
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-327.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-328"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-328
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-328.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-329"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-329
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-329.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-330-Amplifier-Backplane-Assembly"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-330-Amplifier-Backplane-Assembly
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-330-Amplifier-Backplane-Assembly.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-332"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-332
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-332.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-333"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-333
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-333.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-334"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-334
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-334.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-335"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-335
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-335.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-337"]
+	path = WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-337
+	url = https://github.com/WardBeckSystems/SUBASSEMBLY.SA14-337.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/Transformers"]
+	path = WBSps.ca/Github.WardBeckSystems/Transformers
+	url = https://github.com/WardBeckSystems/Transformers.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/ADVERTISEMENTS"]
+	path = WBSps.ca/Github.WardBeckSystems/ADVERTISEMENTS
+	url = https://github.com/WardBeckSystems/ADVERTISEMENTS.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/PRODUCTS.PODS"]
+	path = WBSps.ca/Github.WardBeckSystems/PRODUCTS.PODS
+	url = https://github.com/WardBeckSystems/PRODUCTS.PODS.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/PRODUCTS.D2000"]
+	path = WBSps.ca/Github.WardBeckSystems/PRODUCTS.D2000
+	url = https://github.com/WardBeckSystems/PRODUCTS.D2000.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/PRODUCTS.D8212F"]
+	path = WBSps.ca/Github.WardBeckSystems/PRODUCTS.D8212F
+	url = https://github.com/WardBeckSystems/PRODUCTS.D8212F.git
+	branch = main
