@@ -1,9 +1,21 @@
 [
  {
+  "name": "ENGINEERING.RD-H-Drive",
+  "path": "WBSps.ca/Github.WardBeckSystems/ENGINEERING.RD-H-Drive",
+  "visibility": "private",
+  "description": "Ward-Beck Systems R&D: the engineering H drive (private)"
+ },
+ {
   "name": "Ward-Beck-VST-Plugins",
   "path": "Ward-Beck-VST-Plugins",
   "visibility": "public",
   "description": "Ward-Beck Systems C++ VST3/CLAP plugins for the modules, XTM meters, POD22 and intercom panels (free)"
+ },
+ {
+  "name": "ADVERTISEMENTS",
+  "path": "WBSps.ca/Github.WardBeckSystems/ADVERTISEMENTS",
+  "visibility": "public",
+  "description": "Ward-Beck Systems advertisements, brochures and press, each with its note"
  },
  {
   "name": "Transformers",

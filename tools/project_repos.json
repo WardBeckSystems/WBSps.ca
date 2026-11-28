@@ -10,6 +10,17 @@
   "title": "1968 - Little Green Giant (LGG, baby Beck)",
   "year": ""
  },
+ "CONSOLE.1984-T1202A-serial-8405073": {
+  "files": 22,
+  "folders": [
+   "1980-1989/1980-1989/1984 - T1202A (serial 8405073)"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "2383b4b0fe9df5bde87a818ad5e396f0b1ccb457",
+  "title": "1984 - T1202A (serial 8405073)",
+  "year": ""
+ },
  "CONSOLE.1990-900412-ST-console-9004121": {
   "files": 68,
   "folders": [
@@ -19,6 +30,17 @@
   "kind": "console",
   "sha": "ca2ae442281e73dd12ffe701b0ca82d4f7e38440",
   "title": "1990 - 900412 - ST console (9004121)",
+  "year": ""
+ },
+ "CONSOLE.24x12-console-brochure": {
+  "files": 6,
+  "folders": [
+   "1970-1979/1970-1979/24x12 console (brochure)"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "cfb76b7bb22dd60d9f94363d237137e9076b3811",
+  "title": "24x12 console (brochure)",
   "year": ""
  },
  "CONSOLE.710023-CBC-Montreal": {
@@ -428,6 +450,17 @@
   "sha": "654ed954c7384299367ebdcf6526d8d9e9c052a9",
   "title": "800595",
   "year": "1980"
+ },
+ "CONSOLE.802-console-8x2": {
+  "files": 44,
+  "folders": [
+   "1970-1979/1970-1979/802 console (8x2)"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "0c48a79fccac01d323e2610d8eb877506e8aaaf9",
+  "title": "802 console (8x2)",
+  "year": ""
  },
  "CONSOLE.820321": {
   "files": 4,
@@ -2354,6 +2387,28 @@
   "title": "980032 - 12-channel-monitor-mixer",
   "year": "1998"
  },
+ "CONSOLE.ABC-Hollywood-TV-production-console": {
+  "files": 2,
+  "folders": [
+   "1970-1979/1970-1979/ABC Hollywood - TV production console"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "aa8700b539dd1717b0dd7b48f3449f9dab95634e",
+  "title": "ABC Hollywood - TV production console",
+  "year": ""
+ },
+ "CONSOLE.Antoinette-WBSps-project": {
+  "files": 78,
+  "folders": [
+   "2000-2009/Antoinette - WBSps project"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "c08e6ee63d67d2ca9b0de65ffafbe427f2b6ccad",
+  "title": "Antoinette - WBSps project",
+  "year": "2000-2009"
+ },
  "CONSOLE.Ash-and-Wood-console": {
   "files": 4,
   "folders": [
@@ -2363,6 +2418,39 @@
   "kind": "console",
   "sha": "f8d3ce7d57ba32dd6f1a565797d5f6b17c6e1aee",
   "title": "Ash and Wood console",
+  "year": ""
+ },
+ "CONSOLE.Bravo-Audio-MuchMusic-ST-console": {
+  "files": 12,
+  "folders": [
+   "1980-1989/1989-1999/Bravo Audio - MuchMusic ST console"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "f3ae948bf3c29d2b71792cba845d9bfe06bcff74",
+  "title": "Bravo Audio - MuchMusic ST console",
+  "year": ""
+ },
+ "CONSOLE.CBC-automated-network-switching-system": {
+  "files": 14,
+  "folders": [
+   "1970-1979/1970-1979/CBC automated network switching system"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "27266fa1e6c5f3a4f8cc856e3298bd95178fd3ce",
+  "title": "CBC automated network switching system",
+  "year": ""
+ },
+ "CONSOLE.CFQC-L2042-Mixing-Console": {
+  "files": 18,
+  "folders": [
+   "1980-1989/1980-1989/CFQC - L2042 Mixing Console"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "8e3b42377b84d07f2a119ee76b4e508399f939af",
+  "title": "CFQC - L2042 Mixing Console",
   "year": ""
  },
  "CONSOLE.EuroConsole": {
@@ -2385,6 +2473,17 @@
   "title": "Film consoles",
   "year": ""
  },
+ "CONSOLE.J-Fong-at-console-brochure": {
+  "files": 2,
+  "folders": [
+   "1970-1979/1970-1979/J Fong at console (brochure)"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "9a39918986169c9f59e551c42a5aa4e4ef3fa706",
+  "title": "J Fong at console (brochure)",
+  "year": ""
+ },
  "CONSOLE.KWWL-New-Orleans": {
   "files": 2,
   "folders": [
@@ -2395,6 +2494,292 @@
   "sha": "8b039ccf1f9f309547fd348432757c733be0f380",
   "title": "KWWL New Orleans",
   "year": ""
+ },
+ "CONSOLE.MODEL.L1202A": {
+  "files": 262,
+  "folders": [
+   "Models/L1202A"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "32722ddf2960c02639b2187532f28731b7e4a515",
+  "title": "L1202A (model)",
+  "year": ""
+ },
+ "CONSOLE.MODEL.L2042": {
+  "files": 100,
+  "folders": [
+   "Models/L2042"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "ec6720734fa05ccc075924e9e6321b285512110c",
+  "title": "L2042 (model)",
+  "year": ""
+ },
+ "CONSOLE.MODEL.L2484": {
+  "files": 6,
+  "folders": [
+   "Models/L2484"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "aadb23b08b73e51eb1b55e981145a3adee7ac769",
+  "title": "L2484 (model)",
+  "year": ""
+ },
+ "CONSOLE.MODEL.L2642": {
+  "files": 34,
+  "folders": [
+   "Models/L2642"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "f397a1b162a02ca258cd389359bf74c39d4cbd14",
+  "title": "L2642 (model)",
+  "year": ""
+ },
+ "CONSOLE.MODEL.L3242": {
+  "files": 110,
+  "folders": [
+   "Models/L3242"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "cc3159d8c7b4a371791ee29efa0085aaa13195cb",
+  "title": "L3242 (model)",
+  "year": ""
+ },
+ "CONSOLE.MODEL.M1002": {
+  "files": 30,
+  "folders": [
+   "Models/M1002"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "b14f8a6738fde8a8b1e4a5d05d7ec338dbed7060",
+  "title": "M1002 (model)",
+  "year": ""
+ },
+ "CONSOLE.MODEL.M1022": {
+  "files": 42,
+  "folders": [
+   "Models/M1022"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "2f01771af65ec4ecc2320cca60164d68e6714ca2",
+  "title": "M1022 (model)",
+  "year": ""
+ },
+ "CONSOLE.MODEL.M1025": {
+  "files": 8,
+  "folders": [
+   "Models/M1025"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "b4d7237d84504c6b6e3cbfe3f1db99b7457f6f4f",
+  "title": "M1025 (model)",
+  "year": ""
+ },
+ "CONSOLE.MODEL.M1026": {
+  "files": 14,
+  "folders": [
+   "Models/M1026"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "c56af7c204e9c4fab0be6c9febc2f2ca4de9cf3c",
+  "title": "M1026 (model)",
+  "year": ""
+ },
+ "CONSOLE.MODEL.M1121": {
+  "files": 4,
+  "folders": [
+   "Models/M1121"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "240876063fa622135d4755fe97607b909f058a5f",
+  "title": "M1121 (model)",
+  "year": ""
+ },
+ "CONSOLE.MODEL.M1204": {
+  "files": 12,
+  "folders": [
+   "Models/M1204"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "ba4f2452072ce4fd53c37c7fae25ca0658e41619",
+  "title": "M1204 (model)",
+  "year": ""
+ },
+ "CONSOLE.MODEL.M1204A": {
+  "files": 6,
+  "folders": [
+   "Models/M1204A"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "b8cc3ff1e094ac6222e515a12604edf66b332bdf",
+  "title": "M1204A (model)",
+  "year": ""
+ },
+ "CONSOLE.MODEL.M1204B": {
+  "files": 8,
+  "folders": [
+   "Models/M1204B"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "65498a29d143efb65b971a6824d55dac6358cfb1",
+  "title": "M1204B (model)",
+  "year": ""
+ },
+ "CONSOLE.MODEL.M2406": {
+  "files": 20,
+  "folders": [
+   "Models/M2406"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "86516fb4e95096eed225c748e4b8d2e7cf7440d5",
+  "title": "M2406 (model)",
+  "year": ""
+ },
+ "CONSOLE.MODEL.M2484B": {
+  "files": 32,
+  "folders": [
+   "Models/M2484B"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "187117388750e33e96ef7f4389c4da8dd651164d",
+  "title": "M2484B (model)",
+  "year": ""
+ },
+ "CONSOLE.MODEL.R-series-Renaissance": {
+  "files": 482,
+  "folders": [
+   "Models/R series (Renaissance)"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "e5e76767502a65508e42dced176f656242e5a9a9",
+  "title": "R series (Renaissance) (model)",
+  "year": ""
+ },
+ "CONSOLE.MODEL.R1400": {
+  "files": 4,
+  "folders": [
+   "Models/R1400"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "3c529994f820b846fe3ff2f4db6d06d551530593",
+  "title": "R1400 (model)",
+  "year": ""
+ },
+ "CONSOLE.MODEL.RM450": {
+  "files": 6,
+  "folders": [
+   "Models/RM450"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "5b1c040d595c37f81b9d0e5ab70e2bbf9b7ec1a1",
+  "title": "RM450 (model)",
+  "year": ""
+ },
+ "CONSOLE.MODEL.ST2442": {
+  "files": 48,
+  "folders": [
+   "Models/ST2442"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "e19c166607bd1f843f5006036a2bb74b6e32c2cc",
+  "title": "ST2442 (model)",
+  "year": ""
+ },
+ "CONSOLE.MODEL.ST3642": {
+  "files": 76,
+  "folders": [
+   "Models/ST3642"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "7d085152e7b0cb81308d1978852b7ad2cffea89b",
+  "title": "ST3642 (model)",
+  "year": ""
+ },
+ "CONSOLE.MODEL.T1202A": {
+  "files": 522,
+  "folders": [
+   "Models/T1202A"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "98c21a1d338b6f6984dfa592dbedba5157e19d50",
+  "title": "T1202A (model)",
+  "year": ""
+ },
+ "CONSOLE.ON-THE-AIR-console": {
+  "files": 6,
+  "folders": [
+   "1970-1979/1970-1979/ON THE AIR console"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "3f8d5014837570bb89d7ec13b6008be8af42d90d",
+  "title": "ON THE AIR console",
+  "year": ""
+ },
+ "CONSOLE.Olympics-ST-console": {
+  "files": 12,
+  "folders": [
+   "1980-1989/1989-1999/Olympics ST console"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "b4e18324f285444a223d6cffe64a4bd3c2b96a78",
+  "title": "Olympics ST console",
+  "year": ""
+ },
+ "CONSOLE.Ontario-Place-Forum-console": {
+  "files": 50,
+  "folders": [
+   "1970-1979/1970-1979/Ontario Place - Forum console"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "1d9dd89acf446d119c1842daf03170b5dbc4f834",
+  "title": "Ontario Place - Forum console",
+  "year": ""
+ },
+ "CONSOLE.Red-Deer-WBS": {
+  "files": 258,
+  "folders": [
+   "1980-1989/Red Deer WBS"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "eefebfab32e4e65f047651ec0dd362675dfd3f96",
+  "title": "Red Deer WBS",
+  "year": "1980-1989"
+ },
+ "CONSOLE.ST-console-mono-and-st-schematics-for-back-planes": {
+  "files": 44,
+  "folders": [
+   "1980-1989/ST console mono and st schematics for back planes"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "2ac2793ee1f1731d6cec2db88c1a8c4bdae5c10f",
+  "title": "ST console mono and st schematics for back planes",
+  "year": "1980-1989"
  },
  "CONSOLE.WBS-1979-custom-L-series-full-size": {
   "files": 2,
@@ -2407,6 +2792,17 @@
   "title": "WBS 1979 custom L series full size",
   "year": "1970-1979"
  },
+ "CONSOLE.WBS-St-Series-Stereo-Console": {
+  "files": 170,
+  "folders": [
+   "1980-1989/WBS St Series Stereo Console"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "14b7a0eb124f45d8bfb26924a9bda4bb9d9ec00a",
+  "title": "WBS St Series Stereo Console",
+  "year": "1980-1989"
+ },
  "CONSOLE.WSVN": {
   "files": 284,
   "folders": [
@@ -2417,6 +2813,17 @@
   "sha": "ca794540124cf94db61931fb3217162ec5a9b073",
   "title": "WSVN",
   "year": "1970-1979"
+ },
+ "CONSOLE.Ward-Beck-Systems-24x12-Console": {
+  "files": 2,
+  "folders": [
+   "1980-1989/1980-1989/Ward Beck Systems 24x12 Console"
+  ],
+  "job": "",
+  "kind": "console",
+  "sha": "2c93fbec67219b897189cd53d39738a7db28e7de",
+  "title": "Ward Beck Systems 24x12 Console",
+  "year": ""
  },
  "CONSOLE.Wood-cabinet-console": {
   "files": 2,
