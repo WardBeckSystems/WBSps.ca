@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/AMPLIFIERS/M612A/PINOUTS","f":[["M612A - connections.svg",""],["M612A - pinout.svg",""]]};

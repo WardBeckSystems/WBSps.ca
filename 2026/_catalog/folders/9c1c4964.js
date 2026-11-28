@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/UNSORTED/M7810/KICAD","f":[["19xx - 7810-01-001 - INTERCOM STUDIO TERMINAL FUNCTIONAL - ISS 2.kicad_sch",""],["M7810.kicad_sym",""]]};

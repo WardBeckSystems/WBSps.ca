@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/INPUT-PRE-AMPS/M441F/MANUALS","f":[["1972 - M441F - vint P1.jpg",""]]};

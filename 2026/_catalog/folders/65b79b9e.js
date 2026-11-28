@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/ROUTING/M538C/PHOTOS","f":[["1985 - M538C - IMG_3398.jpg",""],["1985 - M538C - IMG_3407.jpg",""],["1985 - M538C - IMG_3411.jpg",""],["1985 - M538C - IMG_3412.jpg",""],["1985 - M538C - IMG_3415.jpg",""],["1985 - M538C - IMG_3416.jpg",""]]};

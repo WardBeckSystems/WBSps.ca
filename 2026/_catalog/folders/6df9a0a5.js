@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/SUMMING/M463B/PINOUTS","f":[["1972 - M463B - 463-04-007 - CONNECTOR REAR VIEW (EXTRACTED).svg",""],["1972 - M463B - 463-04-007 - CONNECTOR REAR VIEW (traced).dxf",""],["1972 - M463B - 463-04-007 - CONNECTOR REAR VIEW.jpg",""],["M463B - connections.svg",""],["M463B - pinout.svg",""]]};

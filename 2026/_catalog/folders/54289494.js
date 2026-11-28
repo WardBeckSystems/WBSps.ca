@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/UNSORTED/M999/MECHANICAL","f":[["19xx - 999-03-001 - CUSTOM SUBPANEL - DRN DRG - ISS 2 (EXTRACTED).svg",""],["19xx - 999-03-001 - CUSTOM SUBPANEL - DRN DRG - ISS 2 (traced).dxf",""],["19xx - 999-03-001 - CUSTOM SUBPANEL - DRN DRG - ISS 2.jpg",""]]};

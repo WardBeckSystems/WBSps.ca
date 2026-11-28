@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/SUMMING/M523/PINOUTS","f":[["1985 - M523 - ST Series - Stereo Submaster Module - 013 - p1 Connector pinout.jpg",""],["1985 - M523 - ST Series - Stereo Submaster Module - 014 - p2 Connector pinout.jpg",""],["M523 - connections.svg",""],["M523 - pinout.svg",""]]};

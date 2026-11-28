@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/ROUTING/M568Q/KICAD","f":[["19xx - 568-02-015 - STEREO ASSIGNMENT MODULE SCHEMATIC.kicad_sch",""],["19xx - M568Q - 14-182-02-002.kicad_sch",""],["19xx - M568Q - 568-01-015 - STEREO ASSIGNMNET MODULE FUNC TIONAL.kicad_sch",""],["19xx - M568Q - 568-02-015 - STEREO ASSIGNMENT MODULE SCHEMA TIC.kicad_sch",""],["M568Q.kicad_sym",""]]};

@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/MONITORING/M475A/PINOUTS","f":[["M475A - connections.svg",""],["M475A - pinout.svg",""],["M475A - RTO-144 Connections.pdf",""],["M475A - RTO-144 connector.svg",""],["M475A - RTO-144 inputs and outputs.svg",""]]};

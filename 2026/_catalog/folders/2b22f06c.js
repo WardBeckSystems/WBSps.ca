@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/INPUT-PRE-AMPS/M480A/MANUALS","f":[["19xx - M480A - DOC - HIGH LOW PRESENCE.jpg",""]]};

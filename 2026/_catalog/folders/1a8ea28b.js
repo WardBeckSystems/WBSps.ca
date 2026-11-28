@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/MONITORING/M495/PHOTOS","f":[["1975 - M495 - Stereo Monitor Module.jpg",""],["1975 - M495 - wbsps - module - m495 stereo monitor module_small.jpg",""]]};

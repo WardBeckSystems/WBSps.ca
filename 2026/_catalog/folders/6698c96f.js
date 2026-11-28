@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/COMMUNICATION/M712/PHOTOS","f":[["1972 - M712 - 7000 series - M712 Crosspoint Mb.jpg",""],["1972 - M712 - Crosspoint Mb.jpg",""]]};

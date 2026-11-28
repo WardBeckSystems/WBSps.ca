@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/FILTERS/M462A/MECHANICAL","f":[["19xx - M462A - DOC - 462-04-006 - EQUALIZER MODULE FRONT PANEL ISSU (traced).dxf",""],["19xx - M462A - DOC - 462-04-006 - EQUALIZER MODULE FRONT PANEL ISSU.jpg",""],["M462A - front panel.svg",""]]};

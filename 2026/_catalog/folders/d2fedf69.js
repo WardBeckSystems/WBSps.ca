@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/DYNAMICS/M466/SOFTWARE/plugin/target/bundled/wbs-m466.vst3/Contents/x86_64-linux","f":[["wbs-m466.so",""]]};

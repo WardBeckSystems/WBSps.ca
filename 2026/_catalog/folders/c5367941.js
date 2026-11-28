@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/METER/M405F/PHOTOS","f":[["1984 - M405F - 019.jpg",""],["1984 - M405F - wbsps - module - m405f - test meter.jpg",""],["1984 - M405F - wbsps - module - m405f - test meter_small.jpg",""]]};

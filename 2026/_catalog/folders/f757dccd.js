@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/DYNAMICS/M466M/KICAD","f":[["1976 - M466M - Meter Module p1.kicad_sch",""],["1976 - M466M - Meter Module p2.kicad_sch",""],["M466M.kicad_sym",""]]};

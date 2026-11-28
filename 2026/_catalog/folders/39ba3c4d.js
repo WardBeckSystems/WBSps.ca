@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Consoles/1980-1989/890220 - TELEMEDIA - R1600 RADIO CONSOLE","f":[["1989 - 890220 & 890221 - Binder spine - TELEMEDIA - R1600 RADIO CONSOLE (01).jpg","bc06dad25c1d3ddaf4c4"],["1989 - 890220 & 890221 - Binder spine - TELEMEDIA - R1600 RADIO CONSOLE (02).jpg","e5231bbed5b4dd9ddb20"]]};

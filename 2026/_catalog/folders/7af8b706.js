@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/SUMMING/M527/KICAD","f":[["19xx - M527 - B 14-109-02-001 - SA14-109 UNIVERSAL AMPLIFIER ASSEMBLY - SCHEMATIC.kicad_sch",""],["19xx - M527 - B 527-01-001 - M527 MASTER MODULE - FUNCTIONAL.kicad_sch",""],["19xx - M527 - B 527-02-001 - M527 MASTER MODULE - SCHEMATIC.kicad_sch",""],["M527.kicad_sym",""]]};

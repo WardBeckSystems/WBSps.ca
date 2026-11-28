@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/INPUT-PRE-AMPS/M470A/KICAD","f":[["1977 - M470A - 470-01-002 - OLO CONTROL EXTERNAL PEAK CALIBRATION PEAK INDICATOR.kicad_sch",""],["1977 - M470A - Input Module (2) p18.kicad_sch",""],["1977 - M470A - Input Module p18.kicad_sch",""],["M470A.kicad_sym",""]]};

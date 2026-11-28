@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/AMPLIFIERS/M807/SCHEMATICS","f":[["1972 - M807 - DOC - 05-06-002 - WAAD-BECK BYBTEMB (traced).dxf",""],["1972 - M807 - DOC - 05-06-002 - WAAD-BECK BYBTEMB.png",""]]};

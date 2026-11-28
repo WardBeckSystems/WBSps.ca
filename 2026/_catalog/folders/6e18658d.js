@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/AMPLIFIERS/M450B/KICAD","f":[["1979 - M450B - 450-02-003 - PROGRAMISUMMING AMPLIFIER.kicad_sch",""],["1979 - M450B - Program - Summing Amplifier p10.kicad_sch",""],["1979 - M450B - Program - Summing Amplifier p13.kicad_sch",""],["M450B.kicad_sym",""]]};

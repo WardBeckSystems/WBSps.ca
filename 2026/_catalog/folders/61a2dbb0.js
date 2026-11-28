@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/AMPLIFIERS/M8208/PINOUTS","f":[["M8208 - connections.svg",""],["M8208 - pinout.svg",""]]};

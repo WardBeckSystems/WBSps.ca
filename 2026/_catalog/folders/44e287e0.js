@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/FILTERS/M472A/MECHANICAL","f":[["19xx - M472A - DOC - STEREO L SERIES - P009 - B77012-04-011 L (traced).dxf",""],["19xx - M472A - DOC - STEREO L SERIES - P009 - B77012-04-011 L.jpg",""]]};

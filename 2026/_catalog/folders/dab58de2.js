@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/COMMUNICATION/M812B/PHOTOS","f":[["19xx - M812B - 001.png",""],["19xx - M812B - 002.png",""],["19xx - M812B - 003.png",""]]};

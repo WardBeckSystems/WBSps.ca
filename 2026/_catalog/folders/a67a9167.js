@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/COMMUNICATION/M743/MANUALS","f":[["19xx - M743 - DOC - 2021-3-21-17-31-17.jpg",""]]};

@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Consoles/1970-1979/WBS L3242A full size","f":[["1977 - L3242A - full Size copy.png","05f45e74df7f963581dc"],["1977 - L3242A - full Size p1 (traced).dxf",""],["1977 - L3242A - full Size.pdf","ca829fa165caeac47c55"],["1977 - L3242A - WBS L3242P layout p1 (traced).dxf",""],["1977 - L3242A - WBS L3242P layout.pdf","4738fc36535337e4ef14"]]};

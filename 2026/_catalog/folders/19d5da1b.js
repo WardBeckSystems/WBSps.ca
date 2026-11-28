@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/INPUT-PRE-AMPS/M490T/SCHEMATICS","f":[["1978 - M490T - 490-02-025 (EXTRACTED).svg",""],["1978 - M490T - 490-02-025 (traced).dxf",""],["1978 - M490T - 490-02-025.jpg",""],["1978 - M490T - 490-06-029 - UED JIV ZCIA (EXTRACTED).svg",""],["1978 - M490T - 490-06-029 - UED JIV ZCIA (traced).dxf",""],["1978 - M490T - 490-06-029 - UED JIV ZCIA.jpg",""]]};

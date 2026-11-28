@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/POWER/M128/PHOTOS","f":[["19xx - M128 - WBSPS - Ward Beck Module - M128 Power Supply 001.jpg",""],["19xx - M128 - WBSPS - Ward Beck Module - M128 Power Supply.jpg",""]]};

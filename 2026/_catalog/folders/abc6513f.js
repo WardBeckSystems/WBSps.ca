@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/DYNAMICS/M415/PHOTOS","f":[["1971 - M415 - WBS 415 inside a.jpg",""],["1971 - M415 - WBS 415 inside b.jpg",""]]};

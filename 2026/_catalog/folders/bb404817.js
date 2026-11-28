@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/SUMMING/M497C/PINOUTS","f":[["M497C - connections.svg",""],["M497C - pinout.svg",""],["M497C - RTO-144 Connections.pdf",""],["M497C - RTO-144 connector.svg",""],["M497C - RTO-144 inputs and outputs.svg",""]]};

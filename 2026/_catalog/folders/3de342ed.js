@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/FILTERS/M462B/SOFTWARE/plugin/src/bin","f":[["standalone.rs",""]]};

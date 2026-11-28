@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/COMPUTERS/M5200/PINOUTS","f":[["1985 - M5200 - CONNECTOR LAYOUT M5200 CONTROLLER MODULE.jpg",""],["M5200 - connections.svg",""],["M5200 - pinout.svg",""]]};

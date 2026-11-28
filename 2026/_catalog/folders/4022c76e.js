@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/AMPLIFIERS/M805/MANUALS","f":[["19xx - M805 - l6draw805-01.jpg",""],["19xx - M805 - l6draw805-02.jpg",""],["19xx - M805 - l6draw805-09.jpg",""]]};

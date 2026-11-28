@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WBSps.ca · Not here</title>
+<script>
+// Old addresses: the archive's pages were also published under /2026/; they are at the same place without it now.
+(function () {
+  var p = location.pathname, m = p.match(/^(.*?\/)2026\/(.*)$/);
+  if (m) location.replace(m[1] + m[2] + location.search + location.hash);
+})();
+</script>
+<style>
+  :root { --bg: #f4f1ea; --ink: #222; --dim: #666; }
+  @media (prefers-color-scheme: dark) { :root { --bg: #1b1b1b; --ink: #e8e4da; --dim: #999; } }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.5 "Courier Prime", ui-monospace, monospace; }
+  main { max-width: 40rem; margin: 15vh auto; padding: 0 16px; }
+  a { color: inherit; }
+  p { color: var(--dim); }
+</style>
+</head>
+<body>
+<main>
+  <h1>Not here</h1>
+  <p>This page has moved or never existed.</p>
+  <p><a href="/WBSps.ca/">Ward-Beck Systems archive</a> · <a href="/WBSps.ca/search.html">Search</a></p>
+</main>
+</body>
+</html>

@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/AMPLIFIERS/M8202/PHOTOS","f":[["1995 - M8202 - file.jpg",""],["1995 - M8202 - Remote sesitivity DA 001.jpg",""],["1995 - M8202 - Remote sesitivity DA 002.jpg",""],["1995 - M8202 - Remote sesitivity DA 003.jpg",""]]};

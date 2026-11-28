@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/UNSORTED/M807/KICAD","f":[["1972 - 807-02-001 - FADE GENERATOR SCHEMATIC - DRN GP - ISS 4.kicad_sch",""],["M807.kicad_sym",""]]};

@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/POWER/M128/MANUALS","f":[["19xx - M128 - 06-001 (2).jpg",""],["19xx - M128 - 06-001.jpg",""],["19xx - M128 - 06-002.jpg",""],["19xx - M128 - 06-003 (2).jpg",""],["19xx - M128 - 06-003.jpg",""]]};

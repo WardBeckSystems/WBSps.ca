@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/DYNAMICS/M465B/KICAD","f":[["1982 - M465B - 465-02-003 - COM REVERB MODULE.kicad_sch",""],["1982 - M465B - B 465-01-003 - M465B - REVERB MODULE - FUNCTIONAL.kicad_sch",""],["M465B.kicad_sym",""]]};

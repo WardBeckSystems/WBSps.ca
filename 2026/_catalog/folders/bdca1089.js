@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/AMPLIFIERS/M604/PHOTOS","f":[["1967 - M604 - Power supply in Rack.jpg",""],["1967 - M604 - Power supply in Rack_small.jpg",""],["1967 - M604 - Power Supply.jpg",""],["1967 - M604 - wbsps - module - m604 power supply in rack_small.jpg",""],["1967 - M604 - wbsps - module - m604 power supply_small.jpg",""]]};

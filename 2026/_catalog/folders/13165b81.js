@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/ROUTING/M498A/PHOTOS","f":[["19xx - M498A - 10 X 1 - Switch module.jpg",""],["19xx - M498A - wbsps - module - m498a 10 x 1 - switch module_small.jpg",""]]};

@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/FILTERS/M462B/SOFTWARE/plugin/target/bundled/wbs-m462b.vst3/Contents/x86_64-linux","f":[["wbs-m462b.so",""]]};

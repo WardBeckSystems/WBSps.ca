@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/AMPLIFIERS/M481/PINOUTS","f":[["M481 - connections.svg",""],["M481 - pinout.svg",""],["M481 - RTO-144 Connections.pdf",""],["M481 - RTO-144 connector.svg",""],["M481 - RTO-144 inputs and outputs.svg",""]]};

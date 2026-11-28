@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/MONITORING/M525/PINOUTS","f":[["M525 - connections.svg",""]]};

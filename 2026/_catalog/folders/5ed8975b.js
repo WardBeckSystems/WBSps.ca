@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/METER/M436L/MANUALS","f":[["WBS - M436L - WardBeckMonitor-2-refdes.png",""]]};

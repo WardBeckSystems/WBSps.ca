@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/FILTERS/M462/SOFTWARE/plugin/target/bundled","f":[["wbs-m462.clap",""]]};

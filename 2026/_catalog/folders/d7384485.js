@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Consoles/1970-1979/WBS 1979 custom L series full size","f":[["1979 - WBS 1979 custom L series - 1979 L series full size p1 (traced).dxf",""],["1979 - WBS 1979 custom L series - 1979 L series full size.pdf","9437f037c5a8b17e604e"]]};

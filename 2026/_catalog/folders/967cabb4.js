@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/INPUT-PRE-AMPS/M480B/PINOUTS","f":[["M480B - connections.svg",""],["M480B - pinout.svg",""],["M480B - RTO-144 Connections.pdf",""],["M480B - RTO-144 connector.svg",""],["M480B - RTO-144 inputs and outputs.svg",""]]};

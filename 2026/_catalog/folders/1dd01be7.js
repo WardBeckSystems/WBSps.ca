@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/POWER/M648/PINOUTS","f":[["1970 - M648 - B 648-09-001 - M648 FRAME - CONNECTOR WIRING (EXTRACTED).svg",""],["1970 - M648 - B 648-09-001 - M648 FRAME - CONNECTOR WIRING (traced).dxf",""],["1970 - M648 - B 648-09-001 - M648 FRAME - CONNECTOR WIRING.jpg",""],["M648 - connections.svg",""],["M648 - pinout.svg",""]]};

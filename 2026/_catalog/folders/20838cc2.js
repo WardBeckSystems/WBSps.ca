@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/SUMMING/M497A/MECHANICAL","f":[["1978 - M497A - 497-04-004 - ENG DUAL MASTER MODULE (EXTRACTED).svg",""],["1978 - M497A - 497-04-004 - ENG DUAL MASTER MODULE (traced).dxf",""],["1978 - M497A - 497-04-004 - ENG DUAL MASTER MODULE.jpg",""],["M497A - front panel.svg",""]]};

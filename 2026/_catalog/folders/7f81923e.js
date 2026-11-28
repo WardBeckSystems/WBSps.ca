@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/COMMUNICATION/M719/MECHANICAL","f":[["1995 - M719 - 719-03-001 - ALUMINUM ALLOY.dwg",""]]};

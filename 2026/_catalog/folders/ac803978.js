@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/DYNAMICS/M466/SOFTWARE/plugin/target/release/build/libc-1c85f00db99659fc","f":[["build-script-build",""],["build_script_build-1c85f00db99659fc",""],["build_script_build-1c85f00db99659fc.d",""]]};

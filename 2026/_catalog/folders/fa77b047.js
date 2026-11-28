@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/UNSORTED/M827/KICAD","f":[["1972 - 827-02-001 - POWER SUPPLY SCHEMATIC - DRN GP - ISS 1.kicad_sch",""],["M827.kicad_sym",""]]};

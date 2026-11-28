@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/AMPLIFIERS/M605/MANUALS","f":[["19xx - M605 - AD - wbsps - ad - 600 series.jpg",""],["19xx - M605 - DOC - L2042 - P05.jpg",""],["19xx - M605 - DOC - L3242 - P05.jpg",""],["19xx - M605 - DOC - US Sales Brochure pg 10.jpg",""],["1975 - M605 - PRICE LIST - PRICE LIST.jpg",""]]};

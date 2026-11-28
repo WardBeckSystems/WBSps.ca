@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/INPUT-PRE-AMPS/M490B/KICAD","f":[["M490B.kicad_sym",""]]};

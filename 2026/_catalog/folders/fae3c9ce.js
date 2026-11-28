@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/COMMUNICATION/M749/KICAD","f":[["M749.kicad_sym",""]]};

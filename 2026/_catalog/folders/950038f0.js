@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/DYNAMICS/M466/SOFTWARE/plugin/target/bundled","f":[["wbs-m466.clap",""]]};

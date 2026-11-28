@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/DYNAMICS/M467/SOFTWARE/plugin/target/release","f":[["libwbs_m467.d",""],["libwbs_m467.rlib",""],["libwbs_m467.so",""],["wbs-m467-standalone",""],["wbs-m467-standalone.d",""],["xtask",""],["xtask.d",""]]};

@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/SUMMING/M463B/KICAD","f":[["1972 - M463B - 4-141-02-001.kicad_sch",""],["1972 - M463B - 463-01-003 - WAAD-BECK BYSTEMS.kicad_sch",""],["1972 - M463B - 463-02-003 - HHI HHI.kicad_sch",""],["M463B.kicad_sym",""]]};

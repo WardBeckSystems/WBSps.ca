@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/COMMUNICATION/M7000/MANUALS","f":[["1977 - M7000 - 7000 series - 010.jpg",""],["1977 - M7000 - price list.jpg",""]]};

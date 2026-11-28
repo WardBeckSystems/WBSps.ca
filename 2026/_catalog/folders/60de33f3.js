@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/ROUTING/M468A/PINOUTS","f":[["M468A - connections.svg",""]]};

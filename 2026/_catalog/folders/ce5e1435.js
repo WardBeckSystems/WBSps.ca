@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/DYNAMICS/M465A/MANUALS","f":[["1977 - M465A - p1.jpg",""],["1977 - M465A - p2.jpg",""],["1977 - M465A - p3.jpg",""],["1977 - M465A - p4.jpg",""],["1977 - M465A - p5.jpg",""],["1977 - M465A - p6.jpg",""],["1977 - M465A - p7.jpg",""]]};

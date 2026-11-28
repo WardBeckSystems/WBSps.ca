@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/UNSORTED/M150/SCHEMATICS","f":[["19xx - M150 - DOC - 475-02-001 - MONITOR MODULE SCHEMATIC (traced).dxf",""],["19xx - M150 - DOC - 475-02-001 - MONITOR MODULE SCHEMATIC.jpg",""],["1995 - M150 - file.pcb",""]]};

@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/UNSORTED/M804/KICAD","f":[["1973 - 804-02-001 - 8X1 RELAY SWITCHER MODULE SCHEMATIC - DRN GC - ISS 2.kicad_sch",""],["M804.kicad_sym",""]]};

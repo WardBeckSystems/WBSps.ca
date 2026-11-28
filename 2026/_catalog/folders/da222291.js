@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/ROUTING/M454/PINOUTS","f":[["M454 - connections.svg",""],["M454 - pinout.svg",""],["M454 - RTO-144 Connections.pdf",""],["M454 - RTO-144 connector.svg",""],["M454 - RTO-144 inputs and outputs.svg",""]]};

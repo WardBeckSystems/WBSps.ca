@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/UNSORTED/M7830/KICAD","f":[["19xx - 7830-01-001 - M7830A SECONDARY TERMINAL FUNCTIONAL - ISS 1.kicad_sch",""],["M7830.kicad_sym",""]]};

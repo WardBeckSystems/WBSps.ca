@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/METER/M435/KICAD","f":[["19xx - 14-121-02-001.kicad_sch",""],["1994 - M435 - 14-121-02-001 - METER AMPLIFIER SCHEMATIC.kicad_sch",""],["1994 - M435 - 436 - VU Meter p14.kicad_sch",""],["M435.kicad_sym",""]]};

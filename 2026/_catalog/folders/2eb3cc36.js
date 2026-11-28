@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/INPUT-PRE-AMPS/M490B/MANUALS","f":[["1978 - M490B - 001.jpg",""],["1978 - M490B - 002.jpg",""]]};

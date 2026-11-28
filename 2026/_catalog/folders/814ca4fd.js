@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/ROUTING/M468/PHOTOS","f":[["19xx - M468AK - Four M468AK modules.jpg",""],["1970 - M468 - 8 X 1 selector.jpg",""],["1970 - M468 - wbsps - module - m468 8 x 1 selector_small.jpg",""]]};

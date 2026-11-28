@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/INPUT-PRE-AMPS/M470C/KICAD","f":[["1977 - M470C - 470-01-004 - INPUT MODULE.kicad_sch",""],["1977 - M470C - 470-02-004 - INPUT MODULE SSCAL SCHEMATIC.kicad_sch",""],["1977 - M470C - Input Module (2) p16.kicad_sch",""],["1977 - M470C - Input Module p16.kicad_sch",""],["M470C.kicad_sym",""]]};

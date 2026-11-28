@@ -7,6 +7,7 @@
 OLD NEW pairs are moves that happened: a page now under NEW was under OLD, and links to OLD/... go to NEW/....
 --map MAP.json  {old: new} links only (nothing moved; e.g. a wiki page that now lives in its device's folder, or
                 "2026": "" for the published copy at the root); a new ending in "/" links the folder.
+--skip DIR      leave the pages under DIR as they are
 --in DIR        also read the pages inside DIR (a submodule or a folder of submodules: Products/Modules); their
                 changes are left for each repository to commit.
 
@@ -47,6 +48,52 @@ def remap(path, pairs, exact):
     return path
 
 
+MODS = re.compile(r'^2026/Modules/[^/]+/([^/]+)(?:/(.*))?$')
+_find = {}
+
+
+def module_file(target):
+    """A link into the old 2026/Modules/<CAT>/<CODE>/... tree -> the file in the module's clone now: any category (modules
+    were re-sorted), the file found by name in its kind folder, under its [DWG ...] name when it was renamed."""
+    m = MODS.match(target)
+    if not m:
+        return None
+    try:
+        sys.path.insert(0, os.path.join(TOP, 'tools'))
+        import modules_home
+        if not _find:
+            _find['clone'] = {code: os.path.relpath(clone, TOP) for cat, code, clone in modules_home.modules()}
+            ren = {}
+            p = os.path.join(TOP, 'tools', 'dwg_renames.tsv')
+            if os.path.exists(p):
+                for l in open(p, encoding='utf-8'):
+                    c = l.rstrip('\n').split('\t')
+                    if len(c) >= 2:
+                        ren[os.path.basename(c[-2])] = os.path.basename(c[-1])
+            _find['ren'] = ren
+            _find['files'] = {}
+    except Exception:
+        return None
+    clone = _find['clone'].get(m.group(1))
+    if not clone:
+        return None
+    rest = m.group(2) or ''
+    if not rest:
+        return clone + '/'
+    if os.path.exists(os.path.join(TOP, clone, rest)):
+        return clone + '/' + rest
+    if clone not in _find['files']:
+        idx = {}
+        for dp, dn, fn in os.walk(os.path.join(TOP, clone)):
+            dn[:] = [d for d in dn if d != '.git']
+            for f in fn:
+                idx.setdefault(f, os.path.relpath(os.path.join(dp, f), TOP))
+        _find['files'][clone] = idx
+    name = os.path.basename(rest)
+    idx = _find['files'][clone]
+    return idx.get(name) or idx.get(_find['ren'].get(name, '')) or None
+
+
 def tracked(args):
     return [f for f in subprocess.run(['git', '-C', TOP, *args], capture_output=True, text=True).stdout.split('\0') if f]
 
@@ -55,11 +102,13 @@ def main():
     argv = sys.argv[1:]
     dry = '--dry-run' in argv
     argv = [x for x in argv if x != '--dry-run']
-    mapfile, ins, pos = None, [], []
+    mapfile, ins, pos, skips = None, [], [], []
     i = 0
     while i < len(argv):
         if argv[i] == '--map':
             mapfile = argv[i + 1]; i += 2
+        elif argv[i] == '--skip':
+            skips.append(norm(argv[i + 1])); i += 2
         elif argv[i] == '--in':
             ins.append(norm(argv[i + 1])); i += 2
         else:
@@ -83,7 +132,7 @@ def main():
     pages = changed = links = 0
     touched = set()
     for rel in files:
-        if os.path.splitext(rel)[1].lower() not in EXT or rel in gitlinks:
+        if os.path.splitext(rel)[1].lower() not in EXT or rel in gitlinks or any(under(rel, k) for k in skips):
             continue
         p = os.path.join(TOP, rel)
         if not os.path.isfile(p) or os.path.islink(p):
@@ -118,6 +167,8 @@ def main():
             if target.startswith('..'):
                 return m.group(0)
             new_target = remap(target, pairs, exact)
+            if not exists(new_target):
+                new_target = module_file(target) or new_target
             if new_target == target and here_new == here_old:
                 return m.group(0)
             if not exists(new_target):
@@ -142,10 +193,14 @@ def main():
             vb_old, vb_new = os.path.dirname(v_old), os.path.dirname(v_new)
             target = norm(os.path.join(vb_old, unquote(f)))
             new_target = remap(target, pairs, exact)
+            if not exists(new_target):
+                new_target = module_file(target) or new_target
             if new_target == target and v_new == v_old and here_new == here_old:
                 return m.group(0)
-            if not exists(new_target):
+            if not exists(new_target) and v_new == v_old:
                 return m.group(0)
+            if not exists(new_target):   # the viewer moved: keep the same file, from the viewer's new place
+                new_target = target
             nv = os.path.relpath(v_new, here_new or '.').replace(os.sep, '/')
             nf = os.path.relpath(new_target.rstrip('/') or '.', vb_new or '.').replace(os.sep, '/')
             out = pre + quote(nv, safe=SAFE) + '?f=' + quote(nf, safe=SAFE)

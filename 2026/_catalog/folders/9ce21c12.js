@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/COMMUNICATION/M701D/SCHEMATICS","f":[["1996 - M701D - file.pcb",""]]};

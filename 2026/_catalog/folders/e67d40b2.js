@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/AMPLIFIERS/M612/MECHANICAL","f":[["19xx - M612 - DOC - wbsps - promo - mf6 mounting frame - back.jpg",""]]};

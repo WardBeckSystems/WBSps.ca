@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Consoles/1980-1989/890679 - CKBC - R1600 RADIO CONSOLE","f":[["1989 - 890679 - Binder spine - CKBC - R1600 RADIO CONSOLE (01).jpg","ba374bb3fc73ddc75eb7"],["1989 - 890679 - Binder spine - CKBC - R1600 RADIO CONSOLE (02).jpg","85b715479c15d85e0b02"]]};

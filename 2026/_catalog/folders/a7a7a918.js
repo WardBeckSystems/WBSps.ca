@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/SUMMING/M487/PHOTOS","f":[["1982 - M487 - Mixer Slot.jpg",""],["1982 - M487 - Mixer Slot_small.jpg",""],["1982 - M487 - Preamp.jpg",""],["1982 - M487 - Preamp_small.jpg",""]]};

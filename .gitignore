@@ -211,3 +211,6 @@ hard drive recovery/
 # R&D: the H drive is the private repo WardBeckSystems/ENGINEERING.RD-H-Drive
 /Engineering/H drive/
 /2026/Engineering/H drive/
+
+# the pipeline's working tree: not published (the root site is the one copy; 404.html sends /2026/… to /…)
+/2026/

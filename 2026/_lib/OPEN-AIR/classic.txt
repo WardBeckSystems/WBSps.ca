@@ -1,2 +1,0 @@
-libControl/Panels/wasm/pkg/oa_panels.js
-libControl/Panels/panel_wasm_loader.js

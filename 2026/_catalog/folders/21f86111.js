@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/COMMUNICATION/M703D/MECHANICAL","f":[["1996 - M703D - AMF701D.dwg",""],["1996 - M703D - FM701D.dwg",""],["1996 - M703D - FM702D.dwg",""]]};

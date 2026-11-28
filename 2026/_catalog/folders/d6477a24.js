@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/INPUT-PRE-AMPS/M471/PINOUTS","f":[["M471 - connections.svg",""],["M471 - pinout.svg",""]]};

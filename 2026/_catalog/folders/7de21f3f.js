@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/UNSORTED/M901BY/PINOUTS","f":[["M901BY - connections.svg",""],["M901BY - pinout.svg",""]]};

@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/SUMMING/M477/MECHANICAL","f":[["1979 - M477 - P18 - Front Panel.jpg",""]]};

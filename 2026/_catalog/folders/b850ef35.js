@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/METER/M405D/MECHANICAL","f":[["19xx - M405D - DOC - 405-03-048 - NOTES REMOVE ALL BURRS (traced).dxf",""],["19xx - M405D - DOC - 405-03-048 - NOTES REMOVE ALL BURRS.jpg",""]]};

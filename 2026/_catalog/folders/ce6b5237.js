@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/FILTERS/M404/PINOUTS","f":[["M404 - connections.svg",""],["M404 - pinout.svg",""]]};

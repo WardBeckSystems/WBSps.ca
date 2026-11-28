@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/UNSORTED/M778/KICAD","f":[["19xx - 778-02-001 - RELAY MODULE SCHEMATIC - ISS 1.kicad_sch",""],["M778.kicad_sym",""]]};

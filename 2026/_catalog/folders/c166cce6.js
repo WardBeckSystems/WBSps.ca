@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/AMPLIFIERS/M827/MANUALS","f":[["1972 - M827 - DOC - WBSps.ca - 20210317 11X 17 Scans.png",""]]};

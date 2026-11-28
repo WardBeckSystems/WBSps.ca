@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/DYNAMICS/M406M/PINOUTS","f":[["M406M - connections.svg",""],["M406M - pinout.svg",""]]};

@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/SUMMING/M473/PHOTOS","f":[["1984 - M473 - M473_1.jpg",""],["1984 - M473 - M473_1_small.jpg",""],["1984 - M473 - sub group modules.jpg",""],["1984 - M473 - sub group modules_small.jpg",""],["1984 - M473 - wbsps - module - m473 sub group modules 001_small.jpg",""],["1984 - M473 - wbsps - module - m473 sub group modules 002_small.jpg",""]]};

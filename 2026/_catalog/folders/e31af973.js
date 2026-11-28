@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/UNSORTED/M742/KICAD","f":[["19xx - 742-02-001 - LINE RECEIVER & REGISTER ENTRY CONTROL SCHEMATIC - ISS 2.kicad_sch",""],["M742.kicad_sym",""]]};

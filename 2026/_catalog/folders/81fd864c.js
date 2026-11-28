@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/FILTERS/M402A/KICAD","f":[["1968 - M402A - B 402-02-010 - M402A EFFECTS - EQUALIZER SCHEMATIC.kicad_sch",""],["M402A.kicad_sym",""]]};

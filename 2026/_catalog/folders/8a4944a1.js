@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/UNSORTED/M107/MECHANICAL","f":[["1972 - 107-03-004 - MODULE BASE - DRN MRW (EXTRACTED).svg",""],["1972 - 107-03-004 - MODULE BASE - DRN MRW (traced).dxf",""],["1972 - 107-03-004 - MODULE BASE - DRN MRW.jpg",""]]};

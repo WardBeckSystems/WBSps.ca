@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/COMMUNICATION/M745/MANUALS","f":[["19xx - M745 - DOC - WBSps.ca - 20210317 11X 17 Scans (2).png",""],["19xx - M745 - DOC - WBSps.ca - 20210317 11X 17 Scans.png",""]]};

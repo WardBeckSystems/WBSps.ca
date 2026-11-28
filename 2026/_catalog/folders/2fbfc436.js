@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/FILTERS/M462A/SOFTWARE/plugin/src","f":[["dsp.rs",""],["editor.rs",""],["eq.rs",""],["lib.rs",""]]};

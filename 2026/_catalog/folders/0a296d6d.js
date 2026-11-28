@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/UNSORTED/M923E/KICAD","f":[["M923E.kicad_sym",""]]};

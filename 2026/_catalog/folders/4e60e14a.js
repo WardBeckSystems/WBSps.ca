@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/COMMUNICATION/M773/MECHANICAL","f":[["19xx - M773 - DOC - 773-03-004 - DIA MAIERIAL FISH PARER (traced).dxf",""],["19xx - M773 - DOC - 773-03-004 - DIA MAIERIAL FISH PARER.jpg",""]]};

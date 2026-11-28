@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/UNSORTED/M485/KICAD","f":[["19xx - 485-02-001 - ±25V POWER SUPPLY SCHEMATIC - DRN P. Mahoney - ISS 1.kicad_sch",""],["19xx - 485-02-002 - M485A ±25V POWER SUPPLY SCHEMATIC - DRN P. Mahoney - ISS 1.kicad_sch",""],["M485.kicad_sym",""]]};

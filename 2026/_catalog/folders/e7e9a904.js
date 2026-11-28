@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/INPUT-PRE-AMPS/M490A/KICAD","f":[["1978 - M490A - 490-01-001 - MACHINE CONTROLS REVISED (2).kicad_sch",""],["1978 - M490A - 490-01-001 - MACHINE CONTROLS REVISED.kicad_sch",""],["1978 - M490A - 490-02-002 - CRII ILO IOK.kicad_sch",""],["1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.kicad_sch",""],["M490A.kicad_sym",""]]};

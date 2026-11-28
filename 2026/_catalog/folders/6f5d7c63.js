@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/INPUT-PRE-AMPS/M470/PINOUTS","f":[["M470 - connections.svg",""],["M470 - pinout.svg",""],["M470 - RTO-144 Connections.pdf",""],["M470 - RTO-144 connector.svg",""],["M470 - RTO-144 inputs and outputs.svg",""]]};

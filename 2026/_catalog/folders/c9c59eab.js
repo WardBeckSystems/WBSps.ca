@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/POWER/M628/KICAD","f":[["M628.kicad_sym",""]]};

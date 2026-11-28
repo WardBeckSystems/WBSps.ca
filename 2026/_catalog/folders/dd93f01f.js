@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/UNSORTED/M500/KICAD","f":[["19xx - 500-02-001 - 500 PROG. AMP. SCHEMATIC - ISS 2.kicad_sch",""],["M500.kicad_sym",""]]};

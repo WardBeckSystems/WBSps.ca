@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/ROUTING/M568W/MECHANICAL","f":[["19xx - M568W - 568-04-021 - MODULE FRONT PANEL SCNLE DISC (EXTRACTED).svg",""],["19xx - M568W - 568-04-021 - MODULE FRONT PANEL SCNLE DISC (traced).dxf",""],["19xx - M568W - 568-04-021 - MODULE FRONT PANEL SCNLE DISC.jpg",""],["M568W - front panel.svg",""]]};

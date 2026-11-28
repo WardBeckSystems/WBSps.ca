@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/ROUTING/M456/MECHANICAL","f":[["1975 - M456 - 461-03-015 - DUAL BOOSTE (EXTRACTED).svg",""],["1975 - M456 - 461-03-015 - DUAL BOOSTE (traced).dxf",""],["1975 - M456 - 461-03-015 - DUAL BOOSTE.jpg",""]]};

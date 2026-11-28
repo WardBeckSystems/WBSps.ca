@@ -1,7 +1,0 @@
-
----------------------------------------
-Loading: C:\ORCADEXE\SDT_C.EXE
-With Parameters:  /C16081015071507
----------------------------------------
-Loading configuration file
-

@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/DYNAMICS/M466/SOFTWARE/plugin/target/debug/deps","f":[["libwbs_m466.rlib",""],["libwbs_m466.so",""],["wbs_m466-e14fc167a14007a6",""],["wbs_m466-e14fc167a14007a6.d",""],["wbs_m466.d",""]]};

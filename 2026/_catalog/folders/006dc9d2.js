@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/UNSORTED/M777/MECHANICAL","f":[["1982 - 777-03-005 - BACK PLANE MTG. ANGLES - DRN P. Mahoney - ENG MRW - ISS 3 (EXTRACTED).svg",""],["1982 - 777-03-005 - BACK PLANE MTG. ANGLES - DRN P. Mahoney - ENG MRW - ISS 3 (traced).dxf",""],["1982 - 777-03-005 - BACK PLANE MTG. ANGLES - DRN P. Mahoney - ENG MRW - ISS 3.jpg",""]]};

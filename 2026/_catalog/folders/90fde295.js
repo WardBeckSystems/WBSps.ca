@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/DYNAMICS/M467/SOFTWARE/plugin/target/release/build/serde-6ae30a7ead6f21d8/out","f":[["private.rs",""]]};

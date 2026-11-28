@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/INPUT-PRE-AMPS/M480B/KICAD","f":[["1980 - M480B - 480-01-001 - SOLO CONTROL PEAK EXTERNAL PEAK CALIBRATION.kicad_sch",""],["1980 - M480B - 480-02-003 - INPUT MODULE SCHEMATIC CHASSIS.kicad_sch",""],["1980 - M480B - SCAN p24.kicad_sch",""],["1980 - M480B - SCAN p25.kicad_sch",""],["M480B.kicad_sym",""]]};

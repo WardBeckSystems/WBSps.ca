@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/COMPUTERS/M5201/PINOUTS","f":[["19xx - M5201 - Connector Layout M5201 Machine Control Module J4.jpg",""],["19xx - M5201 - Connector Layout M5201 Machine Control Module J6.jpg",""],["19xx - M5201 - Connector Layout M5201 Machine Control Module P8.jpg",""],["M5201 - connections.svg",""],["M5201 - pinout.svg",""]]};

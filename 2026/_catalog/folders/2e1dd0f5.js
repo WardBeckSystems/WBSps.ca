@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/FILTERS/M562C/KICAD","f":[["M562C.kicad_sym",""]]};

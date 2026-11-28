@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/POWER/M485/KICAD","f":[["M485.kicad_sym",""]]};

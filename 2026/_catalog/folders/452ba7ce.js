@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/FILTERS/M522B/KICAD","f":[["19xx - M522B - M522C Equalizer p19.kicad_sch",""],["19xx - M522B - M522C Equalizer p20.kicad_sch",""],["M522B.kicad_sym",""]]};

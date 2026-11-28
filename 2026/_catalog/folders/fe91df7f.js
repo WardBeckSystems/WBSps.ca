@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/DYNAMICS/M406M/KICAD","f":[["M406M.kicad_sym",""]]};

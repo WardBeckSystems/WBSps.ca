@@ -1,1 +1,0 @@
-window.WBS_FOLDER={"d":"Modules/SUMMING/M463B/MECHANICAL","f":[["1972 - M463B - 463-04-022 (EXTRACTED).svg",""],["1972 - M463B - 463-04-022 (traced).dxf",""],["1972 - M463B - 463-04-022.jpg",""]]};
