@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Copyright (c) 2026 Ward-Beck Systems (Ward-Beck.com - Ward-Beck.ca). All rights reserved.
-"""No more PSDs: every .psd becomes a .jpg of its flattened image (quality 92), and the .psd is deleted.
+"""No more PSDs: every .psd becomes a .jpg of its flattened image (at most 4000 px, at most 1 MB), and the .psd is deleted.
 
     psd_to_jpg.py PATH... [--notes-root DIR]... [--git] [--dry-run]
 
@@ -55,8 +55,13 @@ def convert(psd, a):
         print(f'would convert {psd} ({dims})')
         return True
     tmp = jpg + '.part'
-    r = subprocess.run(['convert', f'{psd}[0]', '-quality', '92', f'jpg:{tmp}'], capture_output=True, text=True, env=ENV)
-    if r.returncode or not os.path.isfile(tmp) or (dims and size_of(tmp) != dims):
+    # at most 4000 px on the long side and 1 MB (user: "those PSDs should be 1 MB"); the check is the shape, not the size
+    r = subprocess.run(['convert', f'{psd}[0]', '-flatten', '-resize', '4000x4000>', '-strip', '-define', 'jpeg:extent=1000KB',
+                        f'jpg:{tmp}'], capture_output=True, text=True, env=ENV)
+    def shape(d):
+        w, h = map(int, d.split('x'))
+        return round(w / h, 2)
+    if r.returncode or not os.path.isfile(tmp) or (dims and size_of(tmp) and shape(size_of(tmp)) != shape(dims)):
         print(f'FAILED {psd}: {r.stderr.strip()[:200]}', file=sys.stderr)
         os.path.exists(tmp) and os.remove(tmp)
         return False

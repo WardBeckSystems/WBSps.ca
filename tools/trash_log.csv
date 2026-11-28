@@ -435,3 +435,6 @@ date,path,why,kept
 2026-11-27,Products/Intercom,old checkout of the Intercom index (every file in the INTERCOM.* repos),WBSps.ca/Github.WardBeckSystems/Intercom
 2026-11-27,PAGES/<module>.html and .md (710),duplicates of each module's own page (its repo's index.html / README); replaced by redirects,WBSps.ca/Github.WardBeckSystems/<module clone>/
 2026-11-27,CONSOLE.MODEL.R-series-Renaissance/R2K/1994 - R2K - Cool Grey Manualpdf (1).pdf (+ .md),the 134-page package; split into its 13 sections,R2K/Cool Grey Manual/
+2026-11-27,hard drive recovery M6205 from laptop.zip (2 identical) + M6205-3G Old Builds.zip,unpacked into ENGINEERING.RD-APK (build output left out),ENGINEERING.RD-APK/WBS_DATA_SHUFFLER_2016/
+2026-11-27,hard drive recovery 880651-04-001 (PSD 174 MB),kept as a JPEG of its flattened image,RECOVERY.WBSPS-Not-Uploaded/TVO M1204B 880651/880651-04-001.jpg
+2026-11-27,hard drive recovery/ (what was left: knit dwgs psd.zip - damaged; its 8 PSDs are already JPEGs in CONSOLE.790236-Maryland-L3242A and M459 - and the recovery scripts and logs),everything else is in its repo,RECOVERY.* / ENGINEERING.RD-* / module and product repos
