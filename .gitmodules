@@ -2399,3 +2399,7 @@
 	path = WBSps.ca/Github.WardBeckSystems/INTERCOM.970081
 	url = https://github.com/WardBeckSystems/INTERCOM.970081.git
 	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.EuroConsole"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.EuroConsole
+	url = https://github.com/WardBeckSystems/CONSOLE.EuroConsole.git
+	branch = main
