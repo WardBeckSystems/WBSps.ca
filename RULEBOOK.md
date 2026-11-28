@@ -6,16 +6,21 @@ disagree, the rule wins; when a rule is wrong, change it here.
 
 ## 1. One home for everything
 
-1. **Every repository lives in `WBSps.ca/Github.WardBeckSystems/<repo>`**, the official local copy. New repos are cloned
-   there, and submodules are registered there; never under `Products/`, `2026/` or `Console/`.
-2. **`Products/` is being phased out.** Anything in it belongs in its repo.
-3. **`2026/` is the pipeline's working tree, not the site.** It is untracked. Code that matters (the tracer,
+1. **Every repository lives in `WBSps.ca/Github.WardBeckSystems/`**, the official local copy, never under `Products/`,
+   `2026/` or `Console/`. Names repeated ten or more times are kept in a folder: `MODULES/<CAT>/`, `CONSOLE/` (and
+   `CONSOLE/MODEL/`), `INTERCOM/`, `SUBASSEMBLY/`, `PRODUCTS/`. Each repo's own folder keeps its full GitHub name, and a
+   family's index repo sits in its family's folder (`CONSOLE/Console`).
+2. **Code never builds a clone path by hand.** Use `tools/wbs_home.py`: `repo_dir(name)` finds a repo, `nest(name)`
+   says where a new one goes, `path_re()` reads one out of a path. `tools/nest_home.py` re-files the clones when a
+   family reaches ten.
+3. **`Products/` is being phased out.** Anything in it belongs in its repo.
+4. **`2026/` is the pipeline's working tree, not the site.** It is untracked. Code that matters (the tracer,
    `2026/extractors/`) must get a repo of its own before it is lost.
-4. **Public repos only as submodules.** A private one (Microcom, PRODUCTS.\*, ENGINEERING.\*, RECOVERY.\*) breaks the Pages
+5. **Public repos only as submodules.** A private one (Microcom, PRODUCTS.\*, ENGINEERING.\*, RECOVERY.\*) breaks the Pages
    build. Check visibility with `gh` before registering.
-5. **`.gitignore` ignores the home folder and lets each registered family through with a `!` line.** Add the line when
+6. **`.gitignore` ignores the home folder and lets each registered family through with a `!` line.** Add the line when
    you register a new family.
-6. **One fact, one place.** A module's data lives in its own repo. Copies are allowed only where the user asked for them:
+7. **One fact, one place.** A module's data lives in its own repo. Copies are allowed only where the user asked for them:
    sub-assembly drawings in two places, the drawings beside the KiCad symbol.
 
 ## 2. Data first; everything else is synthesized
