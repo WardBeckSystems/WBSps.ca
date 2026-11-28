@@ -18,6 +18,8 @@ from concurrent.futures import ThreadPoolExecutor
 TOP = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SKIP_TOP = ('.github/', '.gitmodules', '.gitignore', '.gitattributes')
 LFS = b'version https://git-lfs.github.com/spec/'
+PAGE = re.compile(rb'\.(html?|js|css|webmanifest)$', re.I)   # the site's code: never capped (data and pictures are)
+PAGE_LIMIT = 100_000_000   # GitHub's own file limit
 
 
 def arg(name, default):
@@ -39,7 +41,9 @@ def small_blobs(repo, rev, limit):
             continue
         meta, path = line.split(b'\t', 1)
         mode, kind, sha, size = meta.split()
-        if kind != b'blob' or mode == b'120000' or size == b'-' or int(size) > limit:
+        if kind != b'blob' or mode == b'120000' or size == b'-':
+            continue
+        if int(size) > limit and not (PAGE.search(path) and int(size) <= PAGE_LIMIT):   # the site's own pages always go
             continue
         out.append((path.decode(), sha.decode(), int(size)))
     return out

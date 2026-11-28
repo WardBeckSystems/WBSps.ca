@@ -10,7 +10,7 @@
   var p = location.pathname, m = p.match(/^(.*?\/)2026\/(.*)$/);
   if (m) { location.replace(m[1] + m[2] + location.search + location.hash); return; }
   // The site publishes files up to 1 MB (tools/pages_build.py); a bigger one is in its repository on GitHub.
-  var r = p.match(/\/Github\.WardBeckSystems\/([^\/]+)\/(.+)$/);
+  var r = p.match(/\/Github\.WardBeckSystems\/([^\/]+)\/?(.*)$/);   // a repo with no page of its own opens on GitHub too
   if (r) {
     var repo = decodeURIComponent(r[1]), rest = r[2], file = /\.[A-Za-z0-9]{1,5}$/.test(rest) && !/\.html?$/i.test(rest);
     location.replace('https://github.com/WardBeckSystems/' + repo + (file ? '/raw/main/' : '/tree/main/') + rest);
