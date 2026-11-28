@@ -15,6 +15,7 @@ from collections import defaultdict
 TOP = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 HOME = os.path.join(TOP, 'WBSps.ca', 'Github.WardBeckSystems')
 H = 'ENGINEERING.RD-H-Drive'
+A = 'ENGINEERING.RD-APK/WBS Engineering - APK'
 REN = f'{H}/CONSOLES/REN TV Console'
 TRAILER = '\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>'
 
@@ -58,6 +59,10 @@ RULES = {   # name: (source folder, rule(rel) -> (repo, path in repo), only thes
                 if re.fullmatch(r'POD\d+[A-Z]?', top) and rest else f'SERIES/SCHEMATICS/{rel}')(*(rel.split('/', 1) + [''])[:2]))),
     'd2000': (f'{H}/D2000 Digital rack', lambda rel: ('PRODUCTS.D2000', rel)),
     'd8212f': (f'{H}/D8212F', lambda rel: ('PRODUCTS.D8212F', rel)),
+    'euro-mixer': (f'{A}/Console/Euro Rack Mixer', lambda rel: ('CONSOLE.EuroConsole', 'MECHANICAL/Euro Rack Mixer (2014-15, APK)/' + rel)),
+    'euro-rack': (f'{A}/Console/Euro Rack', lambda rel: ('CONSOLE.EuroConsole', 'MECHANICAL/Euro Rack (2014-15, APK)/' + rel)),
+    'rto-psu': (f'{A}/20140627 - RTO-PSU', lambda rel: ('Engineering', 'RTO-144/RTO-PSU (2014-06-27)/' + rel)),
+    'brand': (f'{A}/BRAND ELEMENTS', lambda rel: ('ADVERTISEMENTS', 'BRAND ELEMENTS/' + rel)),
 }
 RM = {   # folders removed from the R&D repo once all their rules are clean
     f'{REN}': ['ren-m920', 'ren-m921', 'ren-m923', 'ren-m926', 'ren-tvfunc'],
@@ -67,6 +72,10 @@ RM = {   # folders removed from the R&D repo once all their rules are clean
     f'{H}/POD_OLD': ['pod-old'],
     f'{H}/D2000 Digital rack': ['d2000'],
     f'{H}/D8212F': ['d8212f'],
+    f'{A}/Console/Euro Rack Mixer': ['euro-mixer'],
+    f'{A}/Console/Euro Rack': ['euro-rack'],
+    f'{A}/20140627 - RTO-PSU': ['rto-psu'],
+    f'{A}/BRAND ELEMENTS': ['brand'],
 }
 
 

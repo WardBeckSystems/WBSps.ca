@@ -2403,3 +2403,19 @@
 	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.EuroConsole
 	url = https://github.com/WardBeckSystems/CONSOLE.EuroConsole.git
 	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.740097"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.740097
+	url = https://github.com/WardBeckSystems/CONSOLE.740097.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.L1202A"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.L1202A
+	url = https://github.com/WardBeckSystems/CONSOLE.MODEL.L1202A.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.R-series-Renaissance"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.R-series-Renaissance
+	url = https://github.com/WardBeckSystems/CONSOLE.MODEL.R-series-Renaissance.git
+	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/CONSOLE.ST-console-mono-and-st-schematics-for-back-planes"]
+	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.ST-console-mono-and-st-schematics-for-back-planes
+	url = https://github.com/WardBeckSystems/CONSOLE.ST-console-mono-and-st-schematics-for-back-planes.git
+	branch = main
