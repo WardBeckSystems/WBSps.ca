@@ -1,0 +1,108 @@
+# code	from	to	function	why (2026-11-27; applied by tools/recategorize_modules.py)
+M168	UNSORTED	COMMUNICATION	Talkback Amplifier Board	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION)
+M174	UNSORTED	COMMUNICATION	Intercom Crosspoints	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION)
+M701	UNSORTED	COMMUNICATION	Intercom Input Amplifier	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION) — MERGE into the existing COMMUNICATION repo
+M704	UNSORTED	COMMUNICATION	Intercom Amplifier	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION)
+M705	UNSORTED	COMMUNICATION	Hybrid Network	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION)
+M706	UNSORTED	COMMUNICATION	Transformer Module	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION)
+M711	UNSORTED	COMMUNICATION	Relay Switcher Module	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION)
+M730	UNSORTED	COMMUNICATION	10V Power Supply	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION)
+M731	UNSORTED	COMMUNICATION	20V Power Supply	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION)
+M740	UNSORTED	COMMUNICATION	Lamp Driver	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION) — MERGE into the existing COMMUNICATION repo
+M741	UNSORTED	COMMUNICATION	Register Module	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION)
+M742	UNSORTED	COMMUNICATION	Line Receiver and Register Entry Control	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION) — MERGE into the existing COMMUNICATION repo
+M743	UNSORTED	COMMUNICATION	Intercom Encoder Card	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION) — MERGE into the existing COMMUNICATION repo
+M745	UNSORTED	COMMUNICATION	5V Regulator	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION) — MERGE into the existing COMMUNICATION repo
+M748	UNSORTED	COMMUNICATION	Memory Card	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION) — MERGE into the existing COMMUNICATION repo
+M749	UNSORTED	COMMUNICATION	Status Control and Memory Cancel	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION) — MERGE into the existing COMMUNICATION repo
+M750	UNSORTED	COMMUNICATION	Line Receiver Driver	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION) — MERGE into the existing COMMUNICATION repo
+M751	UNSORTED	COMMUNICATION	Dual Memory Latch	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION) — MERGE into the existing COMMUNICATION repo
+M752	UNSORTED	COMMUNICATION	Strobe Generator	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION) — MERGE into the existing COMMUNICATION repo
+M753	UNSORTED	COMMUNICATION	Memory Latch Lock Up Control	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION) — MERGE into the existing COMMUNICATION repo
+M755	UNSORTED	COMMUNICATION	Lamp Driver Module	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION)
+M756	UNSORTED	COMMUNICATION	Encoder and Strobe Driver	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION)
+M757	UNSORTED	COMMUNICATION	BCD Encoder	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION) — MERGE into the existing COMMUNICATION repo
+M772	UNSORTED	COMMUNICATION	Data Transmit Receive Module	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION) — MERGE into the existing COMMUNICATION repo
+M773	UNSORTED	COMMUNICATION	Intercom Module	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION) — MERGE into the existing COMMUNICATION repo
+M777	UNSORTED	COMMUNICATION	Status Monitor Module	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION) — MERGE into the existing COMMUNICATION repo
+M778	UNSORTED	COMMUNICATION	Relay Module	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION)
+M780	UNSORTED	COMMUNICATION	Power Supply	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION) — MERGE into the existing COMMUNICATION repo
+M7810	UNSORTED	COMMUNICATION	Intercom Studio Terminal	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION)
+M7820	UNSORTED	COMMUNICATION	Secondary Terminal	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION)
+M7830	UNSORTED	COMMUNICATION	Secondary Terminal	intercom (user: M78xx are intercom; intercom modules live in COMMUNICATION) — MERGE into the existing COMMUNICATION repo
+M900	UNSORTED	RENAISSANCE	MK Series Hardware	M900 series: Renaissance console modules (user; tools/m900_series.json)
+M901	UNSORTED	RENAISSANCE	Input Module	M900 series: Renaissance console modules (user; tools/m900_series.json)
+M901A	UNSORTED	RENAISSANCE	Universal Input Module	M900 series: Renaissance console modules (user; tools/m900_series.json)
+M901B	UNSORTED	RENAISSANCE	Mic Input Module	M900 series: Renaissance console modules (user; tools/m900_series.json)
+M901BY	UNSORTED	RENAISSANCE	Custom Input Module	M900 series: Renaissance console modules (user; tools/m900_series.json)
+M901C	UNSORTED	RENAISSANCE	Line Input Module	M900 series: Renaissance console modules (user; tools/m900_series.json)
+M901CY	UNSORTED	RENAISSANCE	Custom Input Module	M900 series: Renaissance console modules (user; tools/m900_series.json)
+M901D	UNSORTED	RENAISSANCE	Input Module	M900 series: Renaissance console modules (user; tools/m900_series.json)
+M901NW	UNSORTED	RENAISSANCE	Input Module	M900 series: Renaissance console modules (user; tools/m900_series.json)
+M905A	UNSORTED	RENAISSANCE	Control Room Monitor Module	M900 series: Renaissance console modules (user; tools/m900_series.json)
+M905B	UNSORTED	RENAISSANCE	Studio Monitor Module	M900 series: Renaissance console modules (user; tools/m900_series.json)
+M907	UNSORTED	RENAISSANCE	Master Module	M900 series: Renaissance console modules (user; tools/m900_series.json)
+M908	UNSORTED	RENAISSANCE	Dual Stereo Line Selector	M900 series: Renaissance console modules (user; tools/m900_series.json)
+M909	UNSORTED	RENAISSANCE	Custom Meter	M900 series: Renaissance console modules (user; tools/m900_series.json)
+M920	UNSORTED	RENAISSANCE		M900 series: Renaissance console modules (user; tools/m900_series.json)
+M921	UNSORTED	RENAISSANCE		M900 series: Renaissance console modules (user; tools/m900_series.json)
+M922	FILTERS	RENAISSANCE	Equalizer Module	M900 series: Renaissance console modules (user; tools/m900_series.json)
+M923	UNSORTED	RENAISSANCE		M900 series: Renaissance console modules (user; tools/m900_series.json)
+M923A	UNSORTED	RENAISSANCE		M900 series: Renaissance console modules (user; tools/m900_series.json)
+M923B	UNSORTED	RENAISSANCE		M900 series: Renaissance console modules (user; tools/m900_series.json)
+M923C	UNSORTED	RENAISSANCE		M900 series: Renaissance console modules (user; tools/m900_series.json)
+M923D	UNSORTED	RENAISSANCE		M900 series: Renaissance console modules (user; tools/m900_series.json)
+M923E	UNSORTED	RENAISSANCE		M900 series: Renaissance console modules (user; tools/m900_series.json)
+M923F	UNSORTED	RENAISSANCE		M900 series: Renaissance console modules (user; tools/m900_series.json)
+M923H	UNSORTED	RENAISSANCE		M900 series: Renaissance console modules (user; tools/m900_series.json)
+M924	UNSORTED	RENAISSANCE	Power Supply	M900 series: Renaissance console modules (user; tools/m900_series.json)
+M924A	UNSORTED	RENAISSANCE	Power Supply	M900 series: Renaissance console modules (user; tools/m900_series.json)
+M926	UNSORTED	RENAISSANCE		M900 series: Renaissance console modules (user; tools/m900_series.json)
+M927	UNSORTED	RENAISSANCE		M900 series: Renaissance console modules (user; tools/m900_series.json)
+M999	UNSORTED	RENAISSANCE	Custom Subpanel	M900 series: Renaissance console modules (user; tools/m900_series.json)
+M110	UNSORTED	AMPLIFIERS	Universal Amplifier	by function
+M121	UNSORTED	AMPLIFIERS	Remote Gain Amplifier	by function
+M122	UNSORTED	AMPLIFIERS	Amplifier Assembly	by function
+M152	UNSORTED	AMPLIFIERS	Amplifier Board	by function
+M158	UNSORTED	AMPLIFIERS	Amplifier Board	by function
+M171	UNSORTED	AMPLIFIERS	10 Watt Amplifier Board	by function
+M173	UNSORTED	AMPLIFIERS	20 Watt Monitor Amplifier Board	by function
+M178	UNSORTED	AMPLIFIERS	Amplifier Board	by function
+M182	UNSORTED	AMPLIFIERS	Booster Amplifier Board	by function
+M403	UNSORTED	AMPLIFIERS	Dubber Amplifier	by function
+M414	UNSORTED	AMPLIFIERS	6 Watt Utility Amplifier	by function
+M416	UNSORTED	AMPLIFIERS	Cue Amplifier	by function
+M500	UNSORTED	AMPLIFIERS	Program Amplifier	by function
+M503	UNSORTED	AMPLIFIERS	Cue Amplifier	by function
+M510	UNSORTED	AMPLIFIERS	Monitor Amplifier	by function
+M801	UNSORTED	AMPLIFIERS	Switcher Isolation Amplifier	by function
+M807	UNSORTED	AMPLIFIERS	Fade Generator	by function — MERGE into the existing AMPLIFIERS repo
+M813	UNSORTED	AMPLIFIERS	Relay Switcher Logic Card	by function — MERGE into the existing AMPLIFIERS repo
+M815	UNSORTED	AMPLIFIERS	Distribution Amplifier	by function — MERGE into the existing AMPLIFIERS repo
+M816	UNSORTED	AMPLIFIERS	Distribution Amplifier	by function — MERGE into the existing AMPLIFIERS repo
+M827	UNSORTED	AMPLIFIERS	Power Supply	by function — MERGE into the existing AMPLIFIERS repo
+M845	UNSORTED	AMPLIFIERS	5 Volt Regulator	by function — MERGE into the existing AMPLIFIERS repo
+M626	UNSORTED	AMPLIFIERS	Trickle Charger	by function — MERGE into the existing AMPLIFIERS repo
+M629	UNSORTED	AMPLIFIERS	Trickle Charger	by function — MERGE into the existing AMPLIFIERS repo
+M117	UNSORTED	POWER	Regulator Board	by function
+M136	UNSORTED	POWER	Regulator Card	by function
+M448	UNSORTED	POWER	Power Supply	by function
+M485	UNSORTED	POWER	25V Power Supply	by function — MERGE into the existing POWER repo
+M129	UNSORTED	FILTERS	Equalizer Board	by function
+M144	UNSORTED	FILTERS	Equalizer Board	by function
+M146	UNSORTED	DYNAMICS	Compressor Board	by function
+M147	UNSORTED	DYNAMICS	Compressor Board	by function
+M150	UNSORTED	MONITORING	Monitor Module Board	by function
+M483	UNSORTED	MONITORING	Monitor Module	by function
+M020	UNSORTED	INPUT-PRE-AMPS	Stereo Input Module	by function
+M181	UNSORTED	INPUT-PRE-AMPS	Pre-Amplifier Board	by function
+M420	UNSORTED	INPUT-PRE-AMPS	Reverb Return	by function
+M461AB	UNSORTED	INPUT-PRE-AMPS	Input Module	by function
+M501	UNSORTED	INPUT-PRE-AMPS	Preamplifier	by function
+M458	UNSORTED	METER	Quad Peak Overload Indicator	by function
+M469	UNSORTED	ROUTING	Assignment Module	by function
+M478	UNSORTED	ROUTING	Assign Module	by function
+M478H	UNSORTED	ROUTING	Slate Assign Module	by function
+M499	UNSORTED	ROUTING	Insertion Switcher	by function
+M568	UNSORTED	ROUTING	Assignment Module	by function
+M804	UNSORTED	ROUTING	8x1 Relay Switcher Module	by function

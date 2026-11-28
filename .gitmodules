@@ -395,9 +395,9 @@
 [submodule "2026/Modules/FILTERS/M562C"]
 	path = WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M562C-Stereo-Equalizer-Module
 	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M562C-Stereo-Equalizer-Module.git
-[submodule "2026/Modules/FILTERS/M922"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M922-Equalizer-Module
-	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M922-Equalizer-Module.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M922-Equalizer-Module"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M922-Equalizer-Module
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M922-Equalizer-Module.git
 [submodule "2026/Modules/INPUT-PRE-AMPS/M441"]
 	path = WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M441-Input-Module
 	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M441-Input-Module.git
@@ -722,75 +722,75 @@
 [submodule "2026/Modules/SUMMING/M528"]
 	path = WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M528-Dual-Auxiliary-Module
 	url = https://github.com/WardBeckSystems/MODULES.SUMMING.M528-Dual-Auxiliary-Module.git
-[submodule "2026/Modules/UNSORTED/M020"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M020-Stereo-Input-Module
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M020-Stereo-Input-Module.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M020-Stereo-Input-Module"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M020-Stereo-Input-Module
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M020-Stereo-Input-Module.git
 [submodule "2026/Modules/UNSORTED/M101"]
 	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M101-Modular-Frame-Hardware
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M101-Modular-Frame-Hardware.git
 [submodule "2026/Modules/UNSORTED/M107"]
 	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M107-Module-Base
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M107-Module-Base.git
-[submodule "2026/Modules/UNSORTED/M110"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M110-Universal-Amplifier
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M110-Universal-Amplifier.git
-[submodule "2026/Modules/UNSORTED/M117"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M117-Regulator-Board
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M117-Regulator-Board.git
-[submodule "2026/Modules/UNSORTED/M121"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M121-Remote-Gain-Amplifier
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M121-Remote-Gain-Amplifier.git
-[submodule "2026/Modules/UNSORTED/M122"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M122-Amplifier-Assembly
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M122-Amplifier-Assembly.git
-[submodule "2026/Modules/UNSORTED/M129"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M129-Equalizer-Board
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M129-Equalizer-Board.git
-[submodule "2026/Modules/UNSORTED/M136"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M136-Regulator-Card
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M136-Regulator-Card.git
-[submodule "2026/Modules/UNSORTED/M144"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M144-Equalizer-Board
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M144-Equalizer-Board.git
-[submodule "2026/Modules/UNSORTED/M146"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M146-Compressor-Board
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M146-Compressor-Board.git
-[submodule "2026/Modules/UNSORTED/M147"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M147-Compressor-Board
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M147-Compressor-Board.git
-[submodule "2026/Modules/UNSORTED/M150"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M150-Monitor-Module-Board
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M150-Monitor-Module-Board.git
-[submodule "2026/Modules/UNSORTED/M152"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M152-Amplifier-Board
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M152-Amplifier-Board.git
-[submodule "2026/Modules/UNSORTED/M158"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M158-Amplifier-Board
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M158-Amplifier-Board.git
-[submodule "2026/Modules/UNSORTED/M168"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M168-Talkback-Amplifier-Board
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M168-Talkback-Amplifier-Board.git
-[submodule "2026/Modules/UNSORTED/M171"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M171-10-Watt-Amplifier-Board
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M171-10-Watt-Amplifier-Board.git
-[submodule "2026/Modules/UNSORTED/M173"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M173-20-Watt-Monitor-Amplifier-Board
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M173-20-Watt-Monitor-Amplifier-Board.git
-[submodule "2026/Modules/UNSORTED/M174"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M174-Intercom-Crosspoints
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M174-Intercom-Crosspoints.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M110-Universal-Amplifier"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M110-Universal-Amplifier
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M110-Universal-Amplifier.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.POWER.M117-Regulator-Board"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.POWER.M117-Regulator-Board
+	url = https://github.com/WardBeckSystems/MODULES.POWER.M117-Regulator-Board.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M121-Remote-Gain-Amplifier"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M121-Remote-Gain-Amplifier
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M121-Remote-Gain-Amplifier.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M122-Amplifier-Assembly"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M122-Amplifier-Assembly
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M122-Amplifier-Assembly.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M129-Equalizer-Board"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M129-Equalizer-Board
+	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M129-Equalizer-Board.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.POWER.M136-Regulator-Card"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.POWER.M136-Regulator-Card
+	url = https://github.com/WardBeckSystems/MODULES.POWER.M136-Regulator-Card.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M144-Equalizer-Board"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M144-Equalizer-Board
+	url = https://github.com/WardBeckSystems/MODULES.FILTERS.M144-Equalizer-Board.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.DYNAMICS.M146-Compressor-Board"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.DYNAMICS.M146-Compressor-Board
+	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M146-Compressor-Board.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.DYNAMICS.M147-Compressor-Board"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.DYNAMICS.M147-Compressor-Board
+	url = https://github.com/WardBeckSystems/MODULES.DYNAMICS.M147-Compressor-Board.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.MONITORING.M150-Monitor-Module-Board"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.MONITORING.M150-Monitor-Module-Board
+	url = https://github.com/WardBeckSystems/MODULES.MONITORING.M150-Monitor-Module-Board.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M152-Amplifier-Board"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M152-Amplifier-Board
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M152-Amplifier-Board.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M158-Amplifier-Board"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M158-Amplifier-Board
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M158-Amplifier-Board.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M168-Talkback-Amplifier-Board"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M168-Talkback-Amplifier-Board
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M168-Talkback-Amplifier-Board.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M171-10-Watt-Amplifier-Board"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M171-10-Watt-Amplifier-Board
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M171-10-Watt-Amplifier-Board.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M173-20-Watt-Monitor-Amplifier-Board"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M173-20-Watt-Monitor-Amplifier-Board
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M173-20-Watt-Monitor-Amplifier-Board.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M174-Intercom-Crosspoints"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M174-Intercom-Crosspoints
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M174-Intercom-Crosspoints.git
 [submodule "2026/Modules/UNSORTED/M175"]
 	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M175-Slot-Card
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M175-Slot-Card.git
-[submodule "2026/Modules/UNSORTED/M178"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M178-Amplifier-Board
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M178-Amplifier-Board.git
-[submodule "2026/Modules/UNSORTED/M181"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M181-Pre-Amplifier-Board
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M181-Pre-Amplifier-Board.git
-[submodule "2026/Modules/UNSORTED/M182"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M182-Booster-Amplifier-Board
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M182-Booster-Amplifier-Board.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M178-Amplifier-Board"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M178-Amplifier-Board
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M178-Amplifier-Board.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M181-Pre-Amplifier-Board"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M181-Pre-Amplifier-Board
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M181-Pre-Amplifier-Board.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M182-Booster-Amplifier-Board"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M182-Booster-Amplifier-Board
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M182-Booster-Amplifier-Board.git
 [submodule "2026/Modules/UNSORTED/M203"]
 	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M203-Turret-Interface
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M203-Turret-Interface.git
@@ -800,21 +800,21 @@
 [submodule "2026/Modules/UNSORTED/M400"]
 	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M400-Test-Jig
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M400-Test-Jig.git
-[submodule "2026/Modules/UNSORTED/M403"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M403-Dubber-Amplifier
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M403-Dubber-Amplifier.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M403-Dubber-Amplifier"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M403-Dubber-Amplifier
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M403-Dubber-Amplifier.git
 [submodule "2026/Modules/UNSORTED/M407"]
 	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M407-Turret
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M407-Turret.git
-[submodule "2026/Modules/UNSORTED/M414"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M414-6-Watt-Utility-Amplifier
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M414-6-Watt-Utility-Amplifier.git
-[submodule "2026/Modules/UNSORTED/M416"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M416-Cue-Amplifier
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M416-Cue-Amplifier.git
-[submodule "2026/Modules/UNSORTED/M420"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M420-Reverb-Return
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M420-Reverb-Return.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M414-6-Watt-Utility-Amplifier"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M414-6-Watt-Utility-Amplifier
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M414-6-Watt-Utility-Amplifier.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M416-Cue-Amplifier"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M416-Cue-Amplifier
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M416-Cue-Amplifier.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M420-Reverb-Return"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M420-Reverb-Return
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M420-Reverb-Return.git
 [submodule "2026/Modules/UNSORTED/M421"]
 	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M421
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M421.git
@@ -827,252 +827,177 @@
 [submodule "2026/Modules/UNSORTED/M424S"]
 	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M424S-Patch-Bay
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M424S-Patch-Bay.git
-[submodule "2026/Modules/UNSORTED/M448"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M448-Power-Supply
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M448-Power-Supply.git
-[submodule "2026/Modules/UNSORTED/M458"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M458-Quad-Peak-Overload-Indicator
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M458-Quad-Peak-Overload-Indicator.git
-[submodule "2026/Modules/UNSORTED/M461AB"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M461AB-Input-Module
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M461AB-Input-Module.git
-[submodule "2026/Modules/UNSORTED/M469"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M469-Assignment-Module
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M469-Assignment-Module.git
-[submodule "2026/Modules/UNSORTED/M478"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M478-Assign-Module
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M478-Assign-Module.git
-[submodule "2026/Modules/UNSORTED/M478H"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M478H-Slate-Assign-Module
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M478H-Slate-Assign-Module.git
-[submodule "2026/Modules/UNSORTED/M483"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M483-Monitor-Module
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M483-Monitor-Module.git
-[submodule "2026/Modules/UNSORTED/M485"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M485-25V-Power-Supply
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M485-25V-Power-Supply.git
-[submodule "2026/Modules/UNSORTED/M499"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M499-Insertion-Switcher
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M499-Insertion-Switcher.git
-[submodule "2026/Modules/UNSORTED/M500"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M500-Program-Amplifier
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M500-Program-Amplifier.git
-[submodule "2026/Modules/UNSORTED/M501"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M501-Preamplifier
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M501-Preamplifier.git
-[submodule "2026/Modules/UNSORTED/M503"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M503-Cue-Amplifier
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M503-Cue-Amplifier.git
-[submodule "2026/Modules/UNSORTED/M510"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M510-Monitor-Amplifier
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M510-Monitor-Amplifier.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.POWER.M448-Power-Supply"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.POWER.M448-Power-Supply
+	url = https://github.com/WardBeckSystems/MODULES.POWER.M448-Power-Supply.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.METER.M458-Quad-Peak-Overload-Indicator"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.METER.M458-Quad-Peak-Overload-Indicator
+	url = https://github.com/WardBeckSystems/MODULES.METER.M458-Quad-Peak-Overload-Indicator.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M461AB-Input-Module"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M461AB-Input-Module
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M461AB-Input-Module.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M469-Assignment-Module"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M469-Assignment-Module
+	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M469-Assignment-Module.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M478-Assign-Module"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M478-Assign-Module
+	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M478-Assign-Module.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M478H-Slate-Assign-Module"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M478H-Slate-Assign-Module
+	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M478H-Slate-Assign-Module.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.MONITORING.M483-Monitor-Module"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.MONITORING.M483-Monitor-Module
+	url = https://github.com/WardBeckSystems/MODULES.MONITORING.M483-Monitor-Module.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M499-Insertion-Switcher"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M499-Insertion-Switcher
+	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M499-Insertion-Switcher.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M500-Program-Amplifier"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M500-Program-Amplifier
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M500-Program-Amplifier.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M501-Preamplifier"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M501-Preamplifier
+	url = https://github.com/WardBeckSystems/MODULES.INPUT-PRE-AMPS.M501-Preamplifier.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M503-Cue-Amplifier"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M503-Cue-Amplifier
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M503-Cue-Amplifier.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M510-Monitor-Amplifier"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M510-Monitor-Amplifier
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M510-Monitor-Amplifier.git
 [submodule "2026/Modules/UNSORTED/M530"]
 	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M530-Mono-VCA-Module
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M530-Mono-VCA-Module.git
-[submodule "2026/Modules/UNSORTED/M568"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M568-Assignment-Module
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M568-Assignment-Module.git
-[submodule "2026/Modules/UNSORTED/M626"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M626-Trickle-Charger
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M626-Trickle-Charger.git
-[submodule "2026/Modules/UNSORTED/M629"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M629-Trickle-Charger
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M629-Trickle-Charger.git
-[submodule "2026/Modules/UNSORTED/M701"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M701-Intercom-Input-Amplifier
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M701-Intercom-Input-Amplifier.git
-[submodule "2026/Modules/UNSORTED/M704"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M704-Intercom-Amplifier
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M704-Intercom-Amplifier.git
-[submodule "2026/Modules/UNSORTED/M705"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M705-Hybrid-Network
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M705-Hybrid-Network.git
-[submodule "2026/Modules/UNSORTED/M706"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M706-Transformer-Module
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M706-Transformer-Module.git
-[submodule "2026/Modules/UNSORTED/M711"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M711-Relay-Switcher-Module
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M711-Relay-Switcher-Module.git
-[submodule "2026/Modules/UNSORTED/M730"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M730-10V-Power-Supply
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M730-10V-Power-Supply.git
-[submodule "2026/Modules/UNSORTED/M731"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M731-20V-Power-Supply
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M731-20V-Power-Supply.git
-[submodule "2026/Modules/UNSORTED/M741"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M741-Register-Module
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M741-Register-Module.git
-[submodule "2026/Modules/UNSORTED/M742"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M742-Line-Receiver-and-Register-Entry-Control
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M742-Line-Receiver-and-Register-Entry-Control.git
-[submodule "2026/Modules/UNSORTED/M743"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M743-Intercom-Encoder-Card
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M743-Intercom-Encoder-Card.git
-[submodule "2026/Modules/UNSORTED/M745"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M745-5V-Regulator
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M745-5V-Regulator.git
-[submodule "2026/Modules/UNSORTED/M748"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M748-Memory-Card
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M748-Memory-Card.git
-[submodule "2026/Modules/UNSORTED/M749"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M749-Status-Control-and-Memory-Cancel
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M749-Status-Control-and-Memory-Cancel.git
-[submodule "2026/Modules/UNSORTED/M750"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M750-Line-Receiver-Driver
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M750-Line-Receiver-Driver.git
-[submodule "2026/Modules/UNSORTED/M751"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M751-Dual-Memory-Latch
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M751-Dual-Memory-Latch.git
-[submodule "2026/Modules/UNSORTED/M752"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M752-Strobe-Generator
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M752-Strobe-Generator.git
-[submodule "2026/Modules/UNSORTED/M753"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M753-Memory-Latch-Lock-Up-Control
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M753-Memory-Latch-Lock-Up-Control.git
-[submodule "2026/Modules/UNSORTED/M755"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M755-Lamp-Driver-Module
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M755-Lamp-Driver-Module.git
-[submodule "2026/Modules/UNSORTED/M756"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M756-Encoder-and-Strobe-Driver
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M756-Encoder-and-Strobe-Driver.git
-[submodule "2026/Modules/UNSORTED/M757"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M757-BCD-Encoder
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M757-BCD-Encoder.git
-[submodule "2026/Modules/UNSORTED/M772"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M772-Data-Transmit-Receive-Module
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M772-Data-Transmit-Receive-Module.git
-[submodule "2026/Modules/UNSORTED/M773"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M773-Intercom-Module
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M773-Intercom-Module.git
-[submodule "2026/Modules/UNSORTED/M777"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M777-Status-Monitor-Module
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M777-Status-Monitor-Module.git
-[submodule "2026/Modules/UNSORTED/M778"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M778-Relay-Module
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M778-Relay-Module.git
-[submodule "2026/Modules/UNSORTED/M780"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M780-Power-Supply
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M780-Power-Supply.git
-[submodule "2026/Modules/UNSORTED/M7810"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M7810-Intercom-Studio-Terminal
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M7810-Intercom-Studio-Terminal.git
-[submodule "2026/Modules/UNSORTED/M7820"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M7820-Secondary-Terminal
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M7820-Secondary-Terminal.git
-[submodule "2026/Modules/UNSORTED/M7830"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M7830-Secondary-Terminal
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M7830-Secondary-Terminal.git
-[submodule "2026/Modules/UNSORTED/M801"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M801-Switcher-Isolation-Amplifier
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M801-Switcher-Isolation-Amplifier.git
-[submodule "2026/Modules/UNSORTED/M804"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M804-8x1-Relay-Switcher-Module
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M804-8x1-Relay-Switcher-Module.git
-[submodule "2026/Modules/UNSORTED/M807"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M807-Fade-Generator
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M807-Fade-Generator.git
-[submodule "2026/Modules/UNSORTED/M813"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M813-Relay-Switcher-Logic-Card
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M813-Relay-Switcher-Logic-Card.git
-[submodule "2026/Modules/UNSORTED/M815"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M815-Distribution-Amplifier
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M815-Distribution-Amplifier.git
-[submodule "2026/Modules/UNSORTED/M816"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M816-Distribution-Amplifier
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M816-Distribution-Amplifier.git
-[submodule "2026/Modules/UNSORTED/M827"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M827-Power-Supply
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M827-Power-Supply.git
-[submodule "2026/Modules/UNSORTED/M845"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M845-5-Volt-Regulator
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M845-5-Volt-Regulator.git
-[submodule "2026/Modules/UNSORTED/M900"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M900-MK-Series-Hardware
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M900-MK-Series-Hardware.git
-[submodule "2026/Modules/UNSORTED/M901"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M901-Input-Module
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M901-Input-Module.git
-[submodule "2026/Modules/UNSORTED/M901A"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M901A-Universal-Input-Module
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M901A-Universal-Input-Module.git
-[submodule "2026/Modules/UNSORTED/M901B"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M901B-Mic-Input-Module
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M901B-Mic-Input-Module.git
-[submodule "2026/Modules/UNSORTED/M901BY"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M901BY-Custom-Input-Module
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M901BY-Custom-Input-Module.git
-[submodule "2026/Modules/UNSORTED/M901C"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M901C-Line-Input-Module
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M901C-Line-Input-Module.git
-[submodule "2026/Modules/UNSORTED/M901CY"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M901CY-Custom-Input-Module
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M901CY-Custom-Input-Module.git
-[submodule "2026/Modules/UNSORTED/M901D"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M901D-Input-Module
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M901D-Input-Module.git
-[submodule "2026/Modules/UNSORTED/M901NW"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M901NW-Input-Module
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M901NW-Input-Module.git
-[submodule "2026/Modules/UNSORTED/M905A"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M905A-Control-Room-Monitor-Module
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M905A-Control-Room-Monitor-Module.git
-[submodule "2026/Modules/UNSORTED/M905B"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M905B-Studio-Monitor-Module
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M905B-Studio-Monitor-Module.git
-[submodule "2026/Modules/UNSORTED/M907"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M907-Master-Module
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M907-Master-Module.git
-[submodule "2026/Modules/UNSORTED/M908"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M908-Dual-Stereo-Line-Selector
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M908-Dual-Stereo-Line-Selector.git
-[submodule "2026/Modules/UNSORTED/M909"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M909-Custom-Meter
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M909-Custom-Meter.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M568-Assignment-Module"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M568-Assignment-Module
+	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M568-Assignment-Module.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M704-Intercom-Amplifier"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M704-Intercom-Amplifier
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M704-Intercom-Amplifier.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M705-Hybrid-Network"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M705-Hybrid-Network
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M705-Hybrid-Network.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M706-Transformer-Module"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M706-Transformer-Module
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M706-Transformer-Module.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M711-Relay-Switcher-Module"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M711-Relay-Switcher-Module
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M711-Relay-Switcher-Module.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M730-10V-Power-Supply"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M730-10V-Power-Supply
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M730-10V-Power-Supply.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M731-20V-Power-Supply"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M731-20V-Power-Supply
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M731-20V-Power-Supply.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M741-Register-Module"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M741-Register-Module
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M741-Register-Module.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M755-Lamp-Driver-Module"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M755-Lamp-Driver-Module
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M755-Lamp-Driver-Module.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M756-Encoder-and-Strobe-Driver"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M756-Encoder-and-Strobe-Driver
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M756-Encoder-and-Strobe-Driver.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M778-Relay-Module"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M778-Relay-Module
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M778-Relay-Module.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7810-Intercom-Studio-Terminal"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7810-Intercom-Studio-Terminal
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M7810-Intercom-Studio-Terminal.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7820-Secondary-Terminal"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7820-Secondary-Terminal
+	url = https://github.com/WardBeckSystems/MODULES.COMMUNICATION.M7820-Secondary-Terminal.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M801-Switcher-Isolation-Amplifier"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M801-Switcher-Isolation-Amplifier
+	url = https://github.com/WardBeckSystems/MODULES.AMPLIFIERS.M801-Switcher-Isolation-Amplifier.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M804-8x1-Relay-Switcher-Module"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M804-8x1-Relay-Switcher-Module
+	url = https://github.com/WardBeckSystems/MODULES.ROUTING.M804-8x1-Relay-Switcher-Module.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M900-MK-Series-Hardware"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M900-MK-Series-Hardware
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M900-MK-Series-Hardware.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M901-Input-Module"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M901-Input-Module
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M901-Input-Module.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M901A-Universal-Input-Module"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M901A-Universal-Input-Module
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M901A-Universal-Input-Module.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M901B-Mic-Input-Module"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M901B-Mic-Input-Module
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M901B-Mic-Input-Module.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M901BY-Custom-Input-Module"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M901BY-Custom-Input-Module
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M901BY-Custom-Input-Module.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M901C-Line-Input-Module"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M901C-Line-Input-Module
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M901C-Line-Input-Module.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M901CY-Custom-Input-Module"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M901CY-Custom-Input-Module
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M901CY-Custom-Input-Module.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M901D-Input-Module"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M901D-Input-Module
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M901D-Input-Module.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M901NW-Input-Module"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M901NW-Input-Module
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M901NW-Input-Module.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M905A-Control-Room-Monitor-Module"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M905A-Control-Room-Monitor-Module
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M905A-Control-Room-Monitor-Module.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M905B-Studio-Monitor-Module"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M905B-Studio-Monitor-Module
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M905B-Studio-Monitor-Module.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M907-Master-Module"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M907-Master-Module
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M907-Master-Module.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M908-Dual-Stereo-Line-Selector"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M908-Dual-Stereo-Line-Selector
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M908-Dual-Stereo-Line-Selector.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M909-Custom-Meter"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M909-Custom-Meter
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M909-Custom-Meter.git
 [submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M920"]
 	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M920
 	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M920.git
-[submodule "2026/Modules/UNSORTED/M921"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M921
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M921.git
-[submodule "2026/Modules/UNSORTED/M923"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M923
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M923.git
-[submodule "2026/Modules/UNSORTED/M923A"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M923A
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M923A.git
-[submodule "2026/Modules/UNSORTED/M923B"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M923B
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M923B.git
-[submodule "2026/Modules/UNSORTED/M923C"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M923C
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M923C.git
-[submodule "2026/Modules/UNSORTED/M923D"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M923D
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M923D.git
-[submodule "2026/Modules/UNSORTED/M923E"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M923E
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M923E.git
-[submodule "2026/Modules/UNSORTED/M923F"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M923F
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M923F.git
-[submodule "2026/Modules/UNSORTED/M923H"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M923H
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M923H.git
-[submodule "2026/Modules/UNSORTED/M924"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M924-Power-Supply
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M924-Power-Supply.git
-[submodule "2026/Modules/UNSORTED/M924A"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M924A-Power-Supply
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M924A-Power-Supply.git
-[submodule "2026/Modules/UNSORTED/M926"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M926
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M926.git
-[submodule "2026/Modules/UNSORTED/M927"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M927
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M927.git
-[submodule "2026/Modules/UNSORTED/M999"]
-	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M999-Custom-Subpanel
-	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.M999-Custom-Subpanel.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M921"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M921
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M921.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M923.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923A"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923A
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M923A.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923B"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923B
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M923B.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923C"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923C
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M923C.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923D"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923D
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M923D.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923E"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923E
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M923E.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923F"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923F
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M923F.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923H"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923H
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M923H.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M924-Power-Supply"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M924-Power-Supply
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M924-Power-Supply.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M924A-Power-Supply"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M924A-Power-Supply
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M924A-Power-Supply.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M926"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M926
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M926.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M927"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M927
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M927.git
+[submodule "WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M999-Custom-Subpanel"]
+	path = WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M999-Custom-Subpanel
+	url = https://github.com/WardBeckSystems/MODULES.RENAISSANCE.M999-Custom-Subpanel.git
 [submodule "2026/Modules/UNSORTED/RM424S"]
 	path = WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.RM424S-Shielded-Prewired-Jackfield
 	url = https://github.com/WardBeckSystems/MODULES.UNSORTED.RM424S-Shielded-Prewired-Jackfield.git
