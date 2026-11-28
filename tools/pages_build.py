@@ -10,7 +10,7 @@ stays in its repository: 404.html sends a link to it on to the file on GitHub.
 
 No submodule is checked out: each is fetched at its gitlink's commit with --filter=blob:limit (big blobs never
 download), and its small blobs are written straight from git (cat-file --batch). Nested submodules and LFS pointers are
-skipped. Runs in CI (.github/workflows/pages.yml) and locally.
+skipped, and so are DXF drawings and Rust build output (OFF_SITE). Runs in CI (.github/workflows/pages.yml) and locally.
 """
 import os, re, shutil, subprocess, sys, tempfile, threading
 from concurrent.futures import ThreadPoolExecutor
@@ -20,6 +20,9 @@ SKIP_TOP = ('.github/', '.gitmodules', '.gitignore', '.gitattributes')
 LFS = b'version https://git-lfs.github.com/spec/'
 PAGE = re.compile(rb'\.(html?|js|css|webmanifest)$', re.I)   # the site's code: never capped (data and pictures are)
 PAGE_LIMIT = 100_000_000   # GitHub's own file limit
+# Not on the site (the 10 GB limit), opened from GitHub by 404.html: DXF drawings (3.6 GB, no viewer draws them) and
+# Rust build output committed with the module plugins (SOFTWARE/plugin/target/, 0.9 GB).
+OFF_SITE = re.compile(rb'(\.dxf$|(^|/)target/(release|debug)/)', re.I)
 
 
 def arg(name, default):
@@ -41,7 +44,7 @@ def small_blobs(repo, rev, limit):
             continue
         meta, path = line.split(b'\t', 1)
         mode, kind, sha, size = meta.split()
-        if kind != b'blob' or mode == b'120000' or size == b'-':
+        if kind != b'blob' or mode == b'120000' or size == b'-' or OFF_SITE.search(path):
             continue
         if int(size) > limit and not (PAGE.search(path) and int(size) <= PAGE_LIMIT):   # the site's own pages always go
             continue
