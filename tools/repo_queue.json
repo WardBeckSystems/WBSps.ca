@@ -276,67 +276,78 @@
   "name": "SUBASSEMBLY.SA14-182-Amplifier-Assembly",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-182-Amplifier-Assembly",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-182 Amplifier Assembly, used in M568P, M568Q"
+  "description": "Ward-Beck Systems sub-assembly SA14-182 Amplifier Assembly, used in M568P, M568Q",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-218-Assembly-Front-Panel",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-218-Assembly-Front-Panel",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-218 Assembly - Front Panel, used in M7885A"
+  "description": "Ward-Beck Systems sub-assembly SA14-218 Assembly - Front Panel, used in M7885A",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-219-Assembly-Front-Panel",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-219-Assembly-Front-Panel",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-219 Assembly - Front Panel, used in M7885A"
+  "description": "Ward-Beck Systems sub-assembly SA14-219 Assembly - Front Panel, used in M7885A",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-246",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-246",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-246, used in M7880H"
+  "description": "Ward-Beck Systems sub-assembly SA14-246, used in M7880H",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-265",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-265",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-265, used in AP93001, M8204"
+  "description": "Ward-Beck Systems sub-assembly SA14-265, used in AP93001, M8204",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-266",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-266",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-266, used in AP93001"
+  "description": "Ward-Beck Systems sub-assembly SA14-266, used in AP93001",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-268-VU-Meter-Illumination-Assembly",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-268-VU-Meter-Illumination-Assembly",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-268 VU Meter Illumination Assembly, used in AP93001"
+  "description": "Ward-Beck Systems sub-assembly SA14-268 VU Meter Illumination Assembly, used in AP93001",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-273-10X1-Stereo-Selector-Assembly",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-273-10X1-Stereo-Selector-Assembly",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-273 10X1 Stereo Selector Assembly, used in AP93001, M905B"
+  "description": "Ward-Beck Systems sub-assembly SA14-273 10X1 Stereo Selector Assembly, used in AP93001, M905B",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-277",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-277",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-277"
+  "description": "Ward-Beck Systems sub-assembly SA14-277",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-279",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-279",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-279"
+  "description": "Ward-Beck Systems sub-assembly SA14-279",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-280-Input-Amplifier-Assembly",
   "path": "WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.SA14-280-Input-Amplifier-Assembly",
   "visibility": "public",
-  "description": "Ward-Beck Systems sub-assembly SA14-280 Input Amplifier Assembly, used in M901B"
+  "description": "Ward-Beck Systems sub-assembly SA14-280 Input Amplifier Assembly, used in M901B",
+  "done": true
  },
  {
   "name": "SUBASSEMBLY.SA14-281-Input-Amplifier-Assembly",

@@ -2419,3 +2419,7 @@
 	path = WBSps.ca/Github.WardBeckSystems/CONSOLE.ST-console-mono-and-st-schematics-for-back-planes
 	url = https://github.com/WardBeckSystems/CONSOLE.ST-console-mono-and-st-schematics-for-back-planes.git
 	branch = main
+[submodule "WBSps.ca/Github.WardBeckSystems/Ward-Beck-VST-Plugins"]
+	path = WBSps.ca/Github.WardBeckSystems/Ward-Beck-VST-Plugins
+	url = https://github.com/WardBeckSystems/Ward-Beck-VST-Plugins.git
+	branch = main

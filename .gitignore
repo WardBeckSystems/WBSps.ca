@@ -122,6 +122,7 @@ site/
 !/WBSps.ca/Github.WardBeckSystems/CONSOLE.*
 !/WBSps.ca/Github.WardBeckSystems/INTERCOM.*
 !/WBSps.ca/Github.WardBeckSystems/Microcom-Simulator
+!/WBSps.ca/Github.WardBeckSystems/Ward-Beck-VST-Plugins
 
 # 7 GB of recovered drives, distributed to repos by hand
 hard drive recovery/

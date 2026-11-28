@@ -63,7 +63,7 @@ Ward-Beck-Plugin-Core; the rest of 2030.env (engine, wbs_mxl_host, wbs_shell, we
 to its own repo.
 
 `2030.env` is the VST plugin development tree: renamed `Ward-Beck-VST-Plugins`, its own public repo
-WardBeckSystems/Ward-Beck-VST-Plugins, a submodule at the root (user, 2026-11-27). Each module's plugin
+WardBeckSystems/Ward-Beck-VST-Plugins, a submodule at WBSps.ca/Github.WardBeckSystems/Ward-Beck-VST-Plugins (every submodule lives there: user, 2026-11-27). Each module's plugin
 is also linked from that module's repo (SOFTWARE/README), not copied (one copy only).
 
 Duplicates (user, 2026-11-27): when two documents are the same, the newest / best copy stays (pictures:
