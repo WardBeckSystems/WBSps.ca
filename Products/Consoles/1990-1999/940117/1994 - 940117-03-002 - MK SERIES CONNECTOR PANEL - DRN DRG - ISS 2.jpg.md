@@ -31,7 +31,7 @@ Wiki page: [Job-940117](../../../../PAGES/Job-940117.md)
 - **Words (OCR):** 33 in 27 lines: dETAIL · RECCCORDINGLY · Racm · DETAI · REC D · ulall · DETAIL · MATERIAL: CRS: 0.059 ThHiCK · 0,150 · 0+55 · 0,270 · FINISH: SAND
 - **Title block:** (683, 46)–(852, 79) mm: ISSUFIDrTC · WBS WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1994 - 940117-03-002 - MK SERIES CONNECTOR PANEL - DRN DRG - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940117/1994%20-%20940117-03-002%20-%20MK%20SERIES%20CONNECTOR%20PANEL%20-%20DRN%20DRG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1994 - 940117-03-002 - MK SERIES CONNECTOR PANEL - DRN DRG - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940117-03-002 - MK SERIES CONNECTOR PANEL - DRN DRG - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.940117/1994%20-%20940117-03-002%20-%20MK%20SERIES%20CONNECTOR%20PANEL%20-%20DRN%20DRG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1994 - 940117-03-002 - MK SERIES CONNECTOR PANEL - DRN DRG - ISS 2 (traced).dxf`).
 
 ## Full text
 

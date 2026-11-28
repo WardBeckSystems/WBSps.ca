@@ -20,7 +20,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Closed boxes:** 43
 - **Wiring (first pass):** 157 connected wire groups from 682 runs
 
-Every curve, box, word and wire group: [1976 - 76045 - 76045-01-001 - EXTERNAL MON INPUTS ABM (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1976%20-%2076045%20-%2076045-01-001%20-%20EXTERNAL%20MON%20INPUTS%20ABM%20%28traced%29.json) (the CAD file: `1976 - 76045 - 76045-01-001 - EXTERNAL MON INPUTS ABM (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76045 - 76045-01-001 - EXTERNAL MON INPUTS ABM (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.760045-CFTO/1976%20-%2076045%20-%2076045-01-001%20-%20EXTERNAL%20MON%20INPUTS%20ABM%20%28traced%29.json) (the CAD file: `1976 - 76045 - 76045-01-001 - EXTERNAL MON INPUTS ABM (traced).dxf`).
 
 ## Full text
 

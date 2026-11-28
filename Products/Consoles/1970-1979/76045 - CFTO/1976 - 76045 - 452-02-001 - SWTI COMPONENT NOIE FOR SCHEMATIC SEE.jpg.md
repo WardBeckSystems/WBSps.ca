@@ -20,7 +20,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Closed boxes:** 10
 - **Wiring (first pass):** 72 connected wire groups from 749 runs
 
-Every curve, box, word and wire group: [1976 - 76045 - 452-02-001 - SWTI COMPONENT NOIE FOR SCHEMATIC SEE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1976%20-%2076045%20-%20452-02-001%20-%20SWTI%20COMPONENT%20NOIE%20FOR%20SCHEMATIC%20SEE%20%28traced%29.json) (the CAD file: `1976 - 76045 - 452-02-001 - SWTI COMPONENT NOIE FOR SCHEMATIC SEE (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76045 - 452-02-001 - SWTI COMPONENT NOIE FOR SCHEMATIC SEE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.760045-CFTO/1976%20-%2076045%20-%20452-02-001%20-%20SWTI%20COMPONENT%20NOIE%20FOR%20SCHEMATIC%20SEE%20%28traced%29.json) (the CAD file: `1976 - 76045 - 452-02-001 - SWTI COMPONENT NOIE FOR SCHEMATIC SEE (traced).dxf`).
 
 ## Full text
 

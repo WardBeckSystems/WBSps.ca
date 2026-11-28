@@ -1,5 +1,5 @@
 # 19xx - 14-058-02-001 - SA14-058 REGULATOR ASSEMBLY SCHEMATIC - ISS 1.jpg
-Wiki page: [M648](../../WBSps.ca/Github.WardBeckSystems/MODULES.POWER.M648-Power-Supply/)
+Wiki page: [M648](../../WBSps.ca/Github.WardBeckSystems/MODULES/POWER/MODULES.POWER.M648-Power-Supply/)
 
 
 - **Year:** unknown (title block (read by eye))

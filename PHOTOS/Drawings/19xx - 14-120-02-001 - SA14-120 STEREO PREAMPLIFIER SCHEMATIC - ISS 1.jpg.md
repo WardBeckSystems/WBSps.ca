@@ -1,5 +1,5 @@
 # 19xx - 14-120-02-001 - SA14-120 STEREO PREAMPLIFIER SCHEMATIC - ISS 1.jpg
-Wiki page: [M490N](../../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490N-Stereo-Input-Module/)
+Wiki page: [M490N](../../WBSps.ca/Github.WardBeckSystems/MODULES/INPUT-PRE-AMPS/MODULES.INPUT-PRE-AMPS.M490N-Stereo-Input-Module/)
 
 
 - **Year:** unknown (title block (read by eye))

@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (227, 6)–(335, 64) mm: Revision · WBS WARD-BECK BYBTEMB · WBS L2042 · CONSOLE · (STEREO VERSION B · CKD: · FUNCTIONAL · APP · SCALE · 77012-01-004 · ISSUE
 - **Wiring (first pass):** 115 connected wire groups from 662 runs; labelled ends: 120 mm → 'ubm CIS, Mon; 114 mm → Mon, 5010; 90 mm → {IBLQ MQNIQR MQQuLE; 88 mm → Udbm, comt; 87 mm → 0 CONT
 
-Every curve, box, word and wire group: [1977 - 77012 - DOC - 77012-01-004 - MUT DIR MILIA MOM OUT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.770012-04-002-L2042-layout-iss-5/1977%20-%2077012%20-%20DOC%20-%2077012-01-004%20-%20MUT%20DIR%20MILIA%20MOM%20OUT%20%28traced%29.json) (the CAD file: `1977 - 77012 - DOC - 77012-01-004 - MUT DIR MILIA MOM OUT (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 77012 - DOC - 77012-01-004 - MUT DIR MILIA MOM OUT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.770012-04-002-L2042-layout-iss-5/1977%20-%2077012%20-%20DOC%20-%2077012-01-004%20-%20MUT%20DIR%20MILIA%20MOM%20OUT%20%28traced%29.json) (the CAD file: `1977 - 77012 - DOC - 77012-01-004 - MUT DIR MILIA MOM OUT (traced).dxf`).
 
 ## Full text
 

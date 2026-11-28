@@ -33,7 +33,7 @@ Wiki page: [Job-940009](../../../../PAGES/Job-940009.md)
 - **Words (OCR):** 14 in 9 lines: il · 2034 · 88' 666 · WBS WARD BECK SYSTEMS · KCET · MicroCoM MATRIX · REAR LAYOUT · 940009- · 04-002
 - **Title block:** (682, 48)–(850, 80) mm: WBS WARD BECK SYSTEMS · KCET
 
-Every curve, box, word and wire group: [1994 - 940009-04-002 - KCET MicroCOM II MATRIX REAR LAYOUT - DRN WS - ENG WS - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.940009-KCET/1994%20-%20940009-04-002%20-%20KCET%20MicroCOM%20II%20MATRIX%20REAR%20LAYOUT%20-%20DRN%20WS%20-%20ENG%20WS%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1994 - 940009-04-002 - KCET MicroCOM II MATRIX REAR LAYOUT - DRN WS - ENG WS - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940009-04-002 - KCET MicroCOM II MATRIX REAR LAYOUT - DRN WS - ENG WS - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.940009-KCET/1994%20-%20940009-04-002%20-%20KCET%20MicroCOM%20II%20MATRIX%20REAR%20LAYOUT%20-%20DRN%20WS%20-%20ENG%20WS%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1994 - 940009-04-002 - KCET MicroCOM II MATRIX REAR LAYOUT - DRN WS - ENG WS - ISS 2 (traced).dxf`).
 
 ## Full text
 

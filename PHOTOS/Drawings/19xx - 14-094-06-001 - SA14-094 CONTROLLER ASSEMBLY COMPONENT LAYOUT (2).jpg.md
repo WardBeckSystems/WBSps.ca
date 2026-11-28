@@ -1,5 +1,5 @@
 # 19xx - 14-094-06-001 - SA14-094 CONTROLLER ASSEMBLY COMPONENT LAYOUT (2).jpg
-Wiki page: [M5200A](../../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M5200A-Controller-Module/)
+Wiki page: [M5200A](../../WBSps.ca/Github.WardBeckSystems/MODULES/INPUT-PRE-AMPS/MODULES.INPUT-PRE-AMPS.M5200A-Controller-Module/)
 
 
 - **Year:** unknown (title block (read by eye))

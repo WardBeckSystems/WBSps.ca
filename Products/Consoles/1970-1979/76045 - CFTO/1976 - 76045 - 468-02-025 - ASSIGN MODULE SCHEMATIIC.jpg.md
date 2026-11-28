@@ -23,7 +23,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Title block:** (143, 30)–(417, 82) mm: ISS MOD ICKD: · USED ON · MATL. · WBS WAAD-BECK sySTEMs LTD: · DRA PA · DATE SePt 7e · M468 M · FINISH · CKD: · AssiGN MoDuLE · SCHEMATIC · (SCALE · TOLS · ISS.
 - **Wiring (first pass):** 54 connected wire groups from 281 runs; labelled ends: 352 mm → 20, InpuT, Rt, 30k; 316 mm → InPUT, Sw2, Sw4, Rex; 238 mm → Sw, Sw3, Swi7, Vig; 178 mm → Rio, Rex, R1i; 71 mm → 468-02-025
 
-Every curve, box, word and wire group: [1976 - 76045 - 468-02-025 - ASSIGN MODULE SCHEMATIIC (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1976%20-%2076045%20-%20468-02-025%20-%20ASSIGN%20MODULE%20SCHEMATIIC%20%28traced%29.json) (the CAD file: `1976 - 76045 - 468-02-025 - ASSIGN MODULE SCHEMATIIC (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76045 - 468-02-025 - ASSIGN MODULE SCHEMATIIC (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.760045-CFTO/1976%20-%2076045%20-%20468-02-025%20-%20ASSIGN%20MODULE%20SCHEMATIIC%20%28traced%29.json) (the CAD file: `1976 - 76045 - 468-02-025 - ASSIGN MODULE SCHEMATIIC (traced).dxf`).
 
 ## Full text
 

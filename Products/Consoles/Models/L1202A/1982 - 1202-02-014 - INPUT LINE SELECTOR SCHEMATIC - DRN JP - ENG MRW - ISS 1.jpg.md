@@ -36,7 +36,7 @@ Wiki page: [L1202A](../../../../PAGES/L1202A.md)
 - **Title block:** (282, 2)–(432, 72) mm: ISSUE |DATE · REViSION · APP · WBS WARD-BECK SYSTEMS · DRN '9/82 JP · INPUT LINE · SELECTOR · ENG · Mw · CKd · SCHEMATIC · APP · SCALE · ISSUE · 1202-02-014
 - **Wiring (first pass):** 38 connected wire groups from 285 runs; labelled ends: 1746 mm → 02, Joutput, SELECTORS, 822; 192 mm → CUE; 28 mm → 7,h; 18 mm → 02, Joutput; 18 mm → Lzn
 
-Every curve, box, word and wire group: [1982 - 1202-02-014 - INPUT LINE SELECTOR SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.L1202A/1982%20-%201202-02-014%20-%20INPUT%20LINE%20SELECTOR%20SCHEMATIC%20-%20DRN%20JP%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1982 - 1202-02-014 - INPUT LINE SELECTOR SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - 1202-02-014 - INPUT LINE SELECTOR SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/MODEL/CONSOLE.MODEL.L1202A/1982%20-%201202-02-014%20-%20INPUT%20LINE%20SELECTOR%20SCHEMATIC%20-%20DRN%20JP%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1982 - 1202-02-014 - INPUT LINE SELECTOR SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).dxf`).
 
 ## Full text
 

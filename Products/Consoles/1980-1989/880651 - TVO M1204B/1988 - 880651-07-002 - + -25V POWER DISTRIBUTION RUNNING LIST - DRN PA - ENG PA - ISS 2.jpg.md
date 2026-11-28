@@ -31,7 +31,7 @@ Hand-filled power distribution wiring list table, title block at right reading s
 - **Circles and arcs:** 2 circles, 0 arcs; largest r 1.3 @ (407.1, 58.0), r 1.1 @ (394.4, 202.5)
 - **Closed boxes:** 231
 
-Every curve, box, word and wire group: [1988 - 880651-07-002 - + -25V POWER DISTRIBUTION RUNNING LIST - DRN PA - ENG PA - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880651-TVO-M1204B/1988%20-%20880651-07-002%20-%20+%20-25V%20POWER%20DISTRIBUTION%20RUNNING%20LIST%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1988 - 880651-07-002 - + -25V POWER DISTRIBUTION RUNNING LIST - DRN PA - ENG PA - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880651-07-002 - + -25V POWER DISTRIBUTION RUNNING LIST - DRN PA - ENG PA - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.880651-TVO-M1204B/1988%20-%20880651-07-002%20-%20+%20-25V%20POWER%20DISTRIBUTION%20RUNNING%20LIST%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1988 - 880651-07-002 - + -25V POWER DISTRIBUTION RUNNING LIST - DRN PA - ENG PA - ISS 2 (traced).dxf`).
 
 ## Full text
 

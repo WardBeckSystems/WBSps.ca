@@ -35,7 +35,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Title block:** (293, 6)–(432, 74) mm: ISSUE IDATE · REVISION · WBS WARD-BECK · SYSTEMS · DRN Srh · ENG. SRH · AkG REverB · ConTrolS · SCHEHATIC · CKD · APP · SCALE · 790236-02-015 · ISSUE
 - **Wiring (first pass):** 43 connected wire groups from 305 runs; labelled ends: 213 mm → 109; 124 mm → i06, 107; 106 mm → Tb2-, 103, 104; 100 mm → I6k, 25k; 41 mm → Te2- |15
 
-Every curve, box, word and wire group: [1979 - 790236-02-015 - AKG REVERB CONTROLS SCHEMATIC - DRN SRH - ENG SRH - ISS 1 (2) (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236-02-015%20-%20AKG%20REVERB%20CONTROLS%20SCHEMATIC%20-%20DRN%20SRH%20-%20ENG%20SRH%20-%20ISS%201%20%282%29%20%28traced%29.json) (the CAD file: `1979 - 790236-02-015 - AKG REVERB CONTROLS SCHEMATIC - DRN SRH - ENG SRH - ISS 1 (2) (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236-02-015 - AKG REVERB CONTROLS SCHEMATIC - DRN SRH - ENG SRH - ISS 1 (2) (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236-02-015%20-%20AKG%20REVERB%20CONTROLS%20SCHEMATIC%20-%20DRN%20SRH%20-%20ENG%20SRH%20-%20ISS%201%20%282%29%20%28traced%29.json) (the CAD file: `1979 - 790236-02-015 - AKG REVERB CONTROLS SCHEMATIC - DRN SRH - ENG SRH - ISS 1 (2) (traced).dxf`).
 
 ## Full text
 

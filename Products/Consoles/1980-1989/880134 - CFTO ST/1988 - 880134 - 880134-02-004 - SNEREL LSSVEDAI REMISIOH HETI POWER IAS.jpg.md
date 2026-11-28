@@ -23,7 +23,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Title block:** (339, 5)–(431, 43) mm: ISSUEI DATE · REMSION · APP; · WBS · WARD-BECK SYSTEMS · DRNPA_OB · MASTER CHANNEL · ENG: · CKD: · SCHEMATIC · SCALE DISC · 880134-02-004 · SSUE · CCDE 80134504
 - **Wiring (first pass):** 65 connected wire groups from 420 runs; labelled ends: 747 mm → SLATE, Vokd, STEAEO, 25v; 449 mm → Monior, VeTER, Uomntc?; 119 mm → FAMSF, Cott, Lideys; 105 mm → FLbie, Couk, S491; 32 mm → FAMSF, Cott
 
-Every curve, box, word and wire group: [1988 - 880134 - 880134-02-004 - SNEREL LSSVEDAI REMISIOH HETI POWER IAS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%20880134-02-004%20-%20SNEREL%20LSSVEDAI%20REMISIOH%20HETI%20POWER%20IAS%20%28traced%29.json) (the CAD file: `1988 - 880134 - 880134-02-004 - SNEREL LSSVEDAI REMISIOH HETI POWER IAS (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 880134-02-004 - SNEREL LSSVEDAI REMISIOH HETI POWER IAS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%20880134-02-004%20-%20SNEREL%20LSSVEDAI%20REMISIOH%20HETI%20POWER%20IAS%20%28traced%29.json) (the CAD file: `1988 - 880134 - 880134-02-004 - SNEREL LSSVEDAI REMISIOH HETI POWER IAS (traced).dxf`).
 
 ## Full text
 

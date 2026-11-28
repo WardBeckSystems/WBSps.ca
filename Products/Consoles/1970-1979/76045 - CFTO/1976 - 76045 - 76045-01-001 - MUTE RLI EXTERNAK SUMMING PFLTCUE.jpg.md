@@ -21,7 +21,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Words (OCR):** 187 in 157 lines: SUB-MAeTER · CHANNEL · 5ub-| · Bus · INseRT · SUB · iaBm · M468m SuB-i · FADER · ASSIGN · PS · Sub Master -i
 - **Wiring (first pass):** 113 connected wire groups from 392 runs; labelled ends: 154 mm → 5ub-|, Bus, M463m, Sub; 99 mm → ASSIGN, MODULE, 5uB-2; 78 mm → M-2; 77 mm → fo dem; 76 mm → M4e3m
 
-Every curve, box, word and wire group: [1976 - 76045 - 76045-01-001 - MUTE RLI EXTERNAK SUMMING PFLTCUE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1976%20-%2076045%20-%2076045-01-001%20-%20MUTE%20RLI%20EXTERNAK%20SUMMING%20PFLTCUE%20%28traced%29.json) (the CAD file: `1976 - 76045 - 76045-01-001 - MUTE RLI EXTERNAK SUMMING PFLTCUE (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76045 - 76045-01-001 - MUTE RLI EXTERNAK SUMMING PFLTCUE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.760045-CFTO/1976%20-%2076045%20-%2076045-01-001%20-%20MUTE%20RLI%20EXTERNAK%20SUMMING%20PFLTCUE%20%28traced%29.json) (the CAD file: `1976 - 76045 - 76045-01-001 - MUTE RLI EXTERNAK SUMMING PFLTCUE (traced).dxf`).
 
 ## Full text
 

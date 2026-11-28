@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 29 in 28 lines: DATUU · DATU · 02d · (2:1) · Mmhiy · 0.883 TP · AEFCRF · MATERIAL: · SEE BODY OF DRAMNG. · DATI · SAND 120 CRIT AND · PAINT
 - **Title block:** (342, 5)–(430, 39) mm: WBS · WARD-BECK SYSTEMS · IRN: · SAS · APC-88 · BRACE · SCALE CSC * · CCOE · 940335-03-002
 
-Every curve, box, word and wire group: [1994 - 940335 - DOC - 940335-03-002 - REMOVE ALL BURRS AND SHARP EDGES (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940335-CHFI/940335%20-%20CHFI/1994%20-%20940335%20-%20DOC%20-%20940335-03-002%20-%20REMOVE%20ALL%20BURRS%20AND%20SHARP%20EDGES%20%28traced%29.json) (the CAD file: `1994 - 940335 - DOC - 940335-03-002 - REMOVE ALL BURRS AND SHARP EDGES (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940335 - DOC - 940335-03-002 - REMOVE ALL BURRS AND SHARP EDGES (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.940335-CHFI/940335%20-%20CHFI/1994%20-%20940335%20-%20DOC%20-%20940335-03-002%20-%20REMOVE%20ALL%20BURRS%20AND%20SHARP%20EDGES%20%28traced%29.json) (the CAD file: `1994 - 940335 - DOC - 940335-03-002 - REMOVE ALL BURRS AND SHARP EDGES (traced).dxf`).
 
 ## Full text
 

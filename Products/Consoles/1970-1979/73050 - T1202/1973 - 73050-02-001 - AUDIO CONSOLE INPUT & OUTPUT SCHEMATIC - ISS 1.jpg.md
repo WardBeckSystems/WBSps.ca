@@ -37,7 +37,7 @@ Cropped photo of the audio console input and output schematic with title block a
 - **Title block:** (94, 15)–(244, 85) mm: WBS WAAD-BeCK BYSTEMS LTD_ · DRN · Rc · AUDIO CONSOLE · DATE SEpt · 73 · CKD. · Rc · SCALE · SCHEMATIC · TOLS
 - **Wiring (first pass):** 149 connected wire groups from 606 runs; labelled ends: 195 mm → 300; 155 mm → 300; 139 mm → 620; 126 mm → FINISH; 103 mm → 300, M2, Mit
 
-Every curve, box, word and wire group: [1973 - 73050-02-001 - AUDIO CONSOLE INPUT & OUTPUT SCHEMATIC - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.730050/1973%20-%2073050-02-001%20-%20AUDIO%20CONSOLE%20INPUT%20&%20OUTPUT%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1973 - 73050-02-001 - AUDIO CONSOLE INPUT & OUTPUT SCHEMATIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - 73050-02-001 - AUDIO CONSOLE INPUT & OUTPUT SCHEMATIC - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.730050/1973%20-%2073050-02-001%20-%20AUDIO%20CONSOLE%20INPUT%20&%20OUTPUT%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1973 - 73050-02-001 - AUDIO CONSOLE INPUT & OUTPUT SCHEMATIC - ISS 1 (traced).dxf`).
 
 ## Full text
 

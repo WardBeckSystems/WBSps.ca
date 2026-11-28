@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 33 in 25 lines: REQ'D · DETAI 4 - HEDD · RCo"d · Pitoc · O.6IC · 0.Xoz 0scto · 0JoD · 0,37E · MATERIAL: CRS: 059 THICK · FINISH: SAND 120 GRIT AND PAINT · TEXTURED BROVN (438C) · 'Glle
 - **Title block:** (344, 23)–(428, 39) mm: WBS) · WARD-BECK SYSTEMS · MK SERIES
 
-Every curve, box, word and wire group: [1994 - 940444 - DOC - 940444-06-001 - CODE DETAIL DETAIL DETAIL DETAIL GIK (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940444-WBZ-Boston/940444%20-%20WBZ/1994%20-%20940444%20-%20DOC%20-%20940444-06-001%20-%20CODE%20DETAIL%20DETAIL%20DETAIL%20DETAIL%20GIK%20%28traced%29.json) (the CAD file: `1994 - 940444 - DOC - 940444-06-001 - CODE DETAIL DETAIL DETAIL DETAIL GIK (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940444 - DOC - 940444-06-001 - CODE DETAIL DETAIL DETAIL DETAIL GIK (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.940444-WBZ-Boston/940444%20-%20WBZ/1994%20-%20940444%20-%20DOC%20-%20940444-06-001%20-%20CODE%20DETAIL%20DETAIL%20DETAIL%20DETAIL%20GIK%20%28traced%29.json) (the CAD file: `1994 - 940444 - DOC - 940444-06-001 - CODE DETAIL DETAIL DETAIL DETAIL GIK (traced).dxf`).
 
 ## Full text
 

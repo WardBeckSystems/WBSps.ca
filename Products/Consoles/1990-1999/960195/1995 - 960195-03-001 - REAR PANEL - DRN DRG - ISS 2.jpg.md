@@ -33,7 +33,7 @@ Wiki page: [Job-960195](../../../../PAGES/Job-960195.md)
 - **Words (OCR):** 33 in 30 lines: 4500 · pitctes · 0is DA · 04C0 · 2102 · 2.010 · DETA · DETAI · 0254 · PLICES · Dtin · 0.844
 - **Title block:** (663, 41)–(831, 74) mm: WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1995 - 960195-03-001 - REAR PANEL - DRN DRG - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.960195-CBC/960195/1995%20-%20960195-03-001%20-%20REAR%20PANEL%20-%20DRN%20DRG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1995 - 960195-03-001 - REAR PANEL - DRN DRG - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 960195-03-001 - REAR PANEL - DRN DRG - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.960195-CBC/960195/1995%20-%20960195-03-001%20-%20REAR%20PANEL%20-%20DRN%20DRG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1995 - 960195-03-001 - REAR PANEL - DRN DRG - ISS 2 (traced).dxf`).
 
 ## Full text
 

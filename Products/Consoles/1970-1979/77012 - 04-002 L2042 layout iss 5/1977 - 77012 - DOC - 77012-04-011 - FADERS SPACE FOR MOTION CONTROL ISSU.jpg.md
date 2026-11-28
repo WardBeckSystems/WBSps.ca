@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 48 in 39 lines: 4194 · Optional · 4i · EQUALIIERS · Line SELECTorS · 100 JacKS · optional PatchABLE · ANcIllary · OuT HOOULES · Lc/NG · Eo/fLtr · SEL
 - **Title block:** (226, 6)–(335, 65) mm: ISSUIDATE · REVISION · APP · WBS WAAD-BECK bybteMB · DRH · 248 WBS L2042 · CONSOLE · ENG_GEBc%/s · (STEREO VERSION · LAYOUT · APP · SCALE · 77012-04-011 · ISSUE
 
-Every curve, box, word and wire group: [1977 - 77012 - DOC - 77012-04-011 - FADERS SPACE FOR MOTION CONTROL ISSU (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.770012-04-002-L2042-layout-iss-5/1977%20-%2077012%20-%20DOC%20-%2077012-04-011%20-%20FADERS%20SPACE%20FOR%20MOTION%20CONTROL%20ISSU%20%28traced%29.json) (the CAD file: `1977 - 77012 - DOC - 77012-04-011 - FADERS SPACE FOR MOTION CONTROL ISSU (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 77012 - DOC - 77012-04-011 - FADERS SPACE FOR MOTION CONTROL ISSU (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.770012-04-002-L2042-layout-iss-5/1977%20-%2077012%20-%20DOC%20-%2077012-04-011%20-%20FADERS%20SPACE%20FOR%20MOTION%20CONTROL%20ISSU%20%28traced%29.json) (the CAD file: `1977 - 77012 - DOC - 77012-04-011 - FADERS SPACE FOR MOTION CONTROL ISSU (traced).dxf`).
 
 ## Full text
 

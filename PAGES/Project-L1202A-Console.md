@@ -16,7 +16,7 @@ tags: ["project", "2000s"]
 | Job number | none found yet |
 | Folder | [Consoles/2000-2009/Archived - Done - L1202A Console](../Products/Consoles/2000-2009/Archived%20-%20Done%20-%20L1202A%20Console/) |
 | Folder | [DOCUMENTS/Done/Done - L1202A Console](../DOCUMENTS/Done/Done%20-%20L1202A%20Console/) |
-| Folder | [Modules/AMPLIFIERS/M481B](../WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M481B-Cue-Oscillator-Re-entry-Module/) |
+| Folder | [Modules/AMPLIFIERS/M481B](../WBSps.ca/Github.WardBeckSystems/MODULES/AMPLIFIERS/MODULES.AMPLIFIERS.M481B-Cue-Oscillator-Re-entry-Module/) |
 
 ## Drawings (20)
 

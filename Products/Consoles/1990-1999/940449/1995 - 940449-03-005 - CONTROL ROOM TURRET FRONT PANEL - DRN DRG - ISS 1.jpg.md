@@ -32,7 +32,7 @@ Wiki page: [Job-940449](../../../../PAGES/Job-940449.md)
 - **Words (OCR):** 28 in 25 lines: INS4T · OTHFR SDE · 16710 · PITCHES · 7.505 15 |10 · Rzo d · 0j00 · 0,680 · 3760 · 2303 · MATERIAL: · ALUM ALLOY 0.125 THICK:
 - **Title block:** (687, 43)–(856, 76) mm: WBS · WARD-BECK SYSTEMS · CrC ?/95)
 
-Every curve, box, word and wire group: [1995 - 940449-03-005 - CONTROL ROOM TURRET FRONT PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940449-WBZ-Boston-Radio-Control-Turrets-Project-No/940449/1995%20-%20940449-03-005%20-%20CONTROL%20ROOM%20TURRET%20FRONT%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 940449-03-005 - CONTROL ROOM TURRET FRONT PANEL - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 940449-03-005 - CONTROL ROOM TURRET FRONT PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.940449-WBZ-Boston-Radio-Control-Turrets-Project-No/940449/1995%20-%20940449-03-005%20-%20CONTROL%20ROOM%20TURRET%20FRONT%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 940449-03-005 - CONTROL ROOM TURRET FRONT PANEL - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

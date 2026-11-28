@@ -32,7 +32,7 @@ Wiki page: [Job-940243](../../../../PAGES/Job-940243.md)
 - **Words (OCR):** 10 in 10 lines: VAT ( · oci · Cruto · WBS · WARD-BECK SYSTEMS · CENTENNIAL COLLEGE · 24*36 MinicoM · FRONT LAYOUT · DSC ND469 · 940243-04-001
 - **Title block:** (687, 45)–(856, 78) mm: WBS · WARD-BECK SYSTEMS · CENTENNIAL COLLEGE
 
-Every curve, box, word and wire group: [1994 - 940243-04-001 - CENTENNIAL COLLEGE 24x36 MiniCOM FRONT LAYOUT - DRN SM - ENG PA - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.940243-Centennial-College/940243%20-%20Centennial%20College/1994%20-%20940243-04-001%20-%20CENTENNIAL%20COLLEGE%2024x36%20MiniCOM%20FRONT%20LAYOUT%20-%20DRN%20SM%20-%20ENG%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940243-04-001 - CENTENNIAL COLLEGE 24x36 MiniCOM FRONT LAYOUT - DRN SM - ENG PA - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940243-04-001 - CENTENNIAL COLLEGE 24x36 MiniCOM FRONT LAYOUT - DRN SM - ENG PA - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.940243-Centennial-College/940243%20-%20Centennial%20College/1994%20-%20940243-04-001%20-%20CENTENNIAL%20COLLEGE%2024x36%20MiniCOM%20FRONT%20LAYOUT%20-%20DRN%20SM%20-%20ENG%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940243-04-001 - CENTENNIAL COLLEGE 24x36 MiniCOM FRONT LAYOUT - DRN SM - ENG PA - ISS 1 (traced).dxf`).
 
 ## Full text
 

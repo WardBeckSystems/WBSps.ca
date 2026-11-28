@@ -20,7 +20,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Closed boxes:** 85
 - **Wiring (first pass):** 25 connected wire groups from 768 runs
 
-Every curve, box, word and wire group: [1988 - 880134 - 3642-02-012 - ASTER AUX JDULES MODULES (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-012%20-%20ASTER%20AUX%20JDULES%20MODULES%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-012 - ASTER AUX JDULES MODULES (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 3642-02-012 - ASTER AUX JDULES MODULES (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-012%20-%20ASTER%20AUX%20JDULES%20MODULES%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-012 - ASTER AUX JDULES MODULES (traced).dxf`).
 
 ## Full text
 

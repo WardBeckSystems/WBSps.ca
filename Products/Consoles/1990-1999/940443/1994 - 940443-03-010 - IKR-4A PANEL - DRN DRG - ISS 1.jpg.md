@@ -31,7 +31,7 @@ Wiki page: [Job-940443](../../../../PAGES/Job-940443.md)
 - **Words (OCR):** 45 in 40 lines: I6.7I0 · PUNC  0 J80 · RREQE · 70,04 RAD Corneas · 0,200 · QSER DIPEMILF 04002,DP OTHER · "REC D · 0.546 · L-592 · 0,80} · 1.719 · 0.626
 - **Title block:** (688, 46)–(859, 79) mm: WBS WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1994 - 940443-03-010 - IKR-4A PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.940443/1994%20-%20940443-03-010%20-%20IKR-4A%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940443-03-010 - IKR-4A PANEL - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940443-03-010 - IKR-4A PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.940443/1994%20-%20940443-03-010%20-%20IKR-4A%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940443-03-010 - IKR-4A PANEL - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

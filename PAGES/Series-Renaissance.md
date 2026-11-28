@@ -123,17 +123,17 @@ _From the "List of separately supplied standard product manuals" in the MKI and 
 
 | Module | What it is |
 |---|---|
-| [M901A](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M901A-Universal-Input-Module/) | Input Module |
-| [M901B](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M901B-Mic-Input-Module/) | Mic Input Module |
-| [M901C](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M901C-Line-Input-Module/) | Stereo Line Input Module |
-| [M901D](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M901D-Input-Module/) | Stereo Input Module |
+| [M901A](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M901A-Universal-Input-Module/) | Input Module |
+| [M901B](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M901B-Mic-Input-Module/) | Mic Input Module |
+| [M901C](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M901C-Line-Input-Module/) | Stereo Line Input Module |
+| [M901D](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M901D-Input-Module/) | Stereo Input Module |
 | M901E | Stereo Input Module |
-| [M905A](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M905A-Control-Room-Monitor-Module/) | Control Room Monitor Module |
-| [M905B](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M905B-Studio-Monitor-Module/) | Studio Monitor Module |
-| [M907](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M907-Master-Module/) | Summing / Program Output Amplifier Module |
-| [M908](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M908-Dual-Stereo-Line-Selector/) | Dual 10×1 Stereo Selector Module |
-| [M909](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M909-Custom-Meter/) | Meter Mix / Minus Module |
-| [M922](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M922-Equalizer-Module/) | Stereo Equalizer Module |
+| [M905A](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M905A-Control-Room-Monitor-Module/) | Control Room Monitor Module |
+| [M905B](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M905B-Studio-Monitor-Module/) | Studio Monitor Module |
+| [M907](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M907-Master-Module/) | Summing / Program Output Amplifier Module |
+| [M908](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M908-Dual-Stereo-Line-Selector/) | Dual 10×1 Stereo Selector Module |
+| [M909](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M909-Custom-Meter/) | Meter Mix / Minus Module |
+| [M922](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M922-Equalizer-Module/) | Stereo Equalizer Module |
 | M922A | Mono Equalizer Module |
 | M924B | Power Supply |
 | TMR-IR | Timer |

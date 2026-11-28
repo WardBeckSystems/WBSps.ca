@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # Copyright (c) 2026 Ward-Beck Systems (Ward-Beck.com - Ward-Beck.ca). All rights reserved.
-"""Where the modules live: every module repo is a submodule at WBSps.ca/Github.WardBeckSystems/MODULES.<CAT>.<M>[-Function].
+"""Where the modules live: every module repo is a submodule in WBSps.ca/Github.WardBeckSystems/MODULES/ (its category's
+folder when ten or more share it: MODULES/<CAT>/MODULES.<CAT>.<M>[-Function]; tools/wbs_home.py).
 
     python3 tools/modules_home.py          # (re)build the 2026/Modules/<CAT>/<M> links
 
@@ -19,7 +20,7 @@ NAME = re.compile(r'^MODULES\.([A-Z0-9-]+)\.(R?[A-Z]*\d+[A-Z0-9]*?)(?:-.+)?$')
 def modules():
     """[(cat, code, clone dir)] for every module submodule in .gitmodules."""
     out = []
-    for path in re.findall(r'^\s*path = (WBSps\.ca/Github\.WardBeckSystems/MODULES\.[^\n]+)$', open(os.path.join(ROOT, '.gitmodules')).read(), re.M):
+    for path in re.findall(r'^\s*path = (WBSps\.ca/Github\.WardBeckSystems/(?:[^\n]*/)?MODULES\.[^\n/]+)$', open(os.path.join(ROOT, '.gitmodules')).read(), re.M):
         m = NAME.match(os.path.basename(path))
         if m:
             out.append((m.group(1), m.group(2), os.path.join(ROOT, path)))

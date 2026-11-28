@@ -32,7 +32,7 @@ Outline drawing of a modified IFB beltpack with top, side and bottom views.
 - **Words (OCR):** 29 in 23 lines: 3.75 in · 4.75 · (95 Mm) · (121 mm) · CAUTION 32v · HEADSET · .65 in · IPH-1E · mm) · OFF · LEVEL · HEADSET
 - **Title block:** (335, 27)–(425, 44) mm: WBS · WARD-BECK SYSTEMS · IPH-1E
 
-Every curve, box, word and wire group: [1994 - 940243-04-004 - IPH-1E MODIFIED IFB BELTPACK OUTLINE - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.940243-Centennial-College/940243/1994%20-%20940243-04-004%20-%20IPH-1E%20MODIFIED%20IFB%20BELTPACK%20OUTLINE%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940243-04-004 - IPH-1E MODIFIED IFB BELTPACK OUTLINE - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940243-04-004 - IPH-1E MODIFIED IFB BELTPACK OUTLINE - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.940243-Centennial-College/940243/1994%20-%20940243-04-004%20-%20IPH-1E%20MODIFIED%20IFB%20BELTPACK%20OUTLINE%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940243-04-004 - IPH-1E MODIFIED IFB BELTPACK OUTLINE - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -22,7 +22,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Title block:** (340, 1)–(431, 35) mm: SSUE DAW · REMSION · WBS · WARD-BECK SYSTEMS · IRN; D.s 5/88 · ENG_ · SUBMASTER CHANNEL · cd. · SCHEMATIC · ApP · SCALE DISC NO: 227 · ISSUE · CODE: 3642S03 · 3642-02-003
 - **Wiring (first pass):** 102 connected wire groups from 927 runs; labelled ends: 506 mm → DUSEDTO, 5253,54, 25v, CND; 496 mm → MODULE M528, To AuXJ_, LCOPED, SLBUASIER MCDulES; 338 mm → HuSAD, 57e54, 17.56, 18.,19,37; 308 mm → AJ, 4p, CONR, ~ibdbr; 131 mm → 4p, CONR
 
-Every curve, box, word and wire group: [1988 - 880134 - 3642-02-003 - CONTROLLER DATA BUS LOOPED SUBS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-003%20-%20CONTROLLER%20DATA%20BUS%20LOOPED%20SUBS%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-003 - CONTROLLER DATA BUS LOOPED SUBS (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 3642-02-003 - CONTROLLER DATA BUS LOOPED SUBS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-003%20-%20CONTROLLER%20DATA%20BUS%20LOOPED%20SUBS%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-003 - CONTROLLER DATA BUS LOOPED SUBS (traced).dxf`).
 
 ## Full text
 

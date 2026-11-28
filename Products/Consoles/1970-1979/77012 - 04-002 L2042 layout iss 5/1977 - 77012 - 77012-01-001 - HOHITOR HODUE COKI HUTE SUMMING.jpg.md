@@ -24,7 +24,7 @@ Wiki page: [Job-77012](../../../../PAGES/Job-77012.md)
 - **Title block:** (354, 6)–(432, 38) mm: 222244 05 4 · 24 · Issut · DATE · REVISION · APP · WBS · WARD-BECK systeMS · DRNSER · CONSOLE · ENG. ELJ · WBS L2042 · CKD: · APR · FUNCTIONAL DIAGRAM · AsCilF · 753
 - **Wiring (first pass):** 135 connected wire groups from 577 runs, 2 dotted junctions; labelled ends: 282 mm → Summing, BuS, ChAM, FADER; 266 mm → FAOrR, (25 dB!, UdBm, Adam; 188 mm → Ml, SELECTOR, COMT; 145 mm → cdbm, KOLo, cah, Wdkm; 119 mm → MaSTER, Sumhing, BUS, cah
 
-Every curve, box, word and wire group: [1977 - 77012 - 77012-01-001 - HOHITOR HODUE COKI HUTE SUMMING (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.770012-04-002-L2042-layout-iss-5/1977%20-%2077012%20-%2077012-01-001%20-%20HOHITOR%20HODUE%20COKI%20HUTE%20SUMMING%20%28traced%29.json) (the CAD file: `1977 - 77012 - 77012-01-001 - HOHITOR HODUE COKI HUTE SUMMING (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 77012 - 77012-01-001 - HOHITOR HODUE COKI HUTE SUMMING (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.770012-04-002-L2042-layout-iss-5/1977%20-%2077012%20-%2077012-01-001%20-%20HOHITOR%20HODUE%20COKI%20HUTE%20SUMMING%20%28traced%29.json) (the CAD file: `1977 - 77012 - 77012-01-001 - HOHITOR HODUE COKI HUTE SUMMING (traced).dxf`).
 
 ## Full text
 

@@ -1,17 +1,19 @@
 #!/usr/bin/env python3
 # Copyright (c) 2026 Ward-Beck Systems (Ward-Beck.com - Ward-Beck.ca). All rights reserved.
-"""Register submodules at their clone in WBSps.ca/Github.WardBeckSystems/<repo> (the one local copy).
+"""Register submodules at their clone in WBSps.ca/Github.WardBeckSystems/…/<repo> (the one local copy; tools/wbs_home.py).
 
     python3 tools/move_submodules_home.py PREFIX [PREFIX ...] [--dry-run]     # e.g. Products/Modules Products/Console
 
 For every submodule whose path is under a PREFIX: find its clone (the repo name, or the repo name plus its
 -Function suffix after a GitHub rename), check the clone holds the submodule's recorded commit, then
-  - the gitlink moves to WBSps.ca/Github.WardBeckSystems/<clone> at the clone's HEAD,
+  - the gitlink moves to the clone (WBSps.ca/Github.WardBeckSystems/…/<clone>) at the clone's HEAD,
   - .gitmodules gets the new path and the clone's own origin URL.
 The old checkout is left on disk (trash it after verifying: tools/trash_log.csv). Writes tools/submodule_moves.json
 {old path: new path} for tools/move_relink.py.
 """
 import json, os, re, subprocess, sys
+
+import wbs_home
 
 TOP = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 HOME = 'WBSps.ca/Github.WardBeckSystems'
@@ -29,7 +31,7 @@ def main():
     prefixes = [p.rstrip('/') for p in sys.argv[1:] if p != '--dry-run']
     text = open(os.path.join(TOP, '.gitmodules')).read()
     blocks = re.split(r'(?=^\[submodule )', text, flags=re.M)
-    clones = os.listdir(os.path.join(TOP, HOME))
+    clones = sorted(wbs_home.repos())   # every clone, wherever its family folder is
     index = {l.split('\t', 1)[1]: l.split()[1] for l in git('.', 'ls-files', '-s').stdout.splitlines() if l.startswith('160000')}
     moves, out, problems = {}, [], []
     for b in blocks:
@@ -42,7 +44,7 @@ def main():
         hit = [c for c in clones if c == name] or [c for c in clones if c.startswith(name + '-')]
         if len(hit) != 1:
             problems.append(f'{old}: clone of {name}: {hit or "none"}'); out.append(b); continue
-        new = f'{HOME}/{hit[0]}'
+        new = wbs_home.rel(hit[0])   # WBSps.ca/Github.WardBeckSystems/<family folders>/<clone>
         rec = index.get(old)
         head = git(new, 'rev-parse', 'HEAD').stdout.strip()
         if not rec or git(new, 'merge-base', '--is-ancestor', rec, head).returncode:

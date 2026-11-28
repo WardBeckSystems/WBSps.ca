@@ -30,9 +30,10 @@ from urllib.parse import quote
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import make_job_repos as J  # noqa: E402
+import wbs_home  # noqa: E402
 
 TOP = J.TOP
-G = os.path.join(TOP, 'WBSps.ca', 'Github.WardBeckSystems')
+G = wbs_home.HOME
 OWNER = 'WardBeckSystems'
 PILES = {('1960-1969', '1967-1969'), ('1970-1979', '1970-1979'), ('1980-1989', '1980-1989'), ('1980-1989', '1989-1999')}
 STAGE = os.path.join(os.environ.get('STAGE_DIR', '/tmp'), 'project-stage')
@@ -169,7 +170,7 @@ def make_repo(repo, about):
             print(f'  create {repo} failed ({r.stderr.strip()[:90]}); waiting {wait // 60} min', flush=True)
             time.sleep(wait)     # a rolling window: probe every 3 min rather than back off for long
         time.sleep(20)
-    clone = os.path.join(G, repo)
+    clone = wbs_home.repo_dir(repo)   # its family folder (CONSOLE/…, INTERCOM/…), wherever it is
     if not os.path.isdir(os.path.join(clone, '.git')):
         os.makedirs(clone, exist_ok=True)
         sh('git', 'init', '-q', '-b', 'main', clone)
@@ -219,7 +220,7 @@ def index():
     """Console and Intercom: one submodule per project (gitlinks only), README + jobs.csv."""
     state = load_state()
     for kind, (name, full, title, about) in J.REPOS.items():
-        repo = os.path.join(G, name)
+        repo = wbs_home.repo_dir(name)
         mine = {r: s for r, s in state.items() if s['kind'] == kind and s['sha']}
         keep = {'.git', '.gitmodules', '.gitignore', 'Microcom', 'Microcom-Simulator'}
         tracked = sh('git', '-C', repo, 'ls-files', '-z').stdout.split('\0')

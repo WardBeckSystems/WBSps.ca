@@ -21,7 +21,7 @@ Wiki page: [Job-840300](../../../../PAGES/Job-840300.md)
 - **Words (OCR):** 89 in 77 lines: E8E370 DIGITAL Timer · (SUPPLIED BY customer) · ESE172 DIGITAL CLoCK · (SUPPLIED BY customer) · AuXI · AUX2 · AUX? · Aux4 · MONO · Moho · 79418/88 · F84R21E88 3839
 - **Title block:** (354, 2)–(432, 40) mm: ISSUE (DATE · REVISION · WBS WARD-BECK SYSTEMS · WSVN · DRN-JeT · EHG . PA · C<D. · TV PROD CONSOLE · RIGHT LAYOUT · APP · SCALE · ISSUE · 4:1 · 840300-04-003
 
-Every curve, box, word and wire group: [1984 - 840300 - 840300-04-003 - DERS MACHINE CONTNOI PAMEL (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.840300/1984%20-%20840300%20-%20840300-04-003%20-%20DERS%20MACHINE%20CONTNOI%20PAMEL%20%28traced%29.json) (the CAD file: `1984 - 840300 - 840300-04-003 - DERS MACHINE CONTNOI PAMEL (traced).dxf`).
+Every curve, box, word and wire group: [1984 - 840300 - 840300-04-003 - DERS MACHINE CONTNOI PAMEL (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.840300/1984%20-%20840300%20-%20840300-04-003%20-%20DERS%20MACHINE%20CONTNOI%20PAMEL%20%28traced%29.json) (the CAD file: `1984 - 840300 - 840300-04-003 - DERS MACHINE CONTNOI PAMEL (traced).dxf`).
 
 ## Full text
 

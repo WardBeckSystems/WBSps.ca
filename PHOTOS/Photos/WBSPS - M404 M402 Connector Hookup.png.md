@@ -1,5 +1,5 @@
 # WBSPS - M404 M402 Connector Hookup.png
-Wiki page: [M404](../../WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M404-Equalizer/)
+Wiki page: [M404](../../WBSps.ca/Github.WardBeckSystems/MODULES/FILTERS/MODULES.FILTERS.M404-Equalizer/)
 
 
 - **Year:** unknown (title block (read by eye))

@@ -32,7 +32,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Closed boxes:** 23
 - **Wiring (first pass):** 62 connected wire groups from 591 runs
 
-Every curve, box, word and wire group: [1988 - 880134-02-015 - INTERCOM SCHEMATIC - DRN PA - ENG PA - ISS 1 (2) (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134-02-015%20-%20INTERCOM%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%201%20%282%29%20%28traced%29.json) (the CAD file: `1988 - 880134-02-015 - INTERCOM SCHEMATIC - DRN PA - ENG PA - ISS 1 (2) (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134-02-015 - INTERCOM SCHEMATIC - DRN PA - ENG PA - ISS 1 (2) (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134-02-015%20-%20INTERCOM%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%201%20%282%29%20%28traced%29.json) (the CAD file: `1988 - 880134-02-015 - INTERCOM SCHEMATIC - DRN PA - ENG PA - ISS 1 (2) (traced).dxf`).
 
 ## Full text
 

@@ -33,7 +33,7 @@ Wiki page: [Job-93039](../../../../PAGES/Job-93039.md)
 - **Title block:** (687, 29)–(856, 64) mm: BECK SYSTEMS · WBS · WARD- · CBC SR-398
 - **Wiring (first pass):** 176 connected wire groups from 1,718 runs, 2 dotted junctions; labelled ends: 16 mm → WBS, DGC_NC; 12 mm → UNIT, 001; 10 mm → COMMENTATOR, FUNCTIONAL, 93039-01; 10 mm → COMMENTATOR; 6 mm → WARD-
 
-Every curve, box, word and wire group: [1993 - 93039-01-001 - CBC SR-398 COMMENTATOR UNIT FUNCTIONAL - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.930039-CBC/1993%20-%2093039-01-001%20-%20CBC%20SR-398%20COMMENTATOR%20UNIT%20FUNCTIONAL%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1993 - 93039-01-001 - CBC SR-398 COMMENTATOR UNIT FUNCTIONAL - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - 93039-01-001 - CBC SR-398 COMMENTATOR UNIT FUNCTIONAL - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.930039-CBC/1993%20-%2093039-01-001%20-%20CBC%20SR-398%20COMMENTATOR%20UNIT%20FUNCTIONAL%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1993 - 93039-01-001 - CBC SR-398 COMMENTATOR UNIT FUNCTIONAL - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (347, 21)–(432, 40) mm: WARD-BECK SYSTEMS · WBS · CICI-TV/CKNC-TV SUDBURY
 - **Wiring (first pass):** 90 connected wire groups from 913 runs; labelled ends: 128 mm → WBS, CICI-TV/CKNC-TV SUDBURY, FUNCTIONAL, 002; 18 mm → BE; 13 mm → ra; 12 mm → Cafa; 12 mm → F8183
 
-Every curve, box, word and wire group: [1993 - 930007 - DOC - 930007-01-002 - VONTTOR TERUINAL METER PANEL AFVSICY (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.930007-CICI-TV-CKNC-TV-SUDBURY/1993%20-%20930007%20-%20DOC%20-%20930007-01-002%20-%20VONTTOR%20TERUINAL%20METER%20PANEL%20AFVSICY%20%28traced%29.json) (the CAD file: `1993 - 930007 - DOC - 930007-01-002 - VONTTOR TERUINAL METER PANEL AFVSICY (traced).dxf`).
+Every curve, box, word and wire group: [1993 - 930007 - DOC - 930007-01-002 - VONTTOR TERUINAL METER PANEL AFVSICY (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.930007-CICI-TV-CKNC-TV-SUDBURY/1993%20-%20930007%20-%20DOC%20-%20930007-01-002%20-%20VONTTOR%20TERUINAL%20METER%20PANEL%20AFVSICY%20%28traced%29.json) (the CAD file: `1993 - 930007 - DOC - 930007-01-002 - VONTTOR TERUINAL METER PANEL AFVSICY (traced).dxf`).
 
 ## Full text
 

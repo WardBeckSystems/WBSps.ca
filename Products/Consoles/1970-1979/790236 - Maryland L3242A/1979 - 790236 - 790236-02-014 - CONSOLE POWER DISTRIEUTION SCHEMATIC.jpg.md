@@ -23,7 +23,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Title block:** (355, 0)–(432, 38) mm: VISSUE |DATE · REvisioh · WBS WARD BECK SYSTEMS · DRN SRH · L32+2A CONSOLE · ENG · POWER · DISTRIEUTION · CKD · SCHEMATIC · SCALE · 7902.36 · 02 - 014 · ISSUE
 - **Wiring (first pass):** 192 connected wire groups from 887 runs; labelled ends: 324 mm → Sighae, SpolN=; 204 mm → MODULES Ch (-C44, Chs-ChB, STATION; 177 mm → (4472, nts; 83 mm → SpolN=; 82 mm → #470a, 047Z, 7147J4 SUBMASTER McElE=
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-02-014 - CONSOLE POWER DISTRIEUTION SCHEMATIC (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-02-014%20-%20CONSOLE%20POWER%20DISTRIEUTION%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-014 - CONSOLE POWER DISTRIEUTION SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-02-014 - CONSOLE POWER DISTRIEUTION SCHEMATIC (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-02-014%20-%20CONSOLE%20POWER%20DISTRIEUTION%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-014 - CONSOLE POWER DISTRIEUTION SCHEMATIC (traced).dxf`).
 
 ## Full text
 

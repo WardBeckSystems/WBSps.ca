@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (342, 23)–(427, 40) mm: RLVSON · WBS WARD- · BECK   SYSTEMS · CHCH TV 11
 - **Wiring (first pass):** 144 connected wire groups from 6,119 runs, 1267 dotted junctions; labelled ends: 89 mm → WBS, MATRIX FUNCTIONAL; 80 mm → Cacuit; 54 mm → DDOD; 54 mm → MATRIX FUNCTIONAL, 93018, 001; 50 mm → CacuiT
 
-Every curve, box, word and wire group: [1993 - 93018 - DOC - 93018-01-001 - SEND IFVTYRED MATRIX MODULES NOT SUPPUED ACPTCNAL NOT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.930018/1993%20-%2093018%20-%20DOC%20-%2093018-01-001%20-%20SEND%20IFVTYRED%20MATRIX%20MODULES%20NOT%20SUPPUED%20ACPTCNAL%20NOT%20%28traced%29.json) (the CAD file: `1993 - 93018 - DOC - 93018-01-001 - SEND IFVTYRED MATRIX MODULES NOT SUPPUED ACPTCNAL NOT (traced).dxf`).
+Every curve, box, word and wire group: [1993 - 93018 - DOC - 93018-01-001 - SEND IFVTYRED MATRIX MODULES NOT SUPPUED ACPTCNAL NOT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.930018/1993%20-%2093018%20-%20DOC%20-%2093018-01-001%20-%20SEND%20IFVTYRED%20MATRIX%20MODULES%20NOT%20SUPPUED%20ACPTCNAL%20NOT%20%28traced%29.json) (the CAD file: `1993 - 93018 - DOC - 93018-01-001 - SEND IFVTYRED MATRIX MODULES NOT SUPPUED ACPTCNAL NOT (traced).dxf`).
 
 ## Full text
 

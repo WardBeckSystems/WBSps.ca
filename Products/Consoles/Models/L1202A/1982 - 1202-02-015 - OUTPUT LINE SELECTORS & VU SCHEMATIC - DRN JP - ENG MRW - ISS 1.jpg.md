@@ -36,7 +36,7 @@ Wiki page: [L1202A](../../../../PAGES/L1202A.md)
 - **Title block:** (286, 1)–(432, 69) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK systems · DRN. 9/82 JP · ENG · MPw · OUTPUT LINE   SELECTORS & VU · CKd · SCHEMATIC · APP · SCALE · ISSUE · 1202-02-015
 - **Wiring (first pass):** 70 connected wire groups from 277 runs; labelled ends: 520 mm → LINE, LinE2, 14-002, I4-0.; 149 mm → LINE, 024, I4-0.; 147 mm → LinE2, 14-002; 122 mm → LinE2, LINE; 71 mm → I2N
 
-Every curve, box, word and wire group: [1982 - 1202-02-015 - OUTPUT LINE SELECTORS & VU SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.L1202A/1982%20-%201202-02-015%20-%20OUTPUT%20LINE%20SELECTORS%20&%20VU%20SCHEMATIC%20-%20DRN%20JP%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1982 - 1202-02-015 - OUTPUT LINE SELECTORS & VU SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - 1202-02-015 - OUTPUT LINE SELECTORS & VU SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/MODEL/CONSOLE.MODEL.L1202A/1982%20-%201202-02-015%20-%20OUTPUT%20LINE%20SELECTORS%20&%20VU%20SCHEMATIC%20-%20DRN%20JP%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1982 - 1202-02-015 - OUTPUT LINE SELECTORS & VU SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).dxf`).
 
 ## Full text
 

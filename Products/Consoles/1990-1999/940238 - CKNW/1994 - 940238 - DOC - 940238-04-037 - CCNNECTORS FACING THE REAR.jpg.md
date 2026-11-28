@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 16 in 14 lines: POAFR · CAELES · REUCHAL · CCNSCLE · CAALE · Co NECTCRS · FROHT · WBS · WARD-BECK SYSTEMS · CKNW CUSTOM · POWER INTERFACE · PANEL
 - **Title block:** (339, 23)–(423, 40) mm: WBS · WARD-BECK SYSTEMS · CKNW CUSTOM
 
-Every curve, box, word and wire group: [1994 - 940238 - DOC - 940238-04-037 - CCNNECTORS FACING THE REAR (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940238-CKNW/940238%20-%20CKNW/1994%20-%20940238%20-%20DOC%20-%20940238-04-037%20-%20CCNNECTORS%20FACING%20THE%20REAR%20%28traced%29.json) (the CAD file: `1994 - 940238 - DOC - 940238-04-037 - CCNNECTORS FACING THE REAR (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940238 - DOC - 940238-04-037 - CCNNECTORS FACING THE REAR (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.940238-CKNW/940238%20-%20CKNW/1994%20-%20940238%20-%20DOC%20-%20940238-04-037%20-%20CCNNECTORS%20FACING%20THE%20REAR%20%28traced%29.json) (the CAD file: `1994 - 940238 - DOC - 940238-04-037 - CCNNECTORS FACING THE REAR (traced).dxf`).
 
 ## Full text
 

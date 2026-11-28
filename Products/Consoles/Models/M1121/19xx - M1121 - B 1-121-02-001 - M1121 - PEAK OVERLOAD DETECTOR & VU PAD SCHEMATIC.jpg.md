@@ -22,7 +22,7 @@ Wiki page: [M1121](../../../../PAGES/M1121.md)
 - **Words (OCR):** 29 in 27 lines: PLD ? · 5 VoC · IN9/4 E3 · MeteR · CR4 · iOk 47k · INTS6 · CR3I4 · To LAMP · PLD ' · PAD 5 · INPUT
 - **Wiring (first pass):** 57 connected wire groups from 431 runs; labelled ends: 727 mm → ard, PEAK OvERLOAD LETECTOR, SCHEMATIC, 4-121-02-001; 226 mm → CR4, INTS6, CR3I4, iOk; 106 mm → iOk, 47k, CR4, INTS6; 56 mm → MeteR; 49 mm → 47k, CR3I4
 
-Every curve, box, word and wire group: [19xx - M1121 - B 1-121-02-001 - M1121 - PEAK OVERLOAD DETECTOR & VU PAD SCHEMATIC (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.M1121/19xx%20-%20M1121%20-%20B%201-121-02-001%20-%20M1121%20-%20PEAK%20OVERLOAD%20DETECTOR%20&%20VU%20PAD%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - M1121 - B 1-121-02-001 - M1121 - PEAK OVERLOAD DETECTOR & VU PAD SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M1121 - B 1-121-02-001 - M1121 - PEAK OVERLOAD DETECTOR & VU PAD SCHEMATIC (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/MODEL/CONSOLE.MODEL.M1121/19xx%20-%20M1121%20-%20B%201-121-02-001%20-%20M1121%20-%20PEAK%20OVERLOAD%20DETECTOR%20&%20VU%20PAD%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - M1121 - B 1-121-02-001 - M1121 - PEAK OVERLOAD DETECTOR & VU PAD SCHEMATIC (traced).dxf`).
 
 ## Full text
 

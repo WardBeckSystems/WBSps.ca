@@ -24,7 +24,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Title block:** (347, 20)–(431, 36) mm: WBS · WARD-BECK SYSTEMS
 - **Wiring (first pass):** 294 connected wire groups from 6,987 runs; labelled ends: 18 mm → WBS; 7 mm → JACKFIELD
 
-Every curve, box, word and wire group: [1988 - 880134 - 880134-02-014 - CCR'ECTIC TRAE NVET CCHNECTIO' (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%20880134-02-014%20-%20CCR%27ECTIC%20TRAE%20NVET%20CCHNECTIO%27%20%28traced%29.json) (the CAD file: `1988 - 880134 - 880134-02-014 - CCR'ECTIC TRAE NVET CCHNECTIO' (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 880134-02-014 - CCR'ECTIC TRAE NVET CCHNECTIO' (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%20880134-02-014%20-%20CCR%27ECTIC%20TRAE%20NVET%20CCHNECTIO%27%20%28traced%29.json) (the CAD file: `1988 - 880134 - 880134-02-014 - CCR'ECTIC TRAE NVET CCHNECTIO' (traced).dxf`).
 
 ## Full text
 

@@ -32,7 +32,7 @@ Meter/VU drive module schematic Title block at top right reading downward.
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 70 connected wire groups from 493 runs, 3 dotted junctions
 
-Every curve, box, word and wire group: [1994 - 940238-02-080 - M909NW METER MIX-MINUS MODULE SCHEMATIC - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940238-CKNW/940238/1994%20-%20940238-02-080%20-%20M909NW%20METER%20MIX-MINUS%20MODULE%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940238-02-080 - M909NW METER MIX-MINUS MODULE SCHEMATIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940238-02-080 - M909NW METER MIX-MINUS MODULE SCHEMATIC - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.940238-CKNW/940238/1994%20-%20940238-02-080%20-%20M909NW%20METER%20MIX-MINUS%20MODULE%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940238-02-080 - M909NW METER MIX-MINUS MODULE SCHEMATIC - ISS 1 (traced).dxf`).
 
 ## Full text
 

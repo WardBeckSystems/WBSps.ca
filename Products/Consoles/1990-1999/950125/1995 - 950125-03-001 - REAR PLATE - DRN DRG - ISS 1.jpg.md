@@ -30,7 +30,7 @@ Wiki page: [Job-950125](../../../../PAGES/Job-950125.md)
 - **Circles and arcs:** 4 circles, 26 arcs; largest r 12.0 @ (699.1, 347.6), r 12.0 @ (699.3, 396.2), r 6.0 @ (363.9, 326.4), r 2.5 @ (320.8, 418.9)
 - **Closed boxes:** 81
 
-Every curve, box, word and wire group: [1995 - 950125-03-001 - REAR PLATE - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.950125/1995%20-%20950125-03-001%20-%20REAR%20PLATE%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 950125-03-001 - REAR PLATE - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 950125-03-001 - REAR PLATE - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.950125/1995%20-%20950125-03-001%20-%20REAR%20PLATE%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 950125-03-001 - REAR PLATE - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -20,7 +20,7 @@ Wiki page: [Job-77012](../../../../PAGES/Job-77012.md)
 - **Words (OCR):** 12 in 9 lines: RLYEOR · WBS · WAAD-DeCk SysteMS · DRN Beu L · WBS L2042 · CONSOLE · AuDIO CONSOLE · OUTLINE · 77012 - 04 001
 - **Title block:** (354, 7)–(432, 32) mm: RLYEOR · WBS · WAAD-DeCk SysteMS · DRN Beu L · WBS L2042 · CONSOLE · AuDIO CONSOLE · OUTLINE
 
-Every curve, box, word and wire group: [1977 - 77012 - 77012-04-001 - CONSOLE CKOTOIJ AUDIO CONSOLE OUTLINE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.770012-04-002-L2042-layout-iss-5/1977%20-%2077012%20-%2077012-04-001%20-%20CONSOLE%20CKOTOIJ%20AUDIO%20CONSOLE%20OUTLINE%20%28traced%29.json) (the CAD file: `1977 - 77012 - 77012-04-001 - CONSOLE CKOTOIJ AUDIO CONSOLE OUTLINE (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 77012 - 77012-04-001 - CONSOLE CKOTOIJ AUDIO CONSOLE OUTLINE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.770012-04-002-L2042-layout-iss-5/1977%20-%2077012%20-%2077012-04-001%20-%20CONSOLE%20CKOTOIJ%20AUDIO%20CONSOLE%20OUTLINE%20%28traced%29.json) (the CAD file: `1977 - 77012 - 77012-04-001 - CONSOLE CKOTOIJ AUDIO CONSOLE OUTLINE (traced).dxf`).
 
 ## Full text
 

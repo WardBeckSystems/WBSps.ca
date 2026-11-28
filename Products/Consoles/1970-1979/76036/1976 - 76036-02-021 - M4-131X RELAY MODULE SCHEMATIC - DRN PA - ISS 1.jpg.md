@@ -32,7 +32,7 @@ Wiki page: [Job-76036](../../../../PAGES/Job-76036.md)
 - **Closed boxes:** 29
 - **Wiring (first pass):** 36 connected wire groups from 428 runs
 
-Every curve, box, word and wire group: [1976 - 76036-02-021 - M4-131X RELAY MODULE SCHEMATIC - DRN PA - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760036/1976%20-%2076036-02-021%20-%20M4-131X%20RELAY%20MODULE%20SCHEMATIC%20-%20DRN%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1976 - 76036-02-021 - M4-131X RELAY MODULE SCHEMATIC - DRN PA - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76036-02-021 - M4-131X RELAY MODULE SCHEMATIC - DRN PA - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.760036/1976%20-%2076036-02-021%20-%20M4-131X%20RELAY%20MODULE%20SCHEMATIC%20-%20DRN%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1976 - 76036-02-021 - M4-131X RELAY MODULE SCHEMATIC - DRN PA - ISS 1 (traced).dxf`).
 
 ## Full text
 

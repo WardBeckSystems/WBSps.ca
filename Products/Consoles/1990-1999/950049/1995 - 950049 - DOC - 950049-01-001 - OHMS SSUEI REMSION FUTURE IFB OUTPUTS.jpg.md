@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (341, 6)–(429, 40) mm: REvSDX · WBS · WARD-BECK SYSTEMS · 24XC8C MniCoM · FUNCTIONAL · SCALE · 950049-01-001
 - **Wiring (first pass):** 250 connected wire groups from 4,227 runs; labelled ends: 154 mm → UbRE; 150 mm → hl; 16 mm → SECTUONSR; 12 mm → hl; 11 mm → C107, 11
 
-Every curve, box, word and wire group: [1995 - 950049 - DOC - 950049-01-001 - OHMS SSUEI REMSION FUTURE IFB OUTPUTS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.950049/1995%20-%20950049%20-%20DOC%20-%20950049-01-001%20-%20OHMS%20SSUEI%20REMSION%20FUTURE%20IFB%20OUTPUTS%20%28traced%29.json) (the CAD file: `1995 - 950049 - DOC - 950049-01-001 - OHMS SSUEI REMSION FUTURE IFB OUTPUTS (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 950049 - DOC - 950049-01-001 - OHMS SSUEI REMSION FUTURE IFB OUTPUTS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.950049/1995%20-%20950049%20-%20DOC%20-%20950049-01-001%20-%20OHMS%20SSUEI%20REMSION%20FUTURE%20IFB%20OUTPUTS%20%28traced%29.json) (the CAD file: `1995 - 950049 - DOC - 950049-01-001 - OHMS SSUEI REMSION FUTURE IFB OUTPUTS (traced).dxf`).
 
 ## Full text
 

@@ -32,7 +32,7 @@ Wiki page: [Job-950362](../../../../PAGES/Job-950362.md)
 - **Words (OCR):** 26 in 23 lines: 17.1o · 540-1 · 7.555 15.110 · 3,555 · DETAIL · REQ'D · 0,600 · MATERIAL: · ALUM ALLOY 0.125 · ThICK: · FINISH: SAND · 120 GRIT AND
 - **Title block:** (680, 43)–(848, 77) mm: WARD-BECK SYSTEMS · WBS · METER PANEL
 
-Every curve, box, word and wire group: [1995 - 950362-03-001 - METER PANEL (6 X EDGEWISE) - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.950362/1995%20-%20950362-03-001%20-%20METER%20PANEL%20%286%20X%20EDGEWISE%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 950362-03-001 - METER PANEL (6 X EDGEWISE) - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 950362-03-001 - METER PANEL (6 X EDGEWISE) - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.950362/1995%20-%20950362-03-001%20-%20METER%20PANEL%20%286%20X%20EDGEWISE%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 950362-03-001 - METER PANEL (6 X EDGEWISE) - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

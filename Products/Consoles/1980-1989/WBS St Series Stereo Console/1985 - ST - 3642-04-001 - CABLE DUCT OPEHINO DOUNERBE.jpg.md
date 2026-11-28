@@ -19,7 +19,7 @@ Wiki page: [Consoles](../../../../PAGES/Consoles.md)
 - **Words (OCR):** 24 in 21 lines: CABLE duct Opehino 00in.460 ooln.-70.20mmi1411.40mm · 150.24mm · 45-60in · 33.5Oin. · 050.90mm · 45.sOln. · 1166.70mm · CABLE duct Opening ooin, · ooln · h0mm · 473 · Toin
 - **Title block:** (356, 0)–(396, 32) mm: WBS · CKD · SCALE
 
-Every curve, box, word and wire group: [1985 - ST - 3642-04-001 - CABLE DUCT OPEHINO DOUNERBE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.WBS-St-Series-Stereo-Console/1985%20-%20ST%20-%203642-04-001%20-%20CABLE%20DUCT%20OPEHINO%20DOUNERBE%20%28traced%29.json) (the CAD file: `1985 - ST - 3642-04-001 - CABLE DUCT OPEHINO DOUNERBE (traced).dxf`).
+Every curve, box, word and wire group: [1985 - ST - 3642-04-001 - CABLE DUCT OPEHINO DOUNERBE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.WBS-St-Series-Stereo-Console/1985%20-%20ST%20-%203642-04-001%20-%20CABLE%20DUCT%20OPEHINO%20DOUNERBE%20%28traced%29.json) (the CAD file: `1985 - ST - 3642-04-001 - CABLE DUCT OPEHINO DOUNERBE (traced).dxf`).
 
 ## Full text
 

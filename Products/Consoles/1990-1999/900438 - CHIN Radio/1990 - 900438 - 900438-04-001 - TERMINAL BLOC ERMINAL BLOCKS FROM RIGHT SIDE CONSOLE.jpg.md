@@ -17,7 +17,7 @@ Wiki page: [Job-900438](../../../../PAGES/Job-900438.md)
 - **Outlines:** line 252 rings, 2,755 straight (7,696 mm) / 386 curved (512 mm); text 80 rings, 528 straight (609 mm) / 183 curved (247 mm)
 - **Closed boxes:** 4
 
-Every curve, box, word and wire group: [1990 - 900438 - 900438-04-001 - TERMINAL BLOC ERMINAL BLOCKS FROM RIGHT SIDE CONSOLE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.900438-CHIN-Radio/1990%20-%20900438%20-%20900438-04-001%20-%20TERMINAL%20BLOC%20ERMINAL%20BLOCKS%20FROM%20RIGHT%20SIDE%20CONSOLE%20%28traced%29.json) (the CAD file: `1990 - 900438 - 900438-04-001 - TERMINAL BLOC ERMINAL BLOCKS FROM RIGHT SIDE CONSOLE (traced).dxf`).
+Every curve, box, word and wire group: [1990 - 900438 - 900438-04-001 - TERMINAL BLOC ERMINAL BLOCKS FROM RIGHT SIDE CONSOLE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.900438-CHIN-Radio/1990%20-%20900438%20-%20900438-04-001%20-%20TERMINAL%20BLOC%20ERMINAL%20BLOCKS%20FROM%20RIGHT%20SIDE%20CONSOLE%20%28traced%29.json) (the CAD file: `1990 - 900438 - 900438-04-001 - TERMINAL BLOC ERMINAL BLOCKS FROM RIGHT SIDE CONSOLE (traced).dxf`).
 
 ## Full text
 

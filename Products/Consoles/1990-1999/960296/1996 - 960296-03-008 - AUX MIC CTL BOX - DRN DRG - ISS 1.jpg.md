@@ -31,7 +31,7 @@ Wiki page: [Job-960296](../../../../PAGES/Job-960296.md)
 - **Words (OCR):** 26 in 26 lines: JCUNC · PLicG · 0.710 · 1,844 · Sand 120 · 0.+CD · 0.800 · PUNC' · DETAIL · FNGER · RLCSDESIDE · HEEDED
 - **Title block:** (667, 42)–(834, 82) mm: ISSUELDATE · WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1996 - 960296-03-008 - AUX MIC CTL BOX - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.960296-CBC-REGINA/960296/1996%20-%20960296-03-008%20-%20AUX%20MIC%20CTL%20BOX%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1996 - 960296-03-008 - AUX MIC CTL BOX - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1996 - 960296-03-008 - AUX MIC CTL BOX - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.960296-CBC-REGINA/960296/1996%20-%20960296-03-008%20-%20AUX%20MIC%20CTL%20BOX%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1996 - 960296-03-008 - AUX MIC CTL BOX - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -32,7 +32,7 @@ Wiki page: [Job-940246](../../../../PAGES/Job-940246.md)
 - **Words (OCR):** 30 in 26 lines: 83 · DATM · 15z8 · 1017 · 0,257 · REC D · 5150 · 0.je5 · DETAIL · DETAIL · 5080 · MATERIAL:
 - **Title block:** (687, 46)–(856, 79) mm: SsufiATF · WBS · WARD-BECK  SYSTEMS
 
-Every curve, box, word and wire group: [1994 - 940246-03-002 - METER PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.940246/1994%20-%20940246-03-002%20-%20METER%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940246-03-002 - METER PANEL - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940246-03-002 - METER PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.940246/1994%20-%20940246-03-002%20-%20METER%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940246-03-002 - METER PANEL - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

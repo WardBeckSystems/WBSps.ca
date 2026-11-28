@@ -1,5 +1,5 @@
 # 1978 - 8-109-02-002 - 8-109A OUTPUT AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (2).jpg
-Wiki page: [M463AC](../../WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M463AC-Master-Module/)
+Wiki page: [M463AC](../../WBSps.ca/Github.WardBeckSystems/MODULES/SUMMING/MODULES.SUMMING.M463AC-Master-Module/)
 
 
 - **Year:** 1978 (title block date)

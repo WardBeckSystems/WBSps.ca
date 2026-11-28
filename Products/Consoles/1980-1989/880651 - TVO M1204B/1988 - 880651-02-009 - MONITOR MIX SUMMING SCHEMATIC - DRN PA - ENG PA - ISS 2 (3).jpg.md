@@ -34,7 +34,7 @@ Wiki page: [Job-880651](../../../../PAGES/Job-880651.md)
 - **Title block:** (90, 33)–(423, 102) mm: #2/88 CHANGED POTS To 2k LIN · ISSUE DATE · REVISION · APP · (0 dB) · WBS · WARD-BECK SYSTEMS · DRN_ PA · 10 88 · ENG_ PA · MONITOR MIX · SUMMING · SCHEMA TIC · CKD · APP · CW · WBS · 10-023 · SCALE D
 - **Wiring (first pass):** 40 connected wire groups from 232 runs; labelled ends: 195 mm → 2X15K, M450B, 2x15kk, 3,5; 150 mm → 2X15k, 2x15k; 127 mm → TRACK; 108 mm → M45OB; 89 mm → Bl, 880651-02-009
 
-Every curve, box, word and wire group: [1988 - 880651-02-009 - MONITOR MIX SUMMING SCHEMATIC - DRN PA - ENG PA - ISS 2 (3) (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880651-TVO-M1204B/1988%20-%20880651-02-009%20-%20MONITOR%20MIX%20SUMMING%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%202%20%283%29%20%28traced%29.json) (the CAD file: `1988 - 880651-02-009 - MONITOR MIX SUMMING SCHEMATIC - DRN PA - ENG PA - ISS 2 (3) (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880651-02-009 - MONITOR MIX SUMMING SCHEMATIC - DRN PA - ENG PA - ISS 2 (3) (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.880651-TVO-M1204B/1988%20-%20880651-02-009%20-%20MONITOR%20MIX%20SUMMING%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%202%20%283%29%20%28traced%29.json) (the CAD file: `1988 - 880651-02-009 - MONITOR MIX SUMMING SCHEMATIC - DRN PA - ENG PA - ISS 2 (3) (traced).dxf`).
 
 ## Full text
 

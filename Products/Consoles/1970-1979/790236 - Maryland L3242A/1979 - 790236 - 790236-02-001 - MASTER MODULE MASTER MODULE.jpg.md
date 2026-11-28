@@ -22,7 +22,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Title block:** (141, 29)–(415, 80) mm: USED ON · MATL. · IsS MOD.ICKD: · WBS WAAD-BECK sysTeMs LTD · DRN · Srh · L3242A · CONSCLE · FIMISH · DATE 4va.4/79 · iNPUT Slb ETaStER CAANNELS · CKD · KC · SCALE · SCHEMATIC · TOLS · 790236 02-001 ·
 - **Wiring (first pass):** 129 connected wire groups from 690 runs; labelled ends: 155 mm → TOLS; 154 mm → TOLS; 121 mm → IOon, 'Izw, +24v, I0o n; 90 mm → MASTER, 68, FADER, (~-iSdB); 85 mm → 20, Com
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-02-001 - MASTER MODULE MASTER MODULE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-02-001%20-%20MASTER%20MODULE%20MASTER%20MODULE%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-001 - MASTER MODULE MASTER MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-02-001 - MASTER MODULE MASTER MODULE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-02-001%20-%20MASTER%20MODULE%20MASTER%20MODULE%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-001 - MASTER MODULE MASTER MODULE (traced).dxf`).
 
 ## Full text
 

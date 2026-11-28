@@ -19,7 +19,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Closed boxes:** 59
 - **Dots (junctions):** 1
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-04-017 - REAR VIEW SHOWING COMFONENT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-04-017%20-%20REAR%20VIEW%20SHOWING%20COMFONENT%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-04-017 - REAR VIEW SHOWING COMFONENT (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-04-017 - REAR VIEW SHOWING COMFONENT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-04-017%20-%20REAR%20VIEW%20SHOWING%20COMFONENT%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-04-017 - REAR VIEW SHOWING COMFONENT (traced).dxf`).
 
 ## Full text
 

@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (338, 19)–(421, 36) mm: WBS · WARD-BECK  SYSTEMS · ONTARIO JOCKEY CLUB
 - **Wiring (first pass):** 112 connected wire groups from 5,745 runs, 1722 dotted junctions; labelled ends: 6 mm → INTERCOM, FUNCTIONAL, 96019-01-001; 6 mm → 96019-01-001; 5 mm → PACCCC'; 5 mm → PACCCC'
 
-Every curve, box, word and wire group: [1996 - 96019 - DOC - 96019-01-001 - FUTURE SSUE REVISION (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.960019/1996%20-%2096019%20-%20DOC%20-%2096019-01-001%20-%20FUTURE%20SSUE%20REVISION%20%28traced%29.json) (the CAD file: `1996 - 96019 - DOC - 96019-01-001 - FUTURE SSUE REVISION (traced).dxf`).
+Every curve, box, word and wire group: [1996 - 96019 - DOC - 96019-01-001 - FUTURE SSUE REVISION (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.960019/1996%20-%2096019%20-%20DOC%20-%2096019-01-001%20-%20FUTURE%20SSUE%20REVISION%20%28traced%29.json) (the CAD file: `1996 - 96019 - DOC - 96019-01-001 - FUTURE SSUE REVISION (traced).dxf`).
 
 ## Full text
 

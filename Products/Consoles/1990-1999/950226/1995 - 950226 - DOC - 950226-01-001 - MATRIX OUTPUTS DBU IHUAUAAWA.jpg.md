@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (342, 23)–(427, 40) mm: #4904 · WBS · WARD-BECK SYSTEMS · MOTOROLA CANADA
 - **Wiring (first pass):** 300 connected wire groups from 5,820 runs, 78 dotted junctions; labelled ends: 133 mm → WBS, 48X48    MICROCOM SYSTEM, S4F, 001; 26 mm → CoNsoles; 6 mm → CMPUS
 
-Every curve, box, word and wire group: [1995 - 950226 - DOC - 950226-01-001 - MATRIX OUTPUTS DBU IHUAUAAWA (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.950226/1995%20-%20950226%20-%20DOC%20-%20950226-01-001%20-%20MATRIX%20OUTPUTS%20DBU%20IHUAUAAWA%20%28traced%29.json) (the CAD file: `1995 - 950226 - DOC - 950226-01-001 - MATRIX OUTPUTS DBU IHUAUAAWA (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 950226 - DOC - 950226-01-001 - MATRIX OUTPUTS DBU IHUAUAAWA (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.950226/1995%20-%20950226%20-%20DOC%20-%20950226-01-001%20-%20MATRIX%20OUTPUTS%20DBU%20IHUAUAAWA%20%28traced%29.json) (the CAD file: `1995 - 950226 - DOC - 950226-01-001 - MATRIX OUTPUTS DBU IHUAUAAWA (traced).dxf`).
 
 ## Full text
 

@@ -33,7 +33,7 @@ Intercom panel (24 way) machining drawing with title block at bottom right.
 - **Words (OCR):** 52 in 49 lines: pitckes · 7.555 1510 · 0?00 · 16 710 · DETAIL · 04400 · OTHERCSIDE · REQ'0 · REC'D · 0-200 · 0.500 · 0-680
 - **Title block:** (687, 29)–(854, 63) mm: WARD-BECK   SYSTEMS · WBS · INTERCOM
 
-Every curve, box, word and wire group: [1996 - 960312-03-001 - INTERCOM PANEL (24 WAY) - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.960312/1996%20-%20960312-03-001%20-%20INTERCOM%20PANEL%20%2824%20WAY%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1996 - 960312-03-001 - INTERCOM PANEL (24 WAY) - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1996 - 960312-03-001 - INTERCOM PANEL (24 WAY) - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.960312/1996%20-%20960312-03-001%20-%20INTERCOM%20PANEL%20%2824%20WAY%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1996 - 960312-03-001 - INTERCOM PANEL (24 WAY) - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -20,7 +20,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Words (OCR):** 45 in 37 lines: (zate) 756 · 330 · Ikz · (iode) Ike · FROM MonitoR · split PADS · Mc · 4ux · JBr · (-ioab · 430 · M2
 - **Wiring (first pass):** 96 connected wire groups from 511 runs; labelled ends: 70 mm → Mc; 48 mm → 4ux; 24 mm → Ext 2; 15 mm → Te =, 6 (46; 14 mm → (iode), Ikz
 
-Every curve, box, word and wire group: [1976 - 76045 - 76045-02-006 - IKZ IODE FROM MONITOR SPLIT PADS COABM (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1976%20-%2076045%20-%2076045-02-006%20-%20IKZ%20IODE%20FROM%20MONITOR%20SPLIT%20PADS%20COABM%20%28traced%29.json) (the CAD file: `1976 - 76045 - 76045-02-006 - IKZ IODE FROM MONITOR SPLIT PADS COABM (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76045 - 76045-02-006 - IKZ IODE FROM MONITOR SPLIT PADS COABM (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.760045-CFTO/1976%20-%2076045%20-%2076045-02-006%20-%20IKZ%20IODE%20FROM%20MONITOR%20SPLIT%20PADS%20COABM%20%28traced%29.json) (the CAD file: `1976 - 76045 - 76045-02-006 - IKZ IODE FROM MONITOR SPLIT PADS COABM (traced).dxf`).
 
 ## Full text
 

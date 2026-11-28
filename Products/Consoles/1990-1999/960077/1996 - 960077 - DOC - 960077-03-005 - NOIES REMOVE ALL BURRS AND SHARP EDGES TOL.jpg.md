@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 41 in 40 lines: 0 225 · 0750 · 0125 · DEIAL_A · DEIAI · 0,50 D · PLACES · 2000 · OLACES · 7975 · 0,en0 · Dgod
 - **Title block:** (344, 17)–(429, 39) mm: ISSUE DATE · WBS · WARD-BECK SYSTEMS · REAR PANEL
 
-Every curve, box, word and wire group: [1996 - 960077 - DOC - 960077-03-005 - NOIES REMOVE ALL BURRS AND SHARP EDGES TOL (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.960077/1996%20-%20960077%20-%20DOC%20-%20960077-03-005%20-%20NOIES%20REMOVE%20ALL%20BURRS%20AND%20SHARP%20EDGES%20TOL%20%28traced%29.json) (the CAD file: `1996 - 960077 - DOC - 960077-03-005 - NOIES REMOVE ALL BURRS AND SHARP EDGES TOL (traced).dxf`).
+Every curve, box, word and wire group: [1996 - 960077 - DOC - 960077-03-005 - NOIES REMOVE ALL BURRS AND SHARP EDGES TOL (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.960077/1996%20-%20960077%20-%20DOC%20-%20960077-03-005%20-%20NOIES%20REMOVE%20ALL%20BURRS%20AND%20SHARP%20EDGES%20TOL%20%28traced%29.json) (the CAD file: `1996 - 960077 - DOC - 960077-03-005 - NOIES REMOVE ALL BURRS AND SHARP EDGES TOL (traced).dxf`).
 
 ## Full text
 

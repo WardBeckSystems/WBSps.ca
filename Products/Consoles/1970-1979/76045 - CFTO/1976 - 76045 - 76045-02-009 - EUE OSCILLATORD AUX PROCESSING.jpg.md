@@ -20,7 +20,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Closed boxes:** 40
 - **Wiring (first pass):** 31 connected wire groups from 314 runs
 
-Every curve, box, word and wire group: [1976 - 76045 - 76045-02-009 - EUE OSCILLATORD AUX PROCESSING (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1976%20-%2076045%20-%2076045-02-009%20-%20EUE%20OSCILLATORD%20AUX%20PROCESSING%20%28traced%29.json) (the CAD file: `1976 - 76045 - 76045-02-009 - EUE OSCILLATORD AUX PROCESSING (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76045 - 76045-02-009 - EUE OSCILLATORD AUX PROCESSING (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.760045-CFTO/1976%20-%2076045%20-%2076045-02-009%20-%20EUE%20OSCILLATORD%20AUX%20PROCESSING%20%28traced%29.json) (the CAD file: `1976 - 76045 - 76045-02-009 - EUE OSCILLATORD AUX PROCESSING (traced).dxf`).
 
 ## Full text
 

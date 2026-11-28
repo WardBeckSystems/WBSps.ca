@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (340, 5)–(428, 39) mm: WARD-BECK SYSTEMS · WBS · MATRIX FUNCTIONAL · CBC EDMONTON · SCALE · 95021-01-002
 - **Wiring (first pass):** 302 connected wire groups from 3,882 runs, 8 dotted junctions; labelled ends: 38 mm → fcis; 27 mm → fczi; 17 mm → AFD; 17 mm → AFD; 17 mm → JFL8I ,
 
-Every curve, box, word and wire group: [1995 - 95021 - DOC - 95021-01-002 - TRIX FUNCTIONAL MATRIX OUTPUTS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.950021/1995%20-%2095021%20-%20DOC%20-%2095021-01-002%20-%20TRIX%20FUNCTIONAL%20MATRIX%20OUTPUTS%20%28traced%29.json) (the CAD file: `1995 - 95021 - DOC - 95021-01-002 - TRIX FUNCTIONAL MATRIX OUTPUTS (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 95021 - DOC - 95021-01-002 - TRIX FUNCTIONAL MATRIX OUTPUTS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.950021/1995%20-%2095021%20-%20DOC%20-%2095021-01-002%20-%20TRIX%20FUNCTIONAL%20MATRIX%20OUTPUTS%20%28traced%29.json) (the CAD file: `1995 - 95021 - DOC - 95021-01-002 - TRIX FUNCTIONAL MATRIX OUTPUTS (traced).dxf`).
 
 ## Full text
 

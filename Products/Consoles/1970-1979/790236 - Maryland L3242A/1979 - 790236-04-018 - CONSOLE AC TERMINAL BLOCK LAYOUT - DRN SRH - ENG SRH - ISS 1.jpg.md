@@ -29,7 +29,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Circles and arcs:** 34 circles, 0 arcs; largest r 5.0 @ (187.3, 230.1), r 5.0 @ (121.1, 229.6), r 5.0 @ (188.7, 99.4), r 4.9 @ (122.6, 98.7)
 - **Closed boxes:** 29
 
-Every curve, box, word and wire group: [1979 - 790236-04-018 - CONSOLE AC TERMINAL BLOCK LAYOUT - DRN SRH - ENG SRH - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236-04-018%20-%20CONSOLE%20AC%20TERMINAL%20BLOCK%20LAYOUT%20-%20DRN%20SRH%20-%20ENG%20SRH%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1979 - 790236-04-018 - CONSOLE AC TERMINAL BLOCK LAYOUT - DRN SRH - ENG SRH - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236-04-018 - CONSOLE AC TERMINAL BLOCK LAYOUT - DRN SRH - ENG SRH - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236-04-018%20-%20CONSOLE%20AC%20TERMINAL%20BLOCK%20LAYOUT%20-%20DRN%20SRH%20-%20ENG%20SRH%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1979 - 790236-04-018 - CONSOLE AC TERMINAL BLOCK LAYOUT - DRN SRH - ENG SRH - ISS 1 (traced).dxf`).
 
 ## Full text
 

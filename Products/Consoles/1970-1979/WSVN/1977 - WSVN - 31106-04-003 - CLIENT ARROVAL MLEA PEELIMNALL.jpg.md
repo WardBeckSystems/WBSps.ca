@@ -21,7 +21,7 @@ Wiki page: [Consoles](../../../../PAGES/Consoles.md)
 - **Words (OCR):** 13 in 12 lines: LEGEND · ROW · EunIO · CONYECTED · JOURCE 5 · CON DLL · CONSLLE · 40444 · No4u · WBS WARD-BECK SYSTEMS · Latout · 31106-04-003/
 - **Title block:** (358, 18)–(432, 33) mm: WBS WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1977 - WSVN - 31106-04-003 - CLIENT ARROVAL MLEA PEELIMNALL (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.WSVN/1977%20-%20WSVN%20-%2031106-04-003%20-%20CLIENT%20ARROVAL%20MLEA%20PEELIMNALL%20%28traced%29.json) (the CAD file: `1977 - WSVN - 31106-04-003 - CLIENT ARROVAL MLEA PEELIMNALL (traced).dxf`).
+Every curve, box, word and wire group: [1977 - WSVN - 31106-04-003 - CLIENT ARROVAL MLEA PEELIMNALL (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.WSVN/1977%20-%20WSVN%20-%2031106-04-003%20-%20CLIENT%20ARROVAL%20MLEA%20PEELIMNALL%20%28traced%29.json) (the CAD file: `1977 - WSVN - 31106-04-003 - CLIENT ARROVAL MLEA PEELIMNALL (traced).dxf`).
 
 ## Full text
 

@@ -35,7 +35,7 @@ Wiki page: [Job-820321](../../../../PAGES/Job-820321.md)
 - **Title block:** (208, 1)–(432, 48) mm: From · CTL · wBs · 297 Nt77 · LQLZ · SubMaSTER · OliUles · cor · For INTERLOCK · Se5 Owg · 0B2032/-01-002 · CONTROLS · IsSUE DATE · REVISION · APP · 424V · (OM · WBS WARD-BECK SySTEMB · (-1548) 820 · 
 - **Wiring (first pass):** 127 connected wire groups from 789 runs, 1 dotted junctions; labelled ends: 129 mm → SNBMASTER GHANNEL L, ARE, Idertiga, M47RA; 117 mm → SNBMASTER GHANNEL L, ARE, Idertiga, M47RA; 91 mm → Note); 79 mm → 70", Ei, 770*, 70*; 77 mm → MASTER ^HANNEL, (Hi AND, H1, NasLER
 
-Every curve, box, word and wire group: [1982 - 820321-02-001 - INPUT, SUB & MASTER CHANNELS SCHEMATIC - DRN Relle - ENG PA - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.820321/1982%20-%20820321-02-001%20-%20INPUT,%20SUB%20&%20MASTER%20CHANNELS%20SCHEMATIC%20-%20DRN%20Relle%20-%20ENG%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1982 - 820321-02-001 - INPUT, SUB & MASTER CHANNELS SCHEMATIC - DRN Relle - ENG PA - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - 820321-02-001 - INPUT, SUB & MASTER CHANNELS SCHEMATIC - DRN Relle - ENG PA - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.820321/1982%20-%20820321-02-001%20-%20INPUT,%20SUB%20&%20MASTER%20CHANNELS%20SCHEMATIC%20-%20DRN%20Relle%20-%20ENG%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1982 - 820321-02-001 - INPUT, SUB & MASTER CHANNELS SCHEMATIC - DRN Relle - ENG PA - ISS 1 (traced).dxf`).
 
 ## Full text
 

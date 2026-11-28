@@ -20,7 +20,7 @@ Wiki page: [Consoles](../../../../PAGES/Consoles.md)
 - **Words (OCR):** 17 in 14 lines: issue |DATE · REVISION · WBS WARD-BECK SYSTEME · DRN.BD 83 · M527 · ENG · Mru · MASTER MODULE · CKD: · FRONT PANEL LAYOUT · APR_EA · SCALE
 - **Title block:** (77, 1)–(194, 77) mm: issue |DATE · REVISION · WBS WARD-BECK SYSTEME · DRN.BD 83 · M527 · ENG · Mru · MASTER MODULE · CKD: · FRONT PANEL LAYOUT · APR_EA · SCALE · 527-04-001
 
-Every curve, box, word and wire group: [1985 - ST - 527-04-001 - FRONT PANEL LAYOUT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.WBS-St-Series-Stereo-Console/1985%20-%20ST%20-%20527-04-001%20-%20FRONT%20PANEL%20LAYOUT%20%28traced%29.json) (the CAD file: `1985 - ST - 527-04-001 - FRONT PANEL LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1985 - ST - 527-04-001 - FRONT PANEL LAYOUT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.WBS-St-Series-Stereo-Console/1985%20-%20ST%20-%20527-04-001%20-%20FRONT%20PANEL%20LAYOUT%20%28traced%29.json) (the CAD file: `1985 - ST - 527-04-001 - FRONT PANEL LAYOUT (traced).dxf`).
 
 ## Full text
 

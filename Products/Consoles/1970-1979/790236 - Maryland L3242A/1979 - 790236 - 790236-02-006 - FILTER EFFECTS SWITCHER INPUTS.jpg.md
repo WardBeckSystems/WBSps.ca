@@ -20,7 +20,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Words (OCR):** 33 in 29 lines: Tb6 · JOdBm · 6200 · 12,822 · 70 · M464 · Ch 1 · L2 · Ela · (25) · FILTER 29 · 21 20
 - **Wiring (first pass):** 38 connected wire groups from 269 runs; labelled ends: 192 mm → 6200, 5.8, 10; 88 mm → 133,134, 220; 68 mm → #ZAV, 24v, COH, 22; 65 mm → FILTER, 21, 20, 23y; 61 mm → 70
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-02-006 - FILTER EFFECTS SWITCHER INPUTS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-02-006%20-%20FILTER%20EFFECTS%20SWITCHER%20INPUTS%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-006 - FILTER EFFECTS SWITCHER INPUTS (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-02-006 - FILTER EFFECTS SWITCHER INPUTS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-02-006%20-%20FILTER%20EFFECTS%20SWITCHER%20INPUTS%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-006 - FILTER EFFECTS SWITCHER INPUTS (traced).dxf`).
 
 ## Full text
 

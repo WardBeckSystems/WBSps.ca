@@ -20,7 +20,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Words (OCR):** 127 in 94 lines: INEL · SUBMASTER CHAANEL | · IDLNTICAL) · SUE To SUB 4 · ARE DenTICAL) · Su8i · 9/0 eki · VU · Ml · 18 51 · 3k6 · M47ZA
 - **Wiring (first pass):** 111 connected wire groups from 514 runs; labelled ends: 147 mm → 20; 98 mm → 5E, 70 8-, 704, 70-4; 66 mm → 1.8; 65 mm → 18, 51, F4r0 ?; 58 mm → 20, Com
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-02-001 - ALL SUBMASTER MODULES COM LOOPED ALL INPUT KDULES (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-02-001%20-%20ALL%20SUBMASTER%20MODULES%20COM%20LOOPED%20ALL%20INPUT%20KDULES%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-001 - ALL SUBMASTER MODULES COM LOOPED ALL INPUT KDULES (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-02-001 - ALL SUBMASTER MODULES COM LOOPED ALL INPUT KDULES (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-02-001%20-%20ALL%20SUBMASTER%20MODULES%20COM%20LOOPED%20ALL%20INPUT%20KDULES%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-001 - ALL SUBMASTER MODULES COM LOOPED ALL INPUT KDULES (traced).dxf`).
 
 ## Full text
 

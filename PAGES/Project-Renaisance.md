@@ -22,8 +22,8 @@ Console series: [Renaissance](Series-Renaissance.md)
 
 ## Modules
 
-- [M901BY](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M901BY-Custom-Input-Module/) — CONNECTOR DETAIL _(UNSORTED)_
-- [M901CY](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M901CY-Custom-Input-Module/) _(UNSORTED)_
+- [M901BY](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M901BY-Custom-Input-Module/) — CONNECTOR DETAIL _(UNSORTED)_
+- [M901CY](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M901CY-Custom-Input-Module/) _(UNSORTED)_
 
 ## Drawings (34)
 

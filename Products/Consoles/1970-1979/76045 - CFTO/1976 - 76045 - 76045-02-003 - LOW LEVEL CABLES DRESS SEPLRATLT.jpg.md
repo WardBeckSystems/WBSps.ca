@@ -20,7 +20,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Words (OCR):** 56 in 48 lines: Low LEVEL Cables · FROM M46BM · M4c3m · PiNs (6 T · SUB MODULE · LDENTICAL · To · S4B4CHANNELS ARE · INSERT · -{0ABm · iOaBm · LOoPED
 - **Wiring (first pass):** 54 connected wire groups from 265 runs; labelled ends: 44 mm → S4B4CHANNELS; 44 mm → Mt Bus, 54; 30 mm → 0"M; 30 mm → 25v; 29 mm → Mt Bus, 54, M2 8Js, 7H
 
-Every curve, box, word and wire group: [1976 - 76045 - 76045-02-003 - LOW LEVEL CABLES DRESS SEPLRATLT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1976%20-%2076045%20-%2076045-02-003%20-%20LOW%20LEVEL%20CABLES%20DRESS%20SEPLRATLT%20%28traced%29.json) (the CAD file: `1976 - 76045 - 76045-02-003 - LOW LEVEL CABLES DRESS SEPLRATLT (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76045 - 76045-02-003 - LOW LEVEL CABLES DRESS SEPLRATLT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.760045-CFTO/1976%20-%2076045%20-%2076045-02-003%20-%20LOW%20LEVEL%20CABLES%20DRESS%20SEPLRATLT%20%28traced%29.json) (the CAD file: `1976 - 76045 - 76045-02-003 - LOW LEVEL CABLES DRESS SEPLRATLT (traced).dxf`).
 
 ## Full text
 

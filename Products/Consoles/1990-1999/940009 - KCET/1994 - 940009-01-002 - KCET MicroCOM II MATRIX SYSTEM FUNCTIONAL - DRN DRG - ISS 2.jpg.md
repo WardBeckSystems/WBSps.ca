@@ -34,7 +34,7 @@ Wiki page: [Job-940009](../../../../PAGES/Job-940009.md)
 - **Title block:** (678, 8)–(854, 95) mm: UPDATED 45 PER · CUSTOVER RECUEST; · WBS · WARD-BECK SYSTEMS · KCET · SYSTEM FUNCTIONAL · MicroCoM · MATRIX · SCALE Idisc NO: · 940009 · 002
 - **Wiring (first pass):** 110 connected wire groups from 975 runs; labelled ends: 21 mm → TCiRcUITS; 18 mm → TciRcUITS; 6 mm → TciRcUITS; 6 mm → TciRcUITS; 6 mm → MNTERCONNECTING
 
-Every curve, box, word and wire group: [1994 - 940009-01-002 - KCET MicroCOM II MATRIX SYSTEM FUNCTIONAL - DRN DRG - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.940009-KCET/1994%20-%20940009-01-002%20-%20KCET%20MicroCOM%20II%20MATRIX%20SYSTEM%20FUNCTIONAL%20-%20DRN%20DRG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1994 - 940009-01-002 - KCET MicroCOM II MATRIX SYSTEM FUNCTIONAL - DRN DRG - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940009-01-002 - KCET MicroCOM II MATRIX SYSTEM FUNCTIONAL - DRN DRG - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.940009-KCET/1994%20-%20940009-01-002%20-%20KCET%20MicroCOM%20II%20MATRIX%20SYSTEM%20FUNCTIONAL%20-%20DRN%20DRG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1994 - 940009-01-002 - KCET MicroCOM II MATRIX SYSTEM FUNCTIONAL - DRN DRG - ISS 2 (traced).dxf`).
 
 ## Full text
 

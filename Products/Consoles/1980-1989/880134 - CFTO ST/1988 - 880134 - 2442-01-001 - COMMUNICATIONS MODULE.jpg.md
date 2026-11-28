@@ -22,7 +22,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Words (OCR):** 35 in 28 lines: SUB SUB 1-R · 4M435 · 48 € 8 · M523_STEREQ_SUBMASTER (4) · INSERTS · MONITOR · dBm · MONITOR · I( -15dB) · OL SUB · dBm · 6000
 - **Wiring (first pass):** 139 connected wire groups from 1,083 runs, 1 dotted junctions; labelled ends: 4560 mm → 48 € 8, COMMUNCATONS_MQDULE; 906 mm → COMMUNCATONS_MQDULE, 0T/8 DIRECT, 01/8; 397 mm → 48 € 8, M523_STEREQ_SUBMASTER (4), M523 STEREO; 261 mm → 48 € 8; 110 mm → I( -15dB)
 
-Every curve, box, word and wire group: [1988 - 880134 - 2442-01-001 - COMMUNICATIONS MODULE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%202442-01-001%20-%20COMMUNICATIONS%20MODULE%20%28traced%29.json) (the CAD file: `1988 - 880134 - 2442-01-001 - COMMUNICATIONS MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 2442-01-001 - COMMUNICATIONS MODULE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%202442-01-001%20-%20COMMUNICATIONS%20MODULE%20%28traced%29.json) (the CAD file: `1988 - 880134 - 2442-01-001 - COMMUNICATIONS MODULE (traced).dxf`).
 
 ## Full text
 

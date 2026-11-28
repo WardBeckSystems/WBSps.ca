@@ -15,9 +15,11 @@ retired once the repo is on GitHub (then the site links point here). No empty fo
 import os, re, shutil, sys
 from urllib.parse import unquote
 
+import wbs_home
+
 TOP = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 G = os.path.join(TOP, 'WBSps.ca', 'Github.WardBeckSystems')
-OUT = os.path.join(G, 'Transformers')
+OUT = wbs_home.repo_dir('Transformers')
 SITE = 'https://wardbecksystems.github.io/WBSps.ca/'
 GROUPS = [('Input-transformers-60-n', '60-n Input', 'input transformers'),
           ('Output-transformers-70-n', '70-n Output', 'output transformers'),
@@ -28,7 +30,9 @@ FOOT = os.path.join(TOP, '2026', 'PARTS', 'Footprints', 'Transformer #footprint'
 def find_picture(rel):
     """A register link (from PAGES/) -> the picture's file now: the repo clone first, then the site."""
     p = os.path.normpath(os.path.join('PAGES', unquote(rel))).replace(os.sep, '/')
-    for c in (os.path.join(G, p), os.path.join(TOP, p), os.path.join(TOP, '2026', p)):
+    first, _, rest = p.partition('/')
+    clone = os.path.join(wbs_home.repo_dir(first), rest) if first in wbs_home.repos() else os.path.join(G, p)
+    for c in (clone, os.path.join(TOP, p), os.path.join(TOP, '2026', p)):
         if os.path.isfile(c):
             return c, p
     return None, p

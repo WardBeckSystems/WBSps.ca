@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (333, 12)–(426, 49) mm: WBS · WARD-BECK SYSTEMS · CBC VANCOUVER · STUDIO · INTERCOM  FUNCTIONAL · SCALE Idisc NDi Stsdi · CCDE_ 95053702 · 95033-01-002
 - **Wiring (first pass):** 158 connected wire groups from 5,783 runs; labelled ends: 107 mm → 20; 39 mm → 20; 12 mm → 20; 9 mm → 20; 6 mm → 20
 
-Every curve, box, word and wire group: [1995 - 95033 - DOC - 95033-01-002 - CUTPUTS FUMURF OUTPUTS IFB CUTPUTS SSUE REVSION (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.950033/1995%20-%2095033%20-%20DOC%20-%2095033-01-002%20-%20CUTPUTS%20FUMURF%20OUTPUTS%20IFB%20CUTPUTS%20SSUE%20REVSION%20%28traced%29.json) (the CAD file: `1995 - 95033 - DOC - 95033-01-002 - CUTPUTS FUMURF OUTPUTS IFB CUTPUTS SSUE REVSION (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 95033 - DOC - 95033-01-002 - CUTPUTS FUMURF OUTPUTS IFB CUTPUTS SSUE REVSION (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.950033/1995%20-%2095033%20-%20DOC%20-%2095033-01-002%20-%20CUTPUTS%20FUMURF%20OUTPUTS%20IFB%20CUTPUTS%20SSUE%20REVSION%20%28traced%29.json) (the CAD file: `1995 - 95033 - DOC - 95033-01-002 - CUTPUTS FUMURF OUTPUTS IFB CUTPUTS SSUE REVSION (traced).dxf`).
 
 ## Full text
 

@@ -19,7 +19,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Circles and arcs:** 7 circles, 55 arcs; largest r 3.7 @ (4.0, 255.3), r 3.6 @ (4.2, 143.6), r 1.2 @ (283.0, 211.3), r 1.2 @ (295.7, 81.3)
 - **Wiring (first pass):** 31 connected wire groups from 260 runs
 
-Every curve, box, word and wire group: [1988 - 880134 - 3642-02-005 - DISTRIBUTION LISTS CHASS CONTROL (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-005%20-%20DISTRIBUTION%20LISTS%20CHASS%20CONTROL%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-005 - DISTRIBUTION LISTS CHASS CONTROL (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 3642-02-005 - DISTRIBUTION LISTS CHASS CONTROL (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-005%20-%20DISTRIBUTION%20LISTS%20CHASS%20CONTROL%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-005 - DISTRIBUTION LISTS CHASS CONTROL (traced).dxf`).
 
 ## Full text
 

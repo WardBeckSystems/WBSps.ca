@@ -19,7 +19,7 @@ Wiki page: [Consoles](../../../../PAGES/Consoles.md)
 - **Words (OCR):** 29 in 26 lines: WBS · 45z24 · ath · CHI · 40 · 140 · 100 · 18 · 59 · 20d · Hz · ISSUE DATE
 - **Title block:** (22, 5)–(210, 418) mm: WBS · 45z24 · ath · CHI · 40 · 140 · 100 · 18 · 59 · 20d · Hz · ISSUE DATE · REVISION · WBS WARO-BECK SYSTEM: · DRN: BD 49 · 84 · M522A · ENG · Mew · STEREO EQUALIZER · CKD: · FRONT PANEL LA YOUT · AP
 
-Every curve, box, word and wire group: [1985 - ST - 522-04-002 - FRONT PANEL LAYOUT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.WBS-St-Series-Stereo-Console/1985%20-%20ST%20-%20522-04-002%20-%20FRONT%20PANEL%20LAYOUT%20%28traced%29.json) (the CAD file: `1985 - ST - 522-04-002 - FRONT PANEL LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1985 - ST - 522-04-002 - FRONT PANEL LAYOUT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.WBS-St-Series-Stereo-Console/1985%20-%20ST%20-%20522-04-002%20-%20FRONT%20PANEL%20LAYOUT%20%28traced%29.json) (the CAD file: `1985 - ST - 522-04-002 - FRONT PANEL LAYOUT (traced).dxf`).
 
 ## Full text
 

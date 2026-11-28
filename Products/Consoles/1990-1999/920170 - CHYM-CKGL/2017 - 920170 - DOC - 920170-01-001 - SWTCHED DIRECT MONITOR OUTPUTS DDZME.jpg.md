@@ -31,7 +31,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (345, 22)–(429, 40) mm: WBS · WARD- · BECK   SYSTEMS · CHYM /CKGL
 - **Wiring (first pass):** 127 connected wire groups from 915 runs, 2 dotted junctions; labelled ends: 133 mm → WBS, SCAF, DISC NO;, 920170-01-001; 99 mm → uonitor, @OG LOAD; 65 mm → (Ci KEADSET; 65 mm → 6 8; 54 mm → Pcv ?-6, UCHO
 
-Every curve, box, word and wire group: [2017 - 920170 - DOC - 920170-01-001 - SWTCHED DIRECT MONITOR OUTPUTS DDZME (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.920170-CHYM-CKGL/2017%20-%20920170%20-%20DOC%20-%20920170-01-001%20-%20SWTCHED%20DIRECT%20MONITOR%20OUTPUTS%20DDZME%20%28traced%29.json) (the CAD file: `2017 - 920170 - DOC - 920170-01-001 - SWTCHED DIRECT MONITOR OUTPUTS DDZME (traced).dxf`).
+Every curve, box, word and wire group: [2017 - 920170 - DOC - 920170-01-001 - SWTCHED DIRECT MONITOR OUTPUTS DDZME (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.920170-CHYM-CKGL/2017%20-%20920170%20-%20DOC%20-%20920170-01-001%20-%20SWTCHED%20DIRECT%20MONITOR%20OUTPUTS%20DDZME%20%28traced%29.json) (the CAD file: `2017 - 920170 - DOC - 920170-01-001 - SWTCHED DIRECT MONITOR OUTPUTS DDZME (traced).dxf`).
 
 ## Full text
 

@@ -28,15 +28,22 @@ def arg(name, default):
     return type(default)(sys.argv[sys.argv.index(name) + 1]) if name in sys.argv else default
 
 
+DIRS = {}   # repo name -> its folder under HOME (MODULES/AMPLIFIERS/MODULES.AMPLIFIERS.M124-…; tools/wbs_home.py)
+
+
 def public_repos():
-    """The registered submodules in HOME (the public ones: private repos are never registered)."""
+    """The registered submodules in HOME (the public ones: private repos are never registered), by repo name."""
     paths = re.findall(r'^\s*path = (.*)$', open(os.path.join(TOP, '.gitmodules')).read(), re.M)
-    return sorted(p.strip()[len(HOME) + 1:] for p in paths if p.strip().startswith(HOME + '/'))
+    for p in paths:
+        p = p.strip()
+        if p.startswith(HOME + '/'):
+            DIRS[os.path.basename(p)] = p[len(HOME) + 1:]
+    return sorted(DIRS)
 
 
 def files_of(repo):
     """[(path, blob)] of the KiCad schematics and boards committed in the repo."""
-    d = os.path.join(TOP, HOME, repo)
+    d = os.path.join(TOP, HOME, DIRS.get(repo, repo))
     if not os.path.exists(os.path.join(d, '.git')):
         return []
     out = subprocess.run(['git', '-C', d, 'ls-files', '-s', '-z', '--', '*.kicad_sch', '*.kicad_pcb'], capture_output=True).stdout
@@ -50,7 +57,7 @@ def files_of(repo):
 
 def run(repo, path):
     """kicad-cli on one file -> (check, report dict) or (check, {'failed': reason})."""
-    src = os.path.join(TOP, HOME, repo, path)
+    src = os.path.join(TOP, HOME, DIRS.get(repo, repo), path)
     check = 'erc' if path.endswith('.kicad_sch') else 'drc'
     with tempfile.TemporaryDirectory() as tmp:
         rpt = os.path.join(tmp, 'r.json')
@@ -111,7 +118,7 @@ def main():
                 del per_repo[repo][path]
     rows = list(keep)
     for repo, path, blob, check, rep in done:
-        row = {'repo': repo, 'path': path, 'blob': blob, 'check': check}
+        row = {'repo': repo, 'dir': DIRS.get(repo, repo), 'path': path, 'blob': blob, 'check': check}
         if 'failed' in rep:
             row['failed'] = ' '.join(rep['failed']) if isinstance(rep['failed'], list) else rep['failed']
         else:
@@ -132,6 +139,8 @@ def main():
     present = {(r, p) for r in repos for p, _ in files_of(r)} if not only else None
     if present is not None:
         rows = [r for r in rows if (r['repo'], r['path']) in present]
+    for r in rows:
+        r['dir'] = DIRS.get(r['repo'], r.get('dir', r['repo']))   # where it is now
     rows.sort(key=lambda r: (r['repo'], r['path']))
     tot = Counter()
     for r in rows:

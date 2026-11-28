@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 43 in 37 lines: 5 33 · 02801 JONCC Sx · 0200 · PUNCH 0Jad · ACAR CF · O.8C0 · 0,070 · 0,095 · 6.610 · SFCTC · Phore · WOcE
 - **Title block:** (343, 23)–(427, 39) mm: WBS · WARD-BECK SYSTEMS · MgO5NW
 
-Every curve, box, word and wire group: [1994 - 940238 - DOC - 940238-03-005 - HODE HEAD PHONE MODE HEAO PHONE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940238-CKNW/940238%20-%20CKNW/1994%20-%20940238%20-%20DOC%20-%20940238-03-005%20-%20HODE%20HEAD%20PHONE%20MODE%20HEAO%20PHONE%20%28traced%29.json) (the CAD file: `1994 - 940238 - DOC - 940238-03-005 - HODE HEAD PHONE MODE HEAO PHONE (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940238 - DOC - 940238-03-005 - HODE HEAD PHONE MODE HEAO PHONE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.940238-CKNW/940238%20-%20CKNW/1994%20-%20940238%20-%20DOC%20-%20940238-03-005%20-%20HODE%20HEAD%20PHONE%20MODE%20HEAO%20PHONE%20%28traced%29.json) (the CAD file: `1994 - 940238 - DOC - 940238-03-005 - HODE HEAD PHONE MODE HEAO PHONE (traced).dxf`).
 
 ## Full text
 

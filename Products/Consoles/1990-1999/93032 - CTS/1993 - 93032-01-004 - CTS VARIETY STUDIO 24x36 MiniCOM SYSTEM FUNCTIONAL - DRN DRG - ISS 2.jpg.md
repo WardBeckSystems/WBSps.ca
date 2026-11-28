@@ -33,7 +33,7 @@ Wiki page: [Job-93032](../../../../PAGES/Job-93032.md)
 - **Title block:** (670, 7)–(845, 75) mm: WBS · WARD-BECK SYSTEMS · CTS VARIETY STUDIO · 24*36 Minicom · SYSTEM FUNCTIONAL · SCALE · CCOE: 9J0jz704 · 93032-01-004
 - **Wiring (first pass):** 112 connected wire groups from 840 runs; labelled ends: 25 mm → UNLCo _; 8 mm → IPH; 6 mm → CHANNEL; 6 mm → CHANNEL; 6 mm → CHANNEL, CCUM
 
-Every curve, box, word and wire group: [1993 - 93032-01-004 - CTS VARIETY STUDIO 24x36 MiniCOM SYSTEM FUNCTIONAL - DRN DRG - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.930032-CTS/1993%20-%2093032-01-004%20-%20CTS%20VARIETY%20STUDIO%2024x36%20MiniCOM%20SYSTEM%20FUNCTIONAL%20-%20DRN%20DRG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1993 - 93032-01-004 - CTS VARIETY STUDIO 24x36 MiniCOM SYSTEM FUNCTIONAL - DRN DRG - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - 93032-01-004 - CTS VARIETY STUDIO 24x36 MiniCOM SYSTEM FUNCTIONAL - DRN DRG - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.930032-CTS/1993%20-%2093032-01-004%20-%20CTS%20VARIETY%20STUDIO%2024x36%20MiniCOM%20SYSTEM%20FUNCTIONAL%20-%20DRN%20DRG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1993 - 93032-01-004 - CTS VARIETY STUDIO 24x36 MiniCOM SYSTEM FUNCTIONAL - DRN DRG - ISS 2 (traced).dxf`).
 
 ## Full text
 

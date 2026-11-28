@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (340, 23)–(425, 39) mm: REVSIDS · WBS · WARD-BECK SYSTEMS · CTV Micro CoM
 - **Wiring (first pass):** 122 connected wire groups from 6,318 runs, 537 dotted junctions; labelled ends: 94 mm → WBS, COMMUNICA TIONS, MATRIX FUNCTIONAL; 72 mm → WARD-BECK SYSTEMS, MATRIX FUNCTIONAL, 93010-01, 001; 18 mm → cenou; 13 mm → LucE; 13 mm → CFF TUBZ, HOCKET
 
-Every curve, box, word and wire group: [1993 - 93010 - DOC - 93010-01-001 - MICRO COM COMMUNICA TIONS SYSTEM MATRIX FUNCTIONAL (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.930010/1993%20-%2093010%20-%20DOC%20-%2093010-01-001%20-%20MICRO%20COM%20COMMUNICA%20TIONS%20SYSTEM%20MATRIX%20FUNCTIONAL%20%28traced%29.json) (the CAD file: `1993 - 93010 - DOC - 93010-01-001 - MICRO COM COMMUNICA TIONS SYSTEM MATRIX FUNCTIONAL (traced).dxf`).
+Every curve, box, word and wire group: [1993 - 93010 - DOC - 93010-01-001 - MICRO COM COMMUNICA TIONS SYSTEM MATRIX FUNCTIONAL (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.930010/1993%20-%2093010%20-%20DOC%20-%2093010-01-001%20-%20MICRO%20COM%20COMMUNICA%20TIONS%20SYSTEM%20MATRIX%20FUNCTIONAL%20%28traced%29.json) (the CAD file: `1993 - 93010 - DOC - 93010-01-001 - MICRO COM COMMUNICA TIONS SYSTEM MATRIX FUNCTIONAL (traced).dxf`).
 
 ## Full text
 

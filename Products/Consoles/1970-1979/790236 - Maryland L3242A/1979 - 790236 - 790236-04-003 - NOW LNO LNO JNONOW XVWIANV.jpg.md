@@ -20,7 +20,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Dots (junctions):** 1
 - **Words (OCR):** 161 in 127 lines: 517 · (ois (Li)91'5i · (5)0562 · (L7197'S7 · 88 · 78108*62 · 83 · (LI)+ '€1 · [(82yoz 61 (62192 s2 (SE)ze E · (17186 (L7)77 87 · (E5105 67 (65)95s5 · (56)26
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-04-003 - NOW LNO LNO JNONOW XVWIANV (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-04-003%20-%20NOW%20LNO%20LNO%20JNONOW%20XVWIANV%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-04-003 - NOW LNO LNO JNONOW XVWIANV (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-04-003 - NOW LNO LNO JNONOW XVWIANV (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-04-003%20-%20NOW%20LNO%20LNO%20JNONOW%20XVWIANV%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-04-003 - NOW LNO LNO JNONOW XVWIANV (traced).dxf`).
 
 ## Full text
 

@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (78, 0)–(422, 46) mm: STEREO2 · WBS · CONSOLE MODULES · STEREO} · M9o9 METERE · MINUS VODULE · SUPPLY · 3OwER · M924 · comvCN · ISSUEL · REVISION · WBS · WARD-BECK · SYSTEMS · CONSOLE FRAME IS WIRED FOR M9O5B STUDIO MONITO
 - **Wiring (first pass):** 306 connected wire groups from 1,976 runs; labelled ends: 2240 mm → MiX, CUE, MNS, AUX AUX 2; 608 mm → 1oXI, 70, 7e; 513 mm → ON @, 70 Pil; 307 mm → VUSIC, VCICE; 182 mm → AUX AUX 2, X0 P1
 
-Every curve, box, word and wire group: [1994 - 94064 - DOC - 94064-01-006 - DUAL STEREO LINE SELECTOR WHICH ARE PROVIDED (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940064-WBZ-Boston/94064%20-%20WBZ%20Boston/1994%20-%2094064%20-%20DOC%20-%2094064-01-006%20-%20DUAL%20STEREO%20LINE%20SELECTOR%20WHICH%20ARE%20PROVIDED%20%28traced%29.json) (the CAD file: `1994 - 94064 - DOC - 94064-01-006 - DUAL STEREO LINE SELECTOR WHICH ARE PROVIDED (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 94064 - DOC - 94064-01-006 - DUAL STEREO LINE SELECTOR WHICH ARE PROVIDED (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.940064-WBZ-Boston/94064%20-%20WBZ%20Boston/1994%20-%2094064%20-%20DOC%20-%2094064-01-006%20-%20DUAL%20STEREO%20LINE%20SELECTOR%20WHICH%20ARE%20PROVIDED%20%28traced%29.json) (the CAD file: `1994 - 94064 - DOC - 94064-01-006 - DUAL STEREO LINE SELECTOR WHICH ARE PROVIDED (traced).dxf`).
 
 ## Full text
 

@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (245, 11)–(415, 84) mm: UPDATED AS PER CUSTOMER · ISSUE · REVISION · APP · WBS · WARD-BECK SYSTEMS · DRN. · W.S · CBC OTTAWA · ENG SM · MNEMONIC AND CODE · CKD: · APP_ · LA YOUT · SCALE DISC NO: 468 · ISSUE · CODE: 94294L02 
 - **Wiring (first pass):** 73 connected wire groups from 121 runs; labelled ends: 62 mm → KEYPAD, AJE, PAGE, GRP; 48 mm → CNF; 46 mm → KEYPAD, LAYOUI, SAVE; 35 mm → CLR; 24 mm → KEYPAD, AJE, REAL
 
-Every curve, box, word and wire group: [1994 - 940294 - DOC - 940294-01-001 - PER CUSTOMER REVISION (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.940294-CBC-Ottawa/1994%20-%20940294%20-%20DOC%20-%20940294-01-001%20-%20PER%20CUSTOMER%20REVISION%20%28traced%29.json) (the CAD file: `1994 - 940294 - DOC - 940294-01-001 - PER CUSTOMER REVISION (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940294 - DOC - 940294-01-001 - PER CUSTOMER REVISION (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.940294-CBC-Ottawa/1994%20-%20940294%20-%20DOC%20-%20940294-01-001%20-%20PER%20CUSTOMER%20REVISION%20%28traced%29.json) (the CAD file: `1994 - 940294 - DOC - 940294-01-001 - PER CUSTOMER REVISION (traced).dxf`).
 
 ## Full text
 

@@ -21,7 +21,7 @@ Wiki page: [Consoles](../../../../PAGES/Consoles.md)
 - **Words (OCR):** 13 in 12 lines: LEGEND · ROW · LuDIO · JueeR · PRELIMINARY · Noayal · WBS · WAAO-BeCk SYSTEMS · Latout · LC · 31106= 04e · 003/4
 - **Title block:** (356, 18)–(432, 34) mm: WBS · WAAO-BeCk SYSTEMS
 
-Every curve, box, word and wire group: [1977 - WSVN - 31106-04-003 - JACKFIELD ENG (2) (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.WSVN/1977%20-%20WSVN%20-%2031106-04-003%20-%20JACKFIELD%20ENG%20%282%29%20%28traced%29.json) (the CAD file: `1977 - WSVN - 31106-04-003 - JACKFIELD ENG (2) (traced).dxf`).
+Every curve, box, word and wire group: [1977 - WSVN - 31106-04-003 - JACKFIELD ENG (2) (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.WSVN/1977%20-%20WSVN%20-%2031106-04-003%20-%20JACKFIELD%20ENG%20%282%29%20%28traced%29.json) (the CAD file: `1977 - WSVN - 31106-04-003 - JACKFIELD ENG (2) (traced).dxf`).
 
 ## Full text
 

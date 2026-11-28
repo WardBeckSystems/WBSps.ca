@@ -31,7 +31,7 @@ Wiki page: [Job-970177](../../../../PAGES/Job-970177.md)
 - **Words (OCR):** 11 in 9 lines: CNJICH · WBS · WARD-BECK  SYSTEMS · CBC · MF_7 UTILIT FRAME · LAYOUT · CODE; 9T177L0' · 57501 · 970177-04-001
 - **Title block:** (670, 47)–(838, 80) mm: WBS · WARD-BECK  SYSTEMS · CBC
 
-Every curve, box, word and wire group: [1997 - 970177-04-001 - CBC MF-7 UTILITY FRAME LAYOUT - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.970177-CBC/1997%20-%20970177-04-001%20-%20CBC%20MF-7%20UTILITY%20FRAME%20LAYOUT%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1997 - 970177-04-001 - CBC MF-7 UTILITY FRAME LAYOUT - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1997 - 970177-04-001 - CBC MF-7 UTILITY FRAME LAYOUT - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.970177-CBC/1997%20-%20970177-04-001%20-%20CBC%20MF-7%20UTILITY%20FRAME%20LAYOUT%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1997 - 970177-04-001 - CBC MF-7 UTILITY FRAME LAYOUT - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

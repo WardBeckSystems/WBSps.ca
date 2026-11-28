@@ -34,7 +34,7 @@ CFNY turret schematic with headset and select controls.
 - **Title block:** (89, 41)–(408, 157) mm: MONITOR · LEVEL CONTROL · (THIS CONTROL ON HOWARD'S TURRET ONLY) · HEADSET · HEADSET · 5K LIN) · HEADSET · POD · HEADSET · OFF · TALKBACK · WES WARD-BECK · SYSTEMS · CFNY
 - **Wiring (first pass):** 35 connected wire groups from 208 runs; labelled ends: 831 mm → SELECT CONTROLS, (IVE; 308 mm → COMMON, (IVE; 164 mm → AC /DC, CLK-1, TMR-1(s); 37 mm → 5K LIN); 30 mm → MONITOR, LEVEL CONTROL
 
-Every curve, box, word and wire group: [1996 - 96002-01-002 - CFNY TURRET SCHEMATIC - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.960002-CFNY/1996%20-%2096002-01-002%20-%20CFNY%20TURRET%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1996 - 96002-01-002 - CFNY TURRET SCHEMATIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1996 - 96002-01-002 - CFNY TURRET SCHEMATIC - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.960002-CFNY/1996%20-%2096002-01-002%20-%20CFNY%20TURRET%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1996 - 96002-01-002 - CFNY TURRET SCHEMATIC - ISS 1 (traced).dxf`).
 
 ## Full text
 

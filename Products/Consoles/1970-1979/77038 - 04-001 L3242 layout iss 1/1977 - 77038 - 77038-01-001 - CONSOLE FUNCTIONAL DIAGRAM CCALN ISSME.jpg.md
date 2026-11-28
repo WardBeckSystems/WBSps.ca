@@ -24,7 +24,7 @@ Wiki page: [Job-77038](../../../../PAGES/Job-77038.md)
 - **Title block:** (356, 0)–(432, 36) mm: Lav 7a DumutLN4MLAA · 564v04e · Vir 9e Mae · 4472 · ISSUE DATE · REVISION · WBS WARD-BECK SYSTEMS · DRN ELJMARLE WBS L3242 · ENG · CONSOLE · CKD: · FUNCTIONAL DIAGRAM · SCALE · 77038 01 001 · ISSME
 - **Wiring (first pass):** 153 connected wire groups from 578 runs, 1 dotted junctions; labelled ends: 472 mm → SUmming, BUS, ChAN, FADER; 234 mm → CHAH, FADER, Mic, mic; 159 mm → SELECTOR], CONT_, DIR; 114 mm → dbm, Mon, 8dBm C19; 92 mm → {8849
 
-Every curve, box, word and wire group: [1977 - 77038 - 77038-01-001 - CONSOLE FUNCTIONAL DIAGRAM CCALN ISSME (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.770038-04-001-L3242-layout-iss-1/1977%20-%2077038%20-%2077038-01-001%20-%20CONSOLE%20FUNCTIONAL%20DIAGRAM%20CCALN%20ISSME%20%28traced%29.json) (the CAD file: `1977 - 77038 - 77038-01-001 - CONSOLE FUNCTIONAL DIAGRAM CCALN ISSME (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 77038 - 77038-01-001 - CONSOLE FUNCTIONAL DIAGRAM CCALN ISSME (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.770038-04-001-L3242-layout-iss-1/1977%20-%2077038%20-%2077038-01-001%20-%20CONSOLE%20FUNCTIONAL%20DIAGRAM%20CCALN%20ISSME%20%28traced%29.json) (the CAD file: `1977 - 77038 - 77038-01-001 - CONSOLE FUNCTIONAL DIAGRAM CCALN ISSME (traced).dxf`).
 
 ## Full text
 

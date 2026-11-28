@@ -14,7 +14,7 @@ tags: ["project", "1970s"]
 | Years | 1974 (from the dated files in this project) |
 | Files | 1 |
 | Job number | none found yet |
-| Folder | [Consoles/1970-1979/74076](../WBSps.ca/Github.WardBeckSystems/CONSOLE.740076/) |
+| Folder | [Consoles/1970-1979/74076](../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.740076/) |
 
 ## Drawings (1)
 
@@ -26,4 +26,4 @@ tags: ["project", "1970s"]
 
 | Year | File |  |
 |---|---|---|
-| 1974 | [1974 - 74076 - 74076-01-001 - AIR LIT TRASKS TRUNKS.jpg](../Consoles/1970-1979/74076/1974%20-%2074076%20-%2074076-01-001%20-%20AIR%20LIT%20TRASKS%20TRUNKS.jpg) | [note](../WBSps.ca/Github.WardBeckSystems/CONSOLE.740076/1974%20-%2074076%20-%2074076-01-001%20-%20AIR%20LIT%20TRASKS%20TRUNKS.jpg.md) |
+| 1974 | [1974 - 74076 - 74076-01-001 - AIR LIT TRASKS TRUNKS.jpg](../Consoles/1970-1979/74076/1974%20-%2074076%20-%2074076-01-001%20-%20AIR%20LIT%20TRASKS%20TRUNKS.jpg) | [note](../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.740076/1974%20-%2074076%20-%2074076-01-001%20-%20AIR%20LIT%20TRASKS%20TRUNKS.jpg.md) |

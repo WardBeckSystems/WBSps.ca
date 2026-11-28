@@ -33,7 +33,7 @@ Wiki page: [Job-880651](../../../../PAGES/Job-880651.md)
 - **Closed boxes:** 15
 - **Wiring (first pass):** 32 connected wire groups from 266 runs
 
-Every curve, box, word and wire group: [1988 - 880651-02-012 - MIC PHANTOM POWER SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880651-TVO-M1204B/1988%20-%20880651-02-012%20-%20MIC%20PHANTOM%20POWER%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1988 - 880651-02-012 - MIC PHANTOM POWER SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880651-02-012 - MIC PHANTOM POWER SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.880651-TVO-M1204B/1988%20-%20880651-02-012%20-%20MIC%20PHANTOM%20POWER%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1988 - 880651-02-012 - MIC PHANTOM POWER SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).dxf`).
 
 ## Full text
 

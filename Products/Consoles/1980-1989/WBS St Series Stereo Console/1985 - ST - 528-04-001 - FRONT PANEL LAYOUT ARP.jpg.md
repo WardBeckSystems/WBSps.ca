@@ -19,7 +19,7 @@ Wiki page: [Consoles](../../../../PAGES/Consoles.md)
 - **Words (OCR):** 18 in 15 lines: WBS · M528 · ISSUE DATE · WBS · WARD-BECK sybteI · DRN BD · IN · M528 · ENG · Mrw DUAL AUXILIARY MODULE · Ckd · FRONT PANEL LAYOUT
 - **Title block:** (20, 3)–(168, 413) mm: WBS · M528 · ISSUE DATE · WBS · WARD-BECK sybteI · DRN BD · IN · M528 · ENG · Mrw DUAL AUXILIARY MODULE · Ckd · FRONT PANEL LAYOUT · APP L · SCALE · 528-04-001
 
-Every curve, box, word and wire group: [1985 - ST - 528-04-001 - FRONT PANEL LAYOUT ARP (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.WBS-St-Series-Stereo-Console/1985%20-%20ST%20-%20528-04-001%20-%20FRONT%20PANEL%20LAYOUT%20ARP%20%28traced%29.json) (the CAD file: `1985 - ST - 528-04-001 - FRONT PANEL LAYOUT ARP (traced).dxf`).
+Every curve, box, word and wire group: [1985 - ST - 528-04-001 - FRONT PANEL LAYOUT ARP (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.WBS-St-Series-Stereo-Console/1985%20-%20ST%20-%20528-04-001%20-%20FRONT%20PANEL%20LAYOUT%20ARP%20%28traced%29.json) (the CAD file: `1985 - ST - 528-04-001 - FRONT PANEL LAYOUT ARP (traced).dxf`).
 
 ## Full text
 

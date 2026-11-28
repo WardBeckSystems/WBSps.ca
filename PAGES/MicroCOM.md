@@ -16,7 +16,7 @@ tags: ["product", "micro-series"]
 | Earliest dated evidence | not dated yet |
 | Evidence | — |
 | Confidence | — |
-| Folder | [Modules/COMMUNICATION/M7880](../WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7880-Intercom-System/) |
+| Folder | [Modules/COMMUNICATION/M7880](../WBSps.ca/Github.WardBeckSystems/MODULES/COMMUNICATION/MODULES.COMMUNICATION.M7880-Intercom-System/) |
 | Folder | [Products/MICRO SERIES/MicroCOM](../Products/MICRO%20SERIES/MicroCOM/) |
 | Folder | [Products/MICRO SERIES/MicroCOM II](../Products/MICRO%20SERIES/MicroCOM%20II/) |
 

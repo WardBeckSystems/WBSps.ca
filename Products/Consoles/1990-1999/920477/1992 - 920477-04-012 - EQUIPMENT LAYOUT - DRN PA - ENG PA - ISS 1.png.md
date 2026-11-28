@@ -31,7 +31,7 @@ Wiki page: [Job-920477](../../../../PAGES/Job-920477.md)
 - **Words (OCR):** 31 in 22 lines: EQUiPMENT · LAYe4T · TB TB · TB · M2o7 · CArD · CenseLe · TERMiNAL · Bleck Reer LAxeut · ISSUE DATE · NoTe Deors FACE REAC OF · REVISION
 - **Title block:** (293, 16)–(432, 85) mm: ISSUE DATE · REVISION · WBS WARD-BECK SYBTEME · DRN, · PA · ENG_ PA · CKD. · Equipment LAYOUT · APP: · SCALE · ISSUE · 920477-04-012
 
-Every curve, box, word and wire group: [1992 - 920477-04-012 - EQUIPMENT LAYOUT - DRN PA - ENG PA - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.920477-Telemedia/920477/1992%20-%20920477-04-012%20-%20EQUIPMENT%20LAYOUT%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1992 - 920477-04-012 - EQUIPMENT LAYOUT - DRN PA - ENG PA - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1992 - 920477-04-012 - EQUIPMENT LAYOUT - DRN PA - ENG PA - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.920477-Telemedia/920477/1992%20-%20920477-04-012%20-%20EQUIPMENT%20LAYOUT%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1992 - 920477-04-012 - EQUIPMENT LAYOUT - DRN PA - ENG PA - ISS 1 (traced).dxf`).
 
 ## Full text
 

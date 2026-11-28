@@ -21,7 +21,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Words (OCR):** 147 in 133 lines: S1 · SUBMASTER · SUBMASTER · (SUB1To4 IDENTICAL ) · SumMing · BUS · (~4dB ) · SUB · CHAN · INSERT · FADER · S1
 - **Wiring (first pass):** 83 connected wire groups from 316 runs; labelled ends: 358 mm → 8dBm, MON, Summing, BUS; 342 mm → E18, E1z, M1, M2; 328 mm → BUS, S1; 298 mm → S1, 5 2, 53, 54; 184 mm → MUTE, DIR
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-01-001 - PEL SOLO SOLO SOLO SOLO CONT CONT AUXILIARY (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-01-001%20-%20PEL%20SOLO%20SOLO%20SOLO%20SOLO%20CONT%20CONT%20AUXILIARY%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-01-001 - PEL SOLO SOLO SOLO SOLO CONT CONT AUXILIARY (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-01-001 - PEL SOLO SOLO SOLO SOLO CONT CONT AUXILIARY (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-01-001%20-%20PEL%20SOLO%20SOLO%20SOLO%20SOLO%20CONT%20CONT%20AUXILIARY%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-01-001 - PEL SOLO SOLO SOLO SOLO CONT CONT AUXILIARY (traced).dxf`).
 
 ## Full text
 

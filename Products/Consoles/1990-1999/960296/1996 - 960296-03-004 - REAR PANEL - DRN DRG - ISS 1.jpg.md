@@ -31,7 +31,7 @@ Wiki page: [Job-960296](../../../../PAGES/Job-960296.md)
 - **Words (OCR):** 40 in 35 lines: 17.100 · PITCHES I.JCO · on · DETAIL · 8,700 · 3.s0 · 1.530 · DFTAM · DFTAI · 0.468 · 025t · PLACEC
 - **Title block:** (670, 8)–(846, 74) mm: WBS · WARD-BECK SYSTEMS · REAR PANEL · SCALE · COLE; 56196004 · 960296-03-004
 
-Every curve, box, word and wire group: [1996 - 960296-03-004 - REAR PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.960296-CBC-REGINA/960296/1996%20-%20960296-03-004%20-%20REAR%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1996 - 960296-03-004 - REAR PANEL - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1996 - 960296-03-004 - REAR PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.960296-CBC-REGINA/960296/1996%20-%20960296-03-004%20-%20REAR%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1996 - 960296-03-004 - REAR PANEL - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

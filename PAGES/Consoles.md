@@ -414,8 +414,8 @@ _Folders of console material with no job number in their path, each dated by tra
 - [WBS L2642](../Products/Consoles/1970-1979/WBS%20L2642/) — 1977|10, project L2642: the L series (L2042, its earliest dated model) (traced) · 9 files
 - [WBS L3242A full size](../Products/Consoles/1970-1979/WBS%20L3242A%20full%20size/) — 1977|10, project L3242A full size: L3242, which it is about (traced) · 3 files
 - [WBS L3242P](../Products/Consoles/1970-1979/WBS%20L3242P/) — 1977|10, project L3242P: L3242, which it is about (traced) · 1 files
-- [WSVN](../WBSps.ca/Github.WardBeckSystems/CONSOLE.WSVN/) — 1977|10, project WSVN: 13 dated files · 10 files
-- [WBS 1979 custom L series full size](../WBSps.ca/Github.WardBeckSystems/CONSOLE.WBS-1979-custom-L-series-full-size/) — 1979|12, project 1979 custom L series full size: "1979" in its name (traced) · 1 files
+- [WSVN](../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.WSVN/) — 1977|10, project WSVN: 13 dated files · 10 files
+- [WBS 1979 custom L series full size](../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.WBS-1979-custom-L-series-full-size/) — 1979|12, project 1979 custom L series full size: "1979" in its name (traced) · 1 files
 - [1980-1989](../Products/Consoles/1980-1989/1980-1989/) — 1980|13, named for 1980-1989 · 214 files
 - [T1202](../Products/Consoles/1980-1989/T1202/) — 1982|15, project T1202: the T series (T1202A, its earliest dated model) (traced) · 203 files
 - [2442-04-001 ST2442 outline](../Products/Consoles/1980-1989/2442-04-001%20ST2442%20outline/) — 1984|17, ST2442, which it shows · 6 files
@@ -424,11 +424,11 @@ _Folders of console material with no job number in their path, each dated by tra
 - [3642-04-001 ST console outline](../Products/Consoles/1980-1989/3642-04-001%20ST%20console%20outline/) — 1984|17, same drawing set 3642 as "3642-04-002 ST3642 front layout" · 6 files
 - [3642-04-002 ST3642 front layout](../Products/Consoles/1980-1989/3642-04-002%20ST3642%20front%20layout/) — 1984|17, ST3642, which it shows · 6 files
 - [3642-04-003 ST3642 Top View Layout](../Products/Consoles/1980-1989/3642-04-003%20ST3642%20Top%20View%20Layout/) — 1984|17, ST3642, which it shows · 6 files
-- [ST console mono and st schematics for back planes](../WBSps.ca/Github.WardBeckSystems/CONSOLE.ST-console-mono-and-st-schematics-for-back-planes/) — 1984|17, project ST console mono and st schematics for back planes: the ST series (ST2442, its earliest dated model) (traced) · 11 files
-- [Red Deer WBS](../WBSps.ca/Github.WardBeckSystems/CONSOLE.Red-Deer-WBS/) — 1985|18, project Red Deer WBS: the 8 dated modules its files name (traced) · 129 files
-- [WBS St Series Stereo Console](../WBSps.ca/Github.WardBeckSystems/CONSOLE.WBS-St-Series-Stereo-Console/) — 1985|18, project St Series Stereo Console: the 28 dated modules its files name (traced) · 64 files
+- [ST console mono and st schematics for back planes](../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.ST-console-mono-and-st-schematics-for-back-planes/) — 1984|17, project ST console mono and st schematics for back planes: the ST series (ST2442, its earliest dated model) (traced) · 11 files
+- [Red Deer WBS](../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.Red-Deer-WBS/) — 1985|18, project Red Deer WBS: the 8 dated modules its files name (traced) · 129 files
+- [WBS St Series Stereo Console](../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.WBS-St-Series-Stereo-Console/) — 1985|18, project St Series Stereo Console: the 28 dated modules its files name (traced) · 64 files
 - [BIG CFTO TV done](../Products/Consoles/1980-1989/BIG%20CFTO%20TV%20done/) — 1988|21, project CFTO TV done: 78 dated files · 91 files
-- [WBS880134 - ST Console](../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/WBS880134%20-%20ST%20Console/) — 1988|21, project 880134 - ST Console: job 880134 in its name (traced) · 7 files
+- [WBS880134 - ST Console](../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.880134-CFTO-ST/WBS880134%20-%20ST%20Console/) — 1988|21, project 880134 - ST Console: job 880134 in its name (traced) · 7 files
 - [1989-1999](../Products/Consoles/1980-1989/1989-1999/) — 1989|22, named for 1989-1999 · 132 files
 - [R series install guide](../Products/Consoles/1990-1999/R%20series%20install%20guide/) — 1990|23, project R series install guide: the R series (R1400, its earliest dated model) (traced) · 9 files
 - [R series installation manual](../Products/Consoles/1990-1999/R%20series%20installation%20manual/) — 1990|23, project R series installation manual: the R series (R1400, its earliest dated model) (traced) · 9 files

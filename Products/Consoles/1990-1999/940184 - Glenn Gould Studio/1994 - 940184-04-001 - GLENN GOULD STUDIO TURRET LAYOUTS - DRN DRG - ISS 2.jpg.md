@@ -30,7 +30,7 @@ Wiki page: [Job-940184](../../../../PAGES/Job-940184.md)
 - **Closed boxes:** 63
 - **Dots (junctions):** 1
 
-Every curve, box, word and wire group: [1994 - 940184-04-001 - GLENN GOULD STUDIO TURRET LAYOUTS - DRN DRG - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940184-GLENN-GOULD-STUDIO/940184%20-%20Glenn%20Gould%20Studio/1994%20-%20940184-04-001%20-%20GLENN%20GOULD%20STUDIO%20TURRET%20LAYOUTS%20-%20DRN%20DRG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1994 - 940184-04-001 - GLENN GOULD STUDIO TURRET LAYOUTS - DRN DRG - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940184-04-001 - GLENN GOULD STUDIO TURRET LAYOUTS - DRN DRG - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.940184-GLENN-GOULD-STUDIO/940184%20-%20Glenn%20Gould%20Studio/1994%20-%20940184-04-001%20-%20GLENN%20GOULD%20STUDIO%20TURRET%20LAYOUTS%20-%20DRN%20DRG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1994 - 940184-04-001 - GLENN GOULD STUDIO TURRET LAYOUTS - DRN DRG - ISS 2 (traced).dxf`).
 
 ## Full text
 

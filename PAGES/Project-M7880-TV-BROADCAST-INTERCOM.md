@@ -14,11 +14,11 @@ tags: ["project", "1990s"]
 | Years | 1994 (from the dated files in this project) |
 | Files | 7 |
 | Job number | none found yet |
-| Folder | [Modules/COMMUNICATION/M7880](../WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7880-Intercom-System/) |
+| Folder | [Modules/COMMUNICATION/M7880](../WBSps.ca/Github.WardBeckSystems/MODULES/COMMUNICATION/MODULES.COMMUNICATION.M7880-Intercom-System/) |
 
 ## Modules
 
-- [M7880](../WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7880-Intercom-System/) _(COMMUNICATION)_
+- [M7880](../WBSps.ca/Github.WardBeckSystems/MODULES/COMMUNICATION/MODULES.COMMUNICATION.M7880-Intercom-System/) _(COMMUNICATION)_
 
 ## Files (7)
 

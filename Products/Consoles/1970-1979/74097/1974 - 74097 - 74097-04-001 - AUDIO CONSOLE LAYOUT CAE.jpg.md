@@ -19,7 +19,7 @@ Wiki page: [Job-74097](../../../../PAGES/Job-74097.md)
 - **Closed boxes:** 42
 - **Dots (junctions):** 1
 
-Every curve, box, word and wire group: [1974 - 74097 - 74097-04-001 - AUDIO CONSOLE LAYOUT CAE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.740097/1974%20-%2074097%20-%2074097-04-001%20-%20AUDIO%20CONSOLE%20LAYOUT%20CAE%20%28traced%29.json) (the CAD file: `1974 - 74097 - 74097-04-001 - AUDIO CONSOLE LAYOUT CAE (traced).dxf`).
+Every curve, box, word and wire group: [1974 - 74097 - 74097-04-001 - AUDIO CONSOLE LAYOUT CAE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.740097/1974%20-%2074097%20-%2074097-04-001%20-%20AUDIO%20CONSOLE%20LAYOUT%20CAE%20%28traced%29.json) (the CAD file: `1974 - 74097 - 74097-04-001 - AUDIO CONSOLE LAYOUT CAE (traced).dxf`).
 
 ## Full text
 

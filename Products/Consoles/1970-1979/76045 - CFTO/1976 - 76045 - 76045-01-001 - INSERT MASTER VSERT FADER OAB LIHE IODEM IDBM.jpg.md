@@ -21,7 +21,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Words (OCR):** 231 in 199 lines: VU · OUTPUT · JAcKs · +BaBm · PROGRAM QuTPUTS · Cis · Dis · Te3 +843 · GooJ · 843m1 · 152() · SUB
 - **Wiring (first pass):** 147 connected wire groups from 612 runs; labelled ends: 140 mm → M4ee, Dm |coMP, Te3, MaceM; 129 mm → Aux ILiARY, MoBOce, SeLect; 112 mm → 3004 | w, 764, 5253(500- €, 49,50(50); 44 mm → M453, Aux ILiARY, MoBOce, 723; 43 mm → Te 2 0 28,29, Te?
 
-Every curve, box, word and wire group: [1976 - 76045 - 76045-01-001 - INSERT MASTER VSERT FADER OAB LIHE IODEM IDBM (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1976%20-%2076045%20-%2076045-01-001%20-%20INSERT%20MASTER%20VSERT%20FADER%20OAB%20LIHE%20IODEM%20IDBM%20%28traced%29.json) (the CAD file: `1976 - 76045 - 76045-01-001 - INSERT MASTER VSERT FADER OAB LIHE IODEM IDBM (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76045 - 76045-01-001 - INSERT MASTER VSERT FADER OAB LIHE IODEM IDBM (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.760045-CFTO/1976%20-%2076045%20-%2076045-01-001%20-%20INSERT%20MASTER%20VSERT%20FADER%20OAB%20LIHE%20IODEM%20IDBM%20%28traced%29.json) (the CAD file: `1976 - 76045 - 76045-01-001 - INSERT MASTER VSERT FADER OAB LIHE IODEM IDBM (traced).dxf`).
 
 ## Full text
 

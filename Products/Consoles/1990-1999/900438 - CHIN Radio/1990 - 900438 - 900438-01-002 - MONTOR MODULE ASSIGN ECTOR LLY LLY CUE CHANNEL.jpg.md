@@ -22,7 +22,7 @@ Wiki page: [Job-900438](../../../../PAGES/Job-900438.md)
 - **Words (OCR):** 60 in 49 lines: MONTORING · YON · MUTE · M495 MONITOR MODULE · OFF · ASSIGN · ROL · RESET · ECTOR · LLY · LLY · MUTE
 - **Wiring (first pass):** 57 connected wire groups from 100 runs, 1 dotted junctions; labelled ends: 112 mm → ONTROL, FEET; 41 mm → CONSOLE, MLD, POWER; 22 mm → MLD; 18 mm → ASSIGN, CONTROL; 18 mm → CONTROL, L2
 
-Every curve, box, word and wire group: [1990 - 900438 - 900438-01-002 - MONTOR MODULE ASSIGN ECTOR LLY LLY CUE CHANNEL (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.900438-CHIN-Radio/1990%20-%20900438%20-%20900438-01-002%20-%20MONTOR%20MODULE%20ASSIGN%20ECTOR%20LLY%20LLY%20CUE%20CHANNEL%20%28traced%29.json) (the CAD file: `1990 - 900438 - 900438-01-002 - MONTOR MODULE ASSIGN ECTOR LLY LLY CUE CHANNEL (traced).dxf`).
+Every curve, box, word and wire group: [1990 - 900438 - 900438-01-002 - MONTOR MODULE ASSIGN ECTOR LLY LLY CUE CHANNEL (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.900438-CHIN-Radio/1990%20-%20900438%20-%20900438-01-002%20-%20MONTOR%20MODULE%20ASSIGN%20ECTOR%20LLY%20LLY%20CUE%20CHANNEL%20%28traced%29.json) (the CAD file: `1990 - 900438 - 900438-01-002 - MONTOR MODULE ASSIGN ECTOR LLY LLY CUE CHANNEL (traced).dxf`).
 
 ## Full text
 

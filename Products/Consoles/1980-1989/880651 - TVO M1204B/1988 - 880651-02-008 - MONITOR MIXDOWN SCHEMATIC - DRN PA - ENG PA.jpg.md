@@ -33,7 +33,7 @@ Wiki page: [Job-880651](../../../../PAGES/Job-880651.md)
 - **Title block:** (695, 36)–(864, 78) mm: SSUEI DATE · REMSICN · WBS WARD-BECK SYSTEMS · I0/BB
 - **Wiring (first pass):** 457 connected wire groups from 2,968 runs; labelled ends: 609 mm → DDAC; 511 mm → NPUT*; 402 mm → conmro; 271 mm → NPUT*; 175 mm → NPUT*
 
-Every curve, box, word and wire group: [1988 - 880651-02-008 - MONITOR MIXDOWN SCHEMATIC - DRN PA - ENG PA (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880651-TVO-M1204B/1988%20-%20880651-02-008%20-%20MONITOR%20MIXDOWN%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20%28traced%29.json) (the CAD file: `1988 - 880651-02-008 - MONITOR MIXDOWN SCHEMATIC - DRN PA - ENG PA (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880651-02-008 - MONITOR MIXDOWN SCHEMATIC - DRN PA - ENG PA (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.880651-TVO-M1204B/1988%20-%20880651-02-008%20-%20MONITOR%20MIXDOWN%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20%28traced%29.json) (the CAD file: `1988 - 880651-02-008 - MONITOR MIXDOWN SCHEMATIC - DRN PA - ENG PA (traced).dxf`).
 
 ## Full text
 

@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (339, 4)–(427, 47) mm: UPDATED · FER CUSTOWER RECUEST, · WBS · WARD-BECK SYSTEMS · KCET · SYSTEM FUNCTIONAL · MicroCoM · MATRIX · SCALE Idisc NO: · 940009 · 002
 - **Wiring (first pass):** 37 connected wire groups from 405 runs; labelled ends: 20 mm → MNMARI; 11 mm → TCiRcUITS; 9 mm → WiRE"CiRcunTS; 7 mm → 9*s)
 
-Every curve, box, word and wire group: [1994 - 940009 - DOC - 940009-01-002 - OTHERS UPDATED PER CUSTOMER REQUEST REMSION (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.940009-KCET/1994%20-%20940009%20-%20DOC%20-%20940009-01-002%20-%20OTHERS%20UPDATED%20PER%20CUSTOMER%20REQUEST%20REMSION%20%28traced%29.json) (the CAD file: `1994 - 940009 - DOC - 940009-01-002 - OTHERS UPDATED PER CUSTOMER REQUEST REMSION (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940009 - DOC - 940009-01-002 - OTHERS UPDATED PER CUSTOMER REQUEST REMSION (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.940009-KCET/1994%20-%20940009%20-%20DOC%20-%20940009-01-002%20-%20OTHERS%20UPDATED%20PER%20CUSTOMER%20REQUEST%20REMSION%20%28traced%29.json) (the CAD file: `1994 - 940009 - DOC - 940009-01-002 - OTHERS UPDATED PER CUSTOMER REQUEST REMSION (traced).dxf`).
 
 ## Full text
 

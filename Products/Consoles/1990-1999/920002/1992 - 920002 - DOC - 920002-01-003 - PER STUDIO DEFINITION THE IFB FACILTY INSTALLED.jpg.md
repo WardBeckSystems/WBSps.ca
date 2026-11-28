@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (341, 26)–(426, 48) mm: ISSUE]DATEL · WBS · WARD-BECK SYSTEMS · STUDIO A/B1
 - **Wiring (first pass):** 163 connected wire groups from 679 runs; labelled ends: 174 mm → WARD-BECK SYSTEMS, 920002-01-003; 65 mm → eut; 23 mm → eut; 21 mm → eut; 11 mm → 07)
 
-Every curve, box, word and wire group: [1992 - 920002 - DOC - 920002-01-003 - PER STUDIO DEFINITION THE IFB FACILTY INSTALLED (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.920002/1992%20-%20920002%20-%20DOC%20-%20920002-01-003%20-%20PER%20STUDIO%20DEFINITION%20THE%20IFB%20FACILTY%20INSTALLED%20%28traced%29.json) (the CAD file: `1992 - 920002 - DOC - 920002-01-003 - PER STUDIO DEFINITION THE IFB FACILTY INSTALLED (traced).dxf`).
+Every curve, box, word and wire group: [1992 - 920002 - DOC - 920002-01-003 - PER STUDIO DEFINITION THE IFB FACILTY INSTALLED (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.920002/1992%20-%20920002%20-%20DOC%20-%20920002-01-003%20-%20PER%20STUDIO%20DEFINITION%20THE%20IFB%20FACILTY%20INSTALLED%20%28traced%29.json) (the CAD file: `1992 - 920002 - DOC - 920002-01-003 - PER STUDIO DEFINITION THE IFB FACILTY INSTALLED (traced).dxf`).
 
 ## Full text
 

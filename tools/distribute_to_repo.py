@@ -5,7 +5,8 @@
     distribute_to_repo.py SRC CLONE [--sub PATH] [--untracked-only] [--dry-run] [--no-slim]
 
 SRC             the local folder whose files go to the repo (e.g. 2026/Modules/INPUT-PRE-AMPS/M460M)
-CLONE           the repo clone (e.g. WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460M-Input-Module)
+CLONE           the repo clone (e.g. WBSps.ca/Github.WardBeckSystems/MODULES/INPUT-PRE-AMPS/MODULES.INPUT-PRE-AMPS.M460M-Input-Module),
+                or just the repo's name (MODULES.INPUT-PRE-AMPS.M460M-Input-Module): its clone, wherever it is
 --sub PATH      put the files under PATH inside the clone (default: the clone's root)
 --untracked-only  move only files SRC's own git doesn't track (SRC is a checkout of the same repo)
 
@@ -22,6 +23,8 @@ import shutil
 import subprocess
 import sys
 import tempfile
+
+import wbs_home
 
 JUNK_NAMES = {'Thumbs.db', '.DS_Store', 'desktop.ini', '__pycache__'}
 # compiler / FPGA build output: regenerated, never archived
@@ -153,6 +156,8 @@ def main():
                     '(third-party installers)')
     a = ap.parse_args()
     src, clone = a.src.rstrip('/'), a.clone.rstrip('/')
+    if not os.path.isdir(clone) and '/' not in clone:   # a repo name: its clone, wherever its family folder is
+        clone = wbs_home.repo_dir(clone)
     if git(clone, 'status', '--porcelain').strip():
         raise SystemExit(f'{clone} has uncommitted changes; commit or clean it first')
 

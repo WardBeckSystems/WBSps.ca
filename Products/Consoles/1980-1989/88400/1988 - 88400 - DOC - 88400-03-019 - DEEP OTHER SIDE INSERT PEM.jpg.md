@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 28 in 28 lines: 070] · PLCES · PLACFS · DETAI · 6 CJ0 · 2coc · 0.150 · DETAM · 1.675 · INSFRT OTHEF · 5-44-1 · PACES
 - **Title block:** (340, 24)–(425, 44) mm: WARD-BECK  SYSTEMS · WBS
 
-Every curve, box, word and wire group: [1988 - 88400 - DOC - 88400-03-019 - DEEP OTHER SIDE INSERT PEM (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880400/1988%20-%2088400%20-%20DOC%20-%2088400-03-019%20-%20DEEP%20OTHER%20SIDE%20INSERT%20PEM%20%28traced%29.json) (the CAD file: `1988 - 88400 - DOC - 88400-03-019 - DEEP OTHER SIDE INSERT PEM (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 88400 - DOC - 88400-03-019 - DEEP OTHER SIDE INSERT PEM (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.880400/1988%20-%2088400%20-%20DOC%20-%2088400-03-019%20-%20DEEP%20OTHER%20SIDE%20INSERT%20PEM%20%28traced%29.json) (the CAD file: `1988 - 88400 - DOC - 88400-03-019 - DEEP OTHER SIDE INSERT PEM (traced).dxf`).
 
 ## Full text
 

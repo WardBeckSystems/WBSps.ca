@@ -24,7 +24,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 38 in 31 lines: 14 · 14240 · +20 · 1424 · CONIROLLBR · BACXPLANE · BACKPLNE · BUFER AUPUFER · BACXPUNE · 13 · 12 · TT
 - **Title block:** (251, 12)–(421, 79) mm: ISSUE · REVISION · APP · WBS · WARD-BECK SYSTEMS · CONTROL · DRN; · WkW · INPUT BUFFER · ENG. WKW · CKD · SYSTEM REAR · LAYOUT · APP · SCALE DISC NO: SYSO1 · ISSUE · 950271-04-003 · CODE: 95271L03
 
-Every curve, box, word and wire group: [1995 - 950271 - DOC - 950271-04-003 - BUFFER AMPNER BACXPLANE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.950271/1995%20-%20950271%20-%20DOC%20-%20950271-04-003%20-%20BUFFER%20AMPNER%20BACXPLANE%20%28traced%29.json) (the CAD file: `1995 - 950271 - DOC - 950271-04-003 - BUFFER AMPNER BACXPLANE (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 950271 - DOC - 950271-04-003 - BUFFER AMPNER BACXPLANE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.950271/1995%20-%20950271%20-%20DOC%20-%20950271-04-003%20-%20BUFFER%20AMPNER%20BACXPLANE%20%28traced%29.json) (the CAD file: `1995 - 950271 - DOC - 950271-04-003 - BUFFER AMPNER BACXPLANE (traced).dxf`).
 
 ## Full text
 

@@ -31,7 +31,7 @@ Line input module component layout. Title block at top right reading downward.
 - **Dots (junctions):** 14
 - **Words (OCR):** 73 in 66 lines: 9O6CNZ · 324 · LeF · NOODHTL · NczijmtL · 28 · I88 · 8+[+NL · NSZ[jhtL · 6183 · Gtey · -4oi
 
-Every curve, box, word and wire group: [1994 - 940444-06-200 - M901CY LINE INPUT MODULE COMPONENT LAYOUT - ISS 4 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940444-WBZ-Boston/940444/1994%20-%20940444-06-200%20-%20M901CY%20LINE%20INPUT%20MODULE%20COMPONENT%20LAYOUT%20-%20ISS%204%20%28traced%29.json) (the CAD file: `1994 - 940444-06-200 - M901CY LINE INPUT MODULE COMPONENT LAYOUT - ISS 4 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940444-06-200 - M901CY LINE INPUT MODULE COMPONENT LAYOUT - ISS 4 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.940444-WBZ-Boston/940444/1994%20-%20940444-06-200%20-%20M901CY%20LINE%20INPUT%20MODULE%20COMPONENT%20LAYOUT%20-%20ISS%204%20%28traced%29.json) (the CAD file: `1994 - 940444-06-200 - M901CY LINE INPUT MODULE COMPONENT LAYOUT - ISS 4 (traced).dxf`).
 
 ## Full text
 

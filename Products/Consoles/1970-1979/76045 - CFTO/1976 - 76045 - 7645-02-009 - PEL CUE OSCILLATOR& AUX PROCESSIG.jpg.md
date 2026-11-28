@@ -21,7 +21,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 22 connected wire groups from 240 runs
 
-Every curve, box, word and wire group: [1976 - 76045 - 7645-02-009 - PEL CUE OSCILLATOR& AUX PROCESSIG (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1976%20-%2076045%20-%207645-02-009%20-%20PEL%20CUE%20OSCILLATOR&%20AUX%20PROCESSIG%20%28traced%29.json) (the CAD file: `1976 - 76045 - 7645-02-009 - PEL CUE OSCILLATOR& AUX PROCESSIG (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76045 - 7645-02-009 - PEL CUE OSCILLATOR& AUX PROCESSIG (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.760045-CFTO/1976%20-%2076045%20-%207645-02-009%20-%20PEL%20CUE%20OSCILLATOR&%20AUX%20PROCESSIG%20%28traced%29.json) (the CAD file: `1976 - 76045 - 7645-02-009 - PEL CUE OSCILLATOR& AUX PROCESSIG (traced).dxf`).
 
 ## Full text
 

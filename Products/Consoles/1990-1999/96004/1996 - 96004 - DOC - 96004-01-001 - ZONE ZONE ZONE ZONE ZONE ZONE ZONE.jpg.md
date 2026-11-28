@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (336, 18)–(420, 35) mm: WARD-BECK   SYSTEMS · WBS · TTC
 - **Wiring (first pass):** 452 connected wire groups from 2,528 runs; labelled ends: 310 mm → GROURS; 200 mm → HF; 162 mm → HF; 128 mm → BOCTTc; 76 mm → HF
 
-Every curve, box, word and wire group: [1996 - 96004 - DOC - 96004-01-001 - ZONE ZONE ZONE ZONE ZONE ZONE ZONE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.960004/1996%20-%2096004%20-%20DOC%20-%2096004-01-001%20-%20ZONE%20ZONE%20ZONE%20ZONE%20ZONE%20ZONE%20ZONE%20%28traced%29.json) (the CAD file: `1996 - 96004 - DOC - 96004-01-001 - ZONE ZONE ZONE ZONE ZONE ZONE ZONE (traced).dxf`).
+Every curve, box, word and wire group: [1996 - 96004 - DOC - 96004-01-001 - ZONE ZONE ZONE ZONE ZONE ZONE ZONE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.960004/1996%20-%2096004%20-%20DOC%20-%2096004-01-001%20-%20ZONE%20ZONE%20ZONE%20ZONE%20ZONE%20ZONE%20ZONE%20%28traced%29.json) (the CAD file: `1996 - 96004 - DOC - 96004-01-001 - ZONE ZONE ZONE ZONE ZONE ZONE ZONE (traced).dxf`).
 
 ## Full text
 

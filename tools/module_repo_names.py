@@ -10,6 +10,8 @@ bare MODULES.<CAT>.<M> name.
 """
 import os, re, subprocess, sys, json, time
 
+import wbs_home
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OWNER = 'WardBeckSystems'
 
@@ -39,9 +41,13 @@ def title(mod, names=None):
 
 
 def submodules():
-    """(path, cat, mod, current repo name) for every module submodule (WBSps.ca/Github.WardBeckSystems/MODULES.*)."""
+    """(path, cat, mod, current repo name) for every module submodule (WBSps.ca/Github.WardBeckSystems/…/MODULES.*)."""
     s = open(os.path.join(ROOT, '.gitmodules'), encoding='utf-8').read()
-    for path, url in re.findall(r'path = (WBSps\.ca/Github\.WardBeckSystems/MODULES\.[^\n]+)\n\s*url = (\S+)', s):
+    rx = wbs_home.path_re()
+    for path, url in re.findall(r'path = (WBSps\.ca/Github\.WardBeckSystems/[^\n]+)\n\s*url = (\S+)', s):
+        h = rx.search(path + '/')   # the repo itself (not a folder inside one), wherever its family folder is
+        if not h or h.group(2) or not h.group(1).startswith('MODULES.'):
+            continue
         m = re.match(r'MODULES\.([A-Z0-9-]+)\.(R?[A-Z]*\d+[A-Z0-9]*?)(?:-.+)?$', os.path.basename(path))
         yield path, m.group(1), m.group(2), url.rstrip('/').split('/')[-1].removesuffix('.git')
 

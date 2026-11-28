@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (345, 22)–(430, 39) mm: WBS · WARD-BECK SYSTEMS · CHFI · AIR
 - **Wiring (first pass):** 311 connected wire groups from 1,869 runs, 6 dotted junctions; labelled ends: 935 mm → R]cRCUD TIcR; 293 mm → UuS ^ Richt; 151 mm → RIC T; 124 mm → WBS, 001, 940334-; 78 mm → STEREOE
 
-Every curve, box, word and wire group: [1994 - 940334 - DOC - 940334-01-001 - ARE INTEGRATED INTO CONSOLE TORPEY TIME CLOCK COMPLETE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940334/1994%20-%20940334%20-%20DOC%20-%20940334-01-001%20-%20ARE%20INTEGRATED%20INTO%20CONSOLE%20TORPEY%20TIME%20CLOCK%20COMPLETE%20%28traced%29.json) (the CAD file: `1994 - 940334 - DOC - 940334-01-001 - ARE INTEGRATED INTO CONSOLE TORPEY TIME CLOCK COMPLETE (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940334 - DOC - 940334-01-001 - ARE INTEGRATED INTO CONSOLE TORPEY TIME CLOCK COMPLETE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.940334/1994%20-%20940334%20-%20DOC%20-%20940334-01-001%20-%20ARE%20INTEGRATED%20INTO%20CONSOLE%20TORPEY%20TIME%20CLOCK%20COMPLETE%20%28traced%29.json) (the CAD file: `1994 - 940334 - DOC - 940334-01-001 - ARE INTEGRATED INTO CONSOLE TORPEY TIME CLOCK COMPLETE (traced).dxf`).
 
 ## Full text
 

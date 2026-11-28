@@ -26,7 +26,7 @@ _It carries on each time it is re-homed._
 
 ## Modules in it
 
-[M460](../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460-Input-Module/)
+[M460](../WBSps.ca/Github.WardBeckSystems/MODULES/INPUT-PRE-AMPS/MODULES.INPUT-PRE-AMPS.M460-Input-Module/)
 
 ## Photos & documents (31)
 

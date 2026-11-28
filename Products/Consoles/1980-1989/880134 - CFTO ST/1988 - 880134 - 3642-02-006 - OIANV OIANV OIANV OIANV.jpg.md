@@ -21,7 +21,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Words (OCR):** 16 in 14 lines: oianv · oianv · oianv · oianv · 8'L · SE+n · 9E7n · 4-E gns · gns · ONOw- Zw · oianv · oianv
 - **Wiring (first pass):** 49 connected wire groups from 523 runs; labelled ends: 1155 mm → oianv; 1144 mm → oianv; 166 mm → 8'L; 17 mm → oianv; 17 mm → oianv
 
-Every curve, box, word and wire group: [1988 - 880134 - 3642-02-006 - OIANV OIANV OIANV OIANV (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-006%20-%20OIANV%20OIANV%20OIANV%20OIANV%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-006 - OIANV OIANV OIANV OIANV (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 3642-02-006 - OIANV OIANV OIANV OIANV (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-006%20-%20OIANV%20OIANV%20OIANV%20OIANV%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-006 - OIANV OIANV OIANV OIANV (traced).dxf`).
 
 ## Full text
 

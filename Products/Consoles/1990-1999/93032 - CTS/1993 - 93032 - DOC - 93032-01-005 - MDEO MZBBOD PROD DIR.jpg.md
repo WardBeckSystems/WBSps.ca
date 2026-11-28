@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (341, 18)–(425, 34) mm: WBS · WARD-BECK SYSTEMS · CTS DRAMA  STUDIO
 - **Wiring (first pass):** 205 connected wire groups from 4,088 runs; labelled ends: 34 mm → WBS; 22 mm → cutputs; 15 mm → FLOR; 15 mm → SOARC; 15 mm → FL007
 
-Every curve, box, word and wire group: [1993 - 93032 - DOC - 93032-01-005 - MDEO MZBBOD PROD DIR (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.930032-CTS/1993%20-%2093032%20-%20DOC%20-%2093032-01-005%20-%20MDEO%20MZBBOD%20PROD%20DIR%20%28traced%29.json) (the CAD file: `1993 - 93032 - DOC - 93032-01-005 - MDEO MZBBOD PROD DIR (traced).dxf`).
+Every curve, box, word and wire group: [1993 - 93032 - DOC - 93032-01-005 - MDEO MZBBOD PROD DIR (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.930032-CTS/1993%20-%2093032%20-%20DOC%20-%2093032-01-005%20-%20MDEO%20MZBBOD%20PROD%20DIR%20%28traced%29.json) (the CAD file: `1993 - 93032 - DOC - 93032-01-005 - MDEO MZBBOD PROD DIR (traced).dxf`).
 
 ## Full text
 

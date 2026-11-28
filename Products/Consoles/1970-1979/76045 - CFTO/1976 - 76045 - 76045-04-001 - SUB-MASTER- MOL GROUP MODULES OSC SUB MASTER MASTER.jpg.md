@@ -19,7 +19,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Dots (junctions):** 8
 - **Words (OCR):** 48 in 42 lines: 5 3 · M 2 · 2 5 · 2 6 · 2 7 · 28 · LIC 1 NG · LIC 2 NG ? · M468m AsSignMEnT MODULES ( 28) · M478A · M466 · M466
 
-Every curve, box, word and wire group: [1976 - 76045 - 76045-04-001 - SUB-MASTER- MOL GROUP MODULES OSC SUB MASTER MASTER (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1976%20-%2076045%20-%2076045-04-001%20-%20SUB-MASTER-%20MOL%20GROUP%20MODULES%20OSC%20SUB%20MASTER%20MASTER%20%28traced%29.json) (the CAD file: `1976 - 76045 - 76045-04-001 - SUB-MASTER- MOL GROUP MODULES OSC SUB MASTER MASTER (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76045 - 76045-04-001 - SUB-MASTER- MOL GROUP MODULES OSC SUB MASTER MASTER (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.760045-CFTO/1976%20-%2076045%20-%2076045-04-001%20-%20SUB-MASTER-%20MOL%20GROUP%20MODULES%20OSC%20SUB%20MASTER%20MASTER%20%28traced%29.json) (the CAD file: `1976 - 76045 - 76045-04-001 - SUB-MASTER- MOL GROUP MODULES OSC SUB MASTER MASTER (traced).dxf`).
 
 ## Full text
 

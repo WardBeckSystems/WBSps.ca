@@ -151,8 +151,11 @@ function show(path) {
 // schematic, DRC for a board (kicad-cli, tools/kicad_checks.py → _catalog/kicad_checks/). A file too big for the website is
 // read from its repository on GitHub.
 const KICAD = /\.kicad_(sch|pcb)$/i;
+// a repo's files: Github.WardBeckSystems/[family/[group/]]<repo>/<path> (names repeated ten or more times are in a folder:
+// tools/wbs_home.py). Group 1 the repo, group 2 the path in it.
+const REPO_RE = /Github\.WardBeckSystems\/(?:(?:MODULES|CONSOLE|SUBASSEMBLY|INTERCOM|PRODUCTS)\/(?:[A-Z][A-Z0-9-]*\/)?)?([^\/]+)\/(.+)$/;
 function showKicad(path) {
-  const g = path.match(/Github\.WardBeckSystems\/([^\/]+)\/(.+)$/);
+  const g = path.match(REPO_RE);
   const raw = g ? `https://raw.githubusercontent.com/WardBeckSystems/${g[1]}/main/${enc(g[2])}` : null;
   view.innerHTML = '<div class="none"><p>Drawing the KiCad file…</p></div>';
   const draw = src => {
@@ -284,14 +287,14 @@ if (rel && /^https?:/.test(location.protocol) && !KICAD.test(rel)) {   // (a KiC
   fetch(enc(rel), { method: 'HEAD' }).then(r => {
     if (r.ok) return;
     // a module's clone path (WBSps.ca/Github.WardBeckSystems/MODULES.<CAT>.<M>-<Fn>/<file>) is on the Drive map as Modules/<CAT>/<M>/<file>
-    const mm = rel.match(/Github\.WardBeckSystems\/MODULES\.([A-Z0-9-]+)\.(R?[A-Z]*\d+[A-Z0-9]*?)(?:-[^\/]+)?\/(.+)$/);
+    const mm = rel.match(/Github\.WardBeckSystems\/(?:(?:MODULES|CONSOLE|SUBASSEMBLY|INTERCOM|PRODUCTS)\/(?:[A-Z][A-Z0-9-]*\/)?)?MODULES\.([A-Z0-9-]+)\.(R?[A-Z]*\d+[A-Z0-9]*?)(?:-[^\/]+)?\/(.+)$/);
     const look = k => window.driveLookup ? window.driveLookup(k) : Promise.resolve(null);
     return look(rel).then(dv => dv || (mm ? look(`Modules/${mm[1]}/${mm[2]}/${mm[3]}`) : null)).then(dv => dv ? showOffline(dv) : showGitHub() || showOffline(null));
   }).catch(() => {});
 }
 // a file too big for the website (tools/pages_build.py publishes up to 1 MB) is in its repository on GitHub
 function showGitHub() {
-  const g = rel.match(/Github\.WardBeckSystems\/([^\/]+)\/(.+)$/);
+  const g = rel.match(REPO_RE);
   if (!g) return false;
   const raw = `https://github.com/WardBeckSystems/${g[1]}/raw/main/${enc(g[2])}`;
   view.innerHTML = /\.(jpe?g|png|gif|webp)$/i.test(rel)

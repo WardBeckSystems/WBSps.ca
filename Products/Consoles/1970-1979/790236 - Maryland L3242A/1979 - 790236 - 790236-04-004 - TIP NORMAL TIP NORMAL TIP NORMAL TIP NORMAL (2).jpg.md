@@ -19,7 +19,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Closed boxes:** 71
 - **Dots (junctions):** 4
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-04-004 - TIP NORMAL TIP NORMAL TIP NORMAL TIP NORMAL (2) (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-04-004%20-%20TIP%20NORMAL%20TIP%20NORMAL%20TIP%20NORMAL%20TIP%20NORMAL%20%282%29%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-04-004 - TIP NORMAL TIP NORMAL TIP NORMAL TIP NORMAL (2) (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-04-004 - TIP NORMAL TIP NORMAL TIP NORMAL TIP NORMAL (2) (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-04-004%20-%20TIP%20NORMAL%20TIP%20NORMAL%20TIP%20NORMAL%20TIP%20NORMAL%20%282%29%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-04-004 - TIP NORMAL TIP NORMAL TIP NORMAL TIP NORMAL (2) (traced).dxf`).
 
 ## Full text
 

@@ -20,7 +20,7 @@ Wiki page: [Consoles](../../../../PAGES/Consoles.md)
 - **Words (OCR):** 14 in 13 lines: OPMONAL · 4528 · input SELectors · STEREO · hoouLES · cohtrollap · WBS WARD-BECk ByBTEN · ST2442 · STEREO TELEVISION CONSC · FRONT VIEW LAYOUT · Arn ( · ScALE
 - **Title block:** (352, 0)–(432, 36) mm: WBS WARD-BECk ByBTEN · ST2442 · STEREO TELEVISION CONSC · FRONT VIEW LAYOUT · Arn ( · ScALE · 2442-04-002
 
-Every curve, box, word and wire group: [1985 - ST - 2442-04-002 - MIC-LINE TEREO LIHE JLANR UHPUT SELECTORS LZI INPUT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.WBS-St-Series-Stereo-Console/1985%20-%20ST%20-%202442-04-002%20-%20MIC-LINE%20TEREO%20LIHE%20JLANR%20UHPUT%20SELECTORS%20LZI%20INPUT%20%28traced%29.json) (the CAD file: `1985 - ST - 2442-04-002 - MIC-LINE TEREO LIHE JLANR UHPUT SELECTORS LZI INPUT (traced).dxf`).
+Every curve, box, word and wire group: [1985 - ST - 2442-04-002 - MIC-LINE TEREO LIHE JLANR UHPUT SELECTORS LZI INPUT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.WBS-St-Series-Stereo-Console/1985%20-%20ST%20-%202442-04-002%20-%20MIC-LINE%20TEREO%20LIHE%20JLANR%20UHPUT%20SELECTORS%20LZI%20INPUT%20%28traced%29.json) (the CAD file: `1985 - ST - 2442-04-002 - MIC-LINE TEREO LIHE JLANR UHPUT SELECTORS LZI INPUT (traced).dxf`).
 
 ## Full text
 

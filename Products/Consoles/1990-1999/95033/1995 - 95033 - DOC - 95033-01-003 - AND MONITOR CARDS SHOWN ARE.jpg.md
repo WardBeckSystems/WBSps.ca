@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (344, 28)–(428, 45) mm: WBS · WARD · BECK SYSTEMS · CBC VANCOUVER
 - **Wiring (first pass):** 159 connected wire groups from 10,767 runs, 2013 dotted junctions; labelled ends: 108 mm → WBS, ScALF, DISC NO; 54 mm → 95033, 003; 5 mm → KupLeR
 
-Every curve, box, word and wire group: [1995 - 95033 - DOC - 95033-01-003 - AND MONITOR CARDS SHOWN ARE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.950033/1995%20-%2095033%20-%20DOC%20-%2095033-01-003%20-%20AND%20MONITOR%20CARDS%20SHOWN%20ARE%20%28traced%29.json) (the CAD file: `1995 - 95033 - DOC - 95033-01-003 - AND MONITOR CARDS SHOWN ARE (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 95033 - DOC - 95033-01-003 - AND MONITOR CARDS SHOWN ARE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.950033/1995%20-%2095033%20-%20DOC%20-%2095033-01-003%20-%20AND%20MONITOR%20CARDS%20SHOWN%20ARE%20%28traced%29.json) (the CAD file: `1995 - 95033 - DOC - 95033-01-003 - AND MONITOR CARDS SHOWN ARE (traced).dxf`).
 
 ## Full text
 

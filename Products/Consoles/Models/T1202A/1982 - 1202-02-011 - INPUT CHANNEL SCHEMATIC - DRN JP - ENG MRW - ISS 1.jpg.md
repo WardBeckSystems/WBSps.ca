@@ -35,7 +35,7 @@ Wiki page: [T1202A](../../../../PAGES/T1202A.md)
 - **Title block:** (283, 1)–(432, 77) mm: SEP32 REDRAWN · FOR T1202A JP · (ISSUE |DATE · REVISION · APP · WBS WARD-BECK sYSTEMS · DRN. JP SEP82 · ENG . · Mew · INPUT CHANNEL · CKD Uv · SCHEMATIC · APP · SCALE · ISSUE · 1202- 02 - 011
 - **Wiring (first pass):** 31 connected wire groups from 205 runs; labelled ends: 645 mm → ARE, 6F, CHANNEL, ZH; 410 mm → ARE, 2B, 3,C, 1A; 63 mm → #22 RD, #22BLK, PIN4,5, 20; 57 mm → MIXING, Busses, 6F, M1 MASTER; 53 mm → CHANNEL, FADER, (-15dB)[3Je, 18
 
-Every curve, box, word and wire group: [1982 - 1202-02-011 - INPUT CHANNEL SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.T1202A/1982%20-%201202-02-011%20-%20INPUT%20CHANNEL%20SCHEMATIC%20-%20DRN%20JP%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1982 - 1202-02-011 - INPUT CHANNEL SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - 1202-02-011 - INPUT CHANNEL SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/MODEL/CONSOLE.MODEL.T1202A/1982%20-%201202-02-011%20-%20INPUT%20CHANNEL%20SCHEMATIC%20-%20DRN%20JP%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1982 - 1202-02-011 - INPUT CHANNEL SCHEMATIC - DRN JP - ENG MRW - ISS 1 (traced).dxf`).
 
 ## Full text
 

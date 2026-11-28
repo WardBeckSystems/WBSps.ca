@@ -31,7 +31,7 @@ Wiki page: [Job-940238](../../../../PAGES/Job-940238.md)
 - **Words (OCR):** 119 in 102 lines: 8 33 · F8-8250NC15 · UNC-C'Sk · REQ"D · 0.100 DIA-c"Sk · 0.180,DIA · REQ'D · DATUM · 0.200 · nas · Vadinx · Madinx
 - **Title block:** (673, 10)–(856, 269) mm: DETAIL · (SCALE 4) · MATERIAL: ALUM · ALLOY 0.125 THICK · FINISH: SAND 120 GRIT AND PAINT · TEXTURED BEIGE (452C) · TEXCOTE VINYL_ · (EXTRA FINE · TEXTURE) · NOTE: · REMOVE ALL BURRS AND SHARP EDGES: 
 
-Every curve, box, word and wire group: [1994 - 940238-03-011 - M901NX MIC INPUT MODULE - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940238-CKNW/940238/1994%20-%20940238-03-011%20-%20M901NX%20MIC%20INPUT%20MODULE%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940238-03-011 - M901NX MIC INPUT MODULE - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940238-03-011 - M901NX MIC INPUT MODULE - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.940238-CKNW/940238/1994%20-%20940238-03-011%20-%20M901NX%20MIC%20INPUT%20MODULE%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940238-03-011 - M901NX MIC INPUT MODULE - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

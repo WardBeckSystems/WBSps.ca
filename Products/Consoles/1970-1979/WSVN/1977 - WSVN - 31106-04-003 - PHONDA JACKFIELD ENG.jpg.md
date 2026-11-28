@@ -20,7 +20,7 @@ Wiki page: [Consoles](../../../../PAGES/Consoles.md)
 - **Words (OCR):** 15 in 13 lines: LEGEND · ROW · JUMPER · TpA · TERNIYAL BLoCh · CONSOLE · PRELIMINARY · WBS WAAD-BeCk SysteMS · JACKFIELD · Viami · Latout · SCALE
 - **Title block:** (358, 1)–(432, 33) mm: WBS WAAD-BeCk SysteMS · JACKFIELD · Viami · Latout · SCALE · 31106-04-003/1
 
-Every curve, box, word and wire group: [1977 - WSVN - 31106-04-003 - PHONDA JACKFIELD ENG (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.WSVN/1977%20-%20WSVN%20-%2031106-04-003%20-%20PHONDA%20JACKFIELD%20ENG%20%28traced%29.json) (the CAD file: `1977 - WSVN - 31106-04-003 - PHONDA JACKFIELD ENG (traced).dxf`).
+Every curve, box, word and wire group: [1977 - WSVN - 31106-04-003 - PHONDA JACKFIELD ENG (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.WSVN/1977%20-%20WSVN%20-%2031106-04-003%20-%20PHONDA%20JACKFIELD%20ENG%20%28traced%29.json) (the CAD file: `1977 - WSVN - 31106-04-003 - PHONDA JACKFIELD ENG (traced).dxf`).
 
 ## Full text
 

@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (337, 5)–(426, 40) mm: WBS · WARD-BECK SYSTEMS · ALGONQUIN COLLEGE · INTEGRATED  MEDIA · CENTRE · 48x48 INTERCOM FUNCTIONAL · SCALE DISC NO; 5150" · COLE; 9512F02 · 95012-01-002
 - **Wiring (first pass):** 102 connected wire groups from 5,762 runs, 1654 dotted junctions; labelled ends: 151 mm → FUTURE; 27 mm → Roos; 12 mm → PACE, FUTURE; 11 mm → FUTURE, PACE; 9 mm → CROSSPOSTT
 
-Every curve, box, word and wire group: [1995 - 95012 - DOC - 95012-01-002 - TUDIO STUDIO NEWS SUPER EDIT FUTURE PAGE FUTURE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.950012/1995%20-%2095012%20-%20DOC%20-%2095012-01-002%20-%20TUDIO%20STUDIO%20NEWS%20SUPER%20EDIT%20FUTURE%20PAGE%20FUTURE%20%28traced%29.json) (the CAD file: `1995 - 95012 - DOC - 95012-01-002 - TUDIO STUDIO NEWS SUPER EDIT FUTURE PAGE FUTURE (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 95012 - DOC - 95012-01-002 - TUDIO STUDIO NEWS SUPER EDIT FUTURE PAGE FUTURE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.950012/1995%20-%2095012%20-%20DOC%20-%2095012-01-002%20-%20TUDIO%20STUDIO%20NEWS%20SUPER%20EDIT%20FUTURE%20PAGE%20FUTURE%20%28traced%29.json) (the CAD file: `1995 - 95012 - DOC - 95012-01-002 - TUDIO STUDIO NEWS SUPER EDIT FUTURE PAGE FUTURE (traced).dxf`).
 
 ## Full text
 

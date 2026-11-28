@@ -31,7 +31,7 @@ Studio monitor module schematic. Title block at top right reading downward.
 - **Closed boxes:** 16
 - **Wiring (first pass):** 256 connected wire groups from 1,541 runs
 
-Every curve, box, word and wire group: [1994 - 940444-02-022 - M905B STUDIO MONITOR MODULE SCHEMATIC - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940444-WBZ-Boston/940444/1994%20-%20940444-02-022%20-%20M905B%20STUDIO%20MONITOR%20MODULE%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940444-02-022 - M905B STUDIO MONITOR MODULE SCHEMATIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940444-02-022 - M905B STUDIO MONITOR MODULE SCHEMATIC - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.940444-WBZ-Boston/940444/1994%20-%20940444-02-022%20-%20M905B%20STUDIO%20MONITOR%20MODULE%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940444-02-022 - M905B STUDIO MONITOR MODULE SCHEMATIC - ISS 1 (traced).dxf`).
 
 ## Full text
 

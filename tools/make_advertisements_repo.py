@@ -11,7 +11,9 @@ TOP = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.argv = ['make_site.py', os.path.join(TOP, '2026'), os.path.join(TOP, 'site')]
 sys.path.insert(0, os.path.join(TOP, '2026', 'timelines'))
 import make_site as M  # noqa: E402
-SRC, OUT = os.path.join(TOP, '2026', 'ADVERTISEMENTS'), os.path.join(TOP, 'WBSps.ca', 'Github.WardBeckSystems', 'ADVERTISEMENTS')
+sys.path.insert(0, os.path.join(TOP, 'tools'))   # run with -I: the script's folder is not on sys.path
+import wbs_home  # noqa: E402
+SRC, OUT = os.path.join(TOP, '2026', 'ADVERTISEMENTS'), wbs_home.repo_dir('ADVERTISEMENTS')
 PIC = {'.jpg', '.jpeg', '.png', '.pdf', '.gif', '.tif', '.tiff'}
 n = skipped = 0
 for dp, dn, fn in os.walk(SRC):

@@ -14,11 +14,11 @@ tags: ["project", "1970s"]
 | Years | 1975 (from the dated files in this project) |
 | Files | 10 |
 | Job number | none found yet |
-| Folder | [Modules/METER/M405C](../WBSps.ca/Github.WardBeckSystems/MODULES.METER.M405C-Rack-Mounted-Extended-Range-VU-Meter/) |
+| Folder | [Modules/METER/M405C](../WBSps.ca/Github.WardBeckSystems/MODULES/METER/MODULES.METER.M405C-Rack-Mounted-Extended-Range-VU-Meter/) |
 
 ## Modules
 
-- [M405C](../WBSps.ca/Github.WardBeckSystems/MODULES.METER.M405C-Rack-Mounted-Extended-Range-VU-Meter/) — Rack Mounted Extended Range VU Meter _(METER)_
+- [M405C](../WBSps.ca/Github.WardBeckSystems/MODULES/METER/MODULES.METER.M405C-Rack-Mounted-Extended-Range-VU-Meter/) — Rack Mounted Extended Range VU Meter _(METER)_
 
 ## Files (10)
 

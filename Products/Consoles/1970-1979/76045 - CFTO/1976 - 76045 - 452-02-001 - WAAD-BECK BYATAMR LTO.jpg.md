@@ -24,7 +24,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Title block:** (343, 24)–(405, 54) mm: WBS WAD-Beck byetami} LTO · DrIA Ho4s · M 452 · DAIE JLL1L OSCILLATOR SCHEMATIC · cKD · ScALE · LC · ToLs · 452 02 ool
 - **Wiring (first pass):** 122 connected wire groups from 689 runs; labelled ends: 684 mm → Mop [cko, zoge, Ral, WBS; 111 mm → 88288, 7164, 624, 6i0; 62 mm → 09 7cia, P52; 55 mm → CR 2; 48 mm → CR 2, C7 149iq
 
-Every curve, box, word and wire group: [1976 - 76045 - 452-02-001 - WAAD-BECK BYATAMR LTO (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1976%20-%2076045%20-%20452-02-001%20-%20WAAD-BECK%20BYATAMR%20LTO%20%28traced%29.json) (the CAD file: `1976 - 76045 - 452-02-001 - WAAD-BECK BYATAMR LTO (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76045 - 452-02-001 - WAAD-BECK BYATAMR LTO (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.760045-CFTO/1976%20-%2076045%20-%20452-02-001%20-%20WAAD-BECK%20BYATAMR%20LTO%20%28traced%29.json) (the CAD file: `1976 - 76045 - 452-02-001 - WAAD-BECK BYATAMR LTO (traced).dxf`).
 
 ## Full text
 

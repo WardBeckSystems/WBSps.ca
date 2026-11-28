@@ -1,5 +1,5 @@
 # 19xx - 14-075-06-001 - SA14-075 STEREO PREAMPLIFIER ASSEMBLY COMPONENT LAYOUT - ISS 1.jpg
-Wiki page: [M471C](../../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M471C-Stereo-Input-Module/)
+Wiki page: [M471C](../../WBSps.ca/Github.WardBeckSystems/MODULES/INPUT-PRE-AMPS/MODULES.INPUT-PRE-AMPS.M471C-Stereo-Input-Module/)
 
 
 - **Year:** unknown (title block (read by eye))

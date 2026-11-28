@@ -20,7 +20,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Closed boxes:** 36
 - **Wiring (first pass):** 20 connected wire groups from 339 runs
 
-Every curve, box, word and wire group: [1988 - 880134 - 3642-02-011 - CONTROL QUIRED GROUND BAR GROUND BAR (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-011%20-%20CONTROL%20QUIRED%20GROUND%20BAR%20GROUND%20BAR%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-011 - CONTROL QUIRED GROUND BAR GROUND BAR (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 3642-02-011 - CONTROL QUIRED GROUND BAR GROUND BAR (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-011%20-%20CONTROL%20QUIRED%20GROUND%20BAR%20GROUND%20BAR%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-011 - CONTROL QUIRED GROUND BAR GROUND BAR (traced).dxf`).
 
 ## Full text
 

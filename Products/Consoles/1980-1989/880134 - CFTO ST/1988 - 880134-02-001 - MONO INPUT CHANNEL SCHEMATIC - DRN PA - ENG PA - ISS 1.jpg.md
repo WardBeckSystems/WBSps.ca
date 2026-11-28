@@ -34,7 +34,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Title block:** (678, 10)–(862, 86) mm: LSSUE · DAIBL · REVSION · APP. · WBS WARD-BECK · SYSTEMS · DRN: PA 08/88 · ENG. · MONO INPUT CHANNEL · Ckd; · SCHEMA TIC · APP · SCALE DISC NO: · CODE: 80134501 · 880134-02-001 · ISSUE
 - **Wiring (first pass):** 264 connected wire groups from 1,629 runs; labelled ends: 1188 mm → Eae, 10.29; 959 mm → CONTROL, 2Sv, SIGNAL GND, +25v; 564 mm → "RibSoR? &R; 469 mm → LJ5v; 173 mm → cl
 
-Every curve, box, word and wire group: [1988 - 880134-02-001 - MONO INPUT CHANNEL SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134-02-001%20-%20MONO%20INPUT%20CHANNEL%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1988 - 880134-02-001 - MONO INPUT CHANNEL SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134-02-001 - MONO INPUT CHANNEL SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134-02-001%20-%20MONO%20INPUT%20CHANNEL%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1988 - 880134-02-001 - MONO INPUT CHANNEL SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).dxf`).
 
 ## Full text
 

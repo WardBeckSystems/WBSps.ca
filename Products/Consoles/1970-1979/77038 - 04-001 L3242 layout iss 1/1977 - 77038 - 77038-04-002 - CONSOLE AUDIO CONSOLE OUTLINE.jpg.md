@@ -20,7 +20,7 @@ Wiki page: [Job-77038](../../../../PAGES/Job-77038.md)
 - **Words (OCR):** 5 in 4 lines: WBS WAAD-DeCK systeMS · WBS L3242  CONSOLE · AUDIO CONSOLE OUTLINE · 77038-04-002
 - **Title block:** (358, 7)–(432, 32) mm: WBS WAAD-DeCK systeMS · WBS L3242  CONSOLE · AUDIO CONSOLE OUTLINE
 
-Every curve, box, word and wire group: [1977 - 77038 - 77038-04-002 - CONSOLE AUDIO CONSOLE OUTLINE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.770038-04-001-L3242-layout-iss-1/1977%20-%2077038%20-%2077038-04-002%20-%20CONSOLE%20AUDIO%20CONSOLE%20OUTLINE%20%28traced%29.json) (the CAD file: `1977 - 77038 - 77038-04-002 - CONSOLE AUDIO CONSOLE OUTLINE (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 77038 - 77038-04-002 - CONSOLE AUDIO CONSOLE OUTLINE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.770038-04-001-L3242-layout-iss-1/1977%20-%2077038%20-%2077038-04-002%20-%20CONSOLE%20AUDIO%20CONSOLE%20OUTLINE%20%28traced%29.json) (the CAD file: `1977 - 77038 - 77038-04-002 - CONSOLE AUDIO CONSOLE OUTLINE (traced).dxf`).
 
 ## Full text
 

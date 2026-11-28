@@ -20,7 +20,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Closed boxes:** 33
 - **Wiring (first pass):** 73 connected wire groups from 519 runs
 
-Every curve, box, word and wire group: [1988 - 880134 - 3642-02-009 - STEREO TIE JUMPER PINS CORRECTED (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-009%20-%20STEREO%20TIE%20JUMPER%20PINS%20CORRECTED%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-009 - STEREO TIE JUMPER PINS CORRECTED (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 3642-02-009 - STEREO TIE JUMPER PINS CORRECTED (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-009%20-%20STEREO%20TIE%20JUMPER%20PINS%20CORRECTED%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-009 - STEREO TIE JUMPER PINS CORRECTED (traced).dxf`).
 
 ## Full text
 

@@ -31,7 +31,7 @@ Wiki page: [Job-880651](../../../../PAGES/Job-880651.md)
 - **Circles and arcs:** 0 circles, 5 arcs
 - **Wiring (first pass):** 21 connected wire groups from 135 runs
 
-Every curve, box, word and wire group: [1988 - 880651-02-005 - TALKBACK, OSCILLATOR & CUE AMP SCHEMATIC - DRN PA - ENG PA - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880651-TVO-M1204B/1988%20-%20880651-02-005%20-%20TALKBACK,%20OSCILLATOR%20&%20CUE%20AMP%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1988 - 880651-02-005 - TALKBACK, OSCILLATOR & CUE AMP SCHEMATIC - DRN PA - ENG PA - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880651-02-005 - TALKBACK, OSCILLATOR & CUE AMP SCHEMATIC - DRN PA - ENG PA - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.880651-TVO-M1204B/1988%20-%20880651-02-005%20-%20TALKBACK,%20OSCILLATOR%20&%20CUE%20AMP%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1988 - 880651-02-005 - TALKBACK, OSCILLATOR & CUE AMP SCHEMATIC - DRN PA - ENG PA - ISS 2 (traced).dxf`).
 
 ## Full text
 

@@ -37,7 +37,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Title block:** (348, 5)–(432, 41) mm: ISSUE DALE · REVISION · WBS WARD-BECK systems · Erects 5 /TCHER · SCHEYATIC · SCAle · 730236-02 Oos · ISsuF
 - **Wiring (first pass):** 100 connected wire groups from 853 runs, 2 dotted junctions; labelled ends: 57 mm → ISSUE DALE; 33 mm → Ch2; 31 mm → C42; 29 mm → 44594; 21 mm → 2828
 
-Every curve, box, word and wire group: [1978 - 790236-02-006 - EFFECTS SWITCHER SCHEMATIC - DRN SRH - ENG SRH - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1978%20-%20790236-02-006%20-%20EFFECTS%20SWITCHER%20SCHEMATIC%20-%20DRN%20SRH%20-%20ENG%20SRH%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1978 - 790236-02-006 - EFFECTS SWITCHER SCHEMATIC - DRN SRH - ENG SRH - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 790236-02-006 - EFFECTS SWITCHER SCHEMATIC - DRN SRH - ENG SRH - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.790236-Maryland-L3242A/1978%20-%20790236-02-006%20-%20EFFECTS%20SWITCHER%20SCHEMATIC%20-%20DRN%20SRH%20-%20ENG%20SRH%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1978 - 790236-02-006 - EFFECTS SWITCHER SCHEMATIC - DRN SRH - ENG SRH - ISS 2 (traced).dxf`).
 
 ## Full text
 

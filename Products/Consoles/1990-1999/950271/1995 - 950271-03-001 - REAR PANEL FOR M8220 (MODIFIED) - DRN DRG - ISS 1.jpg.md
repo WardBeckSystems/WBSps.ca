@@ -31,7 +31,7 @@ Wiki page: [Job-950271](../../../../PAGES/Job-950271.md)
 - **Words (OCR):** 31 in 29 lines: 0328 · DEIN · DEIAIL · 0,516 · PLOTC · detal · PLACES · DEIAIL · DEIUL · DETA · ELLCS · 28 25
 - **Title block:** (674, 40)–(844, 73) mm: REVSIO" · WARD-BECK SYSTEMS · WBS · REAR PANEL
 
-Every curve, box, word and wire group: [1995 - 950271-03-001 - REAR PANEL FOR M8220 (MODIFIED) - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.950271/1995%20-%20950271-03-001%20-%20REAR%20PANEL%20FOR%20M8220%20%28MODIFIED%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 950271-03-001 - REAR PANEL FOR M8220 (MODIFIED) - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 950271-03-001 - REAR PANEL FOR M8220 (MODIFIED) - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.950271/1995%20-%20950271-03-001%20-%20REAR%20PANEL%20FOR%20M8220%20%28MODIFIED%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 950271-03-001 - REAR PANEL FOR M8220 (MODIFIED) - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

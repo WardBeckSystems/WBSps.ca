@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 9 in 7 lines: 25 · HLLCTO · DAT · WBS WARD-Beck bybtems · WBS L3242 CONSOLE · CONSOLE LAYOUT · 77038 04-001
 - **Title block:** (359, 8)–(432, 32) mm: DAT · WBS WARD-Beck bybtems · WBS L3242 CONSOLE · CONSOLE LAYOUT
 
-Every curve, box, word and wire group: [1977 - 77038 - DOC - 77038-04-001 - SACL FOR HOTIOH COHTROL DAL REVTSOH (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.770038-04-001-L3242-layout-iss-1/1977%20-%2077038%20-%20DOC%20-%2077038-04-001%20-%20SACL%20FOR%20HOTIOH%20COHTROL%20DAL%20REVTSOH%20%28traced%29.json) (the CAD file: `1977 - 77038 - DOC - 77038-04-001 - SACL FOR HOTIOH COHTROL DAL REVTSOH (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 77038 - DOC - 77038-04-001 - SACL FOR HOTIOH COHTROL DAL REVTSOH (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.770038-04-001-L3242-layout-iss-1/1977%20-%2077038%20-%20DOC%20-%2077038-04-001%20-%20SACL%20FOR%20HOTIOH%20COHTROL%20DAL%20REVTSOH%20%28traced%29.json) (the CAD file: `1977 - 77038 - DOC - 77038-04-001 - SACL FOR HOTIOH COHTROL DAL REVTSOH (traced).dxf`).
 
 ## Full text
 

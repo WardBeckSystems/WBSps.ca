@@ -34,7 +34,7 @@ Photo of a grounding schematic, upside-down title block at top left. Title block
 - **Closed boxes:** 32
 - **Wiring (first pass):** 69 connected wire groups from 436 runs
 
-Every curve, box, word and wire group: [1987 - 860800-02-016 - GROUNDING SCHEMATIC - DRN initials handwritten, - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.860800/1987%20-%20860800-02-016%20-%20GROUNDING%20SCHEMATIC%20-%20DRN%20initials%20handwritten,%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1987 - 860800-02-016 - GROUNDING SCHEMATIC - DRN initials handwritten, - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - 860800-02-016 - GROUNDING SCHEMATIC - DRN initials handwritten, - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.860800/1987%20-%20860800-02-016%20-%20GROUNDING%20SCHEMATIC%20-%20DRN%20initials%20handwritten,%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1987 - 860800-02-016 - GROUNDING SCHEMATIC - DRN initials handwritten, - ISS 1 (traced).dxf`).
 
 ## Full text
 

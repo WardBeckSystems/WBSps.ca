@@ -31,7 +31,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (337, 6)–(426, 39) mm: ISSULENEL · WBS · WARD-BECK SYSTEMS · TORONTO BROADCAST    CENTRE · 48x48 · STUDIO · INTERCOM SYSTEM · SCALE DISC NO; · FUNCTIONA · 920008-01 001
 - **Wiring (first pass):** 267 connected wire groups from 5,966 runs, 185 dotted junctions; labelled ends: 1953 mm → aloCk; 194 mm → Pp; 62 mm → aloCk; 62 mm → aloCk; 62 mm → aloCk
 
-Every curve, box, word and wire group: [2008 - 920008 - DOC - 920008-01-001 - INTERCOM SYSTEM STUDIO (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.920008/2008%20-%20920008%20-%20DOC%20-%20920008-01-001%20-%20INTERCOM%20SYSTEM%20STUDIO%20%28traced%29.json) (the CAD file: `2008 - 920008 - DOC - 920008-01-001 - INTERCOM SYSTEM STUDIO (traced).dxf`).
+Every curve, box, word and wire group: [2008 - 920008 - DOC - 920008-01-001 - INTERCOM SYSTEM STUDIO (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.920008/2008%20-%20920008%20-%20DOC%20-%20920008-01-001%20-%20INTERCOM%20SYSTEM%20STUDIO%20%28traced%29.json) (the CAD file: `2008 - 920008 - DOC - 920008-01-001 - INTERCOM SYSTEM STUDIO (traced).dxf`).
 
 ## Full text
 

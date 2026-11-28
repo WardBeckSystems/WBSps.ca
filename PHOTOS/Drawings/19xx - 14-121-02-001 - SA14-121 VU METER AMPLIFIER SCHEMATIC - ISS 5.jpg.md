@@ -1,5 +1,5 @@
 # 19xx - 14-121-02-001 - SA14-121 VU METER AMPLIFIER SCHEMATIC - ISS 5.jpg
-Wiki page: [M435](../../WBSps.ca/Github.WardBeckSystems/MODULES.METER.M435-VU-Meter/)
+Wiki page: [M435](../../WBSps.ca/Github.WardBeckSystems/MODULES/METER/MODULES.METER.M435-VU-Meter/)
 
 
 - **Year:** unknown (title block (read by eye))

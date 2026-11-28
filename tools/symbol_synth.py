@@ -4,7 +4,7 @@
 
     python3 tools/symbol_synth.py [--data-only] [--check] [CODE ...]
 
-Two steps, both per module repository (WBSps.ca/Github.WardBeckSystems/MODULES.<CAT>.<M>-<Function>):
+Two steps, both per module repository (WBSps.ca/Github.WardBeckSystems/MODULES/…/MODULES.<CAT>.<M>-<Function>):
 
 1. Data. RTO.json in the repo is the module's pinout. When it lacks a connector on its pins (the older, derived files) or the
    repo has none, it is filled from the archive's other readings of the same connector: the RTO-144 sheet
@@ -66,12 +66,13 @@ CONF = {'high': 4, 'medium': 3, 'low': 2, 'variant': 1}
 
 
 def modules():
-    """[(code, category, repo dir)] of every module repository."""
+    """[(code, category, repo dir)] of every module repository (wherever tools/wbs_home.py keeps it)."""
+    import wbs_home
     out = []
-    for d in sorted(os.listdir(HOME)):
-        m = re.match(r'^MODULES\.([A-Z0-9-]+)\.(R?[A-Z]*\d+[A-Z0-9]*?)(?:-.+)?$', d)
-        if m and os.path.isdir(os.path.join(HOME, d, '.git')):
-            out.append((m.group(2), m.group(1), os.path.join(HOME, d)))
+    for name, d in sorted(wbs_home.repos().items()):
+        m = re.match(r'^MODULES\.([A-Z0-9-]+)\.(R?[A-Z]*\d+[A-Z0-9]*?)(?:-.+)?$', name)
+        if m:
+            out.append((m.group(2), m.group(1), d))
     return out
 
 

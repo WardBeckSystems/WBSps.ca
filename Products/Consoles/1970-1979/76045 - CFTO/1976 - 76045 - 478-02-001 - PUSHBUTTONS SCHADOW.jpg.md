@@ -21,7 +21,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Closed boxes:** 44
 - **Wiring (first pass):** 64 connected wire groups from 418 runs
 
-Every curve, box, word and wire group: [1976 - 76045 - 478-02-001 - PUSHBUTTONS SCHADOW (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1976%20-%2076045%20-%20478-02-001%20-%20PUSHBUTTONS%20SCHADOW%20%28traced%29.json) (the CAD file: `1976 - 76045 - 478-02-001 - PUSHBUTTONS SCHADOW (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76045 - 478-02-001 - PUSHBUTTONS SCHADOW (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.760045-CFTO/1976%20-%2076045%20-%20478-02-001%20-%20PUSHBUTTONS%20SCHADOW%20%28traced%29.json) (the CAD file: `1976 - 76045 - 478-02-001 - PUSHBUTTONS SCHADOW (traced).dxf`).
 
 ## Full text
 

@@ -21,7 +21,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Words (OCR):** 52 in 40 lines: NQIE; · LEDS · ARE NOT PROVIDED WITH PPM'S · ALL · OTHER WIRING IS IDENTICAL · WHEN PPM'S · ARE SUPPLIED · UTILITY · UTILITY · RIGHT · LEFT · M435
 - **Wiring (first pass):** 49 connected wire groups from 374 runs; labelled ends: 1364 mm → +25v, SIGNAL, -25v, 20; 184 mm → P2, P1, 7,8; 179 mm → P2, 10; 53 mm → -25v, +25v; 40 mm → 10
 
-Every curve, box, word and wire group: [1988 - 880134 - 3642-02-005 - DENTICAL PLIED UTILITY RIGHT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-005%20-%20DENTICAL%20PLIED%20UTILITY%20RIGHT%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-005 - DENTICAL PLIED UTILITY RIGHT (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 3642-02-005 - DENTICAL PLIED UTILITY RIGHT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-005%20-%20DENTICAL%20PLIED%20UTILITY%20RIGHT%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-005 - DENTICAL PLIED UTILITY RIGHT (traced).dxf`).
 
 ## Full text
 

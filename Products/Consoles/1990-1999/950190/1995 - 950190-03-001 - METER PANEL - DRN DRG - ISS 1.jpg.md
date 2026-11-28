@@ -32,7 +32,7 @@ Wiki page: [Job-950190](../../../../PAGES/Job-950190.md)
 - **Words (OCR):** 32 in 28 lines: Ract · 0,500 · DATUM · 5.14z · DUNCE · PUNC J,720 · 2.Oc0 · DETAIL · DETAIL · JNSERT · RECD · ~SERT
 - **Title block:** (677, 38)–(848, 72) mm: RCMSICH · WARD-BECK  SYSTEMS · WBS
 
-Every curve, box, word and wire group: [1995 - 950190-03-001 - METER PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.950190/1995%20-%20950190-03-001%20-%20METER%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 950190-03-001 - METER PANEL - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 950190-03-001 - METER PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.950190/1995%20-%20950190-03-001%20-%20METER%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 950190-03-001 - METER PANEL - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

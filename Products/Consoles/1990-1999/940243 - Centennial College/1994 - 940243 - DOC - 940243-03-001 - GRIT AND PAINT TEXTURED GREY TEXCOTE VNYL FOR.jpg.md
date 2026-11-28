@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 28 in 27 lines: 0656 · DEIAM · 0,780 DiA · PLACS · DETAIL · DETAL D · DETA · PLLCS · 5.420 · CETA · PLACES · 3 170
 - **Title block:** (344, 23)–(428, 40) mm: WBS · WARD-BECK SYSTEMS · INTERFACE
 
-Every curve, box, word and wire group: [1994 - 940243 - DOC - 940243-03-001 - GRIT AND PAINT TEXTURED GREY TEXCOTE VNYL FOR (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.940243-Centennial-College/940243%20-%20Centennial%20College/1994%20-%20940243%20-%20DOC%20-%20940243-03-001%20-%20GRIT%20AND%20PAINT%20TEXTURED%20GREY%20TEXCOTE%20VNYL%20FOR%20%28traced%29.json) (the CAD file: `1994 - 940243 - DOC - 940243-03-001 - GRIT AND PAINT TEXTURED GREY TEXCOTE VNYL FOR (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940243 - DOC - 940243-03-001 - GRIT AND PAINT TEXTURED GREY TEXCOTE VNYL FOR (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.940243-Centennial-College/940243%20-%20Centennial%20College/1994%20-%20940243%20-%20DOC%20-%20940243-03-001%20-%20GRIT%20AND%20PAINT%20TEXTURED%20GREY%20TEXCOTE%20VNYL%20FOR%20%28traced%29.json) (the CAD file: `1994 - 940243 - DOC - 940243-03-001 - GRIT AND PAINT TEXTURED GREY TEXCOTE VNYL FOR (traced).dxf`).
 
 ## Full text
 

@@ -20,7 +20,7 @@ Wiki page: [Consoles](../../../../PAGES/Consoles.md)
 - **Words (OCR):** 20 in 15 lines: WIs · Msj08 · ISSUE DATE · REVISION · WBS WARD-BECK SYSTEnE · ORN.BD A · 23 · M538B · ENG: HZw 4X2 MONO SWITCHER MODUL · CKd. X6 ! · FRONT PANEL LAYOUT · APP * 0
 - **Title block:** (20, 0)–(200, 92) mm: ISSUE DATE · REVISION · WBS WARD-BECK SYSTEnE · ORN.BD A · 23 · M538B · ENG: HZw 4X2 MONO SWITCHER MODUL · CKd. X6 ! · FRONT PANEL LAYOUT · APP * 0 · SCALE · 538-04-003 · ISSUE
 
-Every curve, box, word and wire group: [1985 - ST - 538-04-003 - MONO SWITCHER MODULI (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.WBS-St-Series-Stereo-Console/1985%20-%20ST%20-%20538-04-003%20-%20MONO%20SWITCHER%20MODULI%20%28traced%29.json) (the CAD file: `1985 - ST - 538-04-003 - MONO SWITCHER MODULI (traced).dxf`).
+Every curve, box, word and wire group: [1985 - ST - 538-04-003 - MONO SWITCHER MODULI (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.WBS-St-Series-Stereo-Console/1985%20-%20ST%20-%20538-04-003%20-%20MONO%20SWITCHER%20MODULI%20%28traced%29.json) (the CAD file: `1985 - ST - 538-04-003 - MONO SWITCHER MODULI (traced).dxf`).
 
 ## Full text
 

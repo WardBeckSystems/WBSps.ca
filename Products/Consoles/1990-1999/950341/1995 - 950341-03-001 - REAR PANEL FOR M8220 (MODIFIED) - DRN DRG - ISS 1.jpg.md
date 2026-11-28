@@ -31,7 +31,7 @@ Wiki page: [Job-950341](../../../../PAGES/Job-950341.md)
 - **Words (OCR):** 48 in 42 lines: DFTAI F · QEIAIL · 0JE 4 · PLACES · detal · DETAI · 0"50 DACES · PITCHES · 1.760 5.250 · PLOS · FLACES · detai
 - **Title block:** (680, 8)–(856, 84) mm: ISSUEI DAT · WBS · WARD-BECK SYSTEMS · REAR PANEL · FOR M8220 · (MODIFIED) · SCALE · 950341-03-001 · CODZ; 05341M01
 
-Every curve, box, word and wire group: [1995 - 950341-03-001 - REAR PANEL FOR M8220 (MODIFIED) - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.950341/1995%20-%20950341-03-001%20-%20REAR%20PANEL%20FOR%20M8220%20%28MODIFIED%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 950341-03-001 - REAR PANEL FOR M8220 (MODIFIED) - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 950341-03-001 - REAR PANEL FOR M8220 (MODIFIED) - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.950341/1995%20-%20950341-03-001%20-%20REAR%20PANEL%20FOR%20M8220%20%28MODIFIED%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 950341-03-001 - REAR PANEL FOR M8220 (MODIFIED) - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

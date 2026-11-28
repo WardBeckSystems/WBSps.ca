@@ -21,7 +21,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Closed boxes:** 215
 - **Wiring (first pass):** 60 connected wire groups from 996 runs
 
-Every curve, box, word and wire group: [1988 - 880134 - 880134-02-014 - JACKFIELD WIRING DRA WING (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%20880134-02-014%20-%20JACKFIELD%20WIRING%20DRA%20WING%20%28traced%29.json) (the CAD file: `1988 - 880134 - 880134-02-014 - JACKFIELD WIRING DRA WING (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 880134-02-014 - JACKFIELD WIRING DRA WING (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%20880134-02-014%20-%20JACKFIELD%20WIRING%20DRA%20WING%20%28traced%29.json) (the CAD file: `1988 - 880134 - 880134-02-014 - JACKFIELD WIRING DRA WING (traced).dxf`).
 
 ## Full text
 

@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 75 in 69 lines: MG · H2 · HuM · FRE · TRAF · NEWS · TAPE · TAPE · HL2 · CR MON · VETER · DCSI
 - **Title block:** (306, 1)–(432, 61) mm: IISSUE · REVISION · WARD-BECK · SYSTEMS · WBS · CFNY · DRN; DRG · ENG_ · MASTER · CONTROL ROOM · CKD_ · CONSOLE · LA YOUT · APP · SCALE DISC NO: SYSO1 · 96002-04-004 · ISS · 1:2 CODE: 96002L04
 
-Every curve, box, word and wire group: [1996 - 96002 - DOC - 96002-04-004 - CFNY ENG MASTER CONTROL ROOM (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.960002-CFNY/1996%20-%2096002%20-%20DOC%20-%2096002-04-004%20-%20CFNY%20ENG%20MASTER%20CONTROL%20ROOM%20%28traced%29.json) (the CAD file: `1996 - 96002 - DOC - 96002-04-004 - CFNY ENG MASTER CONTROL ROOM (traced).dxf`).
+Every curve, box, word and wire group: [1996 - 96002 - DOC - 96002-04-004 - CFNY ENG MASTER CONTROL ROOM (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.960002-CFNY/1996%20-%2096002%20-%20DOC%20-%2096002-04-004%20-%20CFNY%20ENG%20MASTER%20CONTROL%20ROOM%20%28traced%29.json) (the CAD file: `1996 - 96002 - DOC - 96002-04-004 - CFNY ENG MASTER CONTROL ROOM (traced).dxf`).
 
 ## Full text
 

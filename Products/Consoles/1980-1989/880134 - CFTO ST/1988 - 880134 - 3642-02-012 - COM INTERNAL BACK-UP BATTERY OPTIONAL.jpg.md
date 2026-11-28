@@ -21,7 +21,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Words (OCR):** 43 in 34 lines: SUBMASTERS 174 · MONITORS 1-4 · Eueaza;;aaza;;uuuu 2/1 · 39595313.13.03323332uuu · xl · p| p · 3is · e/5 · 2 0 · slelulelslelalelslxsl=l · 7300 · 7400
 - **Wiring (first pass):** 22 connected wire groups from 362 runs; labelled ends: 4502 mm → 39595313.13.03323332uuu, Eueaza;;aaza;;uuuu; 1556 mm → 7500, slel3i; 257 mm → P2, +12v; 66 mm → 7300; 66 mm → 36, 7500, slel3i
 
-Every curve, box, word and wire group: [1988 - 880134 - 3642-02-012 - COM INTERNAL BACK-UP BATTERY OPTIONAL (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-012%20-%20COM%20INTERNAL%20BACK-UP%20BATTERY%20OPTIONAL%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-012 - COM INTERNAL BACK-UP BATTERY OPTIONAL (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 3642-02-012 - COM INTERNAL BACK-UP BATTERY OPTIONAL (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-012%20-%20COM%20INTERNAL%20BACK-UP%20BATTERY%20OPTIONAL%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-012 - COM INTERNAL BACK-UP BATTERY OPTIONAL (traced).dxf`).
 
 ## Full text
 

@@ -31,7 +31,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Closed boxes:** 38
 - **Dots (junctions):** 4
 
-Every curve, box, word and wire group: [1977 - 76045-04-006 - PADBOARD #2 LAYOUT - DRN ELJ - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1977%20-%2076045-04-006%20-%20PADBOARD%20%232%20LAYOUT%20-%20DRN%20ELJ%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1977 - 76045-04-006 - PADBOARD #2 LAYOUT - DRN ELJ - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 76045-04-006 - PADBOARD #2 LAYOUT - DRN ELJ - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.760045-CFTO/1977%20-%2076045-04-006%20-%20PADBOARD%20%232%20LAYOUT%20-%20DRN%20ELJ%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1977 - 76045-04-006 - PADBOARD #2 LAYOUT - DRN ELJ - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 40 in 35 lines: JALBAC · NJJEPSC · ADCRESS · JALAAC · OR-7-32 · LETEL · Aur ^ · ANNOUNCER_TURRET · VIC OY/CF · HEADPHONF · ouiuTS · XLA}-JZ
 - **Wiring (first pass):** 100 connected wire groups from 576 runs; labelled ends: 409 mm → WARD-BECK SYSTEMS, WB3S, IERM, ZT; 215 mm → Aur ^; 120 mm → NJJEPSC, ANNOUNCER_TURRET; 114 mm → NJJEPAC; 74 mm → VIC OY/CF
 
-Every curve, box, word and wire group: [1994 - 94021 - DOC - 94021-01-004 - SIMILAR GUEST SSUE REMSION (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940021-GLEN-GOULD-STUDIO/94021%20-%20Glenn%20Gould%20Studio/1994%20-%2094021%20-%20DOC%20-%2094021-01-004%20-%20SIMILAR%20GUEST%20SSUE%20REMSION%20%28traced%29.json) (the CAD file: `1994 - 94021 - DOC - 94021-01-004 - SIMILAR GUEST SSUE REMSION (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 94021 - DOC - 94021-01-004 - SIMILAR GUEST SSUE REMSION (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.940021-GLEN-GOULD-STUDIO/94021%20-%20Glenn%20Gould%20Studio/1994%20-%2094021%20-%20DOC%20-%2094021-01-004%20-%20SIMILAR%20GUEST%20SSUE%20REMSION%20%28traced%29.json) (the CAD file: `1994 - 94021 - DOC - 94021-01-004 - SIMILAR GUEST SSUE REMSION (traced).dxf`).
 
 ## Full text
 

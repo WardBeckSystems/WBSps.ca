@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 29 in 24 lines: 9308, · RFO"D · 9.05/ · REO'D · MATERIAL: C.R.S. 0.048  THICK · 17U · FINISH: SAND 120 GRIT AND PAINT · TEXTURED BEIGE (452C) · TEXCOTE VNYL. · (EXTRA FINE TEXTURE) · BURRS · EHAR ED CES
 - **Title block:** (344, 23)–(428, 39) mm: KSDAT · REMsOH · WBS · WARD-BECK SYSTEMS · M907
 
-Every curve, box, word and wire group: [1994 - 940350 - DOC - 940350-03-002 - CUSTOM MODULE TOP PLATE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940350/1994%20-%20940350%20-%20DOC%20-%20940350-03-002%20-%20CUSTOM%20MODULE%20TOP%20PLATE%20%28traced%29.json) (the CAD file: `1994 - 940350 - DOC - 940350-03-002 - CUSTOM MODULE TOP PLATE (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940350 - DOC - 940350-03-002 - CUSTOM MODULE TOP PLATE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.940350/1994%20-%20940350%20-%20DOC%20-%20940350-03-002%20-%20CUSTOM%20MODULE%20TOP%20PLATE%20%28traced%29.json) (the CAD file: `1994 - 940350 - DOC - 940350-03-002 - CUSTOM MODULE TOP PLATE (traced).dxf`).
 
 ## Full text
 

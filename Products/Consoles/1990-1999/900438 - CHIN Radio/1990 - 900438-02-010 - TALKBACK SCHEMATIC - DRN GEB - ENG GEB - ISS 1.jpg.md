@@ -34,7 +34,7 @@ Wiki page: [Job-900438](../../../../PAGES/Job-900438.md)
 - **Dots (junctions):** 2
 - **Wiring (first pass):** 79 connected wire groups from 535 runs, 1 dotted junctions
 
-Every curve, box, word and wire group: [1990 - 900438-02-010 - TALKBACK SCHEMATIC - DRN GEB - ENG GEB - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.900438-CHIN-Radio/1990%20-%20900438-02-010%20-%20TALKBACK%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1990 - 900438-02-010 - TALKBACK SCHEMATIC - DRN GEB - ENG GEB - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1990 - 900438-02-010 - TALKBACK SCHEMATIC - DRN GEB - ENG GEB - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.900438-CHIN-Radio/1990%20-%20900438-02-010%20-%20TALKBACK%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1990 - 900438-02-010 - TALKBACK SCHEMATIC - DRN GEB - ENG GEB - ISS 1 (traced).dxf`).
 
 ## Full text
 

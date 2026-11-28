@@ -32,7 +32,7 @@ Wiki page: [Job-940332](../../../../PAGES/Job-940332.md)
 - **Words (OCR):** 28 in 24 lines: DATU · 7.220 · D-TAM · 1605 · JUNCE · RZO D · 5750 · 0 117 · DETAIL · DETAIL · 44028 RECD " · PITC{0.7C0) (J) -
 - **Title block:** (686, 46)–(854, 79) mm: WBS WARD- · BECK SYSTEMS
 
-Every curve, box, word and wire group: [1994 - 940332-03-001 - METER PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940332/1994%20-%20940332-03-001%20-%20METER%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940332-03-001 - METER PANEL - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940332-03-001 - METER PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.940332/1994%20-%20940332-03-001%20-%20METER%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940332-03-001 - METER PANEL - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

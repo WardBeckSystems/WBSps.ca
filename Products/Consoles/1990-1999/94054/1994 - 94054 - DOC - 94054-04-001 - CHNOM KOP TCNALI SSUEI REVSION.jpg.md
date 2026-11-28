@@ -24,7 +24,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Dots (junctions):** 1
 - **Words (OCR):** 13 in 11 lines: UETER · 00 · 8 %9 9 · e2 9 · WB3S · WARD-BECK SYSTEMS · AcUSTOORK RADIO · TELEMEDIA · RENAISSYOC CE MkII · DISC_NO: · 94054-04-001
 
-Every curve, box, word and wire group: [1994 - 94054 - DOC - 94054-04-001 - CHNOM KOP TCNALI SSUEI REVSION (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940054/1994%20-%2094054%20-%20DOC%20-%2094054-04-001%20-%20CHNOM%20KOP%20TCNALI%20SSUEI%20REVSION%20%28traced%29.json) (the CAD file: `1994 - 94054 - DOC - 94054-04-001 - CHNOM KOP TCNALI SSUEI REVSION (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 94054 - DOC - 94054-04-001 - CHNOM KOP TCNALI SSUEI REVSION (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.940054/1994%20-%2094054%20-%20DOC%20-%2094054-04-001%20-%20CHNOM%20KOP%20TCNALI%20SSUEI%20REVSION%20%28traced%29.json) (the CAD file: `1994 - 94054 - DOC - 94054-04-001 - CHNOM KOP TCNALI SSUEI REVSION (traced).dxf`).
 
 ## Full text
 

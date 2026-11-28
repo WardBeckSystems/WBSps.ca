@@ -23,7 +23,7 @@ Wiki page: [Job-880651](../../../../PAGES/Job-880651.md)
 - **Title block:** (364, 14)–(432, 31) mm: WBS · WARD- · BECK · SYSTEMS · ONTARIO · TRACK RECORDING CONSOLE
 - **Wiring (first pass):** 210 connected wire groups from 1,242 runs
 
-Every curve, box, word and wire group: [1988 - 880651 - 880651-01-001 - MIC PHANTOM POWER ADDED SSUE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880651-TVO-M1204B/1988%20-%20880651%20-%20880651-01-001%20-%20MIC%20PHANTOM%20POWER%20ADDED%20SSUE%20%28traced%29.json) (the CAD file: `1988 - 880651 - 880651-01-001 - MIC PHANTOM POWER ADDED SSUE (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880651 - 880651-01-001 - MIC PHANTOM POWER ADDED SSUE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.880651-TVO-M1204B/1988%20-%20880651%20-%20880651-01-001%20-%20MIC%20PHANTOM%20POWER%20ADDED%20SSUE%20%28traced%29.json) (the CAD file: `1988 - 880651 - 880651-01-001 - MIC PHANTOM POWER ADDED SSUE (traced).dxf`).
 
 ## Full text
 

@@ -31,7 +31,7 @@ Photo of a rotated WBS mic input module schematic sheet 3, title block partly cr
 - **Words (OCR):** 2 in 2 lines: Ht · 94
 - **Wiring (first pass):** 111 connected wire groups from 572 runs; labelled ends: 27 mm → Ht; 15 mm → 94; 15 mm → Ht; 10 mm → 94; 9 mm → 94
 
-Every curve, box, word and wire group: [1994 - 940444-02-100 - MIC INPUT MODULE SCHEMATIC (4) (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940444-WBZ-Boston/940444/1994%20-%20940444-02-100%20-%20MIC%20INPUT%20MODULE%20SCHEMATIC%20%284%29%20%28traced%29.json) (the CAD file: `1994 - 940444-02-100 - MIC INPUT MODULE SCHEMATIC (4) (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940444-02-100 - MIC INPUT MODULE SCHEMATIC (4) (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.940444-WBZ-Boston/940444/1994%20-%20940444-02-100%20-%20MIC%20INPUT%20MODULE%20SCHEMATIC%20%284%29%20%28traced%29.json) (the CAD file: `1994 - 940444-02-100 - MIC INPUT MODULE SCHEMATIC (4) (traced).dxf`).
 
 ## Full text
 

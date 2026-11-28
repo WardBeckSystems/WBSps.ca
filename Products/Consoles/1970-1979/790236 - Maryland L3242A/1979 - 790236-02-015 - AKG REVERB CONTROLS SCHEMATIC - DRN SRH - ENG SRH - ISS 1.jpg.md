@@ -33,7 +33,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Closed boxes:** 12
 - **Wiring (first pass):** 50 connected wire groups from 265 runs
 
-Every curve, box, word and wire group: [1979 - 790236-02-015 - AKG REVERB CONTROLS SCHEMATIC - DRN SRH - ENG SRH - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236-02-015%20-%20AKG%20REVERB%20CONTROLS%20SCHEMATIC%20-%20DRN%20SRH%20-%20ENG%20SRH%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1979 - 790236-02-015 - AKG REVERB CONTROLS SCHEMATIC - DRN SRH - ENG SRH - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236-02-015 - AKG REVERB CONTROLS SCHEMATIC - DRN SRH - ENG SRH - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236-02-015%20-%20AKG%20REVERB%20CONTROLS%20SCHEMATIC%20-%20DRN%20SRH%20-%20ENG%20SRH%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1979 - 790236-02-015 - AKG REVERB CONTROLS SCHEMATIC - DRN SRH - ENG SRH - ISS 1 (traced).dxf`).
 
 ## Full text
 

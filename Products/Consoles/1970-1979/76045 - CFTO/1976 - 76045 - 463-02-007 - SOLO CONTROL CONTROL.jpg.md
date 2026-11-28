@@ -21,7 +21,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Closed boxes:** 46
 - **Wiring (first pass):** 85 connected wire groups from 490 runs
 
-Every curve, box, word and wire group: [1976 - 76045 - 463-02-007 - SOLO CONTROL CONTROL (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1976%20-%2076045%20-%20463-02-007%20-%20SOLO%20CONTROL%20CONTROL%20%28traced%29.json) (the CAD file: `1976 - 76045 - 463-02-007 - SOLO CONTROL CONTROL (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76045 - 463-02-007 - SOLO CONTROL CONTROL (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.760045-CFTO/1976%20-%2076045%20-%20463-02-007%20-%20SOLO%20CONTROL%20CONTROL%20%28traced%29.json) (the CAD file: `1976 - 76045 - 463-02-007 - SOLO CONTROL CONTROL (traced).dxf`).
 
 ## Full text
 

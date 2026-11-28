@@ -1,5 +1,5 @@
 # 19xx - 8-117-02-001 - SA8-117 INDICATOR DRIVER ASSEMBLY SCHEMATIC - ISS 1.jpg
-Wiki page: [M612A](../../WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M612A-Audio-Distribution-Amplifier/)
+Wiki page: [M612A](../../WBSps.ca/Github.WardBeckSystems/MODULES/AMPLIFIERS/MODULES.AMPLIFIERS.M612A-Audio-Distribution-Amplifier/)
 
 
 - **Year:** unknown (title block (read by eye))

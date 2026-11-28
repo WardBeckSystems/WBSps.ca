@@ -20,7 +20,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Closed boxes:** 25
 - **Wiring (first pass):** 118 connected wire groups from 592 runs
 
-Every curve, box, word and wire group: [1988 - 880134 - 2442-01-001 - UTIL MODULE AUX MONITOR UTIL MODULE AUX (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%202442-01-001%20-%20UTIL%20MODULE%20AUX%20MONITOR%20UTIL%20MODULE%20AUX%20%28traced%29.json) (the CAD file: `1988 - 880134 - 2442-01-001 - UTIL MODULE AUX MONITOR UTIL MODULE AUX (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 2442-01-001 - UTIL MODULE AUX MONITOR UTIL MODULE AUX (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%202442-01-001%20-%20UTIL%20MODULE%20AUX%20MONITOR%20UTIL%20MODULE%20AUX%20%28traced%29.json) (the CAD file: `1988 - 880134 - 2442-01-001 - UTIL MODULE AUX MONITOR UTIL MODULE AUX (traced).dxf`).
 
 ## Full text
 

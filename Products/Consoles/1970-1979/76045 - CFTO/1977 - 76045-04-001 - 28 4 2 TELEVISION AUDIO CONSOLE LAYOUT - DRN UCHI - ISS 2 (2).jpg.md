@@ -31,7 +31,7 @@ Upside-down television audio console layout with title block at top left.
 - **Circles and arcs:** 5 circles, 0 arcs; largest r 3.3 @ (38.7, 813.3), r 3.3 @ (48.8, 793.7), r 2.3 @ (48.7, 804.0), r 2.1 @ (72.8, 728.6)
 - **Closed boxes:** 56
 
-Every curve, box, word and wire group: [1977 - 76045-04-001 - 28 4 2 TELEVISION AUDIO CONSOLE LAYOUT - DRN UCHI - ISS 2 (2) (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1977%20-%2076045-04-001%20-%2028%204%202%20TELEVISION%20AUDIO%20CONSOLE%20LAYOUT%20-%20DRN%20UCHI%20-%20ISS%202%20%282%29%20%28traced%29.json) (the CAD file: `1977 - 76045-04-001 - 28 4 2 TELEVISION AUDIO CONSOLE LAYOUT - DRN UCHI - ISS 2 (2) (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 76045-04-001 - 28 4 2 TELEVISION AUDIO CONSOLE LAYOUT - DRN UCHI - ISS 2 (2) (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.760045-CFTO/1977%20-%2076045-04-001%20-%2028%204%202%20TELEVISION%20AUDIO%20CONSOLE%20LAYOUT%20-%20DRN%20UCHI%20-%20ISS%202%20%282%29%20%28traced%29.json) (the CAD file: `1977 - 76045-04-001 - 28 4 2 TELEVISION AUDIO CONSOLE LAYOUT - DRN UCHI - ISS 2 (2) (traced).dxf`).
 
 ## Full text
 

@@ -24,7 +24,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 11 in 9 lines: SPARE · SCRIT · WBS · WARD-BECK SYSTEMS · CBC REGIONAL ENGINEERING · IFB MATRIX FRAME · LAYOUT · NTS ccof · 94061-04-003
 - **Title block:** (344, 23)–(428, 40) mm: WBS · WARD-BECK SYSTEMS · CBC REGIONAL ENGINEERING
 
-Every curve, box, word and wire group: [1994 - 94061 - DOC - 94061-04-003 - IFB OUT SPARE CHAR GEN AVD SCRIPT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.940061/1994%20-%2094061%20-%20DOC%20-%2094061-04-003%20-%20IFB%20OUT%20SPARE%20CHAR%20GEN%20AVD%20SCRIPT%20%28traced%29.json) (the CAD file: `1994 - 94061 - DOC - 94061-04-003 - IFB OUT SPARE CHAR GEN AVD SCRIPT (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 94061 - DOC - 94061-04-003 - IFB OUT SPARE CHAR GEN AVD SCRIPT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.940061/1994%20-%2094061%20-%20DOC%20-%2094061-04-003%20-%20IFB%20OUT%20SPARE%20CHAR%20GEN%20AVD%20SCRIPT%20%28traced%29.json) (the CAD file: `1994 - 94061 - DOC - 94061-04-003 - IFB OUT SPARE CHAR GEN AVD SCRIPT (traced).dxf`).
 
 ## Full text
 

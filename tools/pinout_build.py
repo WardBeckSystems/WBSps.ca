@@ -27,10 +27,12 @@ import os
 import re
 import sys
 
+import wbs_home
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
 ENG = os.path.join(REPO, '2026', 'Engineering')
-CLONES = os.path.join(REPO, 'WBSps.ca', 'Github.WardBeckSystems')
+CLONES = wbs_home.HOME
 KINDS = ('PINOUTS', 'MANUALS', 'SCHEMATICS', 'MECHANICAL', 'PHOTOS')
 CONF = {'high': 3, 'medium': 2, 'low': 1}
 LEFT = ('in', 'insert_return', 'control_in', 'bus', 'strap', 'other')
@@ -51,7 +53,11 @@ def code_of(moddir):
 
 def module_dirs(root):
     out = {}
-    for d in sorted(glob.glob(os.path.join(root, 'MODULES.*'))) + sorted(glob.glob(os.path.join(root, '*', 'M*'))):
+    if os.path.abspath(root) == os.path.abspath(CLONES):   # the clones, wherever their family folders are
+        found = [d for n, d in sorted(wbs_home.repos().items()) if n.startswith('MODULES.')]
+    else:
+        found = sorted(glob.glob(os.path.join(root, 'MODULES.*'))) + sorted(glob.glob(os.path.join(root, '*', 'M*')))
+    for d in found:
         if os.path.isdir(d) and d not in out.get(code_of(d), []):
             out.setdefault(code_of(d), []).append(d)   # a code may have a repo in two categories
     return out

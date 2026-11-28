@@ -29,7 +29,7 @@ title: "Input transformers (60-n)"
 
 [1967|0](Year-1967.md) · 3 drawings
 
-Used in: [M501](../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M501-Preamplifier/), [M8205](../WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M8205-Audio-Distribution-Amplifier/), [M900](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M900-MK-Series-Hardware/)
+Used in: [M501](../WBSps.ca/Github.WardBeckSystems/MODULES/INPUT-PRE-AMPS/MODULES.INPUT-PRE-AMPS.M501-Preamplifier/), [M8205](../WBSps.ca/Github.WardBeckSystems/MODULES/AMPLIFIERS/MODULES.AMPLIFIERS.M8205-Audio-Distribution-Amplifier/), [M900](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M900-MK-Series-Hardware/)
 
 [19xx - 900-03-046 - TRANSFORMERS 10X(60-3) BRACKET - ISS 1.jpg](../Modules/UNSORTED/M900/19xx%20-%20900-03-046%20-%20TRANSFORMERS%2010X%2860-3%29%20BRACKET%20-%20ISS%201.jpg), [1967 - 60-3 - 60-3 SYSTEM TRANSFORMER.png](../PHOTOS/Drawings/1967%20-%2060-3%20-%2060-3%20SYSTEM%20TRANSFORMER.png), [1968 - A 9009 - VERT. 60-3 XFMR MTG BRKT - ISS 1.png](../PHOTOS/Drawings/1968%20-%20A%209009%20-%20VERT.%2060-3%20XFMR%20MTG%20BRKT%20-%20ISS%201.png)
 
@@ -39,7 +39,7 @@ Used in: [M501](../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M501-P
 
 [1967|0](Year-1967.md) · drawn D MCFARLANE · 4 drawings
 
-Used in: [M600](../WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M600-Universal-Amplifier/)
+Used in: [M600](../WBSps.ca/Github.WardBeckSystems/MODULES/AMPLIFIERS/MODULES.AMPLIFIERS.M600-Universal-Amplifier/)
 
 [1967 - 60-4 - 60-4 INPUT TRANSFORMER.png](../Modules/AMPLIFIERS/M600/1967%20-%2060-4%20-%2060-4%20INPUT%20TRANSFORMER.png), [1975 - B 9315 - 60-4 INPUT TRANSFORMER - DRN D. McFarlane - ISS 1.jpg](../PHOTOS/Drawings/1975%20-%20B%209315%20-%2060-4%20INPUT%20TRANSFORMER%20-%20DRN%20D.%20McFarlane%20-%20ISS%201.jpg), [1975 - B 9315 - 60-4 INPUT TRANSFORMER - DRN D.M'FARLANE - ISS 1 (2).jpg](../PHOTOS/Drawings/1975%20-%20B%209315%20-%2060-4%20INPUT%20TRANSFORMER%20-%20DRN%20D.M%27FARLANE%20-%20ISS%201%20%282%29.jpg), [1975 - B 9315 - 60-4 INPUT TRANSFORMER - DRN D.M'FARLANE - ISS 1.jpg](../PHOTOS/Drawings/1975%20-%20B%209315%20-%2060-4%20INPUT%20TRANSFORMER%20-%20DRN%20D.M%27FARLANE%20-%20ISS%201.jpg)
 
@@ -49,7 +49,7 @@ Used in: [M600](../WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M600-Unive
 
 [1968|1](Year-1968.md) · 1 drawing
 
-Used in: [M124](../WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M124-Line-Amplifier/), [RM401](../WBSps.ca/Github.WardBeckSystems/MODULES.METER.RM401-Noise-Suppressor/)
+Used in: [M124](../WBSps.ca/Github.WardBeckSystems/MODULES/AMPLIFIERS/MODULES.AMPLIFIERS.M124-Line-Amplifier/), [RM401](../WBSps.ca/Github.WardBeckSystems/MODULES/METER/MODULES.METER.RM401-Noise-Suppressor/)
 
 [1968 - 60-5 - INPUT TRANSFORMER TYPE 60-5 - CKD R. Bell - ISS 2.png](../PHOTOS/Drawings/1968%20-%2060-5%20-%20INPUT%20TRANSFORMER%20TYPE%2060-5%20-%20CKD%20R.%20Bell%20-%20ISS%202.png)
 
@@ -67,7 +67,7 @@ Used in: [M124](../WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M124-Line-
 
 [1968|1](Year-1968.md) · drawn [REB](Person-REB.md) · 2 drawings
 
-Used in: [M402](../WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M402-Equalizer/), [M402B](../WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M402B-Effects-Equalizer/), [M404](../WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M404-Equalizer/), [M404A](../WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M404A-Hi-Lo-Pass-Filter/), [M415](../WBSps.ca/Github.WardBeckSystems/MODULES.DYNAMICS.M415-Mic-Line-Amplifier-with-Compression/), [M480](../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M480-Input-Module/)
+Used in: [M402](../WBSps.ca/Github.WardBeckSystems/MODULES/FILTERS/MODULES.FILTERS.M402-Equalizer/), [M402B](../WBSps.ca/Github.WardBeckSystems/MODULES/FILTERS/MODULES.FILTERS.M402B-Effects-Equalizer/), [M404](../WBSps.ca/Github.WardBeckSystems/MODULES/FILTERS/MODULES.FILTERS.M404-Equalizer/), [M404A](../WBSps.ca/Github.WardBeckSystems/MODULES/FILTERS/MODULES.FILTERS.M404A-Hi-Lo-Pass-Filter/), [M415](../WBSps.ca/Github.WardBeckSystems/MODULES/DYNAMICS/MODULES.DYNAMICS.M415-Mic-Line-Amplifier-with-Compression/), [M480](../WBSps.ca/Github.WardBeckSystems/MODULES/INPUT-PRE-AMPS/MODULES.INPUT-PRE-AMPS.M480-Input-Module/)
 
 [1975 - 480-03-005 - BRACKET - TRANS. (60-7) MTG - DRN REB - ISS 1.jpg](../Modules/INPUT-PRE-AMPS/M480/1975%20-%20480-03-005%20-%20BRACKET%20-%20TRANS.%20%2860-7%29%20MTG%20-%20DRN%20REB%20-%20ISS%201.jpg), [1968 - 60-7 - 60-7 INPUT TRANSFORMER - ISS 2.png](../PHOTOS/Drawings/1968%20-%2060-7%20-%2060-7%20INPUT%20TRANSFORMER%20-%20ISS%202.png)
 
@@ -85,7 +85,7 @@ Used in: [M402](../WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M402-Equalize
 
 [1968|1](Year-1968.md) · 1 drawing
 
-Used in: [M441M](../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M441M-Channel-Amplifier/)
+Used in: [M441M](../WBSps.ca/Github.WardBeckSystems/MODULES/INPUT-PRE-AMPS/MODULES.INPUT-PRE-AMPS.M441M-Channel-Amplifier/)
 
 [1968 - 60-9 - 60-9 INPUT TRANSFORMER - ISS 2.png](../PHOTOS/Drawings/1968%20-%2060-9%20-%2060-9%20INPUT%20TRANSFORMER%20-%20ISS%202.png)
 
@@ -95,7 +95,7 @@ Used in: [M441M](../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M441M
 
 [1975|8](Year-1975.md) · drawn [D MFARLANE](Person-D-MFARLANE.md) · 2 drawings
 
-Used in: [M480A](../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M480A-Input-Module/)
+Used in: [M480A](../WBSps.ca/Github.WardBeckSystems/MODULES/INPUT-PRE-AMPS/MODULES.INPUT-PRE-AMPS.M480A-Input-Module/)
 
 [1975 - 60-10 - 60-10 INPUT TRANSFORMER.png](../PHOTOS/Drawings/1975%20-%2060-10%20-%2060-10%20INPUT%20TRANSFORMER.png), [1975 - B 9314 - 60-10 INPUT TRANSFORMER - DRN D. M'FARLANE.png](../PHOTOS/Drawings/1975%20-%20B%209314%20-%2060-10%20INPUT%20TRANSFORMER%20-%20DRN%20D.%20M%27FARLANE.png)
 
@@ -105,7 +105,7 @@ Used in: [M480A](../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M480A
 
 [1983|16](Year-1983.md) · drawn [GEB (Gerry E. Bell)](Person-GEB.md) · 1 drawing
 
-Used in: [M460M](../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460M-Input-Module/), [M480A](../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M480A-Input-Module/)
+Used in: [M460M](../WBSps.ca/Github.WardBeckSystems/MODULES/INPUT-PRE-AMPS/MODULES.INPUT-PRE-AMPS.M460M-Input-Module/), [M480A](../WBSps.ca/Github.WardBeckSystems/MODULES/INPUT-PRE-AMPS/MODULES.INPUT-PRE-AMPS.M480A-Input-Module/)
 
 [1983 - B 60-11 - 60-11 INPUT TRANSFORMER - DRN GEB - ENG GEB - ISS 2.png](../PHOTOS/Drawings/1983%20-%20B%2060-11%20-%2060-11%20INPUT%20TRANSFORMER%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%202.png)
 
@@ -115,7 +115,7 @@ Used in: [M460M](../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460M
 
 [1990|23](Year-1990.md) · drawn [GEB (Gerry E. Bell)](Person-GEB.md) · 1 drawing
 
-Used in: [M470A](../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M470A-Input-Module/), [M470C](../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M470C-Input-Module/), [M470E](../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M470E-Input-Module/), [M480](../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M480-Input-Module/), [M480B](../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M480B-Input-Module/), [M480C](../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M480C-Input-Module/), [M490H](../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490H-Line-Input-Module/), [M490J](../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490J-Mic-Input-Module/), [M490K](../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M490K-Line-Input-Module/), [M520A](../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M520A-Mono-Input-Module/)
+Used in: [M470A](../WBSps.ca/Github.WardBeckSystems/MODULES/INPUT-PRE-AMPS/MODULES.INPUT-PRE-AMPS.M470A-Input-Module/), [M470C](../WBSps.ca/Github.WardBeckSystems/MODULES/INPUT-PRE-AMPS/MODULES.INPUT-PRE-AMPS.M470C-Input-Module/), [M470E](../WBSps.ca/Github.WardBeckSystems/MODULES/INPUT-PRE-AMPS/MODULES.INPUT-PRE-AMPS.M470E-Input-Module/), [M480](../WBSps.ca/Github.WardBeckSystems/MODULES/INPUT-PRE-AMPS/MODULES.INPUT-PRE-AMPS.M480-Input-Module/), [M480B](../WBSps.ca/Github.WardBeckSystems/MODULES/INPUT-PRE-AMPS/MODULES.INPUT-PRE-AMPS.M480B-Input-Module/), [M480C](../WBSps.ca/Github.WardBeckSystems/MODULES/INPUT-PRE-AMPS/MODULES.INPUT-PRE-AMPS.M480C-Input-Module/), [M490H](../WBSps.ca/Github.WardBeckSystems/MODULES/INPUT-PRE-AMPS/MODULES.INPUT-PRE-AMPS.M490H-Line-Input-Module/), [M490J](../WBSps.ca/Github.WardBeckSystems/MODULES/INPUT-PRE-AMPS/MODULES.INPUT-PRE-AMPS.M490J-Mic-Input-Module/), [M490K](../WBSps.ca/Github.WardBeckSystems/MODULES/INPUT-PRE-AMPS/MODULES.INPUT-PRE-AMPS.M490K-Line-Input-Module/), [M520A](../WBSps.ca/Github.WardBeckSystems/MODULES/INPUT-PRE-AMPS/MODULES.INPUT-PRE-AMPS.M520A-Mono-Input-Module/)
 
 [1990 - B 60-12 - 60-12 INPUT TRANSFORMER - DRN GEB - ENG GEB - ISS 2.png](../PHOTOS/Drawings/1990%20-%20B%2060-12%20-%2060-12%20INPUT%20TRANSFORMER%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%202.png)
 
@@ -125,7 +125,7 @@ Used in: [M470A](../WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M470A
 
 [1978|11](Year-1978.md) · drawn [MRW](Person-MRW.md) · 3 drawings
 
-Used in: [M529](../WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M529-Communications-Module/), [M703B](../WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M703B-Intercom-Pre-and-Output-Amplifier/)
+Used in: [M529](../WBSps.ca/Github.WardBeckSystems/MODULES/COMMUNICATION/MODULES.COMMUNICATION.M529-Communications-Module/), [M703B](../WBSps.ca/Github.WardBeckSystems/MODULES/COMMUNICATION/MODULES.COMMUNICATION.M703B-Intercom-Pre-and-Output-Amplifier/)
 
 [1978 - B 60-14 - 60-14 INPUT TRANSFORMER - DRN MRW - ENG MRW - ISS 2.png](../PHOTOS/Drawings/1978%20-%20B%2060-14%20-%2060-14%20INPUT%20TRANSFORMER%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%202.png), [1978 - B 60-14 - 60-14 INPUT TRANSFORMER - DRN MRW - ENG MRW - ISS 3 (2).png](../PHOTOS/Drawings/1978%20-%20B%2060-14%20-%2060-14%20INPUT%20TRANSFORMER%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%203%20%282%29.png), [1978 - B 60-14 - 60-14 INPUT TRANSFORMER - DRN MRW - ENG MRW - ISS 3.png](../PHOTOS/Drawings/1978%20-%20B%2060-14%20-%2060-14%20INPUT%20TRANSFORMER%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%203.png)
 

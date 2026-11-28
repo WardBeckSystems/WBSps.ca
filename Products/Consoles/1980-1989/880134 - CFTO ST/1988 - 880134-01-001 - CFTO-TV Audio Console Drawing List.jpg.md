@@ -32,7 +32,7 @@ Typed drawing list pages for a Ward-Beck audio console, text running vertically 
 - **Words (OCR):** 5 in 3 lines: Iuu · HiW Ji XX · Ij1
 - **Wiring (first pass):** 6 connected wire groups from 681 runs; labelled ends: 29 mm → Iuu; 27 mm → Iuu
 
-Every curve, box, word and wire group: [1988 - 880134-01-001 - CFTO-TV Audio Console Drawing List (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134-01-001%20-%20CFTO-TV%20Audio%20Console%20Drawing%20List%20%28traced%29.json) (the CAD file: `1988 - 880134-01-001 - CFTO-TV Audio Console Drawing List (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134-01-001 - CFTO-TV Audio Console Drawing List (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134-01-001%20-%20CFTO-TV%20Audio%20Console%20Drawing%20List%20%28traced%29.json) (the CAD file: `1988 - 880134-01-001 - CFTO-TV Audio Console Drawing List (traced).dxf`).
 
 ## Full text
 

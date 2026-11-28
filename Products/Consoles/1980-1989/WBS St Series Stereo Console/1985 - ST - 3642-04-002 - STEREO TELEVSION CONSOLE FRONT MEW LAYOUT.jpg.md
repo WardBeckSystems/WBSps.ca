@@ -19,7 +19,7 @@ Wiki page: [Consoles](../../../../PAGES/Consoles.md)
 - **Words (OCR):** 20 in 19 lines: OPTOHAL · MEMT · INPUT SLECTORS · STrREO · MOOULES · MODULE · 2100 · 40250 · 46258 · Rue-J BLANK PANO · EXTEEHA_PORER_SUPPLIES · IDATE
 - **Title block:** (342, 25)–(430, 44) mm: IDATE · WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1985 - ST - 3642-04-002 - STEREO TELEVSION CONSOLE FRONT MEW LAYOUT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.WBS-St-Series-Stereo-Console/1985%20-%20ST%20-%203642-04-002%20-%20STEREO%20TELEVSION%20CONSOLE%20FRONT%20MEW%20LAYOUT%20%28traced%29.json) (the CAD file: `1985 - ST - 3642-04-002 - STEREO TELEVSION CONSOLE FRONT MEW LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1985 - ST - 3642-04-002 - STEREO TELEVSION CONSOLE FRONT MEW LAYOUT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.WBS-St-Series-Stereo-Console/1985%20-%20ST%20-%203642-04-002%20-%20STEREO%20TELEVSION%20CONSOLE%20FRONT%20MEW%20LAYOUT%20%28traced%29.json) (the CAD file: `1985 - ST - 3642-04-002 - STEREO TELEVSION CONSOLE FRONT MEW LAYOUT (traced).dxf`).
 
 ## Full text
 

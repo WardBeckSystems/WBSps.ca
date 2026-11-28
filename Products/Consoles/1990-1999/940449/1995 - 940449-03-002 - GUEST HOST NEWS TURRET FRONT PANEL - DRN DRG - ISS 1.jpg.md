@@ -32,7 +32,7 @@ Wiki page: [Job-940449](../../../../PAGES/Job-940449.md)
 - **Words (OCR):** 29 in 27 lines: 16 F10 · PITCHES · '555 · 0.200 · RFC'D · 0172 · INSERT · SIQE · 02c · 0.680 · 5.1i0 · 3750
 - **Title block:** (685, 44)–(854, 78) mm: WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1995 - 940449-03-002 - GUEST HOST NEWS TURRET FRONT PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940449-WBZ-Boston-Radio-Control-Turrets-Project-No/940449/1995%20-%20940449-03-002%20-%20GUEST%20HOST%20NEWS%20TURRET%20FRONT%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 940449-03-002 - GUEST HOST NEWS TURRET FRONT PANEL - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 940449-03-002 - GUEST HOST NEWS TURRET FRONT PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.940449-WBZ-Boston-Radio-Control-Turrets-Project-No/940449/1995%20-%20940449-03-002%20-%20GUEST%20HOST%20NEWS%20TURRET%20FRONT%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 940449-03-002 - GUEST HOST NEWS TURRET FRONT PANEL - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

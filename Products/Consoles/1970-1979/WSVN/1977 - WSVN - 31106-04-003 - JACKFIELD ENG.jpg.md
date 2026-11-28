@@ -20,7 +20,7 @@ Wiki page: [Consoles](../../../../PAGES/Consoles.md)
 - **Dots (junctions):** 2
 - **Words (OCR):** 18 in 16 lines: LEGEND · ROW · STRAE · TUPIcal AudIQ · MCOULE · COYTACTS · RTION · Licqutpyj · SCnce · PATCHAALE · outputy · NoRMal
 
-Every curve, box, word and wire group: [1977 - WSVN - 31106-04-003 - JACKFIELD ENG (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.WSVN/1977%20-%20WSVN%20-%2031106-04-003%20-%20JACKFIELD%20ENG%20%28traced%29.json) (the CAD file: `1977 - WSVN - 31106-04-003 - JACKFIELD ENG (traced).dxf`).
+Every curve, box, word and wire group: [1977 - WSVN - 31106-04-003 - JACKFIELD ENG (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.WSVN/1977%20-%20WSVN%20-%2031106-04-003%20-%20JACKFIELD%20ENG%20%28traced%29.json) (the CAD file: `1977 - WSVN - 31106-04-003 - JACKFIELD ENG (traced).dxf`).
 
 ## Full text
 

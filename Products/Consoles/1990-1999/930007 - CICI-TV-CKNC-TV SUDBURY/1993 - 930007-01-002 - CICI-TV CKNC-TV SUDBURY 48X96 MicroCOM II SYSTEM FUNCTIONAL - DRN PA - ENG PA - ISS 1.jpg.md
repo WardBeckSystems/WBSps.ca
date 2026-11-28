@@ -35,7 +35,7 @@ Sudbury MicroCOM II system functional block diagram with title block at bottom r
 - **Words (OCR):** 33 in 31 lines: HEADSO · CHANNEL · KRF C ACuM · (SUPPLED 01keaS) · F8183 · 878 · IPH=2 · pH" · CHANNFL · 813 · Z_MRE · F8183
 - **Wiring (first pass):** 428 connected wire groups from 1,669 runs; labelled ends: 755 mm → WARD-BECK  SYSTEMS, CICI-TV/CKNC-TV SUDBURY, FUNCTIONAL, 002; 35 mm → BE; 26 mm → 8ra; 25 mm → Cafa; 25 mm → F8183
 
-Every curve, box, word and wire group: [1993 - 930007-01-002 - CICI-TV CKNC-TV SUDBURY 48X96 MicroCOM II SYSTEM FUNCTIONAL - DRN PA - ENG PA - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.930007-CICI-TV-CKNC-TV-SUDBURY/1993%20-%20930007-01-002%20-%20CICI-TV%20CKNC-TV%20SUDBURY%2048X96%20MicroCOM%20II%20SYSTEM%20FUNCTIONAL%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1993 - 930007-01-002 - CICI-TV CKNC-TV SUDBURY 48X96 MicroCOM II SYSTEM FUNCTIONAL - DRN PA - ENG PA - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - 930007-01-002 - CICI-TV CKNC-TV SUDBURY 48X96 MicroCOM II SYSTEM FUNCTIONAL - DRN PA - ENG PA - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.930007-CICI-TV-CKNC-TV-SUDBURY/1993%20-%20930007-01-002%20-%20CICI-TV%20CKNC-TV%20SUDBURY%2048X96%20MicroCOM%20II%20SYSTEM%20FUNCTIONAL%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1993 - 930007-01-002 - CICI-TV CKNC-TV SUDBURY 48X96 MicroCOM II SYSTEM FUNCTIONAL - DRN PA - ENG PA - ISS 1 (traced).dxf`).
 
 ## Full text
 

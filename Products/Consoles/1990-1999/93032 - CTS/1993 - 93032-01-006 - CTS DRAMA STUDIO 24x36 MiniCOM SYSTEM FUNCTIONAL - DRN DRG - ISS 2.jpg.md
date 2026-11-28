@@ -34,7 +34,7 @@ Wiki page: [Job-93032](../../../../PAGES/Job-93032.md)
 - **Title block:** (701, 29)–(864, 64) mm: REMSC · WBS · WARD-BECK SYSTEMS · CTS DRAMA · STUDIO
 - **Wiring (first pass):** 106 connected wire groups from 743 runs, 2 dotted junctions; labelled ends: 1254 mm → CONTERP, ASS COFNECTTOMPUIER; 137 mm → TELTEHONE, Jeco; 25 mm → CoTa; 17 mm → WBS; 16 mm → FLodR
 
-Every curve, box, word and wire group: [1993 - 93032-01-006 - CTS DRAMA STUDIO 24x36 MiniCOM SYSTEM FUNCTIONAL - DRN DRG - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.930032-CTS/1993%20-%2093032-01-006%20-%20CTS%20DRAMA%20STUDIO%2024x36%20MiniCOM%20SYSTEM%20FUNCTIONAL%20-%20DRN%20DRG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1993 - 93032-01-006 - CTS DRAMA STUDIO 24x36 MiniCOM SYSTEM FUNCTIONAL - DRN DRG - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - 93032-01-006 - CTS DRAMA STUDIO 24x36 MiniCOM SYSTEM FUNCTIONAL - DRN DRG - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.930032-CTS/1993%20-%2093032-01-006%20-%20CTS%20DRAMA%20STUDIO%2024x36%20MiniCOM%20SYSTEM%20FUNCTIONAL%20-%20DRN%20DRG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1993 - 93032-01-006 - CTS DRAMA STUDIO 24x36 MiniCOM SYSTEM FUNCTIONAL - DRN DRG - ISS 2 (traced).dxf`).
 
 ## Full text
 

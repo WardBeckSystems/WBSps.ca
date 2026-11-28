@@ -32,7 +32,7 @@ Wiki page: [ST3642](../../../../PAGES/ST3642.md)
 - **Closed boxes:** 15
 - **Dots (junctions):** 1
 
-Every curve, box, word and wire group: [1984 - 3642-04-001 - STEREO TELEVISION CONSOLE OUTLINE - DRN BD - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.MODEL.ST3642/1984%20-%203642-04-001%20-%20STEREO%20TELEVISION%20CONSOLE%20OUTLINE%20-%20DRN%20BD%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1984 - 3642-04-001 - STEREO TELEVISION CONSOLE OUTLINE - DRN BD - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - 3642-04-001 - STEREO TELEVISION CONSOLE OUTLINE - DRN BD - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/MODEL/CONSOLE.MODEL.ST3642/1984%20-%203642-04-001%20-%20STEREO%20TELEVISION%20CONSOLE%20OUTLINE%20-%20DRN%20BD%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1984 - 3642-04-001 - STEREO TELEVISION CONSOLE OUTLINE - DRN BD - ISS 1 (traced).dxf`).
 
 ## Full text
 

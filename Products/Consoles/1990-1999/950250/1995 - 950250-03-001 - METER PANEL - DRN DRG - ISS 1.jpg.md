@@ -32,7 +32,7 @@ Wiki page: [Job-950250](../../../../PAGES/Job-950250.md)
 - **Words (OCR):** 25 in 25 lines: Rzo"D · 0 507 · DATUU · RFOD · 0,305 · 0,985 · DETAIL · DETAIL · INsrT · PITC-{0.7C0) (J) = · 0.875 · ALUM ALLOY 0.080 Thick
 - **Title block:** (685, 36)–(853, 70) mm: WARD-BECK   SYSTEMS · WBS
 
-Every curve, box, word and wire group: [1995 - 950250-03-001 - METER PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.950250/1995%20-%20950250-03-001%20-%20METER%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 950250-03-001 - METER PANEL - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 950250-03-001 - METER PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.950250/1995%20-%20950250-03-001%20-%20METER%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1995 - 950250-03-001 - METER PANEL - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

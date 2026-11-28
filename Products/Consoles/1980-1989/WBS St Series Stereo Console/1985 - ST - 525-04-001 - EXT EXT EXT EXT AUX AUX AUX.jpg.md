@@ -18,7 +18,7 @@ Wiki page: [Consoles](../../../../PAGES/Consoles.md)
 - **Words (OCR):** 34 in 33 lines: WBS · 4525 · EXT · EXT · EXT 2 · EXT · AuX · Aux · Aux · AuX · H2 · Hz
 - **Title block:** (20, 0)–(222, 430) mm: WBS · 4525 · EXT · EXT · EXT 2 · EXT · AuX · Aux · Aux · AuX · H2 · Hz · SuB · SuB · SUB 2 · SUB · solo/T8 · MONO · mute · LEVEL- · ISSUE DATE · REVISION · WBS · WARD-BECK SYSTEM · DRNB DEP · M525 · E
 
-Every curve, box, word and wire group: [1985 - ST - 525-04-001 - EXT EXT EXT EXT AUX AUX AUX (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.WBS-St-Series-Stereo-Console/1985%20-%20ST%20-%20525-04-001%20-%20EXT%20EXT%20EXT%20EXT%20AUX%20AUX%20AUX%20%28traced%29.json) (the CAD file: `1985 - ST - 525-04-001 - EXT EXT EXT EXT AUX AUX AUX (traced).dxf`).
+Every curve, box, word and wire group: [1985 - ST - 525-04-001 - EXT EXT EXT EXT AUX AUX AUX (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.WBS-St-Series-Stereo-Console/1985%20-%20ST%20-%20525-04-001%20-%20EXT%20EXT%20EXT%20EXT%20AUX%20AUX%20AUX%20%28traced%29.json) (the CAD file: `1985 - ST - 525-04-001 - EXT EXT EXT EXT AUX AUX AUX (traced).dxf`).
 
 ## Full text
 

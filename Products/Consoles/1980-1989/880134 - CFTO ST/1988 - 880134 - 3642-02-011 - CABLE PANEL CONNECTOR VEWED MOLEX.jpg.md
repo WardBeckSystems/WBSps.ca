@@ -20,7 +20,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Closed boxes:** 7
 - **Wiring (first pass):** 87 connected wire groups from 650 runs
 
-Every curve, box, word and wire group: [1988 - 880134 - 3642-02-011 - CABLE PANEL CONNECTOR VEWED MOLEX (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-011%20-%20CABLE%20PANEL%20CONNECTOR%20VEWED%20MOLEX%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-011 - CABLE PANEL CONNECTOR VEWED MOLEX (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 3642-02-011 - CABLE PANEL CONNECTOR VEWED MOLEX (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%203642-02-011%20-%20CABLE%20PANEL%20CONNECTOR%20VEWED%20MOLEX%20%28traced%29.json) (the CAD file: `1988 - 880134 - 3642-02-011 - CABLE PANEL CONNECTOR VEWED MOLEX (traced).dxf`).
 
 ## Full text
 

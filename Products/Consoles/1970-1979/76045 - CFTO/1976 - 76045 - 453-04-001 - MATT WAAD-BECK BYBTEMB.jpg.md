@@ -20,7 +20,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Closed boxes:** 16
 - **Dots (junctions):** 3
 
-Every curve, box, word and wire group: [1976 - 76045 - 453-04-001 - MATT WAAD-BECK BYBTEMB (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1976%20-%2076045%20-%20453-04-001%20-%20MATT%20WAAD-BECK%20BYBTEMB%20%28traced%29.json) (the CAD file: `1976 - 76045 - 453-04-001 - MATT WAAD-BECK BYBTEMB (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76045 - 453-04-001 - MATT WAAD-BECK BYBTEMB (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.760045-CFTO/1976%20-%2076045%20-%20453-04-001%20-%20MATT%20WAAD-BECK%20BYBTEMB%20%28traced%29.json) (the CAD file: `1976 - 76045 - 453-04-001 - MATT WAAD-BECK BYBTEMB (traced).dxf`).
 
 ## Full text
 

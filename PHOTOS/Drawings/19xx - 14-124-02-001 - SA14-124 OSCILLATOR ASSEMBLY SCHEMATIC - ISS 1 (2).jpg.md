@@ -1,5 +1,5 @@
 # 19xx - 14-124-02-001 - SA14-124 OSCILLATOR ASSEMBLY SCHEMATIC - ISS 1 (2).jpg
-Wiki page: [M529](../../WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M529-Communications-Module/)
+Wiki page: [M529](../../WBSps.ca/Github.WardBeckSystems/MODULES/COMMUNICATION/MODULES.COMMUNICATION.M529-Communications-Module/)
 
 
 - **Year:** unknown (title block (read by eye))

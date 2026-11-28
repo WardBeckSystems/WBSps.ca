@@ -20,7 +20,7 @@ Wiki page: [Consoles](../../../../PAGES/Consoles.md)
 - **Words (OCR):** 26 in 22 lines: 45714 · PROCESSIRG · JACRFIELO · HuRO · 4SzO · IAPUI · Hooules · HoouLES · STEAEO · STERCO · AASTEA · LoHo
 - **Title block:** (359, 19)–(424, 35) mm: WBS WARD-BECK · S73642
 
-Every curve, box, word and wire group: [1985 - ST - 3642-04-003 - SUB MSTER HASTEA FADEAS ERSTER FADERS FADERS JISSU (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.WBS-St-Series-Stereo-Console/1985%20-%20ST%20-%203642-04-003%20-%20SUB%20MSTER%20HASTEA%20FADEAS%20ERSTER%20FADERS%20FADERS%20JISSU%20%28traced%29.json) (the CAD file: `1985 - ST - 3642-04-003 - SUB MSTER HASTEA FADEAS ERSTER FADERS FADERS JISSU (traced).dxf`).
+Every curve, box, word and wire group: [1985 - ST - 3642-04-003 - SUB MSTER HASTEA FADEAS ERSTER FADERS FADERS JISSU (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.WBS-St-Series-Stereo-Console/1985%20-%20ST%20-%203642-04-003%20-%20SUB%20MSTER%20HASTEA%20FADEAS%20ERSTER%20FADERS%20FADERS%20JISSU%20%28traced%29.json) (the CAD file: `1985 - ST - 3642-04-003 - SUB MSTER HASTEA FADEAS ERSTER FADERS FADERS JISSU (traced).dxf`).
 
 ## Full text
 

@@ -27,6 +27,8 @@ from urllib.parse import quote
 
 from PIL import Image, ImageFilter, ImageStat
 
+import wbs_home
+
 Image.MAX_IMAGE_PIXELS = None
 EXT = {'.jpg', '.jpeg', '.png', '.gif', '.bmp', '.tif', '.tiff', '.webp'}
 SKIP_DIRS = {'.git', 'node_modules', '__pycache__', 'venv', 'venv-gpu', 'extractors', '_packages', 'dist', 'target',
@@ -99,7 +101,10 @@ def where(p, roots):
         if os.path.abspath(p).startswith(a + os.sep):
             rel = os.path.relpath(p, a)
             top = rel.split(os.sep)[0]
-            return (os.path.basename(a) + '/' + top) if os.path.basename(a) != 'Github.WardBeckSystems' else top
+            if os.path.basename(a) != 'Github.WardBeckSystems':
+                return os.path.basename(a) + '/' + top
+            m = wbs_home.path_re().search('Github.WardBeckSystems/' + rel.replace(os.sep, '/'))
+            return m.group(1) if m else top   # the repo, wherever its folder is (MODULES/AMPLIFIERS/MODULES.AMPLIFIERS.…)
     return '?'
 
 

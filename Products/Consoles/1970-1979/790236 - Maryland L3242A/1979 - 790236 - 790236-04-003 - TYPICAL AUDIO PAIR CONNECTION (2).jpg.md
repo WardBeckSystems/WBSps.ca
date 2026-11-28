@@ -18,7 +18,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Closed boxes:** 7; named: LEGEND; m470 #2 Pz/8,J; M467#1 4542(20); M467+1 7,2.(3)
 - **Words (OCR):** 44 in 28 lines: LEGEND · NoCONNECT ION · STRAP · OR JUMPER · CONNECTiON · TB4/21,22 TYPIcAL Adio PAIR · connECTioN To · TERMINAL BLOCK 4 · Pins2i AND 22 · STRAP OR JUMPER · CONNECTED to JacK · NORMAL' Contacts
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-04-003 - TYPICAL AUDIO PAIR CONNECTION (2) (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-04-003%20-%20TYPICAL%20AUDIO%20PAIR%20CONNECTION%20%282%29%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-04-003 - TYPICAL AUDIO PAIR CONNECTION (2) (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-04-003 - TYPICAL AUDIO PAIR CONNECTION (2) (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-04-003%20-%20TYPICAL%20AUDIO%20PAIR%20CONNECTION%20%282%29%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-04-003 - TYPICAL AUDIO PAIR CONNECTION (2) (traced).dxf`).
 
 ## Full text
 

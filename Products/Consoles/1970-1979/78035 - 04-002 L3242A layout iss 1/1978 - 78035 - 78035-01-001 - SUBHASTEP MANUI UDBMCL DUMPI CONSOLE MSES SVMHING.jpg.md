@@ -23,7 +23,7 @@ Wiki page: [Job-78035](../../../../PAGES/Job-78035.md)
 - **Title block:** (281, 0)–(432, 90) mm: Limiter compressor · Noise GATE · Mon 0u · drn · Lenie · Ap/lp FILTER · Hah ? · M462 A AND M462 EQUALIZERS · AUXILIARY AND IDENTICAL · Mon Out · (menm · 600 n · Mon OUT · edBm 600_ · ISSUE DAte · Re v
 - **Wiring (first pass):** 142 connected wire groups from 558 runs; labelled ends: 377 mm → FADER, (-15 dB ), MasTER, Imon; 332 mm → chan, FADER, (-15 dB /, M472; 113 mm → SUMMIng; 108 mm → dBm, 8d8 m C19, Imon, anF; 100 mm → adkm
 
-Every curve, box, word and wire group: [1978 - 78035 - 78035-01-001 - SUBHASTEP MANUI UDBMCL DUMPI CONSOLE MSES SVMHING (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.780035-04-002-L3242A-layout-iss-1/1978%20-%2078035%20-%2078035-01-001%20-%20SUBHASTEP%20MANUI%20UDBMCL%20DUMPI%20CONSOLE%20MSES%20SVMHING%20%28traced%29.json) (the CAD file: `1978 - 78035 - 78035-01-001 - SUBHASTEP MANUI UDBMCL DUMPI CONSOLE MSES SVMHING (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 78035 - 78035-01-001 - SUBHASTEP MANUI UDBMCL DUMPI CONSOLE MSES SVMHING (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.780035-04-002-L3242A-layout-iss-1/1978%20-%2078035%20-%2078035-01-001%20-%20SUBHASTEP%20MANUI%20UDBMCL%20DUMPI%20CONSOLE%20MSES%20SVMHING%20%28traced%29.json) (the CAD file: `1978 - 78035 - 78035-01-001 - SUBHASTEP MANUI UDBMCL DUMPI CONSOLE MSES SVMHING (traced).dxf`).
 
 ## Full text
 

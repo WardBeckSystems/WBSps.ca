@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (338, 4)–(426, 39) mm: WARD-BECK   SYSTEMS · WBS · CBC FREDERICTON · 48x48 MicroCOM · INTERCOM FUNCTIONAL · SCALE |DSC NO; · 93049-01-001 · CODE: 9304oF01
 - **Wiring (first pass):** 317 connected wire groups from 6,614 runs; labelled ends: 46 mm → 33; 9 mm → 33; 9 mm → (12 SECTIONS); 7 mm → BUNTER AMPUFIER
 
-Every curve, box, word and wire group: [1993 - 93049 - DOC - 93049-01-001 - PFAAC COUJO NCAROOS TONOINALS OPTUCHA OHTERIDS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.930049/1993%20-%2093049%20-%20DOC%20-%2093049-01-001%20-%20PFAAC%20COUJO%20NCAROOS%20TONOINALS%20OPTUCHA%20OHTERIDS%20%28traced%29.json) (the CAD file: `1993 - 93049 - DOC - 93049-01-001 - PFAAC COUJO NCAROOS TONOINALS OPTUCHA OHTERIDS (traced).dxf`).
+Every curve, box, word and wire group: [1993 - 93049 - DOC - 93049-01-001 - PFAAC COUJO NCAROOS TONOINALS OPTUCHA OHTERIDS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.930049/1993%20-%2093049%20-%20DOC%20-%2093049-01-001%20-%20PFAAC%20COUJO%20NCAROOS%20TONOINALS%20OPTUCHA%20OHTERIDS%20%28traced%29.json) (the CAD file: `1993 - 93049 - DOC - 93049-01-001 - PFAAC COUJO NCAROOS TONOINALS OPTUCHA OHTERIDS (traced).dxf`).
 
 ## Full text
 

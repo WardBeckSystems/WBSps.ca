@@ -20,6 +20,7 @@ import csv, filecmp, glob, json, os, re, shutil, subprocess, sys
 TOP = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(TOP, 'tools'))
 import modules_home  # noqa: E402
+import wbs_home  # noqa: E402
 
 OWNER = 'WardBeckSystems'
 REL = 'WBSps.ca/Github.WardBeckSystems'
@@ -124,14 +125,17 @@ def main():
 
 
 def one(code, frm, to, src, dst, base, old_repo, files, report, conflicts, clone_moves):
+        old_rel = os.path.relpath(src, TOP).replace(os.sep, '/')   # the clone wherever its folder is (wbs_home)
         if dst is None:   # ---- rename
             new_base = base.replace(f'MODULES.{frm}.', f'MODULES.{to}.', 1)
-            new_dir = os.path.join(HOME, new_base)
+            new_dir = wbs_home.repo_dir(new_base)   # the family folder the new name belongs in
+            new_rel = os.path.relpath(new_dir, TOP).replace(os.sep, '/')
             report.append(f'{code}: rename {base} -> {new_base}')
-            clone_moves[f'{REL}/{base}'] = f'{REL}/{new_base}'
+            clone_moves[old_rel] = new_rel
             if DRY:
                 return
             run('gh', 'repo', 'rename', new_base, '-R', f'{OWNER}/{old_repo}', '--yes')
+            os.makedirs(os.path.dirname(new_dir), exist_ok=True)
             os.rename(src, new_dir)
             url = f'https://github.com/{OWNER}/{new_base}.git'
             git(new_dir, 'remote', 'set-url', 'origin', url)
@@ -144,18 +148,19 @@ def one(code, frm, to, src, dst, base, old_repo, files, report, conflicts, clone
             if f'({frm})' in desc:
                 run('gh', 'repo', 'edit', f'{OWNER}/{new_base}', '--description', desc.replace(f'({frm})', f'({to})'))
             head = git(new_dir, 'rev-parse', 'HEAD').strip()
-            git(TOP, 'update-index', '--force-remove', f'{REL}/{base}')
-            git(TOP, 'update-index', '--add', '--cacheinfo', f'160000,{head},{REL}/{new_base}')
-            gitmodules_edit(f'{REL}/{base}', f'{REL}/{new_base}', url)
+            git(TOP, 'update-index', '--force-remove', old_rel)
+            git(TOP, 'update-index', '--add', '--cacheinfo', f'160000,{head},{new_rel}')
+            gitmodules_edit(old_rel, new_rel, url)
         else:   # ---- merge
             dbase = os.path.basename(dst)
+            dst_rel = os.path.relpath(dst, TOP).replace(os.sep, '/')
             have = set(tracked(dst))
             copy = [f for f in files if not REBUILT.search(f) and f not in have]
             diff = [f for f in files if not REBUILT.search(f) and f in have
                     and not filecmp.cmp(os.path.join(src, f), os.path.join(dst, f), shallow=False)]
             conflicts += [(code, f, base, dbase) for f in diff]
             report.append(f'{code}: merge {base} -> {dbase}: {len(copy)} files copied, {len(diff)} differ (kept {to})')
-            clone_moves[f'{REL}/{base}'] = f'{REL}/{dbase}'
+            clone_moves[old_rel] = dst_rel
             if DRY:
                 return
             for f in copy:
@@ -168,12 +173,12 @@ def one(code, frm, to, src, dst, base, old_repo, files, report, conflicts, clone
             run('gh', 'repo', 'edit', f'{OWNER}/{old_repo}', '--description', f'Merged into {dbase} (archived)')
             run('gh', 'repo', 'archive', f'{OWNER}/{old_repo}', '--yes')
             head = git(dst, 'rev-parse', 'HEAD').strip()
-            git(TOP, 'update-index', '--force-remove', f'{REL}/{base}')
-            git(TOP, 'update-index', '--add', '--cacheinfo', f'160000,{head},{REL}/{dbase}')
-            gitmodules_edit(f'{REL}/{base}')
+            git(TOP, 'update-index', '--force-remove', old_rel)
+            git(TOP, 'update-index', '--add', '--cacheinfo', f'160000,{head},{dst_rel}')
+            gitmodules_edit(old_rel)
             run('gio', 'trash', src)
             with open(TRASH_LOG, 'a', encoding='utf-8') as fh:
-                fh.write(f'2026-11-27,{REL}/{base},duplicate of {code} in {to}; its {len(copy)} unique files merged first; repo archived,{REL}/{dbase}\n')
+                fh.write(f'2026-11-27,{old_rel},duplicate of {code} in {to}; its {len(copy)} unique files merged first; repo archived,{dst_rel}\n')
 
 
 def finish(report, conflicts, file_moves, clone_moves):

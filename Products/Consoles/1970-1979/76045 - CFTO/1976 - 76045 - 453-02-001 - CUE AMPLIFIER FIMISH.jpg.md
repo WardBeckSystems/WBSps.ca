@@ -21,7 +21,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Closed boxes:** 25
 - **Wiring (first pass):** 77 connected wire groups from 497 runs
 
-Every curve, box, word and wire group: [1976 - 76045 - 453-02-001 - CUE AMPLIFIER FIMISH (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1976%20-%2076045%20-%20453-02-001%20-%20CUE%20AMPLIFIER%20FIMISH%20%28traced%29.json) (the CAD file: `1976 - 76045 - 453-02-001 - CUE AMPLIFIER FIMISH (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76045 - 453-02-001 - CUE AMPLIFIER FIMISH (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.760045-CFTO/1976%20-%2076045%20-%20453-02-001%20-%20CUE%20AMPLIFIER%20FIMISH%20%28traced%29.json) (the CAD file: `1976 - 76045 - 453-02-001 - CUE AMPLIFIER FIMISH (traced).dxf`).
 
 ## Full text
 

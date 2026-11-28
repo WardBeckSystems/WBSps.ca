@@ -33,7 +33,7 @@ Mic input module faceplate drawing with title block at bottom right.
 - **Words (OCR):** 105 in 87 lines: 3 3 · F8-O2SONCIAC*SK · 938486Diask · REQ'D · REQ"D · DATUM · 0.200 · (0.04 RAD CORNERS) · PuncH 0.38o SQ · Sk REAR OF PANEL · Mooinn · 500
 - **Title block:** (669, 10)–(851, 276) mm: DETAIL · (SCALE 41) · MATERIAL: ALUM ALLOY 0.125 THICK · FINISH: SAND 120 GRIT AND PAINT · TEXTURED BEIGE (452C) · TEXCOTE VINYL. · (EXTRA FINE  TEXTURE) · NOTE: · TOLERANCES: Ayat 0.015 XXX=+/-0.005 
 
-Every curve, box, word and wire group: [1994 - 940238-03-004 - M901NW MIC INPUT MODULE - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940238-CKNW/940238/1994%20-%20940238-03-004%20-%20M901NW%20MIC%20INPUT%20MODULE%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940238-03-004 - M901NW MIC INPUT MODULE - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940238-03-004 - M901NW MIC INPUT MODULE - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.940238-CKNW/940238/1994%20-%20940238-03-004%20-%20M901NW%20MIC%20INPUT%20MODULE%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940238-03-004 - M901NW MIC INPUT MODULE - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

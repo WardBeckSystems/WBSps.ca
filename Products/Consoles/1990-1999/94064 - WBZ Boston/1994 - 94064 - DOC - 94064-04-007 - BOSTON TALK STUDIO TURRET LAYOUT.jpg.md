@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 21 in 17 lines: 98 · ok · CuEST · GUEST · GUEST · GUEST · WBS · WARD-BECK SYSTEMS · WBZ BOSTON · REAR VieW · CARIE · COHNECTOR
 - **Title block:** (345, 23)–(429, 39) mm: WBS · WARD-BECK SYSTEMS · WBZ BOSTON
 
-Every curve, box, word and wire group: [1994 - 94064 - DOC - 94064-04-007 - BOSTON TALK STUDIO TURRET LAYOUT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940064-WBZ-Boston/94064%20-%20WBZ%20Boston/1994%20-%2094064%20-%20DOC%20-%2094064-04-007%20-%20BOSTON%20TALK%20STUDIO%20TURRET%20LAYOUT%20%28traced%29.json) (the CAD file: `1994 - 94064 - DOC - 94064-04-007 - BOSTON TALK STUDIO TURRET LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 94064 - DOC - 94064-04-007 - BOSTON TALK STUDIO TURRET LAYOUT (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.940064-WBZ-Boston/94064%20-%20WBZ%20Boston/1994%20-%2094064%20-%20DOC%20-%2094064-04-007%20-%20BOSTON%20TALK%20STUDIO%20TURRET%20LAYOUT%20%28traced%29.json) (the CAD file: `1994 - 94064 - DOC - 94064-04-007 - BOSTON TALK STUDIO TURRET LAYOUT (traced).dxf`).
 
 ## Full text
 

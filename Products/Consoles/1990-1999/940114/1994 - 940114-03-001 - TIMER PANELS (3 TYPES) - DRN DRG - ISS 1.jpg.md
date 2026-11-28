@@ -33,7 +33,7 @@ Timer panels drawing with three panels and details, title block at bottom right.
 - **Dots (junctions):** 2
 - **Words (OCR):** 42 in 33 lines: 'DETAIL · 940114-05 00t · TLYER PNL(1 · TMR) · 7.075 · DETAIL · 0,S00 · FLACES · 940114 · TimeR · PNL(T MR, · DETAIL
 
-Every curve, box, word and wire group: [1994 - 940114-03-001 - TIMER PANELS (3 TYPES) - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940114/1994%20-%20940114-03-001%20-%20TIMER%20PANELS%20%283%20TYPES%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940114-03-001 - TIMER PANELS (3 TYPES) - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940114-03-001 - TIMER PANELS (3 TYPES) - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.940114/1994%20-%20940114-03-001%20-%20TIMER%20PANELS%20%283%20TYPES%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940114-03-001 - TIMER PANELS (3 TYPES) - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -22,7 +22,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Title block:** (157, 6)–(310, 74) mm: Nov AdditionAL WP 2P APEP · 8 8 · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN ERh · ENG SRt · EFFECTS SWITCHER · SCHEMATIC · CKD · APP · SCALE · ISSUE · LB · 730232-02-306
 - **Wiring (first pass):** 59 connected wire groups from 406 runs; labelled ends: 141 mm → 044, Qwue, 412; 60 mm → Ch (, Ch2; 52 mm → 135,0; 37 mm → Tb6, 427,128, -O4Bm; 37 mm → 044, Qwue, -O4Bm
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-02-006 - EFFECTS SVITCHER OUTPUTS IODB (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-02-006%20-%20EFFECTS%20SVITCHER%20OUTPUTS%20IODB%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-006 - EFFECTS SVITCHER OUTPUTS IODB (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-02-006 - EFFECTS SVITCHER OUTPUTS IODB (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-02-006%20-%20EFFECTS%20SVITCHER%20OUTPUTS%20IODB%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-02-006 - EFFECTS SVITCHER OUTPUTS IODB (traced).dxf`).
 
 ## Full text
 

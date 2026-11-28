@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 28 in 22 lines: RLQD · UNC-CS · Toco, · MATERIAL: ALUK ALLOY 0.125 THICK · AINISH: SAND 120 GRIT AND PAINT · TEXTURED BEIGE (452C) · TEXCOTE VNYL, · (EXTRA · TEXTURE) · REVDM · JURAS · JCLEKAYCES-
 - **Title block:** (344, 22)–(428, 39) mm: WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1994 - 940246 - DOC - 940246-03-001 - INTERCOM PANEL MOD WIDTH (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.940246/1994%20-%20940246%20-%20DOC%20-%20940246-03-001%20-%20INTERCOM%20PANEL%20MOD%20WIDTH%20%28traced%29.json) (the CAD file: `1994 - 940246 - DOC - 940246-03-001 - INTERCOM PANEL MOD WIDTH (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940246 - DOC - 940246-03-001 - INTERCOM PANEL MOD WIDTH (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.940246/1994%20-%20940246%20-%20DOC%20-%20940246-03-001%20-%20INTERCOM%20PANEL%20MOD%20WIDTH%20%28traced%29.json) (the CAD file: `1994 - 940246 - DOC - 940246-03-001 - INTERCOM PANEL MOD WIDTH (traced).dxf`).
 
 ## Full text
 

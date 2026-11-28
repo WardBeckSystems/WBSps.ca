@@ -18,8 +18,10 @@ import csv, os, re, sys
 from collections import defaultdict
 from urllib.parse import quote
 
+import wbs_home
+
 TOP = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-G = os.path.join(TOP, 'WBSps.ca', 'Github.WardBeckSystems')
+G = wbs_home.HOME
 AUDIT = os.path.join(TOP, 'tools', 'dwg_number_audit.tsv')
 PLAN = os.path.join(TOP, 'tools', 'dwg_renames.tsv')
 CAD = {'sch', 'dsn', 'pcb', 'dwg', 'schdoc', 'pcbdoc', 'dxf', 'cdr'}
@@ -94,7 +96,8 @@ def plan():
             continue
         path = os.path.join(G, r['path'])
         fn = os.path.basename(path)
-        top = r['path'].split(os.sep)[0]
+        m = wbs_home.path_re().search('Github.WardBeckSystems/' + r['path'].replace(os.sep, '/'))
+        top = m.group(1) if m else r['path'].split(os.sep)[0]   # the repo, wherever its folder is
         nums = [n for n in r['numbers'].split() if not NOISE.match(n)]
         in_name = [n for n in nums if num_rx(n).search(fn)]
         why = ('CAD source' if r['ext'].lower() in CAD else

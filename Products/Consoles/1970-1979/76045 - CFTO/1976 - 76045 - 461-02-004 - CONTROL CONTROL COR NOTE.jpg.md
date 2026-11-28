@@ -22,7 +22,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Title block:** (295, 3)–(426, 34) mm: ISSMOD: CKD · USED · MATL, · WBS WAAD-BeCK systeMs LTD · DRH · ELE · M461 · nish · DATE · CKD · 8 S621 · INPUT · MODULE · SCALE · SCHEMATIC · TOLS AnG · 461 02-004 · ISS
 - **Wiring (first pass):** 68 connected wire groups from 393 runs; labelled ends: 41 mm → ISSMOD:; 31 mm → AUxz, 6 4 5; 22 mm → ISSMOD:; 18 mm → 3e4, ~C)s" ER; 18 mm → PFE
 
-Every curve, box, word and wire group: [1976 - 76045 - 461-02-004 - CONTROL CONTROL COR NOTE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1976%20-%2076045%20-%20461-02-004%20-%20CONTROL%20CONTROL%20COR%20NOTE%20%28traced%29.json) (the CAD file: `1976 - 76045 - 461-02-004 - CONTROL CONTROL COR NOTE (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76045 - 461-02-004 - CONTROL CONTROL COR NOTE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.760045-CFTO/1976%20-%2076045%20-%20461-02-004%20-%20CONTROL%20CONTROL%20COR%20NOTE%20%28traced%29.json) (the CAD file: `1976 - 76045 - 461-02-004 - CONTROL CONTROL COR NOTE (traced).dxf`).
 
 ## Full text
 

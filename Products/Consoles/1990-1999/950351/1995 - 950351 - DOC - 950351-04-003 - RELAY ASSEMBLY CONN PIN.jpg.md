@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 55 in 40 lines: DIODE BOARD · IN4003 · DIODE · FROM M8201B PIN · TO SA14-283 · RELAY ASSEMBLY · CONN · PIN · To SA14-283 · P1 PIN 13 · D2 · RELAY
 - **Title block:** (231, 16)–(402, 84) mm: ISSUE DATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · WKW · DRN · M15o · ENG. WKW · DIODE BOARD · CKD: · LAYOUT · APP · SCALE DISC NO: · ISSUE · SYSO1 · 950351-04-003 · CODE: 95351L03
 
-Every curve, box, word and wire group: [1995 - 950351 - DOC - 950351-04-003 - RELAY ASSEMBLY CONN PIN (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.950351/1995%20-%20950351%20-%20DOC%20-%20950351-04-003%20-%20RELAY%20ASSEMBLY%20CONN%20PIN%20%28traced%29.json) (the CAD file: `1995 - 950351 - DOC - 950351-04-003 - RELAY ASSEMBLY CONN PIN (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 950351 - DOC - 950351-04-003 - RELAY ASSEMBLY CONN PIN (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.950351/1995%20-%20950351%20-%20DOC%20-%20950351-04-003%20-%20RELAY%20ASSEMBLY%20CONN%20PIN%20%28traced%29.json) (the CAD file: `1995 - 950351 - DOC - 950351-04-003 - RELAY ASSEMBLY CONN PIN (traced).dxf`).
 
 ## Full text
 

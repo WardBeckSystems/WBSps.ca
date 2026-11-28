@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (335, 1)–(421, 34) mm: RESC · WBS · WARD-BECK SYSTEMS · CBC OTTAWA · SYSTEM · INTERCOM FUNCTIONAL · SCALE DSC ' 0 · CODE · 96010-01-001
 - **Wiring (first pass):** 147 connected wire groups from 11,106 runs, 1869 dotted junctions; labelled ends: 22144 mm → Tb, Tp, Tn; 348 mm → Tb, Tn; 198 mm → Tb; 157 mm → Tb; 16 mm → Mottn
 
-Every curve, box, word and wire group: [1996 - 96010 - DOC - 96010-01-001 - AND MONITOR CARDS SHOWN ARE CPTCNAL MODULES REUSED (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.960010/1996%20-%2096010%20-%20DOC%20-%2096010-01-001%20-%20AND%20MONITOR%20CARDS%20SHOWN%20ARE%20CPTCNAL%20MODULES%20REUSED%20%28traced%29.json) (the CAD file: `1996 - 96010 - DOC - 96010-01-001 - AND MONITOR CARDS SHOWN ARE CPTCNAL MODULES REUSED (traced).dxf`).
+Every curve, box, word and wire group: [1996 - 96010 - DOC - 96010-01-001 - AND MONITOR CARDS SHOWN ARE CPTCNAL MODULES REUSED (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.960010/1996%20-%2096010%20-%20DOC%20-%2096010-01-001%20-%20AND%20MONITOR%20CARDS%20SHOWN%20ARE%20CPTCNAL%20MODULES%20REUSED%20%28traced%29.json) (the CAD file: `1996 - 96010 - DOC - 96010-01-001 - AND MONITOR CARDS SHOWN ARE CPTCNAL MODULES REUSED (traced).dxf`).
 
 ## Full text
 

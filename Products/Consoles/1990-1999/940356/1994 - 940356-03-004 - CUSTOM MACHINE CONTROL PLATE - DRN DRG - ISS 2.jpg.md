@@ -32,7 +32,7 @@ Wiki page: [Job-940356](../../../../PAGES/Job-940356.md)
 - **Words (OCR):** 29 in 26 lines: PITCH(IcOD) (3) · 2730 · 940356-03-004- · DATUM · Ro'D · ALOO · 940556 · SUB FLATE · n 447 · DATC · PUNCH 0,640 · RCO D
 - **Title block:** (683, 47)–(853, 89) mm: ISSLELDATEL · WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1994 - 940356-03-004 - CUSTOM MACHINE CONTROL PLATE - DRN DRG - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940356-CBC/940356/1994%20-%20940356-03-004%20-%20CUSTOM%20MACHINE%20CONTROL%20PLATE%20-%20DRN%20DRG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1994 - 940356-03-004 - CUSTOM MACHINE CONTROL PLATE - DRN DRG - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940356-03-004 - CUSTOM MACHINE CONTROL PLATE - DRN DRG - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.940356-CBC/940356/1994%20-%20940356-03-004%20-%20CUSTOM%20MACHINE%20CONTROL%20PLATE%20-%20DRN%20DRG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1994 - 940356-03-004 - CUSTOM MACHINE CONTROL PLATE - DRN DRG - ISS 2 (traced).dxf`).
 
 ## Full text
 

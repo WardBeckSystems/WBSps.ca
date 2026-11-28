@@ -32,7 +32,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Closed boxes:** 39
 - **Wiring (first pass):** 28 connected wire groups from 301 runs
 
-Every curve, box, word and wire group: [1977 - 76045-02-007 - CR MONITOR #2 SCHEMATIC - DRN ELJ - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1977%20-%2076045-02-007%20-%20CR%20MONITOR%20%232%20SCHEMATIC%20-%20DRN%20ELJ%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1977 - 76045-02-007 - CR MONITOR #2 SCHEMATIC - DRN ELJ - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 76045-02-007 - CR MONITOR #2 SCHEMATIC - DRN ELJ - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.760045-CFTO/1977%20-%2076045-02-007%20-%20CR%20MONITOR%20%232%20SCHEMATIC%20-%20DRN%20ELJ%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1977 - 76045-02-007 - CR MONITOR #2 SCHEMATIC - DRN ELJ - ISS 1 (traced).dxf`).
 
 ## Full text
 

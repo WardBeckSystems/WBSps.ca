@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 33 in 28 lines: 16,710 · L.Odo · PITCHES 7.355 15110 · PITCHES · 4050 · 0.2C0 · REC'D · 'OTPERcEIS · SIdE · D.ZUC · 4.710 · 3750
 - **Title block:** (341, 27)–(425, 43) mm: REMS · WARD-BECK SYSTEMS · WBS
 
-Every curve, box, word and wire group: [1994 - 940449 - DOC - 940449-03-001 - ENG DETAIL HOST TURRET FRONT PANEL NOTE REVOVE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940449-WBZ-Boston-Radio-Control-Turrets-Project-No/940449%20-%20WBZ%20Boston%20Radio%20Control%20Turrets%20Project%20No/1994%20-%20940449%20-%20DOC%20-%20940449-03-001%20-%20ENG%20DETAIL%20HOST%20TURRET%20FRONT%20PANEL%20NOTE%20REVOVE%20%28traced%29.json) (the CAD file: `1994 - 940449 - DOC - 940449-03-001 - ENG DETAIL HOST TURRET FRONT PANEL NOTE REVOVE (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940449 - DOC - 940449-03-001 - ENG DETAIL HOST TURRET FRONT PANEL NOTE REVOVE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.940449-WBZ-Boston-Radio-Control-Turrets-Project-No/940449%20-%20WBZ%20Boston%20Radio%20Control%20Turrets%20Project%20No/1994%20-%20940449%20-%20DOC%20-%20940449-03-001%20-%20ENG%20DETAIL%20HOST%20TURRET%20FRONT%20PANEL%20NOTE%20REVOVE%20%28traced%29.json) (the CAD file: `1994 - 940449 - DOC - 940449-03-001 - ENG DETAIL HOST TURRET FRONT PANEL NOTE REVOVE (traced).dxf`).
 
 ## Full text
 

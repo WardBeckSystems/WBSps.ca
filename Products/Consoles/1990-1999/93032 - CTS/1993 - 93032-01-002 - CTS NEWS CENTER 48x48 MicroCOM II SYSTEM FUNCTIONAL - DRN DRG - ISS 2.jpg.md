@@ -33,7 +33,7 @@ Wiki page: [Job-93032](../../../../PAGES/Job-93032.md)
 - **Title block:** (688, 41)–(857, 74) mm: sqe · WBS · WARD- · BECK SYSTEMS · CTS · NEWS CENTER
 - **Wiring (first pass):** 168 connected wire groups from 1,078 runs; labelled ends: 164 mm → FT; 102 mm → WBS, DSC ND; 95 mm → INTERFACE; 42 mm → OTHERS); 25 mm → TONELCO
 
-Every curve, box, word and wire group: [1993 - 93032-01-002 - CTS NEWS CENTER 48x48 MicroCOM II SYSTEM FUNCTIONAL - DRN DRG - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.930032-CTS/1993%20-%2093032-01-002%20-%20CTS%20NEWS%20CENTER%2048x48%20MicroCOM%20II%20SYSTEM%20FUNCTIONAL%20-%20DRN%20DRG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1993 - 93032-01-002 - CTS NEWS CENTER 48x48 MicroCOM II SYSTEM FUNCTIONAL - DRN DRG - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1993 - 93032-01-002 - CTS NEWS CENTER 48x48 MicroCOM II SYSTEM FUNCTIONAL - DRN DRG - ISS 2 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.930032-CTS/1993%20-%2093032-01-002%20-%20CTS%20NEWS%20CENTER%2048x48%20MicroCOM%20II%20SYSTEM%20FUNCTIONAL%20-%20DRN%20DRG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1993 - 93032-01-002 - CTS NEWS CENTER 48x48 MicroCOM II SYSTEM FUNCTIONAL - DRN DRG - ISS 2 (traced).dxf`).
 
 ## Full text
 

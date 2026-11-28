@@ -39,7 +39,7 @@ Padboard #1 layout drawing with title block at bottom right.
 - **Words (OCR):** 26 in 17 lines: 8 3 · 43 Y3 · 31 · Iss MOD _ CKD · USED ON · MATL · WBS WARD-BeCK ByBTEMB LTD_ · DRN: ELJ · DATE JAn77 · PADBOACD # | · FINISH · CKD
 - **Title block:** (163, 32)–(376, 83) mm: Iss MOD _ CKD · USED ON · MATL · WBS WARD-BeCK ByBTEMB LTD_ · DRN: ELJ · DATE JAn77 · PADBOACD # | · FINISH · CKD · LA (out · SCALE · 76045-04 0o5 IsS_ · TOLS _
 
-Every curve, box, word and wire group: [1977 - 76045-04-005 - PADBOARD #1 LAYOUT - DRN ELJ - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1977%20-%2076045-04-005%20-%20PADBOARD%20%231%20LAYOUT%20-%20DRN%20ELJ%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1977 - 76045-04-005 - PADBOARD #1 LAYOUT - DRN ELJ - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 76045-04-005 - PADBOARD #1 LAYOUT - DRN ELJ - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.760045-CFTO/1977%20-%2076045-04-005%20-%20PADBOARD%20%231%20LAYOUT%20-%20DRN%20ELJ%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1977 - 76045-04-005 - PADBOARD #1 LAYOUT - DRN ELJ - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -32,7 +32,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Closed boxes:** 38
 - **Wiring (first pass):** 41 connected wire groups from 361 runs
 
-Every curve, box, word and wire group: [1977 - 76045-02-009 - PFL CUE, OSCILLATOR & AUX PROCESSING MODULES, SCHEMATIC - DRN ELJ - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1977%20-%2076045-02-009%20-%20PFL%20CUE,%20OSCILLATOR%20&%20AUX%20PROCESSING%20MODULES,%20SCHEMATIC%20-%20DRN%20ELJ%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1977 - 76045-02-009 - PFL CUE, OSCILLATOR & AUX PROCESSING MODULES, SCHEMATIC - DRN ELJ - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 76045-02-009 - PFL CUE, OSCILLATOR & AUX PROCESSING MODULES, SCHEMATIC - DRN ELJ - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.760045-CFTO/1977%20-%2076045-02-009%20-%20PFL%20CUE,%20OSCILLATOR%20&%20AUX%20PROCESSING%20MODULES,%20SCHEMATIC%20-%20DRN%20ELJ%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1977 - 76045-02-009 - PFL CUE, OSCILLATOR & AUX PROCESSING MODULES, SCHEMATIC - DRN ELJ - ISS 1 (traced).dxf`).
 
 ## Full text
 

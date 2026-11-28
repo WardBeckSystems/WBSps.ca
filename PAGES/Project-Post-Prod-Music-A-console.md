@@ -14,7 +14,7 @@ tags: ["project", "1970s"]
 | Years | 1974 (from the dated files in this project) |
 | Files | 1 |
 | Job number | none found yet |
-| Folder | [Consoles/1970-1979/74097](../WBSps.ca/Github.WardBeckSystems/CONSOLE.740097/) |
+| Folder | [Consoles/1970-1979/74097](../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.740097/) |
 
 ## Drawings (1)
 
@@ -26,4 +26,4 @@ tags: ["project", "1970s"]
 
 | Year | File |  |
 |---|---|---|
-| 1974 | [1974 - 74097 - 74097-04-001 - AUDIO CONSOLE LAYOUT CAE.jpg](../Consoles/1970-1979/74097/1974%20-%2074097%20-%2074097-04-001%20-%20AUDIO%20CONSOLE%20LAYOUT%20CAE.jpg) | [note](../WBSps.ca/Github.WardBeckSystems/CONSOLE.740097/1974%20-%2074097%20-%2074097-04-001%20-%20AUDIO%20CONSOLE%20LAYOUT%20CAE.jpg.md) |
+| 1974 | [1974 - 74097 - 74097-04-001 - AUDIO CONSOLE LAYOUT CAE.jpg](../Consoles/1970-1979/74097/1974%20-%2074097%20-%2074097-04-001%20-%20AUDIO%20CONSOLE%20LAYOUT%20CAE.jpg) | [note](../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.740097/1974%20-%2074097%20-%2074097-04-001%20-%20AUDIO%20CONSOLE%20LAYOUT%20CAE.jpg.md) |

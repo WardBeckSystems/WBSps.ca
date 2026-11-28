@@ -17,9 +17,10 @@ tools/DWG-NUMBER-AUDIT.md (summary + lists).
 import csv, json, os, re, subprocess, sys
 from collections import Counter, defaultdict
 
-ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..',
-                    'WBSps.ca', 'Github.WardBeckSystems')
-ROOT = os.path.normpath(ROOT)
+import wbs_home
+
+ROOT = wbs_home.HOME
+REPO_RX = wbs_home.path_re()
 OUT_TSV = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'dwg_number_audit.tsv')
 OUT_MD = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'DWG-NUMBER-AUDIT.md')
 
@@ -142,7 +143,8 @@ def main():
             continue
         path = os.path.join(dp, fn)
         rel = os.path.relpath(path, ROOT)
-        top = rel.split(os.sep)[0]
+        m = REPO_RX.search('Github.WardBeckSystems/' + rel.replace(os.sep, '/'))
+        top = m.group(1) if m else rel.split(os.sep)[0]   # the repo, wherever its folder is
         if top in ('PHOTOS', 'YOU_TUBE', 'youtube-editor', 'XTM', 'WebRouter', 'Premote',
                    'Ward-Beck-Audio-Tap', 'Ward-Beck-Plugin-Core', 'Ward-Beck-Generators',
                    'Microcom-Simulator', 'Public_Page', '_stage', '_audit'):

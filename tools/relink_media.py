@@ -38,6 +38,7 @@ CLONES = os.path.join(ROOT, 'WBSps.ca', 'Github.WardBeckSystems')
 OWNER = 'WardBeckSystems'
 sys.path.insert(0, HERE)
 import audit_site  # noqa: E402
+import wbs_home  # noqa: E402
 
 SELF = {'wbsps.ca', 'site'}
 EMBED = {'img', 'source', 'script', 'link', 'iframe', 'video', 'audio', 'embed', 'object'}
@@ -62,8 +63,7 @@ def lfs_patterns(clone):
 def index_repos(vis):
     """{basename: [(repo, path)]} of every file the public repos track (and the same, lower-cased)."""
     by_name, by_lower, lfs, private = defaultdict(list), defaultdict(list), {}, set()
-    for d in sorted(os.listdir(CLONES)):
-        clone = os.path.join(CLONES, d)
+    for d, clone in sorted(wbs_home.repos().items()):   # every clone, wherever its family folder is
         if not os.path.isdir(os.path.join(clone, '.git')) and not os.path.isfile(os.path.join(clone, '.git')):
             continue
         url = git(clone, 'remote', 'get-url', 'origin').strip()

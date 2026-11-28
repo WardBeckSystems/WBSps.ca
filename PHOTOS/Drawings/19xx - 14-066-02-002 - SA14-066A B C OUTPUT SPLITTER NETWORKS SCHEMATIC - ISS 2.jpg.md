@@ -1,5 +1,5 @@
 # 19xx - 14-066-02-002 - SA14-066A B C OUTPUT SPLITTER NETWORKS SCHEMATIC - ISS 2.jpg
-Wiki page: [M609](../../WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M609-Remote-Sensitivity-Distribution-Amplifier/)
+Wiki page: [M609](../../WBSps.ca/Github.WardBeckSystems/MODULES/AMPLIFIERS/MODULES.AMPLIFIERS.M609-Remote-Sensitivity-Distribution-Amplifier/)
 
 
 - **Year:** unknown (title block (read by eye))

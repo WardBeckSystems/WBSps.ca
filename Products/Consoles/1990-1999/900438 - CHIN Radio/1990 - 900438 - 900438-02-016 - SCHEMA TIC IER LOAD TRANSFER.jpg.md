@@ -20,7 +20,7 @@ Wiki page: [Job-900438](../../../../PAGES/Job-900438.md)
 - **Closed boxes:** 68
 - **Wiring (first pass):** 124 connected wire groups from 1,388 runs
 
-Every curve, box, word and wire group: [1990 - 900438 - 900438-02-016 - SCHEMA TIC IER LOAD TRANSFER (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.900438-CHIN-Radio/1990%20-%20900438%20-%20900438-02-016%20-%20SCHEMA%20TIC%20IER%20LOAD%20TRANSFER%20%28traced%29.json) (the CAD file: `1990 - 900438 - 900438-02-016 - SCHEMA TIC IER LOAD TRANSFER (traced).dxf`).
+Every curve, box, word and wire group: [1990 - 900438 - 900438-02-016 - SCHEMA TIC IER LOAD TRANSFER (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.900438-CHIN-Radio/1990%20-%20900438%20-%20900438-02-016%20-%20SCHEMA%20TIC%20IER%20LOAD%20TRANSFER%20%28traced%29.json) (the CAD file: `1990 - 900438 - 900438-02-016 - SCHEMA TIC IER LOAD TRANSFER (traced).dxf`).
 
 ## Full text
 

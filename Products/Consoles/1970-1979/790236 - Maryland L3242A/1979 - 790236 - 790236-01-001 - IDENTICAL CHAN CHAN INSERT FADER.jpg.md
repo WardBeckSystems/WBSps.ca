@@ -21,7 +21,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Words (OCR):** 116 in 99 lines: PHANTOM · POWER · INPUT CHANNEL - | · +48v · (Ch1 To32 IDENTICAL) · CHAN · CHAN · INSERT · FADER · 0 dBm · S1 · Mic
 - **Wiring (first pass):** 110 connected wire groups from 449 runs; labelled ends: 304 mm → PEL, SOLO, SOLO_, CONT; 185 mm → iks; 140 mm → M464, FILTER, MODULE; 127 mm → FAI,A2, A3,A4, (INTERCOM FEED); 112 mm → E21, FAI,A2
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-01-001 - IDENTICAL CHAN CHAN INSERT FADER (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-01-001%20-%20IDENTICAL%20CHAN%20CHAN%20INSERT%20FADER%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-01-001 - IDENTICAL CHAN CHAN INSERT FADER (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-01-001 - IDENTICAL CHAN CHAN INSERT FADER (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-01-001%20-%20IDENTICAL%20CHAN%20CHAN%20INSERT%20FADER%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-01-001 - IDENTICAL CHAN CHAN INSERT FADER (traced).dxf`).
 
 ## Full text
 

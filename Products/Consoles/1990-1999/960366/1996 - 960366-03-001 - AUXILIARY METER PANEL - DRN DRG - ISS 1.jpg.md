@@ -33,7 +33,7 @@ Auxiliary meter panel drawing with title block at bottom right.
 - **Words (OCR):** 32 in 32 lines: 070] · 6-400 · PLACFS · DETAI · 6 CJ0 · 2coc · 0,400 · DETAM · 1.675 · NSFRT OTHEF · PACES · 1.750
 - **Title block:** (681, 48)–(850, 88) mm: WARD-BECK  SYSTEMS · WBS
 
-Every curve, box, word and wire group: [1996 - 960366-03-001 - AUXILIARY METER PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.960366/1996%20-%20960366-03-001%20-%20AUXILIARY%20METER%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1996 - 960366-03-001 - AUXILIARY METER PANEL - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1996 - 960366-03-001 - AUXILIARY METER PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.960366/1996%20-%20960366-03-001%20-%20AUXILIARY%20METER%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1996 - 960366-03-001 - AUXILIARY METER PANEL - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

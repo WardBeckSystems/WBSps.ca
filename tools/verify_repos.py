@@ -17,6 +17,7 @@ from concurrent.futures import ThreadPoolExecutor
 import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import modules_home  # noqa: E402
+import wbs_home  # noqa: E402
 
 TOP = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SOURCES = ['WBSps.ca/Github.WardBeckSystems', '2026/PHOTOS', '2026/DOCUMENTS', '2026/Engineering', 'Intercom', 'hard drive recovery',
@@ -90,13 +91,17 @@ def leftovers():
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument('g', nargs='?', default=os.path.join(TOP, 'WBSps.ca', 'Github.WardBeckSystems'))
+    ap.add_argument('g', nargs='?', default=wbs_home.HOME)
     ap.add_argument('--repos', nargs='*')
     ap.add_argument('--out')
     a = ap.parse_args()
-    repos = sorted(os.path.join(a.g, d) for d in os.listdir(a.g)
-                   if not d.startswith('_') and os.path.isdir(os.path.join(a.g, d, '.git'))
-                   and (not a.repos or d in a.repos))
+    if os.path.abspath(a.g) == os.path.abspath(wbs_home.HOME):   # the clones, wherever their family folders are
+        found = sorted(wbs_home.repos().items())
+    else:
+        found = [(d, os.path.join(a.g, d)) for d in os.listdir(a.g)]
+    repos = [p for d, p in sorted(found)   # by repo name
+             if not d.startswith('_') and os.path.isdir(os.path.join(p, '.git'))
+             and (not a.repos or d in a.repos)]
     with ThreadPoolExecutor(8) as ex:
         rows = list(ex.map(check, repos))
     cols = ['repo', 'state', 'folder', 'github', 'uncommitted', 'unpushed', 'ignored', 'lfs_unuploaded']

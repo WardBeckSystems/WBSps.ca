@@ -76,7 +76,7 @@ function draw() {
     && (!q || (r.repo + '/' + r.path + ' ' + (r.kinds || []).map(k => k[0]).join(' ')).toLowerCase().includes(q)));
   rows.sort((a, b) => ((b.n || {}).error || 0) - ((a.n || {}).error || 0));
   document.getElementById('rows').innerHTML = rows.slice(0, 800).map(r => {
-    const n = r.n || {}, p = 'WBSps.ca/Github.WardBeckSystems/' + r.repo + '/' + r.path;
+    const n = r.n || {}, p = 'WBSps.ca/Github.WardBeckSystems/' + (r.dir || r.repo) + '/' + r.path;
     return `<tr><td><a href="../viewer.html?f=${encodeURIComponent(p)}">${esc(r.path.split('/').pop())}</a><br><small class="kinds">${esc(r.repo)}</small></td>
       <td>${r.check.toUpperCase()}</td><td class="cnt ${n.error ? 'err' : 'ok'}">${r.failed ? 'not checked' : (n.error || 0)}</td><td class="cnt warn">${n.warning || 0}</td>
       <td class="kinds">${(r.kinds || []).slice(0, 3).map(k => esc(k[0].replace(/_/g, ' ')) + ' ' + k[1]).join(' · ')}</td></tr>`;

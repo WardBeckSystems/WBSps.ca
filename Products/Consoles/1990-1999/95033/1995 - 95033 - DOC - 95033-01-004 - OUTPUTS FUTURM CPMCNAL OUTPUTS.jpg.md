@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (341, 24)–(426, 40) mm: WBS · WARD-BECK SYSTEMS · CBC VANCOUVER
 - **Wiring (first pass):** 77 connected wire groups from 5,645 runs, 1034 dotted junctions; labelled ends: 73 mm → WBS, SCALC, CODE, INTERCOM FUNCTIONAL; 54 mm → INTERCOM FUNCTIONAL, 95033-01-004; 28 mm → (OTOL; 9 mm → LEGEND;
 
-Every curve, box, word and wire group: [1995 - 95033 - DOC - 95033-01-004 - OUTPUTS FUTURM CPMCNAL OUTPUTS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.950033/1995%20-%2095033%20-%20DOC%20-%2095033-01-004%20-%20OUTPUTS%20FUTURM%20CPMCNAL%20OUTPUTS%20%28traced%29.json) (the CAD file: `1995 - 95033 - DOC - 95033-01-004 - OUTPUTS FUTURM CPMCNAL OUTPUTS (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 95033 - DOC - 95033-01-004 - OUTPUTS FUTURM CPMCNAL OUTPUTS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.950033/1995%20-%2095033%20-%20DOC%20-%2095033-01-004%20-%20OUTPUTS%20FUTURM%20CPMCNAL%20OUTPUTS%20%28traced%29.json) (the CAD file: `1995 - 95033 - DOC - 95033-01-004 - OUTPUTS FUTURM CPMCNAL OUTPUTS (traced).dxf`).
 
 ## Full text
 

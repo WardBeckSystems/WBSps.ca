@@ -22,6 +22,8 @@ import json, os, re, shutil, subprocess, sys
 from collections import defaultdict
 from datetime import date
 
+import wbs_home
+
 TOP = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 G = os.path.join(TOP, 'WBSps.ca', 'Github.WardBeckSystems')
 REG = os.path.join(TOP, 'PAGES', 'Register-Circuit-boards-SA14-nnn.md')
@@ -144,10 +146,10 @@ def scan_variants():
                 inside[os.path.join(G, r['path'])] = nums[0]
     out = defaultdict(lambda: defaultdict(list))
     seen = set()
-    for top in sorted(os.listdir(G)):
-        if top in SKIP_TOP or top.startswith(('SUBASSEMBLY.', 'ENGINEERING.')) or not os.path.isdir(os.path.join(G, top)):
+    for top, tdir in sorted(wbs_home.repos().items()):   # every clone, wherever its folder is
+        if top in SKIP_TOP or top.startswith(('SUBASSEMBLY.', 'ENGINEERING.')) or not os.path.isdir(tdir):
             continue
-        for dp, dns, fns in os.walk(os.path.join(G, top)):
+        for dp, dns, fns in os.walk(tdir):
             dns[:] = [d for d in dns if d not in ('.git', 'OCR', '_traces')]
             for fn in fns:
                 if DERIVED.search(fn) or not DRAWN.search(fn):
@@ -204,7 +206,8 @@ def companions(path):
 def copy_in(src, dest_dir, have, log):
     """Copy src into dest_dir unless the same bytes are already anywhere in that sub-assembly repo (one copy of each
     file per repo); a different file of the same name gets (2)."""
-    repo = os.path.join(G, os.path.relpath(dest_dir, G).split(os.sep)[0])
+    m = wbs_home.path_re().search('Github.WardBeckSystems/' + os.path.relpath(dest_dir, G).replace(os.sep, '/') + '/')
+    repo = wbs_home.repo_dir(m.group(1))
     if repo not in have:
         have[repo] = set()
         for dp, dns, fns in os.walk(repo):
@@ -239,11 +242,11 @@ def copy_drawings(sa, names, dry):
             for num, repo, rel in ds:
                 if repo.startswith('RECOVERY.'):
                     continue
-                src = os.path.join(G, repo, rel)
+                src = os.path.join(wbs_home.repo_dir(repo), rel)
                 kind = rel.split(os.sep)[0] if os.sep in rel and rel.split(os.sep)[0] in KINDS else 'SCHEMATICS'
                 for p, k in companions(src):
                     if not dry:
-                        copy_in(p, os.path.join(G, name, k or kind), have, log)
+                        copy_in(p, os.path.join(wbs_home.repo_dir(name), k or kind), have, log)
                     else:
                         log.append((os.path.relpath(p, G), os.path.join(name, k or kind)))
     inside = {}
@@ -255,10 +258,10 @@ def copy_drawings(sa, names, dry):
                 inside[os.path.join(G, r['path'])] = nums.pop()
     done = {os.path.join(G, f) for f, _ in log}
     generic = {'ORCAD', 'ORCADWIN', 'ACAD', 'TANGO', 'SCHEMATICS', 'MECHANICAL', 'MECHANIC', 'ISS1', 'ISS2', 'OLD', 'OBSOLETE', 'PCB'}
-    for top in sorted(os.listdir(G)):   # OrCAD sets and AutoCAD drawings: Engineering and the module repos
-        if top in SKIP_TOP or top.startswith(('SUBASSEMBLY.', 'RECOVERY.', 'ENGINEERING.')) or not os.path.isdir(os.path.join(G, top)):
+    for top, tdir in sorted(wbs_home.repos().items()):   # OrCAD sets and AutoCAD drawings: Engineering and the module repos
+        if top in SKIP_TOP or top.startswith(('SUBASSEMBLY.', 'RECOVERY.', 'ENGINEERING.')) or not os.path.isdir(tdir):
             continue
-        for dp, dns, fns in os.walk(os.path.join(G, top)):
+        for dp, dns, fns in os.walk(tdir):
             dns[:] = [d for d in dns if d not in ('.git', 'OCR', '_traces')]
             anc = []   # the SA14-nnn folder this is in (up to three levels up)
             q = dp
@@ -283,7 +286,7 @@ def copy_drawings(sa, names, dry):
                 label = anc[1] if anc and anc[0] == nnn else next(
                     (x for x in (os.path.basename(dp), os.path.basename(os.path.dirname(dp)))
                      if x.upper() not in generic), os.path.basename(dp))
-                dest = os.path.join(G, name, 'MECHANICAL' if cad else 'SCHEMATICS', 'ACAD' if cad else 'ORCAD', label)
+                dest = os.path.join(wbs_home.repo_dir(name), 'MECHANICAL' if cad else 'SCHEMATICS', 'ACAD' if cad else 'ORCAD', label)
                 if dry:
                     log.append((os.path.relpath(path, G), os.path.relpath(dest, G)))
                 else:
@@ -332,7 +335,7 @@ def repo_name(n, e):
 
 
 def readme(n, e, name):
-    rel = os.path.relpath(TOP, os.path.join(G, name))
+    rel = os.path.relpath(TOP, wbs_home.repo_dir(name))
     lines = [f'# SA14-{n}' + (f' · {e["title"]}' if e['title'] else ''), '',
              f'Ward-Beck Systems sub-assembly SA14-{n}' + (f', {", ".join(sorted(e["years"]))}' if e['years'] else '') +
              '. A circuit-board assembly used inside modules and products; issues A, B … are kept here together.', '']
@@ -342,7 +345,7 @@ def readme(n, e, name):
             'MECHANICAL': 'board outlines, brackets, assemblies',
             'KICAD': 'the board files converted to KiCad (one folder per board issue), top and bottom renders',
             'MANUALS': 'parts lists, manual pages', 'PHOTOS': 'photographs of the board', 'OCR': 'the note of every file'}
-    here = os.path.join(G, name)
+    here = wbs_home.repo_dir(name)
     full = [k for k in KINDS if os.path.isdir(os.path.join(here, k)) and any(os.scandir(os.path.join(here, k)))]
     if full:   # only the folders that hold something
         lines += ['| Folder | What is in it |', '|---|---|'] + [f'| [{k}/]({k}/) | {what[k]} |' for k in full] + ['']
@@ -377,11 +380,11 @@ def main():
         print(f'{name:60} used {",".join(sorted(e["used"]))[:40]:40} boards {len(e["boards"])} orcad {len(e["orcad"])} drawings {len(e["drawings"])}')
         if dry:
             continue
-        d = os.path.join(G, name)
-        old = [x for x in os.listdir(G) if x.startswith(f'SUBASSEMBLY.SA14-{n}') and x != name and
+        d = wbs_home.repo_dir(name)
+        old = [x for x in wbs_home.repos() if x.startswith(f'SUBASSEMBLY.SA14-{n}') and x != name and
                re.match(rf'SUBASSEMBLY\.SA14-{n}(?:-|$)', x)]
         for o in old:   # renamed since the last run (a better title)
-            os.rename(os.path.join(G, o), d) if not os.path.exists(d) else None
+            os.rename(wbs_home.repo_dir(o), d) if not os.path.exists(d) else None
         os.makedirs(d, exist_ok=True)   # kind folders only when something goes in them (no empty folders)
         open(os.path.join(d, 'README.md'), 'w', encoding='utf-8').write(readme(n, e, name))
         if gi and not os.path.exists(os.path.join(d, '.gitignore')):

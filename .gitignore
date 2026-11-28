@@ -112,23 +112,34 @@ site/
 .vscode/
 
 
-# local clones of every WardBeckSystems repo: the one local copy. Registered ones are submodules (un-ignored below);
-# the rest stay ignored until they are registered (tools/move_submodules_home.py)
+# local clones of every WardBeckSystems repo: the one local copy, names repeated ten or more times in a folder
+# (tools/wbs_home.py, tools/nest_home.py). Registered ones are submodules; private clones stay ignored.
 /WBSps.ca/Github.WardBeckSystems/*
-!/WBSps.ca/Github.WardBeckSystems/MODULES.*
-!/WBSps.ca/Github.WardBeckSystems/Premote.WBSps.ca
-!/WBSps.ca/Github.WardBeckSystems/Console
-!/WBSps.ca/Github.WardBeckSystems/Intercom
-!/WBSps.ca/Github.WardBeckSystems/CONSOLE.*
-!/WBSps.ca/Github.WardBeckSystems/INTERCOM.*
-!/WBSps.ca/Github.WardBeckSystems/Microcom-Simulator
-!/WBSps.ca/Github.WardBeckSystems/Ward-Beck-VST-Plugins
-!/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY.*
-!/WBSps.ca/Github.WardBeckSystems/Transformers
+!/WBSps.ca/Github.WardBeckSystems/CONSOLE/
+!/WBSps.ca/Github.WardBeckSystems/INTERCOM/
+!/WBSps.ca/Github.WardBeckSystems/MODULES/
+!/WBSps.ca/Github.WardBeckSystems/PRODUCTS/
+!/WBSps.ca/Github.WardBeckSystems/SUBASSEMBLY/
 !/WBSps.ca/Github.WardBeckSystems/ADVERTISEMENTS
-!/WBSps.ca/Github.WardBeckSystems/PRODUCTS.PODS
-!/WBSps.ca/Github.WardBeckSystems/PRODUCTS.D2000
-!/WBSps.ca/Github.WardBeckSystems/PRODUCTS.D8212F
+!/WBSps.ca/Github.WardBeckSystems/Microcom-Simulator
+!/WBSps.ca/Github.WardBeckSystems/Premote.WBSps.ca
+!/WBSps.ca/Github.WardBeckSystems/Transformers
+!/WBSps.ca/Github.WardBeckSystems/Ward-Beck-VST-Plugins
+# private clones inside the family folders (never submodules: they break the Pages build)
+/WBSps.ca/Github.WardBeckSystems/PRODUCTS/PRODUCTS.32ME/
+/WBSps.ca/Github.WardBeckSystems/PRODUCTS/PRODUCTS.AMS/
+/WBSps.ca/Github.WardBeckSystems/PRODUCTS/PRODUCTS.AMX/
+/WBSps.ca/Github.WardBeckSystems/PRODUCTS/PRODUCTS.BITBUDDY/
+/WBSps.ca/Github.WardBeckSystems/PRODUCTS/PRODUCTS.BigVU/
+/WBSps.ca/Github.WardBeckSystems/PRODUCTS/PRODUCTS.DEMUX4/
+/WBSps.ca/Github.WardBeckSystems/PRODUCTS/PRODUCTS.IMP/
+/WBSps.ca/Github.WardBeckSystems/PRODUCTS/PRODUCTS.MF8200/
+/WBSps.ca/Github.WardBeckSystems/PRODUCTS/PRODUCTS.MICRO/
+/WBSps.ca/Github.WardBeckSystems/PRODUCTS/PRODUCTS.MLC/
+/WBSps.ca/Github.WardBeckSystems/PRODUCTS/PRODUCTS.MP-8100/
+/WBSps.ca/Github.WardBeckSystems/PRODUCTS/PRODUCTS.OPENGEAR/
+/WBSps.ca/Github.WardBeckSystems/PRODUCTS/PRODUCTS.QTP/
+
 
 # 7 GB of recovered drives, distributed to repos by hand
 hard drive recovery/

@@ -6,11 +6,13 @@ it). The originals stay in the H drive copy.   python3 tools/place_wp_manuals.py
 """
 import os, shutil, subprocess, sys, tempfile
 
+import wbs_home
+
 TOP = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 G = os.path.join(TOP, 'WBSps.ca', 'Github.WardBeckSystems')
-SRC = os.path.join(G, 'ENGINEERING.RD-H-Drive', 'Word Perfect Manuals')
+SRC = os.path.join(wbs_home.repo_dir('ENGINEERING.RD-H-Drive'), 'Word Perfect Manuals')
 DOCS = 'DOCUMENTS/Manuals + tech DOCUMENTS/Products'
-SA = lambda n: next(d for d in os.listdir(G) if d == f'SUBASSEMBLY.SA14-{n}' or d.startswith(f'SUBASSEMBLY.SA14-{n}-'))
+SA = lambda n: next(d for d in sorted(wbs_home.repos()) if d == f'SUBASSEMBLY.SA14-{n}' or d.startswith(f'SUBASSEMBLY.SA14-{n}-'))
 M7880H = 'MODULES.COMMUNICATION.M7880H-Intercom-Module'
 M7000 = 'MODULES.COMMUNICATION.M7000-7000-Series-Intercom'
 M445 = 'MODULES.METER.M445-Extended-Range-Meter'
@@ -62,7 +64,8 @@ def main():
         stem = f'{year} - {code} - {title}'
         pdf = os.path.join(tmp, os.path.splitext(f)[0] + '.pdf')
         for h in homes:
-            d = os.path.join(G, h) if h.startswith('DOCUMENTS/') else os.path.join(G, h, 'MANUALS')
+            d = (os.path.join(wbs_home.repo_dir('DOCUMENTS'), h.split('/', 1)[1]) if h.startswith('DOCUMENTS/')
+                 else os.path.join(wbs_home.repo_dir(h), 'MANUALS'))   # each repo wherever its folder is
             out.append(os.path.join(d, stem + '.pdf'))
             out.append(os.path.join(d, stem + '.wp'))
             print(f'{f:18} -> {os.path.relpath(d, G)}/{stem}.pdf')

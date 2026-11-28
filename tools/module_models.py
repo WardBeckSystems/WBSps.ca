@@ -38,8 +38,10 @@ import cv2
 import numpy as np
 from PIL import Image
 
+import wbs_home
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-CLONES = os.path.join(ROOT, 'WBSps.ca', 'Github.WardBeckSystems')
+CLONES = wbs_home.HOME
 SITE = os.path.join(ROOT, '2026', '_catalog', 'models')
 OWNER = 'WardBeckSystems'
 DRAWN = {'cad', 'traced', 'layout', 'drawing'}
@@ -374,7 +376,7 @@ def main():
     want = set(a for a in sys.argv[1:] if not a.startswith('-'))
     os.makedirs(SITE, exist_ok=True)
     index = []
-    for d in sorted(glob.glob(os.path.join(CLONES, 'MODULES.*'))):
+    for d in [d for n, d in sorted(wbs_home.repos().items()) if n.startswith('MODULES.')]:   # wherever each clone is
         code = module_code(os.path.basename(d))
         if want and code not in want:
             continue

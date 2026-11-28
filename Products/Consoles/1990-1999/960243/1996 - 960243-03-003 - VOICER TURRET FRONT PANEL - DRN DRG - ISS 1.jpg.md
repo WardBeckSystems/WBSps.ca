@@ -31,7 +31,7 @@ Wiki page: [Job-960243](../../../../PAGES/Job-960243.md)
 - **Words (OCR):** 53 in 42 lines: 16./10 · 4-Cdo · 7,555 · 15.110 · 0.1M1 +0.00} DiA INSERT FROM THIS · 6,055 · PEV' STUD F4F40 · REQ'0 · 0.2C0 · 8THERcSIDE · DERAM · 0.200
 - **Title block:** (683, 39)–(851, 72) mm: WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1996 - 960243-03-003 - VOICER TURRET FRONT PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.960243/1996%20-%20960243-03-003%20-%20VOICER%20TURRET%20FRONT%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1996 - 960243-03-003 - VOICER TURRET FRONT PANEL - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1996 - 960243-03-003 - VOICER TURRET FRONT PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.960243/1996%20-%20960243-03-003%20-%20VOICER%20TURRET%20FRONT%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1996 - 960243-03-003 - VOICER TURRET FRONT PANEL - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

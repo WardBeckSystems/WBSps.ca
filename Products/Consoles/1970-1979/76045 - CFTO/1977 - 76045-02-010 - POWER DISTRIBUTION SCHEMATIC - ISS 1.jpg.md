@@ -32,7 +32,7 @@ Upside-down power distribution schematic, title block at top left.
 - **Closed boxes:** 48
 - **Wiring (first pass):** 26 connected wire groups from 300 runs
 
-Every curve, box, word and wire group: [1977 - 76045-02-010 - POWER DISTRIBUTION SCHEMATIC - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1977%20-%2076045-02-010%20-%20POWER%20DISTRIBUTION%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1977 - 76045-02-010 - POWER DISTRIBUTION SCHEMATIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 76045-02-010 - POWER DISTRIBUTION SCHEMATIC - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.760045-CFTO/1977%20-%2076045-02-010%20-%20POWER%20DISTRIBUTION%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1977 - 76045-02-010 - POWER DISTRIBUTION SCHEMATIC - ISS 1 (traced).dxf`).
 
 ## Full text
 

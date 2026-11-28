@@ -21,7 +21,7 @@ Wiki page: [Job-880134](../../../../PAGES/Job-880134.md)
 - **Closed boxes:** 21
 - **Wiring (first pass):** 191 connected wire groups from 683 runs
 
-Every curve, box, word and wire group: [1988 - 880134 - 880134-02-007 - SEE POWER DISTRIBUTION CHASSIS LISTS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%20880134-02-007%20-%20SEE%20POWER%20DISTRIBUTION%20CHASSIS%20LISTS%20%28traced%29.json) (the CAD file: `1988 - 880134 - 880134-02-007 - SEE POWER DISTRIBUTION CHASSIS LISTS (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 880134 - 880134-02-007 - SEE POWER DISTRIBUTION CHASSIS LISTS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.880134-CFTO-ST/880134%20-%20CFTO%20ST/1988%20-%20880134%20-%20880134-02-007%20-%20SEE%20POWER%20DISTRIBUTION%20CHASSIS%20LISTS%20%28traced%29.json) (the CAD file: `1988 - 880134 - 880134-02-007 - SEE POWER DISTRIBUTION CHASSIS LISTS (traced).dxf`).
 
 ## Full text
 

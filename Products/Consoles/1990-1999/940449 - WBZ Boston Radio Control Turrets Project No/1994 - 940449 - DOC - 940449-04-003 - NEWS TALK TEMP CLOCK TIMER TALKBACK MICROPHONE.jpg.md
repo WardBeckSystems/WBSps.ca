@@ -23,7 +23,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 31 in 30 lines: TEMP · CLOCK · TIMER · TALKBACK · MICR OPHONE · COUGH · NEWS · C/R · TEMP · CLOCK · TIMER · TALKBACK
 - **Title block:** (322, 6)–(420, 44) mm: WBS · WARD-BECK SYSTEMS · DRN: · NEWS  TURRET · WBZ · YOUT · SCALE DISC_KD: · 940449- · 04-003 · SSUE · CCDE: 94449L03
 
-Every curve, box, word and wire group: [1994 - 940449 - DOC - 940449-04-003 - NEWS TALK TEMP CLOCK TIMER TALKBACK MICROPHONE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940449-WBZ-Boston-Radio-Control-Turrets-Project-No/940449%20-%20WBZ%20Boston%20Radio%20Control%20Turrets%20Project%20No/1994%20-%20940449%20-%20DOC%20-%20940449-04-003%20-%20NEWS%20TALK%20TEMP%20CLOCK%20TIMER%20TALKBACK%20MICROPHONE%20%28traced%29.json) (the CAD file: `1994 - 940449 - DOC - 940449-04-003 - NEWS TALK TEMP CLOCK TIMER TALKBACK MICROPHONE (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940449 - DOC - 940449-04-003 - NEWS TALK TEMP CLOCK TIMER TALKBACK MICROPHONE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.940449-WBZ-Boston-Radio-Control-Turrets-Project-No/940449%20-%20WBZ%20Boston%20Radio%20Control%20Turrets%20Project%20No/1994%20-%20940449%20-%20DOC%20-%20940449-04-003%20-%20NEWS%20TALK%20TEMP%20CLOCK%20TIMER%20TALKBACK%20MICROPHONE%20%28traced%29.json) (the CAD file: `1994 - 940449 - DOC - 940449-04-003 - NEWS TALK TEMP CLOCK TIMER TALKBACK MICROPHONE (traced).dxf`).
 
 ## Full text
 

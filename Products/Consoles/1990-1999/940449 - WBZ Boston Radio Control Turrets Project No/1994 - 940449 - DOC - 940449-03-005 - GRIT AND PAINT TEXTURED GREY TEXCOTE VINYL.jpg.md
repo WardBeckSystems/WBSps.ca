@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 27 in 23 lines: 0,OBO · 440_1 · OTHFR SDE · PITCHES 7.505 15 |10 · Rzo d · 0z00 · 0,680 · PITCHES · MATERIAL: · ALUM ALLOY 0.125 THICK · WBS · WARD-BECK SYSTEMS
 - **Title block:** (344, 22)–(428, 38) mm: WBS · WARD-BECK SYSTEMS · CaC ?/95)
 
-Every curve, box, word and wire group: [1994 - 940449 - DOC - 940449-03-005 - GRIT AND PAINT TEXTURED GREY TEXCOTE VINYL (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940449-WBZ-Boston-Radio-Control-Turrets-Project-No/940449%20-%20WBZ%20Boston%20Radio%20Control%20Turrets%20Project%20No/1994%20-%20940449%20-%20DOC%20-%20940449-03-005%20-%20GRIT%20AND%20PAINT%20TEXTURED%20GREY%20TEXCOTE%20VINYL%20%28traced%29.json) (the CAD file: `1994 - 940449 - DOC - 940449-03-005 - GRIT AND PAINT TEXTURED GREY TEXCOTE VINYL (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940449 - DOC - 940449-03-005 - GRIT AND PAINT TEXTURED GREY TEXCOTE VINYL (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.940449-WBZ-Boston-Radio-Control-Turrets-Project-No/940449%20-%20WBZ%20Boston%20Radio%20Control%20Turrets%20Project%20No/1994%20-%20940449%20-%20DOC%20-%20940449-03-005%20-%20GRIT%20AND%20PAINT%20TEXTURED%20GREY%20TEXCOTE%20VINYL%20%28traced%29.json) (the CAD file: `1994 - 940449 - DOC - 940449-03-005 - GRIT AND PAINT TEXTURED GREY TEXCOTE VINYL (traced).dxf`).
 
 ## Full text
 

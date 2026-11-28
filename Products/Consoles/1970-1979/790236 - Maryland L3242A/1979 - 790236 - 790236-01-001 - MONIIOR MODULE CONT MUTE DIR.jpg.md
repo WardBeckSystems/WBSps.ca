@@ -20,7 +20,7 @@ Wiki page: [Job-790236](../../../../PAGES/Job-790236.md)
 - **Closed boxes:** 15
 - **Wiring (first pass):** 80 connected wire groups from 569 runs
 
-Every curve, box, word and wire group: [1979 - 790236 - 790236-01-001 - MONIIOR MODULE CONT MUTE DIR (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-01-001%20-%20MONIIOR%20MODULE%20CONT%20MUTE%20DIR%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-01-001 - MONIIOR MODULE CONT MUTE DIR (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 790236 - 790236-01-001 - MONIIOR MODULE CONT MUTE DIR (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.790236-Maryland-L3242A/1979%20-%20790236%20-%20790236-01-001%20-%20MONIIOR%20MODULE%20CONT%20MUTE%20DIR%20%28traced%29.json) (the CAD file: `1979 - 790236 - 790236-01-001 - MONIIOR MODULE CONT MUTE DIR (traced).dxf`).
 
 ## Full text
 

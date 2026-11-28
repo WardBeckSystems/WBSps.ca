@@ -24,7 +24,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 36 in 29 lines: Optiohal · JAcKFIELD · LOUALITERS · JaCKS · SELECTORS · 4477 · ANCILLARY Hooules (O) · optiohal PATCHADLE · AASTLR · EQ/FLTR · Input HOOULES (Z0) · Hohitor
 - **Title block:** (328, 5)–(432, 36) mm: WBS WAAD-Drck · LTD · DATE · WBS L2042 CONSOLE · cKD. DAL · AUDIO CONSOLE · scLE
 
-Every curve, box, word and wire group: [1977 - 77012 - DOC - 77012-04-002 - FOR HOTION CONTROL MOD ICKDJ USED (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.770012-04-002-L2042-layout-iss-5/1977%20-%2077012%20-%20DOC%20-%2077012-04-002%20-%20FOR%20HOTION%20CONTROL%20MOD%20ICKDJ%20USED%20%28traced%29.json) (the CAD file: `1977 - 77012 - DOC - 77012-04-002 - FOR HOTION CONTROL MOD ICKDJ USED (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 77012 - DOC - 77012-04-002 - FOR HOTION CONTROL MOD ICKDJ USED (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.770012-04-002-L2042-layout-iss-5/1977%20-%2077012%20-%20DOC%20-%2077012-04-002%20-%20FOR%20HOTION%20CONTROL%20MOD%20ICKDJ%20USED%20%28traced%29.json) (the CAD file: `1977 - 77012 - DOC - 77012-04-002 - FOR HOTION CONTROL MOD ICKDJ USED (traced).dxf`).
 
 ## Full text
 

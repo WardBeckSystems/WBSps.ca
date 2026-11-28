@@ -24,7 +24,7 @@ Wiki page: [Job-78050](../../../../PAGES/Job-78050.md)
 - **Title block:** (355, 0)–(432, 36) mm: ISSUE @amt · REVisiOH · WBS WARD-BECK SYSTEMS · DRM: SRH · ENG · WBS L2042A CONSOLE · CKD; · FUNCTIONAL DIAGRAM · APP · SCALE · 78050 01 001 · ISSUE
 - **Wiring (first pass):** 124 connected wire groups from 510 runs; labelled ends: 767 mm → ~adb ', Summing, BUS, ChAN; 99 mm → MASTER, ATTEMuatoRI, Mon, JdBm; 82 mm → SELECTOR], HohItOR; 75 mm → AtoR, (cldk); 72 mm → 441z
 
-Every curve, box, word and wire group: [1978 - 78050 - 78050-01-001 - TADBTUI OUT NLEEL HDAN LONOR MOOWLF CONT HUTE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.780050-04-002-L2042A-layout/1978%20-%2078050%20-%2078050-01-001%20-%20TADBTUI%20OUT%20NLEEL%20HDAN%20LONOR%20MOOWLF%20CONT%20HUTE%20%28traced%29.json) (the CAD file: `1978 - 78050 - 78050-01-001 - TADBTUI OUT NLEEL HDAN LONOR MOOWLF CONT HUTE (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 78050 - 78050-01-001 - TADBTUI OUT NLEEL HDAN LONOR MOOWLF CONT HUTE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.780050-04-002-L2042A-layout/1978%20-%2078050%20-%2078050-01-001%20-%20TADBTUI%20OUT%20NLEEL%20HDAN%20LONOR%20MOOWLF%20CONT%20HUTE%20%28traced%29.json) (the CAD file: `1978 - 78050 - 78050-01-001 - TADBTUI OUT NLEEL HDAN LONOR MOOWLF CONT HUTE (traced).dxf`).
 
 ## Full text
 

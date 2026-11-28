@@ -19,7 +19,7 @@ Wiki page: [Job-76045](../../../../PAGES/Job-76045.md)
 - **Words (OCR):** 65 in 42 lines: LINE · Preselectors YaTR E · Assicamni · MODULES Knaom · 4-L/C AND · METERS W6ie · Mag6m · CHANNEL EQUALIZERS · EQUALIZERS FILTERS · JAcKFIELD · AuX MODULES M4ss · PFLACME AMPLINIER NsJ
 - **Title block:** (284, 4)–(408, 34) mm: USS Modackd: · USED · MATL · WBS WAAD-BECK bystems LTD · DRN: · DATE FEB · 28/4/2 TELEViSION AUDIO CONSOLE · FINISH · CKD · OUTLINE · SCALE 4 ' 10 · TOLS · 76 0 45 · 0 4 - 0 0
 
-Every curve, box, word and wire group: [1976 - 76045 - 7645-04-002 - TELEVISION AUDIO CONSOLE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.760045-CFTO/1976%20-%2076045%20-%207645-04-002%20-%20TELEVISION%20AUDIO%20CONSOLE%20%28traced%29.json) (the CAD file: `1976 - 76045 - 7645-04-002 - TELEVISION AUDIO CONSOLE (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 76045 - 7645-04-002 - TELEVISION AUDIO CONSOLE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.760045-CFTO/1976%20-%2076045%20-%207645-04-002%20-%20TELEVISION%20AUDIO%20CONSOLE%20%28traced%29.json) (the CAD file: `1976 - 76045 - 7645-04-002 - TELEVISION AUDIO CONSOLE (traced).dxf`).
 
 ## Full text
 

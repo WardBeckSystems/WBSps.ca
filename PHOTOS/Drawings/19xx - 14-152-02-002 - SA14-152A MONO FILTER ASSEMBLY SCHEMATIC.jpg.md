@@ -1,5 +1,5 @@
 # 19xx - 14-152-02-002 - SA14-152A MONO FILTER ASSEMBLY SCHEMATIC.jpg
-Wiki page: [M522B](../../WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M522B-Equalizer-Module/)
+Wiki page: [M522B](../../WBSps.ca/Github.WardBeckSystems/MODULES/FILTERS/MODULES.FILTERS.M522B-Equalizer-Module/)
 
 
 - **Year:** unknown (title block (read by eye))

@@ -15,24 +15,24 @@ tags: ["project", "1990s"]
 | Files | 69 |
 | Job number | none found yet |
 | Folder | [DOCUMENTS/XXX - REN TV Console-20221115T024141Z-001/REN TV Console](../DOCUMENTS/XXX%20-%20REN%20TV%20Console-20221115T024141Z-001/REN%20TV%20Console/) |
-| Folder | [Modules/FILTERS/M922](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M922-Equalizer-Module/) |
-| Folder | [Modules/UNSORTED/M920](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M920/) |
+| Folder | [Modules/FILTERS/M922](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M922-Equalizer-Module/) |
+| Folder | [Modules/UNSORTED/M920](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M920/) |
 
 ## Modules
 
-- [M920](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M920/) _(UNSORTED)_
-- [M921](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M921/) _(UNSORTED)_
-- [M922](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M922-Equalizer-Module/) — Mono Equalizer _(FILTERS)_
-- [M923](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923/) _(UNSORTED)_
-- [M923A](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923/) _(UNSORTED)_
-- [M923B](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923/) _(UNSORTED)_
-- [M923C](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923/) _(UNSORTED)_
-- [M923D](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923/) _(UNSORTED)_
-- [M923E](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923/) _(UNSORTED)_
-- [M923F](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923/) _(UNSORTED)_
-- [M923H](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M923/) _(UNSORTED)_
-- [M926](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M926/) _(UNSORTED)_
-- [M927](../WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M927/) _(UNSORTED)_
+- [M920](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M920/) _(UNSORTED)_
+- [M921](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M921/) _(UNSORTED)_
+- [M922](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M922-Equalizer-Module/) — Mono Equalizer _(FILTERS)_
+- [M923](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M923/) _(UNSORTED)_
+- [M923A](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M923/) _(UNSORTED)_
+- [M923B](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M923/) _(UNSORTED)_
+- [M923C](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M923/) _(UNSORTED)_
+- [M923D](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M923/) _(UNSORTED)_
+- [M923E](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M923/) _(UNSORTED)_
+- [M923F](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M923/) _(UNSORTED)_
+- [M923H](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M923/) _(UNSORTED)_
+- [M926](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M926/) _(UNSORTED)_
+- [M927](../WBSps.ca/Github.WardBeckSystems/MODULES/RENAISSANCE/MODULES.RENAISSANCE.M927/) _(UNSORTED)_
 
 ## Drawings (1)
 

@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (341, 24)–(426, 41) mm: ISSVE · WBS · WARD-BECK SYSTEMS · TCN 9 STUDIO
 - **Wiring (first pass):** 101 connected wire groups from 5,938 runs, 1291 dotted junctions; labelled ends: 12736 mm → 00; 268 mm → 00, 38, 97, 3 3 3 3 3 &; 84 mm → WBS, SCALF, INTERCOM_FUNCTIONAL, 95020-01; 36 mm → 3 3 3 3 3 &; 28 mm → 38, 97
 
-Every curve, box, word and wire group: [1995 - 95020 - DOC - 95020-01-002 - FUTURE IPHSI FUTURE MATRIX CUTPUTS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM.950020/1995%20-%2095020%20-%20DOC%20-%2095020-01-002%20-%20FUTURE%20IPHSI%20FUTURE%20MATRIX%20CUTPUTS%20%28traced%29.json) (the CAD file: `1995 - 95020 - DOC - 95020-01-002 - FUTURE IPHSI FUTURE MATRIX CUTPUTS (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 95020 - DOC - 95020-01-002 - FUTURE IPHSI FUTURE MATRIX CUTPUTS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/INTERCOM/INTERCOM.950020/1995%20-%2095020%20-%20DOC%20-%2095020-01-002%20-%20FUTURE%20IPHSI%20FUTURE%20MATRIX%20CUTPUTS%20%28traced%29.json) (the CAD file: `1995 - 95020 - DOC - 95020-01-002 - FUTURE IPHSI FUTURE MATRIX CUTPUTS (traced).dxf`).
 
 ## Full text
 

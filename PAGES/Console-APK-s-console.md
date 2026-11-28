@@ -28,7 +28,7 @@ _It carries on each time it is re-homed._
 
 ## Modules in it
 
-[M436L](../WBSps.ca/Github.WardBeckSystems/MODULES.METER.M436L-VU-Meter/)
+[M436L](../WBSps.ca/Github.WardBeckSystems/MODULES/METER/MODULES.METER.M436L-VU-Meter/)
 
 ## Photos & documents (654)
 

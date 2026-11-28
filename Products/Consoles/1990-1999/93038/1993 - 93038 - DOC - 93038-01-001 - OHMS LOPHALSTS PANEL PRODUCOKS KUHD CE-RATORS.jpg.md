@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (341, 14)–(426, 32) mm: WARD-BECK  SYSTEMS · WBS · CBC MONTREAL · NEWS
 - **Wiring (first pass):** 109 connected wire groups from 5,701 runs, 1068 dotted junctions; labelled ends: 9 mm → LFGEND, CROSSPMNT; 8 mm → WBS, COMPLEX, INTERCOM_FUNCTIONAL; 6 mm → 48x48 MicroCOM, INTERCOM_FUNCTIONAL, 93038-01-001; 5 mm → COMPLEX, INTERCOM_FUNCTIONAL, 93038-01-001
 
-Every curve, box, word and wire group: [1993 - 93038 - DOC - 93038-01-001 - OHMS LOPHALSTS PANEL PRODUCOKS KUHD CE-RATORS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.930038/1993%20-%2093038%20-%20DOC%20-%2093038-01-001%20-%20OHMS%20LOPHALSTS%20PANEL%20PRODUCOKS%20KUHD%20CE-RATORS%20%28traced%29.json) (the CAD file: `1993 - 93038 - DOC - 93038-01-001 - OHMS LOPHALSTS PANEL PRODUCOKS KUHD CE-RATORS (traced).dxf`).
+Every curve, box, word and wire group: [1993 - 93038 - DOC - 93038-01-001 - OHMS LOPHALSTS PANEL PRODUCOKS KUHD CE-RATORS (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.930038/1993%20-%2093038%20-%20DOC%20-%2093038-01-001%20-%20OHMS%20LOPHALSTS%20PANEL%20PRODUCOKS%20KUHD%20CE-RATORS%20%28traced%29.json) (the CAD file: `1993 - 93038 - DOC - 93038-01-001 - OHMS LOPHALSTS PANEL PRODUCOKS KUHD CE-RATORS (traced).dxf`).
 
 ## Full text
 

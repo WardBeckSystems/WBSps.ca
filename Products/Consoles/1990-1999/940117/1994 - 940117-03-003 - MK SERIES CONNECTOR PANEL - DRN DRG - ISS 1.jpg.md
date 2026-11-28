@@ -31,7 +31,7 @@ Wiki page: [Job-940117](../../../../PAGES/Job-940117.md)
 - **Words (OCR):** 33 in 29 lines: CETAIL · J 9E0 · DETAIL · DETAL · REC D · REOOCORDNGLY · DUTCHE' · MATERIAL: CR.S: 0.059 ThICK · 0.386 · 0 JEO · FINISH: · SAND 120 Grit AND PAINT
 - **Title block:** (685, 46)–(854, 79) mm: salct · REYSOY · WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1994 - 940117-03-003 - MK SERIES CONNECTOR PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.940117/1994%20-%20940117-03-003%20-%20MK%20SERIES%20CONNECTOR%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940117-03-003 - MK SERIES CONNECTOR PANEL - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 940117-03-003 - MK SERIES CONNECTOR PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.940117/1994%20-%20940117-03-003%20-%20MK%20SERIES%20CONNECTOR%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1994 - 940117-03-003 - MK SERIES CONNECTOR PANEL - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

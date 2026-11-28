@@ -29,7 +29,7 @@ Wiki page: [Job-77024](../../../../PAGES/Job-77024.md)
 - **Circles and arcs:** 10 circles, 0 arcs; largest r 2.5 @ (373.1, 45.5), r 2.5 @ (407.3, 46.0), r 2.5 @ (412.2, 46.0), r 2.5 @ (383.1, 45.6)
 - **Closed boxes:** 8
 
-Every curve, box, word and wire group: [1978 - 77024-04-004 - RADIO CONSOLE DESK CUTOUT DETAIL - DRN GEB - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.770024/1978%20-%2077024-04-004%20-%20RADIO%20CONSOLE%20DESK%20CUTOUT%20DETAIL%20-%20DRN%20GEB%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1978 - 77024-04-004 - RADIO CONSOLE DESK CUTOUT DETAIL - DRN GEB - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 77024-04-004 - RADIO CONSOLE DESK CUTOUT DETAIL - DRN GEB - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.770024/1978%20-%2077024-04-004%20-%20RADIO%20CONSOLE%20DESK%20CUTOUT%20DETAIL%20-%20DRN%20GEB%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1978 - 77024-04-004 - RADIO CONSOLE DESK CUTOUT DETAIL - DRN GEB - ISS 1 (traced).dxf`).
 
 ## Full text
 

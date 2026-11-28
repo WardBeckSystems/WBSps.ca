@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 34 in 33 lines: Ract · 0,500 · DATUM · DAMUU · DEREM · 5.14z · Sieoj · PUNCE · PUNC · DETAIL · F40sz RAOS) · DETAIL
 - **Title block:** (339, 19)–(424, 36) mm: RCMSICH · WARD-BECK  SYSTEMS · WBS
 
-Every curve, box, word and wire group: [1995 - 950190 - DOC - 950190-08-001 - FOR SILKSCREEN ARTWORK SEE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.950190/1995%20-%20950190%20-%20DOC%20-%20950190-08-001%20-%20FOR%20SILKSCREEN%20ARTWORK%20SEE%20%28traced%29.json) (the CAD file: `1995 - 950190 - DOC - 950190-08-001 - FOR SILKSCREEN ARTWORK SEE (traced).dxf`).
+Every curve, box, word and wire group: [1995 - 950190 - DOC - 950190-08-001 - FOR SILKSCREEN ARTWORK SEE (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.950190/1995%20-%20950190%20-%20DOC%20-%20950190-08-001%20-%20FOR%20SILKSCREEN%20ARTWORK%20SEE%20%28traced%29.json) (the CAD file: `1995 - 950190 - DOC - 950190-08-001 - FOR SILKSCREEN ARTWORK SEE (traced).dxf`).
 
 ## Full text
 

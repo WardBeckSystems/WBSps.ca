@@ -31,7 +31,7 @@ Wiki page: [Job-960296](../../../../PAGES/Job-960296.md)
 - **Words (OCR):** 42 in 39 lines: 17.10 · 0,173 · OTHFR <JF · INSERT · "PEV" 440-| · PCHES · 0,690 · 03p · 1194 · 1 194 · 2.767 · JANE
 - **Title block:** (661, 0)–(836, 73) mm: ISSUE DALEL · REASC · WBS · WARD-BECK   SYSTEMS · PROGRAM  SELECTOR · PANEL · SCALE DISC NO · 960296-03-005
 
-Every curve, box, word and wire group: [1996 - 960296-03-005 - PROGRAM SELECTOR PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.960296-CBC-REGINA/960296/1996%20-%20960296-03-005%20-%20PROGRAM%20SELECTOR%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1996 - 960296-03-005 - PROGRAM SELECTOR PANEL - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1996 - 960296-03-005 - PROGRAM SELECTOR PANEL - DRN DRG - ISS 1 (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.960296-CBC-REGINA/960296/1996%20-%20960296-03-005%20-%20PROGRAM%20SELECTOR%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1996 - 960296-03-005 - PROGRAM SELECTOR PANEL - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

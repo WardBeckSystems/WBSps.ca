@@ -12,6 +12,8 @@ paths). --rm: git rm the source folder in its R&D repo once every file in it is 
 import hashlib, os, re, shutil, subprocess, sys
 from collections import defaultdict
 
+import wbs_home
+
 TOP = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 HOME = os.path.join(TOP, 'WBSps.ca', 'Github.WardBeckSystems')
 H = 'ENGINEERING.RD-H-Drive'
@@ -79,6 +81,12 @@ RM = {   # folders removed from the R&D repo once all their rules are clean
 }
 
 
+def at(path):
+    """'<repo>/<path in it>' -> the absolute path, the repo's clone wherever its family folder is."""
+    repo, _, rest = path.partition('/')
+    return os.path.join(wbs_home.repo_dir(repo), rest) if rest else wbs_home.repo_dir(repo)
+
+
 def md5(p):
     h = hashlib.md5()
     with open(p, 'rb') as fh:
@@ -101,14 +109,14 @@ def main():
 
     def repo_hashes(repo):
         if repo not in hashes:
-            d = os.path.join(HOME, repo)
+            d = wbs_home.repo_dir(repo)
             hashes[repo] = {md5(os.path.join(d, f)) for f in git(d, 'ls-files', '-z').split('\0') if f and os.path.isfile(os.path.join(d, f))}
         return hashes[repo]
 
     copies, clean = defaultdict(list), {}
     for name in names:
         src, rule = RULES[name]
-        sd = os.path.join(HOME, src)
+        sd = at(src)
         n = dup = 0
         clash = []
         for r, ds, fs in os.walk(sd):
@@ -124,7 +132,7 @@ def main():
                 p = os.path.join(r, f)
                 if md5(p) in repo_hashes(repo):
                     dup += 1; continue
-                out = os.path.join(HOME, repo, dest)
+                out = os.path.join(wbs_home.repo_dir(repo), dest)
                 if os.path.exists(out):
                     clash.append(f'{repo}/{dest}'); continue
                 copies[repo].append((p, dest)); n += 1
@@ -133,7 +141,7 @@ def main():
         for c in clash:
             print('   CLASH', c)
     for repo, items in copies.items():
-        d = os.path.join(HOME, repo)
+        d = wbs_home.repo_dir(repo)
         print(f'{repo}: {len(items)} files' + (' (dry run)' if dry else ''))
         if dry:
             continue
@@ -159,8 +167,8 @@ def main():
                 print(f'not removing {folder}: not every rule ran clean'); continue
             repo = folder.split('/')[0]
             rel = folder[len(repo) + 1:]
-            git(os.path.join(HOME, repo), 'rm', '-r', '-q', '--', rel)
-            git(os.path.join(HOME, repo), 'commit', '-qm', f'{rel}: sorted into its repos (tools/sort_rd_drive.py in WBSps.ca){TRAILER}', '--', rel)
+            git(wbs_home.repo_dir(repo), 'rm', '-r', '-q', '--', rel)
+            git(wbs_home.repo_dir(repo), 'commit', '-qm', f'{rel}: sorted into its repos (tools/sort_rd_drive.py in WBSps.ca){TRAILER}', '--', rel)
             print(f'removed {folder} (committed in {repo}, not pushed)')
 
 

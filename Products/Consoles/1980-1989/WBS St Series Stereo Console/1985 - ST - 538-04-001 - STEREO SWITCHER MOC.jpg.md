@@ -19,7 +19,7 @@ Wiki page: [Consoles](../../../../PAGES/Consoles.md)
 - **Words (OCR):** 18 in 14 lines: WBS · REVISION · ISSUE DATE · WBS WAAD-BECK sybten · DRN.BD · M538 · ENG_ · KICW 8X1 STEREO SWITCHER MOD · CKd · FRONT PANEL LAYOUT · App · SCALE
 - **Title block:** (5, 8)–(159, 427) mm: WBS · REVISION · ISSUE DATE · WBS WAAD-BECK sybten · DRN.BD · M538 · ENG_ · KICW 8X1 STEREO SWITCHER MOD · CKd · FRONT PANEL LAYOUT · App · SCALE · 538-04-001
 
-Every curve, box, word and wire group: [1985 - ST - 538-04-001 - STEREO SWITCHER MOC (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE.WBS-St-Series-Stereo-Console/1985%20-%20ST%20-%20538-04-001%20-%20STEREO%20SWITCHER%20MOC%20%28traced%29.json) (the CAD file: `1985 - ST - 538-04-001 - STEREO SWITCHER MOC (traced).dxf`).
+Every curve, box, word and wire group: [1985 - ST - 538-04-001 - STEREO SWITCHER MOC (traced).json](../../../../WBSps.ca/Github.WardBeckSystems/CONSOLE/CONSOLE.WBS-St-Series-Stereo-Console/1985%20-%20ST%20-%20538-04-001%20-%20STEREO%20SWITCHER%20MOC%20%28traced%29.json) (the CAD file: `1985 - ST - 538-04-001 - STEREO SWITCHER MOC (traced).dxf`).
 
 ## Full text
 
